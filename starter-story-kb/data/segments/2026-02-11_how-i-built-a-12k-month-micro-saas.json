@@ -1,0 +1,94 @@
+{
+ "f": "2026-02-11_how-i-built-a-12k-month-micro-saas",
+ "vid": "W48emwbUlUE",
+ "segments": [
+  {
+   "s": "01:31",
+   "e": "02:19",
+   "nut": ["?"],
+   "moi": "Micro SaaS dạng plugin cắm vào phần mềm có sẵn",
+   "tom": "Plugin Photoshop Bulk Mockup: việc tạo mockup thủ công mất 30-60 phút rút còn 2 phút, khách tự tìm qua YouTube rồi trả phí hàng tháng, dashboard Gumroad cho thấy đều đặn $12-13K/tháng suốt năm qua",
+   "kq": "$12–13K/tháng"
+  },
+  {
+   "s": "02:19",
+   "e": "03:24",
+   "nut": ["2.1"],
+   "tom": "Nhận job Photoshop trên Upwork, gặp yêu cầu tự động hoá không biết làm nên học JavaScript trong một ngày qua Stack Overflow và viết xong script ngay đêm đó; job sau 1.800 mockup khách tưởng mất 3-4 ngày, chạy hết 30 phút và bán luôn $300",
+   "kq": "$300 từ khách đầu tiên, 1.800 mockup trong 30 phút"
+  },
+  {
+   "s": "03:40",
+   "e": "04:27",
+   "nut": ["?"],
+   "moi": "Đi từ script thô bán one-time lên SaaS thuê bao",
+   "tom": "Bản đầu là script thô bán one-time, thấy không phòng thủ được nên nhốt mình 2 tháng làm thành app UI xấu; chưa biết làm license validation nên phải bán lifetime deal vài năm, đủ tiền mới thuê dev trên Upwork làm lại"
+  },
+  {
+   "s": "04:42",
+   "e": "05:12",
+   "nut": ["?"],
+   "moi": "Bánh đà nội dung chạy bằng nỗi đau khách hàng",
+   "tom": "Content flywheel với nhiên liệu là nỗi đau khách: moi pain, làm nội dung quanh đúng pain đó, nội dung kéo khách mới, khách mới lộ ra vấn đề mới rồi lại thành nội dung — không cần video nào viral"
+  },
+  {
+   "s": "05:12",
+   "e": "06:16",
+   "nut": ["3.B2", "4.5"],
+   "tom": "Video 'split design in Photoshop' chỉ 370 view trong 4 tháng nhưng ra 3 khách = $45 MRR; video khác 12.000 view trong 6 tháng chỉ ra $213 — quay thẳng phần giải pháp, bỏ intro và setup đẹp",
+   "kq": "$45 MRR từ một video 370 view"
+  },
+  {
+   "s": "06:47",
+   "e": "07:32",
+   "nut": ["2.5", "3.2"],
+   "tom": "Hai điểm chạm đầu để moi pain: nằm im trong community của khách đọc hội thoại, ghi lại pain lặp đi lặp lại rồi mới bắt chuyện lấy thêm ngữ cảnh và tuyệt đối không bán ở đó; và email onboarding hỏi khách có muốn tutorial riêng không"
+  },
+  {
+   "s": "07:32",
+   "e": "08:35",
+   "nut": ["4.14", "3.2", "2.5"],
+   "tom": "Coi customer support là kênh giáo dục: khách hỏi thì bảo gửi file rồi quay Loom riêng cho họ, có khi gọi trực tiếp — 3 năm gom 1.500 video ghi lại đầy edge case không hiện ở keyword; điểm chạm thứ tư là video ít view nhưng nhiều comment",
+   "kq": "hơn 100 review 5 sao, phần lớn khen support"
+  },
+  {
+   "s": "09:52",
+   "e": "10:54",
+   "nut": ["4.5"],
+   "tom": "Trước khi đăng chạy checklist SEO: blog phải có authority và backlink mới lên top, nhưng video YouTube cùng search intent thì Google xếp hạng ngay — nhét keyword vào title, description và 30 giây đầu của transcript",
+   "kq": "22% view của kênh đến từ Google search"
+  },
+  {
+   "s": "11:41",
+   "e": "12:41",
+   "nut": ["2.10"],
+   "tom": "Demo thật: 5 template x 10 design = 50 mockup, làm tay mất 30-40 phút, plugin chạy xong trong khoảng 1 phút — bộ lọc ý tưởng rút gọn thành: công cụ có làm ra tiền, tiết kiệm tiền hay tiết kiệm thời gian cho khách không"
+  },
+  {
+   "s": "12:41",
+   "e": "13:26",
+   "nut": ["?"],
+   "moi": "Stack chi phí thấp cho micro SaaS một người",
+   "tom": "Stack một người: Komodo Decks quay tutorial (lifetime $19 trên AppSumo), BoldDesk $15/tháng quản lý ticket, Senja hiện review, Zoom $20, Adobe $40/tháng, Notion $12/tháng chứa hệ thống nội dung, cal.com $0 đặt lịch"
+  },
+  {
+   "s": "13:42",
+   "e": "14:13",
+   "nut": ["?"],
+   "moi": "Cái giá sức khoẻ của việc cày quá sức",
+   "tom": "Cày 14-16 tiếng mỗi ngày trong nhiều năm dẫn tới ca phẫu thuật cột sống năm ngoái — lời khuyên đầu tiên của founder là đừng đánh đổi sức khoẻ khi đang hustle",
+   "kq": "phẫu thuật cột sống"
+  },
+  {
+   "s": "16:14",
+   "e": "16:44",
+   "nut": ["3.B5"],
+   "tom": "Khái niệm 'pointy feature' hay one-feature app: chỉ làm đúng một việc rất hẹp — plugin Photoshop cho người bán print-on-demand, app convert sao kê ngân hàng — thay vì SaaS ôm cả đại dương ngay từ đầu"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:46", "e": "01:16", "ly_do": "tự quảng bá Starter Story Build"},
+  {"s": "08:35", "e": "09:36", "ly_do": "quảng cáo Starter Story Build kèm mã TINY"},
+  {"s": "16:44", "e": "17:20", "ly_do": "tự quảng bá Starter Story Build"}
+ ]
+}

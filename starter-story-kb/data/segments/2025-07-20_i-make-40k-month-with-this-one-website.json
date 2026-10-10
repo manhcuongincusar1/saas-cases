@@ -1,0 +1,40 @@
+{
+ "f": "2025-07-20_i-make-40k-month-with-this-one-website",
+ "vid": "EF3uyvHHBfM",
+ "segments": [
+  {"s":"00:48","e":"01:34","nut":["2.1"],
+   "tom":"Vừa nghỉ việc, anh muốn biết tiền trong tài khoản nuôi mình được bao lâu nên cần nhiều năm sao kê đổ ra Excel; ngân hàng chỉ đưa PDF, tự viết code bóc transaction cũng rất vất vả — vậy là vấn đề thật"},
+  {"s":"01:34","e":"01:49","nut":["3.6","?"],"moi":"Mua ads chỉ để lấy tín hiệu hành vi, không để tìm lãi",
+   "tom":"Hai người làm một tuần, mua domain, launch rồi bỏ tiền Google Ads kéo người vào — thấy người ta upload sao kê ngay lập tức là coi như vấn đề đã được validate"},
+  {"s":"01:49","e":"02:19","nut":["2.1","2.8","?"],"moi":"MVP một hai tuần thì khỏi validate, cứ build",
+   "tom":"Cách tìm ý tưởng nhỏ: lấy pain point của chính mình hoặc thứ đồng nghiệp/bạn bè hay than; rồi nghĩ cách hiện thực nhỏ nhất có thể — MVP chỉ tốn 1–2 tuần thì rủi ro chẳng bao nhiêu, validate trước làm gì"},
+  {"s":"02:19","e":"03:05","nut":["?"],"moi":"Từ script chạy cho chính mình thành sản phẩm cho người khác",
+   "tom":"Bản chứng minh đầu tiên là console app viết bằng Kotlin chỉ chạy với ngân hàng của anh, sau đó tổng quát hoá và thử với ngân hàng khác lẫn của bạn bè; rủ một người bạn làm UI Next.js, frontend đẩy lên Netlify, backend chạy EC2"},
+  {"s":"03:05","e":"03:36","nut":["3.B3","?"],"moi":"Đưa MVP thẳng cho đúng nhóm khách, không đưa cho bạn bè người thân",
+   "tom":"Phương pháp của anh: MVP rồi launch càng nhanh càng tốt, đưa thẳng tới đúng nhóm khách — tránh bạn bè và gia đình vì họ nói dối và cũng không mua; tính năng thì làm theo email khách và theo chỗ analytics thấy người ta rơi rụng"},
+  {"s":"03:36","e":"03:51","nut":["?"],"moi":"Đường tăng trưởng chậm mà đều của micro-SaaS",
+   "tom":"Đường đi thật: launch 2021, 2022 mới $6K MRR, 2023 $14K, 2024 $27K, nay $40K — không có cú nhảy nào, chỉ là bốn năm bồi đắp","kq":"$40K/tháng, 75.000 user, ~1.000 khách trả tiền, 40.000 traffic/tháng"},
+  {"s":"04:07","e":"04:39","nut":["3.B1","4.9"],
+   "tom":"Ba kênh đều hỏng: Google search ads đốt $1.000 chỉ ra $300 doanh thu dù tối ưu mãi; blog và build in public được chú ý nhưng khách của anh không đọc Twitter; cold email 3 tháng ra đúng 1 đơn kèm cả rổ mail chửi","kq":"thất bại cả ba kênh, ads lỗ nặng"},
+  {"s":"04:39","e":"05:10","nut":["?"],"moi":"Tắt ads để nhìn ra tín hiệu organic thật",
+   "tom":"Sau 6 tháng anh cắt sạch ads, tính bỏ luôn app đi làm lại — nhưng vì hết ads nên biết chắc mọi lượt click đều là organic, và thấy đều đặn 2–3 signup mỗi ngày, từ đó chỉ tập trung sửa đúng thứ khách kêu"},
+  {"s":"06:00","e":"06:43","nut":["?"],"moi":"Đổi từ dev mê code đẹp sang dev chọn việc ra tiền",
+   "tom":"Người bạn đồng hành rời đi sau vài tuần, còn lại anh làm hết dev, support, sales, marketing; đi làm thuê thì tha hồ refactor và thử database hay ho, làm cho mình mới thấy mấy thứ đó không ra tiền"},
+  {"s":"06:43","e":"07:14","nut":["?"],"moi":"Mặt tối của solo: thu nhập rơi thẳng đứng và bị cô lập",
+   "tom":"Từ $10.000/tháng tụt xuống $200/tháng, ở nhà cả ngày không gặp ai vì bạn bè trước giờ toàn là đồng nghiệp; hai năm đầu người quen còn bảo đây là business rác, vài năm sau chính họ khen hay"},
+  {"s":"07:14","e":"07:45","nut":["1.2"],
+   "tom":"Bù lại: tự đặt lịch, sáng đi hiking thay vì đi làm, không có boss hay nhà đầu tư ép tiến độ, và được phép nhắm thị trường quá nhỏ với VC nhưng dư sống cho một người"},
+  {"s":"08:18","e":"08:40","nut":["1.1","?"],"moi":"Stack một người: Kotlin core, Next.js, Netlify, EC2, Stripe",
+   "tom":"Toàn bộ stack: engine lõi viết bằng Kotlin trên JVM, frontend Next.js host Netlify, backend chạy EC2, Brevo gửi email giao dịch, Stripe thu tiền — hết","kq":"39 trên 40 nghìn đô mỗi tháng là lợi nhuận"},
+  {"s":"08:40","e":"09:18","nut":["4.14","?"],"moi":"Công sức hai năm đầu chỉ được trả từ năm thứ tư",
+   "tom":"Hai năm đầu cày cực mà gần như không tiền: email khách tới lúc 3 giờ sáng cũng xử lý ngay, vì lúc đó mỗi khách thêm đều đổi MRR — tiền cho công sức đó chỉ về từ năm thứ tư trở đi"},
+  {"s":"09:18","e":"09:34","nut":["?"],"moi":"Runway tính bằng năm chứ không phải bằng tháng",
+   "tom":"Lời khuyên: SaaS là mô hình tốt nhưng phải để dành đủ sống nhiều năm không thu nhập — chỉ có vài tháng runway thì gần như chắc chắn không tới đích; anh mất 2–3 năm mới trả nổi tiền thuê nhà bằng doanh thu"},
+  {"s":"09:34","e":"10:04","nut":["?"],"moi":"Không xây following trước khi có sản phẩm",
+   "tom":"Bỏ hẳn mạng xã hội: xây following là việc cực nhọc mà có rồi business vẫn có thể dở; đừng lập page Facebook, Instagram, Twitter cho sản phẩm — cứ lo sản phẩm và user thật, giải đúng vấn đề thì user tự tới"}
+ ],
+ "bo_qua": [
+  {"s":"05:10","e":"06:00","ly_do":"quảng cáo Brex và guide ngân hàng cho startup"},
+  {"s":"10:19","e":"10:50","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

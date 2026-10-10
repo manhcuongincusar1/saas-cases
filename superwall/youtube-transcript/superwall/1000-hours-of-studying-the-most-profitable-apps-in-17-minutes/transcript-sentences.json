@@ -1,0 +1,937 @@
+[
+  {
+    "text": "You've watched these videos of teenagers who've made hundreds of thousands of dollars through apps you've probably never even heard of and you're wondering is this even real and if so how are they even doing this?",
+    "start": "00:00:00",
+    "end": "00:00:10"
+  },
+  {
+    "text": "To me when I watch stuff like this I feel like oh they figured something out that I haven't and I've watched a lot of these videos too and I keep feeling this.",
+    "start": "00:00:10",
+    "end": "00:00:19"
+  },
+  {
+    "text": "So I spent the last two years studying exactly how they do it and I do this by going straight to the source like the kids that have made 50k a month on pure commission on TikTok shop, the scrappy Discord anons running up e-com brands with the most degenerate but effective mass UGC tactics.",
+    "start": "00:00:19",
+    "end": "00:00:36"
+  },
+  {
+    "text": "I've sat down with founders of apps like Halo which went from zero to 300k a month in 45 days, Study Fetch hitting 10 million ARR and Coco Note which does 6.",
+    "start": "00:00:36",
+    "end": "00:00:45"
+  },
+  {
+    "text": "7 million dollars a year.",
+    "start": "00:00:45",
+    "end": "00:00:46"
+  },
+  {
+    "text": "But I also run growth for apps you've probably never heard of like apps doing 1 to 5 million ARR from a single marketing channel.",
+    "start": "00:00:46",
+    "end": "00:00:53"
+  },
+  {
+    "text": "So in this video I'm going to break down every single thing I've learned from being behind the scenes of some of the biggest app operations and the decisions I help founders make that actually help their app become a success.",
+    "start": "00:00:53",
+    "end": "00:01:03"
+  },
+  {
+    "text": "And all of this starts with why most people have the basic economics of app growth completely backwards.",
+    "start": "00:01:03",
+    "end": "00:01:08"
+  },
+  {
+    "text": "So here's a conversation I have all the time.",
+    "start": "00:01:08",
+    "end": "00:01:11"
+  },
+  {
+    "text": "A founder will message me typically someone in the 1 to 5 million dollar ARR range and they grew their app mostly through Facebook ads and clearly the ads worked for them but when the same founders look at these teenagers blowing up on TikTok that vibe coded a random app and they're hitting these insane revenue numbers there's this FOMO like how are they doing that?",
+    "start": "00:01:11",
+    "end": "00:01:29"
+  },
+  {
+    "text": "And they get a little bit insecure you know like am I falling behind?",
+    "start": "00:01:28",
+    "end": "00:01:33"
+  },
+  {
+    "text": "My ads keep fatiguing.",
+    "start": "00:01:33",
+    "end": "00:01:33"
+  },
+  {
+    "text": "I'm on this treadmill of continually making new creatives and trying to scale and these kids are just like posting videos.",
+    "start": "00:01:33",
+    "end": "00:01:39"
+  },
+  {
+    "text": "So let me just lay out the math.",
+    "start": "00:01:39",
+    "end": "00:01:41"
+  },
+  {
+    "text": "Paid ads typically run at 10 to 30% margin.",
+    "start": "00:01:41",
+    "end": "00:01:43"
+  },
+  {
+    "text": "That's the standard that I've seen which basically means that if you spend $10 you're going to make back 11, 12, maybe $13.",
+    "start": "00:01:43",
+    "end": "00:01:51"
+  },
+  {
+    "text": "Everyone says ads are the most scalable channel and yes they kind of are but the problem is it never stops.",
+    "start": "00:01:51",
+    "end": "00:01:56"
+  },
+  {
+    "text": "Your ads will get old once you've saturated the audience it gets shown to.",
+    "start": "00:01:56",
+    "end": "00:02:01"
+  },
+  {
+    "text": "So, you constantly need new angles.",
+    "start": "00:02:01",
+    "end": "00:02:03"
+  },
+  {
+    "text": "But, on the other hand, organic content runs at 50% margins.",
+    "start": "00:02:03",
+    "end": "00:02:08"
+  },
+  {
+    "text": "This is what I've seen from mass UGC campaigns with apps.",
+    "start": "00:02:07",
+    "end": "00:02:11"
+  },
+  {
+    "text": "I'm going to explain how in a bit, but let me just tell you the downside first.",
+    "start": "00:02:11",
+    "end": "00:02:14"
+  },
+  {
+    "text": "So, when you're running ads, you're basically buying people's attention.",
+    "start": "00:02:14",
+    "end": "00:02:19"
+  },
+  {
+    "text": "The distribution problem is handled automatically and you just focus on the conversion.",
+    "start": "00:02:19",
+    "end": "00:02:23"
+  },
+  {
+    "text": "On the other hand, organic content flips that completely.",
+    "start": "00:02:23",
+    "end": "00:02:26"
+  },
+  {
+    "text": "So, nobody's going to watch your video just because you posted it.",
+    "start": "00:02:26",
+    "end": "00:02:29"
+  },
+  {
+    "text": "You have to earn every view while also making sure that the content sells the app without making it feel like an ad.",
+    "start": "00:02:29",
+    "end": "00:02:36"
+  },
+  {
+    "text": "This sounds impossible, but this is exactly what the Vibe Creators are doing right now.",
+    "start": "00:02:36",
+    "end": "00:02:42"
+  },
+  {
+    "text": "It just takes one video to go viral and just like that you've got like 50,000 downloads.",
+    "start": "00:02:42",
+    "end": "00:02:45"
+  },
+  {
+    "text": "I'm not making any of this up, by the way.",
+    "start": "00:02:45",
+    "end": "00:02:47"
+  },
+  {
+    "text": "I interviewed the founder of Halo on this channel a while [music] ago.",
+    "start": "00:02:47",
+    "end": "00:02:50"
+  },
+  {
+    "text": "You can check it out here.",
+    "start": "00:02:50",
+    "end": "00:02:52"
+  },
+  {
+    "text": "He literally took a personal loan, hired a bunch of creators, and went from zero to 300 K a month in 45 days.",
+    "start": "00:02:50",
+    "end": "00:02:57"
+  },
+  {
+    "text": "He got 600 million views in the first 2 months and this was without any ad budget.",
+    "start": "00:02:57",
+    "end": "00:03:03"
+  },
+  {
+    "text": "His entire philosophy revolved around the formula that revenue equals total views multiplied by conversion rate.",
+    "start": "00:03:03",
+    "end": "00:03:09"
+  },
+  {
+    "text": "So, this method does work, but let me share a number that nobody really talks about.",
+    "start": "00:03:09",
+    "end": "00:03:14"
+  },
+  {
+    "text": "Organic content has a natural TAM of about 1 to 3 million dollars a year from just organic views on TikTok and IG Reels.",
+    "start": "00:03:12",
+    "end": "00:03:20"
+  },
+  {
+    "text": "So, there is sort of like a saturation point, but if you're only running ads, you're leaving a lot of money on the table.",
+    "start": "00:03:20",
+    "end": "00:03:26"
+  },
+  {
+    "text": "So, one of the most asked questions I get is what happens once I max out that organic ceiling and it starts to become slightly less profitable.",
+    "start": "00:03:26",
+    "end": "00:03:33"
+  },
+  {
+    "text": "Well, then you can use your organic viewers as fuel for your paid campaigns.",
+    "start": "00:03:33",
+    "end": "00:03:38"
+  },
+  {
+    "text": "So, let me explain.",
+    "start": "00:03:38",
+    "end": "00:03:41"
+  },
+  {
+    "text": "You can just run the viral organic videos as paid ads.",
+    "start": "00:03:41",
+    "end": "00:03:42"
+  },
+  {
+    "text": "They're already proven to work, so you don't need to think about more ad creative.",
+    "start": "00:03:42",
+    "end": "00:03:47"
+  },
+  {
+    "text": "You're going to make the creative anyway and with organic you get to double dip.",
+    "start": "00:03:47",
+    "end": "00:03:51"
+  },
+  {
+    "text": "You do the organic, it converts, you do ads, and it converts again.",
+    "start": "00:03:51",
+    "end": "00:03:54"
+  },
+  {
+    "text": "One way to do that is you just take the hooks that performs well organically, and you attach it to your normal ad creative.",
+    "start": "00:03:54",
+    "end": "00:04:00"
+  },
+  {
+    "text": "Another method is you just pick the creators who performs well organically, and have them record ad UGC for paid campaigns.",
+    "start": "00:04:00",
+    "end": "00:04:08"
+  },
+  {
+    "text": "Organic creators are better than 90% of traditional UGC ad talent because they've been trained by the algorithm.",
+    "start": "00:04:08",
+    "end": "00:04:14"
+  },
+  {
+    "text": "They're forced to get views, so their hooks are better.",
+    "start": "00:04:12",
+    "end": "00:04:15"
+  },
+  {
+    "text": "Their content doesn't feel like an ad, so it'll naturally just perform better on paid ads.",
+    "start": "00:04:15",
+    "end": "00:04:20"
+  },
+  {
+    "text": "So, I just told you three ways you can reuse your viral content for paid ads, and that's just off the top of my head.",
+    "start": "00:04:20",
+    "end": "00:04:26"
+  },
+  {
+    "text": "But, reusing content only works if your strategy is rock solid, which brings me to my next point.",
+    "start": "00:04:26",
+    "end": "00:04:31"
+  },
+  {
+    "text": "Which strategies work, and which fail?",
+    "start": "00:04:31",
+    "end": "00:04:33"
+  },
+  {
+    "text": "I've been doing this for the past 3 years, and after seeing inside hundreds of these operations, there are very specific tells I can just tell you within a week whether a strategy will blow up or just flop.",
+    "start": "00:04:33",
+    "end": "00:04:45"
+  },
+  {
+    "text": "I'm going to start by sharing what makes strategies flop because that's the biggest concern for most founders.",
+    "start": "00:04:45",
+    "end": "00:04:50"
+  },
+  {
+    "text": "If someone comes to me and and they tell me they went out and found influencers with huge followings, paid them thousands of dollars, this is the biggest telltale sign that the content will probably just not get traction.",
+    "start": "00:04:50",
+    "end": "00:05:00"
+  },
+  {
+    "text": "Influencer marketing does work still, but there needs to be a very strong audience fit and a lot of negotiation to make this actually profitable.",
+    "start": "00:05:00",
+    "end": "00:05:08"
+  },
+  {
+    "text": "Most influencers don't really have experience marketing apps, and they just have too many inbound brand deals to make their pricing work for most apps.",
+    "start": "00:05:08",
+    "end": "00:05:15"
+  },
+  {
+    "text": "So, it ends up being too overpriced and just not worth it.",
+    "start": "00:05:15",
+    "end": "00:05:19"
+  },
+  {
+    "text": "And the same thing applies to copying trends too.",
+    "start": "00:05:19",
+    "end": "00:05:20"
+  },
+  {
+    "text": "I've seen people hire Gen Z kids because they think they'll know recent trends, and most of these kids do know the trends, and they know how to make Tik Toks.",
+    "start": "00:05:20",
+    "end": "00:05:27"
+  },
+  {
+    "text": "But, that knowledge alone is not enough to create a video that actually converts.",
+    "start": "00:05:27",
+    "end": "00:05:32"
+  },
+  {
+    "text": "A trending Tik Tok format might get you views, but that's not your main goal.",
+    "start": "00:05:32",
+    "end": "00:05:35"
+  },
+  {
+    "text": "You need downloads and revenue.",
+    "start": "00:05:35",
+    "end": "00:05:37"
+  },
+  {
+    "text": "But, the biggest mistake I see founders make is creating videos that hard sell the product.",
+    "start": "00:05:37",
+    "end": "00:05:42"
+  },
+  {
+    "text": "No one on social media enjoys ads, and that's just the brutal truth.",
+    "start": "00:05:42",
+    "end": "00:05:46"
+  },
+  {
+    "text": "If your videos scream, \"This is my product, buy it.",
+    "start": "00:05:46",
+    "end": "00:05:49"
+  },
+  {
+    "text": "The first thing people will do is just scroll past it and your content is basically telling the algorithm that it's not worth watching and the videos will just die.",
+    "start": "00:05:49",
+    "end": "00:05:57"
+  },
+  {
+    "text": "But the strategies that do work come down to three things.",
+    "start": "00:05:55",
+    "end": "00:06:00"
+  },
+  {
+    "text": "First is virality.",
+    "start": "00:06:00",
+    "end": "00:06:02"
+  },
+  {
+    "text": "Your video needs to hit the algorithm and actually get views to get recommended on the For You page on TikTok or Instagram or whatever platform you're uploading on.",
+    "start": "00:06:00",
+    "end": "00:06:10"
+  },
+  {
+    "text": "Second is conversion, which basically means your video needs to show the app in a way that makes the viewer download it.",
+    "start": "00:06:10",
+    "end": "00:06:16"
+  },
+  {
+    "text": "If you have a super viral video, but it's just getting views and not converting, it's pretty much useless content.",
+    "start": "00:06:16",
+    "end": "00:06:22"
+  },
+  {
+    "text": "The end goal is to get as many downloads as possible.",
+    "start": "00:06:22",
+    "end": "00:06:24"
+  },
+  {
+    "text": "So make sure to have a smooth CTA in the video.",
+    "start": "00:06:24",
+    "end": "00:06:27"
+  },
+  {
+    "text": "Either showing the actual app UI or mentioning the app as a core part of the storyline of the video.",
+    "start": "00:06:27",
+    "end": "00:06:35"
+  },
+  {
+    "text": "The third thing is repeatability.",
+    "start": "00:06:33",
+    "end": "00:06:36"
+  },
+  {
+    "text": "You need formats that keep working with small variations.",
+    "start": "00:06:36",
+    "end": "00:06:39"
+  },
+  {
+    "text": ">> Here's a question.",
+    "start": "00:06:38",
+    "end": "00:06:39"
+  },
+  {
+    "text": "What do you think might happen if there isn't enough vitamin B12 for red blood cell production?",
+    "start": "00:06:39",
+    "end": "00:06:45"
+  },
+  {
+    "text": ">> Honestly, I have no idea.",
+    "start": "00:06:43",
+    "end": "00:06:46"
+  },
+  {
+    "text": ">> Can you explain this to me in simpler terms?",
+    "start": "00:06:45",
+    "end": "00:06:49"
+  },
+  {
+    "text": ">> Finally, during pregnancy, the metabolism of vitamin D changes.",
+    "start": "00:06:47",
+    "end": "00:06:53"
+  },
+  {
+    "text": ">> Yeah, can you tell me more about how vitamin D metabolism is altered during pregnancy?",
+    "start": "00:06:51",
+    "end": "00:06:59"
+  },
+  {
+    "text": ">> Especially the amino acids from protein.",
+    "start": "00:06:56",
+    "end": "00:07:00"
+  },
+  {
+    "text": "Does that give you a clearer starting point?",
+    "start": "00:06:59",
+    "end": "00:07:02"
+  },
+  {
+    "text": ">> Yes, I understand this, but can we talk about why our protein needs increase with age?",
+    "start": "00:07:00",
+    "end": "00:07:07"
+  },
+  {
+    "text": ">> This is really important because if you're forced to come up with new ideas every single day, you're now back to the same problem as ad creative fatigue and you'll just burn out really fast and the results will be very inconsistent.",
+    "start": "00:07:06",
+    "end": "00:07:18"
+  },
+  {
+    "text": "Now this all sounds really simple, but most people make the mistake of hiring just one person to handle all of this stuff.",
+    "start": "00:07:18",
+    "end": "00:07:25"
+  },
+  {
+    "text": "The truth is you can't find an all around person who's good at creative strategy, has the talent to replicate existing formats, and can make unforgettable content.",
+    "start": "00:07:23",
+    "end": "00:07:32"
+  },
+  {
+    "text": "So if you're looking for someone to help you with this, there's two skill sets that you need to target and you're going to need two separate people for this unless you just find that like unicorn person.",
+    "start": "00:07:32",
+    "end": "00:07:42"
+  },
+  {
+    "text": "Skill number one is talent and this is the person who's actually going to be on camera.",
+    "start": "00:07:40",
+    "end": "00:07:45"
+  },
+  {
+    "text": "So, this person needs to know how to execute the perfect video with the right angle, lighting, pacing, tone of voice, where to put the captions, and pretty much every single thing that makes the video feel like it belongs on the For You page.",
+    "start": "00:07:45",
+    "end": "00:07:57"
+  },
+  {
+    "text": "Basically, a channel expert.",
+    "start": "00:07:57",
+    "end": "00:07:58"
+  },
+  {
+    "text": "And then secondly, you have the creative strategist.",
+    "start": "00:07:58",
+    "end": "00:08:01"
+  },
+  {
+    "text": "This is typically a different person because this person handles how to understand how short-form content works at a higher level and what kind of high-converting content the algorithm will push.",
+    "start": "00:08:01",
+    "end": "00:08:13"
+  },
+  {
+    "text": "But, there's a very important thing to note here.",
+    "start": "00:08:13",
+    "end": "00:08:16"
+  },
+  {
+    "text": "The creator is bringing the talent, but in the example of StudyFetch, which hit 2 billion views and eight figures ARR, the CMO Kieran and his team are the strategist and the strategy is the most crucial thing in content.",
+    "start": "00:08:16",
+    "end": "00:08:29"
+  },
+  {
+    "text": "The three layers of creative strategy.",
+    "start": "00:08:29",
+    "end": "00:08:31"
+  },
+  {
+    "text": "I see creative strategy as having three layers.",
+    "start": "00:08:31",
+    "end": "00:08:33"
+  },
+  {
+    "text": "Layer one is copying.",
+    "start": "00:08:33",
+    "end": "00:08:35"
+  },
+  {
+    "text": "This means exactly what you think it means.",
+    "start": "00:08:35",
+    "end": "00:08:38"
+  },
+  {
+    "text": "If a video format worked for another app, it'll probably just work for yours, too.",
+    "start": "00:08:38",
+    "end": "00:08:43"
+  },
+  {
+    "text": "So, you find a viral video space, you recreate it for your product.",
+    "start": "00:08:40",
+    "end": "00:08:45"
+  },
+  {
+    "text": "This is the fastest path to results, but it saturates most quickly because eventually everyone starts copying the same formats.",
+    "start": "00:08:45",
+    "end": "00:08:51"
+  },
+  {
+    "text": "Okay, I think you want to hear this.",
+    "start": "00:08:51",
+    "end": "00:08:52"
+  },
+  {
+    "text": "For the past 2 years of my life, I've talked to 743 app founders.",
+    "start": "00:08:52",
+    "end": "00:08:57"
+  },
+  {
+    "text": "This is literally my calendar a lot of weeks because I want to figure out who's actually making money.",
+    "start": "00:08:56",
+    "end": "00:09:01"
+  },
+  {
+    "text": "And for the ones making 1 to 10 million dollars a year, I dug into their playbooks from ideation to build to marketing to figure out what actually made them successful.",
+    "start": "00:09:01",
+    "end": "00:09:10"
+  },
+  {
+    "text": "And like how much of that is even profit.",
+    "start": "00:09:10",
+    "end": "00:09:12"
+  },
+  {
+    "text": "But, what I found is the difference between apps that kind of work out versus the one that seemed to like hyper-scale effortlessly is actually more of a science than people think.",
+    "start": "00:09:12",
+    "end": "00:09:19"
+  },
+  {
+    "text": "And running this pod, I get a lot of similar questions around app businesses.",
+    "start": "00:09:19",
+    "end": "00:09:23"
+  },
+  {
+    "text": "So, after 2 years of doing this, I finally sat down, drank my energy drinks, and I just spent the last 4 days straight combining all of my private notes plus the growth systems I've personally run to add like 6 million ARR now for the founders of some of these apps.",
+    "start": "00:09:23",
+    "end": "00:09:35"
+  },
+  {
+    "text": "And I created a presentation.",
+    "start": "00:09:35",
+    "end": "00:09:37"
+  },
+  {
+    "text": "I'm going to give this presentation one time on a live Zoom call on Sunday night, October 11th.",
+    "start": "00:09:37",
+    "end": "00:09:41"
+  },
+  {
+    "text": "It will not be recorded.",
+    "start": "00:09:41",
+    "end": "00:09:43"
+  },
+  {
+    "text": "I'm just giving this to people who are really serious about maximizing this run we have with consumer apps right now.",
+    "start": "00:09:43",
+    "end": "00:09:48"
+  },
+  {
+    "text": "It'll be fun, interactive.",
+    "start": "00:09:48",
+    "end": "00:09:49"
+  },
+  {
+    "text": "The past 2 years of consumer apps, and to be honest, like the past 8 years of me being internet businesses are just packed into this for you.",
+    "start": "00:09:49",
+    "end": "00:09:54"
+  },
+  {
+    "text": "Also, it's free, of course.",
+    "start": "00:09:54",
+    "end": "00:09:57"
+  },
+  {
+    "text": "Use the link in the description to register.",
+    "start": "00:09:57",
+    "end": "00:09:59"
+  },
+  {
+    "text": "I'll see you there, October 11th.",
+    "start": "00:09:57",
+    "end": "00:10:00"
+  },
+  {
+    "text": "Layer two is iteration.",
+    "start": "00:10:00",
+    "end": "00:10:01"
+  },
+  {
+    "text": "You take something that already worked, maybe one of your own videos, maybe a competitor, and you isolate one single variable.",
+    "start": "00:10:01",
+    "end": "00:10:08"
+  },
+  {
+    "text": "This could be the hook, the caption copy, or the entire script.",
+    "start": "00:10:08",
+    "end": "00:10:10"
+  },
+  {
+    "text": "You tweak that single variable and see if the video still works.",
+    "start": "00:10:10",
+    "end": "00:10:14"
+  },
+  {
+    "text": "But, this brings me to the third layer, which is referential concepting.",
+    "start": "00:10:14",
+    "end": "00:10:20"
+  },
+  {
+    "text": "This is an idea popularized by Nick Kendler, who was the head of growth at Calm, the meditation app.",
+    "start": "00:10:17",
+    "end": "00:10:24"
+  },
+  {
+    "text": "They hyper-scaled on Facebook ads, but the idea of referential concepting also applies to organic.",
+    "start": "00:10:24",
+    "end": "00:10:29"
+  },
+  {
+    "text": "So, let's say you came across a video with 5 million views in the fintech niche, and you think, okay, this concept would really crush in the dating niche.",
+    "start": "00:10:29",
+    "end": "00:10:37"
+  },
+  {
+    "text": "Now, you're not just taking one variable from the video that worked.",
+    "start": "00:10:37",
+    "end": "00:10:40"
+  },
+  {
+    "text": "You're taking the entire creative idea, and you're applying it to your niche.",
+    "start": "00:10:40",
+    "end": "00:10:44"
+  },
+  {
+    "text": "This is actually the best strategy because it almost guarantees that you're the first one in your niche to make this format.",
+    "start": "00:10:44",
+    "end": "00:10:51"
+  },
+  {
+    "text": "I'm not going to lie, it is risky because it might just not work at all, but it is also how you become the market leader.",
+    "start": "00:10:51",
+    "end": "00:10:58"
+  },
+  {
+    "text": "Instead of copying or just iterating, you're creating the trends that everyone else ends up copying from you.",
+    "start": "00:10:58",
+    "end": "00:11:03"
+  },
+  {
+    "text": "For example, Pingo did this with their content.",
+    "start": "00:11:03",
+    "end": "00:11:06"
+  },
+  {
+    "text": "It's a language learning app, so we all know Duolingo owns this niche, but Pingo saw that reaction content was blowing up on TikTok, so they had creators try to speak different languages, like Spanish or French, on camera, mispronounce words, and Pingo's AI would roast them in real time.",
+    "start": "00:11:06",
+    "end": "00:11:21"
+  },
+  {
+    "text": "They basically made the app demo itself a funny, memorable thing.",
+    "start": "00:11:21",
+    "end": "00:11:24"
+  },
+  {
+    "text": "This strategy got them to $500,000 a month and over a billion views.",
+    "start": "00:11:24",
+    "end": "00:11:28"
+  },
+  {
+    "text": "But, don't get me wrong, you don't have to just choose one layer and stick to it.",
+    "start": "00:11:28",
+    "end": "00:11:32"
+  },
+  {
+    "text": "You can run all three together and see which one works best for your app.",
+    "start": "00:11:32",
+    "end": "00:11:36"
+  },
+  {
+    "text": "And you can start with the level one and two and work your way up to level three as you get more comfortable with content.",
+    "start": "00:11:36",
+    "end": "00:11:43"
+  },
+  {
+    "text": "However, don't just hire the first agency you hear of and just run all this organic stuff for you.",
+    "start": "00:11:43",
+    "end": "00:11:47"
+  },
+  {
+    "text": "I've talked to pretty much every agency, freelancer, and in-house operation in the space and I really believe you should know what you're getting yourself into first.",
+    "start": "00:11:47",
+    "end": "00:11:57"
+  },
+  {
+    "text": "An app founder told me recently they wasted $30,000 a month on a agency that seemed to have good case studies, but just didn't really align incentives with the team and ended up flopping.",
+    "start": "00:11:57",
+    "end": "00:12:06"
+  },
+  {
+    "text": "Honestly, this happens all the time because most people don't understand what roles they actually need for organic growth.",
+    "start": "00:12:06",
+    "end": "00:12:14"
+  },
+  {
+    "text": "Basically, what any agency or in-house operation will look like at its best.",
+    "start": "00:12:11",
+    "end": "00:12:18"
+  },
+  {
+    "text": "There are three people you need on your team and these are pretty much non-negotiable.",
+    "start": "00:12:16",
+    "end": "00:12:21"
+  },
+  {
+    "text": "Number one, head of social growth.",
+    "start": "00:12:21",
+    "end": "00:12:23"
+  },
+  {
+    "text": "This is your Gen Z brain rot expert.",
+    "start": "00:12:23",
+    "end": "00:12:25"
+  },
+  {
+    "text": "And what that actually means is someone who watches viral content all day and has developed an inherent sense for which principles from those videos can be applied for your app.",
+    "start": "00:12:25",
+    "end": "00:12:35"
+  },
+  {
+    "text": "These guys are crazy good at identifying what's blowing up.",
+    "start": "00:12:35",
+    "end": "00:12:38"
+  },
+  {
+    "text": "Number two, the creator manager/coach role.",
+    "start": "00:12:38",
+    "end": "00:12:41"
+  },
+  {
+    "text": "Your creator manager is the person who gives feedback to every creative you have on the team.",
+    "start": "00:12:41",
+    "end": "00:12:47"
+  },
+  {
+    "text": "Their entire role is to make micro adjustments to hooks, storylines, CTAs, and visuals to improve content.",
+    "start": "00:12:45",
+    "end": "00:12:52"
+  },
+  {
+    "text": "This is really important because if you have a manager who just approves content without going through it and scrutinizing it, TikTok will just feel like a lottery to you and you're just hoping something will hit without actually iterating on your content.",
+    "start": "00:12:52",
+    "end": "00:13:05"
+  },
+  {
+    "text": "The last person is the talent scout.",
+    "start": "00:13:05",
+    "end": "00:13:07"
+  },
+  {
+    "text": "This is someone who can do outreach to thousands of creators and build efficient recruiting pipelines.",
+    "start": "00:13:07",
+    "end": "00:13:12"
+  },
+  {
+    "text": "When you think about it, this outbound, extreme volume mindset, and systems mindset has almost zero skill overlap between that and the creative roles, which is why it's so hard to find that magical unicorn who will just do everything for you.",
+    "start": "00:13:12",
+    "end": "00:13:26"
+  },
+  {
+    "text": "The worst thing you can do is be lazy about this and just look for the all around person.",
+    "start": "00:13:26",
+    "end": "00:13:29"
+  },
+  {
+    "text": "There are none of these people except for founders that just do it themselves, right?",
+    "start": "00:13:29",
+    "end": "00:13:34"
+  },
+  {
+    "text": "So, hire the right person for the right role.",
+    "start": "00:13:34",
+    "end": "00:13:37"
+  },
+  {
+    "text": "Outside of my Superwall interviews that I do and all these chats with founders, most of my time is spent just digging through discords and Twitter DMs and Telegram chats just finding these young freelancer type people that have one or two really good case studies, but they haven't been snatched up in-house or started some like bloated agency yet.",
+    "start": "00:13:37",
+    "end": "00:13:58"
+  },
+  {
+    "text": "This is literally the playbook a lot of founders I know have followed.",
+    "start": "00:13:56",
+    "end": "00:14:02"
+  },
+  {
+    "text": "This AI writing tool scaled to 750k a month, a fitness app grew to $600,000 a year, and dozens of others all by following the same stuff I explained and creating mass UGC content.",
+    "start": "00:14:02",
+    "end": "00:14:12"
+  },
+  {
+    "text": "So, the stuff works clearly, but the biggest problem every founder runs into is where do I start?",
+    "start": "00:14:12",
+    "end": "00:14:19"
+  },
+  {
+    "text": "Cuz if you're at $0 a month, you shouldn't be hiring an agency.",
+    "start": "00:14:17",
+    "end": "00:14:21"
+  },
+  {
+    "text": "You should probably be starting scrappier first, so you're the one driving the strategy in the long term.",
+    "start": "00:14:21",
+    "end": "00:14:26"
+  },
+  {
+    "text": "But, if you're already at 50-100k a month and you're still trying to do everything yourself, maybe you do want an agency or maybe at least get help setting it up in-house.",
+    "start": "00:14:26",
+    "end": "00:14:33"
+  },
+  {
+    "text": "And the strategy that works for a looks maxing app might have nothing in common for what works for a study tool.",
+    "start": "00:14:33",
+    "end": "00:14:39"
+  },
+  {
+    "text": "It depends on the niche, how much trust is required for a user to download, and how it monetizes.",
+    "start": "00:14:39",
+    "end": "00:14:44"
+  },
+  {
+    "text": "These all require different content and different strategies.",
+    "start": "00:14:44",
+    "end": "00:14:47"
+  },
+  {
+    "text": "So, what I've learned from talking to hundreds of app founders is if there's one overarching thing that separates the people who grow slowly and stagnate versus the ones who see the we have with consumer apps that AI and these growth strategies are giving us right now and go parabolic with their app and honestly their entire entrepreneurship career, that one thing is maximizing their alpha seeking.",
+    "start": "00:14:47",
+    "end": "00:15:10"
+  },
+  {
+    "text": "What I mean by this is founders who actually talk to other founders who made all the mistakes, cracked the strategy for their own app, and then not just hearing them tell their story, but actually getting the experts take on their app.",
+    "start": "00:15:10",
+    "end": "00:15:23"
+  },
+  {
+    "text": "How they would apply the same strategies, identify blind spots, and high-leverage personalized insights that can change the trajectory of their growth.",
+    "start": "00:15:23",
+    "end": "00:15:32"
+  },
+  {
+    "text": "So, that's why I've been building Consumer Club for the past 2 years.",
+    "start": "00:15:32",
+    "end": "00:15:35"
+  },
+  {
+    "text": "I've met over a thousand app founders, and I just collect the ones who are not only successful, like doing 1 to 10 million ARR, but who are also super willing to share what they've learned and coach other founders along the entire journey, as long as it's in a trusting environment with a good amount of buy-in.",
+    "start": "00:15:35",
+    "end": "00:15:50"
+  },
+  {
+    "text": "I've met dozens of founders now who have grown from complete zero to 100K month and 100K month to 3 to 10 million dollars a year after finding high-signal and high-trust conversations with other founders and experts inside Consumer Club who have complementary alpha and skills, like organic growth, ads growth, monetization, paywalls, product and engineering, company building.",
+    "start": "00:15:50",
+    "end": "00:16:13"
+  },
+  {
+    "text": "The Consumer Club membership is very expensive, but honestly, I'm just one person.",
+    "start": "00:16:13",
+    "end": "00:16:17"
+  },
+  {
+    "text": "I spend most of my time continuously hunting for the best app and growth people, which I introduce to Consumer Club members to learn from, to hire, to meet as co-founders.",
+    "start": "00:16:17",
+    "end": "00:16:27"
+  },
+  {
+    "text": "So, even though I love to, I can't just have everyone join.",
+    "start": "00:16:27",
+    "end": "00:16:29"
+  },
+  {
+    "text": "But, if you want to lock in and maximize this run we have with consumer apps, there is a link below.",
+    "start": "00:16:29",
+    "end": "00:16:34"
+  },
+  {
+    "text": "As soon as you join, we'll just do an onboarding call, where I will personally get to know you and your app and [music] introduce you to the playbooks you can apply to grow your app, plus introductions to founders, hires, everything you need that will be a lever for your app.",
+    "start": "00:16:34",
+    "end": "00:16:46"
+  },
+  {
+    "text": "Even if you decide not to join, we do have a huge backlog of interviews with founders who share their whole playbooks on this channel.",
+    "start": "00:16:46",
+    "end": "00:16:54"
+  },
+  {
+    "text": "So, if you follow any one of those three strategy layers I mentioned, start creating organic content, let me know how it works out.",
+    "start": "00:16:54",
+    "end": "00:16:59"
+  },
+  {
+    "text": "Thanks for watching.",
+    "start": "00:16:59",
+    "end": "00:17:02"
+  },
+  {
+    "text": "I'll see you in the next video.",
+    "start": "00:16:59",
+    "end": "00:17:02"
+  }
+]

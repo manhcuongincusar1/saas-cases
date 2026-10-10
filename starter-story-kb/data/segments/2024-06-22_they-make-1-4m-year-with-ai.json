@@ -1,0 +1,118 @@
+{
+ "f": "2024-06-22_they-make-1-4m-year-with-ai",
+ "vid": "b5JhfGHafZA",
+ "segments": [
+  {
+   "s": "01:04",
+   "e": "01:36",
+   "nut": ["?"],
+   "moi": "Sản phẩm AI biến một file media thành nhiều dạng nội dung",
+   "tom": "Cast Magic dùng AI đọc ngữ cảnh video, file audio, hội thoại — bất kỳ media nào — rồi tái chế thành nội dung; ra mắt cách đó 10 tháng",
+   "kq": "hơn $120K MRR sau 10 tháng"
+  },
+  {
+   "s": "01:36",
+   "e": "01:52",
+   "nut": ["?"],
+   "moi": "Nhúng vào workflow có sẵn và gỡ đúng chỗ ma sát",
+   "tom": "Tool AI cất cánh được là tool cắm được vào một quy trình người ta đã làm rồi và xoá phăng rào cản vào việc đó (ví dụ rào cản để làm một tập podcast) — đó là thuốc giảm đau, không phải vitamin"
+  },
+  {
+   "s": "01:52",
+   "e": "02:38",
+   "nut": ["2.1"],
+   "tom": "Blaine host podcast DTC Pod cùng Ramon và tự vấp đúng vấn đề: viết show notes không giao được cho VA thuê ngoài vì họ không nắm ngữ cảnh cuộc trò chuyện; đúng lúc AI nổi lên thì nghĩ 'AI làm được việc này'. Bài học: cứ liên tục làm một việc thật thì tự đào ra được vấn đề đáng giải, và có khi nó lớn hơn mình tưởng"
+  },
+  {
+   "s": "02:38",
+   "e": "03:27",
+   "nut": ["?"],
+   "moi": "Nhận cửa sổ phân phối của đối tác dù chỉ còn 2 tuần",
+   "tom": "Với startup non thì phân phối là thứ sống còn: build cho chính mình trước rồi tiến sát khách nhanh nhất có thể — hoặc làm nội dung/personal brand để khách tự tìm tới, hoặc kiếm một distribution partner. Khi AppSumo hỏi 'hai tuần nữa launch được không', họ nhận luôn dù chưa sẵn sàng"
+  },
+  {
+   "s": "03:27",
+   "e": "04:00",
+   "nut": ["?"],
+   "moi": "Đổi doanh thu định kỳ lấy user và thương hiệu bằng lifetime deal",
+   "tom": "Ra mắt trên AppSumo bằng gói lifetime (khách trả một lần dùng mãi) — một trong những launch thành công nhất lịch sử nền tảng này",
+   "kq": "~$350.000 doanh thu, ~10.000 user trong vài ngày"
+  },
+  {
+   "s": "04:00",
+   "e": "04:45",
+   "nut": ["4.4"],
+   "tom": "Chấp nhận mất doanh thu định kỳ vì cần brand, cần nền tảng và cần feedback. Kênh thứ hai là creator: cách kiếm là scrape Instagram và các nền tảng, lọc công ty ở ngành lân cận, tra hashtag để có VOLUME trước; có volume và có phản hồi rồi mới đủ đòn bẩy đàm phán giá, trả theo CPM, rồi mới chọn ai đáng tài trợ tiếp — đủ volume mới kết luận được kênh có khả thi hay không"
+  },
+  {
+   "s": "04:45",
+   "e": "05:33",
+   "nut": ["?"],
+   "moi": "Sao chép đường phân phối của công ty cùng tệp khách",
+   "tom": "Team marketing đúng một người cộng contractor theo mảng. Việc ít ai chịu làm là research: vẽ lại xem công ty phục vụ đúng tệp khách của mình đã lấy phân phối bằng cách nào — anh đi tìm những business lớn lên nhờ affiliate rồi dựng hệ thống tương tự. Ví dụ cụ thể: thay vì gọi điện brainstorm ý tưởng nội dung với từng creator, anh viết hẳn một tài liệu Notion đầy concept sẵn, khỏi phải lên call nữa",
+   "kq": "$120K MRR với 1 người làm marketing"
+  },
+  {
+   "s": "06:04",
+   "e": "06:36",
+   "nut": ["?"],
+   "moi": "Chọn stack cho phép team nhỏ làm cả front lẫn back",
+   "tom": "Phải chấp nhận sản phẩm chưa hoàn hảo: chọn Elixir vì ổn định và scale tốt, dùng Phoenix LiveView để viết cả frontend lẫn backend bằng một ngôn ngữ; landing page thì dựng bằng template Webflow cho nhanh và đẹp, để toàn bộ thời gian của team dev đổ vào đúng phần khách quan tâm là sản phẩm",
+   "kq": "app build xong trong 2 tuần"
+  },
+  {
+   "s": "06:36",
+   "e": "07:08",
+   "nut": ["?"],
+   "moi": "Định giá subscription có trần usage cho app AI",
+   "tom": "Thu subscription theo tháng kèm trần lượng dùng; giá ban đầu chỉ là ném ra vài con số để test rồi thấy chạy được thì giữ; sau đó liên tục soi chi phí LLM và chi phí transcription để chắc chắn còn đủ biên nuôi được lượng output đang trả cho khách"
+  },
+  {
+   "s": "07:08",
+   "e": "07:55",
+   "nut": ["?"],
+   "moi": "Ba lý do một app AI sống sót giữa đám đông",
+   "tom": "(1) giải đúng vấn đề của chính mình; (2) dựng thương hiệu bằng cách bắt tay đúng nhóm creator; (3) liên tục đổ tiền vào chất lượng output — với sản phẩm AI thứ khách chấm không phải nền tảng chạy ra sao mà là output có tốt không và backend có ăn gian không"
+  },
+  {
+   "s": "07:55",
+   "e": "08:28",
+   "nut": ["?"],
+   "moi": "Phòng thủ trước model nền tảng bằng cách ôm trọn workflow",
+   "tom": "Trả lời câu 'ChatGPT ra model mới là xoá sổ anh': mình giải bài toán quy trình, luôn còn chỗ để tối ưu; ChatGPT là hạ tầng chứ không phải sản phẩm, họ chỉ giải một điểm đau nhỏ, còn nền tảng ôm trọn workflow từ A tới Z là thứ họ không làm"
+  },
+  {
+   "s": "08:28",
+   "e": "09:00",
+   "nut": ["?"],
+   "moi": "Trần chi marketing 20% doanh thu để luôn có lãi",
+   "tom": "Churn chỉ một chữ số vì giải vấn đề có thật chứ không phải món đồ chơi mới lạ; nguyên tắc cứng là marketing không bao giờ vượt 20% doanh thu vì mục tiêu là kiếm tiền và có lãi",
+   "kq": "hơn $120K MRR, tăng hơn 20%/tháng, churn một chữ số"
+  },
+  {
+   "s": "09:00",
+   "e": "10:17",
+   "nut": ["?"],
+   "moi": "Chọn co-founder theo alignment và kỹ năng bù nhau",
+   "tom": "Sai lầm hay gặp của founder lần đầu là chọn đồng sáng lập vì tiện hoặc vì bí, chứ không phải vì thật sự cùng hướng; ba người này hợp vì cùng biết đường dài nên không sa vào tiểu tiết lúc đầu, kỹ năng không chồng lấn nên ai ở lane nấy, và đủ tin nhau để nói thẳng 'cái này chưa đủ tốt'"
+  },
+  {
+   "s": "10:17",
+   "e": "11:36",
+   "nut": ["?"],
+   "moi": "Đổi thời gian gọi vốn lấy thời gian nói chuyện với khách",
+   "tom": "Một người từng có 2 công ty gọi vốn (một cái tới series C, huy động hơn $80 triệu; cái sau là Omnipanel gọi $2,5 triệu seed từ CRV) — lần này toàn bộ thời gian đáng lẽ đi kể vision cho VC được dồn vào nói chuyện với khách và build thứ chính mình dùng. Ramon thì gọi vốn cho Trend.io gần 4 năm và kết luận: giỏi gọi vốn là một kỹ năng riêng, chưa giỏi build business ra doanh thu mà lại đi giỏi gọi vốn là làm ngược"
+  },
+  {
+   "s": "11:36",
+   "e": "12:39",
+   "nut": ["?"],
+   "moi": "Nhịp vận hành team remote: async + 2 standup + gặp mặt mỗi quý",
+   "tom": "Ba người ở ba nơi (Fort Lauderdale, Miami, Austin), trong tuần làm async; mỗi quý bay về gặp nhau ít nhất một tuần để chốt hết việc lớn; vận hành thì đúng hai cuộc standup 30 phút — sáng thứ Hai và thứ Sáu — còn lại chặn lịch để không dính họp cả ngày mà tập trung ship"
+  }
+ ],
+ "bo_qua": [
+  {"s": "05:33", "e": "06:04", "ly_do": "quảng cáo báo cáo 52 micro-SaaS của Starter Story"},
+  {"s": "12:54", "e": "13:40", "ly_do": "outro + quảng cáo báo cáo SaaS và cộng đồng Starter Story"}
+ ]
+}

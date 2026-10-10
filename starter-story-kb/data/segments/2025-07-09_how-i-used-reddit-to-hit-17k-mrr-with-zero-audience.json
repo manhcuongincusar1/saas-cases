@@ -1,0 +1,40 @@
+{
+ "f": "2025-07-09_how-i-used-reddit-to-hit-17k-mrr-with-zero-audience",
+ "vid": "BaWUPamqWlA",
+ "segments": [
+  {"s":"01:18","e":"01:48","nut":["2.1"],
+   "tom":"Ý tưởng App Alchemy đến từ chính nỗi đau của anh: thuê designer trên Upwork làm giao diện app mobile mất hàng trăm đô, mà mỗi lần sửa một chi tiết nhỏ lại phải trả thêm tiền"},
+  {"s":"01:48","e":"02:19","nut":["2.0","?"],"moi":"MVP hai tuần rồi đi marketing ngay thay vì validate thêm",
+   "tom":"Vì tự mình dính vấn đề nên bỏ qua khâu validate: dựng MVP đơn giản nhất trong 2 tuần rồi lập tức đi marketing trên Reddit","kq":"$1K MRR đầu tiên hoàn toàn từ Reddit"},
+  {"s":"02:19","e":"02:50","nut":["?"],"moi":"Chọn thư viện phổ biến vì AI viết code giỏi hơn ở đó",
+   "tom":"Mẹo build nhanh bằng AI: tránh framework và library mới nhất vì AI luôn giỏi hơn với thứ được dùng nhiều nhất trên web, và xài component library như Chakra UI hay Ant Design để prototype nhanh mà vẫn đẹp"},
+  {"s":"04:08","e":"05:28","nut":["4.17"],
+   "tom":"Dưới 100 follower trên X, không YouTube, không TikTok, vẫn sống bằng Reddit vì hai lẽ: reach miễn phí cực lớn, và nhắm mục tiêu chính xác hơn mọi nền tảng khác nhờ có subreddit cho gần như mọi ngách","kq":"hơn 1.000 khách trả tiền, 20K signup, 20K traffic/tháng, $0 tiền marketing"},
+  {"s":"05:28","e":"06:00","nut":["?"],"moi":"Warm-up tài khoản Reddit trước khi đăng bài có mục đích",
+   "tom":"Bước 1 của playbook Reddit: dùng Reddit hàng ngày như user thật — vừa để nhìn ra kiểu post nào ăn, vừa để hâm nóng tài khoản, vì post từ account mới tạo bị Reddit lọc bỏ tự động"},
+  {"s":"06:00","e":"06:46","nut":["?"],"moi":"Dùng công cụ targeting của Reddit Ads để lập danh sách subreddit miễn phí",
+   "tom":"Bước 2: lập danh sách subreddit càng nhiều càng tốt, cả rộng lẫn hẹp — cách hay nhất là vào trang Reddit Ads tạo campaign giả, mở mục targeting communities, gõ từ khoá như 'no code' rồi thêm dần để máy gợi ý tiếp, không tốn một đồng ads"},
+  {"s":"06:46","e":"08:05","nut":["4.1","?"],"moi":"Cấu trúc post Reddit: headline hút, giá trị trước, link sản phẩm sau",
+   "tom":"Bước 3: mọi post ăn đều cùng khuôn — headline giật sự chú ý và tuyệt đối không nhắc sản phẩm, rồi cho giá trị thật trước (anh viết case study về một app mobile thành công thấy trên Twitter), sau đó mới cắm link; link thẳng ra nhiều traffic hơn hẳn chỉ nhắc tên"},
+  {"s":"08:05","e":"08:38","nut":["?"],"moi":"Cắm kèm một sản phẩm bổ trợ để post không bị coi là tự quảng cáo",
+   "tom":"Với subreddit cấm link sản phẩm, mẹo là plug thêm một tool bổ trợ ngay sau tool của mình — anh làm design nên gắn kèm Cursor cho phần dev — nhờ vậy ít bị gỡ bài hay ban vì self-advertisement"},
+  {"s":"08:38","e":"09:08","nut":["?"],"moi":"Bẫy: nhét tên sản phẩm ngay headline post cộng đồng",
+   "tom":"Ví dụ phản diện: founder gắn tên sản phẩm ngay trên headline, kể luôn từng tính năng và cả link Discord — engagement gần như bằng không vì người đọc chưa nhận được gì đã bị bán hàng"},
+  {"s":"09:08","e":"09:57","nut":["4.1","?"],"moi":"Rải đúng một post sang nhiều subreddit để cầu front page",
+   "tom":"Bước 4: mang chính bài đó đăng lên hàng loạt subreddit — volume làm tăng xác suất một bài lọt front page, mà kể cả không lọt thì 10 sub × 10K view cũng đã là 100.000 lượt xem"},
+  {"s":"09:57","e":"10:13","nut":["4.11"],
+   "tom":"Bước 5: lặp lại và thử đủ định dạng (video, case study) xem cái nào hợp ngách; nhịp an toàn là 2–3 bài mỗi tuần, đăng dày hơn là dễ bị ban"},
+  {"s":"10:13","e":"10:30","nut":["?"],"moi":"Stack vibe-code toàn công cụ phổ biến",
+   "tom":"Stack: Cursor để code, Next.js và React làm framework chính, Firebase lo auth lẫn database — toàn thứ phổ biến để AI viết code ít sai"},
+  {"s":"10:30","e":"11:00","nut":["1.1"],
+   "tom":"Chi phí thật của SaaS $17K/tháng: Cursor $20, hosting Vercel $40, còn khoản nặng nhất là AI API backend khoảng $2.500 mỗi tháng","kq":"biên khoảng 70%"},
+  {"s":"11:00","e":"11:31","nut":["?"],"moi":"Chọn thị trường đang phình ra, không phải đang teo",
+   "tom":"Bài học lớn nhất: giải vấn đề trong thị trường đang lớn lên — làm tool cho chủ báo giấy là đi vào ngành suy tàn, còn làm cho vibe coding là cưỡi đúng thứ vừa bùng vài tháng gần đây"},
+  {"s":"11:31","e":"11:50","nut":["2.B3"],
+   "tom":"Ngay từ đầu phải dành phần lớn thời gian cho marketing và phân phối thay vì thêm tính năng không ai xin; solo hay công ty nhỏ thì tốc độ là lợi thế lớn nhất"}
+ ],
+ "bo_qua": [
+  {"s":"02:50","e":"04:08","ly_do":"quảng cáo 10Web AI website builder API"},
+  {"s":"12:40","e":"13:03","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

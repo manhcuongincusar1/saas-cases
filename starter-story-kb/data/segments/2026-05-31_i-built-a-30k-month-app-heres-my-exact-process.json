@@ -1,0 +1,142 @@
+{
+ "f": "2026-05-31_i-built-a-30k-month-app-heres-my-exact-process",
+ "vid": "P4QodeA_lQ0",
+ "segments": [
+  {
+   "s": "01:26",
+   "e": "02:25",
+   "nut": [
+    "?"
+   ],
+   "moi": "Rating App Store là social proof bắt buộc của consumer app",
+   "tom": "Snag giúp người dùng tìm đồ miễn phí gần chỗ mình; Superwall báo ~$30K MRR, hơn 100.000 user đã đăng ký, 9.000 conversion, hơn $80K tổng thu; bán cả gói tuần, tháng, năm lẫn one-time; 3.300 rating App Store làm social proof",
+   "kq": "$30K MRR sau 4 tháng"
+  },
+  {
+   "s": "02:25",
+   "e": "03:37",
+   "nut": [
+    "3.B8"
+   ],
+   "tom": "Bán công ty media đầu giá 6 chữ số rồi làm Congress và quant research; một năm ra hơn 45 app — Pillar lên 11.000 user với CAC gần bằng 0 nhưng bỏ vì shiny object syndrome, HeightGPT cũng vậy, tới app thứ 45 mới chịu dồn vào một cái",
+   "kq": "45 app, hầu hết bỏ dở; chỉ cái thứ 45 lên $30K MRR"
+  },
+  {
+   "s": "03:37",
+   "e": "04:14",
+   "nut": [
+    "?"
+   ],
+   "moi": "Build ngược từ value proposition marketing rồi mới tới code",
+   "tom": "Quy trình ngược: chốt value proposition muốn phô ra trước, hỏi app phải trông thế nào để giữ chân user trong 3 giây, sang Figma wireframe và design, rồi ném design cho Claude Code trong IDE — tổng 4-5 tiếng là có app chưa kể backend"
+  },
+  {
+   "s": "04:50",
+   "e": "05:39",
+   "nut": [
+    "?"
+   ],
+   "moi": "Stack app iOS một người (Cursor + Claude Code + Superwall + Supabase)",
+   "tom": "Cursor làm IDE, Claude Code Max viết gần hết, GoDaddy giữ domain, Loops gửi mail kéo user đã churn quay lại, Superwall để A/B test paywall, Mixpanel đo onboarding có ổn không, Figma và Supabase làm backend"
+  },
+  {
+   "s": "05:39",
+   "e": "06:02",
+   "nut": [
+    "?"
+   ],
+   "moi": "Soi Sensor Tower tìm app đang kiếm tiền rồi làm tốt hơn 10%",
+   "tom": "Hai nguồn ý tưởng: YouTube và Twitter để thấy người ta kiếm tiền bằng đủ kiểu, hoặc lên Sensor Tower tra thẳng các app đang thu nhiều tiền rồi copy nguyên và chỉ cần làm tốt hơn 10%"
+  },
+  {
+   "s": "06:02",
+   "e": "06:32",
+   "nut": [
+    "2.B1"
+   ],
+   "tom": "Bằng chứng ý tưởng không phải hào: sau khi HeightGPT ra mắt có khoảng 20 app copycat, và chúng vẫn thu hàng trăm nghìn đô nhờ UI đẹp hơn, marketing khá hơn, funnel tốt hơn"
+  },
+  {
+   "s": "06:32",
+   "e": "07:18",
+   "nut": [
+    "4.4",
+    "4.6"
+   ],
+   "tom": "Chạy UGC quy mô lớn: liên hệ hàng loạt creator rồi phỏng vấn từng người xem có chất viral không, đưa người đậu lên retainer tháng cộng CPM; video nào vượt 50.000 view thì mới đem đi chạy Meta ads",
+   "kq": "phỏng vấn 100 creator chỉ lấy được 9-10 người"
+  },
+  {
+   "s": "07:18",
+   "e": "07:50",
+   "nut": [
+    "4.3",
+    "4.B5"
+   ],
+   "tom": "Meta ads không tuyến tính: đang lãi 10% ở mức $100/ngày không có nghĩa lên $200 thì lãi 20%, vì lợi suất giảm dần; nên việc phải làm là canh creative đã fatigue chưa rồi bơm thêm creative mới, ROAS trên 1 mới là có lãi"
+  },
+  {
+   "s": "08:11",
+   "e": "08:50",
+   "nut": [
+    "?"
+   ],
+   "moi": "Tỉ lệ quy đổi view sang doanh thu app (100K view ≈ $1-2K)",
+   "tom": "Video mẫu chỉ soft-sell kiểu 'không tin nổi cô ấy vừa cho anh ta món đó miễn phí trên Snag', được 240.000 view; quy luật họ thấy là cứ 100.000 view ra khoảng $1.000-2.000 doanh thu subscription",
+   "kq": "1 video 240K view ra khoảng $2,4-4,8K"
+  },
+  {
+   "s": "08:50",
+   "e": "09:42",
+   "nut": [
+    "4.3"
+   ],
+   "tom": "Quy trình ads hai bước: test campaign $50/ngày để xem creative có đáng không, thấy ROAS trên 1 hoặc CTR rất cao thì tăng dần 50 rồi 100, 200, 300; một creative gánh được ~$3.000 chi ads trước khi ROAS âm, nên số lượng creative chính là số vé số",
+   "kq": "1 creative sống được tới ~$3.000 chi ads"
+  },
+  {
+   "s": "09:42",
+   "e": "10:40",
+   "nut": [
+    "?"
+   ],
+   "moi": "Value prop kiểu trả vài đô để lấy về hàng trăm đô",
+   "tom": "Bước 1 và cũng là đòn bẩy lớn nhất: chọn ý tưởng mà sản phẩm tự bán được — với Snag là trả vài đô một tháng để tiếp cận đồ trị giá hàng trăm đô, nên convert cao và ít người huỷ sub"
+  },
+  {
+   "s": "10:40",
+   "e": "11:12",
+   "nut": [
+    "?"
+   ],
+   "moi": "App đầu tay chỉ cần là API wrapper một use case",
+   "tom": "Bước 2: mở IDE cho Claude Code code; app đầu gần như chắc chắn là wrapper quanh một API cho một use case duy nhất và như thế hoàn toàn ổn — chỉ cần gọi API đúng, app chạy được, có auth để App Store chịu duyệt"
+  },
+  {
+   "s": "11:12",
+   "e": "11:59",
+   "nut": [
+    "4.14",
+    "4.2"
+   ],
+   "tom": "Bước 3-4: không có tiền thuê creator thì tự quay — anh từng tự quay cả nghìn video cho app trước, rồi thuê editor dựng hàng loạt theo gói để đẩy thành paid ads; sau đó cứ iterate sản phẩm để LTV lên và CAC xuống"
+  }
+ ],
+ "bo_qua": [
+  {
+   "s": "04:14",
+   "e": "04:50",
+   "ly_do": "quảng bá iOS bootcamp miễn phí của Starter Story"
+  },
+  {
+   "s": "11:59",
+   "e": "13:02",
+   "ly_do": "lời khuyên chung chung về networking và 'tự tạo may mắn'"
+  },
+  {
+   "s": "13:02",
+   "e": "14:13",
+   "ly_do": "tổng kết chung chung của host rồi quảng bá bootcamp lần hai"
+  }
+ ]
+}

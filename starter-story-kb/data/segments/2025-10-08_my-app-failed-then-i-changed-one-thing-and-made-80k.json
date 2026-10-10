@@ -1,0 +1,36 @@
+{
+ "f": "2025-10-08_my-app-failed-then-i-changed-one-thing-and-made-80k",
+ "vid": "hYW9YDwHE20",
+ "segments": [
+  {"s":"00:45","e":"01:16","nut":["?"],"moi":"Đổi mô hình giá để cứu app đã ra mắt thất bại",
+   "tom":"Praneeth bỏ công việc lương $250.000/năm để làm app riêng; bản đầu của Rabbit Holes AI (nay là Canvas Mode) ra mắt không có traction, chỉ đổi mô hình giá là app kiếm $80.000 trong 6 tháng","kq":"$80.000/6 tháng sau khi đổi giá"},
+  {"s":"01:16","e":"01:46","nut":["2.7","?"],"moi":"Canvas phân nhánh hội thoại AI cho power user",
+   "tom":"Sản phẩm là canvas để nói chuyện với các model AI: chat dài với ChatGPT hay bị lạc mạch, còn ở đây thấy đoạn nào đáng đào thì tách nhánh thành node mới — nhắm đúng nhóm power user dùng AI nặng"},
+  {"s":"01:46","e":"02:32","nut":["2.1","2.8"],
+   "tom":"Ý tưởng đến khi tự học làm dự án cũ: mở ChatGPT, Perplexity và Claude ở ba tab khác nhau vì mỗi con mạnh một mảng (Claude code, GPT kiến trúc, Perplexity tin real-time) — dân UX trong anh thấy chỗ gãy đó và muốn gộp về một tab"},
+  {"s":"02:32","e":"03:36","nut":["?"],"moi":"Freemium chết khi ICP đã bội thực subscription",
+   "tom":"Sai lầm bản đầu: mặc định chọn subscription/freemium, ra web app cho hỏi vài câu free rồi bắt trả tiền — không ăn, vì anh không có personal brand đủ lớn và ICP là power AI user vốn đã gánh cả đống subscription AI","kq":"bản đầu gần như không ra doanh thu"},
+  {"s":"03:36","e":"04:25","nut":["1.1"],
+   "tom":"Muốn bán one-time thì phải cắt sạch chi phí lặp lại: bước một là bring-your-own-keys để user tự trả tiền AI, bước hai là bỏ luôn chi phí server bằng cách chạy trên máy user — tức phải làm desktop app, ship xong là quên chi phí"},
+  {"s":"04:25","e":"04:53","nut":["3.7","?"],"moi":"Khách trả một lần cho feedback nghiêm túc hơn user free",
+   "tom":"Ngay khi đổi sang mua đứt, người trả tiền tăng hẳn và chất lượng feedback khác hẳn: họ nghiêm túc hơn, chịu góp ý và thật sự tin vào một sản phẩm còn non — sáu tháng sau là $80.000","kq":"$80.000 trong 6 tháng"},
+  {"s":"04:53","e":"06:10","nut":["1.3","?"],"moi":"Lifetime deal như công cụ validate của dân bootstrap",
+   "tom":"Anh cho rằng mọi business bootstrap nên có lifetime deal: freemium kiểu VC cho phép trì hoãn product-market fit vì có tiền đỡ, còn bootstrap thì không — LTD đem về cục tiền, xác nhận nhu cầu và một nhóm user chịu góp ý"},
+  {"s":"06:56","e":"07:44","nut":["?"],"moi":"Nâng giá LTD theo mốc số lượng user",
+   "tom":"Cách định giá: sản phẩm AI thì bắt buộc BYOK để đẩy chi phí sang user; giá khởi điểm $29 khi dưới 100 user, qua mốc 100 nâng lên $49, và ở mốc 1.200 user thì chuẩn bị nâng mạnh rồi chuyển dần sang thu định kỳ","kq":"1.200 user trả tiền"},
+  {"s":"07:44","e":"08:47","nut":["4.9","?"],"moi":"Gọi thẳng tên ICP trong H1 landing page",
+   "tom":"Growth bắt đầu từ landing page viết đúng cho ICP — power AI user được gọi tên ngay trong H1 và lặp lại nhiều chỗ; sau đó anh vào Twitter trả lời các cuộc bàn về cách tương tác với AI, chỉ gợi ý chứ không rao bán sản phẩm"},
+  {"s":"08:47","e":"09:19","nut":["1.3"],
+   "tom":"Số thật: khoảng $80K doanh thu gộp, còn ~$75K sau hoàn tiền, 1.200 khách trả tiền (60% mua lifetime, 40% mua một lần và phải gia hạn sau một năm nếu muốn update), 38.000 khách truy cập web","kq":"$80K doanh thu, ~$75K lợi nhuận"},
+  {"s":"09:19","e":"10:22","nut":["?"],"moi":"Stack desktop AI: Electron + React + Vercel AI SDK",
+   "tom":"Stack: Cursor để code, landing page Next.js, app chính là Electron dùng React và TypeScript, host trên Cloudflare; đòn bẩy lớn nhất là AI SDK của Vercel — chỉ lo phần giao diện, nó lo phần nối tới mọi nhà cung cấp model"},
+  {"s":"10:22","e":"10:52","nut":["1.1"],
+   "tom":"Nhờ BYOK và app chạy trên máy user, chi phí vận hành gần như bằng không: chỉ tốn hosting landing page trên Vercel ~$50/tháng và gói Cursor $200/tháng — mà khoản đó là để làm tính năng mới, không phải để duy trì","kq":"chi phí ~$250/tháng"},
+  {"s":"10:52","e":"11:40","nut":["?"],"moi":"Build để gây ấn tượng với dân cùng nghề thay vì tìm PMF",
+   "tom":"Bài học sau 6–7 năm làm sản phẩm: phần lớn thời gian anh vận hành như một tay nghề giỏi, làm thứ để gây ấn tượng với đồng nghiệp thay vì đi tìm product-market fit và thứ người ta chịu trả tiền","kq":"5 năm build không tới product-market fit"}
+ ],
+ "bo_qua": [
+  {"s":"06:10","e":"06:56","ly_do":"quảng bá Starter Story Build giữa video"},
+  {"s":"11:55","e":"12:38","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

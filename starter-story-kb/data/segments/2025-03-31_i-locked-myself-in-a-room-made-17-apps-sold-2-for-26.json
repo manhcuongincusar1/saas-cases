@@ -1,0 +1,42 @@
+{
+ "f": "2025-03-31_i-locked-myself-in-a-room-made-17-apps-sold-2-for-26",
+ "vid": "zPijWd9uk-I",
+ "segments": [
+  {"s":"01:03","e":"01:33","nut":["1.5"],
+   "tom":"Nico Jeannen làm 17 app trong một năm, đa số chết, bán được 2 cái: MakeLogoAI thu $26.000 doanh số rồi bán $65.000; TalkNotes thu $77.000 doanh số trước khi bán $200.000 hồi tháng 7",
+   "kq":"$265.000 từ 2 thương vụ bán app"},
+  {"s":"01:33","e":"02:51","nut":["?"],"moi":"Chuyển từ trả một lần sang subscription",
+   "tom":"MakeLogoAI tạo logo bằng AI, thu tiền một lần theo gói 5/10/15 phương án kèm vài tuỳ chỉnh (thêm chữ, đổi vị trí), làm từ tháng 11 và chốt bán tháng 3 — khách là người tò mò về AI cộng với chủ doanh nghiệp nhỏ không muốn thuê designer nhưng cũng không muốn logo quá generic. TalkNotes biến voice note thành văn bản đã định dạng, ban đầu bán pass một năm trả một lần rồi đổi sang subscription $60/năm hoặc $12/tháng",
+   "kq":"TalkNotes ~10.000 người dùng"},
+  {"s":"02:51","e":"04:09","nut":["1.3","?"],"moi":"Chuỗi thất bại làm nền: cà vạt → dropshipping → freelance chạy ads",
+   "tom":"19 tuổi làm hè ở ngân hàng, 3 ngày là nghỉ; một năm sau mở thương hiệu cà vạt sản xuất tại Pháp và chết vì chẳng ai còn đeo cà vạt, nhưng nhờ đó dính vào e-commerce và marketing; học dropshipping từ các group Facebook, không thành nhưng học được cách chạy Facebook Ads nên được một brand thời trang Bỉ thuê freelance — tới lúc họ tìm được người rẻ hơn thì thôi. Brand e-com của anh có doanh số nhưng lãi rất mỏng, nên anh dẹp hết, khoá mình trong phòng khách sạn 2 tháng học code",
+   "kq":"2 tháng sau là ra được sản phẩm đầu tiên"},
+  {"s":"04:09","e":"05:14","nut":["2.10","2.8"],
+   "tom":"Bộ 4 tiêu chí chọn ý tưởng: (1) giá trị cảm nhận — người ta có thật sự coi đây là vấn đề đáng giải hay chỉ hơi bất tiện; (2) quy mô — có thị trường hay chỉ 3 người trên đời cần; (3) kỹ năng của mình — mình tự làm được không; (4) phân phối — có đường tiếp cận người dùng mà vẫn có lãi không. Anh nói thêm: hầu hết ý tưởng thành công đều đến tự nhiên vì chính anh cần dùng"},
+  {"s":"05:14","e":"06:51","nut":["?"],"moi":"Quy trình build 5 bước bắt đầu bằng deadline cứng",
+   "tom":"Bước 0 luôn là chốt một deadline cứng — không có ràng buộc thời gian là sẽ mãi thêm tính năng cho 'app hoàn hảo'. Rồi: liệt kê chỉ những feature bắt buộc → tìm ý tưởng giao diện trên Dribbble, Google Images, gần đây là v0 sinh giao diện → prototype trên Figma nếu UI phức tạp, không thì code thẳng → gắn các lớp SaaS (đăng nhập, thanh toán) bằng boilerplate mang từ project này sang project khác → làm landing page như một trang bán hàng → cuối cùng mới tối ưu SEO, mobile và các lỗi vặt"},
+  {"s":"07:06","e":"07:37","nut":["3.7","4.14"],
+   "tom":"Mẹo ra mắt nhanh: MakeLogoAI ban đầu không có backend nào cả — anh dùng Typeform để hỏi tên dự án, thông tin và kiểu logo khách muốn, rồi thu tiền luôn trên đó; anh tự làm tay từng logo. Không tự động, không scale được, nhưng có doanh thu đầu tiên nghĩa là người ta quan tâm thật, lúc đó mới đáng bỏ công làm giao diện tử tế"},
+  {"s":"09:16","e":"09:52","nut":["4.2","3.B1"],
+   "tom":"MakeLogoAI không tiêu đồng ads nào vì anh không có tiền tiết kiệm — thời điểm đó anh là người đầu tiên làm logo bằng AI nên người ta tự tò mò. Với TalkNotes anh cũng không chạy ads ngay: validate organic trước tới khoảng $1.500 MRR, khi biết ý tưởng có tiềm năng thật rồi mới bắt đầu đổ ads",
+   "kq":"$1.500 MRR organic trước khi bật ads"},
+  {"s":"09:52","e":"10:38","nut":["4.3","?"],"moi":"Một landing page riêng cho từng nhóm khách, ads riêng cho từng nhóm",
+   "tom":"Ads của anh rất thô: ảnh tĩnh kèm headline vì không đủ nguồn lực làm creative. Thứ khiến nó bùng lên là làm landing page riêng cho từng nhóm khách và ads riêng bám đúng nhóm đó. Ngân sách TalkNotes chỉ $20-100/ngày — anh nói thẳng là ít, nhưng chi hàng nghìn đô/ngày thì không kham nổi phần creative và chăm sóc khách",
+   "kq":"0 → $7.000 MRR bằng Facebook Ads"},
+  {"s":"10:38","e":"11:25","nut":["1.4","?"],"moi":"Phân biệt kênh tìm kiếm và kênh chen ngang",
+   "tom":"Anh chia nền tảng làm hai loại và đối xử khác nhau: nền tảng tìm kiếm như Google là đưa đúng thứ người ta đang cần vào đúng lúc; nền tảng chen ngang như Facebook/Instagram là người ta đang lướt việc khác nên toàn bộ trò chơi là giành sự chú ý rồi khiến họ muốn xem tiếp và bấm vào"},
+  {"s":"11:25","e":"12:11","nut":["4.1","4.3"],
+   "tom":"Giải phẫu quảng cáo ăn nhất của TalkNotes: không hề chuyên nghiệp — chỉ là một người anh thuê tự quay mình đọc kịch bản trong văn phòng, trông y như nội dung organic nên người ta không đề phòng; nội dung bám vào vấn đề, tên app mãi về sau mới xuất hiện, cứ liên tục cho lý do để xem tiếp, tới cuối mới có CTA kiểu 'nếu bạn đang gặp mấy vấn đề này thì xem thử cái này'"},
+  {"s":"12:11","e":"13:15","nut":["1.5","?"],"moi":"Bán app trên acquire.com: listing như landing page, để người mua tranh nhau",
+   "tom":"Anh bán qua acquire.com — sàn chỉ nối mình với người mua chứ không xử lý giao dịch, tiền phải tự chuyển khoản. Listing phải viết như một landing page, trình bày startup như một sản phẩm; và nên để nhiều người mua cùng quan tâm vì có yếu tố cái tôi: MakeLogo được trả $50K, rồi $55K, rồi $65K trả dần trong một năm, tới cuộc gọi cuối trong ngày thì một người nói không muốn mất thời gian đấu giá và chốt $65.000 tiền mặt với điều kiện xong trong 2 tuần",
+   "kq":"$65.000 tiền mặt, chốt trong 2 tuần"},
+  {"s":"13:15","e":"14:39","nut":["?"],"moi":"Nhúng documentation vào Cursor để code nhanh hơn",
+   "tom":"Stack: Next.js làm framework chính, thư viện component NextUI để khỏi code từng cái nút (nhanh gấp ~3 lần), Cursor có nhúng sẵn documentation của Next.js và NextUI (anh nói nhanh gấp ~10 lần so với trước khi dùng AI), v0 để sinh giao diện rồi chuyển sang Next, Ahrefs cho SEO, cộng hai công cụ do chính anh làm: một widget thu feedback người dùng và một công cụ A/B test để thử onboarding và tăng tỉ lệ chuyển đổi"},
+  {"s":"15:25","e":"16:12","nut":["3.8","?"],"moi":"Mục tiêu đầu tiên là kiếm 1 đô, không phải 10.000 đô",
+   "tom":"Lời khuyên cho chính mình lúc mới học code: đừng gắn cảm xúc vào sản phẩm; dựng prototype kỹ thuật thật nhanh rồi đi nói chuyện với người dùng sớm nhất có thể; và đừng nhắm $100.000 hay kể cả $10.000 cho dự án đầu — hãy kiếm đồng đô la đầu tiên trên mạng đã, quên chuyện scale đi, những thắng lợi bé mới đẩy quả cầu tuyết lăn"}
+ ],
+ "bo_qua": [
+  {"s":"07:37","e":"09:16","ly_do":"quảng cáo Vanta (compliance SOC 2)"},
+  {"s":"16:58","e":"17:28","ly_do":"quảng bá AI Build Accelerator của Starter Story"}
+ ]
+}

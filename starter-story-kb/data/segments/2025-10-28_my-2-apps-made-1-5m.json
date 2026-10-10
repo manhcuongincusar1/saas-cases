@@ -1,0 +1,114 @@
+{
+ "f": "2025-10-28_my-2-apps-made-1-5m",
+ "vid": "9WWvLj-NqEE",
+ "segments": [
+  {
+   "s": "01:35",
+   "e": "01:52",
+   "nut": ["?"],
+   "moi": "Đưa app đầu vào chế độ tự chạy rồi build app thứ hai để exit",
+   "tom": "Social Wizard ra mắt đầu 2024, viral rồi lên ~$60K/tháng và hơn 600.000 lượt tải; app thứ hai Clean Eats đạt $10K doanh thu trong 2 tuần và bán lại cho một công ty Anh sau 4 tháng",
+   "kq": "$1,5M doanh thu 12 tháng, exit app thứ hai sau 4 tháng"
+  },
+  {
+   "s": "01:52",
+   "e": "02:36",
+   "nut": ["2.1", "2.8"],
+   "tom": "App trước đó là Casp (chia sẻ ảnh theo nhóm) lên vài nghìn user, 20.000 ảnh rồi chết; ý tưởng mới đến từ chính chỗ tắc của anh — không biết nhắn gì với một cô gái, tìm App Store chữ 'life advice' thì không có app nào",
+   "kq": "Casp thất bại"
+  },
+  {
+   "s": "02:36",
+   "e": "03:08",
+   "nut": ["?"],
+   "moi": "Thả bản script thô cho bạn bè dùng để đo tín hiệu trước khi làm app",
+   "tom": "Chưa có app, chỉ là một script NestJS gọi LLM sinh câu nhắn; đưa cho vài người bạn dùng ở buổi homecoming và lần đầu bạn cấp ba quan tâm thứ anh làm — đó là tín hiệu để mài lại rồi đẩy lên App Store"
+  },
+  {
+   "s": "03:08",
+   "e": "03:45",
+   "nut": ["4.1"],
+   "tom": "Đơn đầu tiên cuối tháng 1 chỉ $10, mất 4 tuần mò distribution; vừa tìm ra format viral thì 2 tuần sau $3,5K MRR, hết tháng đầu vượt $25K MRR, tháng thứ 6 thu ~$250K, cả năm ~$500K mà không tốn một đô ads",
+   "kq": "$10 → $25K MRR sau 1 tháng, ~$500K/năm, $0 quảng cáo"
+  },
+  {
+   "s": "03:56",
+   "e": "04:42",
+   "nut": ["4.6", "4.4"],
+   "tom": "Format viral là clip screenshot story của một cô gái rồi để Social Wizard gợi ý câu trả lời; anh tự quay content để mò ra format trước, sau đó mới đi tìm micro streamer rất nhỏ (chỉ vài video 100–200K view) nhưng đúng tệp khán giả",
+   "kq": "tìm ra format mất một thời gian tự làm content"
+  },
+  {
+   "s": "04:42",
+   "e": "06:31",
+   "nut": ["4.1", "4.4"],
+   "tom": "Đưa creator đúng format và bảo dựng lại: hook là cô gái xinh để người xem dừng lướt, sản phẩm lồng vào như đang dùng thật chứ không rao bán; trả $120 cho một video, video ăn 2 triệu view và mang về hàng chục nghìn đô rồi nhân bản format qua nhiều creator",
+   "kq": "$120 → 2 triệu view → hàng chục nghìn $"
+  },
+  {
+   "s": "07:45",
+   "e": "08:20",
+   "nut": ["?"],
+   "moi": "Chọn tự làm content hay thuê creator dựa trên lượng content sẵn có của ngách",
+   "tom": "Bước 1 là soi ngách: đã có sẵn lượng content lớn thì đi thẳng tới creator cỡ vừa và lớn, chưa có thì tự tay làm content; tuyệt đối không outsource khâu này vì có tiền mà không tự học sẽ đốt sạch"
+  },
+  {
+   "s": "08:20",
+   "e": "08:50",
+   "nut": ["?"],
+   "moi": "Outreach creator là trò số lượng: cỡ 100 lời mời mới được 1 người hợp tác",
+   "tom": "Bước 2, làm việc với creator là trò số lượng: đa số liên hệ 5–10 người rồi kết luận 'không ăn', thực tế phải chào cỡ 100 creator mới được một người chịu — có video đầu tiên rồi thì lấy nó làm đòn bẩy mời tiếp"
+  },
+  {
+   "s": "08:50",
+   "e": "09:37",
+   "nut": ["4.11", "4.1"],
+   "tom": "Đừng đòi format viral ngay ngày đầu, chỉ cần cái hơi ăn; tìm format trên TikTok chứ không phải Instagram vì account mới dễ nổ hơn; mở 2 account, 3 video/ngày, sau 1–2 tuần đẩy lên 10 rồi 20 — 100 video/ngày là 700/tuần thì viral không còn là may"
+  },
+  {
+   "s": "09:37",
+   "e": "10:24",
+   "nut": ["?"],
+   "moi": "Chọn creator theo tệp khán giả chứ không theo ngách nội dung",
+   "tom": "Bước 3 scale: creator không cần đúng ngách sản phẩm — mấy micro streamer của Social Wizard làm content Fortnite, đột nhập McDonald's, react video nhưng đúng tệp; app health & fitness hoàn toàn có thể đi tìm creator nấu ăn"
+  },
+  {
+   "s": "10:24",
+   "e": "11:03",
+   "nut": ["2.9"],
+   "tom": "Ngách education đang bị bỏ quên trong khi ai cũng đổ dồn vào health & fitness và lifestyle; app dạy đấm bốc giỏi hơn, bơi giỏi hơn, thuyết phục giỏi hơn — đóng gói tử tế là có cơ hội lớn"
+  },
+  {
+   "s": "11:10",
+   "e": "11:41",
+   "nut": ["?"],
+   "moi": "Bậc giá subscription tuần/tháng/năm cho app mobile",
+   "tom": "Social Wizard là app AI giúp con trai cải thiện kỹ năng xã hội, user chủ yếu 16–24 tuổi, thu tiền bằng subscription ba bậc: $10/tuần, $20/tháng, $80/năm — thứ thật sự bán là sự tự tin khi trả lời DM"
+  },
+  {
+   "s": "11:41",
+   "e": "12:12",
+   "nut": ["?"],
+   "moi": "Diễn giải lại lợi ích thành thứ khách thật sự bỏ tiền mua",
+   "tom": "Clean Eats quét barcode món ăn rồi nói nó ảnh hưởng thế nào tới da và cân nặng, khách lõi là nữ 18–28; bài học là phải suy ra thứ mình thật sự bán — 'ăn lành mạnh' thì mơ hồ, 'món này làm hỏng da' thì bỏ xuống ngay"
+  },
+  {
+   "s": "12:12",
+   "e": "12:45",
+   "nut": ["?"],
+   "moi": "Stack tối thiểu vận hành app mobile một mình",
+   "tom": "Stack: React Native cho app, NestJS cho backend (deploy Render hay Heroku đều được), Firebase làm database vì rẻ và scale tốt, Mixpanel cho analytics — chọn stack nào đưa sản phẩm ra nhanh nhất"
+  },
+  {
+   "s": "12:45",
+   "e": "13:15",
+   "nut": ["1.1", "1.3"],
+   "tom": "Cơ cấu chi phí của solo app founder: sau khi Apple cắt phần, biên lợi nhuận vẫn trên 90%; hạ tầng chỉ tốn $1–2K/tháng, còn lại khoảng 90% ngân sách đổ hết vào marketing",
+   "kq": "biên >90%, hạ tầng $1–2K/tháng"
+  }
+ ],
+ "bo_qua": [
+  {"s": "06:31", "e": "07:45", "ly_do": "quảng cáo Emergent (sponsor)"},
+  {"s": "13:47", "e": "14:40", "ly_do": "lời cảm ơn + quảng cáo Starter Story Build"}
+ ]
+}

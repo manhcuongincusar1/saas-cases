@@ -1,0 +1,43 @@
+{
+ "f": "2024-11-22_how-i-built-it-12k-month-micro-saas",
+ "vid": "TCGXT7ySco8",
+ "segments": [
+  {"s":"01:35","e":"02:08","nut":["?"],"moi":"Giá bậc thang: gói nền cố định + trả thêm theo mức dùng",
+   "tom":"ScreenshotOne là API tự động chụp màn hình web cho công ty nhỏ tới lớn. Mô hình subscription: đăng ký từ khoảng $17/tháng, cần thêm screenshot hoặc thêm tính năng thì trả thêm","kq":"280 khách, ~$12K MRR"},
+  {"s":"02:08","e":"02:38","nut":["1.2"],
+   "tom":"Dmytro có cả triệu ý tưởng nhưng nhận ra phải thu hẹp không gian ý tưởng về đúng thứ mình build được ra sản phẩm chất lượng. Là backend/server-side developer, siêu năng lực của anh là làm API — nên anh gạch hết, chỉ giữ lại các ý tưởng dạng API product. Ý tưởng đầu là API kiểm tra email hợp lệ, làm xong thấy chán quá nên chuyển sang ScreenshotOne"},
+  {"s":"02:38","e":"03:41","nut":["2.B1"],
+   "tom":"Anh gõ Google thấy đầy đối thủ và coi đó là tín hiệu TỐT: có đối thủ nghĩa là có người đang trả tiền, và nhìn đối thủ còn ước lượng được họ có bao nhiêu khách. Gần như mọi ngách đều đã có người làm, phát minh cái độc nhất là cực khó — mà kể cả phát minh được thì ai bảo người ta cần nó. Thứ duy nhất cần kiểm tra: có đủ user để đạt mục tiêu của mình không — muốn $10K MRR thì đếm xem có đủ công ty cần phần mềm chụp màn hình và chịu trả mức đó không"},
+  {"s":"03:41","e":"04:13","nut":["3.6","3.B3"],
+   "tom":"Hỏi ý kiến vô dụng vì người ta tử tế — có người còn trả tiền cho sản phẩm chưa tồn tại, mà vẫn không biết họ có dùng thật không. Ngưỡng validate tối hậu của Dmytro: ít nhất 10 khách trả tiền NGOÀI quan hệ cá nhân, những người mình không quen, tự tìm tới mua và dùng thật","kq":"mốc chốt là 10 khách trả tiền người lạ"},
+  {"s":"04:13","e":"05:03","nut":["3.B6"],
+   "tom":"Lần đầu anh mất 5 tháng mới launch vì muốn mọi thứ hoàn hảo — anh gọi đó là sai lầm, bản đầu kiểu gì cũng dở. Quy trình bây giờ gói trong 1 tháng hoặc ít hơn: build một thứ rất nhỏ đúng một tính năng, KHÔNG làm đăng nhập, KHÔNG làm thanh toán; đưa cho bạn thân bấm thử xem có vỡ gì không; rồi launch trên Twitter và nhắn thẳng cho những khách tiềm năng nếu với tới được. Thanh toán, thông báo và mọi thứ còn lại làm sau, theo feedback","kq":"5 tháng lần đầu → giờ ≤1 tháng"},
+  {"s":"05:56","e":"06:22","nut":["4.17","1.6"],
+   "tom":"Kênh chính của anh là Twitter và Google, nhưng phần thú vị là các kênh ít ai nghĩ tới: Zapier và Make — rất nhiều doanh nghiệp dùng hai công cụ này để tự động hoá, đưa sản phẩm mình lên đó là người ta tự tìm ra. Launch Product Hunt cũng giúp, chủ yếu ở mặt nhận biết và cú hích SEO"},
+  {"s":"06:22","e":"06:53","nut":["4.17"],
+   "tom":"Kênh anh tiếc chưa đầu tư đủ là YouTube: có người tự làm video hướng dẫn 'gửi cold email bằng sản phẩm của tôi' và anh thấy khách trả tiền đi ra từ YouTube. Mẹo kèm theo: leo top 1 Google rất khó, nhưng với một số từ khoá Google chèn luôn video YouTube lên trang kết quả — nên đăng video hướng dẫn kỹ thuật là đi cửa sau vào SEO"},
+  {"s":"06:53","e":"07:55","nut":["4.15"],
+   "tom":"Popup chọn lý do khi huỷ gói vô dụng vì người ta chỉ gõ 'bọn tôi không cần nữa'. Nên Dmytro email tay từng người rời đi: xem profile, xem công ty, xem họ dùng vào việc gì, tự đoán ra lý do rồi hỏi đúng MỘT câu yes/no — 'anh rời đi vì giá đúng không?'. Người ta trả lời ngay 'đúng rồi'. Rất thủ công nhưng nó dựng lên trong đầu anh mô hình về vì sao người ta dùng và vì sao người ta bỏ","kq":"gần 100% tỉ lệ nhận được câu trả lời"},
+  {"s":"07:55","e":"08:26","nut":["4.15"],
+   "tom":"Nói chuyện sau khi khách bỏ đi cho ra một phát hiện khác: nhiều người vốn không phải khách của mình. Anh thấy có nhóm vào với kỳ vọng sản phẩm là no-code, nên anh sửa copy marketing để nhấn rõ đây là sản phẩm cho developer, phải viết code mới tích hợp được","kq":"churn từ ~11%/tháng xuống ~7%, đang nhắm dưới 5%"},
+  {"s":"08:26","e":"08:57","nut":["?"],"moi":"Một tháng rải khắp mọi nền tảng để lấy đồng đầu tiên",
+   "tom":"Suốt một tháng Dmytro quảng bá sản phẩm ở mọi nơi có thể — Twitter, Reddit, Indie Hackers, mọi chỗ. Đúng một người thấy nó có giá trị và trả $7/tháng; cảm giác lúc đó với anh như kiếm được một triệu đô","kq":"khách đầu tiên $7/tháng sau 1 tháng rải khắp nơi"},
+  {"s":"08:57","e":"09:29","nut":["1.1"],
+   "tom":"Ban đầu để $5, thấy rẻ quá thì lên $7 — đơn giản nhất, nhưng biên lợi nhuận gần bằng 0 vì chi phí server. Anh cắt bớt gói free và nâng giá các gói trên. Nâng giá giúp thật: nó là tín hiệu mạnh hơn nhiều, lọc ra đúng nhóm thật sự cần dùng sản phẩm. Giá hiện tại là trực giác: mức khách còn trả nổi, còn thấy đáng, mà biên vẫn tốt và vẫn còn chỗ để lớn"},
+  {"s":"09:29","e":"10:33","nut":["?"],"moi":"Stack của một API micro-SaaS một người",
+   "tom":"TypeScript để điều khiển headless browser qua Puppeteer; Go lo rate limiting và quản lý API key; Cloudflare lưu ảnh chụp. Phần vận hành kinh doanh: Google Search Console soi từ khoá, CTR, vị trí; Google Keyword Planner dự đoán volume trước khi viết nội dung; PostHog dựng funnel và truy ra khách trả tiền đến từ kênh marketing nào; Crisp cho live chat — anh gắn luôn vào điện thoại, thấy tin là trả lời và xử ngay"},
+  {"s":"10:33","e":"11:05","nut":["1.1"],
+   "tom":"Biên lợi nhuận 40–60%; gần như toàn bộ chi phí là server và nó đắt: hiện render khoảng 2 triệu ảnh chụp mỗi tháng, trả $3.000–4.000/tháng tiền server, tổng chi phí khoảng $4.500/tháng","kq":"biên 40–60%, ~$4.500 chi phí trên $12K doanh thu"},
+  {"s":"11:05","e":"11:56","nut":["?"],"moi":"Đối phó đối thủ bằng cách chỉ nhìn 10 khách trả tiền đầu tiên",
+   "tom":"Khi đã có 10 khách trả tiền thật — không phải người quen ủng hộ mà là người dùng nó cho công việc và rút được giá trị ra — thì cứ dồn hết vào họ: ra tính năng cho họ, tối ưu toàn bộ marketing theo họ, rồi đi tìm thêm người giống họ. Với đa số solo founder chỉ cần đủ sống, không cần chơi rắn hay chơi bẩn với đối thủ — tử tế, dựng quan hệ, vẫn đủ khách trả hoá đơn"},
+  {"s":"12:39","e":"13:10","nut":["?"],"moi":"Sức khoẻ tinh thần là công cụ sản xuất duy nhất của solo founder",
+   "tom":"Dmytro nói làm một mình thì bắt buộc phải chăm sức khoẻ tinh thần vì đó là công cụ duy nhất mình dùng mỗi ngày: tinh thần tệ thì chất lượng quyết định cũng tệ hẳn đi. Đầu óc tỉnh táo và nghĩ được là thứ có đòn bẩy cao nhất trong business — thói quen của anh là mỗi sáng đọc sách ít nhất một tiếng trước khi làm"},
+  {"s":"13:10","e":"14:32","nut":["?"],"moi":"Lời khuyên chỉ đúng theo bối cảnh — runway và nền tảng gia đình quyết định mức rủi ro chịu được",
+   "tom":"Anh bảo đừng nghe ai cả, kể cả anh: cứ ngốn hết nội dung chất lượng nhưng đừng outsource quyết định cho người khác, đừng đi hỏi 'tôi có nên nghỉ việc không'. Lý do: bài học không tổng quát hoá được — anh có runway tốt, người khác thì không; anh từng nghèo nên mất sạch tiền không là gì, bị đập nát vẫn làm lại được, còn người lớn lên trong gia đình khá giả thì chuyện đó rất đáng sợ. Nên câu 'cứ nghỉ việc, đốt hết cầu' là lời khuyên phụ thuộc hoàn cảnh"}
+ ],
+ "bo_qua": [
+  {"s":"05:03","e":"05:56","ly_do":"quảng bá Starter Story Academy"},
+  {"s":"11:56","e":"12:39","ly_do":"nhật ký một ngày (đưa con đi học, cà phê, đá bóng), không phục vụ khung"},
+  {"s":"14:32","e":"15:23","ly_do":"outro tự quảng bá Starter Story Academy"}
+ ]
+}

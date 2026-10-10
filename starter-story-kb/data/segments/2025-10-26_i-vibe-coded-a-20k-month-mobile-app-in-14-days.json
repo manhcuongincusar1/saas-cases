@@ -1,0 +1,119 @@
+{
+ "f": "2025-10-26_i-vibe-coded-a-20k-month-mobile-app-in-14-days",
+ "vid": "CwHD6Fg-Mjs",
+ "segments": [
+  {
+   "s": "01:12",
+   "e": "01:48",
+   "nut": ["?"],
+   "moi": "Lấy hackathon nền tảng làm deadline và cú hích tăng trưởng",
+   "tom": "Payout ra mắt đầu tháng 8, 50 ngày lên $20K/tháng, hơn 12.000 lượt tải và 1.300 subscription; thắng giải Build & Grow của hackathon RevenueCat Shipaton 55.000 người thi, tổng giải $65K",
+   "kq": "$20K/tháng sau ~50 ngày, giải $65K"
+  },
+  {
+   "s": "01:49",
+   "e": "02:46",
+   "nut": ["?"],
+   "moi": "Bỏ app social, chuyển sang utility/tool vì một người scale được",
+   "tom": "App đầu Hotspot Events (social) mất 6–8 tháng và thất bại; nhận ra app social khó scale khi làm một mình nên chuyển hẳn sang utility/tool, 3 năm sau tổng doanh thu subscription vượt $1 triệu",
+   "kq": "app đầu thất bại → tổng >$1M doanh thu subscription"
+  },
+  {
+   "s": "02:46",
+   "e": "03:40",
+   "nut": ["?"],
+   "moi": "Dựng thư viện onboarding đối thủ bằng screenshot trong Figma",
+   "tom": "Tải khoảng 20 app cùng ngách cộng vài app có thiết kế đẹp, screenshot từng màn onboarding rồi xếp hết lên một hàng trong Figma, nhặt màn ưng ý của mỗi app và vẽ lại theo theme của mình"
+  },
+  {
+   "s": "03:40",
+   "e": "04:41",
+   "nut": ["4.12"],
+   "tom": "90% user chỉ nhìn thấy onboarding nếu app có paywall, nên bốn nguyên tắc thiết kế: khơi cảm xúc, phô lợi ích mạnh nhất, làm người dùng thấy được cá nhân hoá, và thêm biểu đồ cho có vẻ khoa học"
+  },
+  {
+   "s": "04:41",
+   "e": "05:27",
+   "nut": ["?"],
+   "moi": "Viết spec cấu trúc dữ liệu kèm JSON mẫu trước khi vibe code",
+   "tom": "Trước khi vibe code, viết một file text mô tả cấu trúc dữ liệu kèm JSON mẫu và giải thích từng thuộc tính rồi đưa cho Claude/Cursor, để AI khỏi phải đoán — nhờ đó code ra rất nhanh"
+  },
+  {
+   "s": "05:27",
+   "e": "05:59",
+   "nut": ["?"],
+   "moi": "Thả screenshot vào AI để sinh màn hình, làm core trước onboarding",
+   "tom": "Build core feature trước và để onboarding lại sau; thả thẳng screenshot vào Claude Code cho nó tự viết code cả màn hình; đừng khó tính, ra bản chạy được nhanh còn hơn ra bản hoàn hảo"
+  },
+  {
+   "s": "07:02",
+   "e": "07:35",
+   "nut": ["2.B1"],
+   "tom": "Chia app làm hai loại: bản cải tiến của app đã có thì coi như đã được người khác validate sẵn, chỉ cần sửa cho ra chất riêng; chỉ ý tưởng hoàn toàn mới mới phải tự đi kiểm chứng"
+  },
+  {
+   "s": "07:35",
+   "e": "08:12",
+   "nut": ["?"],
+   "moi": "Quét comment TikTok/IG tìm người đang hỏi cách giải vấn đề",
+   "tom": "Với ý tưởng mới: lên TikTok/Instagram xem có ai đang nói về vấn đề đó, đọc comment tìm người hỏi cách giải; thấy đường marketing rõ thì bỏ luôn bước waitlist và build thẳng"
+  },
+  {
+   "s": "08:12",
+   "e": "09:15",
+   "nut": ["4.4", "4.6"],
+   "tom": "Bơm app bằng influencer: bắt tay một creator đã sẵn trong ngách, video của anh này kéo hàng nghìn lượt tải; video nào ăn thì thuê thêm creator khác lặp lại đúng format đó",
+   "kq": "hàng nghìn lượt tải từ một creator"
+  },
+  {
+   "s": "09:15",
+   "e": "09:31",
+   "nut": ["4.2", "4.B3"],
+   "tom": "Chiến dịch UGC còn để lại một kho video để chạy ads về sau: đã biết video nào ăn organic thì đoán được nó chạy ads tốt cỡ nào — đích cuối luôn là đẩy được paid ads"
+  },
+  {
+   "s": "09:31",
+   "e": "09:57",
+   "nut": ["?"],
+   "moi": "Cân bằng độ giải trí và độ chuyển đổi để hạ giá quảng cáo",
+   "tom": "Thuật toán Facebook Ads giờ cân hai thứ: quảng cáo càng giải trí thì giá phân phối càng rẻ, nhưng video vẫn phải đẩy được sản phẩm — phải tìm điểm cân bằng giữa giải trí và chuyển đổi"
+  },
+  {
+   "s": "10:01",
+   "e": "10:47",
+   "nut": ["4.13", "4.12"],
+   "tom": "Demo onboarding Payout: xin quyền thông báo, chèn social proof, rồi tới paywall ngay trong onboarding với hai gói tuần và năm — đẩy người dùng chọn gói năm vì LTV cao nhất"
+  },
+  {
+   "s": "10:47",
+   "e": "11:10",
+   "nut": ["?"],
+   "moi": "Biến thủ tục giấy tờ rườm rà thành form + PDF điền sẵn",
+   "tom": "Payout là app dò các vụ kiện tập thể mà mình đủ điều kiện nhận tiền: liệt kê từng vụ kèm điều kiện, điền form trong app rồi xuất PDF sẵn để gửi bưu điện, có tab wallet và forms để theo dõi"
+  },
+  {
+   "s": "11:10",
+   "e": "11:46",
+   "nut": ["?"],
+   "moi": "Chọn ngách bám ham muốn cốt lõi (tiền, sức khoẻ, ngoại hình)",
+   "tom": "Chọn ngách bám vào ham muốn cốt lõi của con người — khoẻ hơn, kiếm nhiều tiền hơn, đẹp hơn; app hứa giúp đòi lại tiền thì người ta rút ví rất dễ vì value proposition quá hiển nhiên"
+  },
+  {
+   "s": "11:46",
+   "e": "12:14",
+   "nut": ["?"],
+   "moi": "Stack tối thiểu vận hành app mobile một mình",
+   "tom": "Stack một người: Figma cho UI/icon/ảnh App Store, Mixpanel analytics, Claude Code để vibe code, Next.js + TypeScript cho web và backend, Vercel, GitHub, Expo build đa nền, RevenueCat test giá"
+  },
+  {
+   "s": "12:14",
+   "e": "12:49",
+   "nut": ["4.12"],
+   "tom": "Lời khuyên số một: làm app đơn giản với onboarding thật tốt — chỉ cần 1–3 tính năng, onboarding sẽ gánh phần lớn việc chuyển đổi, và app đơn giản vẫn kiếm được rất nhiều tiền"
+  }
+ ],
+ "bo_qua": [
+  {"s": "05:59", "e": "07:01", "ly_do": "quảng cáo Starter Story Build"},
+  {"s": "12:49", "e": "13:26", "ly_do": "lời cảm ơn + quảng cáo Starter Story Build"}
+ ]
+}

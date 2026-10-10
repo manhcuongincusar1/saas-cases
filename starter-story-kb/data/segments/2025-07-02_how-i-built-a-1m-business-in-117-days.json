@@ -1,0 +1,36 @@
+{
+ "f": "2025-07-02_how-i-built-a-1m-business-in-117-days",
+ "vid": "E_sPvPHwpuk",
+ "segments": [
+  {"s":"01:04","e":"02:05","nut":["2.3","?"],"moi":"Biến demo đang lan truyền thành sản phẩm trước khi ai kịp",
+   "tom":"Thấy khắp X người ta demo 'ChatGPT cho dữ liệu của bạn' mà chưa ai làm thành sản phẩm, anh bỏ hẳn khâu validate với lý lẽ 'mình không làm thì người khác làm', tung Chatbase cho 16 follower","kq":"viral ngay, 2–3 đơn mỗi ngày nên bỏ học đại học năm cuối"},
+  {"s":"02:05","e":"02:53","nut":["4.1","?"],"moi":"Demo rút ngắn giây tới khoảnh khắc aha",
+   "tom":"Tweet thứ ba trong đời làm nên tất cả: giao diện chat streaming quen mắt kiểu ChatGPT đang hot, và demo cực đơn giản cho thấy sản phẩm làm được gì ngay trong 20 giây đầu"},
+  {"s":"02:53","e":"03:23","nut":["4.1","?"],"moi":"Gọi tên các tool mới dùng để chính họ khuếch đại giúp",
+   "tom":"Đòn hiệu quả nhất là kể tên LangChain, Pinecone trong tweet — các công ty AI đó vừa ra, chưa có khách thật nào, nên vồ lấy để khoe và đẩy tiếp, tạo thành vòng lặp viral"},
+  {"s":"03:23","e":"04:24","nut":["4.8","?"],"moi":"Build in public: 2–3 tháng đầu chỉ là tập, đừng mong view",
+   "tom":"Playbook build in public: kể việc mình làm mỗi ngày, chấp nhận 2–3 tháng đầu không ai xem vì đang tập; cho người ta thấy mặt mình, ưu tiên video trên X vì ít người làm, và đừng nhạt"},
+  {"s":"05:46","e":"06:16","nut":["4.1","?"],"moi":"Đóng gói mỗi lần cập nhật thành một lần ra mắt cho người chưa biết",
+   "tom":"Bí quyết đi 0 → $1M ARR trong 117 ngày: mỗi tính năng mới đều được dựng thành một launch trọn vẹn, viết cho người chưa từng nghe tới mình hiểu được, thay vì tweet kiểu 'feature update'"},
+  {"s":"06:16","e":"06:46","nut":["4.5","?"],"moi":"Tặng bản sản phẩm riêng cho từng cuốn sách/người nổi tiếng để kéo link",
+   "tom":"Vào các subreddit về sách, dựng miễn phí một ChatGPT cho đúng cuốn sách đó — chịu lỗ tiền token — chỉ để domain được mở nhiều, tăng authority và kéo người click vào landing page; làm y vậy với Paul Graham, Naval"},
+  {"s":"06:46","e":"07:03","nut":["4.4"],
+   "tom":"Quy tắc mỗi ngày: hôm nào không có gì để launch thì phải chạy một sponsored post với page lớn — một lần với page LinkedIn mang về $4.000 ngay hôm đó"},
+  {"s":"07:03","e":"08:03","nut":["?"],"moi":"Product-led growth: một tính năng lõi cộng nút Stripe, marketing hết ở ngoài site",
+   "tom":"$6,8M ARR hoàn toàn bằng PLG: web chỉ cần landing page tốt và nút Stripe, sản phẩm chỉ một tính năng lõi (tải PDF lên rồi chat), UI đẹp, không bug — cân giữa ship nhanh và ship rác","kq":"10.000 khách trả $40–500/tháng, ~600.000 user đăng ký"},
+  {"s":"08:03","e":"08:35","nut":["?"],"moi":"Học build AI agent thẳng từ cookbook và docs của nhà cung cấp",
+   "tom":"Đường học AI agent: đọc cookbook và Agents SDK của OpenAI, AI SDK của Vercel, xem ví dụ và xem công ty nào đang dùng chúng, học cách chính họ hướng dẫn dựng agent"},
+  {"s":"08:35","e":"09:20","nut":["2.3"],
+   "tom":"Chiến lược cược vào model: build đúng thứ mà AI hiện tại chưa đủ giỏi để làm, một năm sau model mới ra là mình đi trước cả năm — anh có sẵn Chatbase trước khi ChatGPT API mở, API ra thì tweet 'tôi build cái này trong 48 giờ' và viral tiếp"},
+  {"s":"09:20","e":"10:06","nut":["?"],"moi":"Stack SaaS AI cho phép khách tự chọn model",
+   "tom":"Stack: Vercel để host và dùng luôn AI SDK, Supabase cho database, cắm hết OpenAI, Anthropic, Cohere, Google Gemini, Groq để user chọn model trong dropdown, Stripe billing, Dub affiliate, Mintlify docs"},
+  {"s":"10:06","e":"11:08","nut":["?"],"moi":"Không có blueprint chung — lời khuyên người ngoài phần lớn lệch hoàn cảnh",
+   "tom":"Tưởng có công thức chung để dựng công ty, hoá ra mọi thứ từ văn hoá, remote hay onsite, tới đánh giá nhân sự đều khác nhau — nên không cần kinh nghiệm mới bắt đầu được, và lời khuyên người khác chỉ để nghe"},
+  {"s":"11:08","e":"11:55","nut":["2.B2"],
+   "tom":"Tiếc nhất là nghĩ quá nhỏ: mục tiêu ban đầu chỉ $10K/tháng rồi sang Bali sống indie hacker, lại để câu chê 'chỉ là ChatGPT wrapper' ngấm vào đầu nên rụt rè, đáng lẽ phải nhắm thẳng công ty bootstrap $100M"}
+ ],
+ "bo_qua": [
+  {"s":"04:24","e":"05:30","ly_do":"quảng cáo Brex và guide ngân hàng cho startup"},
+  {"s":"12:20","e":"12:41","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

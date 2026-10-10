@@ -1,0 +1,173 @@
+{
+ "f": "2025-11-09_i-flipped-4-apps-and-made-500-000",
+ "vid": "PmyXmpkTIdc",
+ "segments": [
+  {
+   "s": "01:12",
+   "e": "01:52",
+   "nut": ["1.5"],
+   "tom": "Bốn app đã build rồi bán: Bible Buddy (AI therapist cho người Kitô giáo), Magic Music (wrapper quanh Suno AI), Toxic Traits (screenshot chat ra tính cách), Pray Screen (khoá app, phải cầu nguyện mới mở) — cùng một tệp khách tôn giáo",
+   "kq": "4 lần flip từ 2022, >$500K tổng, >1 triệu user"
+  },
+  {
+   "s": "02:07",
+   "e": "02:39",
+   "nut": ["2.3"],
+   "tom": "Trước đó làm banking rồi mở startup gọi vốn VC, chạy 3 năm rưỡi và thất bại; quay sang làm app đúng năm 2022 khi GPT vừa được thương mại hoá nên cưỡi được hàng loạt con sóng và học rất nhanh",
+   "kq": "startup VC 3,5 năm thất bại"
+  },
+  {
+   "s": "02:39",
+   "e": "02:56",
+   "nut": ["2.7", "2.3"],
+   "tom": "GPT vừa ra thì đầy app kiểu 'Bible GPT' hỏi-đáp nhưng chẳng ai thấy hữu ích; anh lật format thành AI therapist có cảm xúc, sau mỗi câu trả lời lại hỏi ngược người dùng một câu"
+  },
+  {
+   "s": "02:56",
+   "e": "03:16",
+   "nut": ["1.1"],
+   "tom": "Không biết code nên launch qua WhatsApp bằng một bên thứ ba, không lường trước WhatsApp tính tiền theo conversation window: chi phí phình lên $15K/tháng, phải thuê engineer trên Upwork chuyển hẳn sang iOS và Android",
+   "kq": "chi phí $15K/tháng buộc phải bỏ WhatsApp"
+  },
+  {
+   "s": "03:16",
+   "e": "03:41",
+   "nut": ["?"],
+   "moi": "Kênh tìm người mua app: MicroAcquire cộng cộng đồng founder",
+   "tom": "Thương vụ đầu tiên đến gần như tình cờ: list app lên MicroAcquire, đồng thời hoạt động trong cộng đồng Facebook của podcast My First Million — một người tình cờ cũng đang ở London chủ động nhắn tin rồi mua lại"
+  },
+  {
+   "s": "03:41",
+   "e": "04:11",
+   "nut": ["1.5"],
+   "tom": "Lý do flip được: thị trường app giờ thanh khoản cao vì build phần mềm không còn khó, nên có rất nhiều người mua tin rằng họ chỉ cần cầm sản phẩm này đi marketing giỏi hơn là ra nhiều tiền hơn"
+  },
+  {
+   "s": "04:11",
+   "e": "04:42",
+   "nut": ["1.3", "1.5"],
+   "tom": "Gọi được vốn VC mà bản thân vẫn nghèo; thà build một cái rồi exit lấy $250K trong 6–12 tháng, còn hơn cày 10 năm để đổi lấy xác suất 0,0001% thành tỉ phú",
+   "kq": "mục tiêu exit ~$250K trong 6–12 tháng"
+  },
+  {
+   "s": "04:58",
+   "e": "05:14",
+   "nut": ["?"],
+   "moi": "Chốt trước là làm di sản hay làm dòng tiền",
+   "tom": "Trước khi động vào bất cứ thứ gì, anh tự hỏi đúng một câu: cái này là di sản của mình hay chỉ là dòng tiền? Câu trả lời quyết định toàn bộ cách build về sau — và tới giờ hầu hết đều là dòng tiền"
+  },
+  {
+   "s": "05:14",
+   "e": "05:46",
+   "nut": ["?"],
+   "moi": "Giữ vận hành đơn giản để hồ sơ bán lại sạch",
+   "tom": "Lỗi thứ nhất của người bán app không phải app phức tạp mà là vận hành phía sau rối: tới lúc bán, người mua hỏi mà trả lời lòng vòng hoặc không trả lời được là deal chết ngay tại chỗ"
+  },
+  {
+   "s": "05:46",
+   "e": "06:16",
+   "nut": ["?"],
+   "moi": "Bán cho người trả giá cao thứ ba để chốt nhanh, tiền mặt",
+   "tom": "Lỗi thứ hai là ai cũng đòi giá cao nhất — mà giá cao nhất thì lâu nhất và dễ đổ nhất; anh thường bán cho người trả giá cao thứ ba, nói thẳng còn hai bid trên họ, nhưng chốt trong 3–4 ngày thì chọn họ"
+  },
+  {
+   "s": "07:05",
+   "e": "07:37",
+   "nut": ["2.6"],
+   "tom": "Bước 1 là soi trend ngay trên App Store: xem ai đang số 1 từng category, rồi soi tiếp top 20 tìm những app làm y hệt thứ đó nhưng cho một ngách hơi lệch — đó là dấu hiệu trend đủ rộng để chen vào"
+  },
+  {
+   "s": "07:37",
+   "e": "08:09",
+   "nut": ["2.9"],
+   "tom": "Bước 2 dùng Sensor Tower xem doanh thu từng app: cả đám đều trên $100K hoặc $500K MRR thì chắc chắn có ăn; edge của anh là thị trường Kitô giáo, vì công nghệ bao giờ cũng đến với tôn giáo sau cùng"
+  },
+  {
+   "s": "08:09",
+   "e": "08:40",
+   "nut": ["?"],
+   "moi": "Làm app single-player, giá trị đến ngay mà không cần mời ai",
+   "tom": "Bước 3, app phải là single player: một người dùng một mình đã có giá trị, không phải rủ thêm ai. Tính năng xã hội thêm sau cũng được, chứ làm ngay từ đầu là phải marketing cho hai phía cùng lúc"
+  },
+  {
+   "s": "08:40",
+   "e": "09:11",
+   "nut": ["?"],
+   "moi": "Bắt người ta chia sẻ asset trong app, đừng bắt họ chia sẻ app",
+   "tom": "Bước 4a: không ai đi share app cả, nhưng người ta share asset bên trong app. Magic Music cho gửi bài hát mở bằng web view khỏi cần tải app, kèm nút xanh to 'Create your own song' — bạn bè nghe xong tự đi tải"
+  },
+  {
+   "s": "09:11",
+   "e": "09:27",
+   "nut": ["4.15"],
+   "tom": "Bước 4b là retention: Pray Screen giữ được 60% retention ngày 30 nhờ hai thứ cộng lại — app khoá sạch các app khác nên buộc phải mở qua nó, cộng thêm lực kéo tôn giáo",
+   "kq": "retention ngày 30 = 60%"
+  },
+  {
+   "s": "09:27",
+   "e": "09:44",
+   "nut": ["1.5"],
+   "tom": "Bước 5, giữ tech stack đơn giản và plug-and-play ngay từ đầu, vì người mua sau này phải vận hành được mà không cần biết kỹ thuật — stack rối là mất giá hoặc mất deal"
+  },
+  {
+   "s": "09:44",
+   "e": "10:32",
+   "nut": ["4.2", "4.B3"],
+   "tom": "Bước 6 luôn là UGC trước: chạy nhiều account, làm content kiểu rage bait để người xem phải tua lại hoặc cãi nhau dưới comment cho TikTok đẩy; có hook đúng rồi mới đổ Meta Ads — Pray Screen đạt CPI 30–50 cent ở thị trường Mỹ",
+   "kq": "CPI 30–50 cent tại Mỹ"
+  },
+  {
+   "s": "10:32",
+   "e": "11:19",
+   "nut": ["1.5"],
+   "tom": "Bước 7, nuôi tới $10–20K MRR rồi mới đi tìm người mua, và ba tháng cuối bắt buộc phải là đường đi lên chứ không phải đang tuột; list trên MicroAcquire hoặc post thẳng lên Twitter, định giá thường 2–4 lần lợi nhuận",
+   "kq": "định giá 2–4x EBITDA"
+  },
+  {
+   "s": "11:34",
+   "e": "12:20",
+   "nut": ["?"],
+   "moi": "Chọn ý tưởng có tệp cực hẹp để targeting quảng cáo rẻ",
+   "tom": "Ý tưởng anh sẽ làm: app theo dõi bạn gái đã ăn đủ ba bữa chưa, nhắm đúng nhóm 18–30 tuổi vì tệp hẹp thì targeting quảng cáo dễ và rẻ; các app đếm calo dành riêng cho nữ đã chứng minh hướng này chạy được"
+  },
+  {
+   "s": "12:20",
+   "e": "13:21",
+   "nut": ["?"],
+   "moi": "Biến ghi chú thành hành động một-nút-bấm",
+   "tom": "Hai ý tưởng nữa: tracker da theo trend 'Korean glass skin' vì người ta đã chi tiền thật cho thủ thuật thẩm mỹ; và Chill Guy AI ghi mọi thứ bạn gái nói vào journal rồi nhắc '3 tuần chưa hẹn hò' kèm nút đặt bàn hay gửi hoa"
+  },
+  {
+   "s": "13:21",
+   "e": "14:23",
+   "nut": ["?"],
+   "moi": "Bộ công cụ theo dõi view UGC và thứ hạng ASO của đối thủ",
+   "tom": "Stack: React Native để build; Shortimize để theo dõi lượt xem TikTok theo thời gian trên nhiều account; appstoretracker.com xem app nào leo hạng nhanh và họ đổi bio hay title gì để làm ASO; Creator Check lo tính toán và chi trả cho UGC creator"
+  },
+  {
+   "s": "14:23",
+   "e": "14:53",
+   "nut": ["1.1", "1.3"],
+   "tom": "Chi phí hạ tầng tối đa khoảng $1.000/tháng, khoản phình duy nhất là UGC: 10 creator tốn $5–10K/tháng nhưng đổi lại 10 video mỗi ngày; biên lợi nhuận phải từ 70% trở lên mới coi là khoẻ",
+   "kq": "biên ≥70%, UGC $5–10K/tháng cho 10 creator"
+  },
+  {
+   "s": "14:53",
+   "e": "15:15",
+   "nut": ["1.2"],
+   "tom": "Nguyên tắc: chỉ chơi ván mình thắng được và luôn phải có edge — thua thì ít nhất biết là do mình. Chính anh sẽ không làm Chill Guy AI vì tự thấy không có lợi thế nào trong mảng đó"
+  },
+  {
+   "s": "15:15",
+   "e": "15:41",
+   "nut": ["?"],
+   "moi": "Tái dùng một tệp khách cho nhiều app để hạ CPI",
+   "tom": "Anh sẽ làm thêm app Kitô giáo cho ngách khác vì đã có email list 1,2 triệu người: đẩy vào lookalike audience của Meta là CPI thấp ngay, app mới nhét thẳng vào funnel cũ, và các app còn bán chéo chỗ quảng cáo cho nhau",
+   "kq": "email list 1,2 triệu người"
+  }
+ ],
+ "bo_qua": [
+  {"s": "06:16", "e": "07:05", "ly_do": "quảng cáo Rocket (sponsor)"},
+  {"s": "15:41", "e": "16:40", "ly_do": "lời cảm ơn + quảng cáo Starter Story Build"}
+ ]
+}

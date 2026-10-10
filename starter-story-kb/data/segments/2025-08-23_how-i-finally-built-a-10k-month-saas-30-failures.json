@@ -1,0 +1,81 @@
+{
+ "f": "2025-08-23_how-i-finally-built-a-10k-month-saas-30-failures",
+ "vid": "rPguT9z6kRQ",
+ "segments": [
+  {
+   "s": "01:21",
+   "e": "02:23",
+   "nut": ["3.B8"],
+   "tom": "Dạo một vòng GitHub nghĩa địa: Gum Affiliates (nối seller Gumroad với affiliate, kiếm ~$500 rồi bỏ sau 2 năm), Frisbee làm trong 1 ngày không bao giờ publish, Gidley website builder, một Twitter feed, app quản lý kế hoạch, bookmark manager",
+   "kq": "30+ project, gần như toàn bộ $0 và bị bỏ hoang"
+  },
+  {
+   "s": "02:23",
+   "e": "03:09",
+   "nut": ["?"],
+   "moi": "Bỏ cuộc sớm và headline không nói rõ sản phẩm làm gì",
+   "tom": "Hai lý do chết đầu tiên: bỏ sau 1–2 tuần vì chưa có đăng ký nào (không sản phẩm nào chạy sau một đêm), và landing page nhiều animation nhưng headline không nói rõ sản phẩm làm gì nên không ai kéo xuống"
+  },
+  {
+   "s": "03:09",
+   "e": "04:27",
+   "nut": ["?"],
+   "moi": "Momentum truyền thông là tài sản dễ mất nhất",
+   "tom": "Ba lý do còn lại: ngừng đăng vài tuần là mất sạch momentum và phải gây lại từ đầu; tin \"build it and they will come\" trong khi không marketing thì không ai tới; và sai thời điểm — chết tháng 1 không có nghĩa tháng 7 cũng chết"
+  },
+  {
+   "s": "04:27",
+   "e": "05:15",
+   "nut": ["?"],
+   "moi": "Pivot rồi chịu đựng cú sụt doanh thu ngay sau đó",
+   "tom": "Uneed khởi đầu là directory tool front-end, tháng đỉnh chỉ $200; anh pivot sang launch platform, doanh thu tụt mạnh khiến anh hoảng, vài tháng sau mới bò lên lại và tháng rồi chạm $10K",
+   "kq": "$200/tháng → sụt sau pivot → $10K/tháng"
+  },
+  {
+   "s": "05:15",
+   "e": "05:58",
+   "nut": ["?"],
+   "moi": "Cưỡi làn sóng bất mãn với nền tảng đang thống trị",
+   "tom": "Pivot sớm hơn một năm là chết: anh chờ đúng lúc dân indie hacker đang ồn ào trên mạng vì Product Hunt chỉ đẩy sản phẩm lớn và người có audience, rồi mới tung bản thay thế"
+  },
+  {
+   "s": "06:53",
+   "e": "07:53",
+   "nut": ["1.2", "2.0"],
+   "tom": "Ý tưởng tốt là ý tưởng mình biết cách bán — biết thị trường, có kênh phân phối, hoặc có chiêu marketing; Gum Affiliates chết vì anh không rành Gumroad lẫn affiliate, Uneed thắng vì anh sống trong giới indie hacker và có sẵn Twitter"
+  },
+  {
+   "s": "07:53",
+   "e": "08:10",
+   "nut": ["2.B1"],
+   "tom": "Có đối thủ là điều kiện cần: không đối thủ nghĩa là không có thị trường, mà \"bạn không phải Steve Jobs\" — tạo thị trường mới gần như bất khả thi nên đừng bỏ ý tưởng chỉ vì đã có người làm"
+  },
+  {
+   "s": "08:10",
+   "e": "09:10",
+   "nut": ["?"],
+   "moi": "Đo giá trị giao cho khách thay vì đo traffic",
+   "tom": "Doanh thu dao động $8K–$10K/tháng tuỳ chiêu marketing tháng đó; 40.000 user, 2.000 khách trả tiền (trả để chen hàng hoặc quảng cáo), 30.000 khách truy cập/tháng — nhưng số anh coi trọng nhất là 10.000 click đẩy về website được list",
+   "kq": "$8–10K/tháng, rất bấp bênh theo tháng"
+  },
+  {
+   "s": "09:10",
+   "e": "09:50",
+   "nut": ["?"],
+   "moi": "Stack self-host giá rẻ cho solo founder",
+   "tom": "Next.js full-stack, Supabase làm database, Bento cho email và automation marketing, website chạy VPS Hetzner quản lý bằng Coolify, analytics tự host, Fernand làm customer support, Typefully hẹn lịch social, Polar làm merchant of record"
+  },
+  {
+   "s": "09:50",
+   "e": "11:08",
+   "nut": ["?"],
+   "moi": "Nhịp làm bền vững thay vì cày 10 tiếng/ngày",
+   "tom": "Anh nói thẳng mình không phải kiểu cày 10 tiếng/ngày: mỗi ngày vẫn đạp xe, gặp bạn, ra ngoài; đừng nhốt mình trong phòng code hàng tháng — cơ hội giàu sau một tháng ngang với trúng số, đây là marathon"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:04", "ly_do": "intro/hook của kênh"},
+  {"s": "05:58", "e": "06:53", "ly_do": "quảng cáo Mobbin"},
+  {"s": "11:08", "e": "11:45", "ly_do": "lời cảm ơn và quảng bá Starter Story Build"}
+ ]
+}

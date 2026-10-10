@@ -1,0 +1,83 @@
+{
+ "f": "2025-12-11_i-make-10k-month-from-28-apps",
+ "vid": "vw2Yc4Y1PsU",
+ "segments": [
+  {
+   "s": "01:21",
+   "e": "01:53",
+   "nut": ["?"],
+   "moi": "Danh mục app tí hon: 80/20 doanh thu dồn về vài cái",
+   "tom": "iOS engineer full-time, 8 tháng ngoài giờ ra 28 app mobile đơn giản, tổng hơn 1.000 subscriber và 4–5K daily user. Phần lớn tiền đến từ đúng 4 app, mỗi cái ~$1.500/tháng, số còn lại gần như không đáng kể.",
+   "kq": "$200/tháng → $10K/tháng trong 8 tháng, vẫn giữ việc chính"
+  },
+  {
+   "s": "01:53",
+   "e": "02:55",
+   "nut": ["?"],
+   "moi": "Bỏ mô hình một-dự-án để chuyển sang ship app một tính năng",
+   "tom": "8 năm làm iOS dev, ôm một pet project và thử đủ kỹ thuật mà không lớn nổi. Tháng 2 năm nay xem video của Adam Lyttle mới lật quan niệm: làm app một tính năng, ship, quên nó đi, nhảy sang app kế — thay vì dồn hết đời vào một dự án.",
+   "kq": "nhiều năm dồn vào một app: không kết quả"
+  },
+  {
+   "s": "02:55",
+   "e": "04:13",
+   "nut": ["?"],
+   "moi": "Săn ý tưởng bằng keyword ASO có ngưỡng số rõ ràng",
+   "tom": "Nguồn ý tưởng là tool ASO Astro: chọn category rồi dò keyword, ưu tiên cụm keyword cùng tệp user nhưng khác vấn đề (physics AI, chemistry AI, math AI) để làm xong một app là nhảy ngay sang cái kề. Ngưỡng: popularity ≥20%, difficulty 60–70%, và app top trong keyword phải kiếm ít nhất $100–200/tháng (soi bằng Sensor Tower) — dưới mức đó là thị trường không có tiền."
+  },
+  {
+   "s": "05:15",
+   "e": "06:19",
+   "nut": ["?"],
+   "moi": "Dò khe keyword: popularity cao mà difficulty thấp",
+   "tom": "Demo trực tiếp trên Astro với ý tưởng tree identifier: tạo app tạm, nhập keyword, lọc popularity từ 20 và difficulty 70 rồi tìm khe — 'wood identification' khá phổ biến mà difficulty rất thấp; chọn xong mở App Store xem doanh thu app đang đứng đầu keyword đó."
+  },
+  {
+   "s": "06:19",
+   "e": "07:35",
+   "nut": ["?"],
+   "moi": "Thư viện component dùng lại để ship app trong vài giờ",
+   "tom": "Quy trình build: lấy 2–3 đối thủ chỉ soi đúng tính năng khớp keyword, bảo ChatGPT/Gemini viết implementation plan kèm ràng buộc UI/UX, rồi kéo-thả component cũ (setting, onboarding, paywall) — có app copy tới 90% code. Screenshot và icon lấy template Figma từ dự án trước, AI viết luôn app description khớp keyword.",
+   "kq": "kỷ lục 2 tiếng từ lúc nảy ý tới lúc submit App Store"
+  },
+  {
+   "s": "08:55",
+   "e": "09:44",
+   "nut": ["3.B5"],
+   "tom": "Playbook bước 1–3: bắt đầu bằng keyword có tỉ lệ popularity/difficulty tốt và app top có doanh thu thật; nghiên cứu đối thủ để chốt đúng MỘT tính năng lõi làm tốt hơn; rồi nhờ Cursor hoặc Claude liệt kê hết screen, feature, flow để biết cái nào build mới, cái nào copy từ dự án cũ."
+  },
+  {
+   "s": "09:44",
+   "e": "10:45",
+   "nut": ["4.1"],
+   "tom": "Bước 4–6: ship MVP gọn rồi buông tay, sang dự án kế và để dữ liệu quyết. App mới ship có boost của App Store rồi nhạt dần — xem nó tiếp tục tụt hay ổn định/tăng; cái không chìm là có tiềm năng. Chỉ những cái đó mới quay lại đánh bóng, fix bug và đổ ads vào."
+  },
+  {
+   "s": "11:00",
+   "e": "11:31",
+   "nut": ["?"],
+   "moi": "Stack ship app hàng loạt trên iOS",
+   "tom": "Stack: Flutter làm framework, Fastlane để ship, Cursor để code bằng AI, Firebase gánh toàn bộ backend (auth, DB, cả hosting web), OpenAI + Gemini cho nhận diện ảnh và phần AI, Mixpanel analytics, Astro cho ASO iOS và FoxData cho cả iOS lẫn Android."
+  },
+  {
+   "s": "11:31",
+   "e": "12:16",
+   "nut": ["1.1"],
+   "tom": "Chi phí bóc từng dòng: Cursor $20/tháng, Fastlane $0, OpenAI ~$200, Gemini ~$50, Firebase chỉ $5–10 vì hầu như không vượt free tier, Mixpanel gói free, Astro ~$10, FoxData $0.",
+   "kq": "chi phí ~$300/tháng cho toàn bộ 28 app, doanh thu $10K"
+  },
+  {
+   "s": "12:16",
+   "e": "12:48",
+   "nut": ["?"],
+   "moi": "Ship một tính năng sạch bug rồi để user nói thay mình",
+   "tom": "Lời khuyên: đừng sợ ship, và đừng phí thời gian đánh bóng hay nhét thêm 'killer feature' vì tin nó sẽ kéo user. Làm hết bug, đúng một tính năng, ship, để user nói cho biết trong lúc mình đã đi build app tiếp theo."
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:21", "ly_do": "intro/hook của kênh"},
+  {"s": "04:13", "e": "05:15", "ly_do": "quảng cáo The Hustle newsletter (sponsor)"},
+  {"s": "07:35", "e": "08:55", "ly_do": "quảng bá Starter Story Build kèm mã giảm giá"},
+  {"s": "12:48", "e": "13:52", "ly_do": "lời cảm ơn và quảng bá Starter Story Build"}
+ ]
+}

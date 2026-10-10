@@ -1,0 +1,103 @@
+{
+ "f": "2026-05-24_i-built-a-30k-month-in-35-days",
+ "vid": "vbEKEWtnndU",
+ "segments": [
+  {
+   "s": "01:13",
+   "e": "02:20",
+   "nut": ["?"],
+   "moi": "Cấu trúc giá app tracking: gói năm $45, gói tháng $10, trial 3 ngày",
+   "tom": "Pep AI theo dõi liều peptide cho an toàn; dashboard RevenueCat 28 ngày gần nhất: $33K doanh thu, gần 2.000 sub đang chạy, MRR 11K; bán gói năm $45 hoặc tháng $10 kèm free trial 3 ngày",
+   "kq": "$51K tổng doanh thu sau 7 tuần"
+  },
+  {
+   "s": "02:20",
+   "e": "03:19",
+   "nut": ["?"],
+   "moi": "App đầu chết vì chọn nhóm khách quá rộng",
+   "tom": "App đầu hồi tháng 10 là marketplace cho sinh viên University of Oregon, đi rao khắp campus được 800 user nhưng không thu nổi đồng nào; bài học rút ra là phải nhắm một nhóm người thật hẹp và thật cụ thể",
+   "kq": "800 user, $0 doanh thu, bỏ"
+  },
+  {
+   "s": "03:19",
+   "e": "04:09",
+   "nut": ["?"],
+   "moi": "Vibe code app 2 tuần bằng Replit + Claude làm senior dev",
+   "tom": "Mất khoảng 2 tuần: mô tả cho Replit tự build, Claude đóng vai senior dev chỉ cách gắn RevenueCat cho sub in-app và Resend gửi mail, Firebase làm backend; khó nhất là Apple từ chối liên tục vì tính năng bị coi là lời khuyên y tế"
+  },
+  {
+   "s": "04:09",
+   "e": "04:44",
+   "nut": ["?"],
+   "moi": "Xin expedite review của Apple để rút thời gian duyệt",
+   "tom": "Duyệt App Store mất khoảng một tuần đi lại; cách gỡ là xem app cùng loại lách thế nào rồi chỉnh theo, và dùng nút expedite review khi có lỗi lớn để được xét trong ~2 tiếng thay vì 2 ngày"
+  },
+  {
+   "s": "05:40",
+   "e": "06:51",
+   "nut": ["2.8"],
+   "tom": "Bạn cùng phòng rủ dùng peptide, một tuần sau TikTok đẩy đúng chủ đề đó lên For You; tra ra thấy peptide cực nóng trên social mà chưa có app nào giải thích cách dùng an toàn, vài app cũ đã ra vài năm nhưng chưa cái nào thắng"
+  },
+  {
+   "s": "06:51",
+   "e": "07:45",
+   "nut": ["?"],
+   "moi": "Dò trend qua thứ mọi creator lớn đang nói mà mình chưa nghe bao giờ",
+   "tom": "Cách lặp lại: lướt social, để ý các creator lớn đang cùng nói về thứ gì mà mình chưa từng nghe — đó là dấu hiệu trend mới chưa ai làm gì; ví dụ looksmaxing đẻ ra app chụp ảnh chấm điểm ngoại hình"
+  },
+  {
+   "s": "07:45",
+   "e": "08:09",
+   "nut": ["?"],
+   "moi": "Vào trend sớm để chiếm top App Store search",
+   "tom": "Vào sớm nên gần như khỏi marketing: người ta tự gõ tìm trong App Store; sau đó đối thủ đẻ ra app tên Peptide AI, một post trên X viral đẩy người ta đi search, nhưng app anh đứng đầu kết quả nên hứng luôn sóng đó",
+   "kq": "traffic gần như 100% organic"
+  },
+  {
+   "s": "08:09",
+   "e": "09:11",
+   "nut": ["2.B1"],
+   "tom": "Bước 1-2 playbook: sống trên TikTok và Instagram mỗi giây rảnh để tìm thứ nhiều người cùng ám ảnh; rồi kiểm tra đã có app chưa — có sẵn vài app là dấu hiệu TỐT vì cầu đã được chứng minh, chỉ là chưa ai marketing nên hồn"
+  },
+  {
+   "s": "09:11",
+   "e": "09:59",
+   "nut": ["?"],
+   "moi": "Đổ review đối thủ và lý do huỷ sub vào AI để dựng brief sản phẩm",
+   "tom": "Bước 3: cày sạch review của mọi app đối thủ — người ta khen gì, chê gì, ước có gì — rồi đổ hết vào Claude hay ChatGPT để nó dựng nền cho app của mình",
+   "kq": "một founder làm kiểu này với review + lý do huỷ Stripe + ticket support rồi rebrand, tăng ~350%"
+  },
+  {
+   "s": "09:59",
+   "e": "11:22",
+   "nut": ["4.8", "4.4"],
+   "tom": "Bước 4: tìm influencer trong niche và cho họ đăng TRƯỚC khi ra mắt — vài người nhận lời, thêm mấy post Reddit là có waitlist 300 người; trend còn sớm nên chính influencer cũng chưa biết mình mạnh cỡ nào",
+   "kq": "1 story ra $1K; post chính 50K view ra $4K trong ngày; tổng hơn $10K từ một người"
+  },
+  {
+   "s": "11:22",
+   "e": "12:06",
+   "nut": ["2.B3"],
+   "tom": "Bước 5 và cũng là điều quan trọng nhất: marketing và phân phối nặng hơn ý tưởng lẫn chất lượng app; chưa hình dung được sẽ bán bằng influencer hay ads kiểu gì thì đừng build"
+  },
+  {
+   "s": "12:06",
+   "e": "13:37",
+   "nut": ["?"],
+   "moi": "Bộ tính năng lõi của app tracking: calculator + log + thư viện nguồn",
+   "tom": "Demo: calculator nhập lượng vial, nước pha, liều muốn dùng để ra số vạch phải rút; log liều kèm chọn vị trí tiêm để khỏi trùng chỗ; phần research kiểu Duolingo có quiz và thư viện dẫn nguồn PubMed; thêm quét bữa ăn, cân nặng, Apple Health"
+  },
+  {
+   "s": "15:09",
+   "e": "17:46",
+   "nut": ["?"],
+   "moi": "Build trên trend đang lên để lấy người dùng miễn phí",
+   "tom": "Pat và Gus chốt bài học lớn nhất: build trên trend đang lên thì được 'nước ngọt miễn phí' — app dở vẫn ra tiền, khác hẳn ngành đang chết; và phải lướt social bằng kính lúp đi săn chứ không phải brain rot"
+  }
+ ],
+ "bo_qua": [
+  {"s": "04:44", "e": "05:26", "ly_do": "quảng bá iOS bootcamp miễn phí của Starter Story Build"},
+  {"s": "13:37", "e": "15:09", "ly_do": "lời khuyên chung chung 'không bao giờ bỏ cuộc'"},
+  {"s": "17:46", "e": "18:20", "ly_do": "tự quảng bá iOS bootcamp lần hai và chào kết"}
+ ]
+}

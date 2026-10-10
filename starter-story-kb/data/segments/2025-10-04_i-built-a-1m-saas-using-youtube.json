@@ -1,0 +1,36 @@
+{
+ "f": "2025-10-04_i-built-a-1m-saas-using-youtube",
+ "vid": "VZ1XspToV1E",
+ "segments": [
+  {"s":"01:17","e":"01:47","nut":["?"],"moi":"Bậc giá $99–$700/tháng cho tool AI rút ngắn việc SEO",
+   "tom":"Arvo giúp agency marketing và chủ doanh nghiệp làm SEO nhanh hơn bằng AI; giá từ $99 tới gần $700/tháng, hiện khoảng 600 khách trả tiền, tất cả tăng trưởng đều organic","kq":"$70K MRR, 600 khách trả tiền"},
+  {"s":"01:47","e":"02:33","nut":["2.1","2.3"],
+   "tom":"Chuỗi bước: 2015 xem video Alex Becker về rank-and-rent SEO $10K/tháng nên mua domain làm local SEO, chán làm client nên bán dịch vụ trên Fiverr/Upwork, thấy marketplace thiếu thứ mình cần nên tự xây Vetted, bán xong thì làm AI writer","kq":"bán Vetted, lấy vốn kinh nghiệm làm Arvo"},
+  {"s":"02:48","e":"03:19","nut":["?"],"moi":"Chọn YouTube vì tỉ lệ công bỏ ra trên kết quả tốt nhất",
+   "tom":"Lý do dồn hết vào YouTube: người ta chỉ mua khi đã biết, thích và tin mình, mà cách nhanh nhất là để họ nhìn mặt nghe giọng trong thời gian dài — TikTok, blog, Twitter đều chạy được nhưng tỉ lệ công/kết quả kém hơn"},
+  {"s":"03:34","e":"04:19","nut":["4.1","?"],"moi":"Ba rổ nội dung: evergreen, tin nóng, viral",
+   "tom":"Bước 1 là sản xuất tài sản kiếm tiền, chia ba rổ: evergreen (ví dụ video best AI SEO writer, cả năm sau vẫn ra view), video bám tin nóng kiểu Google update (bung 2–3 ngày rồi tắt nhưng kéo sub), và video viral kiểu MrBeast"},
+  {"s":"04:19","e":"04:50","nut":["4.6"],
+   "tom":"Bước 2 là nhân bản chính mình vì một người chỉ quay được ngần ấy video: mở nhiều kênh riêng (Vasco SEO tips, SEO news...) rồi đặt mỗi kênh một creator; cách sai là đi săn creator có sẵn vì họ vừa đắt vừa nhiều cái tôi"},
+  {"s":"04:50","e":"05:21","nut":["4.6","?"],"moi":"Lọc Upwork tìm người sẽ thành creator, trả theo video và hiệu suất",
+   "tom":"Cách tìm creator: lướt profile trên Upwork, ai có gắn video tự giới thiệu tức là quen đứng trước camera, rồi trả theo từng video cộng thưởng hiệu suất; sau đó nhân tiếp sang kênh tiếng Bồ và tiếng Tây Ban Nha kiểu MrBeast"},
+  {"s":"05:21","e":"05:51","nut":["4.2","4.1"],
+   "tom":"Bước 3 chỉ đổ ads sau khi video đã chứng minh ra đơn: đồ thị video luôn lên rồi chững, có view là có sale, chững là hết sale — nên lấy đúng những video đã ra tiền rồi mua YouTube in-feed ads (hiện ở homepage và sidebar, trông như nội dung organic)"},
+  {"s":"05:51","e":"06:37","nut":["4.B1","?"],"moi":"Ba lớp đo attribution cho traffic YouTube organic",
+   "tom":"YouTube organic rất khó đo nên chồng ba lớp: UTM riêng cho từng video, mã giảm giá riêng từng video (bảo người xem nhắn support xin qua chat bubble), và câu hỏi lúc đăng ký hiện mặt các creator để chọn xem tới từ ai"},
+  {"s":"06:37","e":"07:08","nut":["?"],"moi":"Dời CTA lên đầu và giữa video, và làm CTA cụ thể",
+   "tom":"Hai mẹo CTA: trước đây để lời kêu gọi ở cuối video là vô nghĩa vì ít ai xem hết, chuyển lên đầu và giữa thì lượng đăng ký tăng mạnh; và đừng nói chung chung ghé thăm web mà ra CTA cụ thể, mời làm một hành động ngay trong sản phẩm"},
+  {"s":"07:54","e":"08:41","nut":["4.5","4.1"],
+   "tom":"Ví dụ thật: video how to make a Wikipedia page quay 2 năm trước, tutorial khá dở, tới nay vẫn 1,2 triệu impression và ~300 view mỗi ngày — 65% traffic từ tìm kiếm YouTube, 20% từ Google, và giờ còn được các LLM nhắc lại","kq":"1 video evergreen kéo view suốt 2 năm"},
+  {"s":"08:56","e":"09:44","nut":["4.11","4.1"],
+   "tom":"Lời khuyên bắt đầu: đăng một video mỗi ngày trong 45 ngày, anh cược sẽ PayPal $500 cho ai làm đủ mà không kiếm nổi $5.000; video không cần bóng bẩy — cả 70K MRR đến từ anh ngồi tầng hầm giảng trên bảng trắng","kq":"0 → $70K MRR bằng video whiteboard tự quay"},
+  {"s":"10:00","e":"10:30","nut":["?"],"moi":"Bộ đồ quay tối giản: Loom + Miro + Camtasia, tiền dồn vào phần cứng",
+   "tom":"Cả bộ đồ nghề: Loom bản premium để quay HD, Miro làm bảng trắng, Camtasia để dựng — và lời khuyên là đổ tiền vào phần cứng hơn phần mềm: mic tốt (Shure SM7B), camera tốt, đèn tốt"},
+  {"s":"10:46","e":"11:05","nut":["4.11"],
+   "tom":"Cái giá thật của kênh: gần một năm quay video dài 20–30 phút mỗi ngày, không nghỉ — muốn ở nhóm 1% thì phải chịu làm đúng thứ mà 99% còn lại không chịu làm"}
+ ],
+ "bo_qua": [
+  {"s":"07:08","e":"07:54","ly_do":"quảng bá Starter Story Build giữa video"},
+  {"s":"11:31","e":"12:09","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

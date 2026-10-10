@@ -1,0 +1,34 @@
+{
+ "f": "2025-06-21_how-i-built-it-15k-month-mobile-app",
+ "vid": "gpn1jEoWT4A",
+ "segments": [
+  {"s":"02:15","e":"03:09","nut":["?"],"moi":"MVP không đăng nhập, dữ liệu nằm hết trên máy người dùng",
+   "tom":"Dùng Flutter một codebase cho cả iOS lẫn Android; MVP chỉ có grid ô vuông theo dõi habit, dữ liệu lưu local trên máy, không sign-in, không auth"},
+  {"s":"03:09","e":"03:25","nut":["3.6","?"],"moi":"Đăng screenshot quá trình build để lấy tín hiệu trước khi ship",
+   "tom":"Đăng screenshot quá trình build lên mạng xã hội, thấy phản hồi tích cực là biết phải ship gấp — giữ app thật đơn giản và tung lên store trong 2 tháng","kq":"2 tháng từ ý tưởng tới app store"},
+  {"s":"03:40","e":"05:21","nut":["?"],"moi":"Tự đặt deadline runway, hết hạn thì quay lại đi làm",
+   "tom":"Bỏ việc lập trình sau 3 năm, tự cho 12 tháng runway; 6 tháng đầu gần như không doanh thu, hết hạn phải quay lại công ty cũ và làm app buổi tối","kq":"thất bại vòng 1; cuối 2023 $3K MRR, cuối 2024 $15K MRR, bỏ việc lần hai đầu 2024"},
+  {"s":"06:36","e":"07:12","nut":["4.8","?"],"moi":"Build in public đa nền tảng để kéo cơ hội tới mình",
+   "tom":"Build in public trên X, LinkedIn, Bluesky và Threads — chia sẻ cả thắng lẫn thua, đổi lại được mời lên podcast, được feature và quen nhiều dev app khác"},
+  {"s":"07:12","e":"07:39","nut":["?"],"moi":"Chạy ads nhỏ trên chính nền tảng để mua thiện cảm thuật toán",
+   "tom":"Chạy Apple Search Ads chỉ $100/tháng, không phải để kiếm lượt cài mà đặt cược rằng Apple ưu ái dev có bỏ tiền quảng cáo trên nền tảng của họ"},
+  {"s":"07:39","e":"08:00","nut":["?"],"moi":"App Store Optimization: nhét keyword chính vào đầu tên app",
+   "tom":"ASO là sửa metadata app store — keyword, tên app, subtitle, screenshot; anh nhét thẳng chữ 'habit tracker' vào đầu tên app để leo top tìm kiếm","kq":"top 5 keyword 'habit tracker' ở nhiều nước, 300K lượt tải"},
+  {"s":"08:00","e":"08:31","nut":["?"],"moi":"Xin đánh giá đúng khoảnh khắc thành công đầu tiên",
+   "tom":"Bung hộp thoại review native ngay sau khi user tick xong habit đầu tiên — đúng khoảnh khắc thành công đầu tiên nên phần lớn người dùng cho 5 sao","kq":"hơn 2.000 review và rating"},
+  {"s":"08:31","e":"09:21","nut":["2.0","2.8"],
+   "tom":"Cách tìm ý tưởng: cứ build bất cứ thứ gì, vào guồng rồi ý tưởng khác tự tới; validate bằng cách chỉ làm app giải vấn đề của chính mình, luôn là khách hàng số một"},
+  {"s":"09:21","e":"10:25","nut":["?"],"moi":"Stack app mobile solo",
+   "tom":"Stack: Flutter, Cursor làm IDE có AI, Astro tra độ khó keyword App Store, Appfigures cho analytics, RevenueCat xử lý subscription, thêm Raycast và 1Password"},
+  {"s":"10:25","e":"11:14","nut":["1.1"],
+   "tom":"Chi phí vận hành app $15K/tháng: khoản lớn nhất là RevenueCat ăn 1% doanh thu, mọi thứ còn lại cộng lại chỉ $200–300/tháng, không nhân viên nào","kq":"biên gần như toàn bộ trên $15K/tháng"},
+  {"s":"11:14","e":"11:53","nut":["2.B1","?"],"moi":"Ranking app store thay cho ngân sách marketing",
+   "tom":"Bất ngờ lớn nhất là một người làm solo vẫn chen được top 5 các keyword quan trọng, đấu lại công ty lớn — có ranking tốt thì khỏi cần ngân sách marketing"},
+  {"s":"11:53","e":"12:34","nut":["?"],"moi":"Để dành tiền cho một kỳ sabbatical thay vì làm side project buổi tối",
+   "tom":"Lời khuyên: tiết kiệm cho một kỳ sabbatical rồi nghỉ hẳn, vì sau 8 tiếng code ở công ty không còn động lực code app riêng — nghỉ việc là cửa duy nhất để bắt đầu"}
+ ],
+ "bo_qua": [
+  {"s":"05:21","e":"06:36","ly_do":"quảng cáo ZenBusiness thành lập LLC"},
+  {"s":"13:04","e":"13:26","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

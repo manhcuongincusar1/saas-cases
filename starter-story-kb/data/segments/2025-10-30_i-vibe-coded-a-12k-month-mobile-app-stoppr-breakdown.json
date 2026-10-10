@@ -1,0 +1,101 @@
+{
+ "f": "2025-10-30_i-vibe-coded-a-12k-month-mobile-app-stoppr-breakdown",
+ "vid": "orYTlk_BhW8",
+ "segments": [
+  {
+   "s": "01:05",
+   "e": "01:22",
+   "nut": ["2.6"],
+   "tom": "David làm app ra $12K/tháng, build cách đây 5 tháng; tiền để nuôi ý tưởng này đến từ việc anh clone nguyên một app đang rất thành công và tháng doanh thu đầu tiên đã thu $5.000",
+   "kq": "$5.000 tháng đầu của bản clone, app hiện tại $12K/tháng"
+  },
+  {
+   "s": "01:22",
+   "e": "01:54",
+   "nut": ["?"],
+   "moi": "Bậc giá subscription tuần/tháng/năm có trial cho app mobile",
+   "tom": "Stoppr là app mobile giúp phụ nữ cắt cơn thèm đường, khách chủ yếu là nữ Gen Z 13–25 tuổi; thu tiền bằng ba gói subscription tuần, tháng và năm, riêng gói năm có kèm trial"
+  },
+  {
+   "s": "01:54",
+   "e": "02:24",
+   "nut": ["2.6", "4.4"],
+   "tom": "Sau 5 tháng: 60.000 lượt tải và khoảng 900 khách trả tiền; kênh chính là influencer Pháp, vì anh để ý ở Pháp chưa có ai làm mảng giúp phụ nữ bỏ đường trong khi thị trường Mỹ đã có",
+   "kq": "60.000 lượt tải, ~900 khách trả tiền, $12K/tháng"
+  },
+  {
+   "s": "02:24",
+   "e": "02:56",
+   "nut": ["?"],
+   "moi": "Lấy con số công khai của app khác làm bằng chứng ngách có tiền",
+   "tom": "Nền tảng là 8 năm làm quant trader, không phải dev; xem Pieter Levels, Thibault (Outrank), Jack (Post Bridge) rồi nghe podcast về ba thiếu niên làm Quittr $200K/tháng sau 3 tháng — ghen tị đó là cú khởi động Stoppr"
+  },
+  {
+   "s": "03:56",
+   "e": "04:31",
+   "nut": ["2.6", "4.12"],
+   "tom": "Tìm ý tưởng ngay trên YouTube: thấy nhóm Quittr khoe $200K/tháng sau 3 tháng, tải app về dùng và thấy onboarding quá tốt nên bê nguyên xi luồng onboarding đó sang app của mình",
+   "kq": "app gốc $200K/tháng sau 3 tháng"
+  },
+  {
+   "s": "04:31",
+   "e": "05:08",
+   "nut": ["?"],
+   "moi": "Validate ngách bằng Google Trends cộng đếm influencer đang nói về nó",
+   "tom": "Validate ngách bằng hai bước: tra Google Trends thấy keyword 'stop sugar' đi lên liên tục suốt 5 năm, rồi tra chính keyword đó trên TikTok và Instagram thấy hàng loạt nữ influencer đang nói về chuyện bỏ đường"
+  },
+  {
+   "s": "05:08",
+   "e": "05:40",
+   "nut": ["?"],
+   "moi": "Clone app bằng screenshot đối thủ nạp thẳng vào Cursor",
+   "tom": "Tải Quittr về, chụp từng màn để hiểu luồng đi từ màn 1 sang 2 sang 3, rồi prompt Cursor dựng lại đúng màn đó với cùng visual, cùng màu, cùng ảnh — 2 tuần rưỡi ra bản copy đầy đủ, thêm 1 tuần chờ Apple duyệt",
+   "kq": "2,5 tuần code + 1 tuần duyệt App Store"
+  },
+  {
+   "s": "05:48",
+   "e": "06:20",
+   "nut": ["?"],
+   "moi": "Xác nhận doanh thu app mục tiêu bằng Sensor Tower trước khi clone",
+   "tom": "Playbook clone bước 1–2: tìm app đang rất thành công, xem nó phục vụ ngách và quốc gia nào, xác nhận doanh thu tháng bằng Sensor Tower; rồi tra TikTok và Google Trends xem ngách mình định nhảy vào có đáng làm không"
+  },
+  {
+   "s": "06:20",
+   "e": "06:52",
+   "nut": ["?"],
+   "moi": "Kéo screenshot đối thủ vào Figma rồi nối Figma MCP với Cursor",
+   "tom": "Bước 3–4: dùng plugin Figma import screenshot JPEG, khoảng 80% màn gần như chuẩn; screen.design và mobbin.com tải nguyên bộ ảnh một app bằng một click; cần backend thì Firebase vì lo sẵn login Google/email/Apple",
+   "kq": "Figma MCP nối Cursor rút MVP từ 1 tháng xuống ~2 tuần"
+  },
+  {
+   "s": "07:07",
+   "e": "07:22",
+   "nut": ["?"],
+   "moi": "Stack tối thiểu vận hành app mobile một mình",
+   "tom": "Stack Stoppr: Cursor để vibe code, RevenueCat theo dõi doanh thu trong app, Mixpanel để đào sâu hành vi user — đúng ba công cụ, không có gì thêm"
+  },
+  {
+   "s": "07:22",
+   "e": "07:38",
+   "nut": ["4.4"],
+   "tom": "Đường ống tìm influencer: topyappers.com scrape TikTok, Instagram và YouTube ra đúng những profile đã từng chạy cho app cùng loại, lấy email đẩy vào LinkedIn.ai; song song chạy Meta ads và TikTok Spark Ads để bơm view cho video có sẵn"
+  },
+  {
+   "s": "07:38",
+   "e": "08:10",
+   "nut": ["1.1", "1.3"],
+   "tom": "Chi phí thật: gói Cursor $20/tháng, Mixpanel khoảng $100 tháng vừa rồi, TikTok Spark Ads khoảng $100/tháng — sau 5 tháng biên lợi nhuận của Stoppr là 35%, thấp vì phần lớn tiền đổ vào influencer",
+   "kq": "biên 35% sau 5 tháng"
+  },
+  {
+   "s": "08:10",
+   "e": "08:56",
+   "nut": ["2.B1", "2.6"],
+   "tom": "Lời khuyên: cách kiếm tiền nhanh nhất là copy 1-1 một app đang rất thành công — copy từng màn, từng chữ, anh chỉ đổi màu đen thành hồng và đổi chủ đề từ nội dung người lớn sang đường; nhưng phải đổi ngách, đừng đi giành đúng tệp khách của họ"
+  }
+ ],
+ "bo_qua": [
+  {"s": "02:56", "e": "03:56", "ly_do": "quảng cáo Rocket (sponsor)"},
+  {"s": "09:00", "e": "09:55", "ly_do": "tổng kết + quảng cáo Starter Story Build"}
+ ]
+}

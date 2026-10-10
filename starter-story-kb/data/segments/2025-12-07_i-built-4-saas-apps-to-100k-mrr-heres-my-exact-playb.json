@@ -1,0 +1,118 @@
+{
+ "f": "2025-12-07_i-built-4-saas-apps-to-100k-mrr-heres-my-exact-playb",
+ "vid": "xeUhKuJbeWQ",
+ "segments": [
+  {
+   "s": "01:40",
+   "e": "03:32",
+   "nut": ["?"],
+   "moi": "Danh mục SaaS trải nhiều mức doanh thu, có cả cái mua lại",
+   "tom": "5 sản phẩm: Revid.ai (làm video) $400K/tháng vẫn tăng 10%/tháng, Outrank (từ blog post generator thành SEO SaaS) vừa qua $200K, SuperX $13K, Postsyncer $1,5K, Feather (Notion → blog) mua lại giá $250K nay $10K.",
+   "kq": "~$700K/tháng, 50K khách trả tiền, tăng 20%/tháng suốt 6 tháng"
+  },
+  {
+   "s": "04:02",
+   "e": "04:49",
+   "nut": ["3.2"],
+   "tom": "Khác biệt duy nhất: ai cũng cắm đầu thêm feature vì đoán khách muốn thế, nhưng né đúng việc khó — nói chuyện với người. Dân biết code lại là nhóm nhút nhát nhất, thích ở trong hang; cả framework này chỉ để ép mình ra khỏi hang mỗi ngày."
+  },
+  {
+   "s": "06:22",
+   "e": "07:25",
+   "nut": ["?"],
+   "moi": "Nén chu kỳ thử để chịu được tỉ lệ hỏng 90%",
+   "tom": "Bước 1: build MVP trong vài ngày tới vài tuần bằng mọi đường tắt — no-code (Bubble.io), boilerplate, bỏ qua đúng những thứ dân pro không chịu bỏ. Tỉ lệ hỏng là 90%, mỗi dự án tốn 1 năm thì 9 năm mới trúng; nén xuống mỗi tuần một dự án.",
+   "kq": "tỉ lệ thất bại thật của anh: 90%"
+  },
+  {
+   "s": "07:25",
+   "e": "07:58",
+   "nut": ["3.2", "2.0"],
+   "tom": "Bước 2: tìm đúng 5–10 người thuộc tệp lõi, tiếp cận qua tweet, subreddit hoặc email. Mẹ mình khen hay chê ý tưởng đều vô nghĩa — phản hồi của người không đúng tệp thì tích cực hay tiêu cực cũng không được nghe."
+  },
+  {
+   "s": "07:58",
+   "e": "08:29",
+   "nut": ["3.2"],
+   "tom": "Bước 3–4: xây quan hệ thật với từng người trong nhóm đó, hiểu đời họ và workflow chứ không chỉ hỏi feature; rồi nói chuyện mỗi ngày để biết vì sao họ quay lại hay không — thứ cần săn là usage lặp lại hằng ngày."
+  },
+  {
+   "s": "08:29",
+   "e": "09:17",
+   "nut": ["4.14"],
+   "tom": "Mẹo cụ thể: cho tới khi mỗi sản phẩm đạt $10K/tháng, nút support trong app trỏ thẳng vào Twitter DM của anh. Dòng người tới mỗi ngày, và sửa lỗi trong 5–10 phút từ lúc họ báo là đủ biến họ thành khách trọn đời."
+  },
+  {
+   "s": "09:17",
+   "e": "09:34",
+   "nut": ["?"],
+   "moi": "Bám mục tiêu tối hậu của user để nhân giá trị sản phẩm",
+   "tom": "Bước 5: hiểu mục tiêu tối hậu của user chứ không dừng ở tác vụ trước mắt — đi càng xa trong việc giúp họ đạt mục tiêu đó thì giá trị tạo ra càng nhân lên gấp 10 đến 100 lần."
+  },
+  {
+   "s": "09:34",
+   "e": "10:36",
+   "nut": ["4.14"],
+   "tom": "Bước 6–7: sửa vấn đề của user, không phải của mình; anh tự làm user sản phẩm của mình nên hiểu vấn đề gấp 10 lần. Ship một feature trong 1–2 giờ từ lúc có người tweet xin — người đó thành người quảng bá đầu tiên."
+  },
+  {
+   "s": "10:36",
+   "e": "11:09",
+   "nut": ["4.15"],
+   "tom": "Bước 8: đừng đi rộng quá sớm — lặp cho tới khi khách không sống thiếu phần mềm được. Retention kém mà đổ sức vào acquisition thì 99% người vừa thử sẽ trôi đi ngay, tốn năng lượng đẩy người vào một cái thùng thủng."
+  },
+  {
+   "s": "11:09",
+   "e": "11:41",
+   "nut": ["?"],
+   "moi": "Đọc lời than phiền như thước đo độ dính",
+   "tom": "Cách rẻ nhất để biết có stickiness: có ai chịu bỏ thời gian ra than phiền không. Ai đó ngồi viết khiếu nại nghĩa là họ đã cam kết dùng và muốn bạn sửa — người dửng dưng thì lặng lẽ bỏ đi."
+  },
+  {
+   "s": "11:41",
+   "e": "12:44",
+   "nut": ["?"],
+   "moi": "Product Hunt + build in public làm bậc thang tới $10K/tháng",
+   "tom": "Bước 9: giờ mới đi rộng thử nhiều kênh acquisition. Rẻ nhất và vẫn hiệu quả hiện nay là launch Product Hunt cộng build in public trên socials — đủ để lên $1–3K/tháng; anh luôn dùng đúng combo đó cho tới mốc $10K rồi mới tính tiếp."
+  },
+  {
+   "s": "12:44",
+   "e": "13:16",
+   "nut": ["?"],
+   "moi": "Biến công ty thành media company có dây chuyền nội dung",
+   "tom": "Bước 10: đến lúc công ty phải thành media company — giỏi socials, hoặc SEO, hoặc cold email. Cần một dây chuyền sản xuất nội dung đều đặn, có quan điểm về ngành, có testimonial và case study khách thành công để tiếp nhiên liệu cho mọi thứ khác."
+  },
+  {
+   "s": "13:16",
+   "e": "14:18",
+   "nut": ["4.2", "4.5"],
+   "tom": "Bước 11: chuyển sang thứ bền và scale được — SEO, ads, affiliate. Ads chạy được ở $1K/tháng thì thường đẩy lên $10K–$100K vẫn chạy. Outrank lên $20K/tháng chỉ bằng build in public, nhưng để đi tiếp phải thêm ads, thuê người chuyên SEO và làm affiliate dễ giới thiệu.",
+   "kq": "Outrank: $20K → $200K/tháng"
+  },
+  {
+   "s": "14:18",
+   "e": "15:21",
+   "nut": ["4.1"],
+   "tom": "Bước 12: scale cái chạy, giết cái không. Đi rộng chỉ là để dò — cuối cùng mỗi phần mềm sống bằng đúng 1–2 kênh, và anh all-in vào đó. Kênh nào chạy cũng luôn còn việc để đào sâu, như SEO thì tìm thêm keyword và query mới."
+  },
+  {
+   "s": "15:21",
+   "e": "16:53",
+   "nut": ["?"],
+   "moi": "Chia rủi ro nền tảng bằng danh mục nhiều sản phẩm",
+   "tom": "Vì sao portfolio chứ không all-in một sản phẩm: anh có vợ và 2 con, động cơ là sợ — mỗi ngày một tin AI làm startup nào đó thành vô dụng. Anh từng dính rồi: Elon Musk tiếp quản X gần như giết Tweet Hunter khi nó đang $200K/tháng.",
+   "kq": "Tweet Hunter $200K/tháng suýt chết khi X đổi chủ"
+  },
+  {
+   "s": "16:53",
+   "e": "17:41",
+   "nut": ["3.2"],
+   "tom": "Lời khuyên chốt: việc của bạn là hiểu sâu nhu cầu lõi của user — giữ một kênh liên lạc thường trực (socials là kênh tốt) và nói chuyện mỗi ngày, cộng với tự làm user sản phẩm của mình để thành chuyên gia về đúng vấn đề đó."
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:08", "ly_do": "intro/hook của kênh"},
+  {"s": "04:49", "e": "06:22", "ly_do": "quảng cáo HubSpot for Startups (sponsor)"},
+  {"s": "17:41", "e": "18:58", "ly_do": "lời cảm ơn và quảng bá Starter Story Build"}
+ ]
+}

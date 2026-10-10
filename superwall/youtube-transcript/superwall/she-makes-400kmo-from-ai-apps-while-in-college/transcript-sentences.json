@@ -1,0 +1,3712 @@
+[
+  {
+    "text": "My first app, it's called Glam Up.",
+    "start": "00:00:00",
+    "end": "00:00:03"
+  },
+  {
+    "text": "We got a million users in the first 6 months of launching.",
+    "start": "00:00:03",
+    "end": "00:00:06"
+  },
+  {
+    "text": "I think at peak we were at around 150k MRR.",
+    "start": "00:00:06",
+    "end": "00:00:09"
+  },
+  {
+    "text": "Sprawl, I was growing up for the first 8 months and we did 250k MRR.",
+    "start": "00:00:09",
+    "end": "00:00:12"
+  },
+  {
+    "text": "When I was handling all of the UGCs, we were doing 100 million monthly views.",
+    "start": "00:00:12",
+    "end": "00:00:19"
+  },
+  {
+    "text": ">> That's Nicole.",
+    "start": "00:00:16",
+    "end": "00:00:19"
+  },
+  {
+    "text": "She built four apps before turning 25 and the last two apps did over 400 grand a month between them.",
+    "start": "00:00:19",
+    "end": "00:00:25"
+  },
+  {
+    "text": "Now, the interesting part about Nicole is that she started Glam Up out of her bedroom while she was still in school without any engineering background.",
+    "start": "00:00:24",
+    "end": "00:00:32"
+  },
+  {
+    "text": "So, in this video I'm going to sit down with her to figure out the exact playbook she used to blow up four different apps and what she'd do differently if she was starting from zero today.",
+    "start": "00:00:32",
+    "end": "00:00:40"
+  },
+  {
+    "text": "This is the Superwall Podcast.",
+    "start": "00:00:40",
+    "end": "00:00:41"
+  },
+  {
+    "text": "I'm Joseph Choi, founder of Consumer Club, a Discord where top consumer app founders trade alpha and what's working now in growth.",
+    "start": "00:00:41",
+    "end": "00:00:48"
+  },
+  {
+    "text": "I've been talking to members doing a million AR and they tell me they've been using these two tools.",
+    "start": "00:00:46",
+    "end": "00:00:52"
+  },
+  {
+    "text": "Superwall has this free AI tool trained on 422 profitable paywall experiments across thousands of successful apps.",
+    "start": "00:00:52",
+    "end": "00:00:58"
+  },
+  {
+    "text": "You upload a screenshot of your paywall and it gives you an experiment idea to make more revenue with the same number of users at paywallexperiments.",
+    "start": "00:00:58",
+    "end": "00:01:05"
+  },
+  {
+    "text": "com.",
+    "start": "00:01:05",
+    "end": "00:01:05"
+  },
+  {
+    "text": "And if your app's doing at least 100k MRR, we host vetted dinners in SF and New York to hang out and network with other top app founders.",
+    "start": "00:01:05",
+    "end": "00:01:11"
+  },
+  {
+    "text": "You can apply with the typeform in the description.",
+    "start": "00:01:11",
+    "end": "00:01:14"
+  },
+  {
+    "text": "Also, these app founders have been telling me they use R0K.",
+    "start": "00:01:14",
+    "end": "00:01:15"
+  },
+  {
+    "text": "I met Daniel, the founder of R0K, at a dinner and I got genuinely really excited when he told me about R0K Max, which is out now and has honestly changed the game for coding mobile apps.",
+    "start": "00:01:15",
+    "end": "00:01:27"
+  },
+  {
+    "text": "It's AI that one-shots full native iOS apps with Swift code, camera, sensors, haptics, payments, the whole stack.",
+    "start": "00:01:24",
+    "end": "00:01:32"
+  },
+  {
+    "text": "And as you vibe code with R0K, you can install prototypes directly onto your iPhone with one click and then publish to the App Store in two clicks.",
+    "start": "00:01:32",
+    "end": "00:01:39"
+  },
+  {
+    "text": "If you've been waiting for AI coding that actually does native iOS apps well, this is it.",
+    "start": "00:01:39",
+    "end": "00:01:41"
+  },
+  {
+    "text": "I got you guys a discount.",
+    "start": "00:01:41",
+    "end": "00:01:44"
+  },
+  {
+    "text": "You can use the code superwall or use the link below.",
+    "start": "00:01:44",
+    "end": "00:01:45"
+  },
+  {
+    "text": "Okay, I'm going to start with these tweets.",
+    "start": "00:01:45",
+    "end": "00:01:48"
+  },
+  {
+    "text": "Um you've been putting out some crazy tweets with flexing your MRR and your users and uh your views on TikTok and everything.",
+    "start": "00:01:48",
+    "end": "00:01:57"
+  },
+  {
+    "text": "It seems like you have multiple apps.",
+    "start": "00:01:56",
+    "end": "00:01:59"
+  },
+  {
+    "text": "So, I want to dig into some of the apps you're building, the playbooks, and then I think it's also pretty wild that you're you're a senior in college, right?",
+    "start": "00:01:57",
+    "end": "00:02:05"
+  },
+  {
+    "text": "And you're writing your you like wrote this report on how you built these companies, which is also like kind of crazy.",
+    "start": "00:02:05",
+    "end": "00:02:11"
+  },
+  {
+    "text": "So, yeah, so what's going on?",
+    "start": "00:02:11",
+    "end": "00:02:13"
+  },
+  {
+    "text": "What are What are your apps?",
+    "start": "00:02:12",
+    "end": "00:02:15"
+  },
+  {
+    "text": ">> Yeah, yeah, yeah.",
+    "start": "00:02:13",
+    "end": "00:02:15"
+  },
+  {
+    "text": "So, I've been building apps for the past 2 years.",
+    "start": "00:02:15",
+    "end": "00:02:19"
+  },
+  {
+    "text": "I have four apps right now.",
+    "start": "00:02:19",
+    "end": "00:02:20"
+  },
+  {
+    "text": "Uh my first two apps, I built them in college, hence why I wrote my senior college thesis on it.",
+    "start": "00:02:20",
+    "end": "00:02:27"
+  },
+  {
+    "text": "Uh but my first app, it's called Glam Up.",
+    "start": "00:02:27",
+    "end": "00:02:29"
+  },
+  {
+    "text": "We got a million users in the first 6 months of launching.",
+    "start": "00:02:29",
+    "end": "00:02:33"
+  },
+  {
+    "text": "Um I think at peak we were at around 150k MRR.",
+    "start": "00:02:31",
+    "end": "00:02:34"
+  },
+  {
+    "text": "It's a glow-up app for for women and makeup and skincare, all that stuff.",
+    "start": "00:02:34",
+    "end": "00:02:39"
+  },
+  {
+    "text": "My second app is called Prep AI.",
+    "start": "00:02:39",
+    "end": "00:02:43"
+  },
+  {
+    "text": "Uh we renamed it to Sprout now, but it's basically Tinder for jobs.",
+    "start": "00:02:41",
+    "end": "00:02:46"
+  },
+  {
+    "text": "So, you can download the app, upload your resume, and whenever you swipe right on a job, we just automatically apply for you with a tailored resume and cover letter.",
+    "start": "00:02:46",
+    "end": "00:02:56"
+  },
+  {
+    "text": "Yes, we also have a web app now.",
+    "start": "00:02:56",
+    "end": "00:02:58"
+  },
+  {
+    "text": "Uh but I'm currently stepping down as an advisor for them while working on the new apps uh that are currently in stealth.",
+    "start": "00:02:58",
+    "end": "00:03:05"
+  },
+  {
+    "text": ">> So, you have four apps total, and then Glam Up and Sprout, you know, with Glam Up you scaled to, you know, 150k MRR, million users.",
+    "start": "00:03:03",
+    "end": "00:03:16"
+  },
+  {
+    "text": "Um is this the one that you're going to uh share the most about cuz it seems like you really got very specific into all the details in the playbook of how you how you built and grew this.",
+    "start": "00:03:13",
+    "end": "00:03:26"
+  },
+  {
+    "text": ">> The good part about this is that whatever I did for Glam Up, I basically did it, but but did it better for Sprout.",
+    "start": "00:03:25",
+    "end": "00:03:33"
+  },
+  {
+    "text": "Um and I have the most info on Glam Up because that's when I was in college, I was like preparing for my O Y, so I I was like gathering a lot of evidences for it.",
+    "start": "00:03:33",
+    "end": "00:03:43"
+  },
+  {
+    "text": "Uh so, that's why I have the most resources there, but basically everything is the same when it comes to Glam Up and Sprout.",
+    "start": "00:03:43",
+    "end": "00:03:49"
+  },
+  {
+    "text": "I would say Sprout is a bit more matured, you know, when it comes to a lot of the systems that we're building, but Glam Up is the version one of like what we have now.",
+    "start": "00:03:49",
+    "end": "00:04:01"
+  },
+  {
+    "text": ">> Cuz I think Glam Up is like a it's a really good case study story for like people that are either just starting out with their first app cuz, you know, similar to how it was your first app, but also just all the growth hacks and some of the referral mechanisms and like a lot of the just had a lot have a lot of interesting stuff.",
+    "start": "00:03:59",
+    "end": "00:04:17"
+  },
+  {
+    "text": "I read through this and there's there's a lot of interesting stuff that I want to just to start out, like what what was the app idea and like what what does it do?",
+    "start": "00:04:17",
+    "end": "00:04:27"
+  },
+  {
+    "text": ">> The app idea, we were loosely inspired by Umax cuz my co-founder Aaron for for Glam Up, he was in H0 with some founders working on consumer apps.",
+    "start": "00:04:24",
+    "end": "00:04:37"
+  },
+  {
+    "text": "Umax was one of it and we just decided to build something you know, kind of in that space, but it's a glow up app before women and makeup or for guys and makeup.",
+    "start": "00:04:37",
+    "end": "00:04:50"
+  },
+  {
+    "text": "And we were like 2 years ago, it wasn't like that big of a thing, you know, when it comes to AI consumer apps yet.",
+    "start": "00:04:50",
+    "end": "00:04:57"
+  },
+  {
+    "text": "Not not that many like invite coders coming in at that point, so we just went on App Store.",
+    "start": "00:04:57",
+    "end": "00:05:00"
+  },
+  {
+    "text": "We didn't really find that many apps doing that and we just decided to make one and it was funny.",
+    "start": "00:05:00",
+    "end": "00:05:08"
+  },
+  {
+    "text": "It was my co-founder for for Glam Up Aaron, he just called me.",
+    "start": "00:05:08",
+    "end": "00:05:13"
+  },
+  {
+    "text": "We just had a 10-minute conversation and in that 10 minutes we decided to start an app together.",
+    "start": "00:05:13",
+    "end": "00:05:16"
+  },
+  {
+    "text": "We decided on the app name and the app concept and how it's going to work and that became Glam Up.",
+    "start": "00:05:16",
+    "end": "00:05:24"
+  },
+  {
+    "text": ">> In your article you said it was it was like a copycat app, right?",
+    "start": "00:05:22",
+    "end": "00:05:27"
+  },
+  {
+    "text": "Is this your is this your like what you're referring to or is this different one?",
+    "start": "00:05:27",
+    "end": "00:05:31"
+  },
+  {
+    "text": ">> No, no, no.",
+    "start": "00:05:29",
+    "end": "00:05:31"
+  },
+  {
+    "text": "So this is interesting.",
+    "start": "00:05:31",
+    "end": "00:05:34"
+  },
+  {
+    "text": "We were growing Glam Up and then we got kind of exposed on Twitter.",
+    "start": "00:05:34",
+    "end": "00:05:37"
+  },
+  {
+    "text": "So so some people started posting about Glam Up and how how much money it's making and this and that and someone copied our app, but it was a brand new app and they weren't ranking on on App Store and they chose a very similar name.",
+    "start": "00:05:37",
+    "end": "00:05:52"
+  },
+  {
+    "text": "So, when they started going viral, all the all the traffic went to us.",
+    "start": "00:05:52",
+    "end": "00:05:56"
+  },
+  {
+    "text": "So, like I see.",
+    "start": "00:05:56",
+    "end": "00:05:59"
+  },
+  {
+    "text": "That's crazy.",
+    "start": "00:05:59",
+    "end": "00:05:58"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:05:58",
+    "end": "00:05:59"
+  },
+  {
+    "text": "And then they just made us, you know, 100K in a week.",
+    "start": "00:05:59",
+    "end": "00:06:04"
+  },
+  {
+    "text": ">> So, that was like a crazy ASO thing.",
+    "start": "00:06:02",
+    "end": "00:06:05"
+  },
+  {
+    "text": "Well, we'll get into that a little bit later, but is it Is this the the page for the app?",
+    "start": "00:06:04",
+    "end": "00:06:11"
+  },
+  {
+    "text": ">> Yes, this is the page for the app.",
+    "start": "00:06:08",
+    "end": "00:06:12"
+  },
+  {
+    "text": "Um as you can see, we haven't worked on it for a year now.",
+    "start": "00:06:11",
+    "end": "00:06:15"
+  },
+  {
+    "text": ">> This was This is your first ever app with your co-founder?",
+    "start": "00:06:13",
+    "end": "00:06:16"
+  },
+  {
+    "text": "Like how long did it take to build it?",
+    "start": "00:06:16",
+    "end": "00:06:21"
+  },
+  {
+    "text": ">> Um let me think.",
+    "start": "00:06:18",
+    "end": "00:06:21"
+  },
+  {
+    "text": "I think we built the first MVP out in maybe 3 weeks to a month.",
+    "start": "00:06:21",
+    "end": "00:06:26"
+  },
+  {
+    "text": "Like that that was like our both of our first time building an app, so it took us a bit longer.",
+    "start": "00:06:26",
+    "end": "00:06:34"
+  },
+  {
+    "text": "It was all brown.",
+    "start": "00:06:34",
+    "end": "00:06:37"
+  },
+  {
+    "text": "The app barely worked and it was just a concept.",
+    "start": "00:06:33",
+    "end": "00:06:38"
+  },
+  {
+    "text": "Like it was genuinely an MVP that we just launched, but we didn't really care, you know, we were working on distribution at the same time.",
+    "start": "00:06:38",
+    "end": "00:06:47"
+  },
+  {
+    "text": "And Glam Up, like the current pink version is our version two and this one took us maybe a month to really improve and and optimize.",
+    "start": "00:06:47",
+    "end": "00:06:57"
+  },
+  {
+    "text": ">> So, you mentioned UMAX.",
+    "start": "00:06:54",
+    "end": "00:06:57"
+  },
+  {
+    "text": "Like um I think some people know about it, but for people who don't, like how did you come to the idea for Glam Up?",
+    "start": "00:06:57",
+    "end": "00:07:05"
+  },
+  {
+    "text": "You like you positioned it as like UMAX for women basically.",
+    "start": "00:07:05",
+    "end": "00:07:08"
+  },
+  {
+    "text": "But what what does that mean?",
+    "start": "00:07:08",
+    "end": "00:07:11"
+  },
+  {
+    "text": "Like why why did you come to this idea?",
+    "start": "00:07:09",
+    "end": "00:07:15"
+  },
+  {
+    "text": ">> Yeah, so my my co-founder Aaron, he was in H 0 with UMAX's founder.",
+    "start": "00:07:11",
+    "end": "00:07:20"
+  },
+  {
+    "text": "Um and they were killing it, you know, they were doing really good.",
+    "start": "00:07:18",
+    "end": "00:07:23"
+  },
+  {
+    "text": "It was basically like jawlines and all that stuff, like scores for your facial structures, but we wanted to do something that's like a little less toxic in that way.",
+    "start": "00:07:23",
+    "end": "00:07:32"
+  },
+  {
+    "text": "Like we don't want to rate women on their facial features.",
+    "start": "00:07:32",
+    "end": "00:07:34"
+  },
+  {
+    "text": "I think there's a difference between men and women when it comes to this.",
+    "start": "00:07:34",
+    "end": "00:07:41"
+  },
+  {
+    "text": "Um and obviously for for men to glow up, you know, they do the mewing and the looks maxing, but for women a lot of the times it's about skin care and makeup and and the products that they use.",
+    "start": "00:07:38",
+    "end": "00:07:52"
+  },
+  {
+    "text": "So, it's loosely inspired definitely by them, but you know, with with Glamhub we wanted to do something where it's more about makeup and and the actual products.",
+    "start": "00:07:50",
+    "end": "00:08:03"
+  },
+  {
+    "text": ">> And do you feel like you were the first ones to notice this trend?",
+    "start": "00:08:01",
+    "end": "00:08:06"
+  },
+  {
+    "text": "You're basically copying the the Umax value prop, but for a different audience.",
+    "start": "00:08:06",
+    "end": "00:08:10"
+  },
+  {
+    "text": "Like were you the first ones to kind of notice the the gap?",
+    "start": "00:08:10",
+    "end": "00:08:15"
+  },
+  {
+    "text": ">> I believe so.",
+    "start": "00:08:13",
+    "end": "00:08:15"
+  },
+  {
+    "text": "I think it's also because we have an advantage just because the Umax founder and my and my co-founder, they were in the same cohort together building together and so, you know, my co-founder was really familiar with Umax very early on doing their growth.",
+    "start": "00:08:15",
+    "end": "00:08:33"
+  },
+  {
+    "text": "So, you know, we kind of have a competitive advantage versus, you know, just discovering that on Twitter.",
+    "start": "00:08:33",
+    "end": "00:08:39"
+  },
+  {
+    "text": "And I I hope to believe that, you know, we're the first one to start this as well.",
+    "start": "00:08:39",
+    "end": "00:08:44"
+  },
+  {
+    "text": ">> How like how are people finding out about this app?",
+    "start": "00:08:42",
+    "end": "00:08:47"
+  },
+  {
+    "text": ">> I was like super happy about this.",
+    "start": "00:08:45",
+    "end": "00:08:48"
+  },
+  {
+    "text": "I remember I was like I couldn't sleep for for like an entire night when this happened and I had to call my mentor at like 6:00 a.",
+    "start": "00:08:48",
+    "end": "00:08:53"
+  },
+  {
+    "text": "m.",
+    "start": "00:08:53",
+    "end": "00:08:53"
+  },
+  {
+    "text": "and I didn't sleep for the whole night whole whole night, but that was the time when Glamhub reached number three on the App Store.",
+    "start": "00:08:53",
+    "end": "00:09:01"
+  },
+  {
+    "text": "We beat Tinder and Hinge luckily for like a a couple of days, but here are some screenshots from Super Wa.",
+    "start": "00:09:01",
+    "end": "00:09:08"
+  },
+  {
+    "text": "This is iOS.",
+    "start": "00:09:08",
+    "end": "00:09:10"
+  },
+  {
+    "text": "This is Android.",
+    "start": "00:09:10",
+    "end": "00:09:13"
+  },
+  {
+    "text": "I think well, now I think we have around like 2 million downloads, but we kind of stopped working on the app when we hit a million users.",
+    "start": "00:09:13",
+    "end": "00:09:20"
+  },
+  {
+    "text": "So, these are just from like the leftover distributions that that rent up.",
+    "start": "00:09:20",
+    "end": "00:09:29"
+  },
+  {
+    "text": "And we have we used to use one link for attribution links and for referral codes.",
+    "start": "00:09:29",
+    "end": "00:09:37"
+  },
+  {
+    "text": "So, as you can tell we have, you know, around 1.",
+    "start": "00:09:34",
+    "end": "00:09:38"
+  },
+  {
+    "text": "6 million total requests of people sharing the app, getting their codes, stuff like that.",
+    "start": "00:09:38",
+    "end": "00:09:45"
+  },
+  {
+    "text": "Um and when it comes to distribution, I just went on TikTok and I searched Glam Up app, and you can see I'll show you one of the videos.",
+    "start": "00:09:45",
+    "end": "00:09:55"
+  },
+  {
+    "text": "Um this doesn't have the audio, but I'll show you.",
+    "start": "00:09:53",
+    "end": "00:09:56"
+  },
+  {
+    "text": "So, it's a girl without makeup, and then it's a girl with makeup, and it has the Glam Up branding.",
+    "start": "00:09:56",
+    "end": "00:10:06"
+  },
+  {
+    "text": "And then we do the the like a screenshot about what the app is about.",
+    "start": "00:10:02",
+    "end": "00:10:10"
+  },
+  {
+    "text": "So, we did this for across, I think, 20 different UGC creators.",
+    "start": "00:10:10",
+    "end": "00:10:14"
+  },
+  {
+    "text": "We did faceless content.",
+    "start": "00:10:14",
+    "end": "00:10:17"
+  },
+  {
+    "text": "This is from years ago, but when we were killing it, we were getting millions of views like every single day from it.",
+    "start": "00:10:17",
+    "end": "00:10:26"
+  },
+  {
+    "text": "Um and it was pretty sick.",
+    "start": "00:10:24",
+    "end": "00:10:27"
+  },
+  {
+    "text": "And I remember the first faceless content that we posted, uh it was a slideshow, basically very similar um idea, and that one got like 10 million views.",
+    "start": "00:10:27",
+    "end": "00:10:38"
+  },
+  {
+    "text": "This one, like, our very first post got like 10 million views, which is insane.",
+    "start": "00:10:38",
+    "end": "00:10:43"
+  },
+  {
+    "text": "But, as you can see, all of it is before makeup, after makeup, Glam Up branding, and then a screenshot of it.",
+    "start": "00:10:43",
+    "end": "00:10:51"
+  },
+  {
+    "text": "And you want to know something really funny?",
+    "start": "00:10:51",
+    "end": "00:10:56"
+  },
+  {
+    "text": "How we did this is actually we went on Pinterest, we found a bunch of like pretty girls.",
+    "start": "00:10:53",
+    "end": "00:11:01"
+  },
+  {
+    "text": "We downloaded another app that can remove their makeup.",
+    "start": "00:11:01",
+    "end": "00:11:06"
+  },
+  {
+    "text": "So, we would go to the app, and we would remove their makeup like 10 times to make them like just like really plain, you know, something like this, and then we will enhance their makeup.",
+    "start": "00:11:06",
+    "end": "00:11:17"
+  },
+  {
+    "text": "So, we have this huge contrast, and then we post on social media, and it goes viral.",
+    "start": "00:11:17",
+    "end": "00:11:23"
+  },
+  {
+    "text": "So, these are actually just like demo demos of our app, but these are not like actual users.",
+    "start": "00:11:23",
+    "end": "00:11:27"
+  },
+  {
+    "text": "Um cuz we don't want to post their, you know, private information.",
+    "start": "00:11:27",
+    "end": "00:11:33"
+  },
+  {
+    "text": ">> Right.",
+    "start": "00:11:31",
+    "end": "00:11:32"
+  },
+  {
+    "text": "Right.",
+    "start": "00:11:32",
+    "end": "00:11:33"
+  },
+  {
+    "text": "Okay, so the slides like the content format is like very simple.",
+    "start": "00:11:33",
+    "end": "00:11:39"
+  },
+  {
+    "text": "It seems like it's like basically before and after with a slow sliding screen transition.",
+    "start": "00:11:36",
+    "end": "00:11:43"
+  },
+  {
+    "text": "And then the name of the app is just like right there, Glam Up.",
+    "start": "00:11:43",
+    "end": "00:11:49"
+  },
+  {
+    "text": "Um and then it shows the demo of the app that shows like the personalized makeup routine.",
+    "start": "00:11:46",
+    "end": "00:11:52"
+  },
+  {
+    "text": "But then on the first couple of frames of the video, do you have like a caption or something that kind of acts as a hook?",
+    "start": "00:11:52",
+    "end": "00:12:01"
+  },
+  {
+    "text": ">> It's also very funny because we did this for every single like we probably had hundreds, maybe almost maybe even thousands of these posts out and we used the same caption on the video and the same caption below the video and the same hashtags.",
+    "start": "00:11:59",
+    "end": "00:12:16"
+  },
+  {
+    "text": "And for some reason this combo just worked.",
+    "start": "00:12:16",
+    "end": "00:12:19"
+  },
+  {
+    "text": "And the same audio.",
+    "start": "00:12:19",
+    "end": "00:12:21"
+  },
+  {
+    "text": ">> Really?",
+    "start": "00:12:20",
+    "end": "00:12:20"
+  },
+  {
+    "text": "Interesting.",
+    "start": "00:12:20",
+    "end": "00:12:22"
+  },
+  {
+    "text": "Wait, so what what is the caption?",
+    "start": "00:12:22",
+    "end": "00:12:23"
+  },
+  {
+    "text": "Wait, so yeah, walk me through the caption and then the like the on-screen video caption.",
+    "start": "00:12:23",
+    "end": "00:12:30"
+  },
+  {
+    "text": ">> It's Okay, so it's literally either two or three lines.",
+    "start": "00:12:27",
+    "end": "00:12:32"
+  },
+  {
+    "text": "It's never saw myself with the next line, right makeup routine, crying face crying face.",
+    "start": "00:12:32",
+    "end": "00:12:40"
+  },
+  {
+    "text": "And we've tested this actually with different different um hooks and different you know, lines, how many lines you can have.",
+    "start": "00:12:40",
+    "end": "00:12:48"
+  },
+  {
+    "text": "We were like very intricate with it, almost scientific and we realized this is the best one.",
+    "start": "00:12:48",
+    "end": "00:12:54"
+  },
+  {
+    "text": "And then when it comes to the caption, it's usually almost I will be unstoppable with the exhausted emoji and we do like um the hashtags for it.",
+    "start": "00:12:54",
+    "end": "00:13:03"
+  },
+  {
+    "text": "And then we use like there's maybe like 10 different audios that we use.",
+    "start": "00:13:03",
+    "end": "00:13:08"
+  },
+  {
+    "text": "Uh we've tried other audios, it just doesn't work.",
+    "start": "00:13:08",
+    "end": "00:13:12"
+  },
+  {
+    "text": "It doesn't go viral.",
+    "start": "00:13:12",
+    "end": "00:13:14"
+  },
+  {
+    "text": "But with those audios with the same hook with the same caption, it works every time.",
+    "start": "00:13:11",
+    "end": "00:13:19"
+  },
+  {
+    "text": ">> That's so it's so weird.",
+    "start": "00:13:17",
+    "end": "00:13:20"
+  },
+  {
+    "text": "Like I don't understand.",
+    "start": "00:13:20",
+    "end": "00:13:21"
+  },
+  {
+    "text": "Like the the TikTok algorithm is so mysterious sometimes.",
+    "start": "00:13:21",
+    "end": "00:13:26"
+  },
+  {
+    "text": "Like it says says never saw myself with the right makeup routine, but then there's a a new line after the word the and then the emojis on the third line.",
+    "start": "00:13:23",
+    "end": "00:13:35"
+  },
+  {
+    "text": "So, give me an example of like caption variation that was that looked very similar, but just didn't perform as well.",
+    "start": "00:13:33",
+    "end": "00:13:43"
+  },
+  {
+    "text": ">> We tested out the size of the lines as well.",
+    "start": "00:13:39",
+    "end": "00:13:43"
+  },
+  {
+    "text": "It can't be like super big on the screen.",
+    "start": "00:13:43",
+    "end": "00:13:47"
+  },
+  {
+    "text": "It has to be something like that's very like like Gen Z Insta girly posting like something.",
+    "start": "00:13:47",
+    "end": "00:13:54"
+  },
+  {
+    "text": "So, it has to be like small and it had it like we would prefer not on the center, but somewhere by the side.",
+    "start": "00:13:54",
+    "end": "00:14:00"
+  },
+  {
+    "text": "Yeah, I think we might have deleted the ones that didn't work that well, but >> Sure.",
+    "start": "00:14:00",
+    "end": "00:14:04"
+  },
+  {
+    "text": "In the search results, they're all the same.",
+    "start": "00:14:04",
+    "end": "00:14:08"
+  },
+  {
+    "text": ">> They're all the same.",
+    "start": "00:14:07",
+    "end": "00:14:09"
+  },
+  {
+    "text": "They're all the same.",
+    "start": "00:14:09",
+    "end": "00:14:08"
+  },
+  {
+    "text": "And um we can dive into it a little later as well, but if you take a look at the comments, everyone's asking for code for code, uh which is the referral code that we build within the app.",
+    "start": "00:14:08",
+    "end": "00:14:19"
+  },
+  {
+    "text": "You can see a bunch of people are doing the templates that you know, we have.",
+    "start": "00:14:19",
+    "end": "00:14:27"
+  },
+  {
+    "text": ">> And that is that is the crazy probably one of the craziest things about this app.",
+    "start": "00:14:25",
+    "end": "00:14:29"
+  },
+  {
+    "text": "I want to get into that um in a minute, but first like how did you come up with this before after slideshow format in the first place?",
+    "start": "00:14:29",
+    "end": "00:14:39"
+  },
+  {
+    "text": "Like is it uh were you like paying influencers or did you just make it yourself?",
+    "start": "00:14:39",
+    "end": "00:14:42"
+  },
+  {
+    "text": "Like how did you come up with this?",
+    "start": "00:14:42",
+    "end": "00:14:46"
+  },
+  {
+    "text": ">> So, we have tested a bunch.",
+    "start": "00:14:44",
+    "end": "00:14:47"
+  },
+  {
+    "text": "Latina makeup slideshows, all that stuff didn't really work.",
+    "start": "00:14:47",
+    "end": "00:14:53"
+  },
+  {
+    "text": "We tested color theories, celebrities, all that stuff didn't really work.",
+    "start": "00:14:53",
+    "end": "00:14:58"
+  },
+  {
+    "text": "Uh we also tested these like tutorials, makeup tutorials, didn't really work.",
+    "start": "00:14:58",
+    "end": "00:15:03"
+  },
+  {
+    "text": "We just kept testing different formats and I'm not exactly sure how we ended up with a before and after.",
+    "start": "00:15:03",
+    "end": "00:15:09"
+  },
+  {
+    "text": "I think our competitor app actually helped as well, like a copycat app that was copying everything that Glamour was doing.",
+    "start": "00:15:09",
+    "end": "00:15:17"
+  },
+  {
+    "text": "They came up with a bunch of viral strategies that like, you know, we honestly got really lucky with it and we just scaled and made it better.",
+    "start": "00:15:17",
+    "end": "00:15:28"
+  },
+  {
+    "text": "Um and then it just blew up for us.",
+    "start": "00:15:26",
+    "end": "00:15:31"
+  },
+  {
+    "text": ">> So, you said you had 20 creators.",
+    "start": "00:15:28",
+    "end": "00:15:33"
+  },
+  {
+    "text": "Like were you Did you hire all those people from the beginning and just have them create these these videos?",
+    "start": "00:15:33",
+    "end": "00:15:40"
+  },
+  {
+    "text": ">> So, across all four of my apps, I'm the first one to go viral on on all of them.",
+    "start": "00:15:37",
+    "end": "00:15:45"
+  },
+  {
+    "text": "With Glam Mom, I remember I had like three accounts.",
+    "start": "00:15:43",
+    "end": "00:15:47"
+  },
+  {
+    "text": "My co-founder, he had like three accounts.",
+    "start": "00:15:47",
+    "end": "00:15:50"
+  },
+  {
+    "text": "We would warm it up and try posting.",
+    "start": "00:15:50",
+    "end": "00:15:52"
+  },
+  {
+    "text": "And once we found a viral strategy, that's when we just scaled immediately.",
+    "start": "00:15:52",
+    "end": "00:15:57"
+  },
+  {
+    "text": "So, that's when we went to, you know, hire like, I believe at one point we had like 30, 40 creators.",
+    "start": "00:15:57",
+    "end": "00:16:03"
+  },
+  {
+    "text": "This for Glam Mom, like during that time it's my first app.",
+    "start": "00:16:03",
+    "end": "00:16:08"
+  },
+  {
+    "text": "It's like a it's a huge scale for me during that time.",
+    "start": "00:16:08",
+    "end": "00:16:10"
+  },
+  {
+    "text": "Obviously, with Sprout now, we have probably over a thousand creators now.",
+    "start": "00:16:10",
+    "end": "00:16:14"
+  },
+  {
+    "text": "But, during that time it was a lot for me.",
+    "start": "00:16:14",
+    "end": "00:16:19"
+  },
+  {
+    "text": "Um but yeah, we just started hiring.",
+    "start": "00:16:17",
+    "end": "00:16:21"
+  },
+  {
+    "text": "We did a training course for all of them.",
+    "start": "00:16:21",
+    "end": "00:16:24"
+  },
+  {
+    "text": "Similar to what uh I can show later for Sprout as well.",
+    "start": "00:16:21",
+    "end": "00:16:25"
+  },
+  {
+    "text": "It's kind of like a course.",
+    "start": "00:16:25",
+    "end": "00:16:26"
+  },
+  {
+    "text": "We teach them how to create the account, how to warm it up, uh how to warm up a brand new account for like the algorithm, what exactly to do for the content.",
+    "start": "00:16:26",
+    "end": "00:16:36"
+  },
+  {
+    "text": "So, for example, all the details I just told you about, like make the size a bit small, don't make a center, make it on like, you know, all that little details we would tell them.",
+    "start": "00:16:36",
+    "end": "00:16:45"
+  },
+  {
+    "text": "We'll come up with the tutorials for them on how to, you know, pose and and stuff like that.",
+    "start": "00:16:45",
+    "end": "00:16:52"
+  },
+  {
+    "text": ">> There's so many people talking about UGC and creator marketing these days, and like from the outside it can seem kind of almost random and like very almost like a lottery.",
+    "start": "00:16:50",
+    "end": "00:17:02"
+  },
+  {
+    "text": "But, the way they talk about it is such a system.",
+    "start": "00:17:02",
+    "end": "00:17:05"
+  },
+  {
+    "text": "It's like the training, like thinking about it as a talent acquisition game, and then coaching and training them through the through the program, um scientifically testing all this stuff with a thousand creators.",
+    "start": "00:17:05",
+    "end": "00:17:16"
+  },
+  {
+    "text": "So, I want to dive into that entire thing, but first let's let's get into the the viral system.",
+    "start": "00:17:16",
+    "end": "00:17:21"
+  },
+  {
+    "text": "So, like you have this referral system where people like refer out to their friends.",
+    "start": "00:17:21",
+    "end": "00:17:26"
+  },
+  {
+    "text": "So, yeah, how does that work?",
+    "start": "00:17:26",
+    "end": "00:17:29"
+  },
+  {
+    "text": ">> So, this is our entire app design that I can find from from Face Ma so far.",
+    "start": "00:17:27",
+    "end": "00:17:35"
+  },
+  {
+    "text": "We have the welcoming screen, we have the onboarding screen.",
+    "start": "00:17:35",
+    "end": "00:17:41"
+  },
+  {
+    "text": "A lot of people confuse onboarding and the actual purpose of it.",
+    "start": "00:17:39",
+    "end": "00:17:44"
+  },
+  {
+    "text": "I think a lot of people think onboarding is for data analytics and that's like the the biggest purpose of it.",
+    "start": "00:17:44",
+    "end": "00:17:54"
+  },
+  {
+    "text": "I completely disagree.",
+    "start": "00:17:51",
+    "end": "00:17:53"
+  },
+  {
+    "text": "Obviously, it's good for tailoring your plans and all that stuff, but a lot of it is about priming creators to increase conversion.",
+    "start": "00:17:53",
+    "end": "00:18:02"
+  },
+  {
+    "text": "So, we will do a lot of like for example, beauty goals, skin concerns so that they think, you know, wow, I really need this app, you know, and then we'll tailor like a plan for them and whatever.",
+    "start": "00:18:00",
+    "end": "00:18:12"
+  },
+  {
+    "text": "So, that will make them, you know, want to use the app a little bit more.",
+    "start": "00:18:12",
+    "end": "00:18:19"
+  },
+  {
+    "text": "Afterwards, you will see, you know, different scans that you can do and after you choose it, you either pay or you can refer friends.",
+    "start": "00:18:16",
+    "end": "00:18:27"
+  },
+  {
+    "text": "I don't know why the code isn't showing up here, but basically in order to view your results, you can scan your face.",
+    "start": "00:18:27",
+    "end": "00:18:35"
+  },
+  {
+    "text": "Afterwards, we hide everything behind a paywall so we blur everything.",
+    "start": "00:18:35",
+    "end": "00:18:43"
+  },
+  {
+    "text": "You can either do view results or invite three friends.",
+    "start": "00:18:40",
+    "end": "00:18:46"
+  },
+  {
+    "text": "If you click view results, then we paywall you, but if you click invite three friends, we'll bring you to this like share your invite code and you can redeem you can redeem it.",
+    "start": "00:18:44",
+    "end": "00:18:56"
+  },
+  {
+    "text": "But basically, if you invite three friends to unlock your results, you can get it for free.",
+    "start": "00:18:55",
+    "end": "00:19:00"
+  },
+  {
+    "text": "You don't have to pay.",
+    "start": "00:19:00",
+    "end": "00:19:03"
+  },
+  {
+    "text": "And obviously, for the target customers for Glam Up, a lot of them are like younger kids so anywhere between like, you know, 13 to like 25 year olds.",
+    "start": "00:19:00",
+    "end": "00:19:13"
+  },
+  {
+    "text": "And you know, they don't want to pay for the app, so they would copy and paste this code and share it with their friends.",
+    "start": "00:19:11",
+    "end": "00:19:18"
+  },
+  {
+    "text": "But, a lot of people they actually share it on TikTok, which is why you will see, you know, the entire comment section with the referral codes.",
+    "start": "00:19:18",
+    "end": "00:19:28"
+  },
+  {
+    "text": "Um, and when we do the copy and paste, we don't just give them the code.",
+    "start": "00:19:26",
+    "end": "00:19:32"
+  },
+  {
+    "text": "We give them a template that has Glam Up inside.",
+    "start": "00:19:30",
+    "end": "00:19:33"
+  },
+  {
+    "text": "So, it will be download Glam Up and use my referral code.",
+    "start": "00:19:33",
+    "end": "00:19:38"
+  },
+  {
+    "text": "Um, so that Glam Up, that keyword is ranking pretty high on TikTok.",
+    "start": "00:19:38",
+    "end": "00:19:42"
+  },
+  {
+    "text": "Um, so whenever people search Glam Up, our our app pops up as well.",
+    "start": "00:19:42",
+    "end": "00:19:47"
+  },
+  {
+    "text": ">> Wow, that's insane.",
+    "start": "00:19:46",
+    "end": "00:19:48"
+  },
+  {
+    "text": "I didn't even think about that.",
+    "start": "00:19:48",
+    "end": "00:19:50"
+  },
+  {
+    "text": "Like, I like we're Yeah, you have all these users like commenting uh, you know, use my code.",
+    "start": "00:19:50",
+    "end": "00:19:56"
+  },
+  {
+    "text": "And of course, that'll boost your videos.",
+    "start": "00:19:56",
+    "end": "00:19:59"
+  },
+  {
+    "text": "But, then it also like gets your keyword to to rank.",
+    "start": "00:19:59",
+    "end": "00:20:01"
+  },
+  {
+    "text": "So, So, like when you tap the search bar on on TikTok, you see all these like suggested keywords.",
+    "start": "00:20:01",
+    "end": "00:20:08"
+  },
+  {
+    "text": "Did you Do you feel like you showed up in those in those trending >> If you search Glam Up right now, it's all our apps.",
+    "start": "00:20:08",
+    "end": "00:20:14"
+  },
+  {
+    "text": "And this is like a random account I'm using right now.",
+    "start": "00:20:14",
+    "end": "00:20:19"
+  },
+  {
+    "text": ">> I see.",
+    "start": "00:20:17",
+    "end": "00:20:18"
+  },
+  {
+    "text": "Oh, so you So, you're kind of doing it for um, like branded keyword search.",
+    "start": "00:20:18",
+    "end": "00:20:25"
+  },
+  {
+    "text": "So, like if if people are searching for your actual name of your app, all the people that commented on these videos, like those videos will rank at the top.",
+    "start": "00:20:25",
+    "end": "00:20:33"
+  },
+  {
+    "text": ">> But, obviously, I feel like Glam Up is also like Glam Up look, like it's a it's a hot phrase even for people not using Glam Up.",
+    "start": "00:20:31",
+    "end": "00:20:39"
+  },
+  {
+    "text": ">> Right.",
+    "start": "00:20:38",
+    "end": "00:20:40"
+  },
+  {
+    "text": "Right.",
+    "start": "00:20:40",
+    "end": "00:20:41"
+  },
+  {
+    "text": ">> You know, that also helped.",
+    "start": "00:20:39",
+    "end": "00:20:43"
+  },
+  {
+    "text": "But, like that's kind of like a hindsight bias.",
+    "start": "00:20:43",
+    "end": "00:20:47"
+  },
+  {
+    "text": ">> So, it seems like most people ended up trying to get the three referrals instead of paying.",
+    "start": "00:20:44",
+    "end": "00:20:50"
+  },
+  {
+    "text": "Do you feel like that hurt your conversion rate?",
+    "start": "00:20:50",
+    "end": "00:20:53"
+  },
+  {
+    "text": "Obviously, it makes up for it a lot because you're getting tons of people like sharing and you get the viral K factor loop.",
+    "start": "00:20:53",
+    "end": "00:21:00"
+  },
+  {
+    "text": "But, you did hit a lot of revenue.",
+    "start": "00:21:00",
+    "end": "00:21:02"
+  },
+  {
+    "text": "You got like more than $600,000 total on this app.",
+    "start": "00:21:02",
+    "end": "00:21:03"
+  },
+  {
+    "text": "So, do do you have an idea of your conversion rates?",
+    "start": "00:21:03",
+    "end": "00:21:08"
+  },
+  {
+    "text": ">> Um, our conversion rate during that time is low.",
+    "start": "00:21:06",
+    "end": "00:21:09"
+  },
+  {
+    "text": "I I don't think this is the best app I've built, but this is the first one.",
+    "start": "00:21:09",
+    "end": "00:21:12"
+  },
+  {
+    "text": "This is the first one I've built and and I'm like happy about it.",
+    "start": "00:21:12",
+    "end": "00:21:17"
+  },
+  {
+    "text": "Conversion, I don't think it changed much because in order to get three of your friends to download the app, go through the welcoming and onboarding pages, and then to do your referral code, that to be honest, takes a long time.",
+    "start": "00:21:15",
+    "end": "00:21:30"
+  },
+  {
+    "text": "Even for me to convince, you know, one of my friends to do it in school or like, you know, if I'm just calling them for them to do it, you you still get impatient with it.",
+    "start": "00:21:30",
+    "end": "00:21:41"
+  },
+  {
+    "text": "So, a lot of the people that ended up sharing the code actually also ended up converting.",
+    "start": "00:21:41",
+    "end": "00:21:48"
+  },
+  {
+    "text": ">> So, you're getting the virality without sacrificing too much conversion rate cuz people just like it it is kind of hard to get someone to download an app and use your code.",
+    "start": "00:21:46",
+    "end": "00:21:57"
+  },
+  {
+    "text": "Did you give any benefit to the receiver of the code or are they just inputting the code because their friend sent it?",
+    "start": "00:21:57",
+    "end": "00:22:05"
+  },
+  {
+    "text": ">> Because their friend sent it.",
+    "start": "00:22:03",
+    "end": "00:22:06"
+  },
+  {
+    "text": "And for like the friend who wants to use it for free, they have to, you know, share their code with like three other people.",
+    "start": "00:22:06",
+    "end": "00:22:14"
+  },
+  {
+    "text": "So.",
+    "start": "00:22:14",
+    "end": "00:22:15"
+  },
+  {
+    "text": ">> And then okay, then what was your um pricing?",
+    "start": "00:22:12",
+    "end": "00:22:16"
+  },
+  {
+    "text": "In the playbook, you said like $3 a week and then you I think you increased it like $9 a week.",
+    "start": "00:22:16",
+    "end": "00:22:22"
+  },
+  {
+    "text": "I assume you had an annual plan as well.",
+    "start": "00:22:22",
+    "end": "00:22:25"
+  },
+  {
+    "text": ">> I don't think we had an annual plan.",
+    "start": "00:22:23",
+    "end": "00:22:28"
+  },
+  {
+    "text": "I think it was only weekly and monthly.",
+    "start": "00:22:28",
+    "end": "00:22:30"
+  },
+  {
+    "text": ">> Oh, I see.",
+    "start": "00:22:28",
+    "end": "00:22:29"
+  },
+  {
+    "text": "Okay, weekly and monthly.",
+    "start": "00:22:29",
+    "end": "00:22:30"
+  },
+  {
+    "text": "And then it yeah, it's very it's a very like low price point, $3 a week and then $9 a week.",
+    "start": "00:22:30",
+    "end": "00:22:36"
+  },
+  {
+    "text": "Yeah, one of the things that stuck out in the in the playbook doc was like when you raised your price from three to nine, like you tripled your price, it somehow increased your conversion rate.",
+    "start": "00:22:36",
+    "end": "00:22:48"
+  },
+  {
+    "text": "Like how does that work?",
+    "start": "00:22:46",
+    "end": "00:22:50"
+  },
+  {
+    "text": ">> I have no idea, but you know what's something really crazy?",
+    "start": "00:22:48",
+    "end": "00:22:52"
+  },
+  {
+    "text": "The new app that I built that I launched three months ago, we just raised the pricing by 20% and the conversion also increased.",
+    "start": "00:22:52",
+    "end": "00:23:01"
+  },
+  {
+    "text": "And I I it's because it depends on the demand.",
+    "start": "00:23:01",
+    "end": "00:23:05"
+  },
+  {
+    "text": "Maybe like I'm like I'm kind of just like talking out of my ass right now, but like I feel like when you find an app that you really want to use, your demand for it is relatively inelastic.",
+    "start": "00:23:02",
+    "end": "00:23:17"
+  },
+  {
+    "text": "Seeing that like maybe seeing the price higher will bring the perceived value of the app more cuz maybe they're like oh this is so cheap there's no way you know they can do this or do that.",
+    "start": "00:23:13",
+    "end": "00:23:28"
+  },
+  {
+    "text": "Maybe that's one way of thinking about it, but I see it not just from Glam up.",
+    "start": "00:23:28",
+    "end": "00:23:32"
+  },
+  {
+    "text": "I see it from like the the current app that I'm building as well.",
+    "start": "00:23:32",
+    "end": "00:23:36"
+  },
+  {
+    "text": ">> So let me show you this.",
+    "start": "00:23:35",
+    "end": "00:23:37"
+  },
+  {
+    "text": "A lot of app founders I talked to have a feeling their app has viral potential, but don't want to be the person brain rot scrolling an hour a day hunting for formats or worse burning thousands on creators shooting videos that just flop.",
+    "start": "00:23:37",
+    "end": "00:23:49"
+  },
+  {
+    "text": "Recently I've been telling every founder I meet about Spy Talk.",
+    "start": "00:23:48",
+    "end": "00:23:52"
+  },
+  {
+    "text": "It's basically an AI TikTok viral marketer that I've seen a lot of top app growth teams using.",
+    "start": "00:23:52",
+    "end": "00:23:57"
+  },
+  {
+    "text": "You just paste a link to your app and this agent scrolls hundreds of thousands of TikToks for you, finds the outlier videos from competitors who've already cracked the best formats that are driving installs in the niche of your app and then it remixes the hooks, the angles, and then it makes playbooks so you can pretty much copy paste virality.",
+    "start": "00:23:57",
+    "end": "00:24:13"
+  },
+  {
+    "text": "And then it alerts you when it detects new breakout formats that would also work for your app.",
+    "start": "00:24:11",
+    "end": "00:24:17"
+  },
+  {
+    "text": "This is the only growth tool I 100% vouch for on this channel because there's a ton of gen AI content tools out there, but none of them tell you what to make.",
+    "start": "00:24:17",
+    "end": "00:24:25"
+  },
+  {
+    "text": "Spy Talk makes sure you're never in the dark about what's actually working now.",
+    "start": "00:24:25",
+    "end": "00:24:29"
+  },
+  {
+    "text": "I'll put the link in the description.",
+    "start": "00:24:29",
+    "end": "00:24:30"
+  },
+  {
+    "text": "And do you do that price increase for the weekly as well for your new app?",
+    "start": "00:24:30",
+    "end": "00:24:35"
+  },
+  {
+    "text": ">> Well, for my new app we are actually doing only monthly and annual.",
+    "start": "00:24:33",
+    "end": "00:24:40"
+  },
+  {
+    "text": ">> And you increased both by 20%?",
+    "start": "00:24:37",
+    "end": "00:24:43"
+  },
+  {
+    "text": ">> Increased both by 20% and the conversion went up.",
+    "start": "00:24:40",
+    "end": "00:24:43"
+  },
+  {
+    "text": "Our revenue per download, you know, obviously also went up.",
+    "start": "00:24:43",
+    "end": "00:24:48"
+  },
+  {
+    "text": "So we are actually testing another 20% increase now.",
+    "start": "00:24:48",
+    "end": "00:24:51"
+  },
+  {
+    "text": ">> And then you had a second paywall, right?",
+    "start": "00:24:50",
+    "end": "00:24:52"
+  },
+  {
+    "text": "Like there there's the first paywall that has the referrals and then did Do a second paywall on Glam up?",
+    "start": "00:24:52",
+    "end": "00:24:59"
+  },
+  {
+    "text": ">> Um yeah, so we have the the hard paywall and then we have the discounted paywall.",
+    "start": "00:24:56",
+    "end": "00:25:02"
+  },
+  {
+    "text": "So, once we show them the hard paywall, they click out, we immediately hit them with a 50% discounted paywall.",
+    "start": "00:25:00",
+    "end": "00:25:09"
+  },
+  {
+    "text": "So, we have the usual paywall right here.",
+    "start": "00:25:09",
+    "end": "00:25:13"
+  },
+  {
+    "text": "You know, it starts from $8.",
+    "start": "00:25:13",
+    "end": "00:25:16"
+  },
+  {
+    "text": "99, $10.",
+    "start": "00:25:16",
+    "end": "00:25:18"
+  },
+  {
+    "text": "99, $12.",
+    "start": "00:25:18",
+    "end": "00:25:15"
+  },
+  {
+    "text": "99.",
+    "start": "00:25:15",
+    "end": "00:25:15"
+  },
+  {
+    "text": "Uh, we only have weekly for for Glamour.",
+    "start": "00:25:15",
+    "end": "00:25:19"
+  },
+  {
+    "text": "And then we have the discounted one.",
+    "start": "00:25:19",
+    "end": "00:25:21"
+  },
+  {
+    "text": "So, once they click out, we hit them with the 50% discount.",
+    "start": "00:25:21",
+    "end": "00:25:28"
+  },
+  {
+    "text": "This one is, you know, $4.",
+    "start": "00:25:25",
+    "end": "00:25:30"
+  },
+  {
+    "text": "49, $5.",
+    "start": "00:25:30",
+    "end": "00:25:29"
+  },
+  {
+    "text": "49, $6.",
+    "start": "00:25:29",
+    "end": "00:25:32"
+  },
+  {
+    "text": "49.",
+    "start": "00:25:32",
+    "end": "00:25:33"
+  },
+  {
+    "text": "Then we have an upgrade paywall where, you know, you can add to like a higher tier.",
+    "start": "00:25:31",
+    "end": "00:25:38"
+  },
+  {
+    "text": ">> So, it's like kind of usage triggered.",
+    "start": "00:25:36",
+    "end": "00:25:42"
+  },
+  {
+    "text": "So, they get they do scans and then uh, they try to do another scan and then you that requires a a higher plan.",
+    "start": "00:25:38",
+    "end": "00:25:47"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:25:45",
+    "end": "00:25:46"
+  },
+  {
+    "text": "So, let's say like if you run out of scans weekly, right?",
+    "start": "00:25:46",
+    "end": "00:25:50"
+  },
+  {
+    "text": "Cuz like we have the two scans weekly, four scans weekly, whatever.",
+    "start": "00:25:50",
+    "end": "00:25:53"
+  },
+  {
+    "text": "You want to scan more.",
+    "start": "00:25:53",
+    "end": "00:25:55"
+  },
+  {
+    "text": "Um, and the reason why you scan more why you want to scan more is because we have different scans, right?",
+    "start": "00:25:55",
+    "end": "00:26:01"
+  },
+  {
+    "text": "We have the color analysis, we have glow up guide, and we have I believe another scan as well.",
+    "start": "00:26:01",
+    "end": "00:26:05"
+  },
+  {
+    "text": "And within the glow up guide, we have six different makeup guides that you can scan your face on.",
+    "start": "00:26:05",
+    "end": "00:26:14"
+  },
+  {
+    "text": "So, there's a lot of scans that you can try out.",
+    "start": "00:26:14",
+    "end": "00:26:17"
+  },
+  {
+    "text": "Um, but you know, we we do kind of like a limited scan per week.",
+    "start": "00:26:17",
+    "end": "00:26:21"
+  },
+  {
+    "text": "So, that triggers them to want to do the upgrade paywall.",
+    "start": "00:26:21",
+    "end": "00:26:25"
+  },
+  {
+    "text": ">> Another thing that I noticed is like the results were blurred.",
+    "start": "00:26:23",
+    "end": "00:26:27"
+  },
+  {
+    "text": "Was that ever a decision whether to blur the results or not?",
+    "start": "00:26:27",
+    "end": "00:26:30"
+  },
+  {
+    "text": "Because like the scan itself is the value and you want people to pay to see the results.",
+    "start": "00:26:30",
+    "end": "00:26:38"
+  },
+  {
+    "text": ">> Yeah, that's a great question.",
+    "start": "00:26:36",
+    "end": "00:26:40"
+  },
+  {
+    "text": "The scan is completely fake.",
+    "start": "00:26:40",
+    "end": "00:26:41"
+  },
+  {
+    "text": "It's a fake scan.",
+    "start": "00:26:41",
+    "end": "00:26:43"
+  },
+  {
+    "text": "So, we don't actually get the results at all.",
+    "start": "00:26:41",
+    "end": "00:26:44"
+  },
+  {
+    "text": "We only run the API after they pay because we don't want to waste, you know, the API cost.",
+    "start": "00:26:44",
+    "end": "00:26:51"
+  },
+  {
+    "text": ">> So, yeah, the the referral system is very um, it's very interesting.",
+    "start": "00:26:49",
+    "end": "00:26:55"
+  },
+  {
+    "text": "Did you get inspiration from anywhere for that?",
+    "start": "00:26:55",
+    "end": "00:26:57"
+  },
+  {
+    "text": "Cuz I feel like a lot of people think of referral systems as K factor, where they're trying to get multiple downloads from each download that they get.",
+    "start": "00:26:56",
+    "end": "00:27:06"
+  },
+  {
+    "text": "But it seems like the main benefit was it just made your contest so much more viral.",
+    "start": "00:27:06",
+    "end": "00:27:12"
+  },
+  {
+    "text": "Have you seen anyone else do that in the app space?",
+    "start": "00:27:09",
+    "end": "00:27:14"
+  },
+  {
+    "text": ">> I think a lot of apps actually did it.",
+    "start": "00:27:13",
+    "end": "00:27:16"
+  },
+  {
+    "text": "Or at least when I was building it, I was seeing some apps do that.",
+    "start": "00:27:14",
+    "end": "00:27:22"
+  },
+  {
+    "text": "Uh, we did that for for my app Sprout and my current app as well.",
+    "start": "00:27:19",
+    "end": "00:27:25"
+  },
+  {
+    "text": ">> So it does seem like somewhat repeatable.",
+    "start": "00:27:23",
+    "end": "00:27:26"
+  },
+  {
+    "text": "Like you've done it, you did it with, um, Glam Up and then you did it again with Sprout.",
+    "start": "00:27:26",
+    "end": "00:27:31"
+  },
+  {
+    "text": "Are you doing the same mechanic for your new apps?",
+    "start": "00:27:31",
+    "end": "00:27:36"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:27:33",
+    "end": "00:27:34"
+  },
+  {
+    "text": "Also, some some people have found my Twitter and and read the play blog and a lot of them actually reached out about the rating thing, the rating page.",
+    "start": "00:27:34",
+    "end": "00:27:44"
+  },
+  {
+    "text": "I think it's pretty common, a lot of apps do it now, but they were telling me that it helped them a lot when it comes to the ratings on the App Store.",
+    "start": "00:27:42",
+    "end": "00:27:51"
+  },
+  {
+    "text": ">> The rating, can you show that screen, too?",
+    "start": "00:27:49",
+    "end": "00:27:54"
+  },
+  {
+    "text": ">> Onboarding, we ask a bunch of questions, and then we do leave a rating, um, and then we don't have the I rate it.",
+    "start": "00:27:51",
+    "end": "00:28:00"
+  },
+  {
+    "text": "Like, that does not exist when you click leave a rating, the pop-up will show up for you to do that.",
+    "start": "00:28:00",
+    "end": "00:28:08"
+  },
+  {
+    "text": "And then you can, you know, either rate it or cancel it, but in order to move on to the next page, uh, like, something called I rate it will pop up and you have to click that in order to to move on.",
+    "start": "00:28:08",
+    "end": "00:28:20"
+  },
+  {
+    "text": "So we're kind of forcing people to lie if they didn't rate.",
+    "start": "00:28:20",
+    "end": "00:28:25"
+  },
+  {
+    "text": ">> That is insane.",
+    "start": "00:28:23",
+    "end": "00:28:25"
+  },
+  {
+    "text": "That's crazy.",
+    "start": "00:28:25",
+    "end": "00:28:27"
+  },
+  {
+    "text": "So So you're not you're not forcing people to rate you five stars, but you are making the call to action copywriting like, \"Yes, I rated it.",
+    "start": "00:28:27",
+    "end": "00:28:37"
+  },
+  {
+    "text": "\" And you people are going to be kind of uncomfortable tapping a button that says like, \"Yes, I rated it.",
+    "start": "00:28:37",
+    "end": "00:28:42"
+  },
+  {
+    "text": "\" when they didn't.",
+    "start": "00:28:42",
+    "end": "00:28:44"
+  },
+  {
+    "text": "So So if they cancel, if if the if the star rating pop-up comes up and then they decide to not do the rating, does it basically just stay on the screen and then they can trigger the the rating again by clicking the the big pink button?",
+    "start": "00:28:44",
+    "end": "00:28:59"
+  },
+  {
+    "text": ">> I'm not sure.",
+    "start": "00:28:58",
+    "end": "00:28:59"
+  },
+  {
+    "text": "I don't I don't think so, though.",
+    "start": "00:28:59",
+    "end": "00:29:00"
+  },
+  {
+    "text": "I don't think it pops up.",
+    "start": "00:29:00",
+    "end": "00:29:03"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:29:03",
+    "end": "00:29:04"
+  },
+  {
+    "text": "Uh but like I get your concern.",
+    "start": "00:29:02",
+    "end": "00:29:05"
+  },
+  {
+    "text": "My like my current co-founder, he's actually uncomfortable with it.",
+    "start": "00:29:05",
+    "end": "00:29:08"
+  },
+  {
+    "text": "So like for my newest app right now, we don't have this.",
+    "start": "00:29:08",
+    "end": "00:29:10"
+  },
+  {
+    "text": "Like we just have leave a rating and then you can just continue.",
+    "start": "00:29:10",
+    "end": "00:29:15"
+  },
+  {
+    "text": "Uh but it still works, you know.",
+    "start": "00:29:15",
+    "end": "00:29:17"
+  },
+  {
+    "text": "I think it's it's the fact that you put it out there, call call to action for them to rate and you know, you have a very simple pop-up for them to to go up.",
+    "start": "00:29:17",
+    "end": "00:29:26"
+  },
+  {
+    "text": ">> It's really No, it's really smart, though.",
+    "start": "00:29:25",
+    "end": "00:29:27"
+  },
+  {
+    "text": "I mean, I feel like people don't put this much thought into onboardings.",
+    "start": "00:29:27",
+    "end": "00:29:32"
+  },
+  {
+    "text": "Um like there's just so many like small nuances in this whole like onboarding paywall sequence that I think people could learn a lot from.",
+    "start": "00:29:32",
+    "end": "00:29:42"
+  },
+  {
+    "text": ">> Um same thing for, you know, notification page as well.",
+    "start": "00:29:40",
+    "end": "00:29:44"
+  },
+  {
+    "text": "Um you can do something very similar with it.",
+    "start": "00:29:44",
+    "end": "00:29:48"
+  },
+  {
+    "text": ">> Let's go to the the marketing.",
+    "start": "00:29:46",
+    "end": "00:29:49"
+  },
+  {
+    "text": "So can you show the stats again for the um I guess the views cuz I think you got like a crazy amount of views.",
+    "start": "00:29:49",
+    "end": "00:29:56"
+  },
+  {
+    "text": ">> That's for Sprout.",
+    "start": "00:29:53",
+    "end": "00:29:55"
+  },
+  {
+    "text": "Um so I can I can low-key just like transition into Sprout.",
+    "start": "00:29:55",
+    "end": "00:29:58"
+  },
+  {
+    "text": "That's the same onboarding if you want.",
+    "start": "00:29:58",
+    "end": "00:30:02"
+  },
+  {
+    "text": ">> Um for Glam Up, did you have any like um did you have like a a huge marketing system or is the 100 creators you started that with like uh Sprout?",
+    "start": "00:30:00",
+    "end": "00:30:11"
+  },
+  {
+    "text": ">> with Sprout.",
+    "start": "00:30:09",
+    "end": "00:30:10"
+  },
+  {
+    "text": "Like the the really big scaling ones, I I did it all with Sprout.",
+    "start": "00:30:10",
+    "end": "00:30:14"
+  },
+  {
+    "text": "Yeah, but for for Glam Up, we we also had a course.",
+    "start": "00:30:14",
+    "end": "00:30:19"
+  },
+  {
+    "text": "I don't even think I can find that course anymore, but it's like same thing like modules, video tutorials, all that stuff.",
+    "start": "00:30:19",
+    "end": "00:30:27"
+  },
+  {
+    "text": "Um but Sprout, we did it way better.",
+    "start": "00:30:27",
+    "end": "00:30:30"
+  },
+  {
+    "text": ">> Let's anchor Sprout a little bit.",
+    "start": "00:30:28",
+    "end": "00:30:31"
+  },
+  {
+    "text": "So how much how much money did Sprout make?",
+    "start": "00:30:31",
+    "end": "00:30:34"
+  },
+  {
+    "text": ">> I was growing up for the first 8 months and we did 250k MRR.",
+    "start": "00:30:31",
+    "end": "00:30:37"
+  },
+  {
+    "text": "So by October 2nd, we were doing 250k MRR.",
+    "start": "00:30:37",
+    "end": "00:30:41"
+  },
+  {
+    "text": "I think now they have steadily been growing at around 200 K MRR.",
+    "start": "00:30:41",
+    "end": "00:30:44"
+  },
+  {
+    "text": "Like during the time when I was like growing it a lot cuz right now I'm just an advisor, but when I was handling, you know, all of the UGCs, we were doing 100 million monthly views.",
+    "start": "00:30:44",
+    "end": "00:30:55"
+  },
+  {
+    "text": "I just talked to, you know, the Sprout team and they had a crazy number.",
+    "start": "00:30:55",
+    "end": "00:30:58"
+  },
+  {
+    "text": "Last 7 days they did >> Wow.",
+    "start": "00:30:58",
+    "end": "00:31:03"
+  },
+  {
+    "text": ">> 400 million views.",
+    "start": "00:31:00",
+    "end": "00:31:03"
+  },
+  {
+    "text": "Yeah, so monthly I think they're doing around 400 to 500 average monthly.",
+    "start": "00:31:03",
+    "end": "00:31:09"
+  },
+  {
+    "text": ">> You're talking about YouTube Shorts.",
+    "start": "00:31:07",
+    "end": "00:31:11"
+  },
+  {
+    "text": ">> Wow, that's insane.",
+    "start": "00:31:09",
+    "end": "00:31:11"
+  },
+  {
+    "text": "So you So yeah, so you were While you were with them, you're you're getting like 100 million of you views per month.",
+    "start": "00:31:11",
+    "end": "00:31:18"
+  },
+  {
+    "text": "Recently they they're now getting 400 million views in just 1 week, which is crazy.",
+    "start": "00:31:18",
+    "end": "00:31:24"
+  },
+  {
+    "text": "But you built the system that allowed this to happen, right?",
+    "start": "00:31:24",
+    "end": "00:31:27"
+  },
+  {
+    "text": "Like it's 100 creators.",
+    "start": "00:31:27",
+    "end": "00:31:31"
+  },
+  {
+    "text": ">> When when we were scaling a lot, I remember we have maybe over 200 active creators at the same time.",
+    "start": "00:31:28",
+    "end": "00:31:37"
+  },
+  {
+    "text": "But we've already gone through, you know, probably a thousand or more than that creators at that point.",
+    "start": "00:31:37",
+    "end": "00:31:41"
+  },
+  {
+    "text": "And I I created this course for them.",
+    "start": "00:31:41",
+    "end": "00:31:47"
+  },
+  {
+    "text": "I do like consulting for some startups as well.",
+    "start": "00:31:44",
+    "end": "00:31:47"
+  },
+  {
+    "text": "So like I will, you know, make a course similar to those.",
+    "start": "00:31:47",
+    "end": "00:31:53"
+  },
+  {
+    "text": "But basically, it's like a creator course.",
+    "start": "00:31:53",
+    "end": "00:31:56"
+  },
+  {
+    "text": "We have onboarded, I would say over a thousand creators onto this course without any training whatsoever.",
+    "start": "00:31:54",
+    "end": "00:32:03"
+  },
+  {
+    "text": "And I would say over 50% of the creators finished this course with no previous experiences.",
+    "start": "00:32:03",
+    "end": "00:32:07"
+  },
+  {
+    "text": "They go viral within the first 2 weeks of starting a brand new account with us.",
+    "start": "00:32:07",
+    "end": "00:32:12"
+  },
+  {
+    "text": "So, that's great.",
+    "start": "00:32:12",
+    "end": "00:32:14"
+  },
+  {
+    "text": "We do, you know, we have a Typeform.",
+    "start": "00:32:14",
+    "end": "00:32:16"
+  },
+  {
+    "text": "We link this to our CRM system.",
+    "start": "00:32:16",
+    "end": "00:32:18"
+  },
+  {
+    "text": "And then afterwards, we have, you know, getting started, warm-up playbook, creating content, content bank example.",
+    "start": "00:32:18",
+    "end": "00:32:25"
+  },
+  {
+    "text": "I can go into that more in detail later.",
+    "start": "00:32:25",
+    "end": "00:32:27"
+  },
+  {
+    "text": "And then we have content policies, account management, next steps, resources, bonuses, all that stuff.",
+    "start": "00:32:27",
+    "end": "00:32:35"
+  },
+  {
+    "text": "An example of the modules I created is it's just me talking and I edit it in a I try to edit it in a very engaging way for for creators to learn and like show them examples of what we mean by the content bank, how to edit, how to introduce the app in the video so that it can convert better.",
+    "start": "00:32:35",
+    "end": "00:32:53"
+  },
+  {
+    "text": "Um and we always have a quiz at the end of the module as well for all the creators to take uh just to quality check on the creators and make sure that you know they're actually finishing the the courses.",
+    "start": "00:32:53",
+    "end": "00:33:07"
+  },
+  {
+    "text": ">> How many creators like this is very thorough um and it's it's pretty it's pretty cool that there's like within 2 weeks people are going viral just by taking the course.",
+    "start": "00:33:05",
+    "end": "00:33:16"
+  },
+  {
+    "text": "Do you have an idea of the funnel for that?",
+    "start": "00:33:16",
+    "end": "00:33:19"
+  },
+  {
+    "text": "Are most people actually completing the whole course?",
+    "start": "00:33:19",
+    "end": "00:33:23"
+  },
+  {
+    "text": ">> Yeah, most of them cuz we also interview them.",
+    "start": "00:33:20",
+    "end": "00:33:23"
+  },
+  {
+    "text": "So like before we onboard them onto you know our UGC system, we do inbound and outbound uh on our creators and then we always interview them beforehand.",
+    "start": "00:33:23",
+    "end": "00:33:34"
+  },
+  {
+    "text": "It can be a basically like a 15-minute interview.",
+    "start": "00:33:34",
+    "end": "00:33:37"
+  },
+  {
+    "text": "We want to vibe check them.",
+    "start": "00:33:37",
+    "end": "00:33:38"
+  },
+  {
+    "text": "We want to know if they can do well with their with our content and we want to know that they're serious about our campaign.",
+    "start": "00:33:38",
+    "end": "00:33:45"
+  },
+  {
+    "text": "And then we'll explain you know you have to take this course, take it seriously.",
+    "start": "00:33:45",
+    "end": "00:33:50"
+  },
+  {
+    "text": "We have quizzes after every module.",
+    "start": "00:33:50",
+    "end": "00:33:53"
+  },
+  {
+    "text": "Afterwards you'll you'll do really great and we we have you know we have a lot of credibility because hundreds of our creators have gotten viral.",
+    "start": "00:33:51",
+    "end": "00:34:01"
+  },
+  {
+    "text": "So this is one of our creator.",
+    "start": "00:34:01",
+    "end": "00:34:02"
+  },
+  {
+    "text": "She has a over 100k followers right now and this is a sprout dedicated one.",
+    "start": "00:34:02",
+    "end": "00:34:06"
+  },
+  {
+    "text": "So we taught her how to create a new account, all that stuff.",
+    "start": "00:34:06",
+    "end": "00:34:11"
+  },
+  {
+    "text": "Um when she just started she was killing it for us.",
+    "start": "00:34:11",
+    "end": "00:34:13"
+  },
+  {
+    "text": "So let me just show you some of the views.",
+    "start": "00:34:13",
+    "end": "00:34:15"
+  },
+  {
+    "text": "Okay, this is when she just started.",
+    "start": "00:34:15",
+    "end": "00:34:17"
+  },
+  {
+    "text": "This is literally her first video.",
+    "start": "00:34:17",
+    "end": "00:34:21"
+  },
+  {
+    "text": "And then as you can tell it's millions and millions and millions of views uh for every single one of her videos.",
+    "start": "00:34:19",
+    "end": "00:34:30"
+  },
+  {
+    "text": "And she does like one of our skit content.",
+    "start": "00:34:27",
+    "end": "00:34:32"
+  },
+  {
+    "text": ">> This is a crazy track record.",
+    "start": "00:34:30",
+    "end": "00:34:34"
+  },
+  {
+    "text": "Every single video is like almost every video is over 100k.",
+    "start": "00:34:34",
+    "end": "00:34:36"
+  },
+  {
+    "text": "Like most of them are like multiple 100k to a million views.",
+    "start": "00:34:36",
+    "end": "00:34:42"
+  },
+  {
+    "text": ">> And so she is really good with our recruiter call, like fake recruiter call content.",
+    "start": "00:34:40",
+    "end": "00:34:45"
+  },
+  {
+    "text": "This girl, she's another one of our creators.",
+    "start": "00:34:45",
+    "end": "00:34:48"
+  },
+  {
+    "text": "She has like 60, 70k followers now on this account.",
+    "start": "00:34:48",
+    "end": "00:34:52"
+  },
+  {
+    "text": "She does a lot of recruiter calls, but she also goes viral with like talking videos, like talking heads as well.",
+    "start": "00:34:52",
+    "end": "00:34:59"
+  },
+  {
+    "text": "And we put all of these content in a content bank.",
+    "start": "00:34:59",
+    "end": "00:35:03"
+  },
+  {
+    "text": "So we do a lot of these we do these like wars over videos.",
+    "start": "00:35:01",
+    "end": "00:35:05"
+  },
+  {
+    "text": "That's completely faceless.",
+    "start": "00:35:05",
+    "end": "00:35:12"
+  },
+  {
+    "text": "6.",
+    "start": "00:35:08",
+    "end": "00:35:08"
+  },
+  {
+    "text": "7 seconds long.",
+    "start": "00:35:08",
+    "end": "00:35:10"
+  },
+  {
+    "text": "We tested the length of that video between 5 seconds to 6 seconds to 7 seconds and we found uh 6.",
+    "start": "00:35:10",
+    "end": "00:35:19"
+  },
+  {
+    "text": "7 seconds worked the best for this video.",
+    "start": "00:35:19",
+    "end": "00:35:25"
+  },
+  {
+    "text": "Um same thing as Glamob.",
+    "start": "00:35:23",
+    "end": "00:35:26"
+  },
+  {
+    "text": "Like remember Glamob?",
+    "start": "00:35:26",
+    "end": "00:35:26"
+  },
+  {
+    "text": "I told you we're very scientific when it comes to like the details of >> Jen, yeah.",
+    "start": "00:35:26",
+    "end": "00:35:32"
+  },
+  {
+    "text": ">> We did the same thing with this war is over video as well.",
+    "start": "00:35:31",
+    "end": "00:35:35"
+  },
+  {
+    "text": ">> That's a really simple video.",
+    "start": "00:35:34",
+    "end": "00:35:37"
+  },
+  {
+    "text": "So that's a 6.",
+    "start": "00:35:37",
+    "end": "00:35:36"
+  },
+  {
+    "text": "7 second video.",
+    "start": "00:35:36",
+    "end": "00:35:38"
+  },
+  {
+    "text": "It just says war is over I finally landed my first full-time job.",
+    "start": "00:35:38",
+    "end": "00:35:41"
+  },
+  {
+    "text": "And then it's just like a spreadsheet with the drop down and you just like switch to like oh accepted, like I got the job.",
+    "start": "00:35:41",
+    "end": "00:35:48"
+  },
+  {
+    "text": ">> I don't think I can show you that whole tutorial, but I made a whole tutorial video on exactly how to film this one cuz this one probably brought in like hundreds of millions of views for us and a lot of conversions.",
+    "start": "00:35:47",
+    "end": "00:35:59"
+  },
+  {
+    "text": "We make all of these Google sheet templates for them.",
+    "start": "00:35:59",
+    "end": "00:36:04"
+  },
+  {
+    "text": "We put them in like a Google sheet like link and then with different templates that they can use.",
+    "start": "00:36:01",
+    "end": "00:36:08"
+  },
+  {
+    "text": "We teach them how to position the the angle.",
+    "start": "00:36:08",
+    "end": "00:36:12"
+  },
+  {
+    "text": "It can't be completely like 90° angle.",
+    "start": "00:36:12",
+    "end": "00:36:15"
+  },
+  {
+    "text": "It has to be something tilted.",
+    "start": "00:36:15",
+    "end": "00:36:17"
+  },
+  {
+    "text": "And then you have to like like you need to zoom in as as like certain seconds of the entire video.",
+    "start": "00:36:17",
+    "end": "00:36:25"
+  },
+  {
+    "text": "You have to zoom in at a certain pace.",
+    "start": "00:36:25",
+    "end": "00:36:27"
+  },
+  {
+    "text": "You have to It's like super specific little things.",
+    "start": "00:36:27",
+    "end": "00:36:29"
+  },
+  {
+    "text": "I'm very OCD about content like this.",
+    "start": "00:36:29",
+    "end": "00:36:34"
+  },
+  {
+    "text": ">> I can sort of see why.",
+    "start": "00:36:31",
+    "end": "00:36:33"
+  },
+  {
+    "text": "Like the Like why do you think the angle matters?",
+    "start": "00:36:33",
+    "end": "00:36:36"
+  },
+  {
+    "text": "Like my guess is that it makes it harder to read.",
+    "start": "00:36:36",
+    "end": "00:36:37"
+  },
+  {
+    "text": "So it makes you kind of like pause and look at the video longer.",
+    "start": "00:36:37",
+    "end": "00:36:43"
+  },
+  {
+    "text": ">> I think so and I think it's more organic.",
+    "start": "00:36:41",
+    "end": "00:36:44"
+  },
+  {
+    "text": "And then we always do something that's like first few seconds we're just showing this.",
+    "start": "00:36:44",
+    "end": "00:36:49"
+  },
+  {
+    "text": "Afterwards we zoom in.",
+    "start": "00:36:49",
+    "end": "00:36:53"
+  },
+  {
+    "text": "After that we click and we try to do it a little slow so we so the users can see but not clearly see all of the options and then you click accepted.",
+    "start": "00:36:50",
+    "end": "00:37:01"
+  },
+  {
+    "text": "You zoom in again.",
+    "start": "00:37:01",
+    "end": "00:37:03"
+  },
+  {
+    "text": "You can see it zoom in again and then it it zooms back out.",
+    "start": "00:37:03",
+    "end": "00:37:06"
+  },
+  {
+    "text": "So we we test it, you know, a bunch of the details for this one content format.",
+    "start": "00:37:06",
+    "end": "00:37:11"
+  },
+  {
+    "text": ">> And then how is the how is the conversion happening from this type of video?",
+    "start": "00:37:10",
+    "end": "00:37:17"
+  },
+  {
+    "text": ">> We are not sure.",
+    "start": "00:37:13",
+    "end": "00:37:16"
+  },
+  {
+    "text": "Um it's always hard to track attribution when it comes to certain content formats but it's been working well for us.",
+    "start": "00:37:16",
+    "end": "00:37:25"
+  },
+  {
+    "text": ">> We never fully went into the products.",
+    "start": "00:37:23",
+    "end": "00:37:27"
+  },
+  {
+    "text": "Like what is what is Prepped AI?",
+    "start": "00:37:25",
+    "end": "00:37:29"
+  },
+  {
+    "text": ">> Let me show you Sprout.",
+    "start": "00:37:27",
+    "end": "00:37:30"
+  },
+  {
+    "text": "This is our onboarding but basically it's Tinder for jobs.",
+    "start": "00:37:30",
+    "end": "00:37:31"
+  },
+  {
+    "text": "You're going to see a bunch of like jobs that you can get.",
+    "start": "00:37:31",
+    "end": "00:37:37"
+  },
+  {
+    "text": "You can filter what jobs you want and whenever you swipe right we just automatically apply for you.",
+    "start": "00:37:37",
+    "end": "00:37:41"
+  },
+  {
+    "text": "You can also tap in to see more like info about the job.",
+    "start": "00:37:41",
+    "end": "00:37:47"
+  },
+  {
+    "text": "We also have AI tailored resume and cover letter that you can you can do directly from our app as well.",
+    "start": "00:37:47",
+    "end": "00:37:53"
+  },
+  {
+    "text": "And the onboarding is completely almost exactly the same but better version of Glamma.",
+    "start": "00:37:53",
+    "end": "00:38:02"
+  },
+  {
+    "text": "So we have the welcome pages.",
+    "start": "00:38:02",
+    "end": "00:38:03"
+  },
+  {
+    "text": "We added the sign in for Sprout.",
+    "start": "00:38:03",
+    "end": "00:38:05"
+  },
+  {
+    "text": "And then we have, you know, all these questions that prime the users into thinking that they really need this.",
+    "start": "00:38:05",
+    "end": "00:38:15"
+  },
+  {
+    "text": "This is also a nice little thing that that I learned later on is you should have these fun fact pages that aren't questions but it shows how valuable the app is.",
+    "start": "00:38:13",
+    "end": "00:38:25"
+  },
+  {
+    "text": "For example, they ask um we will ask, \"Have you tried other job search apps?",
+    "start": "00:38:25",
+    "end": "00:38:31"
+  },
+  {
+    "text": "\" And right afterwards, we will compare Sprout with other job search apps.",
+    "start": "00:38:31",
+    "end": "00:38:36"
+  },
+  {
+    "text": "Does that make sense?",
+    "start": "00:38:36",
+    "end": "00:38:38"
+  },
+  {
+    "text": "Um >> Yeah.",
+    "start": "00:38:38",
+    "end": "00:38:40"
+  },
+  {
+    "text": ">> Yeah, same thing here.",
+    "start": "00:38:38",
+    "end": "00:38:42"
+  },
+  {
+    "text": "What is your goal?",
+    "start": "00:38:42",
+    "end": "00:38:41"
+  },
+  {
+    "text": "Whatever, whatever.",
+    "start": "00:38:41",
+    "end": "00:38:44"
+  },
+  {
+    "text": "And then the next page is, \"Oh, like you can reach that goal with Sprout way more than without Sprout.",
+    "start": "00:38:44",
+    "end": "00:38:51"
+  },
+  {
+    "text": "\" So, we designed these all together so that, you know, it it's the most impactful.",
+    "start": "00:38:51",
+    "end": "00:38:57"
+  },
+  {
+    "text": ">> And then you have another one here that says, \"You have great potential to crush your goal.",
+    "start": "00:38:56",
+    "end": "00:39:00"
+  },
+  {
+    "text": "\" That's right after \"What do you want to accomplish?",
+    "start": "00:39:00",
+    "end": "00:39:04"
+  },
+  {
+    "text": "\" Make more money, support family, find a job.",
+    "start": "00:39:04",
+    "end": "00:39:08"
+  },
+  {
+    "text": ">> Take a look, leave a rating, you know, and then enable notification, referral code.",
+    "start": "00:39:05",
+    "end": "00:39:10"
+  },
+  {
+    "text": "It's the same thing from from Glamour.",
+    "start": "00:39:10",
+    "end": "00:39:14"
+  },
+  {
+    "text": ">> So, the Tinder for jobs thing is the is the value prop.",
+    "start": "00:39:12",
+    "end": "00:39:16"
+  },
+  {
+    "text": "I'm noticing like sort of a pattern.",
+    "start": "00:39:16",
+    "end": "00:39:17"
+  },
+  {
+    "text": "It's kind of like a there's there's sort of like an end result that people want for like both of these apps.",
+    "start": "00:39:17",
+    "end": "00:39:23"
+  },
+  {
+    "text": "Like for Glamour, it's like figure out how to, you know, adjust your makeup to have a glow up or to, you know, to glamour up.",
+    "start": "00:39:23",
+    "end": "00:39:32"
+  },
+  {
+    "text": "And then for Sprout, it's like get a job.",
+    "start": "00:39:32",
+    "end": "00:39:35"
+  },
+  {
+    "text": "And the onboarding is walking you through basically problem and then solution.",
+    "start": "00:39:35",
+    "end": "00:39:40"
+  },
+  {
+    "text": "And then the improvement that you made with with Sprout is like instead of just asking questions about, \"Oh, what are your problems?",
+    "start": "00:39:40",
+    "end": "00:39:45"
+  },
+  {
+    "text": "You know, what other things have you tried?",
+    "start": "00:39:45",
+    "end": "00:39:48"
+  },
+  {
+    "text": "\" You're you're just like kind of pitching the app like while they're uh answering the questions.",
+    "start": "00:39:48",
+    "end": "00:39:53"
+  },
+  {
+    "text": ">> Basically, yeah.",
+    "start": "00:39:52",
+    "end": "00:39:53"
+  },
+  {
+    "text": "That's a great way to put it.",
+    "start": "00:39:53",
+    "end": "00:39:54"
+  },
+  {
+    "text": "Yeah, I'm I'm pitching the app in the onboarding.",
+    "start": "00:39:54",
+    "end": "00:39:57"
+  },
+  {
+    "text": ">> And then for the paywall for this one, did you make any changes from how you approached it with Glamour?",
+    "start": "00:39:56",
+    "end": "00:40:03"
+  },
+  {
+    "text": ">> We didn't put a discounted paywall, but we do weekly/monthly.",
+    "start": "00:40:01",
+    "end": "00:40:08"
+  },
+  {
+    "text": "We didn't do annual because we don't think it makes sense for a job searching app to charge an annual subscription.",
+    "start": "00:40:05",
+    "end": "00:40:15"
+  },
+  {
+    "text": "That means you you you will need a year to find a job.",
+    "start": "00:40:12",
+    "end": "00:40:17"
+  },
+  {
+    "text": "You know what I mean?",
+    "start": "00:40:17",
+    "end": "00:40:21"
+  },
+  {
+    "text": "So, we have this weekly monthly and then we do stripe instead of, you know, the the native App Store.",
+    "start": "00:40:18",
+    "end": "00:40:28"
+  },
+  {
+    "text": ">> Your stripe thing looks pretty good though.",
+    "start": "00:40:26",
+    "end": "00:40:28"
+  },
+  {
+    "text": "Like it doesn't seem like it opens the browser.",
+    "start": "00:40:28",
+    "end": "00:40:31"
+  },
+  {
+    "text": "It like it's like interstitial.",
+    "start": "00:40:31",
+    "end": "00:40:32"
+  },
+  {
+    "text": "It's like still within the app.",
+    "start": "00:40:32",
+    "end": "00:40:35"
+  },
+  {
+    "text": ">> I'm pretty sure it's within the app.",
+    "start": "00:40:33",
+    "end": "00:40:36"
+  },
+  {
+    "text": ">> And then is there any kind of scan before the paywall where they're like kind of anticipating some kind of result?",
+    "start": "00:40:35",
+    "end": "00:40:41"
+  },
+  {
+    "text": ">> I don't think so.",
+    "start": "00:40:40",
+    "end": "00:40:42"
+  },
+  {
+    "text": "I think we did beforehand but we switched to a hard paywall afterwards.",
+    "start": "00:40:42",
+    "end": "00:40:45"
+  },
+  {
+    "text": "I would actually recommend a lot of users, well, a lot of founders to just completely hard paywall right after the onboarding screens cuz for some reason the conversion is better.",
+    "start": "00:40:45",
+    "end": "00:40:55"
+  },
+  {
+    "text": "For for Sprout and for my newest app.",
+    "start": "00:40:55",
+    "end": "00:40:59"
+  },
+  {
+    "text": ">> For Sprout did you have are there any screens before this paywall?",
+    "start": "00:40:57",
+    "end": "00:41:03"
+  },
+  {
+    "text": ">> So, we have the onboarding.",
+    "start": "00:41:01",
+    "end": "00:41:04"
+  },
+  {
+    "text": "We have the referral code.",
+    "start": "00:41:04",
+    "end": "00:41:04"
+  },
+  {
+    "text": "Afterwards you can upload your resume and this is just an example resume that I used that I I did with like, you know, like ChatGPT.",
+    "start": "00:41:04",
+    "end": "00:41:13"
+  },
+  {
+    "text": "And then you can upload and continue.",
+    "start": "00:41:13",
+    "end": "00:41:16"
+  },
+  {
+    "text": "Afterwards you will get into this.",
+    "start": "00:41:16",
+    "end": "00:41:18"
+  },
+  {
+    "text": "So, this is like the first page.",
+    "start": "00:41:18",
+    "end": "00:41:23"
+  },
+  {
+    "text": "And because of your onboarding questions we know what type of jobs you're looking for and then what countries or if it's remote, what location it is.",
+    "start": "00:41:21",
+    "end": "00:41:32"
+  },
+  {
+    "text": "So, we already have it preset for you and then you'll see jobs that, you know, maybe you'll want.",
+    "start": "00:41:32",
+    "end": "00:41:37"
+  },
+  {
+    "text": "If you want to you can click here for the filter and you can search, you know, your role, you can change the locations, whatever it is.",
+    "start": "00:41:37",
+    "end": "00:41:48"
+  },
+  {
+    "text": "If you apply, if you swipe right, then we start paywalling you.",
+    "start": "00:41:45",
+    "end": "00:41:52"
+  },
+  {
+    "text": "And then this is our paywall.",
+    "start": "00:41:51",
+    "end": "00:41:54"
+  },
+  {
+    "text": "So, it's like you swipe right and then we have kind of this welcome screen as well and then we we show you the paywall.",
+    "start": "00:41:54",
+    "end": "00:42:02"
+  },
+  {
+    "text": ">> Wow, okay.",
+    "start": "00:42:00",
+    "end": "00:42:02"
+  },
+  {
+    "text": "So, this is a pretty different flow.",
+    "start": "00:42:02",
+    "end": "00:42:04"
+  },
+  {
+    "text": "It's still hard paywall but you're allowing the user to kind of navigate through the app as if it's free free to use and then as soon as they hit the point of actual valuable feature, that's when you paywall um instead of like paywalling without letting them kind of like navigate the app.",
+    "start": "00:42:04",
+    "end": "00:42:26"
+  },
+  {
+    "text": ">> For Glam Up, it's the same thing.",
+    "start": "00:42:24",
+    "end": "00:42:29"
+  },
+  {
+    "text": "So, like for Glam Up, um after finishing up the onboarding and everything, you can get started, and we actually bring you to the home page.",
+    "start": "00:42:29",
+    "end": "00:42:37"
+  },
+  {
+    "text": "And you can swipe to see what scan you want.",
+    "start": "00:42:37",
+    "end": "00:42:40"
+  },
+  {
+    "text": "And then you can actually click the scan, and we will show you what to do and not to do for your picture.",
+    "start": "00:42:40",
+    "end": "00:42:47"
+  },
+  {
+    "text": "You can take a selfie or upload a video.",
+    "start": "00:42:47",
+    "end": "00:42:50"
+  },
+  {
+    "text": "We will actually scan for you.",
+    "start": "00:42:50",
+    "end": "00:42:51"
+  },
+  {
+    "text": "It will say analyzing, and then we'll go through this.",
+    "start": "00:42:51",
+    "end": "00:42:55"
+  },
+  {
+    "text": "Like everything is blurred, and then we paywall you.",
+    "start": "00:42:55",
+    "end": "00:43:01"
+  },
+  {
+    "text": ">> It's the same um flow from for these two apps, but I guess it's different from some of the onboarding flows that I've seen where the hard paywall just comes right after the onboarding without letting the user navigate through the app.",
+    "start": "00:42:57",
+    "end": "00:43:10"
+  },
+  {
+    "text": "But I feel like this one feels a little bit better because when there's a hard paywall and you can't navigate through the app, as a user, I feel like what the heck?",
+    "start": "00:43:10",
+    "end": "00:43:20"
+  },
+  {
+    "text": "Like I can't even like open the app itself.",
+    "start": "00:43:20",
+    "end": "00:43:22"
+  },
+  {
+    "text": "I have to pay.",
+    "start": "00:43:22",
+    "end": "00:43:23"
+  },
+  {
+    "text": "Like I don't even know what's going to be inside.",
+    "start": "00:43:23",
+    "end": "00:43:25"
+  },
+  {
+    "text": "But with this, you see exactly what's inside.",
+    "start": "00:43:25",
+    "end": "00:43:28"
+  },
+  {
+    "text": "You can flip through, and it also kind of targets um what they actually want.",
+    "start": "00:43:28",
+    "end": "00:43:33"
+  },
+  {
+    "text": "Like with the hard like it you know, they're able to for for Sprout, you they actually search for the for the job that they want, whatever that is, like software engineering.",
+    "start": "00:43:33",
+    "end": "00:43:45"
+  },
+  {
+    "text": "With Glam Up, it's like there's different types of scans, and they do the scan that they want the most, and then get paywalled.",
+    "start": "00:43:45",
+    "end": "00:43:50"
+  },
+  {
+    "text": "Um so, you're kind of just like letting people increase their own intent level before they get to the paywall.",
+    "start": "00:43:50",
+    "end": "00:44:00"
+  },
+  {
+    "text": "Did you do you see like a a conversion rate increase when you do this?",
+    "start": "00:43:58",
+    "end": "00:44:03"
+  },
+  {
+    "text": "Like did you ever have uh just hard paywall without letting the user kind of poke around.",
+    "start": "00:44:03",
+    "end": "00:44:10"
+  },
+  {
+    "text": ">> I totally get like like thank you for for understanding this perspective.",
+    "start": "00:44:07",
+    "end": "00:44:13"
+  },
+  {
+    "text": "I I agree and disagree with you because I think from a user psychology, like I think this is the proper way of doing it and I did this for my newest app.",
+    "start": "00:44:13",
+    "end": "00:44:22"
+  },
+  {
+    "text": "For So for the stealth app that I'm currently working on, we also let them, you know, go into the homepage and we and you know, they can they can try kind of some sort of feature of the app before we hard before we hard paywall them.",
+    "start": "00:44:22",
+    "end": "00:44:35"
+  },
+  {
+    "text": "But then we ran a test um of complete hard paywall after the onboarding.",
+    "start": "00:44:35",
+    "end": "00:44:41"
+  },
+  {
+    "text": "They don't even go into this to the app.",
+    "start": "00:44:41",
+    "end": "00:44:42"
+  },
+  {
+    "text": "Unfortunately, we see a 50% increase in conversion.",
+    "start": "00:44:42",
+    "end": "00:44:48"
+  },
+  {
+    "text": ">> Oh, wow.",
+    "start": "00:44:46",
+    "end": "00:44:47"
+  },
+  {
+    "text": "Okay, so I was just everything I said just completely ignore that.",
+    "start": "00:44:47",
+    "end": "00:44:53"
+  },
+  {
+    "text": "It's the opposite It's quite the opposite.",
+    "start": "00:44:51",
+    "end": "00:44:54"
+  },
+  {
+    "text": "That is a very interesting insight though.",
+    "start": "00:44:54",
+    "end": "00:44:56"
+  },
+  {
+    "text": "Like a So you you 50% increase if you don't allow them to kind of poke around.",
+    "start": "00:44:56",
+    "end": "00:45:00"
+  },
+  {
+    "text": "Okay, that that was a very That was like an onboarding paywall masterclass.",
+    "start": "00:45:00",
+    "end": "00:45:04"
+  },
+  {
+    "text": "I think um I learned a lot from that.",
+    "start": "00:45:04",
+    "end": "00:45:06"
+  },
+  {
+    "text": "So we kind of got a little bit sidetracked.",
+    "start": "00:45:06",
+    "end": "00:45:08"
+  },
+  {
+    "text": "So you you were talking about like the you know, you have hundreds of creators.",
+    "start": "00:45:08",
+    "end": "00:45:14"
+  },
+  {
+    "text": "You've cycled through people as they kind of show how um how well they can perform.",
+    "start": "00:45:11",
+    "end": "00:45:17"
+  },
+  {
+    "text": "And then you have this course where, you know, a lot of them just start going viral after 2 weeks of just, you know, learning from the course.",
+    "start": "00:45:17",
+    "end": "00:45:27"
+  },
+  {
+    "text": "Is there any other element of this creator mission that is you think is contributing to its success?",
+    "start": "00:45:27",
+    "end": "00:45:33"
+  },
+  {
+    "text": ">> I feel like the course itself pretty standard.",
+    "start": "00:45:31",
+    "end": "00:45:34"
+  },
+  {
+    "text": "You you know, like if anyone's is experiencing UGC, they know what to do.",
+    "start": "00:45:34",
+    "end": "00:45:39"
+  },
+  {
+    "text": "I think one thing that I feel really proud of is our content bank.",
+    "start": "00:45:39",
+    "end": "00:45:45"
+  },
+  {
+    "text": "I can't I can't show the content bank in this call.",
+    "start": "00:45:45",
+    "end": "00:45:50"
+  },
+  {
+    "text": "Um but I come from like a entertainment background growing up.",
+    "start": "00:45:47",
+    "end": "00:45:52"
+  },
+  {
+    "text": "My brother's a director.",
+    "start": "00:45:52",
+    "end": "00:45:53"
+  },
+  {
+    "text": "I have a lot of friends in film school.",
+    "start": "00:45:53",
+    "end": "00:45:55"
+  },
+  {
+    "text": "So when it comes to the content bank, I I approach it from a production perspective.",
+    "start": "00:45:55",
+    "end": "00:46:01"
+  },
+  {
+    "text": "For every viral format that we have, I have the content idea, I have the content details, I have the example videos, I have maybe audios for it, and then I have a script.",
+    "start": "00:46:01",
+    "end": "00:46:13"
+  },
+  {
+    "text": "And that script is line by line what you're supposed to say, and for each line, I give the emotions that you're supposed to portray and the shots that you're supposed to do.",
+    "start": "00:46:13",
+    "end": "00:46:22"
+  },
+  {
+    "text": "Emotions, for example, oh, do a sarcastic tone here.",
+    "start": "00:46:22",
+    "end": "00:46:27"
+  },
+  {
+    "text": "Or oh, roll your eyes here.",
+    "start": "00:46:27",
+    "end": "00:46:28"
+  },
+  {
+    "text": "Or like, you know, like a lot of these like emotional triggers.",
+    "start": "00:46:28",
+    "end": "00:46:32"
+  },
+  {
+    "text": "And I have shots.",
+    "start": "00:46:32",
+    "end": "00:46:34"
+  },
+  {
+    "text": "So like, maybe there's a long shot, a medium shot, a close-up shot, to switch things around.",
+    "start": "00:46:34",
+    "end": "00:46:41"
+  },
+  {
+    "text": "So I go really in detail when it comes to the content strategies to make sure that, you know, coupled with the UGC course that we give them, they know exactly what to do when it comes to content.",
+    "start": "00:46:41",
+    "end": "00:46:52"
+  },
+  {
+    "text": ">> In a way, you kind of are like the playing the role of a director and a screenwriter a little bit, where you're it's not just the lines, it's like the stage directions.",
+    "start": "00:46:51",
+    "end": "00:46:59"
+  },
+  {
+    "text": "Like, what what should your face look like?",
+    "start": "00:46:59",
+    "end": "00:47:02"
+  },
+  {
+    "text": "What's the tone?",
+    "start": "00:47:02",
+    "end": "00:47:04"
+  },
+  {
+    "text": "What's the pacing?",
+    "start": "00:47:02",
+    "end": "00:47:04"
+  },
+  {
+    "text": "And being really specific.",
+    "start": "00:47:04",
+    "end": "00:47:07"
+  },
+  {
+    "text": ">> I'm not that camera-shy, so I will film example videos to show them exactly what I mean by like the different shots, the different emotions, so so they can copy off of me.",
+    "start": "00:47:05",
+    "end": "00:47:16"
+  },
+  {
+    "text": ">> So when you're finding people who you want to be creators for your app, you you said when you do the interview, you're doing like vibe check, and then you're doing like you want you want to see like seriousness.",
+    "start": "00:47:14",
+    "end": "00:47:24"
+  },
+  {
+    "text": "Are they are they actually serious about this?",
+    "start": "00:47:24",
+    "end": "00:47:27"
+  },
+  {
+    "text": "Is there anything else?",
+    "start": "00:47:27",
+    "end": "00:47:28"
+  },
+  {
+    "text": "Like, are you looking for past experience or people who have made, you know, viral TikToks before?",
+    "start": "00:47:28",
+    "end": "00:47:35"
+  },
+  {
+    "text": ">> They're definitely a bonus, but I feel like with the course, it doesn't really matter.",
+    "start": "00:47:32",
+    "end": "00:47:38"
+  },
+  {
+    "text": "Like, a lot of our viral creators, they come from no experiences at all.",
+    "start": "00:47:38",
+    "end": "00:47:42"
+  },
+  {
+    "text": "They're just looking for like an internship.",
+    "start": "00:47:42",
+    "end": "00:47:46"
+  },
+  {
+    "text": ">> For an internship.",
+    "start": "00:47:44",
+    "end": "00:47:46"
+  },
+  {
+    "text": "So you're are you positioning this as a internship rather than like a hey, I'll pay you money to make >> No, so we do inbound and outbound.",
+    "start": "00:47:46",
+    "end": "00:47:54"
+  },
+  {
+    "text": "For inbound, we we actually work with some big influencers and their Discord chats.",
+    "start": "00:47:54",
+    "end": "00:48:00"
+  },
+  {
+    "text": "Um so, you know, we'll post an application form in the Discord chats or sometimes we will actually just put it on Handshake.",
+    "start": "00:47:58",
+    "end": "00:48:07"
+  },
+  {
+    "text": "And a lot of people, students on Handshake, they don't really know much about UGC.",
+    "start": "00:48:07",
+    "end": "00:48:12"
+  },
+  {
+    "text": "They might just want like a social media internship.",
+    "start": "00:48:12",
+    "end": "00:48:17"
+  },
+  {
+    "text": "They see our program and they apply and um we tell them all about it.",
+    "start": "00:48:14",
+    "end": "00:48:22"
+  },
+  {
+    "text": ">> The influencer Discord thing seems smart, kind of weird.",
+    "start": "00:48:19",
+    "end": "00:48:24"
+  },
+  {
+    "text": "Like, why influencer Discords?",
+    "start": "00:48:24",
+    "end": "00:48:28"
+  },
+  {
+    "text": ">> There are some influencers that train other creators to go viral and they host courses and community calls in their Discord chats, which is why this is the perfect place, you know, to get UGC creators because these are students or whatever it is that are like already interested in making content that have been semi-trained by like an influencer or something like that.",
+    "start": "00:48:25",
+    "end": "00:48:50"
+  },
+  {
+    "text": ">> How do you incentivize the the creators?",
+    "start": "00:48:48",
+    "end": "00:48:51"
+  },
+  {
+    "text": "How do you pay?",
+    "start": "00:48:50",
+    "end": "00:48:54"
+  },
+  {
+    "text": ">> We pay based on every other UGC program out there.",
+    "start": "00:48:51",
+    "end": "00:48:55"
+  },
+  {
+    "text": "Like, we use the same structure.",
+    "start": "00:48:55",
+    "end": "00:48:56"
+  },
+  {
+    "text": "So, it's flat rate plus bonuses.",
+    "start": "00:48:56",
+    "end": "00:48:58"
+  },
+  {
+    "text": "Flat rate, we usually do You can do anywhere between $10 to $30 per post.",
+    "start": "00:48:58",
+    "end": "00:49:07"
+  },
+  {
+    "text": "Um and bonuses, you can do view thresholds with a bonus.",
+    "start": "00:49:04",
+    "end": "00:49:10"
+  },
+  {
+    "text": "And usually it can be like a flat CPM or a decreasing CPM.",
+    "start": "00:49:10",
+    "end": "00:49:13"
+  },
+  {
+    "text": "A flat CPM would be something 10K views $10, 100K views $100, a million views $1,000, or you can do a decreasing CPM, which is what we do.",
+    "start": "00:49:13",
+    "end": "00:49:24"
+  },
+  {
+    "text": "So, 10K views maybe $40, 50K views $50, 100K views $80, a million views $800.",
+    "start": "00:49:24",
+    "end": "00:49:34"
+  },
+  {
+    "text": "Something like that.",
+    "start": "00:49:34",
+    "end": "00:49:35"
+  },
+  {
+    "text": "Usually that works the best.",
+    "start": "00:49:35",
+    "end": "00:49:37"
+  },
+  {
+    "text": ">> Okay, so another thing you mentioned is like Charli D'Amelio.",
+    "start": "00:49:36",
+    "end": "00:49:39"
+  },
+  {
+    "text": "Like, what will happen with her?",
+    "start": "00:49:39",
+    "end": "00:49:45"
+  },
+  {
+    "text": ">> Yeah, well, so I got connected to some big influencer agencies and I was, you know, looking for Glam Up later on to go into B2B.",
+    "start": "00:49:41",
+    "end": "00:49:53"
+  },
+  {
+    "text": "So, like, you know, working with like Sephora or like other beauty brands out there and makeup brands and like I was thinking this huge vision of like, you know, like what if in 10 years I go into Sephora and like instead of people coming up to you to help you out, it's like an iPad and it's Glam up scanning your face, you know?",
+    "start": "00:49:53",
+    "end": "00:50:15"
+  },
+  {
+    "text": "Like I had that as a little dream when I was in college.",
+    "start": "00:50:15",
+    "end": "00:50:16"
+  },
+  {
+    "text": "And then I realized I don't want to do Glam up for like 10 years of my life.",
+    "start": "00:50:16",
+    "end": "00:50:21"
+  },
+  {
+    "text": "Um I just unfortunately don't have the patience for it.",
+    "start": "00:50:21",
+    "end": "00:50:26"
+  },
+  {
+    "text": "Um and I think the whole reason why I love consumer apps so much is because how fast you can iterate and how fast you can grow.",
+    "start": "00:50:26",
+    "end": "00:50:35"
+  },
+  {
+    "text": "Um and I really want to I feel like when I do find an app where I can sit down for a couple years and really grow it, I will I will know it.",
+    "start": "00:50:35",
+    "end": "00:50:44"
+  },
+  {
+    "text": ">> hit 150 150k a month with Glam up and then like 250k a month with Sprout.",
+    "start": "00:50:41",
+    "end": "00:50:48"
+  },
+  {
+    "text": "And then you're you're building two more apps after that, right?",
+    "start": "00:50:48",
+    "end": "00:50:52"
+  },
+  {
+    "text": "I'm interested to to see the progression in how you thought about each one.",
+    "start": "00:50:52",
+    "end": "00:50:56"
+  },
+  {
+    "text": "Like with Glam up, it was your first and you kind of copy-pasted an app into a different market.",
+    "start": "00:50:56",
+    "end": "00:51:01"
+  },
+  {
+    "text": "But that was like the innovation is basically like market arbitrage kind of.",
+    "start": "00:51:01",
+    "end": "00:51:05"
+  },
+  {
+    "text": "And then with the second app, you're doing a another problem-solving app, but it seems like the LTV and like the monetization potential is higher because if you think about like what are people willing to pay for?",
+    "start": "00:51:05",
+    "end": "00:51:18"
+  },
+  {
+    "text": "Imagine your pricing was higher for Sprout.",
+    "start": "00:51:18",
+    "end": "00:51:22"
+  },
+  {
+    "text": ">> Pricing is way higher.",
+    "start": "00:51:20",
+    "end": "00:51:22"
+  },
+  {
+    "text": "We have I think up to $80 a month.",
+    "start": "00:51:22",
+    "end": "00:51:25"
+  },
+  {
+    "text": ">> $80 a month.",
+    "start": "00:51:24",
+    "end": "00:51:26"
+  },
+  {
+    "text": "Wow, okay.",
+    "start": "00:51:26",
+    "end": "00:51:28"
+  },
+  {
+    "text": ">> I think that's a really good question um because I think about why I leave apps or like why I move on to a new app and and the reasons for it.",
+    "start": "00:51:25",
+    "end": "00:51:36"
+  },
+  {
+    "text": "I think for for my first app Glam up, I was just done with it, you know?",
+    "start": "00:51:36",
+    "end": "00:51:39"
+  },
+  {
+    "text": "Like I was still in college.",
+    "start": "00:51:39",
+    "end": "00:51:40"
+  },
+  {
+    "text": "I want to build another app.",
+    "start": "00:51:40",
+    "end": "00:51:44"
+  },
+  {
+    "text": "I'm not that into makeup or like beauty anyways, so like it was whatever.",
+    "start": "00:51:41",
+    "end": "00:51:49"
+  },
+  {
+    "text": "Uh I really wanted to experiment with UGC.",
+    "start": "00:51:49",
+    "end": "00:51:52"
+  },
+  {
+    "text": "So I wanted an app to really do well with the the talking UGCs.",
+    "start": "00:51:52",
+    "end": "00:51:55"
+  },
+  {
+    "text": "So that's when Sprout came in.",
+    "start": "00:51:55",
+    "end": "00:51:57"
+  },
+  {
+    "text": "But Sprout right now, we have a team of 10 full-time people including the co-founders.",
+    "start": "00:51:57",
+    "end": "00:52:04"
+  },
+  {
+    "text": "And I think at one point I just really wanted to build from a much leaner team.",
+    "start": "00:52:04",
+    "end": "00:52:11"
+  },
+  {
+    "text": "Um and I wanted to do something fun like I've never gotten I've never applied to a job out of like college.",
+    "start": "00:52:11",
+    "end": "00:52:18"
+  },
+  {
+    "text": "You know, I don't really relate to that.",
+    "start": "00:52:18",
+    "end": "00:52:20"
+  },
+  {
+    "text": "I don't I think that's a pretty boring and painful like thing to do.",
+    "start": "00:52:20",
+    "end": "00:52:25"
+  },
+  {
+    "text": "And and like hopefully I never need to go through that.",
+    "start": "00:52:25",
+    "end": "00:52:29"
+  },
+  {
+    "text": "Um but I just want to build more fun apps that get me really excited.",
+    "start": "00:52:29",
+    "end": "00:52:34"
+  },
+  {
+    "text": "And like I just want to learn, you know, about all of these these stuff.",
+    "start": "00:52:34",
+    "end": "00:52:38"
+  },
+  {
+    "text": "But with the new the newest apps I'm building, I want to build it larger than anything I've I've seen in the consumer app space.",
+    "start": "00:52:38",
+    "end": "00:52:45"
+  },
+  {
+    "text": "I'm very ambitious when it comes to it where, you know, 3 months in, we're almost at 200k MRR.",
+    "start": "00:52:45",
+    "end": "00:52:48"
+  },
+  {
+    "text": "I want to eventually make it to bigger and better and more optimized and just more fun to to build with as well.",
+    "start": "00:52:48",
+    "end": "00:52:58"
+  },
+  {
+    "text": ">> 200k in your most recent app already?",
+    "start": "00:52:56",
+    "end": "00:53:00"
+  },
+  {
+    "text": "That's pretty recent, right?",
+    "start": "00:52:58",
+    "end": "00:53:00"
+  },
+  {
+    "text": "Like how long have you been working on that one?",
+    "start": "00:53:00",
+    "end": "00:53:03"
+  },
+  {
+    "text": ">> We launched it in January.",
+    "start": "00:53:01",
+    "end": "00:53:05"
+  },
+  {
+    "text": ">> January, so it's been like 3 months or so.",
+    "start": "00:53:03",
+    "end": "00:53:05"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:53:05",
+    "end": "00:53:05"
+  },
+  {
+    "text": "Is that the fastest timeline so far?",
+    "start": "00:53:05",
+    "end": "00:53:09"
+  },
+  {
+    "text": ">> Well, we're almost at 200k.",
+    "start": "00:53:08",
+    "end": "00:53:10"
+  },
+  {
+    "text": "We're not there yet.",
+    "start": "00:53:10",
+    "end": "00:53:10"
+  },
+  {
+    "text": "My goal for for this one is 500k by the end of this month.",
+    "start": "00:53:10",
+    "end": "00:53:16"
+  },
+  {
+    "text": ">> Is there is there anything that you would want to tell an app founder that you feel like most people don't get as advice very often?",
+    "start": "00:53:13",
+    "end": "00:53:26"
+  },
+  {
+    "text": ">> Yeah, I think um first principles, very important.",
+    "start": "00:53:22",
+    "end": "00:53:27"
+  },
+  {
+    "text": "I do some consulting calls sometimes.",
+    "start": "00:53:27",
+    "end": "00:53:29"
+  },
+  {
+    "text": "A lot of the people will come and be like, \"Oh yeah, I saw this on Twitter.",
+    "start": "00:53:29",
+    "end": "00:53:33"
+  },
+  {
+    "text": "I saw this on Twitter.",
+    "start": "00:53:33",
+    "end": "00:53:36"
+  },
+  {
+    "text": "\" Uh this and that.",
+    "start": "00:53:36",
+    "end": "00:53:35"
+  },
+  {
+    "text": "And I'm like, \"Okay, but have you downloaded the apps?",
+    "start": "00:53:35",
+    "end": "00:53:39"
+  },
+  {
+    "text": "\" And they haven't.",
+    "start": "00:53:39",
+    "end": "00:53:39"
+  },
+  {
+    "text": "And the thing is like I I haven't like I've been building apps for 2 years.",
+    "start": "00:53:39",
+    "end": "00:53:43"
+  },
+  {
+    "text": "I never posted anything on Twitter until, you know, earlier this year.",
+    "start": "00:53:43",
+    "end": "00:53:50"
+  },
+  {
+    "text": "Um all of my learnings, Twitter or X, it's it's only like maybe 10% of it.",
+    "start": "00:53:50",
+    "end": "00:53:56"
+  },
+  {
+    "text": "Like 90% is actually you downloading the actual app, like learning from the onboarding flow, by doing it yourself, and testing it on your actual app, instead of just reading about it on X.",
+    "start": "00:53:56",
+    "end": "00:54:06"
+  },
+  {
+    "text": "So, I think that's something that a lot of people forget to do because I I do think X sometimes is like it is a bubble, you know, everyone's posting crazy numbers, and you just want to listen to them, but but you have to, you know, be hands-on with it and be crafty with it.",
+    "start": "00:54:06",
+    "end": "00:54:22"
+  },
+  {
+    "text": "Another thing, um is don't be too harsh on yourself.",
+    "start": "00:54:22",
+    "end": "00:54:27"
+  },
+  {
+    "text": "I think a lot of the times, like, I know some people who are just building consumer apps just because of the hype around it, but actually think about what you want to do and and what you value and what you find meaningful, because a lot of the times what you find meaningful, playing volleyball or painting a painting, is the same thing that you find meaningful building an app.",
+    "start": "00:54:27",
+    "end": "00:54:48"
+  },
+  {
+    "text": "And I think if you can find that little abstract idea that defines who you are, you can succeed in whatever industry you you plan to do.",
+    "start": "00:54:48",
+    "end": "00:54:59"
+  },
+  {
+    "text": ">> I think that's such good advice.",
+    "start": "00:54:57",
+    "end": "00:55:00"
+  },
+  {
+    "text": "Like, don't just follow Twitter.",
+    "start": "00:55:00",
+    "end": "00:55:01"
+  },
+  {
+    "text": "Like, see the results that people are flexing on Twitter, and then actually download the app and study it yourself, instead of blindly believing it or blindly like saying, \"Oh, that's fake.",
+    "start": "00:55:01",
+    "end": "00:55:12"
+  },
+  {
+    "text": "\" Just like actually download the app and see how it study it.",
+    "start": "00:55:12",
+    "end": "00:55:14"
+  },
+  {
+    "text": "Um but then would you also apply that to marketing?",
+    "start": "00:55:14",
+    "end": "00:55:18"
+  },
+  {
+    "text": "Like, do you scroll TikToks and just like look at people's marketing?",
+    "start": "00:55:18",
+    "end": "00:55:22"
+  },
+  {
+    "text": ">> Hours.",
+    "start": "00:55:20",
+    "end": "00:55:21"
+  },
+  {
+    "text": "Hours of it.",
+    "start": "00:55:21",
+    "end": "00:55:22"
+  },
+  {
+    "text": "Yeah, usually the ones are doing the best are not they're not posting anything on Twitter, you know?",
+    "start": "00:55:22",
+    "end": "00:55:26"
+  },
+  {
+    "text": "Like, they're they're keeping it to themselves.",
+    "start": "00:55:26",
+    "end": "00:55:28"
+  },
+  {
+    "text": "So, you have to find it.",
+    "start": "00:55:28",
+    "end": "00:55:30"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:55:29",
+    "end": "00:55:32"
+  },
+  {
+    "text": ">> This was a great interview.",
+    "start": "00:55:30",
+    "end": "00:55:32"
+  },
+  {
+    "text": "Thank you for being on the pod.",
+    "start": "00:55:32",
+    "end": "00:55:35"
+  },
+  {
+    "text": ">> Thank you, Joseph.",
+    "start": "00:55:33",
+    "end": "00:55:35"
+  },
+  {
+    "text": "I'm super excited for this, and thank you for for for interviewing me.",
+    "start": "00:55:35",
+    "end": "00:55:39"
+  },
+  {
+    "text": ">> Where where can people find you?",
+    "start": "00:55:38",
+    "end": "00:55:44"
+  },
+  {
+    "text": ">> Uh they can find me on X at made by Cole and I might do some other stuff later on.",
+    "start": "00:55:39",
+    "end": "00:55:47"
+  },
+  {
+    "text": "We'll see.",
+    "start": "00:55:47",
+    "end": "00:55:49"
+  },
+  {
+    "text": "And if they're interested uh in the playbook, maybe like you can put it as a link in bio or something like that.",
+    "start": "00:55:49",
+    "end": "00:55:54"
+  },
+  {
+    "text": "It's completely free if you guys want to read the whole thing, you know, hopefully it's helpful for you guys.",
+    "start": "00:55:54",
+    "end": "00:56:01"
+  },
+  {
+    "text": ">> Sounds great.",
+    "start": "00:55:59",
+    "end": "00:56:00"
+  },
+  {
+    "text": "Thanks, Nicole.",
+    "start": "00:56:00",
+    "end": "00:56:01"
+  },
+  {
+    "text": ">> Bye.",
+    "start": "00:56:01",
+    "end": "00:56:03"
+  },
+  {
+    "text": ">> All right.",
+    "start": "00:56:01",
+    "end": "00:56:02"
+  },
+  {
+    "text": "Something you might not know, most of the founders I cover on this podcast are hanging out right now in the Consumer Club Discord sharing with each other what's working now for consumer apps.",
+    "start": "00:56:02",
+    "end": "00:56:11"
+  },
+  {
+    "text": "So you can apply to join Consumer Club if that sounds interesting to you.",
+    "start": "00:56:11",
+    "end": "00:56:15"
+  },
+  {
+    "text": "And this is the Superwall podcast.",
+    "start": "00:56:14",
+    "end": "00:56:16"
+  },
+  {
+    "text": "Of course, you got to check out superwall.",
+    "start": "00:56:16",
+    "end": "00:56:17"
+  },
+  {
+    "text": "com.",
+    "start": "00:56:17",
+    "end": "00:56:18"
+  },
+  {
+    "text": "We have more videos on the channel.",
+    "start": "00:56:18",
+    "end": "00:56:19"
+  },
+  {
+    "text": "So dig into those to learn from app founders who are willing to share super tactical stuff about app growth.",
+    "start": "00:56:19",
+    "end": "00:56:26"
+  }
+]

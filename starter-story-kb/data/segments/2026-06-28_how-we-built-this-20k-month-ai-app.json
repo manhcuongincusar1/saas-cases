@@ -1,0 +1,71 @@
+{
+ "f": "2026-06-28_how-we-built-this-20k-month-ai-app",
+ "vid": "DiRxTfnHTaY",
+ "segments": [
+  {
+   "s": "01:05",
+   "e": "01:50",
+   "nut": ["?"],
+   "moi": "Mốc thật của app ngách: 2 tuần build, $10K tháng đầu",
+   "tom": "App 3AK all-in-one cho dân chạy điền kinh mở bán 16/12, sau 6 tháng có 40.000 user và 4.7 sao App Store; hai sinh viên không biết code build trong 2 tuần, tháng đầu đã $10K.",
+   "kq": "$70K trong 6 tháng, ~$20K/tháng"
+  },
+  {
+   "s": "02:36",
+   "e": "03:22",
+   "nut": ["?"],
+   "moi": "Stack build app iOS bằng AI không viết code",
+   "tom": "Stack không code: Rork để chat ra UI như nói với ChatGPT, Claude Code để verify và gỡ chỗ tắc, cộng RevenueCat, Supabase, Apple Dev — dưới $500 là có app trên App Store."
+  },
+  {
+   "s": "04:57",
+   "e": "05:12",
+   "nut": ["2.9", "4.9"],
+   "tom": "Chọn ngách track and field vì rất nhiều người chạy nhưng chưa app nào làm riêng cho môn này, rồi cố tình đặt app đúng vào ngách mình đã có sẵn ảnh hưởng."
+  },
+  {
+   "s": "05:12",
+   "e": "05:29",
+   "nut": ["4.8", "4.9"],
+   "tom": "Nhét tên 3AK vào video và bio suốt nhiều tháng trước ngày ra mắt (kể cả store Shopify '3AK method'), dựa trên vài trăm nghìn follower track sẵn có; drop app là nổ, không chạy marketing.",
+   "kq": "app blow up ngay khi ra mắt, $0 marketing"
+  },
+  {
+   "s": "05:29",
+   "e": "06:15",
+   "nut": ["?"],
+   "moi": "Định giá theo mức chi quen thuộc của nhóm khách trẻ",
+   "tom": "Giá $10/tháng và $30/năm, cố tình để chênh năm-tháng thấp vì khách là học sinh chỉ quen tiêu $10–20 kiểu mua V-bucks, không bỏ $60–70 cho một giáo án tập."
+  },
+  {
+   "s": "06:15",
+   "e": "08:20",
+   "nut": ["?"],
+   "moi": "Vòng lặp AI chấm điểm → sửa một thứ → chấm lại",
+   "tom": "Lõi app là AI chấm form chạy từ video: lần đầu 56/100 kèm điểm từng phần (sải chân, tư thế, vung tay), sửa đúng một chi tiết rồi quay lại được 68 — vòng lặp đó giữ user."
+  },
+  {
+   "s": "08:35",
+   "e": "09:37",
+   "nut": ["?"],
+   "moi": "Chia ca 24/7 giữa hai co-founder khi còn đi học",
+   "tom": "Hai co-founder chia ca: người đã bỏ học cày ban ngày, người còn đi học cày ban đêm; đợt drop app football thức trắng 4 ngày. Kết luận: đang đi học thì đừng làm solo founder."
+  },
+  {
+   "s": "10:38",
+   "e": "11:23",
+   "nut": ["?"],
+   "moi": "Nhịp làm việc chèn vào kẽ lịch học và lịch tập",
+   "tom": "Lịch thật: dậy 8–9h, xong lớp và buổi tập là vào office cày tới 3h sáng, tranh thủ gọi nhau giữa các tiết học để chốt hôm nay làm gì, cái gì đang tốt, cái gì đang hỏng."
+  },
+  {
+   "s": "11:38",
+   "e": "12:08",
+   "nut": ["2.8", "2.1"],
+   "tom": "Lời khuyên chốt: monetize đúng thứ mình đã làm mỗi ngày (game, nấu ăn) vì sẽ trụ lâu hơn người làm vì tiền; và tìm app từ vấn đề hôm nay mà mình đoán sẽ còn gặp trong tương lai."
+  }
+ ],
+ "bo_qua": [
+  {"s": "03:22", "e": "04:41", "ly_do": "quảng cáo iOS bootcamp miễn phí của Starter Story"}
+ ]
+}

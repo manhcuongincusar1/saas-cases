@@ -1,0 +1,101 @@
+{
+ "f": "2025-12-02_how-i-built-it-30k-month-micro-saas-subscribr-breakd",
+ "vid": "7KqlwjBM_tM",
+ "segments": [
+  {
+   "s": "00:50",
+   "e": "01:35",
+   "nut": ["4.5"],
+   "tom": "Subscribr — tool AI viết script cho YouTube creator, lãi từ ngày đầu: 18 tháng có hơn 4.000 khách, gói $49–$300/tháng, ~$30K/tháng subscription. Khách đến từ word of mouth, social và programmatic SEO kéo 30.000 view/tháng từ Google.",
+   "kq": "$30K/tháng, hơn $700K doanh số 12 tháng, 4.000 khách"
+  },
+  {
+   "s": "02:23",
+   "e": "02:54",
+   "nut": ["?"],
+   "moi": "Bê phần mềm nghiệp vụ quen thuộc sang ngành mới nổi",
+   "tom": "Sau khi Squidoo (lên $10M doanh thu) bị mua lại, anh nhảy vào crypto vì lúc đó chưa có QuickBooks cho crypto — không ai làm kế toán cho doanh nghiệp xài crypto; vào sớm, gọi vài triệu USD VC rồi bán công ty.",
+   "kq": "gọi vốn VC vài triệu, exit lần hai"
+  },
+  {
+   "s": "02:54",
+   "e": "03:58",
+   "nut": ["2.1"],
+   "tom": "Ý tưởng đến khi anh tự làm faceless YouTube channel: lập team rồi vỡ ra script writing là nút thắt, tìm writer giỏi cực khó; thử ChatGPT thì còn xa mới đủ tốt — chỗ đó chính là sản phẩm."
+  },
+  {
+   "s": "03:58",
+   "e": "05:04",
+   "nut": ["?"],
+   "moi": "Chen vào ngành lạ bằng tài khoản mới và đồ miễn phí để dựng email list",
+   "tom": "Không biết gì về ngành YouTube nên anh mở tài khoản X mới 0 follower, follow hết giới YouTube, làm đồ miễn phí bằng kỹ năng dev, chạy viral giveaway để gom email list hơn 1.000 người, rồi nhắn riêng từng người lấy feedback.",
+   "kq": "email list hơn 1.000 người từ con số 0"
+  },
+  {
+   "s": "05:04",
+   "e": "05:53",
+   "nut": ["3.7"],
+   "tom": "Mock-up rồi pre-sale 50 license lifetime giá rẻ vô lý: 10 suất đầu siêu rẻ, cứ 10 suất lại tăng giá để tạo FOMO. Bán hết trong 2–3 ngày, thu $20K khi chưa có dòng code; cam kết giao trong 60 ngày, hoàn tiền bất kỳ lúc nào.",
+   "kq": "$20K trước khi build, hết hàng sau 2–3 ngày"
+  },
+  {
+   "s": "07:09",
+   "e": "08:42",
+   "nut": ["3.B3", "3.7"],
+   "tom": "Bán painkiller chứ đừng bán vitamin. Hỏi bạn bè 'thấy ý tưởng sao' hay 'trả bao nhiêu' còn nguy hiểm hơn không hỏi, vì nó cho cảm giác đã validate rồi chui vào hang 3 tháng; chỉ có thu được tiền thật mới là validate."
+  },
+  {
+   "s": "08:42",
+   "e": "09:44",
+   "nut": ["?"],
+   "moi": "Dựng khán giả bằng đồ miễn phí tốn công cộng build in public",
+   "tom": "Bước 1 của playbook: có khán giả rồi mới có người để bán. Khi sản phẩm nhiều vô kể, người ta mua vì tin con người — nên đăng chuyện build in public thô mộc và cho đi thứ miễn phí mất công làm nhưng thật sự hữu ích."
+  },
+  {
+   "s": "09:44",
+   "e": "10:15",
+   "nut": ["3.B7", "3.2"],
+   "tom": "Bước 2: lập email list và gửi ít nhất mỗi tuần một lần. Social để gặp người mới, còn email mới là nơi xây niềm tin — họ reply lại thành hội thoại, dùng chính list đó tung ý tưởng lấy phản hồi để sửa sản phẩm."
+  },
+  {
+   "s": "10:15",
+   "e": "11:03",
+   "nut": ["?"],
+   "moi": "Tính ngược quy mô khán giả cần từ số tiền validate",
+   "tom": "Bước 3: tính ngược. Anh cần $20K để nuôi 3 tháng đời sống, chia cho mức giá khách mục tiêu chịu trả ra đúng 50 người mua, rồi từ tỉ lệ chuyển đổi suy ra email list phải to cỡ nào mới đủ mở pre-sale.",
+   "kq": "$20K = 3 tháng sống → cần 50 người mua"
+  },
+  {
+   "s": "11:03",
+   "e": "12:04",
+   "nut": ["4.7"],
+   "tom": "Bước 4: chuỗi email mỗi ngày suốt 7 ngày trước pre-sale, nói lợi ích và tác động cảm xúc chứ không nói tính năng; ngày cuối chỉ tung ngày mở bán, không lộ chi tiết; ngày launch có sẵn hàng loạt email, email nhắc sắp đóng, và đồng loạt social."
+  },
+  {
+   "s": "12:04",
+   "e": "13:06",
+   "nut": ["?"],
+   "moi": "Offer không thể từ chối kèm hoàn tiền vô điều kiện cho pre-sale",
+   "tom": "Theo $100M Offers của Alex Hormozi: 10 khách đầu có thể lỗ nhưng chắc chắn họ gật. Cộng thêm money-back guarantee kéo dài suốt từ lúc pre-sale tới sau khi giao hàng, để người chưa biết mình cũng dám xuống tiền."
+  },
+  {
+   "s": "13:06",
+   "e": "14:08",
+   "nut": ["1.1"],
+   "tom": "Stack cực gọn: 90% code viết bằng Claude Code, app Laravel (PHP) host trên DigitalOcean, gần như không phụ thuộc dịch vụ ngoài trừ nhà cung cấp model. Chi phí: ~$3.500/tháng AI compute, ~$2.000 ads, ~$1.500 scraping + hosting + email.",
+   "kq": "chi phí ~$7K/tháng trên doanh thu $30K/tháng"
+  },
+  {
+   "s": "14:08",
+   "e": "15:11",
+   "nut": ["1.3", "3.7"],
+   "tom": "Hai lời khuyên: đừng yêu ý tưởng khi chưa pre-sale được, và với bootstrapper thì lợi nhuận quan trọng hơn tăng trưởng — tiền về là bắt đầu có cám dỗ thuê agency đắt hứa trời hứa biển hay bẻ lái sản phẩm."
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "00:50", "ly_do": "intro/hook của kênh"},
+  {"s": "01:35", "e": "02:23", "ly_do": "tiểu sử thuần tuý (học code năm 15 tuổi, bỏ học, bão Katrina)"},
+  {"s": "05:53", "e": "07:09", "ly_do": "quảng cáo Starter Story Build"},
+  {"s": "15:11", "e": "16:20", "ly_do": "lời cảm ơn và quảng bá Starter Story Build cuối video"}
+ ]
+}

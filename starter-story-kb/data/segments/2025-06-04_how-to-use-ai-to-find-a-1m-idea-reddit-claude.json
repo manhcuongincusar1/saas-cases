@@ -1,0 +1,43 @@
+{
+ "f": "2025-06-04_how-to-use-ai-to-find-a-1m-idea-reddit-claude",
+ "vid": "L_FY6aW9cJ4",
+ "segments": [
+  {"s":"01:04","e":"02:05","nut":["?"],"moi":"Viết copy bằng đúng từ ngữ khách hàng moi từ Reddit",
+   "tom":"Steph mở đầu bằng landing page cho app co-parenting làm A–Z bằng framework trong đúng một tiếng, dù trước đó anh không biết gì về ngách này — copy nói lại nỗi đau của khách bằng chính chữ họ dùng","kq":"landing page hoàn chỉnh trong 1 giờ"},
+  {"s":"02:05","e":"03:08","nut":["1.2","?"],"moi":"Xuất phát từ 3 thị trường lõi: sức khoẻ, tiền bạc, quan hệ",
+   "tom":"Bước 1 là chọn thị trường trong ba mảng lõi health / wealth / relationship vì chắc chắn có người chịu chi, tức đã giảm rủi ro sẵn; rồi dùng prompt 'market idea expander' để bổ dọc xuống ngách con, ngách con của ngách con"},
+  {"s":"03:08","e":"04:12","nut":["?"],"moi":"Copy prompt dạng Markdown và chọn model theo đầu việc",
+   "tom":"Hai mẹo kỹ thuật: luôn copy prompt dưới dạng Markdown chứ đừng copy thường để giữ cấu trúc; Steph mặc định dùng Claude vì nó 'người' nhất nên copywriting có cảm xúc, chỉ chuyển sang Gemini khi cần cửa sổ ngữ cảnh 1 triệu token"},
+  {"s":"04:12","e":"05:15","nut":["1.2","2.10"],
+   "tom":"Kết quả bổ dọc: health → stress management → physical stress relief, massage therapy, breathing, mental stress → meditation, guided meditation, mindfulness; chọn nhánh nào thì theo thứ tự mình thích trước, có lợi thế (kiến thức, quan hệ) sau"},
+  {"s":"05:15","e":"06:18","nut":["?"],"moi":"Đo nhu cầu bằng volume tìm kiếm với extension Keywords Everywhere",
+   "tom":"Bước 2 là đo cầu: cài extension Keywords Everywhere rồi gõ ngách vào Google để thấy ngay volume và các từ khoá liên quan — ví dụ 'Swedish massage near me' có 20.000 lượt tìm mỗi tháng, một truy vấn đáng đào"},
+  {"s":"06:18","e":"07:19","nut":["?"],"moi":"Đọc Google Trends theo Topic thay vì Search term",
+   "tom":"Trên Google Trends phải phân biệt Search term và Topic: Topic gộp mọi truy vấn liên quan ở mọi ngôn ngữ, nên có Topic là thị trường đã đủ lớn; Swedish massage lên xuống thất thường kèm cú sụt COVID nên là trend tạm được, chưa vững"},
+  {"s":"07:19","e":"08:06","nut":["2.5","?"],"moi":"Đọc gợi ý tìm kiếm để phân loại mức độ ý định",
+   "tom":"Co-parenting có 40.000 lượt tìm, và các gợi ý mới là thứ đáng giá: 'co-parenting app' nghĩa là họ biết có phần mềm và đang tìm, 'co-parenting counseling' nghĩa là đang có vấn đề và đi tìm giải pháp, 'co-parenting classes' nghĩa là cần người giúp"},
+  {"s":"08:06","e":"08:56","nut":["?"],"moi":"Chọn trend do nhu cầu con người, tránh trend công nghệ chết sau 3 tháng",
+   "tom":"Trend co-parenting đi lên đều và ít dao động — đây là nhu cầu con người sinh ra từ thay đổi xã hội, khác hẳn các trend AI nhảy vọt rồi tool chết sau 3 tháng; thị trường kiểu này lớn và chắc chắn có chỗ để giải một vấn đề"},
+  {"s":"08:56","e":"09:44","nut":["2.5"],
+   "tom":"Bước 3 là gom dữ liệu, và mỏ vàng là Reddit: nhờ tâm lý ẩn danh cộng các cuộc trò chuyện dài, người ta kể thẳng nỗi bực và vấn đề thật của mình ở đó hơn bất kỳ nơi nào khác trên internet"},
+  {"s":"09:44","e":"11:05","nut":["2.5"],
+   "tom":"Không tìm bằng thanh search của Reddit mà dùng truy vấn advanced search trên Google, nhét sẵn các cụm bộc lộ vấn đề kiểu 'I think', 'I feel', 'I have been', 'I experienced' — lọc sạch hơn hẳn; sau đó vẫn phải tự đọc, kiểm subreddit có đúng ngách, xem số comment và độ mới"},
+  {"s":"11:05","e":"12:43","nut":["?"],"moi":"Gom nhiều thread Reddit vào một file, ngăn cách bằng ba dấu gạch",
+   "tom":"Cách nạp dữ liệu: copy nguyên cả thread (bài + comment) vào một file text, mỗi thread ngăn bằng ba dấu gạch --- để báo cho AI biết đây là thread mới; gom được 20 thread là tốt"},
+  {"s":"12:43","e":"15:05","nut":["2.5","?"],"moi":"Prompt trích pain point kèm trích dẫn nguyên văn người thật",
+   "tom":"Prompt xử lý số 1 gom dữ liệu thành các nhóm pain point, mỗi nhóm có tên, mô tả và những câu trích nguyên văn kèm theo — ví dụ 'khó co-parent với chính kẻ từng bạo hành mình', hay gánh nặng cảm xúc lệch trong gia đình ghép"},
+  {"s":"15:05","e":"16:38","nut":["2.B1","?"],"moi":"Prompt sinh khoảng trống thị trường theo khung phân khúc và khác biệt hoá",
+   "tom":"Prompt số 2 là 'market gap generator', huấn luyện sẵn theo khung tìm ý tưởng trong thị trường bão hoà (paradigm mới, công nghệ mới, khác biệt hoá, phân khúc) — ra ý tưởng cụ thể như nền tảng riêng cho ca co-parent xung đột cao, có công cụ lưu bằng chứng, lọc tin nhắn, hoà giải bên thứ ba"},
+  {"s":"16:38","e":"18:32","nut":["?"],"moi":"Meta-prompt: bắt AI nghiên cứu best practice của tool rồi tự viết prompt cho tool đó",
+   "tom":"Prompt số 3 là prompt để đẻ ra prompt: Steph bắt ChatGPT đi lùng toàn bộ tài liệu và best practice viết prompt cho Lovable, gói lại thành một prompt nhận dữ liệu ngách rồi tự sinh prompt chuẩn Lovable"},
+  {"s":"18:32","e":"20:08","nut":["?"],"moi":"Vòng khép kín 6 tool, 5 prompt, 45 phút ra landing page",
+   "tom":"Dán prompt vào Lovable rồi publish, ra ngay landing page 'Transition Garden': headline nhắm cha mẹ ly thân có con khó thích nghi khi chuyển nhà, kèm bộ tính năng, phần FAQ và form thu email","kq":"landing page hoàn chỉnh, không viết dòng code hay copy nào"},
+  {"s":"20:08","e":"21:27","nut":["3.6"],
+   "tom":"Steph nói thẳng đây mới là một phần: nếu đã quen công cụ thì cứ build luôn rồi đăng khắp nơi, có user thì tính tiếp; còn nếu chưa chắc và quỹ thời gian ít thì luôn nên validate thêm một vòng trước khi bỏ công build app"},
+  {"s":"21:27","e":"22:39","nut":["3.3","4.7","?"],"moi":"Popup quiz trên landing page vừa lấy insight vừa gom waitlist",
+   "tom":"Cách validate rẻ: trên landing page bật popup 'cảm ơn bạn ghé, app đang phát triển, team nhỏ, phiền bạn trả lời vài câu về tình cảnh hiện tại?' rồi chốt bằng 'muốn được báo khi app ra không?' — hầu hết bấm có, thế là vừa có insight vừa có list"}
+ ],
+ "bo_qua": [
+  {"s":"22:39","e":"24:30","ly_do":"quảng bá Starter Story Build / AI app accelerator và link tải framework"}
+ ]
+}

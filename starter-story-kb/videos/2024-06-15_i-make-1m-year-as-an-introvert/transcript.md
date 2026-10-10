@@ -1,0 +1,91 @@
+# I Make $1M/Year As An Introvert
+
+| | |
+|---|---|
+| **Video** | <https://www.youtube.com/watch?v=trNGj1BN1GU> |
+| **Đăng** | 15/06/2024 |
+| **Thời lượng** | 14:49 |
+| **Lượt xem** | 353,367 |
+| **Video ID** | `trNGj1BN1GU` |
+| **Ảnh** | [`screenshots/`](screenshots/) (4 ảnh) |
+
+## Mô tả gốc
+
+This is the breakdown of how Marcos Ruiz makes over $1/year ghostwriting for people on the internet.
+
+## Chương
+
+_(không có chapter)_
+
+---
+
+## Transcript
+
+> Nghe lại trực tiếp từ audio của video bằng **Whisper large-v3-turbo** — chính xác hơn hẳn
+> phụ đề tự động của YouTube (đúng tên riêng, có dấu câu). Gộp thành đoạn ~25 giây, giữ timestamp.
+
+**[00:00]** This guy makes $1 million a year with a business model built for introverts, ghostwriting. And the best part is, he did it all in just two years. I've never been a sales guy. I'm an introvert, which is why I became a writer. I drove out to Miami, Florida to ask him exactly how it works, how he got started, and the framework he used to go from $0 to $65,000 a month in just one year.
+
+**[00:25]** What I follow is called the framework. When he first started, Marcos was trying every business model under the sun, but he was barely making any money. Then he stumbled upon ghostwriting and learned a secret that would change everything. The main thing that people were talking about in ghostwriting is you're going to get people followers. And then I quickly realized there's a much better way to do it if I just. In this video, Marcos shares his exact blueprints on how to find, close, and retain clients to build a million-dollar-per-year ghostwriting business from scratch.
+
+**[01:00]** I'm Pat Walls, and this is Starter Story. Marcos. Pleasure. Thanks for having me. Tell me about who you are and what you built. Yeah, I'm Marcos. I'm CEO of The Birdhouse. We're a Twitter ghostwriting agency, and we essentially write the tweets, the threads, we repurpose clients' videos, and we put them on Twitter so that they can obviously go viral, get views, and make sales. And we went zero to 65K a month in one year. We're looking to scale up to over a million this year, so 100K a month.
+
+**[01:29]** Explain to me what the hell is ghostwriting? Yeah. When I discovered ghostwriting through Twitter, I basically just realized that founders, CEOs, business owners, even influencers, a lot of these guys have ghostwriters on the internet because they just don't have time to do it. So we go and help people outsource that. And what I ultimately landed on was coaches, consultants, and education companies, because these are the people that can actually help monetize faster. We'll go and repurpose viral clips and viral videos, or even full videos and full podcasts.
+
+**[01:56]** We have long form posts, which is a new thing. We have articles, replies. You can do spaces. You can help set up spaces. There's really so much that goes into it now. And certain niches have different formats of content that are going to perform the best. So depending on the client, we're going to put out a majority of those different kinds content, threads, posts, long forms, articles, et cetera. All right. So give me a timeline of your backstory and how you get into this. Yeah. So when I was 19, I was at basic training for the
+
+**[02:23]** army and my friend actually showed me like day trading on his cell phone. And this was kind of my first introduction to internet money. So I go from there and I'm trying pretty much every business opportunity under the sun, drop shipping, affiliate marketing, crypto, day trading, blogging, You name it, I've done it. And then from there, I quickly realized that I'm a little introvert. I play video games. I've had a blog. I did marketing in college and I've done a little bit of writing. I've actually been on Twitter since 2011. So when I chose copywriting,
+
+**[02:52]** I probably had like 2000 bucks to my name. It was, it was pretty, it was a challenging time, but I'm the kind of person that kind of, I always knew that I would make more money. Like I always had that mindset. I bought a course back then. It was like 50 bucks a month. And it kind of taught me the ins and outs of the ghostwriting thing. It gave me an offer. And after I signed my first client for $1,000 and I found a second one for $1,000, I reinvested all $2,000 into a bigger course that cost me $2,000 per month. So it was actually a $12,000 course. So I spent all of my
+
+**[03:23]** money that I didn't have and it came back and I had signed a $3,000 per month client. So now, $2,000 a month course, $3,000 a month client. I had like just enough money to live. The rest is history from there. That's amazing. My favorite part about Marcos' story is that he chose one idea and stuck with it until he hit a million dollars a year. But it was never easy. It required having the right idea and studying other businesses that paved the way before him. If you want to do
+
+**[03:51]** something similar to Marcos, but you don't have an idea or you don't know exactly where to start, you can download our free report of 50-plus real-world productized services. In this report, you'll learn exactly how 50 founders got their ideas, how they grew, how they got customers, and lots more. And then if you're really serious about starting something, then consider joining the Starter Story community with thousands of people building businesses that will change their
+
+**[04:17]** lives. Just head to the first link in the description and you can download the report 100% free. All right, let's get back to how Marcos got his first customers. Let's talk about how you got your first client and how you scale it to 10K a month specifically. How did you do it? Yeah. My first ever clients were from Upwork. From there, I always say you have to kind of stack your case studies and stack your testimonials. So I took that job and used it as social proof for my Twitter DMs. And I was sending out 100, 200 DMs a day, had it all in my Notion following
+
+**[04:48]** up. And that took about a few weeks before I kind of really landed some interest. And I was able to sign my first 1K a month client. I didn't get the best results at the time, but what I did get was he sent me a message and it said like, I got seven free trial subscribers. And I was like, I got testimonial. So then I'm using that in my DMs to other software founders. And eventually I landed my first 3K a month client, which was a big deal for me. And that was a coach and we crushed it for him.
+
+**[05:16]** This was the first time I really crushed it for someone viral every week. And not only that, what I realized is it drove sales. And I was like, okay, he's paying me 3K a month. and this thread probably made him like 20, 30K. So it's like, okay, well, he just made enough money to pay me for 10 months. So from there, it was like referrals and inbound. I just focused on getting my clients good results. So the referrals would come in. My audience was building at the time. I think at the time I was going 3K, 5K followers.
+
+**[05:42]** I think I had 10K followers after like eight months in business. And then from there, it's just been compounding ever since. Yeah. You talked a lot about how to get leads, but how to actually close clients. Yeah, this is a tough one because I've never been a sales guy. I'm an introvert, which is why I became a writer. And I'm sure a lot of people watching are introverts. And that's why they do these kind of introverted businesses, right? So what I follow is called the closer framework. What it allowed me to do is have a framework to follow, hey, why are you on this call? And kind of take them through a little bit of a journey on the call.
+
+**[06:09]** But ultimately, what I've really come down to is if you can just get on a call, tell someone how you actually are going to help them and be honest and be a human, most of the people actually vibe with that. And if they don't vibe with that, you probably don't want to work with them anyway. Sales is really just about conviction. So if you actually believe in what you're doing, can actually help someone make more money. It's pretty easy to sell. Yeah. You grew this super fast. It went from like 1K to almost 15K really fast. How can someone else who's watching do something similar? Yeah.
+
+**[06:35]** So this is what I was doing. And this is also what I actually have clients do or their teams. It's cold, warm, and hot. Like I said, I was sending 100 to 200 cold DMs a day. So that's number one. And that's really just saying, hey, giving them a compliment based on checking out their profile, giving them your offer, and then saying, hey, if you're interested, let me No, if not, you're good. Don't even answer. You don't want to be kind of too pushy. And then what's called warm DMs. It's just essentially DMing people who are following you, engaging with your content,
+
+**[07:02]** et cetera. It all starts with kind of creating content on your Twitter. You always want to practice what you preach. And then what's called hot DMs, which is the people who are already interested. They're DMing you first. They're saying, hey, I'm interested, right? So using those three and having a happy balance, that's how you can really accelerate the clients that you land. So it all starts with making content, sending cold and warm DMs and getting the inbound leads. and it compounds very fast, like 100 DMs, 200 DMs a day, two to three tweets a day, including like a thread
+
+**[07:27]** and you're golden from there. So you're doing well. You got like 10,000, $15,000 a month and then you go to $50,000 a month. How did you do that? Yeah, so it's really two big things. Number one is having kind of a mindset shift from tactic hunting to actually implementing. So tactic hunting, especially what we just talked about would be you're trying to plan out, what am I gonna write? How am I going to send DMs? What's going to be my script?
+
+**[07:53]** The implementing is actually going out and doing it and doing it not just once, not just for a week, but for six months, 12 months straight and doing it every single day. That's the implementing piece that really helps it compound because in the backend, you're actually delivering your servicing. Like I said, getting referrals and getting leads inbound, but then also doing the outbound. And when you combine those, you kind of create a flywheel. And then honestly, after 10, 20K a month, I'd say every business has kind of a different point
+
+**[08:19]** where you have to ask yourself, do I want to be a solopreneur or do I want to be an entrepreneur? And that's when I decided to start hiring team members and building a real business under a real business name. Now we're doing about 70K a month and our margins are about 60%. We have two senior writers, one junior writer. I have an ops manager who was my real employee number one. She was my assistant, now my ops manager. And then I have a sales representative as well. So a team of five, six, if you include me. All right. Well, let's talk about building a good team, how to hire
+
+**[08:46]** good people so that you don't have to work on the business all day. Right. So what I did is I put out a tweet. I'm looking for my first writer to join the team and help me out. And I essentially gave four or five different people a prompt. And I was like, write a thread, write a Twitter thread. And I just picked the best one. And then from there, I'm like, you're on board. I also kind of picked the person who vibed with me the best from a culture perspective. So who am I going to vibe with? Who actually has the talent and really thinking of them as a partner, not an
+
+**[09:13]** employee. All right, let's talk about tools. What tools do you use to run this business? Yeah, so I use all the basic stuff, obviously, Google Docs, Google Sheets. But further than that, I use Canva for design. We use Twitter, of course. We use Hemingway. It's a really great app that'll actually help you with your writing. It'll show you which level grade you're writing at and help you dumb it down and make it simpler. We use a tool called Hype Fury to go and schedule all the tweets, and we can schedule them there for clients. And you can actually have client account access without actually
+
+**[09:42]** being in the client's account. And then we also use Notion, which is where we have kind of our company dashboards, CRMs, client hubs, everything like that. So I'd say those are really the main tools. All right, let's talk about competition. Starting a ghostwriting business is seemingly easy. How do you differentiate from your competitors? When I started, the main thing that people were talking about in ghostwriting is you're going to get people followers. And then I quickly realized there's a much better way to do it. If I just make somebody more money than they pay me,
+
+**[10:09]** then I'll have a client forever. So I differentiated my offer to, I'll help you not only grow on Twitter, but the growth is more of a by-product. I'm actually going to help you monetize with Twitter. So it's a dumb for you monetization service. If you just learn business principles and then you learn writing, you can kind of offer that to anybody. Yeah. So a lot of people love the idea of ghostwriting, can kind of sit behind your computer and write for a living. How would you recommend someone to get started with ghostwriting? Yeah. So there's really two
+
+**[10:35]** ways to do it. There's the I have no money way and there's the I have money way. The I have no money way is actually go on Twitter and be a user. Start to follow people that are going viral and follow people that are actually writing great content. Study what they're doing. Do it for yourself. Use yourself as the case study and then use that to do the DMs. The paid way would be to buy a course. And I always say this when you buy a course, just copy exactly what they tell you.
+
+**[11:01]** The most important thing is to do it yourself and actually build yourself a bit of a personal brand because what I quickly found out is if I was reaching out to somebody with more followers than me, they'd be like, well, I have more followers than you. Why would I hire you? So you have to do it for yourself and then you can do it for other people. Yeah. So we're here in your beautiful Miami apartment. Tell me about what a day in the life like is for a ghostwriting business owner. Yeah. So I guess I theme my days. I kind of stole that from, I think it's like Jeff Bezos. If it's like
+
+**[11:28]** a Monday, I stack my meetings. I usually have between 12 and 15 meetings on a Monday. So I'll go straight from 7 a.m. to 5 p.m. and just meetings for those days and I'll go to jujitsu at night or something and then Tuesdays I like to have just like a blank calendar and those are usually the days where I'm going to sit down and edit some client content because I'm still acting as chief editor or I'll go out and maybe source some new clients or I'll talk to the team or work on the business. Wednesday again it's usually a call day slash content day and now as I'm stepping
+
+**[11:57]** out more as a CEO I try to spend a lot more time thinking. I try to go on walks and stuff like that But yeah, again, I say a majority of my time is either in or on the business and I don't really do a ton else. I know we live in Miami, but I don't really go out. I don't really party or anything like that. So I'm usually just either working in or on my business or I'm going to like go to jujitsu or the gym, watch TV, play video games, do something basic. I'm a pretty chill dude. Have you experienced any struggles building a business, becoming an entrepreneur?
+
+**[12:27]** Yeah, I'd say the biggest struggle was shiny object syndrome. like being online and you see people flexing Rolexes and Lambos and you just feel so inadequate and just seeing everybody do something new and you're always just peeking out that might be better that might be better but what I ultimately learned was once you can finally shut that out and stick to one thing and actually fail through it and keep going find your itty bitty bits of success
+
+**[12:53]** and again continue to shut out the noise because again even at 2k a month 3k a month 5k a month 10k a month, you're still seeing all that stuff. It's not like it just goes away. Ultimately, being able to have the self-confidence to stick through the trials and tribulations, I think that's the ultimate thing. Okay, last question that we asked to all the founders we interview, if you could have any advice for young Marcos getting started out or anyone getting started
+
+**[13:18]** out on a business, what would it be? I think the number one thing I would tell my younger self is play to your strengths and have the discipline to just stick it out. Because I think, especially at first, being an introvert and like I used to play video games and stuff like that, I used to try to do things I wasn't good at. Sales, video, streaming, I tried all of it. If I played to my strengths, which is more introverted, writing, stuff like this,
+
+**[13:43]** I think that would have been a huge help. And then again, sticking to one thing, having the discipline to focus and stick out all the failures. That'd be my number one advice. I would have succeeded five years earlier. That's amazing. Well, congrats on all your success, man. Yeah, thank you. You're crushing it. Yeah, you as well. Follow this advice and you'll have a million dollar ghostwriting business. Peace. Hey everyone, Pat here. Thank you guys so much for watching.
+
+**[14:09]** I really hope Marcos' story inspires and motivates some of you to get started on your own thing. If you're curious about doing something similar, but you're still looking for an idea, where you can download that deep dive productized services report for free. It breaks down over 50 service-based business ideas and tons of other stuff you'd want to know. Just click the first link in the description. And if you're serious about actually building something, then consider
+
+**[14:35]** joining Starter Story and we will help you do that. Much love and I'll see you guys in the next one. Peace.

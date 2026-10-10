@@ -1,0 +1,114 @@
+{
+ "f": "2026-07-23_i-make-50k-per-month-working-5-hours-a-week",
+ "vid": "DPb-M0Vt4uI",
+ "segments": [
+  {
+   "s": "00:49",
+   "e": "01:20",
+   "nut": ["?"],
+   "moi": "Vận hành app bằng 20 giờ/tháng nhờ kênh ads tự chạy",
+   "tom": "Timo 23 tuổi cùng anh trai ra app hơn một năm trước; 13 tháng đi từ 0 lên hơn 90.000 lượt tải và hơn $260.000 doanh thu tích luỹ, đủ để anh nghỉ việc sau 6 tháng và giờ chỉ làm 20 giờ mỗi tháng.",
+   "kq": "$260K tổng sau 13 tháng, nghỉ job sau 6 tháng"
+  },
+  {
+   "s": "01:35",
+   "e": "02:06",
+   "nut": ["?"],
+   "moi": "App một tính năng: chụp ảnh cho AI đọc hộ",
+   "tom": "Chart Detector AI làm đúng một việc: chụp ảnh biểu đồ cổ phiếu hay crypto rồi để AI phân tích và đoán hướng đi tiếp. Tổng cộng gần 40 triệu impression, riêng 30 ngày qua 7,8 triệu view.",
+   "kq": "$56K/tháng, 13–14K lượt tải/tháng"
+  },
+  {
+   "s": "02:06",
+   "e": "02:37",
+   "nut": ["4.13"],
+   "tom": "Chỉ hai gói: $12,99/tuần và $59,99/6 tháng — gói 6 tháng là thứ Pat nói lần đầu thấy ai làm, ra từ split test. Hard paywall, không free trial, vì chạy ads thì phải lấy tiền về ngay."
+  },
+  {
+   "s": "03:23",
+   "e": "03:53",
+   "nut": ["2.3"],
+   "tom": "Ý tưởng đến đúng lúc ChatGPT vừa mở tính năng upload ảnh: hai anh em làm trước một Telegram bot đọc chart bằng AI, thấy chạy được mới chuyển thành app di động."
+  },
+  {
+   "s": "04:23",
+   "e": "04:56",
+   "nut": ["4.3"],
+   "tom": "Cả mô hình gói gọn trong một phép tính: trả cho mỗi lượt tải ít hơn số tiền trung bình một user mang lại. Bỏ $1,50/download mà thu $3/user là ROAS 2x; chạm mức đó thì việc còn lại là đổ tiền càng nhiều càng tốt."
+  },
+  {
+   "s": "05:27",
+   "e": "05:43",
+   "nut": ["4.1", "4.3"],
+   "tom": "Video quảng cáo ăn nhất của họ đơn giản đến mức chỉ quay màn hình một người đang dùng app, không diễn viên không kịch bản.",
+   "kq": "một video ra hơn $15.000 doanh thu, gần 5 triệu view"
+  },
+  {
+   "s": "05:58",
+   "e": "06:31",
+   "nut": ["1.3"],
+   "tom": "Anh bóc P&L thật của tháng 4: doanh thu $43.700, ad spend khoảng $20.000, phí Apple khoảng 15%, còn lại lợi nhuận khoảng $11.500 — biên chỉ quanh 25%.",
+   "kq": "$43.700 doanh thu → ~$11.500 lợi nhuận, biên ~25%"
+  },
+  {
+   "s": "06:46",
+   "e": "07:34",
+   "nut": ["4.12", "4.13"],
+   "tom": "Bước 1 trước khi bật ads là sửa app: onboarding phải bán kết quả cuối cùng chứ không bán tính năng, nhét thật nhiều social proof, dùng Screens Design để soi onboarding của các app đang thắng, và chốt hard paywall."
+  },
+  {
+   "s": "07:34",
+   "e": "08:05",
+   "nut": ["4.3"],
+   "tom": "Bước 2 là tracking: mở TikTok Business Manager và gắn MMP (anh dùng AppsFlyer) để TikTok biết ai đã thật sự mua. Anh khuyên thuê freelancer trên Upwork tích hợp, vì cấu hình sai chỗ này rất tốn tiền."
+  },
+  {
+   "s": "08:05",
+   "e": "09:10",
+   "nut": ["4.3"],
+   "tom": "Bước 3 là dựng campaign: phải có tối thiểu 6 video để thuật toán có cái mà test, dùng Smart Plus để TikTok tự tìm audience và chia ngân sách, và đặt optimization goal vào sự kiện subscription chứ không phải app install."
+  },
+  {
+   "s": "09:10",
+   "e": "09:42",
+   "nut": ["4.18", "4.3"],
+   "tom": "Ngân sách tối thiểu $50/ngày cho kết quả tốt nhất, targeting để rất rộng, chỉ chọn đúng quốc gia. Mẹo quan trọng: đa số nhảy vào Mỹ trước, còn họ test nhiều nước khác và thấy ROI tốt hơn hẳn."
+  },
+  {
+   "s": "09:42",
+   "e": "10:12",
+   "nut": ["4.B4", "4.B5"],
+   "tom": "Campaign mới vào learning phase khoảng 7 ngày — tuyệt đối không đụng vào bất kỳ setting nào. Mỗi tuần soi ROAS: ổn định và có lãi thì tăng ngân sách, không có lãi thì làm video mới bơm vào."
+  },
+  {
+   "s": "10:12",
+   "e": "10:44",
+   "nut": ["4.B4", "4.1"],
+   "tom": "Hai cái bẫy khi scale: tăng ngân sách quá 20% trong mỗi 3 ngày sẽ đẩy campaign về lại learning phase và thường mất lãi; và creative fatigue — dồn quá nhiều tiền vào một video thì nó chết vì quá nhiều người đã xem."
+  },
+  {
+   "s": "11:00",
+   "e": "11:35",
+   "nut": ["?"],
+   "moi": "Stack hai anh em vận hành app chạy ads",
+   "tom": "App viết bằng React Native + Expo, backend Supabase, code bằng Cursor, RevenueCat lo paywall và subscription, AppsFlyer lo tracking TikTok, dựng video bằng CapCut; hiện đốt khoảng $18.000/tháng cho TikTok Ads."
+  },
+  {
+   "s": "11:50",
+   "e": "12:12",
+   "nut": ["?"],
+   "moi": "Xem video học là trì hoãn đội lốt năng suất",
+   "tom": "Lời khuyên chốt: bắt đầu thực thi ngay hôm nay. Anh từng xem quá nhiều video YouTube rồi tưởng mình đang làm việc năng suất, trong khi chỉ đang trì hoãn; phải tích momentum thì kết quả mới tới."
+  },
+  {
+   "s": "12:38",
+   "e": "13:09",
+   "nut": ["4.2"],
+   "tom": "Nhận xét khép lại: bước tiếp theo sau khi cày organic hoặc thuê influencer là đem đúng format đó lên chạy paid. Đổi lại là biên mỏng hơn, chỉ 25–30%, nhưng lấy về thời gian và tự do di chuyển."
+  }
+ ],
+ "bo_qua": [
+  {"s": "04:40", "e": "05:27", "ly_do": "quảng cáo mobile app growth cheat sheet của Starter Story"},
+  {"s": "13:09", "e": "13:31", "ly_do": "nhắc lại quảng cáo growth cheat sheet ở cuối video"}
+ ]
+}

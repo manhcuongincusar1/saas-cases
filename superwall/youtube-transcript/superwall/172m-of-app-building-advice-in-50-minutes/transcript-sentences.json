@@ -1,0 +1,3212 @@
+[
+  {
+    "text": "When I look on SensorTower, this app only gets around 25k downloads a month, but it's pumping over a million dollars in revenue a month because it's charging at such a premium price point.",
+    "start": "00:00:00",
+    "end": "00:00:11"
+  },
+  {
+    "text": ">> This is Josh.",
+    "start": "00:00:08",
+    "end": "00:00:10"
+  },
+  {
+    "text": "He works on the M&A side at Blue Throne, a firm that buys consumer apps for seven and eight figures.",
+    "start": "00:00:10",
+    "end": "00:00:15"
+  },
+  {
+    "text": "Before Blue Throne, he spent three years buying mobile game studios for Polarium, the company behind the billion-dollar revenue franchise Raid: Shadow Legends.",
+    "start": "00:00:15",
+    "end": "00:00:22"
+  },
+  {
+    "text": "And in the past six years, he's been behind some of the biggest mobile acquisitions in the industry.",
+    "start": "00:00:22",
+    "end": "00:00:27"
+  },
+  {
+    "text": "The app Josh just described is called Waking Up, a meditation app.",
+    "start": "00:00:27",
+    "end": "00:00:32"
+  },
+  {
+    "text": "With just 25,000 downloads, it's doing over a million dollars in monthly revenue.",
+    "start": "00:00:32",
+    "end": "00:00:37"
+  },
+  {
+    "text": "That ratio is roughly 10 times what most consumer apps see, and it's only possible because of what Josh is telling app founders is an industry-wide reset in consumer pricing psychology.",
+    "start": "00:00:37",
+    "end": "00:00:48"
+  },
+  {
+    "text": ">> Before ChatGPT came around, the maximum people were kind of willing to spend on their consumer apps was maybe 60 bucks a year.",
+    "start": "00:00:45",
+    "end": "00:00:52"
+  },
+  {
+    "text": "And then ChatGPT entered the market and it reset the way consumers think about these products on our phone, and it said, \"Hey, we're going to charge you 20 bucks a month and you're going to pay it.",
+    "start": "00:00:52",
+    "end": "00:01:00"
+  },
+  {
+    "text": "\" The consumer mental understanding of what's worth paying for in terms of a product for their phone has now been reset.",
+    "start": "00:01:00",
+    "end": "00:01:09"
+  },
+  {
+    "text": ">> That reset is rule four in the six rule playbook Josh uses to evaluate every app that Blue Throne looks at.",
+    "start": "00:01:06",
+    "end": "00:01:13"
+  },
+  {
+    "text": "And the math behind it is surprisingly simple.",
+    "start": "00:01:13",
+    "end": "00:01:17"
+  },
+  {
+    "text": ">> The cheapest path to $30 million of ARR is actually fewer payers at higher prices.",
+    "start": "00:01:14",
+    "end": "00:01:21"
+  },
+  {
+    "text": ">> In this episode, Josh breaks down the full six rule playbook they're using at Blue Throne to buy apps for seven and eight figures.",
+    "start": "00:01:20",
+    "end": "00:01:27"
+  },
+  {
+    "text": "Everything from the category rule Flow used to become the first-ever women's health unicorn, the exit timing mistake MyFitnessPal made that cost them a hundred million dollars on their second exit, the buyer narrative rule Runna used to get itself acquired by Strava to become the front of their funnel, and much more.",
+    "start": "00:01:27",
+    "end": "00:01:44"
+  },
+  {
+    "text": "By the end of this video, you'll know exactly how Josh evaluates every consumer app, the specific metrics that move the exit multiple at each stage, and the four types of buyers who buy apps, and the deal narratives to build for each one if you you that you want to exit your app.",
+    "start": "00:01:44",
+    "end": "00:01:58"
+  },
+  {
+    "text": "This is the Superwall podcast.",
+    "start": "00:01:56",
+    "end": "00:01:59"
+  },
+  {
+    "text": "I'm Joseph Choi, founder of Consumer Club, a Discord where top consumer app founders trade alpha and what's working now in growth.",
+    "start": "00:01:59",
+    "end": "00:02:04"
+  },
+  {
+    "text": "I've been talking to members doing a million ARR, and they tell me they've been using these two tools.",
+    "start": "00:02:04",
+    "end": "00:02:10"
+  },
+  {
+    "text": "Superwall has this free AI tool trained on 422 profitable paywall experiments across thousands of successful apps.",
+    "start": "00:02:08",
+    "end": "00:02:15"
+  },
+  {
+    "text": "You upload a screenshot of your paywall, and it gives you an experiment idea to make more revenue with the same number of users at paywallexperiments.",
+    "start": "00:02:15",
+    "end": "00:02:22"
+  },
+  {
+    "text": "com.",
+    "start": "00:02:22",
+    "end": "00:02:22"
+  },
+  {
+    "text": "And if your app's doing at least 100K MRR, we host vetted dinners in SF in New York to hang out and network with other top app founders.",
+    "start": "00:02:22",
+    "end": "00:02:28"
+  },
+  {
+    "text": "You can apply with the typeform in the description.",
+    "start": "00:02:28",
+    "end": "00:02:31"
+  },
+  {
+    "text": "Also, these app founders have been telling me they use Roark.",
+    "start": "00:02:31",
+    "end": "00:02:33"
+  },
+  {
+    "text": "I met Daniel, the founder of Roark, at a dinner, and I got genuinely really excited when he told me about Roark Max, which is out now and has honestly changed the game for coding mobile apps.",
+    "start": "00:02:33",
+    "end": "00:02:42"
+  },
+  {
+    "text": "It's AI that one-shots full native iOS apps with Swift code, camera, sensors, haptics, payments, the whole stack.",
+    "start": "00:02:42",
+    "end": "00:02:48"
+  },
+  {
+    "text": "And as you live code with Roark, you can install prototypes directly onto your iPhone with one click and then publish to the App Store in two clicks.",
+    "start": "00:02:48",
+    "end": "00:02:56"
+  },
+  {
+    "text": "If you've been waiting for AI coding that actually does native iOS apps well, this is it.",
+    "start": "00:02:54",
+    "end": "00:02:59"
+  },
+  {
+    "text": "I got you guys a discount.",
+    "start": "00:02:59",
+    "end": "00:03:01"
+  },
+  {
+    "text": "You can use [music] the code Superwall or use the link below.",
+    "start": "00:02:59",
+    "end": "00:03:03"
+  },
+  {
+    "text": "So, this presentation is six rules to sell your app for nine figures.",
+    "start": "00:03:03",
+    "end": "00:03:06"
+  },
+  {
+    "text": "I think a lot of people in the audience are probably like maybe six, seven, maybe eight figures, but hopefully this will still be relevant for people because you actually buy apps for like seven, eight figures.",
+    "start": "00:03:06",
+    "end": "00:03:20"
+  },
+  {
+    "text": "So, could you explain kind of like what you do and all the acquisition app stuff?",
+    "start": "00:03:17",
+    "end": "00:03:23"
+  },
+  {
+    "text": "BlueThrone is essentially like a platform with like a fundamental belief that there are tons of apps out there that can be category leaders if they have the right resources and experience on board.",
+    "start": "00:03:23",
+    "end": "00:03:34"
+  },
+  {
+    "text": "Honestly, when when BlueThrone hired me like 2 years ago, they gave me this pitch.",
+    "start": "00:03:34",
+    "end": "00:03:38"
+  },
+  {
+    "text": "They gave me the thesis, and I'll kind of say it like for like today because honestly, it's the same today as it was 2 years ago.",
+    "start": "00:03:38",
+    "end": "00:03:44"
+  },
+  {
+    "text": "And it goes a bit like this.",
+    "start": "00:03:44",
+    "end": "00:03:45"
+  },
+  {
+    "text": "Today, it's never been easier to go from zero to one in consumer apps.",
+    "start": "00:03:45",
+    "end": "00:03:49"
+  },
+  {
+    "text": "And the reality is you don't need to be the best in every given discipline in consumer apps to hit your first one or two million in ARR.",
+    "start": "00:03:48",
+    "end": "00:03:56"
+  },
+  {
+    "text": "You just need like a really strong work ethic, a pretty good idea, and you need to nail like one distribution channel.",
+    "start": "00:03:56",
+    "end": "00:04:02"
+  },
+  {
+    "text": "But, you don't have to be the best at AB testing, UI/UX, any of these things to kind of do the zero to one.",
+    "start": "00:04:02",
+    "end": "00:04:07"
+  },
+  {
+    "text": "Blue Throne saw this and was like, \"Interesting, but people aren't making the whole one to 10 jump.",
+    "start": "00:04:07",
+    "end": "00:04:13"
+  },
+  {
+    "text": "\" Cuz to do that, you have to suddenly be an expert in multiple distribution channels.",
+    "start": "00:04:13",
+    "end": "00:04:15"
+  },
+  {
+    "text": "So, Blue Throne was created to solve this exact problem.",
+    "start": "00:04:15",
+    "end": "00:04:19"
+  },
+  {
+    "text": "To find the apps that have done the zero to one, that have found product market fit, acquire them, pay the premium for them because they have found product market fit, and scale them, and do that one to 10.",
+    "start": "00:04:19",
+    "end": "00:04:28"
+  },
+  {
+    "text": "And basically, they built the team, they raised a bit of money to do this, and that's what Blue Throne's been doing for the last 5 years.",
+    "start": "00:04:28",
+    "end": "00:04:36"
+  },
+  {
+    "text": ">> That's great.",
+    "start": "00:04:34",
+    "end": "00:04:35"
+  },
+  {
+    "text": "And what what's your role at at Blue Throne?",
+    "start": "00:04:35",
+    "end": "00:04:38"
+  },
+  {
+    "text": ">> For the last 6 years, um I've basically been in the mobile business doing M&A.",
+    "start": "00:04:37",
+    "end": "00:04:42"
+  },
+  {
+    "text": "I spent 3 years in gaming.",
+    "start": "00:04:42",
+    "end": "00:04:43"
+  },
+  {
+    "text": "For the gamers out there, they're going to recognize the Raid: Shadow Legends uh logo.",
+    "start": "00:04:43",
+    "end": "00:04:47"
+  },
+  {
+    "text": "So, I worked for a company called Plarium.",
+    "start": "00:04:47",
+    "end": "00:04:49"
+  },
+  {
+    "text": "Raid was our main game.",
+    "start": "00:04:47",
+    "end": "00:04:49"
+  },
+  {
+    "text": "Raid was doing [music] a billion plus in revenue for many, many years.",
+    "start": "00:04:49",
+    "end": "00:04:52"
+  },
+  {
+    "text": "It still is.",
+    "start": "00:04:52",
+    "end": "00:04:53"
+  },
+  {
+    "text": "It's essentially a strategy game.",
+    "start": "00:04:53",
+    "end": "00:04:54"
+  },
+  {
+    "text": "And for them, we were acquiring other mobile game studios around the world for eight, nine figures.",
+    "start": "00:04:54",
+    "end": "00:04:59"
+  },
+  {
+    "text": "Did that for 3 years.",
+    "start": "00:04:59",
+    "end": "00:05:01"
+  },
+  {
+    "text": "And then about 2 years ago, I jumped into Blue Throne to head up our M&A team, essentially trying to fuel the company forward with finding the best mobile app companies that could really do that one to 10 jump with Blue Throne on board.",
+    "start": "00:05:01",
+    "end": "00:05:14"
+  },
+  {
+    "text": ">> I didn't know that Raid: Shadow Legends was doing a billion in revenue.",
+    "start": "00:05:12",
+    "end": "00:05:17"
+  },
+  {
+    "text": "That's completely insane.",
+    "start": "00:05:17",
+    "end": "00:05:17"
+  },
+  {
+    "text": "I've seen so many of their ads, and I kind of always wondered like what they are as a business.",
+    "start": "00:05:17",
+    "end": "00:05:23"
+  },
+  {
+    "text": "But, that's cool.",
+    "start": "00:05:23",
+    "end": "00:05:22"
+  },
+  {
+    "text": "Like, they had this they were involved in the in the acquisition game, too.",
+    "start": "00:05:22",
+    "end": "00:05:28"
+  },
+  {
+    "text": ">> Yeah, absolutely.",
+    "start": "00:05:26",
+    "end": "00:05:28"
+  },
+  {
+    "text": "Like, you know, most most gaming companies were and are.",
+    "start": "00:05:28",
+    "end": "00:05:31"
+  },
+  {
+    "text": "And I guess when you see so many uh Raid: Shadow Legends sponsorships and ads, you just got to ask the question like, \"How much money are they making uh to afford all this?",
+    "start": "00:05:31",
+    "end": "00:05:38"
+  },
+  {
+    "text": "\" >> Okay, so let's talk about nine figures.",
+    "start": "00:05:38",
+    "end": "00:05:40"
+  },
+  {
+    "text": "Why are we talking about nine figures?",
+    "start": "00:05:39",
+    "end": "00:05:42"
+  },
+  {
+    "text": ">> We're talking about nine figures because I think for a lot of founders who are trying to go the distance, who are in this for the long game, they're really thinking about how do I achieve this outside as a return, this kind of exit that gets written about in the papers above the smaller stuff that kind of goes under the wraps.",
+    "start": "00:05:40",
+    "end": "00:05:57"
+  },
+  {
+    "text": "And I think there's a big difference in building your app and your app business for the long term, for the nine figures, versus building it for the slightly shorter to mid-term, for the kind of seven, eight figure exits.",
+    "start": "00:05:57",
+    "end": "00:06:08"
+  },
+  {
+    "text": "And I think there's a lot of information that doesn't quite add up online, and I really wanted to compile it into one place >> [music] >> for the founders who are thinking about that long-term strategy.",
+    "start": "00:06:08",
+    "end": "00:06:16"
+  },
+  {
+    "text": "To break this down is the numbers a little bit.",
+    "start": "00:06:16",
+    "end": "00:06:19"
+  },
+  {
+    "text": "In order to hit nine figures, you need to kind of hit a few different criteria.",
+    "start": "00:06:19",
+    "end": "00:06:23"
+  },
+  {
+    "text": "Either you need to have like a really strong growth trajectory with profitability in that.",
+    "start": "00:06:22",
+    "end": "00:06:27"
+  },
+  {
+    "text": "And when I say the words profitability, we're talking about 30, 40, 50% EBITDA margin, something really, really strong.",
+    "start": "00:06:27",
+    "end": "00:06:35"
+  },
+  {
+    "text": "And with this, people will start to value you based on your future potential.",
+    "start": "00:06:35",
+    "end": "00:06:40"
+  },
+  {
+    "text": "And that's where you get the 6x revenue run rate.",
+    "start": "00:06:38",
+    "end": "00:06:41"
+  },
+  {
+    "text": "For those who don't know, run rate means they're valuing you on revenue that will be earned in the future.",
+    "start": "00:06:41",
+    "end": "00:06:46"
+  },
+  {
+    "text": "The other side of this is if you're essentially a bit of a slower growth business and your profitability margins are slightly weaker, then valuers and acquirers are going to start to value you based on your past performance.",
+    "start": "00:06:46",
+    "end": "00:06:57"
+  },
+  {
+    "text": "So, when you see the word LTM, that's referring to the last 12 months of revenue.",
+    "start": "00:06:57",
+    "end": "00:07:02"
+  },
+  {
+    "text": "So, if we can kind of compile that into a a nice takeaway, it's basically what story are you selling about your app and what are people buying?",
+    "start": "00:07:02",
+    "end": "00:07:09"
+  },
+  {
+    "text": "Is it the growth story?",
+    "start": "00:07:09",
+    "end": "00:07:11"
+  },
+  {
+    "text": "Are you selling the future of your app?",
+    "start": "00:07:09",
+    "end": "00:07:13"
+  },
+  {
+    "text": "Or were the best days of your app in the past and are you selling the previous story instead?",
+    "start": "00:07:11",
+    "end": "00:07:18"
+  },
+  {
+    "text": ">> It just comes down to growth rate, basically.",
+    "start": "00:07:17",
+    "end": "00:07:19"
+  },
+  {
+    "text": "Cuz like a 6x multiple on revenue run rate is like you take your current month and then you multiply it by 12, or do you take your current month and then project out, like look at the growth and then project out, like oh, we're going to keep making more money each month?",
+    "start": "00:07:19",
+    "end": "00:07:36"
+  },
+  {
+    "text": "Compared to LTM, which is just you look at the last 12 months.",
+    "start": "00:07:36",
+    "end": "00:07:40"
+  },
+  {
+    "text": ">> I mean, generally, you don't want to take a month because months can be really sporadic.",
+    "start": "00:07:39",
+    "end": "00:07:43"
+  },
+  {
+    "text": "I mean, if we think about a fitness app that's popping off in January, December, you know, we don't want to be taking that single month and extrapolating it for the next 12 months because it's not going to be accurate.",
+    "start": "00:07:43",
+    "end": "00:07:54"
+  },
+  {
+    "text": "But, some people will then take maybe a quarter or some people maybe take 6 months and then extrapolate that.",
+    "start": "00:07:52",
+    "end": "00:07:59"
+  },
+  {
+    "text": "It really depends on on what the stability is of the app.",
+    "start": "00:07:59",
+    "end": "00:08:01"
+  },
+  {
+    "text": "Is there like a very constant level that the app performs at that is actually quite fair to predict on or is the revenue or downloads very choppy, very up and down cuz you don't want to be extrapolating on something that's choppy.",
+    "start": "00:08:01",
+    "end": "00:08:11"
+  },
+  {
+    "text": "And so, I think if we take those numbers from the previous slide and think about what are these two quite different paths to it, you know, $100 million plus in valuation.",
+    "start": "00:08:11",
+    "end": "00:08:21"
+  },
+  {
+    "text": "If you can sell the growth story and you can basically get people to value you based on the future earnings, the future growth of your app, then I put a couple of numbers here to kind of give you an idea of what that means, what are your goals here.",
+    "start": "00:08:21",
+    "end": "00:08:33"
+  },
+  {
+    "text": "But, if that's the case, then really around the 17 million ARR mark, you can start to think about the best-case scenario valuation, which would be really in the best best case 6X on run rate.",
+    "start": "00:08:31",
+    "end": "00:08:41"
+  },
+  {
+    "text": "On the other side of things, if if the growth is slightly slower, if people are valuing you based on past performance, based on last 12 months, then the kind of numbers you need to be hitting are around 30 33 million in ARR to get these really outsize returns.",
+    "start": "00:08:41",
+    "end": "00:08:54"
+  },
+  {
+    "text": "But, I think the point I was trying to make here, Joseph, is the story you're selling when you break that down to the numbers of revenue you have to be doing, they're widely different.",
+    "start": "00:08:53",
+    "end": "00:09:03"
+  },
+  {
+    "text": "People are paying [music] for the growth story if you can if you can have one.",
+    "start": "00:09:03",
+    "end": "00:09:06"
+  },
+  {
+    "text": ">> Yeah, if you're growing fast, you you can basically make be making half the revenue to get the same $100 million exit.",
+    "start": "00:09:05",
+    "end": "00:09:13"
+  },
+  {
+    "text": ">> Absolutely.",
+    "start": "00:09:12",
+    "end": "00:09:13"
+  },
+  {
+    "text": "And this is something we'll talk about quite a lot.",
+    "start": "00:09:13",
+    "end": "00:09:16"
+  },
+  {
+    "text": "It's about whether the best days of the app is in front or behind.",
+    "start": "00:09:16",
+    "end": "00:09:19"
+  },
+  {
+    "text": "So, what I've tried to do is I've tried to break this down to like six very easily digestible rules to try and help people think and plan in the future of how they're going to try and reach these goals.",
+    "start": "00:09:19",
+    "end": "00:09:30"
+  },
+  {
+    "text": "And if we kick it off with rule one.",
+    "start": "00:09:30",
+    "end": "00:09:31"
+  },
+  {
+    "text": "So, rule one is really about owning the category.",
+    "start": "00:09:31",
+    "end": "00:09:34"
+  },
+  {
+    "text": "And what do I mean by this?",
+    "start": "00:09:34",
+    "end": "00:09:35"
+  },
+  {
+    "text": "It's really about defining the category the app is operating in narrowly enough so that you can comfortably say you're number one in the category because this is all part of the narrative.",
+    "start": "00:09:35",
+    "end": "00:09:46"
+  },
+  {
+    "text": "If you can say you're number one in a niche category, then that's defensibility.",
+    "start": "00:09:46",
+    "end": "00:09:49"
+  },
+  {
+    "text": "That's a moat and that's going to really boost the valuation.",
+    "start": "00:09:49",
+    "end": "00:09:52"
+  },
+  {
+    "text": "So, if we take an example, if we take let's say Flow for example, right now we all know Flow to be one of the top health apps, but a few years ago it wouldn't be able to define itself as one of the top health apps.",
+    "start": "00:09:52",
+    "end": "00:10:04"
+  },
+  {
+    "text": "So, what did it do?",
+    "start": "00:10:04",
+    "end": "00:10:04"
+  },
+  {
+    "text": "It narrowed down the category of health into women's health or or menstrual cycle tracking and it put itself in a position where it could comfortably define itself as the number one app in the women's health niche.",
+    "start": "00:10:04",
+    "end": "00:10:17"
+  },
+  {
+    "text": "So, they were taking a larger niche of health and they were narrowing it down to women's health.",
+    "start": "00:10:17",
+    "end": "00:10:21"
+  },
+  {
+    "text": "At that point with their, you know, 70 million plus monthly active users, they could become the first women's health unicorn and raise their 200 million plus from from General Atlantic at the 1 billion plus valuation because not only were their metrics amazing and and their funnels were amazing and their testing was amazing, but they could define their category narrowly enough to very confidently, without a doubt, define themselves as number one in that category.",
+    "start": "00:10:21",
+    "end": "00:10:44"
+  },
+  {
+    "text": ">> [music] >> And, you know, we could take another example here.",
+    "start": "00:10:43",
+    "end": "00:10:46"
+  },
+  {
+    "text": "Runner.",
+    "start": "00:10:46",
+    "end": "00:10:47"
+  },
+  {
+    "text": "Runner didn't try to be the number one sport app in the world.",
+    "start": "00:10:47",
+    "end": "00:10:53"
+  },
+  {
+    "text": "It tried to be the number one running tracking app, right?",
+    "start": "00:10:51",
+    "end": "00:10:57"
+  },
+  {
+    "text": "The number one Couch to 5K app in the world and that's what it did successfully and that's what got it a great valuation in order to be acquired by by Strava.",
+    "start": "00:10:57",
+    "end": "00:11:06"
+  },
+  {
+    "text": ">> It's not just health tracking, it's specifically women's health and I think in the very beginning they didn't even call it women's health.",
+    "start": "00:11:04",
+    "end": "00:11:13"
+  },
+  {
+    "text": "They probably just called it like period tracker and then for Runner it's like not just fitness, it's like specifically running and then I think they even it's like 5K to marathon training.",
+    "start": "00:11:13",
+    "end": "00:11:25"
+  },
+  {
+    "text": "It's even narrower.",
+    "start": "00:11:25",
+    "end": "00:11:25"
+  },
+  {
+    "text": "But I guess my question here is how narrow do you actually have to be?",
+    "start": "00:11:25",
+    "end": "00:11:29"
+  },
+  {
+    "text": "Can you be like would you say Flow and Runner are good examples of like nine-figure exit range?",
+    "start": "00:11:29",
+    "end": "00:11:38"
+  },
+  {
+    "text": "Like how narrow you have to be or can you be narrower or wider than these?",
+    "start": "00:11:36",
+    "end": "00:11:42"
+  },
+  {
+    "text": ">> It's a good question.",
+    "start": "00:11:40",
+    "end": "00:11:42"
+  },
+  {
+    "text": "I think it kind of comes down to keeping it realistic whilst helping yourself out.",
+    "start": "00:11:42",
+    "end": "00:11:47"
+  },
+  {
+    "text": "Right?",
+    "start": "00:11:47",
+    "end": "00:11:47"
+  },
+  {
+    "text": "So, if you define a category so narrow that people look at you and they say, \"This is ridiculous.",
+    "start": "00:11:47",
+    "end": "00:11:53"
+  },
+  {
+    "text": "This is not even a category.",
+    "start": "00:11:51",
+    "end": "00:11:54"
+  },
+  {
+    "text": "\" Uh then you've kind of dug yourself into a hole.",
+    "start": "00:11:54",
+    "end": "00:11:56"
+  },
+  {
+    "text": "But, if we kind of extrapolate this onto another, you know, very popular app category that I'm seeing a lot right now, which is sleep noises.",
+    "start": "00:11:55",
+    "end": "00:12:03"
+  },
+  {
+    "text": "Apps that give you noises to help you fall asleep would technically fall into the wellness category.",
+    "start": "00:12:03",
+    "end": "00:12:06"
+  },
+  {
+    "text": "You're able to define it narrowly enough that we are just an app doing sleep noises.",
+    "start": "00:12:06",
+    "end": "00:12:10"
+  },
+  {
+    "text": "And so, I think it's a it's really about defining the category in a believable way.",
+    "start": "00:12:10",
+    "end": "00:12:15"
+  },
+  {
+    "text": "To be able to show there is competition here.",
+    "start": "00:12:15",
+    "end": "00:12:17"
+  },
+  {
+    "text": "There are other people in this category.",
+    "start": "00:12:17",
+    "end": "00:12:19"
+  },
+  {
+    "text": "It has its own life cycles and it has its own ecosystem.",
+    "start": "00:12:19",
+    "end": "00:12:21"
+  },
+  {
+    "text": "As opposed to like, you know, taking it to a ridiculous levels where people look at it and say, \"Actually, that's just not a believable category.",
+    "start": "00:12:21",
+    "end": "00:12:28"
+  },
+  {
+    "text": "\" >> The new hot thing right now I feel like is like peptide trackers or like GLP-1 tracker apps.",
+    "start": "00:12:28",
+    "end": "00:12:32"
+  },
+  {
+    "text": "Are these too narrow?",
+    "start": "00:12:32",
+    "end": "00:12:34"
+  },
+  {
+    "text": "For example, like a GLP-1 tracker.",
+    "start": "00:12:34",
+    "end": "00:12:35"
+  },
+  {
+    "text": "Do you feel like this is a too narrow of a category for a nine-figure exit?",
+    "start": "00:12:35",
+    "end": "00:12:39"
+  },
+  {
+    "text": "Would you If you're this app founder, would you consider rebranding or repositioning?",
+    "start": "00:12:39",
+    "end": "00:12:44"
+  },
+  {
+    "text": ">> It depends on the size of the market.",
+    "start": "00:12:42",
+    "end": "00:12:46"
+  },
+  {
+    "text": "Like right now, GLP-1 trackers do fall into health and sometimes health and fitness.",
+    "start": "00:12:44",
+    "end": "00:12:49"
+  },
+  {
+    "text": "So, you could say it's a narrow definition within that, which works.",
+    "start": "00:12:49",
+    "end": "00:12:54"
+  },
+  {
+    "text": "You could go even narrower.",
+    "start": "00:12:54",
+    "end": "00:12:55"
+  },
+  {
+    "text": "You could say, \"Number one tracker for Wegovy.",
+    "start": "00:12:55",
+    "end": "00:12:59"
+  },
+  {
+    "text": "\" Or number one tracker for people taking peptides for the aesthetics.",
+    "start": "00:12:59",
+    "end": "00:13:02"
+  },
+  {
+    "text": "Or people taking peptides for their fitness performance.",
+    "start": "00:13:02",
+    "end": "00:13:04"
+  },
+  {
+    "text": "You could take it a bit narrower if the market was big enough to accommodate multiple categories.",
+    "start": "00:13:04",
+    "end": "00:13:11"
+  },
+  {
+    "text": "But, with the GLP-1 stuff, I mean it's so new.",
+    "start": "00:13:11",
+    "end": "00:13:13"
+  },
+  {
+    "text": "I think we're we're still yet to see how the ecosystem actually plays out.",
+    "start": "00:13:13",
+    "end": "00:13:18"
+  },
+  {
+    "text": ">> Is there any like rule of thumb that you use to estimate like how big is a market?",
+    "start": "00:13:16",
+    "end": "00:13:21"
+  },
+  {
+    "text": ">> That's a great question.",
+    "start": "00:13:20",
+    "end": "00:13:22"
+  },
+  {
+    "text": "I think with apps it's really complicated because the markets are pretty fragmented.",
+    "start": "00:13:22",
+    "end": "00:13:27"
+  },
+  {
+    "text": "Generally, what I'm doing is I'm I'm going on Sensor Tower and I'm essentially cutting markets into like categories that that actually make logical sense, and I'm taking the top, you know, performers and using that to size the markets up cuz often, you know, the top 30 apps are basically the majority kind of the lion's share of the market.",
+    "start": "00:13:25",
+    "end": "00:13:42"
+  },
+  {
+    "text": "The only important thing I'd say there is you need to just stay flexible cuz these markets are changing very frequently.",
+    "start": "00:13:42",
+    "end": "00:13:48"
+  },
+  {
+    "text": "I mean, GLP-1 is a great example.",
+    "start": "00:13:48",
+    "end": "00:13:49"
+  },
+  {
+    "text": "This is new.",
+    "start": "00:13:49",
+    "end": "00:13:51"
+  },
+  {
+    "text": "The other new [music] stuff, which I'm seeing a lot of right now and I I wonder I wonder if you're seeing the same thing, is food scanning apps.",
+    "start": "00:13:51",
+    "end": "00:13:58"
+  },
+  {
+    "text": "Obviously, Calorie AI started the trend, but there's a whole bunch of new ones just taking advantage of the LLMs they have available to do a ton of new things when it comes to food scanning, calorie counting, checking for whether foods are safe to eat, that kind of thing.",
+    "start": "00:13:56",
+    "end": "00:14:10"
+  },
+  {
+    "text": "That's also very much a new kind of category.",
+    "start": "00:14:10",
+    "end": "00:14:13"
+  },
+  {
+    "text": ">> Narrow until you can win it.",
+    "start": "00:14:11",
+    "end": "00:14:14"
+  },
+  {
+    "text": ">> Exactly.",
+    "start": "00:14:13",
+    "end": "00:14:14"
+  },
+  {
+    "text": ">> What's rule two?",
+    "start": "00:14:14",
+    "end": "00:14:17"
+  },
+  {
+    "text": ">> So, rule two um is really about the the KPIs of the app, and it's about building an app that has locals, not tourists, because tourists are going to come to your app, they're going to pay once, and they're going to leave, and you're going to count it as revenue, and it's going to feel good cuz it's going to boost your MRR.",
+    "start": "00:14:14",
+    "end": "00:14:29"
+  },
+  {
+    "text": "But, if you really want the outsized returns for your app, you need to be building for locals.",
+    "start": "00:14:29",
+    "end": "00:14:35"
+  },
+  {
+    "text": "These are people that actually stay for a really long period of time.",
+    "start": "00:14:35",
+    "end": "00:14:37"
+  },
+  {
+    "text": "These are the people that are bumping up your resubscriber rates, and these are the cohorts of people that actually cause your app to get an outsized valuation because their revenue is very, very sticky.",
+    "start": "00:14:37",
+    "end": "00:14:49"
+  },
+  {
+    "text": "To put it quite simply, revenue multiples are really just present value math on LTV.",
+    "start": "00:14:49",
+    "end": "00:14:54"
+  },
+  {
+    "text": "And the leading indicator of your LTV is cohort retention.",
+    "start": "00:14:54",
+    "end": "00:15:00"
+  },
+  {
+    "text": "In other words, how sticky is your revenue?",
+    "start": "00:15:00",
+    "end": "00:15:02"
+  },
+  {
+    "text": "So, if you jump to the next slide, the question I'd kind of give founders who are listening to this is, what is the retention curve of your top 20% by engagement look like?",
+    "start": "00:15:00",
+    "end": "00:15:10"
+  },
+  {
+    "text": "For you guys listening here, think about which metric defines engagement in your app.",
+    "start": "00:15:10",
+    "end": "00:15:18"
+  },
+  {
+    "text": "It could be session frequency, session length, how many daily logins.",
+    "start": "00:15:18",
+    "end": "00:15:22"
+  },
+  {
+    "text": "You need to define what makes sense for your app.",
+    "start": "00:15:22",
+    "end": "00:15:27"
+  },
+  {
+    "text": "And then find the top 20% of users by that metric and understand what their retention curve looks like.",
+    "start": "00:15:27",
+    "end": "00:15:31"
+  },
+  {
+    "text": "And what you're looking for is the moment the retention curve flattens.",
+    "start": "00:15:31",
+    "end": "00:15:35"
+  },
+  {
+    "text": "If the curve goes straight down to the bottom, you're in trouble.",
+    "start": "00:15:35",
+    "end": "00:15:38"
+  },
+  {
+    "text": "If the curve flattens, preferably higher rather than lower, then you're in a really, really nice position.",
+    "start": "00:15:38",
+    "end": "00:15:46"
+  },
+  {
+    "text": ">> So, you look at the top 20% users by engagement, and what is the retention for that?",
+    "start": "00:15:43",
+    "end": "00:15:49"
+  },
+  {
+    "text": "And then you say if it looks like SaaS, you may have a nine-figure asset hiding inside a consumer app.",
+    "start": "00:15:49",
+    "end": "00:15:55"
+  },
+  {
+    "text": "So, what does that mean?",
+    "start": "00:15:55",
+    "end": "00:15:56"
+  },
+  {
+    "text": "Are you saying that you and a potential acquirer would be acquiring your app because they want to turn it into like a different business model?",
+    "start": "00:15:56",
+    "end": "00:16:03"
+  },
+  {
+    "text": "Or are you just saying that you have SaaS-like retention, which is just generally useful for consumer apps?",
+    "start": "00:16:03",
+    "end": "00:16:11"
+  },
+  {
+    "text": ">> I'm saying the latter.",
+    "start": "00:16:09",
+    "end": "00:16:11"
+  },
+  {
+    "text": "I'm saying valuation is often driven by the retention of those sticky cohorts.",
+    "start": "00:16:11",
+    "end": "00:16:16"
+  },
+  {
+    "text": "So, the stickier those cohorts look like, the higher the valuation is going to be.",
+    "start": "00:16:16",
+    "end": "00:16:20"
+  },
+  {
+    "text": "And the reason I'm comparing it to SaaS is cuz we all know that SaaS in B2B is the revenue is far stickier than in consumer apps.",
+    "start": "00:16:20",
+    "end": "00:16:27"
+  },
+  {
+    "text": "In consumer apps, if your year-one resubscriber rate is 50%, you're in a great position.",
+    "start": "00:16:27",
+    "end": "00:16:36"
+  },
+  {
+    "text": "But that means 50% of your users are leaving after year one.",
+    "start": "00:16:34",
+    "end": "00:16:39"
+  },
+  {
+    "text": "And and the same numbers don't really add up in in SaaS, right?",
+    "start": "00:16:38",
+    "end": "00:16:42"
+  },
+  {
+    "text": "So, the sooner your retention curve flattens, >> [music] >> the more valuable your revenue is, the more valuable the cohorts are because they're going to hang around for longer.",
+    "start": "00:16:42",
+    "end": "00:16:50"
+  },
+  {
+    "text": ">> Are there any other benchmarks besides the like top 20% engagement?",
+    "start": "00:16:49",
+    "end": "00:16:54"
+  },
+  {
+    "text": "You mentioned like the year two or the renewal after one year subscription.",
+    "start": "00:16:54",
+    "end": "00:16:59"
+  },
+  {
+    "text": "Are there any other like benchmark?",
+    "start": "00:16:59",
+    "end": "00:17:01"
+  },
+  {
+    "text": "And also, I guess the benchmarks for, let's say, health and fitness categories since those are kind of like the like the top retentive categories.",
+    "start": "00:17:01",
+    "end": "00:17:08"
+  },
+  {
+    "text": "[music] >> It depends on the app and the category, but I think as like a very high-level rule of thumb, 50% retention of year one is amazing, 40 is good, 30 is okay, 20 is bad as a very like general rule of thumb, but every category plays different.",
+    "start": "00:17:08",
+    "end": "00:17:22"
+  },
+  {
+    "text": "I mean, you know, I wouldn't apply those metrics to dating apps for example, which you're going to have significantly lower retention.",
+    "start": "00:17:22",
+    "end": "00:17:29"
+  },
+  {
+    "text": ">> Is there anything that's the most important like the the top 20% engagement versus just the overall subscription retention?",
+    "start": "00:17:28",
+    "end": "00:17:36"
+  },
+  {
+    "text": "Would you say that the retention curve of your power users is like more important than actual like subscription retention overall?",
+    "start": "00:17:36",
+    "end": "00:17:43"
+  },
+  {
+    "text": ">> The reason I like to point to the power users is because that's revenue that's hanging around year after year after year after year.",
+    "start": "00:17:41",
+    "end": "00:17:52"
+  },
+  {
+    "text": "And the less power users will kind of fall off and then you'll have to use UA, meta, or organic traction to kind of bring new users back in.",
+    "start": "00:17:50",
+    "end": "00:17:59"
+  },
+  {
+    "text": "The more higher attentive users you have, the less your app is kind of on this treadmill of having to always bring in new users.",
+    "start": "00:17:59",
+    "end": "00:18:05"
+  },
+  {
+    "text": ">> Like logically that makes sense because the acquirer is buying something to be an asset, not to buy it and then have to run it, you know, 40 hours a week.",
+    "start": "00:18:04",
+    "end": "00:18:14"
+  },
+  {
+    "text": "But I guess that's not necessarily true.",
+    "start": "00:18:14",
+    "end": "00:18:16"
+  },
+  {
+    "text": "That was my first instinct of about the retention, but it's more about growth, right?",
+    "start": "00:18:16",
+    "end": "00:18:19"
+  },
+  {
+    "text": "Cuz like Blue Throne and like the acquirers usually they're not looking to just like run something passively.",
+    "start": "00:18:19",
+    "end": "00:18:27"
+  },
+  {
+    "text": "They want to see strong retentions so that every time they do an additional user acquisition campaign, they that revenue actually sticks and like compounds over time.",
+    "start": "00:18:27",
+    "end": "00:18:37"
+  },
+  {
+    "text": ">> Absolutely.",
+    "start": "00:18:35",
+    "end": "00:18:36"
+  },
+  {
+    "text": "Also, it's a really strong, you know, narrative.",
+    "start": "00:18:36",
+    "end": "00:18:39"
+  },
+  {
+    "text": "It's really strong story to to show these retentive users cuz it's a great proof that your product is doing what it set out to do.",
+    "start": "00:18:39",
+    "end": "00:18:46"
+  },
+  {
+    "text": "If you're losing all your users by year two, then is your product really solving the problem you tried to achieve or you tried to solve?",
+    "start": "00:18:46",
+    "end": "00:18:54"
+  },
+  {
+    "text": ">> Have you seen any metrics being used that are like very high signal besides, I don't know, is daily active users kind of like the the big one or or is it like a core action that you take inside of an app?",
+    "start": "00:18:52",
+    "end": "00:19:04"
+  },
+  {
+    "text": "How many times a day people are doing that?",
+    "start": "00:19:04",
+    "end": "00:19:06"
+  },
+  {
+    "text": "I guess it probably varies by app, but have you seen any like trends in like what which metrics people optimize for that get really good valuations.",
+    "start": "00:19:06",
+    "end": "00:19:17"
+  },
+  {
+    "text": ">> Daily active users is not necessarily a great one because it's it's downstream of your funnel.",
+    "start": "00:19:16",
+    "end": "00:19:21"
+  },
+  {
+    "text": "So, it's kind of indicative of how many downloads you're getting.",
+    "start": "00:19:21",
+    "end": "00:19:24"
+  },
+  {
+    "text": "I think really what I'd be looking for is subscriber retention because the question that's answering is when a user opens their wallet to pay for your app.",
+    "start": "00:19:24",
+    "end": "00:19:33"
+  },
+  {
+    "text": "And you may have had a very good onboarding and paywall flow that for a lack of better word tricks them into paying.",
+    "start": "00:19:33",
+    "end": "00:19:39"
+  },
+  {
+    "text": "Fine.",
+    "start": "00:19:39",
+    "end": "00:19:40"
+  },
+  {
+    "text": "But, the real test is once that year is up, do they resubscribe?",
+    "start": "00:19:40",
+    "end": "00:19:43"
+  },
+  {
+    "text": "And the question that's answering is did they get value from what they just spent a year paying for?",
+    "start": "00:19:43",
+    "end": "00:19:48"
+  },
+  {
+    "text": "And if the answer is no, they're going to churn.",
+    "start": "00:19:47",
+    "end": "00:19:49"
+  },
+  {
+    "text": "If the answer is yes, they're going to be very happy to keep that going.",
+    "start": "00:19:49",
+    "end": "00:19:52"
+  },
+  {
+    "text": "So, for me resubscriber rates um it is really really a a strong signal into stickiness there.",
+    "start": "00:19:52",
+    "end": "00:20:00"
+  },
+  {
+    "text": ">> If daily active users is not that useful, would a different retention metric like um like day 7, day 30 retention, like are those things that people optimize for?",
+    "start": "00:19:58",
+    "end": "00:20:10"
+  },
+  {
+    "text": ">> Yeah, absolutely.",
+    "start": "00:20:09",
+    "end": "00:20:10"
+  },
+  {
+    "text": "Especially if you've got um a free tier within the app, then then retention on that side super important.",
+    "start": "00:20:10",
+    "end": "00:20:16"
+  },
+  {
+    "text": ">> Okay.",
+    "start": "00:20:15",
+    "end": "00:20:16"
+  },
+  {
+    "text": "Rule three.",
+    "start": "00:20:16",
+    "end": "00:20:17"
+  },
+  {
+    "text": ">> This one is is a tricky one, but essentially it's all about organic.",
+    "start": "00:20:16",
+    "end": "00:20:22"
+  },
+  {
+    "text": "Organic installs are such a great indicator that your app is working.",
+    "start": "00:20:20",
+    "end": "00:20:26"
+  },
+  {
+    "text": "I can't kind of emphasize this enough.",
+    "start": "00:20:26",
+    "end": "00:20:27"
+  },
+  {
+    "text": "To really get these outsize returns, you want to be making sure that you're getting a really large portion of organic.",
+    "start": "00:20:27",
+    "end": "00:20:33"
+  },
+  {
+    "text": "Otherwise, your app is kind of a UA treadmill.",
+    "start": "00:20:33",
+    "end": "00:20:36"
+  },
+  {
+    "text": "You have to keep spending to keep bringing in cash.",
+    "start": "00:20:36",
+    "end": "00:20:37"
+  },
+  {
+    "text": "And I've given some benchmarks here.",
+    "start": "00:20:37",
+    "end": "00:20:39"
+  },
+  {
+    "text": "50% is great.",
+    "start": "00:20:39",
+    "end": "00:20:40"
+  },
+  {
+    "text": "35-50 is good.",
+    "start": "00:20:40",
+    "end": "00:20:42"
+  },
+  {
+    "text": "Under 20 is not great, and it probably means you're on a bit of a UA treadmill.",
+    "start": "00:20:42",
+    "end": "00:20:47"
+  },
+  {
+    "text": "The thing with organic is you have to earn it.",
+    "start": "00:20:47",
+    "end": "00:20:47"
+  },
+  {
+    "text": "You don't buy it.",
+    "start": "00:20:47",
+    "end": "00:20:49"
+  },
+  {
+    "text": "You cannot really buy organic traffic.",
+    "start": "00:20:49",
+    "end": "00:20:51"
+  },
+  {
+    "text": "I mean, the age-old debate here is really like is TikTok truly organic?",
+    "start": "00:20:51",
+    "end": "00:20:54"
+  },
+  {
+    "text": "What what's your stance on this?",
+    "start": "00:20:54",
+    "end": "00:20:56"
+  },
+  {
+    "text": "Do you think TikTok is organic or do you think it's it should be paid?",
+    "start": "00:20:56",
+    "end": "00:21:01"
+  },
+  {
+    "text": ">> It depends.",
+    "start": "00:20:58",
+    "end": "00:21:00"
+  },
+  {
+    "text": "It is paid, but even if it costs nothing to create a TikTok, it's a thing that you have to keep doing.",
+    "start": "00:21:00",
+    "end": "00:21:06"
+  },
+  {
+    "text": "But then, I think where it becomes more organic is like where like videos go viral and you end up getting a lot more downloads than you anticipated and that you like calculated for.",
+    "start": "00:21:06",
+    "end": "00:21:19"
+  },
+  {
+    "text": "And then especially when that compounds like when other people see that video and then creators start organically making videos about it then I would classify that as somewhat organic as well.",
+    "start": "00:21:19",
+    "end": "00:21:27"
+  },
+  {
+    "text": ">> [music] >> The jury's out like there's no industry standard in my opinion of like whether people value TikTok as organic or paid cuz yes you can have the outsize returns and it's less measurable but you still have to pay for those outsize returns.",
+    "start": "00:21:27",
+    "end": "00:21:41"
+  },
+  {
+    "text": "I mean your ROAS is going to be really strong but you still have to pay something for the video for the creator for the iterations you know going back and forth on the creative.",
+    "start": "00:21:41",
+    "end": "00:21:49"
+  },
+  {
+    "text": "There's no industry standard in terms of labeling it.",
+    "start": "00:21:49",
+    "end": "00:21:51"
+  },
+  {
+    "text": "Right now I personally lean towards TikTok is actually paid.",
+    "start": "00:21:51",
+    "end": "00:21:56"
+  },
+  {
+    "text": "It's just less measurable less predictable.",
+    "start": "00:21:56",
+    "end": "00:21:58"
+  },
+  {
+    "text": "You can get outsize returns.",
+    "start": "00:21:58",
+    "end": "00:21:59"
+  },
+  {
+    "text": "You can also get nothing but you're still paying for it.",
+    "start": "00:21:59",
+    "end": "00:22:04"
+  },
+  {
+    "text": ">> Let's say you spend $100,000 on organic UGC.",
+    "start": "00:22:01",
+    "end": "00:22:04"
+  },
+  {
+    "text": "The way that gets attributed is it looks like organic on the back end because people are going to close the TikTok app open App Store on their phone search your app and then it looks like an ASO download.",
+    "start": "00:22:04",
+    "end": "00:22:18"
+  },
+  {
+    "text": "Let's say you just didn't do a TikTok campaign.",
+    "start": "00:22:18",
+    "end": "00:22:21"
+  },
+  {
+    "text": "You spent no money on TikTok.",
+    "start": "00:22:21",
+    "end": "00:22:22"
+  },
+  {
+    "text": "You just made one founder led video and then a bunch of people like copy your video and it became a trend on TikTok and then you got the same number of downloads also from ASO.",
+    "start": "00:22:22",
+    "end": "00:22:30"
+  },
+  {
+    "text": "I would say the second case is like more closer to ASO and the first one is closer to like meta paid UA.",
+    "start": "00:22:30",
+    "end": "00:22:39"
+  },
+  {
+    "text": ">> It's true and like attribution is this kind of very difficult problem that we're all trying to solve but it's very very tricky especially if you're getting a stream of like true organic ASO downloads and you're trying to measure the impact of your TikToks on top of that.",
+    "start": "00:22:37",
+    "end": "00:22:51"
+  },
+  {
+    "text": "It can be very very difficult.",
+    "start": "00:22:51",
+    "end": "00:22:53"
+  },
+  {
+    "text": "I don't think there's there's a right answer here to be honest with you.",
+    "start": "00:22:53",
+    "end": "00:22:56"
+  },
+  {
+    "text": "It kind of depends on how you value it.",
+    "start": "00:22:56",
+    "end": "00:22:58"
+  },
+  {
+    "text": "My personal take at the moment is I want to know what you're spending on on TikTok and I want to know what you think give or take downloads it's bringing in how the videos perform.",
+    "start": "00:22:58",
+    "end": "00:23:07"
+  },
+  {
+    "text": "You know, a question I always ask when I'm trying to analyze an app and understand like how this business is working holistically is this.",
+    "start": "00:23:07",
+    "end": "00:23:13"
+  },
+  {
+    "text": "I don't want to know the last video that went viral.",
+    "start": "00:23:13",
+    "end": "00:23:17"
+  },
+  {
+    "text": "I want to know the machine you built to replicate it.",
+    "start": "00:23:17",
+    "end": "00:23:18"
+  },
+  {
+    "text": "How often you're going viral?",
+    "start": "00:23:18",
+    "end": "00:23:19"
+  },
+  {
+    "text": "How quickly can you redo do a creative?",
+    "start": "00:23:19",
+    "end": "00:23:22"
+  },
+  {
+    "text": "How quickly once a creative works can you start spinning up 20, 50, 100 videos on the same creative?",
+    "start": "00:23:22",
+    "end": "00:23:28"
+  },
+  {
+    "text": "Like that's the actual question.",
+    "start": "00:23:28",
+    "end": "00:23:29"
+  },
+  {
+    "text": "It's like what machine have you built to try replicate this time and time again?",
+    "start": "00:23:29",
+    "end": "00:23:33"
+  },
+  {
+    "text": ">> And even if you classify that way then organic ASO itself is sort of a machine.",
+    "start": "00:23:31",
+    "end": "00:23:39"
+  },
+  {
+    "text": "It's just a machine of you know, public perception of your app and where it's ranking in the App Store as well.",
+    "start": "00:23:39",
+    "end": "00:23:45"
+  },
+  {
+    "text": ">> Yeah, but it's becoming so hard to rank.",
+    "start": "00:23:43",
+    "end": "00:23:47"
+  },
+  {
+    "text": "I mean 80% more apps being submitted to the App Store this year than last year.",
+    "start": "00:23:45",
+    "end": "00:23:50"
+  },
+  {
+    "text": "One of the problems with that is that it's becoming so much harder to rank organically.",
+    "start": "00:23:49",
+    "end": "00:23:53"
+  },
+  {
+    "text": "I mean so many new entrants are not able to rank because the top keywords are kind of dominated by these legacy apps that were kind of there 5, 6, 7, 8 years ago.",
+    "start": "00:23:53",
+    "end": "00:24:01"
+  },
+  {
+    "text": "Becoming very, very difficult.",
+    "start": "00:24:01",
+    "end": "00:24:05"
+  },
+  {
+    "text": ">> Have you seen any standout apps that do like AI search really well?",
+    "start": "00:24:02",
+    "end": "00:24:09"
+  },
+  {
+    "text": ">> No, I have not seen something that's nailed AI search.",
+    "start": "00:24:07",
+    "end": "00:24:11"
+  },
+  {
+    "text": "What I can say is based on my conversations, I'm speaking to maybe four or five founders a day.",
+    "start": "00:24:11",
+    "end": "00:24:17"
+  },
+  {
+    "text": "People aren't talking about it.",
+    "start": "00:24:15",
+    "end": "00:24:18"
+  },
+  {
+    "text": "Like when I ask people like what's your growth strategy, no one says AI search.",
+    "start": "00:24:18",
+    "end": "00:24:22"
+  },
+  {
+    "text": "Maybe we should be, maybe we shouldn't be, maybe it's actually a bit difficult compared to the lower hanging fruit.",
+    "start": "00:24:21",
+    "end": "00:24:28"
+  },
+  {
+    "text": "I don't know.",
+    "start": "00:24:26",
+    "end": "00:24:28"
+  },
+  {
+    "text": "But but if someone's nailed AI search like send me a DM on LinkedIn.",
+    "start": "00:24:28",
+    "end": "00:24:31"
+  },
+  {
+    "text": "I'd love to talk about it.",
+    "start": "00:24:31",
+    "end": "00:24:34"
+  },
+  {
+    "text": ">> I know like no specific consumer apps come to mind either for me, but I do know that like a bunch of like other like e-commerce brands and just like other B2B brands are doing really, really well on AI search and there's like there's even like tools that can help you with that.",
+    "start": "00:24:31",
+    "end": "00:24:48"
+  },
+  {
+    "text": ">> This rule I really like because it's something that founders can implement like tonight to be honest with you.",
+    "start": "00:24:47",
+    "end": "00:24:53"
+  },
+  {
+    "text": "But essentially what we see in the market is that the apps that can command a premium valuation are actually charging premium prices.",
+    "start": "00:24:53",
+    "end": "00:24:59"
+  },
+  {
+    "text": "The cheapest path to $30 of ARR is actually fewer payers at higher prices cuz this means less spent on user acquisition, you need less people in total, but you can actually charge higher prices.",
+    "start": "00:24:59",
+    "end": "00:25:11"
+  },
+  {
+    "text": "The interesting point here that I I think should be a real key takeaway for people listening is before chat GPT came around, the maximum people were kind of willing to spend on their consumer apps was maybe 60 bucks a year.",
+    "start": "00:25:11",
+    "end": "00:25:23"
+  },
+  {
+    "text": "That was kind of the benchmark.",
+    "start": "00:25:23",
+    "end": "00:25:24"
+  },
+  {
+    "text": "And then chat GPT entered the market and it reset the way consumers think about these products on our phone and it said, \"Hey, we're going to charge you 20 bucks a month and you're going to pay it.",
+    "start": "00:25:24",
+    "end": "00:25:34"
+  },
+  {
+    "text": "\" And even though chat GPT offered an outstanding service when it first entered the market and then we were all blown away by it.",
+    "start": "00:25:34",
+    "end": "00:25:40"
+  },
+  {
+    "text": "That's a few years ago, but the the consumer mental understanding of what's worth paying for on in terms of a product for that phone has now been reset and they're willing to pay 20 bucks a month for apps that really solve their problem on their phone.",
+    "start": "00:25:38",
+    "end": "00:25:53"
+  },
+  {
+    "text": "So here we can see the difference between the number of payers you need to hit $30 of ARR.",
+    "start": "00:25:53",
+    "end": "00:25:58"
+  },
+  {
+    "text": "If you're charging $4.",
+    "start": "00:25:58",
+    "end": "00:26:01"
+  },
+  {
+    "text": "99 a month, you need half a million payers.",
+    "start": "00:26:01",
+    "end": "00:26:03"
+  },
+  {
+    "text": "That is a lot more UA, that's a lot more infrastructure problems we're going to have and you need to be able to sustain that number of payers as well.",
+    "start": "00:26:03",
+    "end": "00:26:09"
+  },
+  {
+    "text": "Very difficult.",
+    "start": "00:26:09",
+    "end": "00:26:09"
+  },
+  {
+    "text": "But if you're charging 20 bucks a month and you have a product where you're able to do that, you only need 125,000 payers.",
+    "start": "00:26:09",
+    "end": "00:26:17"
+  },
+  {
+    "text": "The math here is honestly unforgiving and it's something to really pay attention to.",
+    "start": "00:26:15",
+    "end": "00:26:20"
+  },
+  {
+    "text": "I'll point you to one example that I really love.",
+    "start": "00:26:20",
+    "end": "00:26:22"
+  },
+  {
+    "text": "It's an app that I've recently started using.",
+    "start": "00:26:22",
+    "end": "00:26:24"
+  },
+  {
+    "text": "One of my friends put me on it.",
+    "start": "00:26:24",
+    "end": "00:26:26"
+  },
+  {
+    "text": "It's an app called Waking Up.",
+    "start": "00:26:26",
+    "end": "00:26:27"
+  },
+  {
+    "text": "It's basically a meditation app by Sam Harris, the very popular podcaster.",
+    "start": "00:26:27",
+    "end": "00:26:30"
+  },
+  {
+    "text": "Few interesting things here.",
+    "start": "00:26:30",
+    "end": "00:26:32"
+  },
+  {
+    "text": "First of all, it's a great example of an app that essentially launched with distribution first.",
+    "start": "00:26:32",
+    "end": "00:26:38"
+  },
+  {
+    "text": "You had Sam Harris's podcast, his videos, etc.",
+    "start": "00:26:38",
+    "end": "00:26:39"
+  },
+  {
+    "text": "so he could push the app anyway.",
+    "start": "00:26:39",
+    "end": "00:26:42"
+  },
+  {
+    "text": "But what this is, it's a meditation app, but it's able to sit at the top of the category on price and it proves that a consumer app can sustain real revenue with a small premium payer base.",
+    "start": "00:26:40",
+    "end": "00:26:51"
+  },
+  {
+    "text": "Let me throw you some numbers here, okay?",
+    "start": "00:26:51",
+    "end": "00:26:54"
+  },
+  {
+    "text": "This app charges 20 bucks a month and 150 bucks a year.",
+    "start": "00:26:54",
+    "end": "00:26:56"
+  },
+  {
+    "text": "That is super premium.",
+    "start": "00:26:56",
+    "end": "00:26:58"
+  },
+  {
+    "text": "They're able to do that because Chat GPT reset the month, reset the anchor at 20 bucks a month.",
+    "start": "00:26:57",
+    "end": "00:27:01"
+  },
+  {
+    "text": "When I look on Sensor Tower at the numbers this app's actually doing, this app only gets around 25K downloads a month according to Sensor Tower, but it's pumping over a million dollars in revenue a month because it's charging at such a premium price point.",
+    "start": "00:27:01",
+    "end": "00:27:15"
+  },
+  {
+    "text": ">> That's one of the biggest ratios I've ever seen.",
+    "start": "00:27:14",
+    "end": "00:27:17"
+  },
+  {
+    "text": "Usually like one to one is like standard, maybe one to two or one to three is like pretty good.",
+    "start": "00:27:17",
+    "end": "00:27:22"
+  },
+  {
+    "text": "This is like off the charts.",
+    "start": "00:27:22",
+    "end": "00:27:25"
+  },
+  {
+    "text": ">> It's crazy.",
+    "start": "00:27:23",
+    "end": "00:27:24"
+  },
+  {
+    "text": "It's super super premium, but they're able to do that because I'm I'm a payer for the app, by the way, and even though it's expensive, it is so worth it because the level the quality of content on the app is is exceptional.",
+    "start": "00:27:24",
+    "end": "00:27:35"
+  },
+  {
+    "text": "And no, I'm not sponsored by this app.",
+    "start": "00:27:33",
+    "end": "00:27:36"
+  },
+  {
+    "text": "I don't get any kickbacks for this, but I've been using it every day.",
+    "start": "00:27:36",
+    "end": "00:27:38"
+  },
+  {
+    "text": "It's been amazing.",
+    "start": "00:27:38",
+    "end": "00:27:41"
+  },
+  {
+    "text": ">> Do you think that this is partly because it's Sam Harris?",
+    "start": "00:27:38",
+    "end": "00:27:43"
+  },
+  {
+    "text": "Like how dependent is the conversion rate do you think on like being attached to his persona?",
+    "start": "00:27:43",
+    "end": "00:27:50"
+  },
+  {
+    "text": ">> I think quite high on this app because in the onboarding, the first meditation track you listen to is Sam Harris's voice.",
+    "start": "00:27:48",
+    "end": "00:27:56"
+  },
+  {
+    "text": "So, he's absolutely using his brand here.",
+    "start": "00:27:56",
+    "end": "00:27:58"
+  },
+  {
+    "text": "But there are other examples of this.",
+    "start": "00:27:58",
+    "end": "00:28:00"
+  },
+  {
+    "text": "I mean, you've got Jeff Nippard, the fitness YouTuber.",
+    "start": "00:28:00",
+    "end": "00:28:04"
+  },
+  {
+    "text": "His fitness app, MacroFactor, uses his content to push it.",
+    "start": "00:28:04",
+    "end": "00:28:06"
+  },
+  {
+    "text": "You've got a new app by the guy who did The Subtle Art of Not Giving a >> I was doing research on this.",
+    "start": "00:28:06",
+    "end": "00:28:13"
+  },
+  {
+    "text": "This also has a crazy ratio.",
+    "start": "00:28:13",
+    "end": "00:28:14"
+  },
+  {
+    "text": "Purpose, your AI mentor.",
+    "start": "00:28:14",
+    "end": "00:28:15"
+  },
+  {
+    "text": "It's sort of like an AI therapy app, but a little bit more like Mark Manson vibes.",
+    "start": "00:28:15",
+    "end": "00:28:21"
+  },
+  {
+    "text": "Like you know, self-improvement type of stuff.",
+    "start": "00:28:21",
+    "end": "00:28:23"
+  },
+  {
+    "text": "20K downloads a month, $200,000 in revenue a month.",
+    "start": "00:28:23",
+    "end": "00:28:27"
+  },
+  {
+    "text": "I actually looked at this the day that it launched as well, and it had a a pretty similar ratio.",
+    "start": "00:28:27",
+    "end": "00:28:34"
+  },
+  {
+    "text": "Would you recommend like apps like this launching with big influencers like that that have very deep trust with their audience that will create such a strong conversion rate?",
+    "start": "00:28:32",
+    "end": "00:28:43"
+  },
+  {
+    "text": ">> The answer is yes.",
+    "start": "00:28:41",
+    "end": "00:28:43"
+  },
+  {
+    "text": "The problem is it's super hard to find those people.",
+    "start": "00:28:43",
+    "end": "00:28:46"
+  },
+  {
+    "text": "But if you have connection to a influencer or YouTuber with that kind of trust and distribution, you should be trying to build an app with them cuz you get distribution from day one.",
+    "start": "00:28:46",
+    "end": "00:28:54"
+  },
+  {
+    "text": ">> So, let me show you this.",
+    "start": "00:28:53",
+    "end": "00:28:55"
+  },
+  {
+    "text": "A lot of app founders I talk to have a feeling their app has viral potential, but don't want to be the person brain rot scrolling an hour a day hunting for formats or worse burning thousands on creators shooting videos that just flop.",
+    "start": "00:28:55",
+    "end": "00:29:06"
+  },
+  {
+    "text": "Recently, I've been telling every founder I meet about Spytalk.",
+    "start": "00:29:06",
+    "end": "00:29:09"
+  },
+  {
+    "text": "It's basically an AI TikTok viral marketer that I've seen a lot of top app growth teams using.",
+    "start": "00:29:09",
+    "end": "00:29:15"
+  },
+  {
+    "text": "You just paste a link to your app and this agent scrolls hundreds of thousands of TikToks for you, finds the outlier videos from competitors who've already cracked the best formats that are driving installs in the niche of your app.",
+    "start": "00:29:15",
+    "end": "00:29:25"
+  },
+  {
+    "text": "And then it remixes the hooks, the angles, and then it makes playbooks so you can pretty much copy-paste virality.",
+    "start": "00:29:25",
+    "end": "00:29:31"
+  },
+  {
+    "text": "And then it alerts you when it detects new breakout formats that would also work for your app.",
+    "start": "00:29:31",
+    "end": "00:29:33"
+  },
+  {
+    "text": "This is the only growth tool I 100% vouch for on this channel because there's a ton of gen AI content tools out there, but none of them tell you what to make.",
+    "start": "00:29:33",
+    "end": "00:29:42"
+  },
+  {
+    "text": "Spytalk makes sure you're never in the dark about what's actually working now.",
+    "start": "00:29:42",
+    "end": "00:29:45"
+  },
+  {
+    "text": "I'll put the link in the description.",
+    "start": "00:29:45",
+    "end": "00:29:48"
+  },
+  {
+    "text": ">> So, an acquirer wouldn't discount that at all?",
+    "start": "00:29:47",
+    "end": "00:29:49"
+  },
+  {
+    "text": "Like, oh, this is too attached or too dependent on this person's name?",
+    "start": "00:29:49",
+    "end": "00:29:55"
+  },
+  {
+    "text": "Or does it not matter because that person would probably be included in that in the acquisition anyway?",
+    "start": "00:29:53",
+    "end": "00:30:00"
+  },
+  {
+    "text": ">> Here's the problem.",
+    "start": "00:29:58",
+    "end": "00:30:00"
+  },
+  {
+    "text": "Your distribution is in an individual.",
+    "start": "00:30:00",
+    "end": "00:30:01"
+  },
+  {
+    "text": "Without him or her, you don't have distribution.",
+    "start": "00:30:01",
+    "end": "00:30:05"
+  },
+  {
+    "text": "So, you need to construct the deal in a way that keeps them on board, willing and kind of able to make content for the app.",
+    "start": "00:30:05",
+    "end": "00:30:10"
+  },
+  {
+    "text": "And if they kind of didn't do that, you're going to lose your distribution, which is all the value here.",
+    "start": "00:30:10",
+    "end": "00:30:14"
+  },
+  {
+    "text": "So, it's a tricky deal to negotiate cuz often influencers don't want to do like an earn out, they don't want to stay on board, they've got their own thing going.",
+    "start": "00:30:14",
+    "end": "00:30:20"
+  },
+  {
+    "text": "So, it's quite It can be quite tricky to sell these kind of products.",
+    "start": "00:30:20",
+    "end": "00:30:25"
+  },
+  {
+    "text": ">> Maybe if the if the buyer had access to additional influencers and could kind of like continue the the distribution machine so they're not completely dependent on one.",
+    "start": "00:30:22",
+    "end": "00:30:32"
+  },
+  {
+    "text": ">> Yeah, but like you don't even know if it's going to perform as well until you try it, right?",
+    "start": "00:30:30",
+    "end": "00:30:35"
+  },
+  {
+    "text": "It might not It might actually not perform.",
+    "start": "00:30:35",
+    "end": "00:30:39"
+  },
+  {
+    "text": ">> I I want to ask also about this slide.",
+    "start": "00:30:37",
+    "end": "00:30:40"
+  },
+  {
+    "text": "So, $19.",
+    "start": "00:30:40",
+    "end": "00:30:41"
+  },
+  {
+    "text": "99, like $20 a month is sort of like the the price that consumers are anchored on because of ChatGPT.",
+    "start": "00:30:41",
+    "end": "00:30:48"
+  },
+  {
+    "text": "But, I've seen a lot of apps recently doing weekly versus annual pricing.",
+    "start": "00:30:48",
+    "end": "00:30:53"
+  },
+  {
+    "text": "So, do you still see like seven, eight-figure acquisitions on apps that are doing monthly pricing or are people doing like weekly annual?",
+    "start": "00:30:53",
+    "end": "00:31:02"
+  },
+  {
+    "text": ">> If the weekly is sticky enough, it works.",
+    "start": "00:31:01",
+    "end": "00:31:03"
+  },
+  {
+    "text": "But, weekly tends to work in certain categories.",
+    "start": "00:31:03",
+    "end": "00:31:06"
+  },
+  {
+    "text": "Like for example, dating can be very strong with weekly because people ideally don't want to be on a dating app for like two or three months.",
+    "start": "00:31:06",
+    "end": "00:31:12"
+  },
+  {
+    "text": "They want to be on it and then off it as soon as possible.",
+    "start": "00:31:12",
+    "end": "00:31:14"
+  },
+  {
+    "text": "So, if they can just do it for weekly, it's much better.",
+    "start": "00:31:14",
+    "end": "00:31:16"
+  },
+  {
+    "text": "The other categories where I saw weekly performing really well, in a nutshell, it's apps that you need for a short period of time.",
+    "start": "00:31:16",
+    "end": "00:31:22"
+  },
+  {
+    "text": "There's a bunch of apps now where you can like track people's Instagram actions, like who they're following, who's unfollowing them, who's stalking them, etc.",
+    "start": "00:31:22",
+    "end": "00:31:29"
+  },
+  {
+    "text": "A lot of people use these apps to like stalk their exes.",
+    "start": "00:31:29",
+    "end": "00:31:32"
+  },
+  {
+    "text": "They don't want to be stalking their ex for like three months.",
+    "start": "00:31:31",
+    "end": "00:31:34"
+  },
+  {
+    "text": "They want to do it once, maybe over a week, maybe after a breakup or when they think someone's cheating or whatever, and then get rid of it.",
+    "start": "00:31:34",
+    "end": "00:31:42"
+  },
+  {
+    "text": ">> So, in these short duration apps, weekly works, but weekly tends not to be as good of a long-term strategy.",
+    "start": "00:31:39",
+    "end": "00:31:49"
+  },
+  {
+    "text": ">> So, if you're doing weekly, it you're probably in a category that is not even a good acquisition target.",
+    "start": "00:31:47",
+    "end": "00:31:53"
+  },
+  {
+    "text": "Is that what you're saying?",
+    "start": "00:31:53",
+    "end": "00:31:54"
+  },
+  {
+    "text": "Cuz from the previous rule, like you want sticky revenue.",
+    "start": "00:31:54",
+    "end": "00:31:58"
+  },
+  {
+    "text": "You don't want like short, like weekly revenue.",
+    "start": "00:31:58",
+    "end": "00:32:01"
+  },
+  {
+    "text": ">> Yeah, but the caveat I would add is that not everyone is chasing an exit.",
+    "start": "00:31:59",
+    "end": "00:32:04"
+  },
+  {
+    "text": "And that's completely fine.",
+    "start": "00:32:04",
+    "end": "00:32:05"
+  },
+  {
+    "text": "Like so many people are just chasing like a really strong cash flow business.",
+    "start": "00:32:05",
+    "end": "00:32:09"
+  },
+  {
+    "text": "And and weekly can give you that because you're getting a lot of your revenue very up front.",
+    "start": "00:32:09",
+    "end": "00:32:12"
+  },
+  {
+    "text": "And I was going to say, it kind of comes down to this like, you know, this this idea of founder motivation.",
+    "start": "00:32:12",
+    "end": "00:32:18"
+  },
+  {
+    "text": "And the thing I always say, like when I'm speaking to founders, is like my job as someone who buys apps is actually not sales.",
+    "start": "00:32:16",
+    "end": "00:32:24"
+  },
+  {
+    "text": "Like I cannot convince you to sell your app because in every negotiation process, you kind of come up against bumps and hurdles.",
+    "start": "00:32:24",
+    "end": "00:32:31"
+  },
+  {
+    "text": "And if I've convinced you to sell your app, at the first hurdle, you're going to be like, \"Listen, mate.",
+    "start": "00:32:29",
+    "end": "00:32:34"
+  },
+  {
+    "text": "I didn't really want to do this in the first place.",
+    "start": "00:32:34",
+    "end": "00:32:35"
+  },
+  {
+    "text": "\" And a lot of people, they don't want to sell.",
+    "start": "00:32:35",
+    "end": "00:32:37"
+  },
+  {
+    "text": "And they just want to have a nice cash flow business, >> [music] >> good EBITDA margins, and you know, everyone's motivations is different, especially with apps that are very personal projects, very personal businesses to people.",
+    "start": "00:32:37",
+    "end": "00:32:48"
+  },
+  {
+    "text": ">> But the $20 a month thing is is interesting.",
+    "start": "00:32:47",
+    "end": "00:32:50"
+  },
+  {
+    "text": "Like I think if people are building like weekly versus annual subscription apps and the churn is high, then sure, maybe it's a good cash flow business, but maybe consider it like like ways to reframe your app to be in a category that can afford to charge $20 a month because that $20 a month, yeah, I think you're right, is like people are definitely more anchored onto it now because of ChatGPT.",
+    "start": "00:32:50",
+    "end": "00:33:17"
+  },
+  {
+    "text": "And [music] $20 a month is better than $10 a week [music] if the $10 a week churns like most of the time after 1 week.",
+    "start": "00:33:16",
+    "end": "00:33:25"
+  },
+  {
+    "text": "And it's better for the multiple.",
+    "start": "00:33:25",
+    "end": "00:33:26"
+  },
+  {
+    "text": "That is a good insight.",
+    "start": "00:33:26",
+    "end": "00:33:29"
+  },
+  {
+    "text": "Like the the $20 price point.",
+    "start": "00:33:29",
+    "end": "00:33:31"
+  },
+  {
+    "text": ">> Yeah, it's a good way of framing it.",
+    "start": "00:33:30",
+    "end": "00:33:34"
+  },
+  {
+    "text": "If you jump two slides forward, but I think the main takeaway for founders, if you do one more slide, the main takeaway is if you're charging under 10 bucks a month, even if you're not sure your app can command a $20 a month price, just try it.",
+    "start": "00:33:34",
+    "end": "00:33:46"
+  },
+  {
+    "text": "Start pushing up the price, do some AB tests.",
+    "start": "00:33:46",
+    "end": "00:33:49"
+  },
+  {
+    "text": "Don't test it on your whole audience, section it.",
+    "start": "00:33:49",
+    "end": "00:33:50"
+  },
+  {
+    "text": "So, you test it on 10, 15, 20% of the audience.",
+    "start": "00:33:50",
+    "end": "00:33:53"
+  },
+  {
+    "text": "But just start pushing up that number and see where the numbers start to break.",
+    "start": "00:33:53",
+    "end": "00:33:57"
+  },
+  {
+    "text": "Try and find the ceiling.",
+    "start": "00:33:57",
+    "end": "00:33:58"
+  },
+  {
+    "text": "I think it's really important.",
+    "start": "00:33:58",
+    "end": "00:34:01"
+  },
+  {
+    "text": ">> Was there something on this slide, too?",
+    "start": "00:33:59",
+    "end": "00:34:02"
+  },
+  {
+    "text": ">> Yeah, we kind of covered it.",
+    "start": "00:34:01",
+    "end": "00:34:03"
+  },
+  {
+    "text": "It's basically giving some examples um about the anchors, but we kind of went over it.",
+    "start": "00:34:03",
+    "end": "00:34:09"
+  },
+  {
+    "text": ">> Photo Room is charging 15 to to 30 a month.",
+    "start": "00:34:05",
+    "end": "00:34:12"
+  },
+  {
+    "text": "They're at 50 million ARR, and then Calm is $70 a year.",
+    "start": "00:34:10",
+    "end": "00:34:14"
+  },
+  {
+    "text": "And so, so you're saying like Calm is like the is the more premium.",
+    "start": "00:34:14",
+    "end": "00:34:20"
+  },
+  {
+    "text": ">> It used to be like a few years back, but I mean, we just looked at Sam Harris's one, which is doing 20 bucks a month.",
+    "start": "00:34:18",
+    "end": "00:34:26"
+  },
+  {
+    "text": "So, that ceiling is is almost being pushed up already.",
+    "start": "00:34:24",
+    "end": "00:34:28"
+  },
+  {
+    "text": "I mean, Sam Harris's app is charging 150 bucks a a It's crazy.",
+    "start": "00:34:28",
+    "end": "00:34:31"
+  },
+  {
+    "text": "It's more than Yeah, it's more than double what Calm is doing.",
+    "start": "00:34:31",
+    "end": "00:34:36"
+  },
+  {
+    "text": "So, we did a few like very numbers-based, very factual-based rules.",
+    "start": "00:34:36",
+    "end": "00:34:39"
+  },
+  {
+    "text": "This is really important.",
+    "start": "00:34:39",
+    "end": "00:34:40"
+  },
+  {
+    "text": "This is now more about the narrative and the negotiation.",
+    "start": "00:34:40",
+    "end": "00:34:43"
+  },
+  {
+    "text": "And the point here is like when you're thinking about selling and you're kind of building up to that moment, your job as the founder or the CEO is to build a story.",
+    "start": "00:34:43",
+    "end": "00:34:49"
+  },
+  {
+    "text": "It's to build a narrative.",
+    "start": "00:34:49",
+    "end": "00:34:50"
+  },
+  {
+    "text": "This is something that investment banks help with.",
+    "start": "00:34:50",
+    "end": "00:34:53"
+  },
+  {
+    "text": "It's something that brokers help with.",
+    "start": "00:34:53",
+    "end": "00:34:55"
+  },
+  {
+    "text": "But essentially, you're trying to build the growth story so the buyer believes that what they're buying today will be worth [music] more in the future.",
+    "start": "00:34:55",
+    "end": "00:35:02"
+  },
+  {
+    "text": "Sounds really simple when I put it this way, but it's your job to convince someone that that is the case.",
+    "start": "00:35:02",
+    "end": "00:35:07"
+  },
+  {
+    "text": "And you can do that through your numbers, through the story, through the growth plan, product roadmap, etc.",
+    "start": "00:35:07",
+    "end": "00:35:11"
+  },
+  {
+    "text": "But when you're doing this, you want to make sure that you're building the story for the right buyer because there are different buyers.",
+    "start": "00:35:11",
+    "end": "00:35:19"
+  },
+  {
+    "text": "There are actually four different buyers here.",
+    "start": "00:35:18",
+    "end": "00:35:20"
+  },
+  {
+    "text": "And there is a fifth one, which is IPO, another exit opportunity, but only 2% of consumer companies um actually make it that far.",
+    "start": "00:35:20",
+    "end": "00:35:27"
+  },
+  {
+    "text": "So, it's kind of irrelevant for most of us.",
+    "start": "00:35:27",
+    "end": "00:35:28"
+  },
+  {
+    "text": "Otherwise, we have four different types of buyers.",
+    "start": "00:35:28",
+    "end": "00:35:31"
+  },
+  {
+    "text": "We have the aggregators and the hold companies and the platforms, which are people like Blue Throne, where we're essentially looking for strong traffic, uh strong products with recurring revenue, clean books, and we're looking at our ability to essentially look at this app and say, \"Can I 10x this?",
+    "start": "00:35:31",
+    "end": "00:35:46"
+  },
+  {
+    "text": "Can I take it to the next level?",
+    "start": "00:35:46",
+    "end": "00:35:47"
+  },
+  {
+    "text": "Can I hold it for a multiple multi-year lifetime?",
+    "start": "00:35:47",
+    "end": "00:35:50"
+  },
+  {
+    "text": "\" Next, you have the strategics.",
+    "start": "00:35:50",
+    "end": "00:35:51"
+  },
+  {
+    "text": "The strategics are generally willing to pay the highest multiples because they have the most synergies available.",
+    "start": "00:35:51",
+    "end": "00:35:56"
+  },
+  {
+    "text": "Strava to Runner is a great example of this.",
+    "start": "00:35:56",
+    "end": "00:35:59"
+  },
+  {
+    "text": "In this situation, Strava noticed that they were really good >> [music] >> at retaining hardcore runners, but they were really bad at attracting beginner runners runners because people looked at Strava and they were kind of intimidated.",
+    "start": "00:35:59",
+    "end": "00:36:11"
+  },
+  {
+    "text": "It was so social.",
+    "start": "00:36:11",
+    "end": "00:36:13"
+  },
+  {
+    "text": "They were comparing themselves to other people, but they had never run a 5K before.",
+    "start": "00:36:13",
+    "end": "00:36:17"
+  },
+  {
+    "text": "It's kind of scary.",
+    "start": "00:36:17",
+    "end": "00:36:17"
+  },
+  {
+    "text": "And Runner built their whole brand identity on Couch to 5K.",
+    "start": "00:36:17",
+    "end": "00:36:22"
+  },
+  {
+    "text": "\"We're going to help you do your first 5K.",
+    "start": "00:36:21",
+    "end": "00:36:24"
+  },
+  {
+    "text": "\" So, when Strava bought Runner, they really bought it as an extension of their funnel.",
+    "start": "00:36:24",
+    "end": "00:36:28"
+  },
+  {
+    "text": "So, a user starts with with Runner, they get to their first 5K, and then they graduate now into Strava, and it becomes one long beautiful funnel.",
+    "start": "00:36:28",
+    "end": "00:36:36"
+  },
+  {
+    "text": "That's one example there.",
+    "start": "00:36:36",
+    "end": "00:36:39"
+  },
+  {
+    "text": "The third example of a another type of buyer is private equity.",
+    "start": "00:36:37",
+    "end": "00:36:41"
+  },
+  {
+    "text": "These guys are looking for predictable cash flows plus strong EBITDA margins, and they'll pay heavy for really category leading stuff.",
+    "start": "00:36:41",
+    "end": "00:36:50"
+  },
+  {
+    "text": "One example here is when Francisco Partners invested money into MyFitnessPal.",
+    "start": "00:36:48",
+    "end": "00:36:52"
+  },
+  {
+    "text": "Uh the problem with private equity for a lot of app founders is that >> [music] >> the private equity guys don't have the talent to manage your app.",
+    "start": "00:36:52",
+    "end": "00:36:59"
+  },
+  {
+    "text": "So, what does that mean?",
+    "start": "00:36:59",
+    "end": "00:37:00"
+  },
+  {
+    "text": "It means you as the founder have to stay on board and run the thing for 3 to 5 years.",
+    "start": "00:37:00",
+    "end": "00:37:04"
+  },
+  {
+    "text": "Can be shorter, can be longer, but they're going to need you.",
+    "start": "00:37:04",
+    "end": "00:37:09"
+  },
+  {
+    "text": "Whereas with the aggregators like like Blue Throne for example, you know, we have all the chops and the talent to essentially manage and run the app.",
+    "start": "00:37:07",
+    "end": "00:37:14"
+  },
+  {
+    "text": "So, >> [music] >> if you want to join us and run with us, amazing, we love that.",
+    "start": "00:37:14",
+    "end": "00:37:18"
+  },
+  {
+    "text": "Um but also if you want to leave and kind of take your cash and do your next next project, we have the ability to facilitate that.",
+    "start": "00:37:18",
+    "end": "00:37:25"
+  },
+  {
+    "text": "Then finally, we have also kind of a niche category, which is where it's an acquihire or an IP buyer.",
+    "start": "00:37:23",
+    "end": "00:37:30"
+  },
+  {
+    "text": "And this is where you have a team model or IP and extraordinary capabilities that aren't very commonly found in the market.",
+    "start": "00:37:30",
+    "end": "00:37:36"
+  },
+  {
+    "text": "When Google invested in Character AI, this is one of the examples.",
+    "start": "00:37:36",
+    "end": "00:37:39"
+  },
+  {
+    "text": "This is kind of rare with consumer apps because most consumer apps don't have [music] you know, category leading technology that someone else couldn't build.",
+    "start": "00:37:39",
+    "end": "00:37:47"
+  },
+  {
+    "text": "I mean, most consumer apps that we know of you can build them yourself if you really wanted to.",
+    "start": "00:37:47",
+    "end": "00:37:50"
+  },
+  {
+    "text": "So, less relevant.",
+    "start": "00:37:50",
+    "end": "00:37:52"
+  },
+  {
+    "text": "I think for people listening to this that are really trying to think about their exit, think about those first three, aggregators, strategics, and private equity, and and think about the one that makes the most sense for you, and then try and build the story of your app for those people.",
+    "start": "00:37:52",
+    "end": "00:38:06"
+  },
+  {
+    "text": "Once you've decided which acquirer probably makes the most sense for your app, start building the network, start building the relationship maybe 12 months to 6 months in advance because as a CEO or founder, your job is to make sure that there is a level of trust, there's a level of relationship building with the people about to buy your app.",
+    "start": "00:38:06",
+    "end": "00:38:23"
+  },
+  {
+    "text": "So, what I would do, find your targets, read about their last five deals, try and understand why they bought what they bought.",
+    "start": "00:38:23",
+    "end": "00:38:32"
+  },
+  {
+    "text": "Do a little bit of Sherlock Holmes on it.",
+    "start": "00:38:31",
+    "end": "00:38:32"
+  },
+  {
+    "text": "Try and be a detective there.",
+    "start": "00:38:32",
+    "end": "00:38:34"
+  },
+  {
+    "text": "And then once you have a good understanding of that, build the net metric narrative that they want to see.",
+    "start": "00:38:34",
+    "end": "00:38:40"
+  },
+  {
+    "text": "I'll give you an example.",
+    "start": "00:38:39",
+    "end": "00:38:41"
+  },
+  {
+    "text": "Strava and Runtastic.",
+    "start": "00:38:41",
+    "end": "00:38:41"
+  },
+  {
+    "text": "What metric do we think Strava wanted to see with Runtastic?",
+    "start": "00:38:41",
+    "end": "00:38:46"
+  },
+  {
+    "text": "Now, I'm guessing, I wasn't part of the deal.",
+    "start": "00:38:44",
+    "end": "00:38:46"
+  },
+  {
+    "text": "This is like an educated guess here.",
+    "start": "00:38:46",
+    "end": "00:38:48"
+  },
+  {
+    "text": "But they probably want to see top of the funnel.",
+    "start": "00:38:48",
+    "end": "00:38:51"
+  },
+  {
+    "text": "They want to see how many new people that weren't runners or were kind of beginner runners are they is Runtastic able to onboard onto the app?",
+    "start": "00:38:51",
+    "end": "00:39:00"
+  },
+  {
+    "text": "And how many of those people actually graduate to the point of they're running a 5K and they're willing to move up to the level of of Strava and start to be public about their runs.",
+    "start": "00:38:58",
+    "end": "00:39:10"
+  },
+  {
+    "text": ">> That's like a good strategic one where it's like a yeah, very specific metric which is you know, you're trying to graduate these users to become these other type of users.",
+    "start": "00:39:07",
+    "end": "00:39:21"
+  },
+  {
+    "text": "Would you Do you think that Calorie AI and MyFitnessPal is likely a a similar strategic where they're trying to get like younger users like kind of eventually graduating into the MyFitnessPal level of product?",
+    "start": "00:39:21",
+    "end": "00:39:37"
+  },
+  {
+    "text": ">> Yeah, I think I hadn't thought about it in that framing.",
+    "start": "00:39:35",
+    "end": "00:39:38"
+  },
+  {
+    "text": "I think you're right because the kind of viral effect of the food scanning is one element that MyFitnessPal has, but they have a whole suite of other capabilities that they probably want consumers to level up to.",
+    "start": "00:39:38",
+    "end": "00:39:50"
+  },
+  {
+    "text": "The other thing I would add is that they weren't buying tech.",
+    "start": "00:39:48",
+    "end": "00:39:52"
+  },
+  {
+    "text": "MyFitnessPal is not buying the tech of Calorie AI.",
+    "start": "00:39:52",
+    "end": "00:39:55"
+  },
+  {
+    "text": "I think they were also buying the funnel.",
+    "start": "00:39:55",
+    "end": "00:39:57"
+  },
+  {
+    "text": "Zach and the team are incredibly good distributors and they understand top of the funnel really really well in a way that MyFitnessPal doesn't.",
+    "start": "00:39:57",
+    "end": "00:40:04"
+  },
+  {
+    "text": "And so I think the real value there was was buying their ability to attract new users and keep new blood coming into Calorie AI which hopefully they can graduate to MyFitnessPal.",
+    "start": "00:40:04",
+    "end": "00:40:15"
+  },
+  {
+    "text": ">> Is that a niche that Blue Throne doesn't look at as much where you guys care more about retention versus some other acquirers might care more about the distribution engine?",
+    "start": "00:40:12",
+    "end": "00:40:24"
+  },
+  {
+    "text": ">> Not at all, because if you've got a distribution engine that works, that can bring in consistent critical amounts of traffic, actually could be an amazing fit for Booth Room because a lot of our specialty is around product work and and monetization.",
+    "start": "00:40:22",
+    "end": "00:40:36"
+  },
+  {
+    "text": "So, if your app is bringing in the users but struggling to retain them, a lot of the value we've brought to apps in the past is actually doing a lot of hard work on the product to make sure the users you've worked hard to bring in are actually hanging around.",
+    "start": "00:40:36",
+    "end": "00:40:50"
+  },
+  {
+    "text": ">> Would that affect the multiple?",
+    "start": "00:40:48",
+    "end": "00:40:52"
+  },
+  {
+    "text": "Like do you value certain certain aspects like retention versus distribution differently in terms of the multiple?",
+    "start": "00:40:52",
+    "end": "00:40:57"
+  },
+  {
+    "text": ">> Yeah, I mean ideally you want both, but it again it depends on on the category as well which has a higher weighting.",
+    "start": "00:40:56",
+    "end": "00:41:02"
+  },
+  {
+    "text": "Ideally you want something that brings in users and retains them, but if you're coming to market or you're coming to to me or to Booth Room with an app that says, \"Listen, I'm getting 60,000 downloads organically a month, they're just not hanging around.",
+    "start": "00:41:00",
+    "end": "00:41:14"
+  },
+  {
+    "text": "\" That's pretty interesting because there's a lot we can do with that.",
+    "start": "00:41:14",
+    "end": "00:41:16"
+  },
+  {
+    "text": "The kind of deals that I I love to see in those situations are when a founder comes to me and says, \"Listen, we've got distribution, we haven't figured out product.",
+    "start": "00:41:16",
+    "end": "00:41:22"
+  },
+  {
+    "text": "I want to use Booth Room's resources and experience to to essentially figure out product with you guys.",
+    "start": "00:41:22",
+    "end": "00:41:29"
+  },
+  {
+    "text": "And then, you know, we've done a couple of deals like that where we end up getting really outsized returns for both the founder and us um by combining those two things together.",
+    "start": "00:41:27",
+    "end": "00:41:37"
+  },
+  {
+    "text": ">> Speaking of like the team capabilities, what are what resources do you add?",
+    "start": "00:41:35",
+    "end": "00:41:41"
+  },
+  {
+    "text": "Not just Booth Room, but like in general, like what what should people be looking for in terms of like what talent and what resources will be invested after after the close?",
+    "start": "00:41:41",
+    "end": "00:41:50"
+  },
+  {
+    "text": ">> We've structured ourselves to essentially be able to cover like all the bases that potentially an indie app founder might not be able to cover.",
+    "start": "00:41:49",
+    "end": "00:41:58"
+  },
+  {
+    "text": "So, we're 70 people right now, 7-0, and that includes infrastructure, R&D, QA, um distribution, growth, monetization, ad monetization, CFO functions, HR functions.",
+    "start": "00:41:58",
+    "end": "00:42:09"
+  },
+  {
+    "text": "And the whole idea is we want to find apps that are great standalone apps and kind of level them up into a standalone business, like something that can really stand on its own two feet.",
+    "start": "00:42:09",
+    "end": "00:42:19"
+  },
+  {
+    "text": "So, we try and bring all those pieces needed, which has worked really well for us.",
+    "start": "00:42:17",
+    "end": "00:42:21"
+  },
+  {
+    "text": "But, you know, different acquirers bring different things to the table.",
+    "start": "00:42:21",
+    "end": "00:42:25"
+  },
+  {
+    "text": "Some people are much better at distribution.",
+    "start": "00:42:24",
+    "end": "00:42:26"
+  },
+  {
+    "text": "Some people are much better at ad monetization.",
+    "start": "00:42:26",
+    "end": "00:42:29"
+  },
+  {
+    "text": "Um it really depends on what you're looking for.",
+    "start": "00:42:29",
+    "end": "00:42:31"
+  },
+  {
+    "text": "And I think one big tip I'd give to any founder having any discussion around the next exit is really ask the buyer what their main skills are moving the needle.",
+    "start": "00:42:31",
+    "end": "00:42:40"
+  },
+  {
+    "text": "What have they done on past deals that gave them their returns?",
+    "start": "00:42:40",
+    "end": "00:42:46"
+  },
+  {
+    "text": "Was it adding ads?",
+    "start": "00:42:46",
+    "end": "00:42:45"
+  },
+  {
+    "text": "Was it price testing?",
+    "start": "00:42:45",
+    "end": "00:42:48"
+  },
+  {
+    "text": "Was it product features?",
+    "start": "00:42:48",
+    "end": "00:42:48"
+  },
+  {
+    "text": "And you can use that to really get a good understanding of what this person is going to do with your app once they buy it.",
+    "start": "00:42:48",
+    "end": "00:42:55"
+  },
+  {
+    "text": ">> And implicitly, like you're you're sort of also asking like what are you missing?",
+    "start": "00:42:53",
+    "end": "00:42:57"
+  },
+  {
+    "text": "Like if they say, \"Oh, we're really great at building features for retention.",
+    "start": "00:42:57",
+    "end": "00:43:01"
+  },
+  {
+    "text": "\" Then now you know, \"Okay, well, I should pitch them.",
+    "start": "00:43:01",
+    "end": "00:43:05"
+  },
+  {
+    "text": "Hey, I have a great distribution engine.",
+    "start": "00:43:05",
+    "end": "00:43:08"
+  },
+  {
+    "text": "And then you guys combine that with your retention and then it'll be a great outcome.",
+    "start": "00:43:08",
+    "end": "00:43:13"
+  },
+  {
+    "text": "\" >> I love this rule because you could get all the other rules right, but if you mess this up, it's all irrelevant.",
+    "start": "00:43:13",
+    "end": "00:43:19"
+  },
+  {
+    "text": "This is like the single biggest needle mover in your your selling process.",
+    "start": "00:43:19",
+    "end": "00:43:25"
+  },
+  {
+    "text": "Sell before you need to.",
+    "start": "00:43:23",
+    "end": "00:43:25"
+  },
+  {
+    "text": "The biggest predictor of your like exit price or the success of your exit is your alternative to the exit.",
+    "start": "00:43:25",
+    "end": "00:43:33"
+  },
+  {
+    "text": "What do I mean by this?",
+    "start": "00:43:31",
+    "end": "00:43:34"
+  },
+  {
+    "text": "If your company is struggling, growth is slowing down, and you don't sell, and your only option option right now is to sell, you're in a pretty tough position.",
+    "start": "00:43:34",
+    "end": "00:43:42"
+  },
+  {
+    "text": "You don't have a lot of negotiating leverage.",
+    "start": "00:43:42",
+    "end": "00:43:44"
+  },
+  {
+    "text": "But, if you're in a great place, you're growing, the future looks bright, you just on boarded a couple of new guys, and you don't need to sell right now, you can come into a negotiation like with with with a lot of strength, you know?",
+    "start": "00:43:43",
+    "end": "00:43:53"
+  },
+  {
+    "text": "You you don't need to sell.",
+    "start": "00:43:53",
+    "end": "00:43:55"
+  },
+  {
+    "text": "You'll take a great deal with the right person.",
+    "start": "00:43:55",
+    "end": "00:43:57"
+  },
+  {
+    "text": "You don't have to.",
+    "start": "00:43:56",
+    "end": "00:43:57"
+  },
+  {
+    "text": "We can see the story play out with MyFitnessPal, you know, in 2015, Under Armour paid 475 million for it, and they're paying for the future growth.",
+    "start": "00:43:57",
+    "end": "00:44:04"
+  },
+  {
+    "text": "That's why they're paying a premium.",
+    "start": "00:44:04",
+    "end": "00:44:08"
+  },
+  {
+    "text": "But, the growth slowed down.",
+    "start": "00:44:06",
+    "end": "00:44:09"
+  },
+  {
+    "text": "You know, the the peak was in the past.",
+    "start": "00:44:09",
+    "end": "00:44:11"
+  },
+  {
+    "text": "And so when that second deal came around in 2020, and Francisco Partners bought MyFitnessPal, they paid over 100 million less for it because they weren't buying the future as much as they were paying for the past.",
+    "start": "00:44:11",
+    "end": "00:44:23"
+  },
+  {
+    "text": "And so it's really about making sure you come to the table A, fully committed to a sale, like this is what you want, you've thought about it, you've built your priority list, but making sure that it's not your only option.",
+    "start": "00:44:21",
+    "end": "00:44:32"
+  },
+  {
+    "text": "Making sure that you've thought about other alternatives at the same time.",
+    "start": "00:44:32",
+    "end": "00:44:36"
+  },
+  {
+    "text": ">> At what point do you think growth becomes a a credible story?",
+    "start": "00:44:34",
+    "end": "00:44:40"
+  },
+  {
+    "text": "Is it like [music] 12 months straight of increasing growth every month?",
+    "start": "00:44:40",
+    "end": "00:44:44"
+  },
+  {
+    "text": "Or can you do it from like 3 months after launch?",
+    "start": "00:44:44",
+    "end": "00:44:48"
+  },
+  {
+    "text": "Like what's a what really like reads as trajectory to a buyer?",
+    "start": "00:44:48",
+    "end": "00:44:52"
+  },
+  {
+    "text": ">> The more consistency you have, the better the story.",
+    "start": "00:44:51",
+    "end": "00:44:54"
+  },
+  {
+    "text": "I mean, 12 months is way more convincing than 3 months.",
+    "start": "00:44:54",
+    "end": "00:44:58"
+  },
+  {
+    "text": "3 months of growth could really be distilled down to like three viral videos.",
+    "start": "00:44:56",
+    "end": "00:45:01"
+  },
+  {
+    "text": "But 12 months of growth means you have a machine that produces viral videos.",
+    "start": "00:45:01",
+    "end": "00:45:08"
+  },
+  {
+    "text": ">> Is that like a a threshold, like 12 months, or is it maybe somewhere in between there?",
+    "start": "00:45:05",
+    "end": "00:45:13"
+  },
+  {
+    "text": ">> Not necessarily because uh you know, with the 3-month growth stories, you could be jumping on a train very early.",
+    "start": "00:45:11",
+    "end": "00:45:18"
+  },
+  {
+    "text": "And then you could be saying, \"Okay, we want to ride this thing and actually take it to the top.",
+    "start": "00:45:17",
+    "end": "00:45:20"
+  },
+  {
+    "text": "\" And there's a lot of growth and kind of opportunity for you to absorb.",
+    "start": "00:45:20",
+    "end": "00:45:23"
+  },
+  {
+    "text": "Whereas with the 12-month, you know, maybe it's been growing for so long that it's actually starting to peter out.",
+    "start": "00:45:23",
+    "end": "00:45:29"
+  },
+  {
+    "text": "You don't know.",
+    "start": "00:45:29",
+    "end": "00:45:30"
+  },
+  {
+    "text": "But um I think it all comes down to this idea which I talk about quite a lot, which is price is on a sliding scale.",
+    "start": "00:45:28",
+    "end": "00:45:36"
+  },
+  {
+    "text": "And all of these different pieces we're discussing, 12 months of growth, 3 months of growth, optimizing for distribution or retention or product, all of this is affecting like this kind of sliding scale of how the app exits when it's ready to exit.",
+    "start": "00:45:36",
+    "end": "00:45:50"
+  },
+  {
+    "text": ">> It's all a range, but the I guess the longer you've been growing, the the the higher multiple you're you're going to get, like closer to that 6X.",
+    "start": "00:45:48",
+    "end": "00:45:59"
+  },
+  {
+    "text": ">> What this boils down to is is don't try and time your peak.",
+    "start": "00:45:57",
+    "end": "00:46:01"
+  },
+  {
+    "text": "You don't want to be selling after your peak.",
+    "start": "00:46:01",
+    "end": "00:46:04"
+  },
+  {
+    "text": "You want to basically let the buyer pay for the peak that's coming in the future.",
+    "start": "00:46:04",
+    "end": "00:46:08"
+  },
+  {
+    "text": "That's how you're going to get a much better outcome for yourself.",
+    "start": "00:46:08",
+    "end": "00:46:10"
+  },
+  {
+    "text": "Let the buyer pay for what's coming in the future as opposed to waiting, trying to perfectly time the peak, and then selling at the peak.",
+    "start": "00:46:10",
+    "end": "00:46:16"
+  },
+  {
+    "text": "You will never time effectively.",
+    "start": "00:46:16",
+    "end": "00:46:19"
+  },
+  {
+    "text": "It's completely out of your control.",
+    "start": "00:46:17",
+    "end": "00:46:20"
+  },
+  {
+    "text": "So, the idea is to kind of do it a little bit of before.",
+    "start": "00:46:20",
+    "end": "00:46:21"
+  },
+  {
+    "text": "So, kind of the same idea with like stocks, right?",
+    "start": "00:46:21",
+    "end": "00:46:24"
+  },
+  {
+    "text": "You know, you want to try and time the peak ideally, but you never can.",
+    "start": "00:46:24",
+    "end": "00:46:27"
+  },
+  {
+    "text": "So, it's all about selling before the peak.",
+    "start": "00:46:27",
+    "end": "00:46:30"
+  },
+  {
+    "text": ">> Like if someone is really on fire with their distribution, and they found a channel that really works, and they're starting to scale it, is there a certain point where you look at that, and you think that that's a good acquisition target?",
+    "start": "00:46:28",
+    "end": "00:46:43"
+  },
+  {
+    "text": ">> we target any apps doing around 400k a year minimum all the way up to like 15 million a year.",
+    "start": "00:46:39",
+    "end": "00:46:49"
+  },
+  {
+    "text": "Um so, we can catch apps at very different uh times on their journey.",
+    "start": "00:46:47",
+    "end": "00:46:54"
+  },
+  {
+    "text": "The biggest thing influencing our decision as to whether we crack on with something or not is do we believe we can take it to the next level?",
+    "start": "00:46:54",
+    "end": "00:46:59"
+  },
+  {
+    "text": "You know, there are some apps I see where I'm like, I actually cannot grow this thing anymore.",
+    "start": "00:46:59",
+    "end": "00:47:05"
+  },
+  {
+    "text": "Like you've done a fantastic job.",
+    "start": "00:47:05",
+    "end": "00:47:06"
+  },
+  {
+    "text": "Um you've maxed out all the distribution channels.",
+    "start": "00:47:06",
+    "end": "00:47:09"
+  },
+  {
+    "text": "Your pricing is super efficient.",
+    "start": "00:47:09",
+    "end": "00:47:11"
+  },
+  {
+    "text": "You've tested it like like crazy.",
+    "start": "00:47:11",
+    "end": "00:47:12"
+  },
+  {
+    "text": "There's just not much I can do.",
+    "start": "00:47:12",
+    "end": "00:47:13"
+  },
+  {
+    "text": "In that situation, it's amazing for the founder.",
+    "start": "00:47:13",
+    "end": "00:47:15"
+  },
+  {
+    "text": "You're probably living off great great cash flows.",
+    "start": "00:47:15",
+    "end": "00:47:16"
+  },
+  {
+    "text": "But from a buyer's perspective, there is just not much I can do with it.",
+    "start": "00:47:16",
+    "end": "00:47:21"
+  },
+  {
+    "text": ">> At that point, would you would you look at like a private equity, or are there certain different kinds of buyers that would value that type of asset more even if it's not growing fast?",
+    "start": "00:47:19",
+    "end": "00:47:30"
+  },
+  {
+    "text": ">> If you think you've peaked, then a private equity is probably a pretty good buyer for you because they're looking for like solid reliable cash flows.",
+    "start": "00:47:29",
+    "end": "00:47:38"
+  },
+  {
+    "text": "But if you think the peak is yet to come, and you need a few pieces you're missing to hit the peak, then Blue Throne's probably a great option.",
+    "start": "00:47:38",
+    "end": "00:47:44"
+  },
+  {
+    "text": "Other aggregators, platforms are a great option because they'll be trying to give you what you need to get to the peak.",
+    "start": "00:47:44",
+    "end": "00:47:49"
+  },
+  {
+    "text": "That's it.",
+    "start": "00:47:49",
+    "end": "00:47:50"
+  },
+  {
+    "text": "They're the rules summed up.",
+    "start": "00:47:50",
+    "end": "00:47:52"
+  },
+  {
+    "text": "Even if you follow all of these rules, and you don't get your nine figures, don't come at me.",
+    "start": "00:47:52",
+    "end": "00:47:56"
+  },
+  {
+    "text": "It's not a uh actual science.",
+    "start": "00:47:56",
+    "end": "00:47:57"
+  },
+  {
+    "text": "I was just trying to give a little bit of insight on on kind of what I've seen >> [music] >> being in this this business for like almost 6 years now.",
+    "start": "00:47:57",
+    "end": "00:48:03"
+  },
+  {
+    "text": "But, I think the most important thing is to really be thinking about these things earlier on and thinking about how you build like healthy, sustainable, growth-driven app businesses.",
+    "start": "00:48:03",
+    "end": "00:48:12"
+  },
+  {
+    "text": "But, it's a very exciting time.",
+    "start": "00:48:12",
+    "end": "00:48:13"
+  },
+  {
+    "text": "I mean, the the amount of new apps we're seeing popping off doing crazy things, I think we're going to see a couple of really incredible outsize returns from this period in the next few years.",
+    "start": "00:48:13",
+    "end": "00:48:23"
+  },
+  {
+    "text": ">> One last question, cuz I think there's a decent chunk of the audience that is doing maybe like six figures a year in revenue, and they're probably looking at these things and thinking about like okay, maybe if I want to exit in the future, how can I make some decisions now that will change the trajectory of like how I build a company?",
+    "start": "00:48:22",
+    "end": "00:48:44"
+  },
+  {
+    "text": "Would you say that there are any levers that you can pull like earlier in the like six-figure ARR journey that can really help optimize for this?",
+    "start": "00:48:44",
+    "end": "00:48:55"
+  },
+  {
+    "text": "Absolutely.",
+    "start": "00:48:53",
+    "end": "00:48:54"
+  },
+  {
+    "text": "So, number one, the earlier you can fix organic traffic, the better.",
+    "start": "00:48:54",
+    "end": "00:48:58"
+  },
+  {
+    "text": "It's hard, but the earlier you crack it, the much better for you.",
+    "start": "00:48:58",
+    "end": "00:49:03"
+  },
+  {
+    "text": "You don't want to be stuck at 10 million ARR fully reliant on UA.",
+    "start": "00:49:01",
+    "end": "00:49:06"
+  },
+  {
+    "text": ">> [music] >> So, try and crack organic early even at the small scales.",
+    "start": "00:49:06",
+    "end": "00:49:09"
+  },
+  {
+    "text": "Second thing is, you should be testing pricing, you should be testing uh UI UX on your paywall, you should be testing color schemes, fonts early, frequently.",
+    "start": "00:49:09",
+    "end": "00:49:19"
+  },
+  {
+    "text": "I remember seeing a graph of like the Flow team, and they were running like over 100 experiments a month.",
+    "start": "00:49:19",
+    "end": "00:49:23"
+  },
+  {
+    "text": "Like, you need to be pushing the number of experiments you're doing.",
+    "start": "00:49:23",
+    "end": "00:49:26"
+  },
+  {
+    "text": "And then you get the final piece of advice I would give is that don't try and do too many distribution channels at once, especially on the paid side.",
+    "start": "00:49:26",
+    "end": "00:49:36"
+  },
+  {
+    "text": "You probably haven't found the ceiling of the distribution channel you're focusing on right now.",
+    "start": "00:49:34",
+    "end": "00:49:41"
+  },
+  {
+    "text": "Push push and push until you find the ceiling when ROAS curves start to be less favorable towards you, then start to find the next channel.",
+    "start": "00:49:39",
+    "end": "00:49:46"
+  },
+  {
+    "text": "But, really try and find those ceilings before you jump ship because it's all about developing talent and specialty with the channels you're currently on.",
+    "start": "00:49:46",
+    "end": "00:49:55"
+  },
+  {
+    "text": "You want to make sure you're a master.",
+    "start": "00:49:55",
+    "end": "00:49:57"
+  },
+  {
+    "text": ">> Thanks for being on the pod, Josh.",
+    "start": "00:49:56",
+    "end": "00:49:58"
+  },
+  {
+    "text": "What How can people find you?",
+    "start": "00:49:58",
+    "end": "00:50:00"
+  },
+  {
+    "text": ">> So, people can always ping me an email.",
+    "start": "00:49:59",
+    "end": "00:50:02"
+  },
+  {
+    "text": "Always very, very happy to chat.",
+    "start": "00:50:00",
+    "end": "00:50:03"
+  },
+  {
+    "text": "You can also find me on LinkedIn.",
+    "start": "00:50:03",
+    "end": "00:50:04"
+  },
+  {
+    "text": "I tend to reply to pretty much everything.",
+    "start": "00:50:04",
+    "end": "00:50:06"
+  },
+  {
+    "text": "So, feel free to drop me a message.",
+    "start": "00:50:06",
+    "end": "00:50:07"
+  },
+  {
+    "text": "Like I said before, like if you're thinking about an exit and it's not today, but it's in 12 months, some of my favorite deals I did with founders I knew for like 12 months.",
+    "start": "00:50:07",
+    "end": "00:50:15"
+  },
+  {
+    "text": "And we just exchanged messages for a long period of time and kind of built relationships.",
+    "start": "00:50:15",
+    "end": "00:50:19"
+  },
+  {
+    "text": "So, it's never too soon to reach out.",
+    "start": "00:50:19",
+    "end": "00:50:20"
+  },
+  {
+    "text": "It's going to be a very exciting year for Blue Thorne.",
+    "start": "00:50:20",
+    "end": "00:50:21"
+  },
+  {
+    "text": "We've got some very, very big plans.",
+    "start": "00:50:21",
+    "end": "00:50:22"
+  },
+  {
+    "text": "You can find me on on email or LinkedIn.",
+    "start": "00:50:22",
+    "end": "00:50:25"
+  },
+  {
+    "text": ">> Thanks so much.",
+    "start": "00:50:24",
+    "end": "00:50:25"
+  },
+  {
+    "text": ">> Thank you.",
+    "start": "00:50:25",
+    "end": "00:50:27"
+  },
+  {
+    "text": ">> Something you might not know, most of the founders I cover on this podcast are hanging out right now in the Consumer Club Discord sharing with each other what's working now for consumer apps.",
+    "start": "00:50:25",
+    "end": "00:50:36"
+  },
+  {
+    "text": "So, you can apply to join Consumer Club if that sounds interesting to you.",
+    "start": "00:50:34",
+    "end": "00:50:38"
+  },
+  {
+    "text": "And this is the Superwall podcast.",
+    "start": "00:50:38",
+    "end": "00:50:40"
+  },
+  {
+    "text": "Of course, you got to check out superwall.",
+    "start": "00:50:40",
+    "end": "00:50:41"
+  },
+  {
+    "text": "com.",
+    "start": "00:50:41",
+    "end": "00:50:41"
+  },
+  {
+    "text": "We have more videos on the channel.",
+    "start": "00:50:41",
+    "end": "00:50:43"
+  },
+  {
+    "text": "So, dig into those to learn from app founders who are willing to share super tactical stuff about app growth.",
+    "start": "00:50:43",
+    "end": "00:50:50"
+  }
+]

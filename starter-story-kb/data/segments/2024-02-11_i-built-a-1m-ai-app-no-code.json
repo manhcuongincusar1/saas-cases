@@ -1,0 +1,36 @@
+{
+ "f": "2024-02-11_i-built-a-1m-ai-app-no-code",
+ "vid": "IZsQqarWXtY",
+ "segments": [
+  {"s":"01:22","e":"02:14","nut":["?"],"moi":"Tỉ lệ user miễn phí đổi ra người trả tiền thật",
+   "tom":"FormulaBot có 3 sản phẩm (chat AI ngay trong Excel/Google Sheets, formula generator, data analyzer upload file rồi hỏi bằng ngôn ngữ tự nhiên); sau 1,5 năm có 750.000 user nhưng chỉ ~5.000 người trả tiền gói unlimited","kq":"$26K/tháng, ~0,7% user trả tiền"},
+  {"s":"02:14","e":"03:07","nut":["2.1"],
+   "tom":"Tháng 7/2022 tận dụng 6 tuần nghỉ sinh con làm cửa sổ thời gian; vấn đề lấy thẳng từ công việc — nhân viên junior liên tục gõ cửa nhờ viết công thức Excel. Hỏi luôn OpenAI đặt tên, ra 'Excel Formula Bot', check GoDaddy thấy domain còn trống rồi lùng internet mấy tiếng xác nhận chưa ai làm"},
+  {"s":"04:05","e":"05:30","nut":["?"],"moi":"Tự dựng MVP bằng Bubble học qua YouTube",
+   "tom":"Không biết code, không có tiền thuê ai: chọn Bubble.io vì nổi tiếng và dễ nhất trong các nền tảng no-code, đọc docs chính thức rồi học phần khó qua YouTube miễn phí. App 100% no-code suốt hơn một năm, gần đây mới rút xuống còn 5–10% no-code khi chạm giới hạn của nó","kq":"MVP xong trong vài tuần, không viết code"},
+  {"s":"06:26","e":"07:22","nut":["?"],"moi":"Đăng thẳng vào subreddit đúng ngách, tiêu đề tả trần chức năng",
+   "tom":"Ra mắt bằng một post lên r/excel: tiêu đề đúng chữ 'AI Excel Formula Generator', ghi rõ miễn phí, phần mô tả chỉ là một cái link — vài phút sau lên top post trong ngày rồi top tuần","kq":"top post của cộng đồng Excel"},
+  {"s":"07:22","e":"07:53","nut":["?"],"moi":"Nghe gợi ý trong comment để nhảy sang subreddit lớn hơn",
+   "tom":"Một người trong phần bình luận bảo 'đăng lên r/InternetIsBeautiful đi' — post đó mới là cú đẩy app viral suốt nhiều tháng","kq":"~10.000 upvote, hàng nghìn comment và user"},
+  {"s":"07:53","e":"08:46","nut":["1.1","?"],"moi":"Cứu hoá đơn API bằng link Stripe xin donate",
+   "tom":"Viral xong mở trang billing OpenAI thấy đã đốt $5.000 tiền API trong vài ngày, đứng trước lựa chọn tắt app hay đi tiếp; giải pháp scrappy là dán một link Stripe kèm dòng 'tôi tên David, tôi build app này, nó viral, ai muốn thì donate'","kq":"âm $5.000 API, thu lại được vài nghìn đô"},
+  {"s":"08:46","e":"09:43","nut":["?"],"moi":"Kiếm tiền tạm bằng ads/sponsor trước khi dám dựng paywall",
+   "tom":"Host giải đấu Excel trên ESPN chủ động liên hệ mua quảng cáo beta chạy một tuần (anh phải tự mock creative dù site chỉ là một trang duy nhất xấu xí); song song chạy Google Ads nhưng thấy không đáng công. Vài khoản donate cộng vài sponsorship đủ để không tắt app, và phải vài tháng sau mới dựng paywall + login","kq":"ads không đáng công; paywall ra sau vài tháng"},
+  {"s":"09:43","e":"10:10","nut":["?"],"moi":"Không có tầm nhìn rộng thì VC không gọi lại",
+   "tom":"Lúc site đang bùng nổ, các VC gọi hỏi tầm nhìn dài hạn, anh chỉ trả lời được 'làm thêm nhiều generator nữa' — và không ai gọi lại lần hai","kq":"không gọi được vốn"},
+  {"s":"10:10","e":"11:34","nut":["3.2","4.14","?"],"moi":"Đổi việc làm hộ miễn phí lấy một cuộc gọi phỏng vấn khách",
+   "tom":"Mỗi tuần có khoảng một email khách gửi thẳng file Excel nhờ làm giúp thứ mà formula generator không giải được (dựng báo cáo, việc anh không có chuyên môn ngành). Anh nhận làm miễn phí kể cả với khách không trả tiền, nhưng ra điều kiện: phải lên call cùng anh và trả lời anh thích gì / ghét gì ở sản phẩm cùng ý tưởng của họ","kq":"sản phẩm đổi từ formula generator thành nền tảng data analytics"},
+  {"s":"11:34","e":"12:28","nut":["?"],"moi":"Bị copycat kéo vào cuộc đua xuống đáy về giá",
+   "tom":"Vài tuần sau khi ra mắt đã có khoảng 10 site sinh công thức Excel sao chép y hệt cả tính năng lẫn giao diện lẫn tên (Excel Formula Generator, Excel Formulator) — search Google tên mình là thấy chúng ngay bên cạnh, đẩy giá xuống đáy $3; kết luận là phải build thứ không chỉ là một cái hộp nhập-xuất","kq":"giá đáy $3, ~10 bản sao trong vài tuần"},
+  {"s":"12:28","e":"13:25","nut":["?"],"moi":"Rủi ro bị chính nền tảng gốc nuốt mất tính năng",
+   "tom":"Microsoft liên hệ hai lần: một là cease and desist buộc bỏ chữ 'Excel' khỏi tên, hai là đội add-on ngỏ ý đưa sản phẩm vào add-on store và build hộ miễn phí — giữa chừng anh nhận ra họ chỉ đang biến ý tưởng thành một tính năng trong bộ Office, và vài tuần sau Microsoft công bố hợp tác với OpenAI","kq":"phải đổi tên thành Formula Bot"},
+  {"s":"13:25","e":"14:18","nut":["?"],"moi":"Đo phần churn đến từ sản phẩm miễn phí của nền tảng",
+   "tom":"ChatGPT luôn miễn phí trong khi giá gói unlimited leo dần $2,99 → $6,99 → $9; churn tổng khoảng 5%, trong đó 10% số người bỏ đi nói thẳng là vì ChatGPT","kq":"churn ~5%, 10% lý do là ChatGPT"},
+  {"s":"14:18","e":"15:20","nut":["?"],"moi":"Cạnh tranh với model gốc bằng tiện lợi và bản địa hoá",
+   "tom":"Lợi thế duy nhất so với ChatGPT giai đoạn đầu là tiện (sinh công thức ngay trong bảng tính, không phải mở browser, không phải viết prompt dài) cộng tuỳ biến — chọn được ngôn ngữ nói và riêng ngôn ngữ của bản Excel, vì rất nhiều người nói tiếng Tây Ban Nha nhưng dùng Excel tiếng Anh và ngược lại; nhưng chỗ đó chỉ đi được tới một mức, sau đó buộc phải làm sản phẩm ChatGPT không làm được"}
+ ],
+ "bo_qua": [
+  {"s":"05:30","e":"06:26","ly_do":"quảng bá Starter Story: thư viện 4.000 case study và 52 ý tưởng micro-SaaS"},
+  {"s":"15:20","e":"16:13","ly_do":"outro tự quảng bá Starter Story và báo cáo SaaS miễn phí"}
+ ]
+}

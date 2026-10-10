@@ -1,0 +1,32 @@
+{
+ "f": "2024-04-06_i-built-a-1m-app-in-5-hours",
+ "vid": "u8sW-NhGfXw",
+ "segments": [
+  {"s":"00:54","e":"01:53","nut":["?"],"moi":"Sản phẩm một ô input, giá trị hiện ra tức thì",
+   "tom":"Earnifi chỉ là một website: dán địa chỉ Ethereum vào homepage là ra ngay danh sách airdrop chưa claim — người dùng hoạt động vừa phải cũng thường có hàng trăm tới hàng nghìn đô nằm đó, trung bình mỗi user nhận được $750","kq":"250.000 user free, 5.000 user trả tiền, >$1M ARR rồi exit"},
+  {"s":"04:40","e":"05:34","nut":["2.0","2.1","?"],"moi":"Đợi tới khi có conviction rõ rồi mới ngồi vào code",
+   "tom":"Ý tưởng ra trong một hackathon kéo dài một tháng đúng lúc crypto đang nóng; vì bản thân là user trong cộng đồng nên đã biết sẵn pain point. Điểm đặc biệt là anh cố tình chờ: để hai ba tuần đầu của hackathon cho ý tưởng tự nảy trong đầu, chỉ ngồi vào máy khi conviction đã rất chắc — lúc đó viết từ đầu tới cuối chỉ mất 4–5 tiếng","kq":"MVP 4–5 tiếng"},
+  {"s":"06:28","e":"06:53","nut":["4.1","4.9","?"],"moi":"Tweet ra mắt kèm video demo một ca cực đoan",
+   "tom":"Ship website lên URL công khai rồi đăng một tweet soạn rất có chủ ý: kèm video ngắn quay cảnh tra một địa chỉ đang có cực nhiều airdrop, vừa trêu vừa cho người xem thấy 'có thể có bao nhiêu'. Cộng thêm cảm giác làm việc tốt — muốn giúp người khác tìm ra tiền họ không biết mình có — khiến bấm retweet trở nên rất dễ","kq":"10.000 lượt đăng ký organic trong 48 giờ"},
+  {"s":"06:53","e":"07:22","nut":["?"],"moi":"Above-the-fold một nút khổng lồ để bắt email",
+   "tom":"Cách biến traffic viral thành danh sách email: tối ưu trang chỉ cho một hành động đăng ký email — vừa đặt CTA ở header vừa một nút cực lớn ngay above-the-fold, dùng drop shadow và border đúng cách để kéo mắt người dùng về đó"},
+  {"s":"07:22","e":"08:15","nut":["4.13","?"],"moi":"Chỉ gửi email khi có tiền thật để claim",
+   "tom":"Chiến lược 'anti-email': không bao giờ gửi email trừ khi nội dung đúng là 'bạn vừa khớp số tiền này, có sẵn để đi claim' — open rate cực cao vì ai nhận cũng muốn mở. Rồi một hôm quyết định paywall toàn bộ airdrop từ đó về sau: hiện rõ 'bạn có $793 từ airdrop này nhưng phải trả tiền mới claim được'. Nguyên tắc là chỉ thu tiền khi khách lấy về được nhiều hơn số họ trả","kq":"free users chuyển thành >$1M ARR"},
+  {"s":"08:15","e":"09:09","nut":["4.9","4.1","4.14"],
+   "tom":"Quyết định cứng từ đầu: không bao giờ chạy paid ads — nhờ vậy ai nghe về website đều đã biết mình có tiền chờ ở đó. Dồn toàn bộ vào Twitter vì dân crypto sống ở đó, với chiến dịch '25 Days of Christmas': mỗi ngày trong 25 ngày tag công khai một người kèm ảnh chụp số tiền họ chưa claim, tạo áp lực cộng đồng lành mạnh vì người ngoài nhìn thấy cũng muốn tự kiểm tra. Song song là đi dự hội thảo liên tục để gặp trực tiếp"},
+  {"s":"09:09","e":"09:35","nut":["3.B5","?"],"moi":"Giữ phạm vi hẹp để giữ niềm tin ở thị trường đầy lừa đảo",
+   "tom":"Khác biệt không nằm ở tính năng mà ở chất lượng: ai nhận được notification là biết chắc đó là khoản tiền đủ lớn và claim được ngay. Các đối thủ nhồi quá nhiều thứ vào, chất lượng tụt, và người dùng mất niềm tin — mà trong crypto niềm tin quyết định tất cả vì hack và phishing tràn lan"},
+  {"s":"09:35","e":"10:00","nut":["?"],"moi":"Chống echo chamber khi làm một mình",
+   "tom":"Làm solo thì đi nhanh, không phải xin phép ai, ship thẳng tới user; nhưng rủi ro là cô đơn và tự thuyết phục mình rằng một ý tưởng tồi là hay — nên anh chủ động coworking và đi hội thảo để có người phản biện, tránh nhốt mình trong echo chamber"},
+  {"s":"10:00","e":"10:28","nut":["?"],"moi":"Stack solo dev: TypeScript full-stack + Next.js",
+   "tom":"TypeScript cho cả hai đầu, Node.js backend, React frontend, gói lại bằng Next.js — tốc độ tải trang nhanh cũng là một phần lý do lớn được; máy là MacBook Pro cấu hình max, bàn phím chia đôi, màn hình 31–32 inch, editor là VS Code"},
+  {"s":"10:56","e":"11:23","nut":["1.5","?"],"moi":"Bị mua lại nhờ một DM từ người trong cộng đồng",
+   "tom":"Nhận Twitter DM từ David Hoffman của podcast Bankless — đúng podcast đã đưa anh vào Ethereum và có tên trong bucket list của anh. Anh chưa từng nghĩ tới hướng bán công ty cho tới khi họ chủ động liên hệ; đàm phán vài tháng rồi bán, và trở thành CTO ở đó","kq":"exit sau 2 năm làm một mình, thành CTO Bankless"},
+  {"s":"11:23","e":"12:17","nut":["?"],"moi":"Hụt hẫng sau khi exit",
+   "tom":"Sau lễ ăn mừng và khi dopamine hết là cảm giác rơi tự do: thứ từng là đam mê và là cách anh lấp đầy mỗi ngày biến mất. Anh lấp bằng du lịch, tập luyện, trượt tuyết, sống trong van — nhưng chỉ vài tuần đã thấy mặt tối: trượt tuyết 7 ngày một tuần nhưng một mình trên núi, không chia sẻ trải nghiệm với ai; hoá ra phần lớn ý nghĩa của anh đến từ cộng đồng và con người"}
+ ],
+ "bo_qua": [
+  {"s":"05:34","e":"06:28","ly_do":"quảng bá Starter Story: thư viện 4.000 case study và báo cáo 50 ý tưởng solo developer"},
+  {"s":"13:36","e":"14:38","ly_do":"outro quảng bá báo cáo solo developer miễn phí và gói thành viên Starter Story"}
+ ]
+}

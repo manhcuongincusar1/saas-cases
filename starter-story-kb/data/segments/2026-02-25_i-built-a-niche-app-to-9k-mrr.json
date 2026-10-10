@@ -1,0 +1,95 @@
+{
+ "f": "2026-02-25_i-built-a-niche-app-to-9k-mrr",
+ "vid": "7vz6b_Ohdl0",
+ "segments": [
+  {
+   "s": "01:02",
+   "e": "02:23",
+   "nut": ["?"],
+   "moi": "Open-source miễn phí làm phễu, bản cloud hosted mới thu tiền",
+   "tom": "ChartDB mở source 16 tháng trước: dev tự cài bản self-hosted miễn phí qua GitHub, khi cần chạy mượt trong workflow thì nhảy lên bản cloud trả phí — 21.000 sao GitHub, 250.000 dev dùng trong năm, gần $9.400 MRR",
+   "kq": "$9,4K MRR, 21.000 sao GitHub"
+  },
+  {
+   "s": "02:39",
+   "e": "03:41",
+   "nut": ["?"],
+   "moi": "Bỏ ý tưởng vì rào cản niềm tin (đòi credentials + bắt cài đặt)",
+   "tom": "Ý tưởng đầu là database client gắn AI nhưng chết vì đòi credentials kết nối DB và bắt cài phần mềm — chưa có uy tín thì engineer không giao; pivot sang biến database thành sơ đồ: thấy giá trị ngay, không cần cấp quyền, không cần cài gì",
+   "kq": "ý tưởng đầu thất bại, phải pivot"
+  },
+  {
+   "s": "04:12",
+   "e": "04:42",
+   "nut": ["4.9"],
+   "tom": "Sau đúng 3 tuần phát triển thì chọn ngày đăng Show HN lên Hacker News; bài lên trang nhất và ném hàng nghìn engineer vào sản phẩm ngay trong một ngày",
+   "kq": "hàng nghìn dev trong một ngày"
+  },
+  {
+   "s": "04:57",
+   "e": "05:45",
+   "nut": ["?"],
+   "moi": "Công thức lên trang nhất Hacker News: open source + một wedge lạ",
+   "tom": "Hai thứ làm bài Show HN ăn: open source để dev test ngay không phải sign up, và một wedge thật sự chưa ai thấy bao giờ — chính cái lạ đó đổi thành upvote, upvote đẩy lên homepage nơi dev vào soi mỗi ngày"
+  },
+  {
+   "s": "06:48",
+   "e": "07:33",
+   "nut": ["2.0", "2.8"],
+   "tom": "Bước 1 của playbook: là chính người dùng, build cho mình trước — với ChartDB là nhu cầu rất cụ thể 'tôi muốn một ERD nhìn đẹp và bấm tương tác được', đủ hẹp để bắt đầu mà vẫn ra thứ dùng ngon"
+  },
+  {
+   "s": "07:33",
+   "e": "08:04",
+   "nut": ["?"],
+   "moi": "Thiết kế theo ràng buộc của persona thay vì kịch bản lý tưởng",
+   "tom": "Bước 2-3: thiết kế theo ràng buộc thật của persona, dev thích tool self-hosted test được ở máy mình và ghét signup wall nên ChartDB không sign up, không sales call, không xin credentials; và mở màn bằng một wedge chứ không phải full vision"
+  },
+  {
+   "s": "08:04",
+   "e": "08:53",
+   "nut": ["?"],
+   "moi": "Để hành vi dùng thật chỉ ra chỗ thu tiền",
+   "tom": "Bước 4: ban đầu không thu tiền gì cả, tới khi người dùng đòi làm việc theo team thì mới lộ ra phần real-time collaboration vừa phức tạp vừa đáng tiền — thu tiền là phản ứng với hành vi quan sát được, không phải đoán trước"
+  },
+  {
+   "s": "08:53",
+   "e": "09:24",
+   "nut": ["4.9"],
+   "tom": "Bước 5: không phát minh kênh mới, chỉ xuất hiện đúng chỗ dev đã ở — GitHub, Hacker News, các subreddit self-hosted và việc team tự chia sẻ nội bộ; chốt lại: chọn persona, xoá friction thật mạnh tay, ám ảnh một core value"
+  },
+  {
+   "s": "09:40",
+   "e": "10:26",
+   "nut": ["?"],
+   "moi": "Né việc xin credentials bằng cách cho user tự chạy query rồi dán JSON",
+   "tom": "Demo: ChartDB đưa sẵn một 'smart query', user tự chạy trong DB client của mình, copy JSON rồi dán vào import — cả schema và quan hệ giữa các bảng hiện ra, không phải giao quyền truy cập database cho ai"
+  },
+  {
+   "s": "10:42",
+   "e": "11:44",
+   "nut": ["?"],
+   "moi": "Stack và chi phí vận hành hàng tháng của một dev tool nhỏ",
+   "tom": "React + Vite, Node.js, Tailwind, React Flow cho canvas; chi phí: Claude Code Max $200, Trycomp.ai lo SOC 2 cho khách lớn $500, AWS $600, ChatGPT $20 + ~$50 token API, analytics $25, Framer $30, ChartMogul free, thêm Resend, Crisp, Ahrefs",
+   "kq": "chi phí vận hành hơn $1.400/tháng"
+  },
+  {
+   "s": "12:15",
+   "e": "12:45",
+   "nut": ["3.B5"],
+   "tom": "Lời khuyên: chọn một core value rồi bảo vệ nó tới cùng — mọi thứ chỉ chạy khi họ dồn toàn lực làm cho việc trực quan hoá database trở nên hiển nhiên và phớt lờ mọi thứ còn lại"
+  },
+  {
+   "s": "13:46",
+   "e": "14:17",
+   "nut": ["?"],
+   "moi": "Đòn bẩy của dev tool: tải và thử miễn phí, kiếm tiền ở tầng sau",
+   "tom": "Dev tool có đòn bẩy riêng vì free để tải và thử — một ý tưởng cực hẹp (một câu SQL lấy nguyên schema rồi vẽ ra) vẫn ra $10K/tháng, còn tool đang hot thì được tải hàng triệu lượt trong vài tuần"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:32", "e": "01:02", "ly_do": "quảng bá template ý tưởng của Starter Story"},
+  {"s": "05:45", "e": "06:33", "ly_do": "quảng bá free business idea template"},
+  {"s": "15:03", "e": "15:18", "ly_do": "tự quảng bá Starter Story Build"}
+ ]
+}

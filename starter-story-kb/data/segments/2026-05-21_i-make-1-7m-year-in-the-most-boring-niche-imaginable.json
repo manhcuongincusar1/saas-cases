@@ -1,0 +1,124 @@
+{
+ "f": "2026-05-21_i-make-1-7m-year-in-the-most-boring-niche-imaginable",
+ "vid": "BHhg-l9AZpM",
+ "segments": [
+  {
+   "s": "00:59",
+   "e": "02:18",
+   "nut": [
+    "?"
+   ],
+   "moi": "Đóng gói dịch vụ tuân thủ thành 3 gói subscription",
+   "tom": "Savvy Nomad giúp công dân Mỹ ở nước ngoài giảm thuế bang: 3 gói (basic domicile, mid-tier bán chạy nhất, premium), thu tiền trước, 140K MRR, mỗi tháng thêm 120-150 khách mới, 1.400 khách, 6 nhân viên",
+   "kq": "$1,7 triệu/năm, tiết kiệm ~$10 triệu tiền thuế cho khách"
+  },
+  {
+   "s": "03:36",
+   "e": "04:32",
+   "nut": [
+    "2.1",
+    "2.9"
+   ],
+   "tom": "Chiến tranh Ukraine đẩy Bo vào thế giới thuế quốc tế và một startup thuế digital nomad; ở đó anh thấy người Mỹ là nhóm đông nhất mà bị bỏ quên nhất — co-founder gặp dân lướt sóng California sống ở nước ngoài nhiều năm vẫn phải đóng thuế bang"
+  },
+  {
+   "s": "04:32",
+   "e": "06:27",
+   "nut": [
+    "?"
+   ],
+   "moi": "Chọn ngách chán vì tỉ lệ cầu trên cạnh tranh tốt hơn",
+   "tom": "Bốn lý do ngách chán ăn tiền: ít founder giỏi tranh giành một nhu cầu có thật; nỗi đau cao nên khách sẵn sàng trả để quên nó đi; giá trị định lượng được ('anh tiết kiệm X, phí là Y') nên gần như khỏi bán; và khớp thế mạnh của team"
+  },
+  {
+   "s": "06:27",
+   "e": "08:24",
+   "nut": [
+    "2.7"
+   ],
+   "tom": "Ba ý tưởng: sản phẩm hoá quy trình nhập cư (khách đang trả agency $8-15K, bán $1-2K vẫn thấy hời); dịch vụ vào jurisdiction thuế nhẹ (Dubai, Malaysia) và thoát nước có exit tax (Canada, UK); banking, giữ tài sản quốc tế"
+  },
+  {
+   "s": "08:24",
+   "e": "09:04",
+   "nut": [
+    "?"
+   ],
+   "moi": "Dùng AI và phần mềm sản phẩm hoá dịch vụ bị quy định chặt",
+   "tom": "Pat gộp hai xu hướng: thuế, compliance, nhập cư là tầng quy định tích tụ hàng chục năm và không biến mất; nay AI cộng phần mềm đủ sức biến các dịch vụ đó thành sản phẩm bán trên toàn cầu"
+  },
+  {
+   "s": "09:04",
+   "e": "10:15",
+   "nut": [
+    "2.7",
+    "3.2"
+   ],
+   "tom": "Bước 1 playbook: săn vấn đề đau nơi người ta đang trả quá nhiều — thuế, compliance, pháp lý, residency, banking, giấy tờ; rồi xem họ đang chữa cháy kiểu nào, thường chỉ có hai cực là tự mò blog với thread Reddit, hoặc thuê chuyên gia vài nghìn đô"
+  },
+  {
+   "s": "10:15",
+   "e": "11:05",
+   "nut": [
+    "?"
+   ],
+   "moi": "Đo cạnh tranh bằng số founder giỏi đang chọn ngách đó",
+   "tom": "Bước 2: đừng chỉ hỏi thị trường to bao nhiêu, hỏi có bao nhiêu founder giỏi thật sự chọn build ở đây — ngách sexy thì đấu với hàng trăm team có vốn, ngách chán thì cầu thật, chịu trả cao, mà gần như không ai muốn động vào"
+  },
+  {
+   "s": "11:05",
+   "e": "11:53",
+   "nut": [
+    "3.B5"
+   ],
+   "tom": "Bước 3: chọn đúng MỘT workflow đau nhất, sản phẩm hoá nó rồi mới gắn lớp recurring lên trên, đừng xây platform — Savvy Nomad chỉ giải mỗi việc đổi state domicile chứ không ôm cả mảng thuế quốc tế"
+  },
+  {
+   "s": "11:53",
+   "e": "12:44",
+   "nut": [
+    "4.12"
+   ],
+   "tom": "Luồng onboarding: hỏi một loạt câu qualifying, hiện luôn số tiền khách có thể tiết kiệm rồi mới show gói phù hợp; đa số khách làm xong phần online trong chưa tới 1 tiếng"
+  },
+  {
+   "s": "12:44",
+   "e": "13:26",
+   "nut": [
+    "?"
+   ],
+   "moi": "Stack no-code để người không kỹ thuật vận hành",
+   "tom": "Toàn bộ sản phẩm chạy trên Bubble, web marketing bằng Framer, nội dung bằng Ghost, ChatGPT và Claude cho vận hành, Ahrefs cho SEO, Customer.io gửi email, Power BI với BigQuery làm báo cáo, TurnKey phân tích churn, Stripe thu tiền, SavvyCal đặt lịch"
+  },
+  {
+   "s": "13:26",
+   "e": "14:27",
+   "nut": [
+    "?"
+   ],
+   "moi": "Startup thất bại trước đó là nguồn kiến thức ngành cho cái sau",
+   "tom": "Bo từng đóng cửa startup đầu và thấy mình thua cuộc, nhưng chính mảng thuế digital nomad đó đẻ ra Savvy Nomad; anh nói khác biệt giữa winner và loser chỉ là winner thử thêm một lần nữa",
+   "kq": "startup đầu đóng cửa, đổi lại kiến thức ngành"
+  },
+  {
+   "s": "14:27",
+   "e": "15:49",
+   "nut": [
+    "2.B2"
+   ],
+   "tom": "Pat và Gus chốt: người giỏi bị social media hút hết về ý tưởng sexy nên ngách chán bỏ trống; SaaS lên $10K/tháng đã ăn mừng, còn ông này làm thuế chán ngắt và thu $140K/tháng"
+  }
+ ],
+ "bo_qua": [
+  {
+   "s": "02:18",
+   "e": "03:15",
+   "ly_do": "quảng bá báo cáo miễn phí '30+ ý tưởng ngách chán' (link HubSpot)"
+  },
+  {
+   "s": "15:49",
+   "e": "16:23",
+   "ly_do": "tự quảng bá báo cáo lần hai và chào kết"
+  }
+ ]
+}

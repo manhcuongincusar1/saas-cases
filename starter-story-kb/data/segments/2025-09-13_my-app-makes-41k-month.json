@@ -1,0 +1,104 @@
+{
+ "f": "2025-09-13_my-app-makes-41k-month",
+ "vid": "a1EXyJlSx9g",
+ "segments": [
+  {
+   "s": "01:48",
+   "e": "02:20",
+   "nut": ["2.1"],
+   "tom": "2017 đi brunch sáng thứ Bảy đông khách, bị xếp vào wait list, nhận SMS kèm link \"bấm xem thời gian chờ\" nhưng link bắt tải Yelp và tạo tài khoản — đăng ký xong thì bàn đã sẵn; vợ anh bảo hay là làm luôn một app wait list"
+  },
+  {
+   "s": "02:20",
+   "e": "02:48",
+   "nut": ["?"],
+   "moi": "Đường build side project chậm: 6 tháng prototype, 1,5 năm mới lên store",
+   "tom": "6 tháng mới có prototype chạy được (thêm người vào danh sách nhưng chưa nhắn tin được), 1,5 năm mới đủ để đưa lên App Store, và phải tới năm thứ 2 anh mới bật in-app purchase rồi mới thật sự lớn",
+   "kq": "tuần đầu ra mắt chỉ 10 lượt tải"
+  },
+  {
+   "s": "03:55",
+   "e": "04:29",
+   "nut": ["?"],
+   "moi": "Đường cong doanh thu 7 năm của một side project",
+   "tom": "Năm 1 $0 vì chỉ có bản free, năm 2 $14.500, năm 3 bật lên $116.000, năm 4 $186.000, năm 5 $307.000, năm 6 $354.000, năm 7 $445.000",
+   "kq": "năm nay trên đà vượt $500K, hơn $40K MRR"
+  },
+  {
+   "s": "04:29",
+   "e": "04:58",
+   "nut": ["?"],
+   "moi": "Chốt được CAC/LTV rồi thì đổ bao nhiêu tiền ads cũng lời",
+   "tom": "Động cơ tăng trưởng chính là Apple Search Ads chạy theo từ khoá: chi phí lấy một khách khoảng $130 trong khi vòng đời khách đáng $750–$1.000, nên bơm được bao nhiêu là bơm",
+   "kq": "CAC $130 vs LTV $750–$1.000"
+  },
+  {
+   "s": "04:58",
+   "e": "05:19",
+   "nut": ["4.12", "4.14"],
+   "tom": "Sau khi khách tải app là chuỗi nuôi dưỡng thủ công: email mẹo dùng và video quick start, onboarding trực tiếp qua Zoom, đào tạo cả nhân viên của quán nếu cần, và tung khuyến mãi ngay trước lúc hết trial để chốt lần mua đầu"
+  },
+  {
+   "s": "05:19",
+   "e": "06:11",
+   "nut": ["?"],
+   "moi": "Bỏ bước bắt khách tải app — chỉ một link SMS",
+   "tom": "Waitly là wait list + đặt bàn cho mọi chỗ có khách phải chờ: nhân viên nhập tên, số người, thời gian chờ ước tính, số điện thoại, chỗ ngồi mong muốn; khách nhận SMS có link xem giờ chờ mà không phải tải app nào, tới lượt thì bấm notify gửi tin thứ hai"
+  },
+  {
+   "s": "06:11",
+   "e": "06:36",
+   "nut": ["2.7"],
+   "tom": "Cách đấu với công ty tỉ đô, thứ nhất là giá: Waitly một giá phẳng $100/tháng mở hết tính năng, trong khi Yelp và OpenTable thu vài trăm đô mỗi tháng cộng phí cover trên từng lượt đặt bàn"
+  },
+  {
+   "s": "06:36",
+   "e": "07:11",
+   "nut": ["?"],
+   "moi": "Sản phẩm đơn giản nên bê sang được ngành khác khi thời cuộc đổi",
+   "tom": "Thứ hai là sự đơn giản: vì chỉ làm wait list nên COVID tới, hàng loạt chuỗi bán lẻ bị giới hạn số người trong cửa hàng đã dùng Waitly cho khách xếp hàng bên ngoài; thứ ba là gọi tổng đài là có người bắt máy ngay",
+   "kq": "phủ hơn 700 điểm ở Mỹ, doanh thu năm đó gấp 10 lần"
+  },
+  {
+   "s": "07:11",
+   "e": "07:56",
+   "nut": ["2.B1", "2.9"],
+   "tom": "Khung tìm ý tưởng của anh: không cần ý tưởng mới, cứ cải tiến thứ đã có rồi sẽ lòi ra một ngách (anh đấu OpenTable và tìm được nhóm nhà hàng nhỏ bị bỏ quên); dùng AI dựng MVP trong vài tuần; lấy phản hồi từ khách sớm; và chuẩn bị tinh thần phải xoay"
+  },
+  {
+   "s": "07:56",
+   "e": "08:51",
+   "nut": ["2.2"],
+   "tom": "Ba ý tưởng anh đang nhìn: app quản lý giải pickleball vì bảng tính tính điểm của liên đoàn anh chơi đã quá tải, chatbot hỗ trợ AI train riêng theo từng sản phẩm/website, và một mạng xã hội để kết nối lại bạn bè và gia đình"
+  },
+  {
+   "s": "08:51",
+   "e": "09:12",
+   "nut": ["?"],
+   "moi": "Quy mô thật của một SaaS B2B nhỏ",
+   "tom": "Hơn 15.000 doanh nghiệp từng dùng thử Waitly, hiện có 700 khách trả tiền ở Mỹ và Canada; từ lúc ra mắt đã có hơn 59 triệu lượt nhóm khách được xếp vào wait list",
+   "kq": "700 khách trả tiền tạo hơn $40K/tháng"
+  },
+  {
+   "s": "09:12",
+   "e": "09:30",
+   "nut": ["?"],
+   "moi": "Stack Firebase cho solo dev làm cả iOS lẫn web",
+   "tom": "Toàn bộ dựng trên Google Firebase (hosting, authentication, database), backend service viết bằng Node.js, app iOS viết Swift, bản web viết ReactJS — một mình anh code"
+  },
+  {
+   "s": "09:30",
+   "e": "10:28",
+   "nut": ["1.1"],
+   "tom": "Bóc chi phí tháng: Firebase ~$700, tin nhắn SMS gửi khách ~$2.500, RevenueCat ăn 1% doanh thu, Apple Search Ads ~$500, Stripe 3% cho thanh toán web, SurveyMonkey $35, Hive $25, Freshdesk $40, Claude Code $200, ChatGPT $20, Calendly $12",
+   "kq": "chi phí ~$4K/tháng trên hơn $40K MRR"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:08", "ly_do": "intro/hook của kênh"},
+  {"s": "01:08", "e": "01:48", "ly_do": "tiểu sử thuần tuý: học CS, đi làm engineer rồi lên quản lý"},
+  {"s": "02:48", "e": "03:55", "ly_do": "quảng cáo Doola"},
+  {"s": "10:28", "e": "10:56", "ly_do": "lời khuyên chung chung 'cứ đi tiếp, đừng nghi ngờ bản thân'"},
+  {"s": "10:56", "e": "11:47", "ly_do": "lời cảm ơn và quảng bá Starter Story Build"}
+ ]
+}

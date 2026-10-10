@@ -1,0 +1,34 @@
+{
+ "f": "2024-08-18_how-i-built-it-20k-month-chrome-extension",
+ "vid": "ty9ZcimL6VE",
+ "segments": [
+  {"s":"01:17","e":"01:50","nut":["?"],"moi":"Quy mô thật của một extension một người làm",
+   "tom":"Superpower ChatGPT — extension thêm tính năng cho ChatGPT, làm 1,5 năm, một mình Saeed code, ~260–270K lượt cài, ~150K người dùng hoạt động mỗi tuần","kq":"$20–30K MRR, 1 người"},
+  {"s":"02:00","e":"02:55","nut":["1.6"],
+   "tom":"Hai cửa vào: (a) nền tảng khổng lồ sẵn user — Gmail, Roblox, Facebook, YouTube, Twitter: Twitter vài trăm triệu user, chỉ cần 2.000 người muốn tính năng đó là đủ sống; (b) marketplace user ít hơn nhưng gần như không ai build — Zoom, Salesforce"},
+  {"s":"02:55","e":"03:48","nut":["1.6"],
+   "tom":"Vì sao plugin trong marketplace hơn SaaS standalone: standalone phải cạnh tranh với cả internet và tự lo cả back end lẫn front end, còn marketplace chỉ đấu với số đối thủ hữu hạn — và extension chạy trên browser người dùng nên validate ý tưởng nhanh hơn nhiều"},
+  {"s":"03:48","e":"04:14","nut":["2.8"],
+   "tom":"ChatGPT vừa ra là đã tự thấy thiếu tính năng gì, build cho chính mình dùng trước; sau đó mới đi tìm nơi user tụ tập: subreddit, kênh Discord, nhóm Slack, nhóm Facebook"},
+  {"s":"04:14","e":"05:03","nut":["?"],"moi":"Vòng lặp nghe yêu cầu tính năng → build → quay lại báo đúng người đã hỏi",
+   "tom":"Vào hết các nhóm rồi ngồi nghe người ta muốn ChatGPT có tính năng gì, build đúng cái đó, rồi quay lại nhắn cho chính họ 'tôi thêm rồi, cài extension là có' — Saeed gọi đây là growth hack lớn nhất của mình"},
+  {"s":"05:52","e":"06:38","nut":["2.3"],
+   "tom":"Biết làm website đơn giản là làm được extension — chỉ JavaScript/HTML/CSS, bản đầu đúng 2 tính năng; chưa từng viết extension bao giờ mà học xong và launch trong 2–3 ngày ngay sau khi ChatGPT ra mắt. Anh nói thẳng: không phải project đơn giản nào cũng ăn, timing mới là thứ quyết định","kq":"launch bản đầu trong 2–3 ngày"},
+  {"s":"06:38","e":"07:45","nut":["4.2"],
+   "tom":"Không tốn một đồng ads: chỗ đăng đầu tiên là Reddit và bài lên top subreddit hôm đó; sau đó người ta tự viết bài 'top 10 extension cho ChatGPT' có tên anh — không nhờ, không trả tiền cho ai viết bài nào","kq":"tăng trưởng 100% organic, $0 marketing"},
+  {"s":"07:45","e":"08:39","nut":["2.9"],
+   "tom":"Cơ hội còn trống là các ngành chưa nghĩ tới AI — bác sĩ, luật sư. Cách khai thác: mỗi lần nói chuyện với user thì hỏi kỹ họ làm nghề gì, nền tảng ra sao, đang dùng ChatGPT kiểu nào; nghe một luật sư/bác sĩ kể cách họ dùng là ra ý tưởng sản phẩm mới cho nhóm không trực tiếp dùng AI"},
+  {"s":"08:39","e":"09:41","nut":["?"],"moi":"Kiếm tiền bằng newsletter trước khi kiếm tiền từ sản phẩm",
+   "tom":"9 tháng đầu extension 100% free (nay anh thấy lẽ ra nên thu tiền sớm hơn); tháng thứ 3–4 mở newsletter để giữ tệp user, đăng newsletter lên các site ghép sponsor và 1–2 tuần sau đã có nhà tài trợ đầu trả vài trăm đô. Viết newsletter ban đầu tốn 6–7 tiếng/ngày, giờ còn ~2 tiếng","kq":"sponsor đầu tiên vài trăm $ sau 1–2 tuần"},
+  {"s":"09:41","e":"10:15","nut":["?"],"moi":"Chỉ paywall tính năng MỚI, giữ nguyên tính năng cũ miễn phí",
+   "tom":"Sau 9–10 tháng mới thu tiền: không đụng vào bất kỳ tính năng nào đang free, chỉ nghĩ tính năng mới rồi bán riêng; thử cả giá cao lẫn giá thấp rồi chốt mức ở giữa"},
+  {"s":"10:15","e":"11:04","nut":["?"],"moi":"Stack tối giản của solo dev",
+   "tom":"VS Code để code hết mọi project; extension viết bằng JavaScript thuần không framework; toàn bộ backend nằm trên AWS; newsletter dùng beehiiv (có tính năng Boost — nhét link vào bản tin để ăn tiền); Passionfroot là nơi nhà tài trợ tự tìm đến"},
+  {"s":"11:04","e":"11:43","nut":["?"],"moi":"BẪY — rủi ro phụ thuộc nền tảng chủ",
+   "tom":"Đây là wrapper của ChatGPT: OpenAI có thể giết sản phẩm bất cứ ngày nào. Anh sợ chuyện đó rất lâu rồi giờ chai lì; kế hoạch nếu extension chết là đi build extension cho một nền tảng lớn khác, chấp nhận đời sẽ khó hơn nhiều"}
+ ],
+ "bo_qua": [
+  {"s":"05:03","e":"05:52","ly_do":"tự quảng bá bản báo cáo 50 solo developer ideas của Starter Story"},
+  {"s":"12:15","e":"13:13","ly_do":"outro tự quảng bá Starter Story + kêu gọi lấy report miễn phí"}
+ ]
+}

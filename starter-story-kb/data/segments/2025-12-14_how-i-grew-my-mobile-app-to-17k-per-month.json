@@ -1,0 +1,123 @@
+{
+ "f": "2025-12-14_how-i-grew-my-mobile-app-to-17k-per-month",
+ "vid": "8kM-JcKpcDs",
+ "segments": [
+  {
+   "s": "01:17",
+   "e": "02:19",
+   "nut": ["?"],
+   "moi": "Gắn free trial vào gói năm để dồn khách sang gói năm",
+   "tom": "Wrestle AI là HLV vật bằng AI: nộp video trận đấu, app mổ xẻ đúng/sai và ra bài tập. Giá $9,99/tháng hoặc $59,99/năm; MRR $8.000 đến từ gói tháng, phần còn lại là gói năm vì anh gắn free trial vào đúng lựa chọn gói năm.",
+   "kq": "$17K/tháng sau ~3 tháng, 2 triệu impression, ~17.000 lượt tải"
+  },
+  {
+   "s": "02:19",
+   "e": "03:21",
+   "nut": ["3.B7", "1.B2"],
+   "tom": "Thất bại năm 15 tuổi: dồn hết tiền tiết kiệm làm app social self-improvement, viral sẵn với 10K follower chờ, nhưng phải thuê tới 3 agency dev mà không ai làm đúng — mất 1 năm rưỡi mới ra được, lúc đó hype chết sạch.",
+   "kq": "mất toàn bộ tiền, phải đi làm TJ Maxx"
+  },
+  {
+   "s": "03:21",
+   "e": "04:55",
+   "nut": ["?"],
+   "moi": "Vibe code phần lớn, thuê ngoài đúng mảng payment và auth",
+   "tom": "Không biết một dòng code: tháng 6 thấy quảng cáo Rork, ngồi prompt cả tuần từ sáng tới đêm, lỗi Expo thì copy log ném vào ChatGPT làm cố vấn; thuê một dev trên Fiverr $250 làm paywall + auth trong 1 tuần, hai tuần cuối chọi với Apple reject.",
+   "kq": "1 tháng từ ý tưởng lên App Store, chỉ tốn $250 thuê dev"
+  },
+  {
+   "s": "05:42",
+   "e": "06:45",
+   "nut": ["?"],
+   "moi": "Ba trụ ý tưởng: độc lạ, hữu ích, và gotcha moment 5 giây",
+   "tom": "Anh phản bác câu 'distribution là tất cả': ý tưởng không viral tự thân thì phân phối vô nghĩa. Ba trụ của ý tưởng tốt là uniqueness (bắt mắt), helpfulness (giữ chân) và gotcha moment — cảnh diễn đạt app làm gì trong 5 giây, đủ để người ta ngừng lướt."
+  },
+  {
+   "s": "06:45",
+   "e": "07:34",
+   "nut": ["1.B2", "3.B2"],
+   "tom": "Bằng chứng ngược: cùng lúc anh ra app tên Green với influencer 1 triệu follower, ý tưởng na ná ChatGPT và Plug AI. Cả hai app đều gần 2 triệu impression, nhưng Green chỉ ra khoảng 100 lượt tải vì không có gì lạ mắt — creative không convert nổi.",
+   "kq": "1,8 triệu impression → khoảng 100 lượt tải"
+  },
+  {
+   "s": "07:34",
+   "e": "08:34",
+   "nut": ["?"],
+   "moi": "Ghép API rẻ có sẵn thay vì tự làm phần lõi dữ liệu",
+   "tom": "Bước 2–3: trả lời 'app cho ai' và 'UI kiểu nào hợp người mua đó' rồi ném nguyên câu trả lời cho Rork, dựng khung trước rồi mới tới chức năng; luôn tính sẵn đường user tự chia sẻ để khỏi phụ thuộc ad spend. Và ghép API bên ngoài rẻ tiền — như nutrition database cho app đếm calo — thay vì tự dựng."
+  },
+  {
+   "s": "08:34",
+   "e": "09:38",
+   "nut": ["4.12", "4.13"],
+   "tom": "Onboarding là phần quan trọng thứ hai, và cách làm là chép cái đã chạy (anh ngồi mổ Opal, Cal AI hàng giờ). Công thức: dạy user app làm gì → hỏi câu dẫn dắt vừa cá nhân hoá vừa dẫn tới lý do cần app → gieo FOMO → cho họ tự làm gotcha moment nhưng giấu kết quả sau paywall. Dài thì thêm ma sát nhưng tạo sunk cost, ai đi hết thường bấm free trial."
+  },
+  {
+   "s": "09:38",
+   "e": "10:25",
+   "nut": ["?"],
+   "moi": "Test người thuê bằng task nhỏ, ưu tiên người biết tự học bằng AI",
+   "tom": "Bước 5: thuê cái mình không biết. ROI cao nhất cả quá trình là một dev ở Pakistan. Bí quyết là bán tầm nhìn cho họ để họ thấy mình thuộc về thứ lớn hơn; thuê người tương đối thông minh biết dùng AI tự học là gánh được 90% nhu cầu — giao một task nhỏ trước, làm tốt mới giao thêm."
+  },
+  {
+   "s": "10:25",
+   "e": "10:57",
+   "nut": ["?"],
+   "moi": "Ngưỡng $5K/tháng: bỏ vibe code, chuyển sang đầu tư chất lượng",
+   "tom": "Bước 6: vibe code tốt để ra nhanh và validate MVP, nhưng qua mốc $5K/tháng thì phải đổ tiền vào chất lượng sản phẩm — anh đã thuê designer hợp đồng và có người làm cùng.",
+   "kq": "chưa rút một xu nào ra khỏi business, sẽ chỉ rút khi đạt 100K MRR"
+  },
+  {
+   "s": "11:12",
+   "e": "12:14",
+   "nut": ["4.4", "4.8"],
+   "tom": "Marketing 100% bằng influencer. Co-founder là một trong những người ảnh hưởng lớn nhất giới vật, ngày ra mắt mở pre-order để nhảy lên bảng xếp hạng. Tới tháng thứ hai tệp của anh ta bắt đầu bão hoà, anh mới bỏ $500 vào influencer marketing và bơm thêm $250 nữa trong tháng.",
+   "kq": "hạng 18 App Store ngay ngày ra mắt, tháng này 13K"
+  },
+  {
+   "s": "12:30",
+   "e": "13:16",
+   "nut": ["4.4"],
+   "tom": "Săn influencer bước 1–3: DM 100 người mỗi ngày; hai chữ đầu tiên trong DM phải là 'paid promo' vì họ nhận hàng trăm tới hàng nghìn tin mỗi ngày; lúc mới bắt đầu thì bơm follower cho tài khoản Instagram cá nhân và trả tiền verify để trông có uy tín, làm được vài deal rồi mới chuyển sang tài khoản business."
+  },
+  {
+   "s": "13:16",
+   "e": "14:19",
+   "nut": ["?"],
+   "moi": "Kéo deal influencer từ DM sang gọi điện, và chốt theo CPM có bảo đảm view",
+   "tom": "Vừa có reply là nhắn số điện thoại rủ gọi — đàm phán qua giọng nói dễ gấp ngàn lần, và nếu họ ép 'bận, offer bao nhiêu' thì đừng mắc bẫy. Deal tốt nhất: trả trước 20–50% cho 4–5 video, CPM $2–5; người trung bình 25.000 view/video thì offer $225 kèm bảo đảm tối thiểu 100K view, chưa đạt thì đăng tiếp mới trả nốt."
+  },
+  {
+   "s": "14:19",
+   "e": "15:05",
+   "nut": ["4.14"],
+   "tom": "VA chỉ nên thuê ở hai giai đoạn: lúc mới bắt đầu (cần DM số lượng lớn, thuê người nước ngoài rất rẻ) và lúc đã quá lớn như Cal AI. Ở khúc giữa thì tự làm — brand có tên rồi thì response rate vọt lên: anh scroll for-you page niche vật 20 phút mỗi ngày, nhắn hết mức, hôm sau gọi điện chốt."
+  },
+  {
+   "s": "15:20",
+   "e": "16:37",
+   "nut": ["?"],
+   "moi": "Dựng hệ sinh thái quanh một môn/niche thay vì một tính năng lẻ",
+   "tom": "Demo: gotcha moment là nộp video trận, app tách 2 đô vật, bạn chọn mình là ai rồi nhận điểm /10, điểm mạnh, chỗ cần sửa và drill nhét thẳng vào giáo án. Ngoài ra có calorie tracker (barcode + chụp ảnh món ăn, rẻ bằng nửa premium MyFitnessPal), practice mode quay video từng đòn để chấm, lịch trận và weight journal."
+  },
+  {
+   "s": "16:37",
+   "e": "17:23",
+   "nut": ["1.1"],
+   "tom": "Stack và chi phí: Rork (anh cho là hơn hẳn Bolt, Vibe Code app, Replit) chỉ gói $25/tháng, không cần nâng cấp cũng launch được app đầu; Supabase backend ~$30/tháng; inference OpenAI $40–60/tháng; cộng ChatGPT premium $20/tháng."
+  },
+  {
+   "s": "17:23",
+   "e": "18:40",
+   "nut": ["?"],
+   "moi": "Đêm ra mắt hỏng hạ tầng: xử lý xong vẫn kịp giờ",
+   "tom": "Đêm launch có 3.000–4.000 pre-order, app lên lúc 0h — thì 23h30 API AI mà toàn bộ app phụ thuộc sập hoàn toàn. Anh thức trắng, API sống lại lúc 5h sáng, bấm launch rồi đi ngủ; tỉnh dậy 13h thấy hạng 19 App Store.",
+   "kq": "hạng 19 App Store, hơn $1.000 ngay ngày đầu"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:17", "ly_do": "intro/hook và quảng bá Starter Story Build"},
+  {"s": "04:55", "e": "05:42", "ly_do": "quảng cáo Starter Story Build iOS boot camp"},
+  {"s": "18:40", "e": "20:57", "ly_do": "lời cảm ơn, bình luận của host và quảng bá Starter Story Build"}
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "f": "2023-03-27_he-built-a-600-000-one-person-business-with-video-ed",
+ "vid": "BskeAo66er0",
+ "segments": [
+  {
+   "s": "00:28",
+   "e": "01:18",
+   "nut": ["?"],
+   "moi": "Dịch vụ đóng gói (productized service) bán cho nhóm khách CÓ SẴN tiền",
+   "tom": "Mô hình: video animation ngắn cho công ty B2B SaaS chạy paid ads, nhưng bán như sản phẩm e-commerce (mua là xong, không báo giá từng dự án); chỉ nhắm công ty đã gọi vốn seed/Series A hoặc VC-backed vì phải chắc khách có tiền trả cho thứ mình bán",
+   "kq": "$50K/tháng, dao động $35–55K"
+  },
+  {
+   "s": "01:18",
+   "e": "01:46",
+   "nut": ["?"],
+   "moi": "Xác định đúng việc sản phẩm phải làm cho khách của khách",
+   "tom": "Video không nhằm bán hàng trực tiếp cho khách của client mà chỉ làm 'scroll stopper': chặn người ta lướt qua và đẩy họ đi book demo — cố tình không đưa đủ thông tin để mua ngay"
+  },
+  {
+   "s": "01:46",
+   "e": "02:38",
+   "nut": ["1.2"],
+   "tom": "Trước đó làm đủ thứ video (music video, quay cưới, event recap), làm designer, dựng website — nhưng khó scale và khó kiếm việc; lên Twitter gặp giới 'money Twitter' và học cách lấy đúng kỹ năng đang có (làm video) đem kiếm tiền ở tầng cao hơn"
+  },
+  {
+   "s": "02:38",
+   "e": "03:36",
+   "nut": ["?"],
+   "moi": "Lấy kỹ năng nền từ việc làm cho một startup nhỏ trước khi tự làm",
+   "tom": "Bỏ đại học sau 2 tháng, 19 tuổi lái xe 1.200 dặm tới Colorado làm cho một business quản lý vacation rental — chính chỗ đó học nói chuyện, network, customer service, viết blog; nhưng 3,5 năm sau đó vẫn không kiếm nổi quá $40–50K/năm trước thuế",
+   "kq": "3,5 năm loanh quanh $40–50K/năm trước thuế"
+  },
+  {
+   "s": "05:50",
+   "e": "06:43",
+   "nut": ["4.2", "4.11"],
+   "tom": "Con đường cho người làm sáng tạo: mỗi ngày ngồi 1 tiếng lên lịch đăng Twitter, viết nội dung giáo dục cho brand về cách dùng video kéo khách — đăng đều đến khi hiểu nền tảng rồi MỚI bắt đầu bán dịch vụ, và bán theo mô hình đóng gói"
+  },
+  {
+   "s": "06:43",
+   "e": "07:36",
+   "nut": ["?"],
+   "moi": "Thiết kế gói dịch vụ: một offer hẹp + deliverable đếm được + downsell/upsell",
+   "tom": "Từ 'làm video' phải chẻ ra một offer cụ thể (thiết kế thumbnail YouTube, chỉnh sửa video on-demand, hoặc dịch vụ color grading), gói chính khoảng $3.000/tháng kèm downsell và upsell; deliverable phải đếm được kiểu 'color grade từng này video, theo cách này, giá này' — và dịch vụ phải lặp lại hằng tháng"
+  },
+  {
+   "s": "07:36",
+   "e": "08:33",
+   "nut": ["?"],
+   "moi": "Bán kết quả đóng gói thay vì bán giờ",
+   "tom": "So sánh cụ thể: người A tính $500/giờ, làm 10 giờ được $5.000; người B bán gói $5.000 cho cùng kết quả — thu nhập như nhau nhưng người B thuê người khác làm được, nên chỉ người B mới scale được"
+  },
+  {
+   "s": "08:33",
+   "e": "09:00",
+   "nut": ["?"],
+   "moi": "Team hợp đồng quốc tế thay vì nhân viên chính thức",
+   "tom": "Từ một mình lên team 4 người mà không có nhân viên full-time nào: vài full-time contractor, một closer bán hàng và mấy vai fractional lo vận hành, toàn bộ ở nước ngoài và được trả cao hơn mặt bằng nơi họ sống"
+  },
+  {
+   "s": "09:00",
+   "e": "09:59",
+   "nut": ["?"],
+   "moi": "Tuyển người từ chính audience của mình",
+   "tom": "Toàn bộ người đang làm cho anh ta đều tự nhắn tới trước — xây audience thì người ta tự muốn làm cho mình, và chính việc chủ động nhắn đã lọc ra người có động lực"
+  },
+  {
+   "s": "09:59",
+   "e": "10:53",
+   "nut": ["1.1", "1.3"],
+   "tom": "Biên gộp khoảng 65%, biên ròng 40–50%; chi phí cố định duy nhất hằng tháng là tech stack ~$1.200 (phần mềm gửi cold email, phần mềm xử lý list, Slack, phí Stripe), phần còn lại là nhân công biến động theo số video",
+   "kq": "biên gộp ~65%, biên ròng 40–50%"
+  },
+  {
+   "s": "10:53",
+   "e": "11:51",
+   "nut": ["?"],
+   "moi": "Thu hẹp ngách theo từng bậc để nâng giá",
+   "tom": "Bốn bậc thu hẹp: video → video ngắn dưới 60 giây → video ngắn cho brand online → video ngắn cho brand online là công ty B2B SaaS. Càng nói 'anh không hợp' với nhiều người thì càng nhanh gặp người mua; giá đi từ $500/video lên AOV ~$3.000, gói mới bán $6.000–12.000",
+   "kq": "$500/video → AOV $3K, gói $6–12K"
+  },
+  {
+   "s": "11:51",
+   "e": "12:28",
+   "nut": ["?"],
+   "moi": "Chi tiền cho mentor/coach ở giai đoạn đầu",
+   "tom": "Bước đầu tiên: lên YouTube tìm hiểu thứ mình thật sự muốn làm, rồi bỏ nhiều tiền nhất có thể cho coaching/chương trình đúng hướng — nhưng từ người có uy tín thật, không phải 'guru đứng cạnh Lambo'"
+  },
+  {
+   "s": "12:53",
+   "e": "13:44",
+   "nut": ["?"],
+   "moi": "Nâng cấp offer từ deliverable lẻ thành gói bao trọn kết quả cuối",
+   "tom": "Trước bán 1 video giá cố định; nay bán gói gồm một bộ video + reformat lại cho chạy trên mọi nền tảng + setup sẵn retargeting ads (nhận setup chứ không chạy hộ). Video lẻ bị hạ xuống thành downsell cho ai không mua gói"
+  },
+  {
+   "s": "13:44",
+   "e": "14:10",
+   "nut": ["?"],
+   "moi": "Trần doanh thu do offer chứ không do lượng lead",
+   "tom": "Đường doanh thu tháng: 7K → 5K → 9K rồi mắc kẹt quanh 12K; chỉ khi đổi sang offer gói mới bật lên 23K rồi 33K — vì bán video lẻ thì ticket không đủ lớn để qua ngưỡng đó",
+   "kq": "$7K→$5K→$9K→$12K→$23K→$33K/tháng"
+  },
+  {
+   "s": "14:10",
+   "e": "15:30",
+   "nut": ["?"],
+   "moi": "Cold email 2 câu + DM outbound làm kênh chính",
+   "tom": "Ba kênh chính: nội dung organic Twitter, cold email, và DM trực tiếp qua LinkedIn Sales Navigator/Twitter. Với ICP là công ty phần mềm, reply rate chỉ khoảng 4% nên phải chạm hàng nghìn người; email chỉ 2 câu kiểu 'thấy landing page của anh không có video above the fold, bên tôi làm cái đó, anh tính tới chưa?' — viết cả đoạn dài thì không ai đọc",
+   "kq": "reply rate ~4%"
+  },
+  {
+   "s": "15:30",
+   "e": "16:24",
+   "nut": ["?"],
+   "moi": "Phễu 3 tầng cho dịch vụ B2B: outbound + organic → book call → closer",
+   "tom": "Top of funnel là đăng organic + DM + cold email + ads; middle là người mở email hoặc thấy bài rồi qua xem LinkedIn, sau đó book call qua social hoặc website; bottom là cuộc gọi bán với closer — mua hoặc không"
+  },
+  {
+   "s": "16:24",
+   "e": "17:24",
+   "nut": ["4.14"],
+   "tom": "Học khung B2B từ coaching rồi tự chạy thử: biết đủ để BẮT ĐẦU cold email chứ chưa biết đủ để làm giỏi, sau đó lặp nhiều lần mới lên tay. Bản thân không thích bán nhưng vẫn tự nhận khoảng 150 cuộc sales call, đủ để rút ra một cấu trúc rồi mới giao lại cho người khác",
+   "kq": "~150 sales call tự làm trước khi giao"
+  },
+  {
+   "s": "19:17",
+   "e": "20:13",
+   "nut": ["?"],
+   "moi": "Chọn thứ mình GIỎI thay vì chạy theo passion",
+   "tom": "Phản bác 'follow your passion': để dành passion cho ngoài giờ làm, còn việc kiếm tiền thì chọn thứ mình vừa giỏi vừa thích làm — giỏi thì làm mỗi ngày vẫn thấy dễ chịu kể cả khi chưa ra tiền, và chỉ thế đã hơn 99% người khác"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "00:28", "ly_do": "intro hook, lặp lại nội dung ở 03:05"},
+  {"s": "12:28", "e": "12:53", "ly_do": "B-roll khoe góc làm việc và một deal vừa chốt, không có thông tin"},
+  {"s": "18:22", "e": "19:17", "ly_do": "chuyện cuối tuần và nghỉ phép, không có chi tiết dùng được"}
+ ]
+}

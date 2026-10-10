@@ -1,0 +1,38 @@
+{
+ "f": "2024-10-15_how-i-built-it-10k-month-ai-image-generator",
+ "vid": "mjCa8IFjM2E",
+ "segments": [
+  {"s":"01:20","e":"01:53","nut":["?"],"moi":"Cấu trúc giá lai: gói trả một lần theo số ảnh + gói tháng có thêm tính năng",
+   "tom":"AI Crea cho upload ảnh phòng, chọn phong cách (modern, Scandinavian) và vài giây sau ra ảnh căn bếp đã cải tạo. Mô hình: đăng ký được dùng thử miễn phí, hết trial phải trả tiền — có gói trả một lần kèm số ảnh cố định, và gói tháng có thêm tính năng","kq":"hơn 8.000 user, ~$8.000/tháng"},
+  {"s":"01:53","e":"02:42","nut":["?"],"moi":"Giai đoạn chồng lấn: giữ việc full-time trong lúc business chạy",
+   "tom":"Pauline học code ở trường kỹ thuật rồi vào IBM làm data science; biết mình muốn làm entrepreneur nhưng chưa dám nhảy vì cần tiền, nên chỉ có buổi tối và cuối tuần để build. Chỉ nghỉ IBM vào tháng 6, hai tháng trước buổi phỏng vấn này","kq":"nghỉ việc khi app đã ~$8K/tháng"},
+  {"s":"02:42","e":"03:14","nut":["2.10","3.2"],
+   "tom":"Ý tưởng đến từ vấn đề của chính cô hoặc của bạn bè; nếu là bạn bè thì hỏi rất nhiều — anh gặp vấn đề này, nhưng gặp bao nhiêu lần một tuần? Rồi tự chạy bộ lọc bốn câu: mình có làm tốt hơn được không, có build được cái gì quanh nó không, có kiếm tiền từ nó được không, và có tìm ra khách không. Đủ 'có' cả bốn mới bắt đầu"},
+  {"s":"03:14","e":"04:01","nut":["3.7"],
+   "tom":"Cách validate của Pauline: dựng MVP rồi mang đi chào vài môi giới bất động sản tìm được trên mạng và trong quan hệ cá nhân — có người nói 'hay quá, tôi mua ngay' và trả tiền thật. Chính lần trả tiền đó mới là validation, không phải lời khen","kq":"môi giới bất động sản trả tiền thật cho MVP"},
+  {"s":"04:01","e":"04:33","nut":["3.B6"],
+   "tom":"Ship càng sớm càng tốt vì mình tưởng khách muốn cái này nhưng thật ra họ muốn cái kia — không có khách thì không cách nào tưởng tượng đúng. MVP của AI Crea chỉ vài tính năng đơn giản, chất lượng ảnh tệ, làm trong khoảng 1 tháng; phải mất thêm một năm nữa mới cải thiện được","kq":"MVP 1 tháng, mất 1 năm mới ngon"},
+  {"s":"05:52","e":"06:40","nut":["4.9"],
+   "tom":"Cách tìm khách online: nghĩ xem khách mình đang ở đâu rồi vào Facebook, LinkedIn, Reddit gõ đúng cụm 'real estate agent' vào thanh tìm kiếm để lần ra cộng đồng. Với AI Crea kênh mạnh nhất là Facebook và sự kiện offline vì nghề môi giới là nghề người-với-người; còn với Next Directory kênh chính lại là Twitter vì cô có sẵn tệp follow đông toàn dev và dân indie hacker"},
+  {"s":"06:40","e":"07:11","nut":["?"],"moi":"Launch trên Product Hunt chủ yếu để lấy backlink SEO",
+   "tom":"Pauline vẫn launch trên Product Hunt nhưng lý do chính là lấy backlink cực tốt cho SEO — độ hiển thị giờ kém hơn xưa nhiều. Cô launch song song trên Twitter (nơi có sẵn tệp) và sẽ dùng cả newsletter; Next Directory không launch trên Facebook, còn AI Crea thì có"},
+  {"s":"07:11","e":"07:43","nut":["?"],"moi":"Chọn giá theo hình ảnh thương hiệu và sức chịu support",
+   "tom":"Bán giá thấp thì bị gắn hình ảnh hàng rẻ và hút đúng nhóm khách khác hẳn; bán giá cao thì ít khách hơn nhưng cũng ít việc hỗ trợ hơn. Nên câu hỏi giá thật ra là: mình muốn được nhìn nhận thế nào, và mình gánh nổi bao nhiêu support"},
+  {"s":"07:43","e":"08:15","nut":["?"],"moi":"Nút huỷ gói thật dễ bấm để đổi lấy lòng tin",
+   "tom":"Cô mở cả subscription lẫn trả một lần vì có nhóm khách rất ghét subscription. Bản thân từng đăng ký nhiều dịch vụ và huỷ là ác mộng — cô không muốn kiểu giữ chân đó, nên nút huỷ của cô hiện rõ ràng, huỷ rất dễ"},
+  {"s":"08:15","e":"09:03","nut":["4.15"],
+   "tom":"Ba việc kéo churn xuống mạnh sau một năm churn cao: (1) thêm gói năm — nghe ngớ ngẩn nhưng khách cam kết cả năm nên dùng dịch vụ kỹ hơn; (2) mở free trial để họ thử xem có hợp nhu cầu không trước khi trả tiền; (3) nâng chất lượng ảnh — giờ nhìn như ảnh chụp thật, khác hẳn năm ngoái","kq":"churn giảm mạnh"},
+  {"s":"09:03","e":"10:08","nut":["?"],"moi":"Stack và chi phí vận hành thật hằng tháng",
+   "tom":"Discord để nói chuyện với cofounder và cộng sự, Crisp cho khung chat hỗ trợ khách, Twitter + LinkedIn để kể hành trình, Buffer hẹn giờ tweet, beehiiv gửi newsletter (vẫn đang dùng bản free), Brevo cho automation email, Supabase làm database + authentication, Next.js là ngôn ngữ chính còn model AI thì viết Python. Chi phí vận hành 3.000–4.000 EUR/tháng gồm server, một ít ads, freelancer và tiền đi sự kiện — cô nói cắt được nhưng đang chọn đầu tư để lớn","kq":"€3–4K/tháng chi phí vận hành"},
+  {"s":"10:08","e":"10:40","nut":["?"],"moi":"Nhét AI vào sản phẩm đã có sẵn thay vì làm sản phẩm AI mới",
+   "tom":"Pauline cho rằng cơ hội lớn nhất bây giờ là cắm AI vào sản phẩm đang tồn tại — ví dụ ngày nào cũng nhận email, làm một AI trả lời email giùm; tức là một dịch vụ cắm vào một dịch vụ khác"},
+  {"s":"11:26","e":"12:14","nut":["?"],"moi":"Coi sản phẩm đầu tiên là học phí, đừng đợi sản phẩm hoàn hảo",
+   "tom":"Lời khuyên cho chính mình hồi mới bắt đầu: đừng chờ sản phẩm hoàn hảo, khả năng rất cao sản phẩm đầu tiên sẽ chết — cô không biết một entrepreneur nào thành công ngay lần đầu. Ship thật nhanh, có MVP là launch, xin thật nhiều feedback và giữ đều tay; đồng thời kết nối với dân indie hacker khác để trao đổi cả cái chạy được lẫn cái đã thất bại"},
+  {"s":"12:14","e":"12:45","nut":["?"],"moi":"Xây kết nối thật với khách thay vì rải DM hàng loạt",
+   "tom":"Bài học lớn nhất: đầu tư vào chính mình vì mình là điểm chung của mọi project mình làm. Và khi nghĩ cách tiếp cận khách thì đừng dừng ở 'chắc mình đi nhắn Reddit, nhắn Discord, DM vài người' — phải nghĩ làm sao dựng được kết nối thật với khách"}
+ ],
+ "bo_qua": [
+  {"s":"04:33","e":"05:52","ly_do":"quảng bá Starter Story Academy (chương trình 5 tuần)"},
+  {"s":"12:45","e":"14:17","ly_do":"outro tự quảng bá Starter Story Academy"}
+ ]
+}

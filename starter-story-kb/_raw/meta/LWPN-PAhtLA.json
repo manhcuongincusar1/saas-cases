@@ -1,0 +1,487 @@
+{
+  "id": "LWPN-PAhtLA",
+  "title": "My website makes $35K/month (built in 3 hours)",
+  "upload_date": "20251116",
+  "duration": 866,
+  "view_count": 91055,
+  "like_count": 2178,
+  "comment_count": 134,
+  "description": "Pontus Abrahamsson had a crazy idea on his flight to France. And as soon as he landed he called his co-founder and said, \"we need to build a directory.\" So they bought the domain, built the app in 3 hours, posted it, and it went super viral. This video breaks down why directories still work in 2025 and how to design beautiful websites with AI.\n\nJoin our Black Friday VIP list → https://www.starterstory.com/blackfriday?utm_source=youtube&utm_campaign=pontus \n\nBuild your own app → https://build.starterstory.com/build/ai-build-accelerator?utm_source=youtube&utm_campaign=pontusvideo\n\nFollow Pontus on X: https://x.com/pontusab\n\n🔔 Follow the Second Channel: @StarterStoryBuild  \n🏁 We're hiring: starterstory.com/jobs\n\nChapters:\n0:00 - Intro\n1:09 - Special Announcement\n2:02: Pontus background\n2:31 - What is a directory?\n3:13 - How Pontus found the idea\n3:50 - Building the MVP\n4:41 - How he ships fast\n5:27 - Pontus' launch strategy\n6:33 - Designing with AI\n8:03 - Check out Starter Story Build\n9:04 - Are directories dead in 2025?\n10:08 - Cursor Directory tool\n11:48 - Lean tech stack\n12:49 - \"start something simple\"\n13:36 - Final Word\n\nThis video is an educational case study of one founder’s experience. It is not financial advice and does not guarantee any income or results. Every business is different and your results may vary.",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 69,
+      "title": "Intro"
+    },
+    {
+      "start": 69,
+      "end": 151,
+      "title": "Special Announcement"
+    },
+    {
+      "start": 151,
+      "end": 193,
+      "title": "What is a directory?"
+    },
+    {
+      "start": 193,
+      "end": 230,
+      "title": "How Pontus found the idea"
+    },
+    {
+      "start": 230,
+      "end": 281,
+      "title": "Building the MVP"
+    },
+    {
+      "start": 281,
+      "end": 327,
+      "title": "How he ships fast"
+    },
+    {
+      "start": 327,
+      "end": 393,
+      "title": "Pontus' launch strategy"
+    },
+    {
+      "start": 393,
+      "end": 483,
+      "title": "Designing with AI"
+    },
+    {
+      "start": 483,
+      "end": 544,
+      "title": "Check out Starter Story Build"
+    },
+    {
+      "start": 544,
+      "end": 608,
+      "title": "Are directories dead in 2025?"
+    },
+    {
+      "start": 608,
+      "end": 708,
+      "title": "Cursor Directory tool"
+    },
+    {
+      "start": 708,
+      "end": 769,
+      "title": "Lean tech stack"
+    },
+    {
+      "start": 769,
+      "end": 816,
+      "title": "start something simple"
+    },
+    {
+      "start": 816,
+      "end": 866,
+      "title": "Final Word"
+    }
+  ],
+  "heatmap": [
+    {
+      "s": 0,
+      "v": 0.2299879374555989
+    },
+    {
+      "s": 8,
+      "v": 0.18024039215293658
+    },
+    {
+      "s": 17,
+      "v": 0.19412467801304803
+    },
+    {
+      "s": 25,
+      "v": 0.1013919713843047
+    },
+    {
+      "s": 34,
+      "v": 0.045282200269201066
+    },
+    {
+      "s": 43,
+      "v": 0.010284384779787605
+    },
+    {
+      "s": 51,
+      "v": 0.01040524116367274
+    },
+    {
+      "s": 60,
+      "v": 0.14807069990728344
+    },
+    {
+      "s": 69,
+      "v": 0.13329677946475413
+    },
+    {
+      "s": 77,
+      "v": 0.046972912378366934
+    },
+    {
+      "s": 86,
+      "v": 0.04963966154690598
+    },
+    {
+      "s": 95,
+      "v": 0.049173704871123165
+    },
+    {
+      "s": 103,
+      "v": 0.07751929083344679
+    },
+    {
+      "s": 112,
+      "v": 0.20129178734457748
+    },
+    {
+      "s": 121,
+      "v": 0.7074103264338992
+    },
+    {
+      "s": 129,
+      "v": 0.9963897001745028
+    },
+    {
+      "s": 138,
+      "v": 0.5003025699402054
+    },
+    {
+      "s": 147,
+      "v": 0.5705052985090109
+    },
+    {
+      "s": 155,
+      "v": 0.4080717898402763
+    },
+    {
+      "s": 164,
+      "v": 0.5276663905021423
+    },
+    {
+      "s": 173,
+      "v": 0.4665899929082106
+    },
+    {
+      "s": 181,
+      "v": 0.36132726280565475
+    },
+    {
+      "s": 190,
+      "v": 0.378251388296989
+    },
+    {
+      "s": 199,
+      "v": 0.2872414415230823
+    },
+    {
+      "s": 207,
+      "v": 0.37966107625309525
+    },
+    {
+      "s": 216,
+      "v": 0.3900529577385707
+    },
+    {
+      "s": 225,
+      "v": 0.28912851703366066
+    },
+    {
+      "s": 233,
+      "v": 0.21558980392456384
+    },
+    {
+      "s": 242,
+      "v": 0.268224691131465
+    },
+    {
+      "s": 251,
+      "v": 0.38827010190976696
+    },
+    {
+      "s": 259,
+      "v": 0.3619183914735863
+    },
+    {
+      "s": 268,
+      "v": 0.17618062398457415
+    },
+    {
+      "s": 277,
+      "v": 0.2297210277283701
+    },
+    {
+      "s": 285,
+      "v": 0.10055160827560525
+    },
+    {
+      "s": 294,
+      "v": 0.09612952253813191
+    },
+    {
+      "s": 303,
+      "v": 0.08718438260198588
+    },
+    {
+      "s": 311,
+      "v": 0.08711049474391168
+    },
+    {
+      "s": 320,
+      "v": 0.14362811341784923
+    },
+    {
+      "s": 329,
+      "v": 0.0991068406816251
+    },
+    {
+      "s": 337,
+      "v": 0.12512641055236792
+    },
+    {
+      "s": 346,
+      "v": 0.22440528208776664
+    },
+    {
+      "s": 355,
+      "v": 0.450115490579769
+    },
+    {
+      "s": 363,
+      "v": 0.45574614015609366
+    },
+    {
+      "s": 372,
+      "v": 0.44500452022873316
+    },
+    {
+      "s": 381,
+      "v": 0.5455223003283526
+    },
+    {
+      "s": 389,
+      "v": 0.2066545466668332
+    },
+    {
+      "s": 398,
+      "v": 0.11611242731070696
+    },
+    {
+      "s": 407,
+      "v": 0.09745991683687409
+    },
+    {
+      "s": 415,
+      "v": 0.08921046069382699
+    },
+    {
+      "s": 424,
+      "v": 0.12072877347755404
+    },
+    {
+      "s": 433,
+      "v": 0.15346728740552495
+    },
+    {
+      "s": 441,
+      "v": 0.09883704098055161
+    },
+    {
+      "s": 450,
+      "v": 0.08380473881396919
+    },
+    {
+      "s": 458,
+      "v": 0.08516318134100773
+    },
+    {
+      "s": 467,
+      "v": 0.05149480542683417
+    },
+    {
+      "s": 476,
+      "v": 0.10399287043452511
+    },
+    {
+      "s": 484,
+      "v": 0.06047863746815997
+    },
+    {
+      "s": 493,
+      "v": 0.046748616863678594
+    },
+    {
+      "s": 502,
+      "v": 0.04693020785414385
+    },
+    {
+      "s": 510,
+      "v": 0.07265267809231588
+    },
+    {
+      "s": 519,
+      "v": 0.1426453932939602
+    },
+    {
+      "s": 528,
+      "v": 0.1852464461320745
+    },
+    {
+      "s": 536,
+      "v": 0.41955448163210035
+    },
+    {
+      "s": 545,
+      "v": 0.15594476909057375
+    },
+    {
+      "s": 554,
+      "v": 0.10075978960577557
+    },
+    {
+      "s": 562,
+      "v": 0.12486986086530565
+    },
+    {
+      "s": 571,
+      "v": 0.1577393654381216
+    },
+    {
+      "s": 580,
+      "v": 0.15784263039639398
+    },
+    {
+      "s": 588,
+      "v": 0.17607090819182697
+    },
+    {
+      "s": 597,
+      "v": 0.14251188682367
+    },
+    {
+      "s": 606,
+      "v": 0.3333330150921659
+    },
+    {
+      "s": 614,
+      "v": 0.371720460261363
+    },
+    {
+      "s": 623,
+      "v": 0.34396491922677924
+    },
+    {
+      "s": 632,
+      "v": 0.34421015415017275
+    },
+    {
+      "s": 640,
+      "v": 0.35881246949400375
+    },
+    {
+      "s": 649,
+      "v": 0.3583088141415503
+    },
+    {
+      "s": 658,
+      "v": 0.30274359666947026
+    },
+    {
+      "s": 666,
+      "v": 0.23145772138567228
+    },
+    {
+      "s": 675,
+      "v": 0.22767918379707264
+    },
+    {
+      "s": 684,
+      "v": 0.19951375673996088
+    },
+    {
+      "s": 692,
+      "v": 0.16778233418852476
+    },
+    {
+      "s": 701,
+      "v": 0.3547448055042442
+    },
+    {
+      "s": 710,
+      "v": 0.26620663787771054
+    },
+    {
+      "s": 718,
+      "v": 0.3910706929919889
+    },
+    {
+      "s": 727,
+      "v": 0.7512990174398568
+    },
+    {
+      "s": 736,
+      "v": 0.980854232918887
+    },
+    {
+      "s": 744,
+      "v": 0.9586358043607435
+    },
+    {
+      "s": 753,
+      "v": 1.0
+    },
+    {
+      "s": 762,
+      "v": 0.7202804637045604
+    },
+    {
+      "s": 770,
+      "v": 0.33106972691501796
+    },
+    {
+      "s": 779,
+      "v": 0.17442297801689788
+    },
+    {
+      "s": 788,
+      "v": 0.17104418573903185
+    },
+    {
+      "s": 796,
+      "v": 0.12964387832838545
+    },
+    {
+      "s": 805,
+      "v": 0.08926708611884666
+    },
+    {
+      "s": 814,
+      "v": 0.060847173641704555
+    },
+    {
+      "s": 822,
+      "v": 0.019058506643172556
+    },
+    {
+      "s": 831,
+      "v": 0.0048496276939587885
+    },
+    {
+      "s": 840,
+      "v": 0.004951563780329372
+    },
+    {
+      "s": 848,
+      "v": 0.0
+    },
+    {
+      "s": 857,
+      "v": 0.008881741134927821
+    }
+  ],
+  "thumbnail": "https://i.ytimg.com/vi_webp/LWPN-PAhtLA/maxresdefault.webp",
+  "webpage_url": "https://www.youtube.com/watch?v=LWPN-PAhtLA",
+  "tags": []
+}

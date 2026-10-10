@@ -1,0 +1,128 @@
+{
+ "f": "2026-05-28_i-built-a-micro-version-of-a-1b-saas-now-i-make-50k",
+ "vid": "Nnpz1wsTjBI",
+ "segments": [
+  {
+   "s": "00:49",
+   "e": "01:27",
+   "nut": [
+    "?"
+   ],
+   "moi": "Bán theo credit thay vì gói tính năng",
+   "tom": "Shipper là AI app builder: nói chuyện với AI ra nguyên một app; giá tính bằng credit chứ không theo tính năng, gói rẻ nhất $25/tháng đã đủ nghịch và dựng xong một app hoàn chỉnh",
+   "kq": "hai anh em bootstrap từ 0 lên $50K/tháng"
+  },
+  {
+   "s": "01:27",
+   "e": "02:46",
+   "nut": [
+    "4.13",
+    "1.1"
+   ],
+   "tom": "Stripe: 25,6K MRR, ARR 307K, gross volume 71K vì 90% từ subscription và 10% từ top-up lẻ (cloud credits dựng backend, builder credits cho phần còn lại); ~690 khách trả tiền và ZERO user free, vì dịch vụ này tốn tiền lẫn thời gian để nuôi",
+   "kq": "$25,6K MRR, gross volume $71K/tháng, 690 khách trả tiền"
+  },
+  {
+   "s": "02:46",
+   "e": "03:29",
+   "nut": [
+    "1.2"
+   ],
+   "tom": "Từ 2019 hai anh em làm SaaS dù cả hai đều non-technical và ghét code, nên chọn học marketing thay vì học lập trình; thành công thật đầu tiên là Legit Check (xác thực hàng hiệu) và chính nó cấp vốn cho mọi thứ sau",
+   "kq": "đã build, scale, exit và mua lại vài công ty"
+  },
+  {
+   "s": "04:14",
+   "e": "04:54",
+   "nut": [
+    "?"
+   ],
+   "moi": "Chiếm 1% một thị trường tỷ đô thay vì đi tìm ý tưởng mới",
+   "tom": "Nhìn no-code và AI app builder bùng nổ — Base44 lên 3 triệu ARR trong 6 tháng, Lovable 1 triệu ARR trong một tuần và nay định giá 6 tỷ — hai anh em tính chỉ cần 1% thị trường đó là đổi đời; kế hoạch gọn: chọn một pain point chung rồi dồn hết vào"
+  },
+  {
+   "s": "04:54",
+   "e": "05:45",
+   "nut": [
+    "3.B6"
+   ],
+   "tom": "Chỉ hai anh em cộng một dev; bản đầu tệ và hỏng liên tục nhưng vẫn ship thay vì chờ hoàn hảo — hai tháng đầu khổ nhất, tháng 3 có sản phẩm chạy được, tháng 4 bắt kịp đối thủ, tháng 5-6 đã ship tính năng đối thủ chưa có",
+   "kq": "6 tháng từ bản vỡ tới vượt tính năng đối thủ"
+  },
+  {
+   "s": "05:45",
+   "e": "06:17",
+   "nut": [
+    "?"
+   ],
+   "moi": "Stack vận hành một AI SaaS bootstrap",
+   "tom": "Vận hành: Crisp support, Notion knowledge base, Frill roadmap, Encharge email, Webflow landing, WordPress cho blog SEO và trang pSEO, Typefully cho X, Tolt quản affiliate; kỹ thuật: model Claude, GitHub, Vercel, Railway, Neon"
+  },
+  {
+   "s": "06:17",
+   "e": "06:55",
+   "nut": [
+    "4.5",
+    "4.9"
+   ],
+   "tom": "Không đồng nào cho paid: launch MVP lên Product Hunt tuần đầu ra $50 MRR, Reddit kéo traction với các post đều đặn 400 upvote, song song nhắm từ khoá high-intent kiểu 'alternatives to <tên đối thủ>' và '<tên đối thủ> giá bao nhiêu'",
+   "kq": "$50 lên $1K MRR nhờ Reddit"
+  },
+  {
+   "s": "06:55",
+   "e": "07:21",
+   "nut": [
+    "?"
+   ],
+   "moi": "Build in public trên X, để link sản phẩm ở tweet thứ hai",
+   "tom": "Khoảng ngày 50 build in public thì X bắt đầu ăn và đường cong dựng đứng, chỉ 1-2 tuần lên ~20K MRR nhờ dogfood chính sản phẩm; mẹo từ Rob ở SuperX là luôn nhét link sản phẩm vào tweet thứ hai để vắt thêm traffic",
+   "kq": "1-2 tuần trên X ra ~20K MRR"
+  },
+  {
+   "s": "07:21",
+   "e": "08:29",
+   "nut": [
+    "?"
+   ],
+   "moi": "Đào Trustpilot, roadmap công khai và Discord của đối thủ để tìm khe hở",
+   "tom": "Cách tìm 1% khác biệt: đọc trang Trustpilot của đối thủ, xem public roadmap, vào luôn Discord của họ xem user than gì; chính chat support của mình cũng có người xin 'biến website này thành mobile app' — đó là gốc của tính năng mobile"
+  },
+  {
+   "s": "08:29",
+   "e": "09:15",
+   "nut": [
+    "2.7"
+   ],
+   "tom": "Khác biệt thật: đối thủ chỉ dựng được website và web app, Shipper dựng thêm mobile app, Chrome extension, bot Telegram/Discord; và lõi là xoá sạch thuật ngữ kỹ thuật vì Lovable với Base44 nói phục vụ dân non-tech mà vẫn có chỗ làm người ta sợ"
+  },
+  {
+   "s": "09:15",
+   "e": "10:05",
+   "nut": [
+    "2.9",
+    "2.7"
+   ],
+   "tom": "Công thức: nhìn một ngành lớn rồi hỏi 'cái này sẽ ra sao nếu build riêng cho người như tôi' — Duolingo cho học nấu ăn, app gym thành mạng xã hội, bản nhỏ của Calendly hay Intercom; rồi đọc review xem người ta ghét gì ở ông lớn"
+  },
+  {
+   "s": "10:05",
+   "e": "11:24",
+   "nut": [
+    "2.B1"
+   ],
+   "tom": "Pat dẫn Andrew Chen: phát minh cái mới khó vì phải đổi hành vi người dùng, canh bạc đó không hợp lý với dân bootstrap; ở thị trường đang lớn và biên tốt thì làm sai vài chỗ vẫn sống được"
+  }
+ ],
+ "bo_qua": [
+  {
+   "s": "03:29",
+   "e": "04:14",
+   "ly_do": "quảng bá database miễn phí '50+ ý tưởng AI app' (link HubSpot)"
+  },
+  {
+   "s": "11:24",
+   "e": "11:47",
+   "ly_do": "tự quảng bá database lần hai và chào kết"
+  }
+ ]
+}

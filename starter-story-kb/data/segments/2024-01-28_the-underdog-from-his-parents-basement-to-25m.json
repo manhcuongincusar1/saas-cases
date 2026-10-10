@@ -1,0 +1,33 @@
+{
+ "f": "2024-01-28_the-underdog-from-his-parents-basement-to-25m",
+ "vid": "Gv2fzC96Z40",
+ "segments": [
+  {"s":"02:10","e":"03:02","nut":["2.3"],
+   "tom":"9–10 startup thất bại cùng co-founder Henry rồi mới vấp phải GPT-2 — nghịch thử model vừa mở rồi biến năng lực đó thành Jenny, công cụ viết nội dung AI cho agency","kq":"9–10 startup trước đó đều chết"},
+  {"s":"03:02","e":"03:56","nut":["4.14"],
+   "tom":"Phân vai co-founder code / mình đi bán, rồi cold call mọi agency 8 tiếng/ngày suốt nhiều tuần từ phòng ngủ nhà bố mẹ, bị cúp máy và từ chối khoảng 99% số cuộc","kq":"đủ sống nhưng chưa bứt được"},
+  {"s":"05:07","e":"06:00","nut":["3.2","3.4"],
+   "tom":"Kẹt trần $2.000/tháng, gỡ được nhờ đổi hẳn bộ câu hỏi với user: không hỏi 'anh thích gì ở sản phẩm tôi' mà hỏi 'anh ghét gì', 'anh thích gì ở sản phẩm người khác', 'kể quy trình làm việc hiện tại của anh', và 'share màn hình cùng viết một bài với tôi'","kq":"gỡ được trần $2K/tháng"},
+  {"s":"06:00","e":"06:26","nut":["?"],"moi":"Lên podcast nhỏ để lọt mắt nhà đầu tư",
+   "tom":"Cạn sạch tài khoản, nhận lời lên một podcast gần như không ai nghe — một scout của Jason Calacanis tình cờ nghe được và rót $100.000","kq":"$100K đầu tư"},
+  {"s":"06:26","e":"06:55","nut":["?"],"moi":"Dời sang nước chi phí thấp để kéo dài runway",
+   "tom":"Vừa nhận $100K là hai co-founder bay thẳng sang Malaysia, cắt burn rate xuống còn 1/4 vì tự nhận là không tin mình giữ nổi tiền"},
+  {"s":"07:25","e":"07:50","nut":["?"],"moi":"Được nhắc tên trong thread viral của người khác",
+   "tom":"Zane Khan đăng một thread Twitter viral có kèm Jenny — refresh trang mỗi phút là thấy thêm hàng chục user, MRR nhảy từ $2K lên $10K trong đúng một tháng","kq":"$2K → $10K MRR trong 1 tháng"},
+  {"s":"07:50","e":"08:42","nut":["4.2"],
+   "tom":"Nhận ra viral tự đến thì không dựa vào được, kéo một người bạn đại học vào làm TikTok và Instagram Reels để chủ động tạo đợt viral thứ hai","kq":"$50–80K MRR, gần $1M/năm"},
+  {"s":"10:32","e":"11:00","nut":["?"],"moi":"Kiểm tra business có chạy khi vắng founder",
+   "tom":"Nghỉ vì mổ ung thư tuyến giáp, doanh nghiệp đứng yên không tăng trưởng — nhận ra Jenny chưa có product-market fit và phụ thuộc hoàn toàn vào mình, nên đã đem công ty đi rao bán","kq":"rao bán, sau đó rút lại không bán"},
+  {"s":"11:00","e":"11:27","nut":["?"],"moi":"Chia hai giai đoạn: khám phá trước, đổ vốn sau",
+   "tom":"Tới mốc $1M ARR thì cứ thử đủ thứ ý tưởng điên rồ và nhiều hướng khác nhau; từ $1M lên $3M mới dồn vốn mạnh vào đúng những hướng đã chứng minh ăn","kq":"$1M → $3M ARR"},
+  {"s":"11:27","e":"11:53","nut":["4.1","4.6","?"],"moi":"Trả creator lương cứng cộng thưởng theo view/conversion",
+   "tom":"Công thức TikTok: mở một tài khoản, thử nhiều format sáng tạo, tìm được format ăn thì biến nó thành series, rồi nhân bản ra nhiều tài khoản với nhiều creator — mỗi creator nhận lương cứng hàng tháng cộng thưởng theo mốc lượt xem hoặc theo số conversion"},
+  {"s":"11:53","e":"12:22","nut":["?"],"moi":"Khung thời gian thật của một thành công",
+   "tom":"Mở công ty đầu tiên năm 16 tuổi, giờ 27 tuổi — 9 năm liên tục ăn đấm, và toàn bộ phần 'thành công' chỉ gói trong 18 tháng cuối cùng","kq":"~10 năm thất bại trước 18 tháng thắng"},
+  {"s":"12:50","e":"13:16","nut":["1.5"],
+   "tom":"Nếu bán công ty ở thời điểm định bán 6–7 tháng trước thì đã mất phần lớn giá trị — sau đó doanh thu lên trên $3M ARR, giá trị thật ước chừng $10–30M, tức hơn gấp đôi chỉ trong 6 tháng","kq":"$3M+ ARR, định giá $10–30M"}
+ ],
+ "bo_qua": [
+  {"s":"13:16","e":"14:08","ly_do":"tự quảng bá Starter Story và báo cáo 52 ý tưởng micro-SaaS miễn phí"}
+ ]
+}

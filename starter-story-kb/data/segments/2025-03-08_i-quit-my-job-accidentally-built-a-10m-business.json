@@ -1,0 +1,42 @@
+{
+ "f": "2025-03-08_i-quit-my-job-accidentally-built-a-10m-business",
+ "vid": "gU9FtZIfb_M",
+ "segments": [
+  {"s":"01:38","e":"02:10","nut":["1.2"],
+   "tom":"Oceans là dịch vụ outsourcing nhân sự vận hành tay nghề cao cho hàng trăm khách (entrepreneur, brand e-com, công ty dịch vụ): ý tưởng cuối 2021, hợp đồng đầu tiên tháng 2/2022, năm đầu $650K doanh thu, năm ngoái ~$15 triệu",
+   "kq":"$650K năm 1 → ~$15 triệu/năm, lãi vài triệu đô"},
+  {"s":"02:10","e":"02:56","nut":["1.1","1.3"],
+   "tom":"Cơ chế ăn tiền: tuyển người ở Sri Lanka, Nam Phi..., ghép full-time 40 giờ/tuần dài hạn vào team khách (dự all-hands, có trên calendar, trên Slack); thu $3.000-4.000/tháng mỗi đầu người — EA rẻ hơn, financial controller đắt hơn — trả lương và phúc lợi cho nhân sự rồi ăn phần chênh"},
+  {"s":"03:26","e":"04:14","nut":["?"],"moi":"Không gọi vốn để khỏi bị board đặt chỉ tiêu",
+   "tom":"Công ty app đầu tiên của anh có VC và cuối cùng bán được, nhưng anh nhận ra hễ gọi vốn là board chỉ định chỉ số phải đạt và mình lên máy chạy bộ của vòng gọi vốn tiếp theo — không còn là làm cho mình nữa"},
+  {"s":"04:14","e":"04:46","nut":["1.2"],
+   "tom":"Anh thiết kế doanh nghiệp ngược từ câu hỏi 'tôi muốn sống thế nào' chứ không từ 'làm sao kiếm nhiều nhất' hay 'gọi được nhiều vốn nhất' — sống ở đâu, sống ra sao phải là dữ kiện đầu vào để chọn loại doanh nghiệp"},
+  {"s":"05:01","e":"06:06","nut":["2.6","?"],"moi":"Đưa lợi thế chỉ tập đoàn lớn có xuống cho doanh nghiệp nhỏ",
+   "tom":"Offshoring vốn là vũ khí bí mật của các tập đoàn suốt hàng chục năm (Google 180.000 nhân sự thì 120.000 ở nước ngoài, Microsoft tỉ lệ tương tự) nhưng chỉ ai đủ tiền dựng team lớn mới xài được; Covid làm mọi thứ remote nên phòng khám, hãng kế toán, văn phòng luật, agency sáng tạo lần đầu chịu mở cửa cho nhân sự toàn cầu"},
+  {"s":"06:06","e":"06:21","nut":["2.7"],
+   "tom":"Khoảnh khắc bật đèn: ngành này đã tồn tại, đã biết chắc người ta cần — vậy chỉ cần mình làm ra sản phẩm tốt hơn. Công thức của anh là tìm thứ người ta đã muốn rồi làm khác đi hoặc làm hay hơn"},
+  {"s":"06:21","e":"07:06","nut":["2.9","?"],"moi":"Chuyên một dọc hẹp trong ngành đã bị hàng hoá hoá",
+   "tom":"Chính anh mỗi ngày nhận 10 email của các công ty offshoring khác chào mời — ngành đã commodity nên phải nổi bật bằng cách giỏi nhất một hạng mục: chỉ dựng video, chỉ minh hoạ, chỉ vẽ CAD cho công ty kiến trúc",
+   "kq":"chuyên một dọc là dễ chạm $1-2 triệu doanh thu"},
+  {"s":"08:25","e":"09:14","nut":["3.7","4.14"],
+   "tom":"Khởi động: không gọi vốn, sở hữu 100%, không biết gì về ngành; thuê một người làm EA 10 năm để soạn giáo trình đào tạo, tuyển đúng 3 người quen từ Sri Lanka làm cohort đầu, rồi chào cho bạn bè với giá giảm sâu — 3 khách đầu không lời đồng nào, mục tiêu chỉ là đưa dịch vụ vào tay người thật"},
+  {"s":"09:14","e":"10:14","nut":["3.7","3.6"],
+   "tom":"Bộ lọc của anh: 'nếu tôi làm cái này, ngày mai gọi cho ai đó thì họ mua được không' — đừng chọn việc phải mua Facebook Ads bán cho người lạ ở Arkansas. Nhưng anh cũng kể nỗi sợ khi cạn danh sách quen: liệu đây có phải doanh nghiệp thật, hay chỉ bán cho bạn bè vì họ quý mình — chỉ tới khi khách cũ giới thiệu người lạ anh mới yên tâm"},
+  {"s":"10:14","e":"11:16","nut":["?"],"moi":"Thiết kế để khách được làm người hùng khi giới thiệu",
+   "tom":"Marketing $0 từ đầu, toàn bộ tăng trưởng bằng referral: dịch vụ tốt là điều kiện cần (không ai giới thiệu thứ tệ), rồi thay vì vội dựng funnel giới thiệu thì hãy đặt khách vào vị thế được làm người hùng với bạn họ — 'trông cậu bơ phờ quá, để tớ nối cậu với Oceans'"},
+  {"s":"11:16","e":"11:33","nut":["1.4","?"],"moi":"Chọn ngách mà khách vốn đã tự bàn với nhau về vấn đề đó",
+   "tom":"Tệp khách của Oceans là chủ doanh nghiệp, mà chủ doanh nghiệp thì lúc nào cũng nói chuyện tuyển người và tìm khách với nhau — chọn đúng hạng mục kiểu đó là có sẵn truyền miệng gắn trong mô hình"},
+  {"s":"11:33","e":"12:37","nut":["4.14"],
+   "tom":"Cách làm dịch vụ xuất sắc rất đời thường: trả lời email trong 5 phút, có sự cố thì lên điện thoại nhận lỗi và tặng luôn một tháng dịch vụ, ngồi sửa email và làm Canva cùng EA — và 20-50 khách đầu tiên bắt buộc phải đích thân lao vào, gọi điện, làm vượt xa mức mình sẽ làm khi công ty đã lớn"},
+  {"s":"12:37","e":"13:22","nut":["?"],"moi":"Vận hành công ty dịch vụ bằng Google Sheets",
+   "tom":"Anh ghét chi tiền cho tool: gần như mọi thứ chạy trên Google Suite (cả dashboard công ty nằm trong Google Sheets, Google Classroom cho đào tạo), thêm Stripe thu tiền, Notion để tổ chức tài liệu, tl;dv ghi lại cuộc họp và HubSpot làm CRM"},
+  {"s":"13:22","e":"14:22","nut":["?"],"moi":"Rút quy trình ra khỏi đầu người khi vượt 5-8 nhân sự",
+   "tom":"Điểm gãy lớn nhất khi lớn lên: giai đoạn 5-8 người thì ai làm ra quy trình cũng chính là người chạy quy trình nên không cần viết ra; thành tổ chức thì mọi thứ vỡ — moi kiến thức từ trong đầu người ra thành quy trình là việc đau đớn nhất, nhất là khi đang tuyển 30-40 người mỗi tháng"},
+  {"s":"14:22","e":"15:26","nut":["?"],"moi":"Tuyển người trái ngành có nền vận hành rồi tự đào tạo",
+   "tom":"Anh cố tình tuyển từ chỗ không ai để ý: người US đầu tiên anh thuê từng là trưởng trại hè trẻ em ở Mass Audubon — xoay được đám trẻ la hét và 20-30 phụ huynh giận dữ mỗi tuần thì bán hàng là kỳ nghỉ, giờ cô là chief of staff; EA cũng vậy, không tuyển người từng làm EA mà tuyển người nền vận hành lạ rồi đào tạo"}
+ ],
+ "bo_qua": [
+  {"s":"07:06","e":"08:25","ly_do":"quảng cáo HubSpot — solopreneur business guide"},
+  {"s":"20:23","e":"20:55","ly_do":"quảng bá list 99 vấn đề đáng giải và cộng đồng Starter Story"}
+ ]
+}

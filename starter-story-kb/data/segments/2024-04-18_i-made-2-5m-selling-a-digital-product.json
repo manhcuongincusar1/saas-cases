@@ -1,0 +1,40 @@
+{
+ "f": "2024-04-18_i-made-2-5m-selling-a-digital-product",
+ "vid": "OKl0C3zg0LU",
+ "segments": [
+  {"s":"01:20","e":"02:11","nut":["2.2"],
+   "tom":"Cấu trúc tài sản: kênh chính Thomas Frank gần 3 triệu sub và 180 triệu view lifetime, kênh phụ Thomas Frank Explains chỉ dạy Notion với 230.000 sub, email list riêng về Notion 60–70K trên tổng list 200K. Hai sản phẩm bán: Ultimate Brain (năng suất cá nhân — task, ghi chú, quản lý dự án, dashboard GTD) và Creator's Companion, chính là hệ thống quản lý YouTube/social/blog nội bộ của họ đem productize","kq":"$2,5 triệu doanh thu template, ~30.000 khách"},
+  {"s":"04:26","e":"04:54","nut":["?"],"moi":"Bị từ chối guest post thì tự mở blog của mình",
+   "tom":"Thức trắng một đêm viết bài guest post cho Hack College (bản Lifehacker cho sinh viên) và bị từ chối thẳng — anh lấy luôn chính bài đó mở collegeinfogeek.com và viết suốt mấy năm đại học, hoàn toàn vì vui"},
+  {"s":"04:54","e":"05:22","nut":["4.9","?"],"moi":"Tách kênh phụ cho nội dung siêu ngách không hợp brand kênh chính",
+   "tom":"Kênh chính mở 2014, đăng đều mỗi tuần lên tới 1 triệu sub, video nào cũng có sponsor và áp lực phải đạt 100–200K view mỗi video — nó thành công việc và hút hết tự do sáng tạo. Năm 2020 vài video Notion trên kênh chính chạy tốt nhưng tutorial siêu ngách không hợp branding kênh lớn, nên anh mở hẳn kênh mới và thấy vui trở lại"},
+  {"s":"05:22","e":"05:48","nut":["4.7"],
+   "tom":"Số thật của hai lần ra mắt: Creator's Companion vài tháng đầu khoảng $3.000/tháng rồi lên $15.000/tháng trong 6 tháng đầu; còn Ultimate Brain thu $90.000 chỉ từ một email launch tới waitlist 3.200 người","kq":"$90K trong 30 ngày từ waitlist 3.200 người"},
+  {"s":"05:48","e":"06:15","nut":["4.1","?"],"moi":"Video 45 phút vừa là quảng cáo vừa là bài dạy",
+   "tom":"Làm một video 45 phút trên kênh Notion đi hết template — cả video thực chất là quảng cáo, nhưng cho xem nhiều tới mức người ta có thể tự dựng lại vài phần mà không cần mua, nên vẫn là nội dung giáo dục. Video chạy tốt tới mức đẩy doanh thu lên $100.000/tháng","kq":"lên $100K/tháng"},
+  {"s":"06:15","e":"06:42","nut":["4.14","3.4"],
+   "tom":"Từ đầu Creator's Companion đã có support chủ động: không hợp thì hoàn tiền, còn kẹt hay muốn tuỳ biến thì được hỗ trợ tận nơi — và anh tự ngồi làm support 8 tiếng/ngày suốt ít nhất một tháng. Anh nói founder nên tự làm khâu này vì đó là cách duy nhất bắt được cách người ta nhìn sản phẩm, chỗ nào dễ và chỗ nào họ tắc","kq":"$100–120K/tháng"},
+  {"s":"06:42","e":"07:34","nut":["2.2"],
+   "tom":"Cơ chế bán template Notion đơn giản tới mức khó tin: một trang Notion đặt public rồi tick ô cho phép duplicate, thế thôi — làm thứ hữu ích cho chính mình hoặc cho khách, đưa link ra, bán quyền truy cập link. Creator's Companion chính là bản tiến hoá từ 2018 tới 2021 của mọi thứ họ cần để làm video YouTube, chỉ việc đánh bóng, thêm vài thứ như dashboard tái sử dụng nội dung rồi đóng gói; Ultimate Brain cũng từ một template quản lý task anh làm cho bản thân rồi bồi thêm ghi chú, GTD, quản lý dự án, theo dõi mục tiêu"},
+  {"s":"07:34","e":"08:27","nut":["4.5","4.7","?"],"moi":"Phễu 4 loại nội dung → template free → email → template trả tiền",
+   "tom":"Kênh Notion là cửa vào, chạy 4 loại nội dung: build guide dạy tự dựng habit tracker hay task manager (luôn kèm một template miễn phí), tin về tính năng mới của Notion (vì người ta đang search), nội dung nền tảng như một khoá cơ bản miễn phí học Notion từ số 0, và listicle giải trí kiểu '10 cách bạn đang dùng Notion sai'. Mỗi video làm đúng một trong ba việc: pitch template trả tiền, pitch template miễn phí, hoặc mời vào email list qua trang tài nguyên và cheat sheet. Vừa vào list là nhận autoresponder: 'chúc bạn dùng vui, đây là toàn bộ template miễn phí khác, muốn nâng cấp thì có Ultimate Brain, đây là mã giảm giá cho subscriber'"},
+  {"s":"08:27","e":"09:20","nut":["?"],"moi":"Neo giá theo giá trị thay thế hàng tháng rồi bán một lần",
+   "tom":"Lập luận định giá: nếu người ta chạy được cả business creator từ lúc bắt ý tưởng tới lúc xuất bản trong một công cụ duy nhất thì họ sẵn sàng trả hàng chục tới hàng trăm đô mỗi tháng, vậy ít nhất phải tính trên $100 cho bản mua một lần. Ra mắt ở $99 và $149 cho bản cao hơn; hiện $129 cho riêng Ultimate Brain và $229 cho bundle đầy đủ, và bundle là thứ đa số chọn. Năm ngoái tăng giá: số lượng bán giảm nhẹ nhưng tổng doanh thu tăng","kq":"tăng giá → volume giảm nhẹ, doanh thu tăng"},
+  {"s":"09:20","e":"10:14","nut":["1.1","?"],"moi":"Chống lậu sản phẩm số bằng cách bán quyền support thay vì bán file",
+   "tom":"Template Notion chỉ là một cái link nên copy lậu rất dễ; cách anh xử lý là không cố khoá file mà bán quyền truy cập support có trả phí, dùng Circle.so với login khách hàng thật. Thanh toán qua Lemon Squeezy vì họ là merchant of record nên lo trọn phần thuế; ConvertKit cho email, funnel và autoresponder; Pipedream cho automation (giống Zapier nhưng cho dev, viết JavaScript/Node.js). Dựng lại từ đầu thì chỉ cần đồ quay, một website Framer $15–30/tháng, phân phối miễn phí trên YouTube/Twitter/LinkedIn","kq":"toàn bộ chi phí SaaS dưới vài trăm đô/tháng"},
+  {"s":"10:14","e":"11:07","nut":["4.11","4.1"],
+   "tom":"Cách bắt đầu YouTube: cần số reps — vòng lặp học, thử, xuất bản để lấy feedback. Cứ đăng đúng lịch và mỗi lần cải thiện đúng một thứ nhỏ, ba năm sau tự nhiên biết color grading, dựng âm thanh, dựng set, animation, nói trước camera tốt hơn — và học được tất cả trong lúc nội dung vẫn đang nuôi business và xây khán giả"},
+  {"s":"11:07","e":"12:00","nut":["4.5","?"],"moi":"Giăng lưới rộng hơn ngách một bậc rồi lọc xuống (mô hình Zapier)",
+   "tom":"Sức mạnh của kênh ngách là không phải làm người ta quan tâm tới mình, mà làm nội dung về thứ họ đã quan tâm sẵn — Notion vốn đã có đông người đang đi tìm câu trả lời, anh chỉ đáp ứng cầu có sẵn. Khuôn mẫu anh học theo là marketing của Zapier: ngách automation cực nhỏ nên họ giăng lưới rộng hơn một bậc quanh workflow và productivity (top calendar app, top phần mềm năng suất), rồi trong đám đó có một phần nhỏ tự nhận ra 'à tôi muốn nối hai app này, công cụ của anh làm được'"},
+  {"s":"12:00","e":"12:54","nut":["1.2","?"],"moi":"Đo ngách bằng câu hỏi: một phần mười lượng view có ra cùng doanh thu không",
+   "tom":"Đừng cho rằng 'phần mềm ngách + template' là cách duy nhất — điều kiện là ngách đang có groundswell, còn mô hình kiếm tiền có thể là consulting, khoá học, template, hay SaaS xây chồng lên phần mềm đó. Bộ câu hỏi để chấm ngách nhỏ: nhóm này là doanh nghiệp hay enterprise, và với một phần mười lượng view thì có ra được cùng mức doanh thu không"},
+  {"s":"13:26","e":"13:52","nut":["3.B6"],
+   "tom":"Trở ngại lớn nhất là self-doubt cộng với cầu toàn: hồi mới làm video, anh tin mình có thể làm ra một video hoàn hảo, bỏ ra nhiều tuần cho nó rồi cuối cùng không bao giờ đăng — trong khi sự thật là phải đăng để nhận feedback rồi mới siết chặt dần được","kq":"video hoàn hảo đó không bao giờ được đăng"},
+  {"s":"13:52","e":"14:50","nut":["?"],"moi":"Fan first — làm fan thật để đi vào mạng lưới",
+   "tom":"Lời khuyên lớn nhất là kết bạn với những người tham vọng cũng đang xây business, theo cách anh gọi là 'fan first': thành fan thật của người mình quan tâm, chia sẻ nội dung của họ, comment đều — sự chú ý đó dần dẫn tới hội thoại, tới gặp nhau ở hội thảo, tới tình bạn, và cuối cùng thành mạng lưới liên tục cho nhau feedback"}
+ ],
+ "bo_qua": [
+  {"s":"03:32","e":"04:26","ly_do":"quảng bá Starter Story: 4.000 case study và database 102 ý tưởng sản phẩm số"},
+  {"s":"14:50","e":"15:29","ly_do":"outro quảng bá database 102 ý tưởng sản phẩm số của Starter Story"}
+ ]
+}

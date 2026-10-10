@@ -1,0 +1,528 @@
+{
+  "id": "npcL7oRZQlI",
+  "title": "How I Built It: $9K/Month Micro-SaaS",
+  "upload_date": "20250611",
+  "duration": 936,
+  "view_count": 173445,
+  "like_count": 4368,
+  "comment_count": 152,
+  "description": "This is how Leandro Zubrezki built a niche app to $9K MRR.\n\nFind the next successful idea → https://go.starterstory.com/mondayleandro\n\n🛠️ Check out Starter Story Build → https://build.starterstory.com/build/ai-build-accelerator?utm_source=youtube&utm_campaign=leandro\n\nFollow Leandro on X: https://x.com/LeanZubrezki\n\n🔔 Follow the Second Channel: ‪‪@StarterStoryBuild \n🏁 We're hiring: starterstory.com/jobs\n\nChapters:\n0:00 - Intro\n0:44 - Who is Leandro\n1:09 - Sync2sheets breakdown\n1:43 - How Leandro found an idea\n2:42 - How to find great business opportunities\n3:24 - Leandro’s backstory\n4:29 - How Leandro built Sync2sheets\n5:09 - How to find ideas\n5:47 - How to validate ideas\n6:51 - How to build an MVP\n7:32 - The best marketplace to build for\n9:01 - Leandro’s launch process\n9:49 - Growth & marketing\n11:15 - Tech stack\n12:02 - Costs & margins\n12:34 - Lessons learned\n13:14 - Day in the life\n13:56 - Advice: make your first $1\n14:47 - Final word\n\nThis video is an educational case study of one founder’s experience. It is not financial advice and does not guarantee any income or results. Every business is different and your results may vary.",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 44,
+      "title": "Intro"
+    },
+    {
+      "start": 44,
+      "end": 69,
+      "title": "Who is Leandro"
+    },
+    {
+      "start": 69,
+      "end": 103,
+      "title": "Sync2sheets breakdown"
+    },
+    {
+      "start": 103,
+      "end": 162,
+      "title": "How Leandro found an idea"
+    },
+    {
+      "start": 162,
+      "end": 204,
+      "title": "How to find great business opportunities"
+    },
+    {
+      "start": 204,
+      "end": 269,
+      "title": "Leandro’s backstory"
+    },
+    {
+      "start": 269,
+      "end": 309,
+      "title": "How Leandro built Sync2sheets"
+    },
+    {
+      "start": 309,
+      "end": 347,
+      "title": "How to find ideas"
+    },
+    {
+      "start": 347,
+      "end": 411,
+      "title": "How to validate ideas"
+    },
+    {
+      "start": 411,
+      "end": 452,
+      "title": "How to build an MVP"
+    },
+    {
+      "start": 452,
+      "end": 541,
+      "title": "The best marketplace to build for"
+    },
+    {
+      "start": 541,
+      "end": 589,
+      "title": "Leandro’s launch process"
+    },
+    {
+      "start": 589,
+      "end": 675,
+      "title": "Growth & marketing"
+    },
+    {
+      "start": 675,
+      "end": 722,
+      "title": "Tech stack"
+    },
+    {
+      "start": 722,
+      "end": 754,
+      "title": "Costs & margins"
+    },
+    {
+      "start": 754,
+      "end": 794,
+      "title": "Lessons learned"
+    },
+    {
+      "start": 794,
+      "end": 836,
+      "title": "Day in the life"
+    },
+    {
+      "start": 836,
+      "end": 887,
+      "title": "Advice: make your first $1"
+    },
+    {
+      "start": 887,
+      "end": 936,
+      "title": "Final word"
+    }
+  ],
+  "heatmap": [
+    {
+      "s": 0,
+      "v": 0.14784075921042267
+    },
+    {
+      "s": 9,
+      "v": 0.08821574896200661
+    },
+    {
+      "s": 18,
+      "v": 0.04056293974297222
+    },
+    {
+      "s": 28,
+      "v": 0.02290810218293064
+    },
+    {
+      "s": 37,
+      "v": 0.17108679996804768
+    },
+    {
+      "s": 46,
+      "v": 0.49271234648787404
+    },
+    {
+      "s": 56,
+      "v": 0.5479857088159328
+    },
+    {
+      "s": 65,
+      "v": 0.302111486912544
+    },
+    {
+      "s": 74,
+      "v": 0.28602336677666124
+    },
+    {
+      "s": 84,
+      "v": 0.18900354241802084
+    },
+    {
+      "s": 93,
+      "v": 0.11759305603359939
+    },
+    {
+      "s": 102,
+      "v": 0.138334819064942
+    },
+    {
+      "s": 112,
+      "v": 0.150194366511519
+    },
+    {
+      "s": 121,
+      "v": 0.1747400755004068
+    },
+    {
+      "s": 131,
+      "v": 0.1554811799722751
+    },
+    {
+      "s": 140,
+      "v": 0.16778123053389937
+    },
+    {
+      "s": 149,
+      "v": 0.17657444080789284
+    },
+    {
+      "s": 159,
+      "v": 0.36625447015259344
+    },
+    {
+      "s": 168,
+      "v": 0.38355023758309115
+    },
+    {
+      "s": 177,
+      "v": 0.2875042386451015
+    },
+    {
+      "s": 187,
+      "v": 0.24537649950472226
+    },
+    {
+      "s": 196,
+      "v": 0.21547468418109653
+    },
+    {
+      "s": 205,
+      "v": 0.11095683868835131
+    },
+    {
+      "s": 215,
+      "v": 0.07349091345913186
+    },
+    {
+      "s": 224,
+      "v": 0.08598617036190781
+    },
+    {
+      "s": 234,
+      "v": 0.07286277632820165
+    },
+    {
+      "s": 243,
+      "v": 0.03968131264872676
+    },
+    {
+      "s": 252,
+      "v": 0.04700742093419766
+    },
+    {
+      "s": 262,
+      "v": 0.2639942641021947
+    },
+    {
+      "s": 271,
+      "v": 0.4629563233711061
+    },
+    {
+      "s": 280,
+      "v": 0.3263142349792313
+    },
+    {
+      "s": 290,
+      "v": 0.24070666979390026
+    },
+    {
+      "s": 299,
+      "v": 0.19082888302159948
+    },
+    {
+      "s": 308,
+      "v": 0.24803925280551603
+    },
+    {
+      "s": 318,
+      "v": 0.2130002522814956
+    },
+    {
+      "s": 327,
+      "v": 0.23572199543742456
+    },
+    {
+      "s": 336,
+      "v": 0.1740408050767618
+    },
+    {
+      "s": 346,
+      "v": 0.2244694535669283
+    },
+    {
+      "s": 355,
+      "v": 0.2932796500188781
+    },
+    {
+      "s": 365,
+      "v": 0.2252690378983793
+    },
+    {
+      "s": 374,
+      "v": 0.21632489111456368
+    },
+    {
+      "s": 383,
+      "v": 0.18405419079698612
+    },
+    {
+      "s": 393,
+      "v": 0.1489981830299756
+    },
+    {
+      "s": 402,
+      "v": 0.15329349861550065
+    },
+    {
+      "s": 411,
+      "v": 0.1500578872669244
+    },
+    {
+      "s": 421,
+      "v": 0.14902900450032272
+    },
+    {
+      "s": 430,
+      "v": 0.13423609567804823
+    },
+    {
+      "s": 439,
+      "v": 0.17552070130153638
+    },
+    {
+      "s": 449,
+      "v": 0.3106078797749789
+    },
+    {
+      "s": 458,
+      "v": 0.10412387392843421
+    },
+    {
+      "s": 468,
+      "v": 0.1899664140211525
+    },
+    {
+      "s": 477,
+      "v": 0.17434385330354885
+    },
+    {
+      "s": 486,
+      "v": 0.15288563521581378
+    },
+    {
+      "s": 496,
+      "v": 0.13258969699224024
+    },
+    {
+      "s": 505,
+      "v": 0.09022853510485093
+    },
+    {
+      "s": 514,
+      "v": 0.08053324248021258
+    },
+    {
+      "s": 524,
+      "v": 0.07441532474548866
+    },
+    {
+      "s": 533,
+      "v": 0.29972767900525144
+    },
+    {
+      "s": 542,
+      "v": 0.3356190373135474
+    },
+    {
+      "s": 552,
+      "v": 0.3693069044029413
+    },
+    {
+      "s": 561,
+      "v": 0.20526714537140509
+    },
+    {
+      "s": 570,
+      "v": 0.1913140218343509
+    },
+    {
+      "s": 580,
+      "v": 0.23689398739080345
+    },
+    {
+      "s": 589,
+      "v": 0.26736546774657854
+    },
+    {
+      "s": 599,
+      "v": 0.38837302161222564
+    },
+    {
+      "s": 608,
+      "v": 0.49297395203259003
+    },
+    {
+      "s": 617,
+      "v": 0.5587178778331153
+    },
+    {
+      "s": 627,
+      "v": 0.45881986031332683
+    },
+    {
+      "s": 636,
+      "v": 0.4323725996463403
+    },
+    {
+      "s": 645,
+      "v": 0.4303382495611128
+    },
+    {
+      "s": 655,
+      "v": 0.32665916936248285
+    },
+    {
+      "s": 664,
+      "v": 0.21775731340551582
+    },
+    {
+      "s": 673,
+      "v": 0.4582047169821257
+    },
+    {
+      "s": 683,
+      "v": 0.4007467110968879
+    },
+    {
+      "s": 692,
+      "v": 0.768458471367048
+    },
+    {
+      "s": 702,
+      "v": 1.0
+    },
+    {
+      "s": 711,
+      "v": 0.7566790819170932
+    },
+    {
+      "s": 720,
+      "v": 0.3093198970939844
+    },
+    {
+      "s": 730,
+      "v": 0.22835836921826497
+    },
+    {
+      "s": 739,
+      "v": 0.13750962408726733
+    },
+    {
+      "s": 748,
+      "v": 0.17063611911566992
+    },
+    {
+      "s": 758,
+      "v": 0.20881367661725272
+    },
+    {
+      "s": 767,
+      "v": 0.40573633019285094
+    },
+    {
+      "s": 776,
+      "v": 0.6253930111650776
+    },
+    {
+      "s": 786,
+      "v": 0.3784685532030409
+    },
+    {
+      "s": 795,
+      "v": 0.1066468330135421
+    },
+    {
+      "s": 804,
+      "v": 0.08511031952163747
+    },
+    {
+      "s": 814,
+      "v": 0.048837828232721835
+    },
+    {
+      "s": 823,
+      "v": 0.05110121066846392
+    },
+    {
+      "s": 833,
+      "v": 0.13481465237178697
+    },
+    {
+      "s": 842,
+      "v": 0.14965354948866572
+    },
+    {
+      "s": 851,
+      "v": 0.18712427532819462
+    },
+    {
+      "s": 861,
+      "v": 0.1743256930271357
+    },
+    {
+      "s": 870,
+      "v": 0.09748704680589508
+    },
+    {
+      "s": 879,
+      "v": 0.031374782261002085
+    },
+    {
+      "s": 889,
+      "v": 0.0031745892720329025
+    },
+    {
+      "s": 898,
+      "v": 0.0478703001484586
+    },
+    {
+      "s": 907,
+      "v": 0.0945212231045946
+    },
+    {
+      "s": 917,
+      "v": 0.0613436730866422
+    },
+    {
+      "s": 926,
+      "v": 0.0
+    }
+  ],
+  "thumbnail": "https://i.ytimg.com/vi_webp/npcL7oRZQlI/maxresdefault.webp",
+  "webpage_url": "https://www.youtube.com/watch?v=npcL7oRZQlI",
+  "tags": [
+    "starterstory",
+    "starters story",
+    "starter story",
+    "starter stories",
+    "starter story ideas",
+    "how i built it",
+    "micro-saas ideas",
+    "micro saas ideas",
+    "indie hackers",
+    "saas ideas",
+    "saas",
+    "business ideas",
+    "how i built it: ai apps",
+    "ai app business",
+    "john rush"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+ "f": "2025-09-27_how-we-built-a-10k-mo-saas",
+ "vid": "3eY71OS4MFw",
+ "segments": [
+  {"s":"00:00","e":"00:46","nut":["3.B8"],
+   "tom":"Cả hai từng dính builder's disease — Josef bỏ freelance, build suốt một năm không traction; lần này đổi luật: lấy tiền trước, $500 vào tài khoản trước khi viết dòng code đầu tiên","kq":"1 năm build không có khách nào"},
+  {"s":"01:02","e":"01:32","nut":["?"],"moi":"Giá bậc thang $50–$5.000/tháng cho AI thay sales rep",
+   "tom":"Setter AI theo đuổi và lọc lead ngay khi họ để lại thông tin; subscription từ $50/tháng, nhiều khách trả trên $500, khách lớn nhất $5.000/tháng; nhắm ngành solar, coach, dịch vụ tài chính"},
+  {"s":"01:32","e":"02:33","nut":["3.7"],
+   "tom":"Dựng landing page từ nhiều tháng trước khi bắt đầu, đặt trên domain cũ của startup trước đã được Google index, gắn demo giả của sản phẩm chưa tồn tại để đo xem chủ doanh nghiệp có chịu trả tiền"},
+  {"s":"02:33","e":"03:58","nut":["?"],"moi":"Landing page một keyword + demo giả, ép Google index trong 24h",
+   "tom":"Trang chỉ có một H1 là keyword tìm từ Ahrefs (có volume, difficulty gần 0), video demo AI caller giả dựng bằng ElevenLabs, CTA là link Calendly; vào Google Search Console request index, 24h sau đã lên Google"},
+  {"s":"03:58","e":"04:48","nut":["3.6","3.7"],
+   "tom":"Chỉ coi là validated khi khách quẹt thẻ: cú Stripe $500 tháng 2/2024 lúc chưa có sản phẩm, cộng thêm một công ty doanh thu tỷ đô đặt lịch demo ngay từ landing page giả","kq":"$500 trước khi viết dòng code nào"},
+  {"s":"04:48","e":"05:24","nut":["2.1"],
+   "tom":"Bước 1 của playbook validate: từng đi làm thuê là lợi thế thật — ý tưởng B2B không nằm trên Reddit vì chủ doanh nghiệp không lên đó, phải ở trong quy trình mới thấy chỗ đau"},
+  {"s":"05:24","e":"05:55","nut":["3.7","4.5"],
+   "tom":"Bước 2–3: research keyword bằng Ahrefs hoặc tool SEO free, dựng landing page nhắm đúng từ người mua gõ, CTA là link Calendly để họ thấy mặt người thật rồi chốt thẻ ngay trong cuộc gọi"},
+  {"s":"05:55","e":"06:41","nut":["3.7","?"],"moi":"Đặt cọc hoàn 100% thay vì bán sản phẩm chưa có",
+   "tom":"Bước 4–5: đừng bắt trả tiền cho thứ chưa tồn tại mà chào đặt cọc $500 hoàn 100%, đổi lại full access khi launch và suất trong đợt đầu; phải high ticket chứ đừng thu $20, rồi để SEO ủ vài tháng"},
+  {"s":"07:41","e":"08:37","nut":["2.3","?"],"moi":"Cơ hội ở mảng AI builder chưa với tới mobile",
+   "tom":"Hai cơ hội họ thấy đáng làm 2025: dán/glue các phần mềm và tự động hoá workflow bằng AI cho dân không biết code, và một Lovable cho mobile app — builder dựng app Swift, mảng Lovable tỷ đô chưa chạm tới"},
+  {"s":"08:37","e":"09:14","nut":["4.1","4.5"],
+   "tom":"Growth thuần inbound, nhân đôi đúng kênh đã validate: website thật lên page 1 Google trong một tuần và giờ số 1 thế giới cho keyword chính, nhờ tool free (sales script generator) và bài kiểu HubSpot alternatives"},
+  {"s":"09:14","e":"09:47","nut":["4.5","?"],"moi":"YouTube dài để tạo niềm tin trước cuộc gọi bán B2B",
+   "tom":"Kênh bị đánh giá thấp nhất là YouTube long-form: hầu hết khách chốt được đều đã xem ít nhất một video dài trước khi lên call — vừa tạo niềm tin vừa là công cụ tìm kiếm lớn thứ hai sau Google"},
+  {"s":"09:47","e":"10:25","nut":["1.3","?"],"moi":"Chọn ít khách giá cao để giảm churn",
+   "tom":"Số thật: đúng 10K tháng trước, 2.000 signup nhưng chỉ 38 khách trả tiền vì cố tình dồn về nhóm chi cao (churn thấp hơn); apply YC 5 lần, được 1 interview, chưa đậu; đang cân nhắc offer mua lại","kq":"$10K MRR với 38 khách trả tiền"},
+  {"s":"10:25","e":"11:26","nut":["?"],"moi":"Stack serverless tối giản cho B2B AI SaaS hai người",
+   "tom":"Stack hai người: TypeScript + SvelteKit serverless, Postgres trên Render và Supabase khoảng $150/tháng, Puppeteer, OpenAI, Webflow cho landing/CMS, Zapier, Beehiiv, Calendly, Plausible $29, Netlify, Cursor"},
+  {"s":"11:26","e":"11:49","nut":["1.1","1.3"],
+   "tom":"Chi phí chạy B2B SaaS: biên 90%+ nếu không chạy ads, tụt còn 80% khi thử ads và thuê freelancer; tốn nhất là OpenAI API khoảng $250/tháng và freelancer Upwork tới $500/tháng","kq":"biên 80–90%"},
+  {"s":"11:49","e":"12:22","nut":["3.7","?"],"moi":"Thu tiền sớm để tạo cam kết hai chiều",
+   "tom":"Lời khuyên cuối: thu tiền sớm vì việc trả tiền tạo cấp bách và cam kết cho cả hai phía, và đi high ticket cho nhẹ đời — bán cho người giàu, họ trả tốt hơn như Hormozi hay nói"}
+ ],
+ "bo_qua": [
+  {"s":"06:41","e":"07:41","ly_do":"quảng cáo Mobin (thư viện thiết kế app), giảm 20% gói pro cho thành viên Starter Story"},
+  {"s":"12:38","e":"13:12","ly_do":"outro quảng bá chương trình Starter Story Build"}
+ ]
+}

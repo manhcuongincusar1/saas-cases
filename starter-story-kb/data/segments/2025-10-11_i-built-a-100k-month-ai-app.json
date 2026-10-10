@@ -1,0 +1,28 @@
+{
+ "f": "2025-10-11_i-built-a-100k-month-ai-app",
+ "vid": "DV7bBCAABg4",
+ "segments": [
+  {"s":"01:18","e":"02:19","nut":["1.2","1.1"],
+   "tom":"Đường đi: sang California làm diễn viên, chán bưng bê nên tự học web design và marketing rồi mở agency; nhận ra tính cầu toàn không scale được kiểu một-khách-một-lúc nên chuyển sang sản phẩm số từ 2014","kq":"exit công ty plugin WordPress, rồi vài sản phẩm sau thất bại nặng"},
+  {"s":"02:19","e":"03:22","nut":["2.3","2.8"],
+   "tom":"Ý tưởng Magai đến từ chính lúc dùng ChatGPT: không tìm lại được chat cũ, không có folder, hàng loạt thứ vặt cộng dồn; cộng thêm nhận định người dùng sẽ phải mua 5–6 subscription AI mới đủ, mà ai cũng ngán subscription"},
+  {"s":"03:22","e":"04:23","nut":["?"],"moi":"MVP 8 tuần trên Bubble khi không biết code và không có tiền thuê dev",
+   "tom":"Lúc túng tiền và không thuê nổi dev, anh mua một khoá online rồi học ngấu nghiến, 8 tuần sau có MVP đầy đủ dựng bằng Bubble cộng một ít code tự viết, và launch trong tâm thế nghĩ sẽ chẳng ai mua","kq":"$3K tháng đầu, $10K tháng thứ ba, $30K/tháng sau 1 năm"},
+  {"s":"04:23","e":"05:10","nut":["4.9","4.7"],
+   "tom":"Đòn bẩy lớn nhất là 10 năm build in public: một blog cá nhân tích được hơn 100.000 email subscriber, nên ngày ra mắt đã có sẵn khán giả — không chạy một đồng quảng cáo nào","kq":"ra mắt với 100.000 email có sẵn"},
+  {"s":"05:10","e":"05:43","nut":["4.16","?"],"moi":"Affiliate ăn chia định kỳ gắn sẵn vào sản phẩm từ ngày đầu",
+   "tom":"Ngay từ đầu anh nhét chương trình affiliate rất hào phóng vào trong sản phẩm, và quan trọng là ăn theo doanh thu định kỳ: người giới thiệu một khách trả 12 tháng thì được chia đủ 12 lần, cộng với quan hệ sẵn có với dân marketing trong ngành"},
+  {"s":"06:44","e":"08:03","nut":["2.7","?"],"moi":"Gộp mọi model AI vào một subscription, một dashboard",
+   "tom":"Khác biệt của sản phẩm: đang chat với Claude thì kéo thẳng GPT-5 vào giữa cuộc hội thoại, và không chỉ LLM — DALL·E, Flux, GPT Image, Ideogram cùng các model video đều dùng ngay trong khung chat đó"},
+  {"s":"08:03","e":"08:51","nut":["?"],"moi":"Stack no-code: Bubble + OpenRouter + fal.ai",
+   "tom":"Stack: front-end dựng bằng Bubble, Stripe thu tiền, ConvertKit làm email, OpenRouter làm cổng chung tới mọi LLM bằng một format API, fal.ai cho model ảnh/video/audio, vài model nối API thẳng (OpenAI ở tier cao nhất), Ahrefs theo dõi SEO"},
+  {"s":"08:51","e":"09:40","nut":["4.13","?"],"moi":"Không freemium: gói solo $20, gói team $40, bán thêm usage",
+   "tom":"Kiếm tiền thuần trả phí, không freemium: $20/tháng cho cá nhân với mức dùng trung bình, hết thì mua thêm usage; gói team $40/tháng cho 5 người và gấp ba mức dùng, thêm người là $20/người, mở rộng tới cả nghìn user"},
+  {"s":"09:40","e":"10:27","nut":["?"],"moi":"Gượng dậy sau chuỗi thất bại làm mất tự tin",
+   "tom":"Bẫy lớn nhất theo anh là để thất bại cũ định nghĩa mình: công ty phần mềm đầu tiên thành công quá dễ, rồi hai ý tưởng tiếp theo chết sạch khiến anh mất hết tự tin — thị trường từ chối sản phẩm chứ không từ chối con người mình","kq":"2 sản phẩm chết liên tiếp trước khi có Magai"}
+ ],
+ "bo_qua": [
+  {"s":"05:43","e":"06:44","ly_do":"quảng cáo rocket.new (công cụ dựng app full-stack từ mô tả)"},
+  {"s":"10:27","e":"11:09","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

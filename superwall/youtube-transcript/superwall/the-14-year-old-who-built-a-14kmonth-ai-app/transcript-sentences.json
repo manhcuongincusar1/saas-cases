@@ -1,0 +1,1912 @@
+[
+  {
+    "text": "My app is Locked and I was able to scale up to over $14,000 a month.",
+    "start": "00:00:00",
+    "end": "00:00:05"
+  },
+  {
+    "text": "I'm in ninth grade, freshman in high school.",
+    "start": "00:00:05",
+    "end": "00:00:09"
+  },
+  {
+    "text": ">> This is Evan Yatagari and at 14 years old he had already scaled a consumer app to over $14,000 a month.",
+    "start": "00:00:06",
+    "end": "00:00:14"
+  },
+  {
+    "text": "After that he built 10X, a Shopify for apps platform that hit 30K ARR in its first 30 days.",
+    "start": "00:00:14",
+    "end": "00:00:20"
+  },
+  {
+    "text": "He's the younger brother of Zach Yatagari, the founder of Cal AI, but Evan didn't just copy his brother blindly.",
+    "start": "00:00:18",
+    "end": "00:00:24"
+  },
+  {
+    "text": "Instead he personally tested every marketing channel he could get his hands on until he found the one that actually generated the most >> downloads.",
+    "start": "00:00:24",
+    "end": "00:00:31"
+  },
+  {
+    "text": "When I got started with Locked I tested out a bunch of different acquisition channels.",
+    "start": "00:00:31",
+    "end": "00:00:35"
+  },
+  {
+    "text": "I tested out Reddit marketing, X marketing, influence marketing, and even paid ads.",
+    "start": "00:00:35",
+    "end": "00:00:40"
+  },
+  {
+    "text": "Quickly I realized that Reddit the most effective channel and after we had our first $1,000 day.",
+    "start": "00:00:40",
+    "end": "00:00:47"
+  },
+  {
+    "text": ">> In this episode Evan walks through what actually worked to get Locked to 14K with almost no budget.",
+    "start": "00:00:45",
+    "end": "00:00:51"
+  },
+  {
+    "text": "He's going to share the single acquisition channel that outperformed everything else he tested, the framework he's using right now to find his next consumer app idea before anyone else catches on, and how he'd speed run an app to 10K a month if he had to start over.",
+    "start": "00:00:51",
+    "end": "00:01:06"
+  },
+  {
+    "text": ">> If you want to speed run to $10,000 a month once that's done I go straight into >> By the end you'll have the exact playbook he used to make his first 14K at 14 years old.",
+    "start": "00:01:03",
+    "end": "00:01:16"
+  },
+  {
+    "text": "Let's get into it.",
+    "start": "00:01:16",
+    "end": "00:01:18"
+  },
+  {
+    "text": "This is the Superwall podcast.",
+    "start": "00:01:18",
+    "end": "00:01:19"
+  },
+  {
+    "text": "I'm Joseph Choi, founder of Consumer Club, a Discord where top consumer app founders trade alpha and what's working now in growth.",
+    "start": "00:01:19",
+    "end": "00:01:24"
+  },
+  {
+    "text": "I've been talking to members doing a million ARR and they tell me they've been using these two tools.",
+    "start": "00:01:24",
+    "end": "00:01:30"
+  },
+  {
+    "text": "Superwall has this free AI tool trained on 422 profitable paywall experiments across thousands of successful apps.",
+    "start": "00:01:28",
+    "end": "00:01:36"
+  },
+  {
+    "text": "You upload a screenshot of your paywall and it gives you an experiment idea to make more revenue with the same number of users at paywallexperiments.",
+    "start": "00:01:36",
+    "end": "00:01:42"
+  },
+  {
+    "text": "com.",
+    "start": "00:01:42",
+    "end": "00:01:43"
+  },
+  {
+    "text": "And if your app's doing at least 100K MRR we host vetted dinners in SF and New York to hang out and network with other top app founders.",
+    "start": "00:01:43",
+    "end": "00:01:49"
+  },
+  {
+    "text": "You can apply with the typeform in the description.",
+    "start": "00:01:49",
+    "end": "00:01:51"
+  },
+  {
+    "text": "Also these app founders have been telling me they use Roark.",
+    "start": "00:01:51",
+    "end": "00:01:53"
+  },
+  {
+    "text": "I met Daniel, the founder of Roark, at a dinner and I got genuinely really excited when he told me about Rorke Max, which is out now and has honestly changed the game for coding mobile apps.",
+    "start": "00:01:53",
+    "end": "00:02:03"
+  },
+  {
+    "text": "It's AI that one-shots full native iOS apps with Swift code, camera, sensors, haptics, payments, the whole stack.",
+    "start": "00:02:03",
+    "end": "00:02:09"
+  },
+  {
+    "text": "And as you vibe code with Rorke, you can install prototypes directly onto your iPhone with one click and then publish to the App Store in two clicks.",
+    "start": "00:02:09",
+    "end": "00:02:16"
+  },
+  {
+    "text": "If you've been waiting for AI coding that actually does native iOS apps well, this is it.",
+    "start": "00:02:15",
+    "end": "00:02:19"
+  },
+  {
+    "text": "I got you guys a discount.",
+    "start": "00:02:19",
+    "end": "00:02:22"
+  },
+  {
+    "text": "You can use the code superwall or use the link below.",
+    "start": "00:02:20",
+    "end": "00:02:24"
+  },
+  {
+    "text": "We got Evan today.",
+    "start": "00:02:24",
+    "end": "00:02:26"
+  },
+  {
+    "text": "What is your app and how much money is it making?",
+    "start": "00:02:26",
+    "end": "00:02:30"
+  },
+  {
+    "text": ">> My app is Locked, and I was able to scale it to over $14,000 a month.",
+    "start": "00:02:27",
+    "end": "00:02:35"
+  },
+  {
+    "text": ">> And you are Evan Yadegari, brother of Zack Yadegari, who built CalAI and recently exited to MyFitnessPal in a really great exit story.",
+    "start": "00:02:32",
+    "end": "00:02:45"
+  },
+  {
+    "text": "Have you been working with Zack this whole time, and is that how you got into entrepreneurship?",
+    "start": "00:02:45",
+    "end": "00:02:49"
+  },
+  {
+    "text": "Or have have you always kind of had your own projects as well?",
+    "start": "00:02:49",
+    "end": "00:02:53"
+  },
+  {
+    "text": ">> I I've always been into entrepreneurship.",
+    "start": "00:02:51",
+    "end": "00:02:54"
+  },
+  {
+    "text": "At the age of nine, I developed two Roblox games.",
+    "start": "00:02:54",
+    "end": "00:02:57"
+  },
+  {
+    "text": "After that, I tested out all kinds of business models, shoe card selling, sports card selling, whatever you can think of.",
+    "start": "00:02:57",
+    "end": "00:03:04"
+  },
+  {
+    "text": "Eventually, I started creating content for a gaming website called Totally Science.",
+    "start": "00:03:02",
+    "end": "00:03:07"
+  },
+  {
+    "text": "It was actually Zack's gaming website that he sold to the owner of FreezeNova.",
+    "start": "00:03:07",
+    "end": "00:03:11"
+  },
+  {
+    "text": "The owner of FreezeNova then hired me to create content for his because I was able to take the Totally Science account from about 30K followers to almost 100K followers, and the videos would be super simple, and my first month I made $1,000 doing that.",
+    "start": "00:03:11",
+    "end": "00:03:27"
+  },
+  {
+    "text": "Second month, $2,000.",
+    "start": "00:03:27",
+    "end": "00:03:26"
+  },
+  {
+    "text": "At the time, I was >> [music] >> 12 years old, just turned 13, and shortly after that, I realized I can just create the website myself.",
+    "start": "00:03:26",
+    "end": "00:03:35"
+  },
+  {
+    "text": "So, that's exactly what I did.",
+    "start": "00:03:35",
+    "end": "00:03:36"
+  },
+  {
+    "text": "I created a website called EvanClub, and in doing so, I was able to make a lot more money.",
+    "start": "00:03:36",
+    "end": "00:03:42"
+  },
+  {
+    "text": "Then, after seeing Zack's success with CalAI, I decided why not give it a try in the app space.",
+    "start": "00:03:39",
+    "end": "00:03:46"
+  },
+  {
+    "text": "I launched Problem Pal, one of the apps I launched, scaled to $2,000 a month, then Locked, which of course we're talking about in this video, that was the one that really did well.",
+    "start": "00:03:46",
+    "end": "00:03:57"
+  },
+  {
+    "text": ">> So, Problem Pal and then you had so then you had a couple of apps that did okay, but you weren't able to scale those and then Locked was the one that you got to over 14k a month in revenue.",
+    "start": "00:03:55",
+    "end": "00:04:08"
+  },
+  {
+    "text": "What was the difference with Locked?",
+    "start": "00:04:08",
+    "end": "00:04:10"
+  },
+  {
+    "text": "How like where did you first of all, where did you get the idea for it and then how did it get started?",
+    "start": "00:04:10",
+    "end": "00:04:17"
+  },
+  {
+    "text": ">> Yeah, so first uh in terms of ideation, I identified that tons of people are struggling to stay motivated, stay focused, specifically Gen Z with all of the brain rot being advertised towards them.",
+    "start": "00:04:14",
+    "end": "00:04:26"
+  },
+  {
+    "text": "Everyone you're surrounding yourself with.",
+    "start": "00:04:26",
+    "end": "00:04:29"
+  },
+  {
+    "text": "Like the the average teen, I believe the metric that they spend hours and hours on social media daily.",
+    "start": "00:04:29",
+    "end": "00:04:33"
+  },
+  {
+    "text": "So, I figured why not create a gamified app to help people stay on task.",
+    "start": "00:04:33",
+    "end": "00:04:37"
+  },
+  {
+    "text": "I played video games before, they're very addictive, so I figured why not apply the same principles to Locked to turn self-improvement into a game.",
+    "start": "00:04:37",
+    "end": "00:04:47"
+  },
+  {
+    "text": ">> Self-improvement definitely feels like a pretty Gen Z like niche and you probably just like did you have like a personal connection to that?",
+    "start": "00:04:45",
+    "end": "00:04:55"
+  },
+  {
+    "text": "Like you probably see a lot of the content in your own feed and like you talk to your friends about self-improvement and stuff like that.",
+    "start": "00:04:55",
+    "end": "00:05:02"
+  },
+  {
+    "text": ">> Yeah, I mean actually [music] it was my friend who inspired this idea.",
+    "start": "00:05:00",
+    "end": "00:05:04"
+  },
+  {
+    "text": "He told me that he was always struggling to stay focused and how his apps are super addictive and knowing that I was in the app space, he gave me the idea to create uh some kind of gamified app that would help people.",
+    "start": "00:05:04",
+    "end": "00:05:15"
+  },
+  {
+    "text": "So.",
+    "start": "00:05:15",
+    "end": "00:05:16"
+  },
+  {
+    "text": ">> And then so, did you just build this all yourself?",
+    "start": "00:05:14",
+    "end": "00:05:17"
+  },
+  {
+    "text": "Like coding it, doing the marketing and everything?",
+    "start": "00:05:17",
+    "end": "00:05:22"
+  },
+  {
+    "text": ">> We started in Figma.",
+    "start": "00:05:19",
+    "end": "00:05:22"
+  },
+  {
+    "text": "Uh by we, I mean Alex and Monge my old co-founder and I, we scoped out the onboarding, the main screens and then once we had everything finalized, we plugged it into Claude, we built out a prototype and from there it was just constant iteration, plugging in the keys, fixing the bugs, improving the UX, UI, whatever it was.",
+    "start": "00:05:22",
+    "end": "00:05:41"
+  },
+  {
+    "text": ">> So, you were not like technical necessarily before this.",
+    "start": "00:05:40",
+    "end": "00:05:43"
+  },
+  {
+    "text": "So, you didn't like learn to code or anything like that?",
+    "start": "00:05:43",
+    "end": "00:05:47"
+  },
+  {
+    "text": ">> No, not really.",
+    "start": "00:05:45",
+    "end": "00:05:46"
+  },
+  {
+    "text": "Yeah, it was basically it was basically just locked.",
+    "start": "00:05:46",
+    "end": "00:05:50"
+  },
+  {
+    "text": ">> But you came from like content space cuz you were building you were making the TikTok account for um for Totally Science and then the person who acquired it.",
+    "start": "00:05:48",
+    "end": "00:05:58"
+  },
+  {
+    "text": "So, it seems like this was like a very marketing-led app.",
+    "start": "00:05:58",
+    "end": "00:06:00"
+  },
+  {
+    "text": "So, I want to just walk through step-by-step like how did you actually figure out what marketing to do and then how did you execute it?",
+    "start": "00:06:00",
+    "end": "00:06:09"
+  },
+  {
+    "text": ">> When I got started with Locked, I text I tested out a bunch of different acquisition channels.",
+    "start": "00:06:07",
+    "end": "00:06:13"
+  },
+  {
+    "text": "I tested out Reddit marketing, X marketing, influence marketing, and even paid ads.",
+    "start": "00:06:13",
+    "end": "00:06:18"
+  },
+  {
+    "text": "Quickly, I realized that influencers were the most effective channel.",
+    "start": "00:06:18",
+    "end": "00:06:21"
+  },
+  {
+    "text": "So, let's uh we can we can break down that one.",
+    "start": "00:06:21",
+    "end": "00:06:25"
+  },
+  {
+    "text": "First, you want to send DMs to your influencers.",
+    "start": "00:06:25",
+    "end": "00:06:28"
+  },
+  {
+    "text": "You go on Instagram or TikTok, search something related to your niche like gym or self-improvement or day in the life if that applies to your app.",
+    "start": "00:06:26",
+    "end": "00:06:35"
+  },
+  {
+    "text": "Then, you scroll through the creator's profiles, click message, paste, send, and then you just keep scrolling, repeat, repeat, repeat.",
+    "start": "00:06:35",
+    "end": "00:06:43"
+  },
+  {
+    "text": ">> Your is primarily influencer marketing-driven.",
+    "start": "00:06:41",
+    "end": "00:06:45"
+  },
+  {
+    "text": "Yeah, can you talk a little about the outreach process?",
+    "start": "00:06:45",
+    "end": "00:06:48"
+  },
+  {
+    "text": "Like how many people do you need to reach out to?",
+    "start": "00:06:48",
+    "end": "00:06:49"
+  },
+  {
+    "text": "What what kind of influencers are you looking for?",
+    "start": "00:06:49",
+    "end": "00:06:54"
+  },
+  {
+    "text": ">> For Locked, we reached out to a few different categories of influencers, of course, within the health fitness niche.",
+    "start": "00:06:51",
+    "end": "00:07:00"
+  },
+  {
+    "text": "Mainly, the three main influencers we worked with were self-improvement influencers, gym influencers, and day in the life influencers.",
+    "start": "00:06:58",
+    "end": "00:07:06"
+  },
+  {
+    "text": ">> That's interesting cuz like at first glance, you see the app and it's like um it's clearly about self-improvement, but then the people that you actually reach out to are three somewhat overlapping, but pretty different types of influencers.",
+    "start": "00:07:04",
+    "end": "00:07:20"
+  },
+  {
+    "text": "Gym, self-improvement, and then day in the life.",
+    "start": "00:07:20",
+    "end": "00:07:24"
+  },
+  {
+    "text": "Out of all all those types, were you Was there a reason why you why you decided that those would be the the best fit influencers for the app?",
+    "start": "00:07:24",
+    "end": "00:07:31"
+  },
+  {
+    "text": ">> Yeah, I mean, I tested out a bunch of different niches.",
+    "start": "00:07:30",
+    "end": "00:07:33"
+  },
+  {
+    "text": "I found that day in the life influencers were the most effective because people show different tasks that they're performing throughout the day.",
+    "start": "00:07:33",
+    "end": "00:07:40"
+  },
+  {
+    "text": "They go to the gym, they do this, they do that.",
+    "start": "00:07:40",
+    "end": "00:07:43"
+  },
+  {
+    "text": "And when you can just quickly check off the task with Locked and users mainly their their audience is Gen Z in fact.",
+    "start": "00:07:43",
+    "end": "00:07:51"
+  },
+  {
+    "text": "So when the Gen Z audience sees them checking off tasks on a gamified app, getting XP, competing with others, they're intrigued to go and check out that for themselves.",
+    "start": "00:07:51",
+    "end": "00:08:01"
+  },
+  {
+    "text": ">> Yeah, it's like a natural format fit I guess with the with the content to the app.",
+    "start": "00:07:58",
+    "end": "00:08:04"
+  },
+  {
+    "text": "Yeah, so it's like a natural plug.",
+    "start": "00:08:04",
+    "end": "00:08:07"
+  },
+  {
+    "text": "Yeah, could we see some examples of some of the the videos that that you did with the sponsors?",
+    "start": "00:08:05",
+    "end": "00:08:13"
+  },
+  {
+    "text": ">> Here is an influencer video we did with Jeremiah Jones.",
+    "start": "00:08:10",
+    "end": "00:08:16"
+  },
+  {
+    "text": ">> And the hook was just like this schedule will keep you locked in for 2026.",
+    "start": "00:08:14",
+    "end": "00:08:20"
+  },
+  {
+    "text": ">> So he basically walked you through what a great day would look like.",
+    "start": "00:08:18",
+    "end": "00:08:23"
+  },
+  {
+    "text": "And then once he was done mentioning all the tasks individually, he'd go by he'd go to the app, he'd click add task, then he'd write out whatever he was doing.",
+    "start": "00:08:23",
+    "end": "00:08:32"
+  },
+  {
+    "text": "Then once that Gen Z audience sees this gamified experience, like I said, they're intrigued to go and check.",
+    "start": "00:08:30",
+    "end": "00:08:37"
+  },
+  {
+    "text": "So yeah, he just went through and he showed Locked after every single task he mentioned.",
+    "start": "00:08:37",
+    "end": "00:08:42"
+  },
+  {
+    "text": "This video pulled around a million views across Instagram, Facebook, and TikTok.",
+    "start": "00:08:40",
+    "end": "00:08:47"
+  },
+  {
+    "text": "And this video in total generated at least $3,000.",
+    "start": "00:08:45",
+    "end": "00:08:51"
+  },
+  {
+    "text": ">> $3,000 just from this one video.",
+    "start": "00:08:48",
+    "end": "00:08:52"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:08:52",
+    "end": "00:08:53"
+  },
+  {
+    "text": "How many downloads and like revenue did this convert to?",
+    "start": "00:08:51",
+    "end": "00:08:56"
+  },
+  {
+    "text": ">> So after this video went out and of course we got the million views across the three platforms, this video helped us hit our first $1,000 day and also our first $1,000 download day.",
+    "start": "00:08:54",
+    "end": "00:09:08"
+  },
+  {
+    "text": ">> So about how many downloads do you need to actually get like a subscription out of like the what what's that conversion rate look like?",
+    "start": "00:09:06",
+    "end": "00:09:15"
+  },
+  {
+    "text": ">> Yeah, our conversion rate is a bit over 10% so about 10 downloads that we're looking at.",
+    "start": "00:09:13",
+    "end": "00:09:20"
+  },
+  {
+    "text": ">> Okay, so 10 downloads for one subscription and then one subscription is you have like a like a weekly and a annual it seems like.",
+    "start": "00:09:18",
+    "end": "00:09:30"
+  },
+  {
+    "text": ">> Our main plan is $30 $30 a year or $7 a week.",
+    "start": "00:09:27",
+    "end": "00:09:33"
+  },
+  {
+    "text": ">> Does that factor into your like RPM CPM calculations?",
+    "start": "00:09:31",
+    "end": "00:09:35"
+  },
+  {
+    "text": "[clears throat] Is that how you kind of like assess if a influencer video is worth it?",
+    "start": "00:09:35",
+    "end": "00:09:40"
+  },
+  {
+    "text": ">> Yeah, exactly.",
+    "start": "00:09:38",
+    "end": "00:09:40"
+  },
+  {
+    "text": "On average, our RPM is around 3 to 4 dollars.",
+    "start": "00:09:40",
+    "end": "00:09:43"
+  },
+  {
+    "text": "So, I like to keep the CPM under that typically.",
+    "start": "00:09:43",
+    "end": "00:09:47"
+  },
+  {
+    "text": "Our CPMs range from around 1 to 2 dollars.",
+    "start": "00:09:47",
+    "end": "00:09:49"
+  },
+  {
+    "text": ">> So, let's go all the way back to what we were talking about with the influencers.",
+    "start": "00:09:47",
+    "end": "00:09:52"
+  },
+  {
+    "text": "When you're outreaching to these influencers, what kinds of influencers are you looking for within those three categories?",
+    "start": "00:09:51",
+    "end": "00:09:58"
+  },
+  {
+    "text": "Is it like larger people with bigger follower accounts?",
+    "start": "00:09:58",
+    "end": "00:10:02"
+  },
+  {
+    "text": "Is it about the engagement rates?",
+    "start": "00:10:02",
+    "end": "00:10:04"
+  },
+  {
+    "text": "What are you looking for?",
+    "start": "00:10:03",
+    "end": "00:10:06"
+  },
+  {
+    "text": ">> Yeah, to be honest, from my experience, followers don't matter at all.",
+    "start": "00:10:04",
+    "end": "00:10:09"
+  },
+  {
+    "text": "It's mainly just engagement rates and also the amount of views the creators pull.",
+    "start": "00:10:09",
+    "end": "00:10:14"
+  },
+  {
+    "text": "So, on average, it's they're creators pulling anywhere from 5,000 to millions of views.",
+    "start": "00:10:12",
+    "end": "00:10:19"
+  },
+  {
+    "text": ">> 5,000 to millions of views.",
+    "start": "00:10:16",
+    "end": "00:10:20"
+  },
+  {
+    "text": "So, like per video, you want to have at least like a few thousand views.",
+    "start": "00:10:20",
+    "end": "00:10:25"
+  },
+  {
+    "text": "Like you don't want people basically who have like sub [music] 5,000 per video.",
+    "start": "00:10:25",
+    "end": "00:10:28"
+  },
+  {
+    "text": ">> Yeah, exactly.",
+    "start": "00:10:27",
+    "end": "00:10:30"
+  },
+  {
+    "text": ">> And then the the actual promotion of the app in this video is there's there's actually like link or like a tag in in the description of the video or the caption of the video.",
+    "start": "00:10:28",
+    "end": "00:10:41"
+  },
+  {
+    "text": "But other than that, there isn't like a call to action of like download this app explicitly.",
+    "start": "00:10:41",
+    "end": "00:10:48"
+  },
+  {
+    "text": "Do you think people are mostly clicking the the the link in the caption to to find the app?",
+    "start": "00:10:46",
+    "end": "00:10:53"
+  },
+  {
+    "text": ">> Yeah, I mean, if you if you see in Jeremiah's video, when he opened up the first task, the name is big and bold in the top left corner, so people see that.",
+    "start": "00:10:52",
+    "end": "00:11:02"
+  },
+  {
+    "text": "And then also in the comments, we like to have people comment from a personal account then Jeremiah will pin that comment and reply with the app's name.",
+    "start": "00:11:00",
+    "end": "00:11:08"
+  },
+  {
+    "text": "If you see that right there, what's the app called?",
+    "start": "00:11:07",
+    "end": "00:11:11"
+  },
+  {
+    "text": ">> I see.",
+    "start": "00:11:10",
+    "end": "00:11:11"
+  },
+  {
+    "text": "Yeah, I see.",
+    "start": "00:11:11",
+    "end": "00:11:12"
+  },
+  {
+    "text": ">> Yeah, it looks like the comment >> I need this.",
+    "start": "00:11:11",
+    "end": "00:11:13"
+  },
+  {
+    "text": "What's the app called?",
+    "start": "00:11:13",
+    "end": "00:11:15"
+  },
+  {
+    "text": "And then you reply.",
+    "start": "00:11:15",
+    "end": "00:11:15"
+  },
+  {
+    "text": "So, you're trying to find people that are basically have a decent engagement rate, 5,000 to millions of views.",
+    "start": "00:11:15",
+    "end": "00:11:22"
+  },
+  {
+    "text": "And then how many influencers do you need to reach out to to actually get replies and then close deals?",
+    "start": "00:11:22",
+    "end": "00:11:29"
+  },
+  {
+    "text": ">> Yeah, I would say on average, I see around a 3 to 4% response rate on Instagram.",
+    "start": "00:11:27",
+    "end": "00:11:32"
+  },
+  {
+    "text": "And that's if you have at least 1,000 followers and a verified account.",
+    "start": "00:11:32",
+    "end": "00:11:36"
+  },
+  {
+    "text": "Then with TikTok, it's closer to 2%.",
+    "start": "00:11:36",
+    "end": "00:11:40"
+  },
+  {
+    "text": ">> That's like a lower response rate than I think a lot of people realize cuz people might write reach out to like a couple dozen accounts and then they're getting no responses back or maybe one or two responses back, but it sounds like at the scale that like to get to 15 like 14,000 MRR, you need to reach out to a lot of influencers.",
+    "start": "00:11:38",
+    "end": "00:11:59"
+  },
+  {
+    "text": "How many influencers do you think you've reached out to?",
+    "start": "00:11:59",
+    "end": "00:12:03"
+  },
+  {
+    "text": ">> I would say definitely at least 5 to 10,000 influencers at at the very least.",
+    "start": "00:12:00",
+    "end": "00:12:08"
+  },
+  {
+    "text": ">> 5 to 10,000 influencers.",
+    "start": "00:12:05",
+    "end": "00:12:08"
+  },
+  {
+    "text": "Wow, and you're just doing all this like manual DMs?",
+    "start": "00:12:08",
+    "end": "00:12:11"
+  },
+  {
+    "text": ">> Exactly.",
+    "start": "00:12:10",
+    "end": "00:12:11"
+  },
+  {
+    "text": "We just go through, click on their profiles, DMs.",
+    "start": "00:12:11",
+    "end": "00:12:13"
+  },
+  {
+    "text": "At the peak of Locked when the full team was locked in, we were sending over 500 DMs a day.",
+    "start": "00:12:13",
+    "end": "00:12:19"
+  },
+  {
+    "text": ">> 500 DMs a day.",
+    "start": "00:12:17",
+    "end": "00:12:18"
+  },
+  {
+    "text": "And then are there like rate limits on each account where you can't DM too many times?",
+    "start": "00:12:18",
+    "end": "00:12:24"
+  },
+  {
+    "text": ">> I typically see that we get hit with the rate limit around 100 DMs a day.",
+    "start": "00:12:23",
+    "end": "00:12:28"
+  },
+  {
+    "text": "And then of course they reset the next day.",
+    "start": "00:12:28",
+    "end": "00:12:30"
+  },
+  {
+    "text": "That's why we create multiple accounts.",
+    "start": "00:12:28",
+    "end": "00:12:32"
+  },
+  {
+    "text": ">> You basically have to create Right, you have to create multiple accounts.",
+    "start": "00:12:30",
+    "end": "00:12:36"
+  },
+  {
+    "text": "And then do you get those with followers and like verified like how like the accounts probably look kind of >> [snorts] >> I don't know, sus if they're if they're like brand new, right?",
+    "start": "00:12:36",
+    "end": "00:12:46"
+  },
+  {
+    "text": ">> Yeah, yeah, we always bought over 1,000 followers to the account then of course we get it verified.",
+    "start": "00:12:44",
+    "end": "00:12:51"
+  },
+  {
+    "text": ">> Okay, so verified and 1,000 followers and then you're reaching out to 100 accounts per day per account.",
+    "start": "00:12:48",
+    "end": "00:12:56"
+  },
+  {
+    "text": "Okay, yeah.",
+    "start": "00:12:56",
+    "end": "00:12:55"
+  },
+  {
+    "text": "And then what's the next in the process?",
+    "start": "00:12:55",
+    "end": "00:12:57"
+  },
+  {
+    "text": "What do you actually say in your in your message?",
+    "start": "00:12:57",
+    "end": "00:13:02"
+  },
+  {
+    "text": ">> Yeah, I keep it very simple, direct, and concise.",
+    "start": "00:13:00",
+    "end": "00:13:02"
+  },
+  {
+    "text": "The first thing you should start with is paid promo?",
+    "start": "00:13:02",
+    "end": "00:13:05"
+  },
+  {
+    "text": "Question mark.",
+    "start": "00:13:05",
+    "end": "00:13:06"
+  },
+  {
+    "text": "So then they're scrolling through their DMs, they get hundreds of them, then they stop on yours cuz it says promo.",
+    "start": "00:13:05",
+    "end": "00:13:13"
+  },
+  {
+    "text": "Then once uh they click on it, it says something like, \"Hey, I'm the founder of Locked.",
+    "start": "00:13:11",
+    "end": "00:13:15"
+  },
+  {
+    "text": "We're looking to partner with a select group of day in the life or self-improvement creators.",
+    "start": "00:13:15",
+    "end": "00:13:21"
+  },
+  {
+    "text": "Would you be down to hop on a call and discuss a deal?",
+    "start": "00:13:21",
+    "end": "00:13:22"
+  },
+  {
+    "text": "\" Then after that, they'll usually respond with something like, \"Let's discuss over DMs.",
+    "start": "00:13:22",
+    "end": "00:13:27"
+  },
+  {
+    "text": "\" I always push for a call.",
+    "start": "00:13:27",
+    "end": "00:13:27"
+  },
+  {
+    "text": "I would almost never negotiate over DMs unless I absolutely have to.",
+    "start": "00:13:27",
+    "end": "00:13:32"
+  },
+  {
+    "text": ">> And then you that allows you to kind of like build a relationship with the creator and then negotiate your deal structures.",
+    "start": "00:13:31",
+    "end": "00:13:37"
+  },
+  {
+    "text": "Like what are what are your deal structures typically?",
+    "start": "00:13:37",
+    "end": "00:13:42"
+  },
+  {
+    "text": ">> Yeah, so there are four deal structures I pitch.",
+    "start": "00:13:39",
+    "end": "00:13:43"
+  },
+  {
+    "text": "The first is a standard deal where I offer something like $500 for one video or $1,200 for four videos.",
+    "start": "00:13:43",
+    "end": "00:13:51"
+  },
+  {
+    "text": "I only use this deal structure when working with creators who consistently pull crazy views.",
+    "start": "00:13:51",
+    "end": "00:13:56"
+  },
+  {
+    "text": "The second is a CPM deal where I pay something like one to two dollars per thousand views and I always had a cap that way if they get an insane amount of views if they get capped out at $500 or whatever we set from the start.",
+    "start": "00:13:56",
+    "end": "00:14:10"
+  },
+  {
+    "text": "Then what with CPM deals you also want to always make sure that your CPM is under your RPM, your revenue per thousand views.",
+    "start": "00:14:10",
+    "end": "00:14:16"
+  },
+  {
+    "text": "Next, the third deal is a minimum view clause deal, my personal favorite, where we pay the influencer something like a thousand dollars per post with a 500,000 minimum view clause.",
+    "start": "00:14:16",
+    "end": "00:14:26"
+  },
+  {
+    "text": "So if their first video doesn't hit 500,000 views they have to keep posting until the videos collectively add up to that 500,000 view benchmark.",
+    "start": "00:14:26",
+    "end": "00:14:35"
+  },
+  {
+    "text": "Then the fourth deal is a bonus deal where we pay something like $250 and if the video gets 250,000 views we'll pay an additional $250.",
+    "start": "00:14:35",
+    "end": "00:14:43"
+  },
+  {
+    "text": "And you can even mix up the bonus deal with any of the other three.",
+    "start": "00:14:43",
+    "end": "00:14:48"
+  },
+  {
+    "text": ">> So let me show you this.",
+    "start": "00:14:46",
+    "end": "00:14:48"
+  },
+  {
+    "text": "A lot of app founders I talk to have a feeling their app has viral potential but don't want to be the person brain rot scrolling an hour a day hunting for formats or worse burning thousands on creators shooting videos that just flop.",
+    "start": "00:14:48",
+    "end": "00:15:00"
+  },
+  {
+    "text": "Recently I've been telling every founder I meet about SpyTalk.",
+    "start": "00:15:00",
+    "end": "00:15:02"
+  },
+  {
+    "text": "It's basically an AI TikTok viral marketer that I've seen a lot of top app growth teams using.",
+    "start": "00:15:02",
+    "end": "00:15:08"
+  },
+  {
+    "text": "You just paste a link to your app and this agent scrolls hundreds of thousands of TikToks for you, finds the outlier videos from competitors who've already cracked the best formats that are driving installs in the niche of your app and then it remakes the hooks, the angles and then it makes playbooks so you can pretty much copy-paste virality.",
+    "start": "00:15:08",
+    "end": "00:15:24"
+  },
+  {
+    "text": "And then it alerts you when it detects new breakout formats, so it also works for your app.",
+    "start": "00:15:24",
+    "end": "00:15:29"
+  },
+  {
+    "text": "This is the only growth tool I 100% vouch for on this channel, because there's a ton of GenAI content tools out there, but none of them tell you what to make.",
+    "start": "00:15:27",
+    "end": "00:15:35"
+  },
+  {
+    "text": "Spytalk makes sure you're never in the dark about what's actually working now.",
+    "start": "00:15:35",
+    "end": "00:15:38"
+  },
+  {
+    "text": "I'll put the link in the description.",
+    "start": "00:15:38",
+    "end": "00:15:41"
+  },
+  {
+    "text": ">> Is there any one of these deal structures that was the most successful for Locked?",
+    "start": "00:15:40",
+    "end": "00:15:46"
+  },
+  {
+    "text": ">> Definitely the minimum view clause deal structure.",
+    "start": "00:15:44",
+    "end": "00:15:49"
+  },
+  {
+    "text": ">> And what what what type of like minimum view amount would you set?",
+    "start": "00:15:47",
+    "end": "00:15:53"
+  },
+  {
+    "text": ">> It usually ranges uh from a $1 to $2 CPM.",
+    "start": "00:15:51",
+    "end": "00:15:54"
+  },
+  {
+    "text": "So, in proportion, if we were to pay $800, then we'd set the minimum view clause at 400 to 800,000 views.",
+    "start": "00:15:54",
+    "end": "00:16:02"
+  },
+  {
+    "text": ">> And then if they don't hit that 400 to 800,000 views, then what happens?",
+    "start": "00:16:00",
+    "end": "00:16:06"
+  },
+  {
+    "text": "Do they just like keep posting until they It adds up to that amount?",
+    "start": "00:16:06",
+    "end": "00:16:09"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:16:08",
+    "end": "00:16:08"
+  },
+  {
+    "text": "Yeah, until they collectively hit that view benchmark.",
+    "start": "00:16:08",
+    "end": "00:16:11"
+  },
+  {
+    "text": "Another option I usually give them is to be paid out proportionally as well.",
+    "start": "00:16:11",
+    "end": "00:16:15"
+  },
+  {
+    "text": "So, if if I'm paying them $400 with a 400,000 minimum view clause, they get 50,000 views on the first video, and they want to stop, I'd still pay them out $50.",
+    "start": "00:16:15",
+    "end": "00:16:23"
+  },
+  {
+    "text": ">> And I guess like the the point of that is just to kind of anchor the the amount, like the full amount as the thing that they're motivated to hit.",
+    "start": "00:16:22",
+    "end": "00:16:35"
+  },
+  {
+    "text": "Like if you say $800, but you have to hit these number of views, it's okay if they hit, you know, half the amount, and you just pay them half.",
+    "start": "00:16:33",
+    "end": "00:16:43"
+  },
+  {
+    "text": "But, I think if you start with a higher one, it kind of like Do you see that that incentivizes like more motivation from the creators?",
+    "start": "00:16:41",
+    "end": "00:16:50"
+  },
+  {
+    "text": ">> Yeah, 100%.",
+    "start": "00:16:48",
+    "end": "00:16:50"
+  },
+  {
+    "text": "Definitely.",
+    "start": "00:16:50",
+    "end": "00:16:52"
+  },
+  {
+    "text": ">> Um okay, so then what's next?",
+    "start": "00:16:50",
+    "end": "00:16:53"
+  },
+  {
+    "text": "What after you like close the deal, how do you like tell the creator what to make, and is there anything else involved with that?",
+    "start": "00:16:53",
+    "end": "00:16:59"
+  },
+  {
+    "text": ">> So, after that with the video, uh I usually require a few things.",
+    "start": "00:16:58",
+    "end": "00:17:02"
+  },
+  {
+    "text": "The first is to incorporate the app within the first 15 seconds.",
+    "start": "00:17:02",
+    "end": "00:17:05"
+  },
+  {
+    "text": "If you do it before that, then it will uh obviously seem like an ad.",
+    "start": "00:17:05",
+    "end": "00:17:09"
+  },
+  {
+    "text": "If you do it after, the retention will be too low.",
+    "start": "00:17:09",
+    "end": "00:17:14"
+  },
+  {
+    "text": "The second requirement is to have the influencer or tab yourself comment something like, \"What's this app?",
+    "start": "00:17:11",
+    "end": "00:17:19"
+  },
+  {
+    "text": "I need this.",
+    "start": "00:17:19",
+    "end": "00:17:18"
+  },
+  {
+    "text": "The influencer will reply with the app name, then they'll also pin that comment.",
+    "start": "00:17:18",
+    "end": "00:17:21"
+  },
+  {
+    "text": "So, if users are curious, they'll just go ahead, check the comment section, and they'll see your comment picked there.",
+    "start": "00:17:21",
+    "end": "00:17:26"
+  },
+  {
+    "text": "Exactly like that.",
+    "start": "00:17:26",
+    "end": "00:17:28"
+  },
+  {
+    "text": "I need this.",
+    "start": "00:17:28",
+    "end": "00:17:28"
+  },
+  {
+    "text": "What's the app called?",
+    "start": "00:17:28",
+    "end": "00:17:31"
+  },
+  {
+    "text": "Uh then, of course, uh you have to send them the contract.",
+    "start": "00:17:29",
+    "end": "00:17:32"
+  },
+  {
+    "text": "You have to send them whatever else you want them to incorporate.",
+    "start": "00:17:32",
+    "end": "00:17:35"
+  },
+  {
+    "text": "But, usually I give the influencer a fair amount of freedom.",
+    "start": "00:17:35",
+    "end": "00:17:39"
+  },
+  {
+    "text": "Uh then, they have to send their post over to be approved.",
+    "start": "00:17:39",
+    "end": "00:17:41"
+  },
+  {
+    "text": "If the influencer is profitable, then you should keep scaling with them.",
+    "start": "00:17:41",
+    "end": "00:17:46"
+  },
+  {
+    "text": ">> Like, if you start making revenue from a certain influencer, is there a way to know like which one it came from?",
+    "start": "00:17:44",
+    "end": "00:17:52"
+  },
+  {
+    "text": ">> I usually identify it through spikes.",
+    "start": "00:17:50",
+    "end": "00:17:54"
+  },
+  {
+    "text": "Uh attribution is very difficult because you can't directly uh attribute it to a link.",
+    "start": "00:17:54",
+    "end": "00:17:58"
+  },
+  {
+    "text": "Instagram doesn't allow that.",
+    "start": "00:17:58",
+    "end": "00:18:01"
+  },
+  {
+    "text": "So, instead, yeah, I I base I base it off spikes that I see.",
+    "start": "00:18:01",
+    "end": "00:18:04"
+  },
+  {
+    "text": ">> And then, what would your next step be?",
+    "start": "00:18:03",
+    "end": "00:18:06"
+  },
+  {
+    "text": "Like, if you if you see that hey, this video just really popped off, and then it correlated with some downloads and some revenue, what would be the next step?",
+    "start": "00:18:04",
+    "end": "00:18:12"
+  },
+  {
+    "text": "Is it just like run the same deal like over and over again with the same influencer?",
+    "start": "00:18:12",
+    "end": "00:18:17"
+  },
+  {
+    "text": ">> If they're good with it, we'll just renew the same deal over and over again.",
+    "start": "00:18:16",
+    "end": "00:18:20"
+  },
+  {
+    "text": "But, usually after that, we'd renegotiate for a bigger and better deal.",
+    "start": "00:18:19",
+    "end": "00:18:24"
+  },
+  {
+    "text": ">> Great.",
+    "start": "00:18:22",
+    "end": "00:18:23"
+  },
+  {
+    "text": "Is there anything else that like that you feel like are are the most common mistakes when people start doing influencer marketing?",
+    "start": "00:18:23",
+    "end": "00:18:29"
+  },
+  {
+    "text": "Is there any like part of this that you think made it successful and allowed you to scale to 14k a month?",
+    "start": "00:18:29",
+    "end": "00:18:36"
+  },
+  {
+    "text": ">> One thing I would advise to the audience is don't be afraid to take risks.",
+    "start": "00:18:34",
+    "end": "00:18:40"
+  },
+  {
+    "text": "Zach, my older brother, actually taught me this lesson.",
+    "start": "00:18:40",
+    "end": "00:18:42"
+  },
+  {
+    "text": "Either you win or you learn.",
+    "start": "00:18:42",
+    "end": "00:18:43"
+  },
+  {
+    "text": "If you pay an influencer $500, maybe you're profitable, and if you're not, then you'll still learn.",
+    "start": "00:18:43",
+    "end": "00:18:49"
+  },
+  {
+    "text": ">> What are some of those like L's that you took in the beginning when you're testing with influencers?",
+    "start": "00:18:47",
+    "end": "00:18:53"
+  },
+  {
+    "text": "And like, what are the the lessons you learned from that?",
+    "start": "00:18:53",
+    "end": "00:18:57"
+  },
+  {
+    "text": ">> Yeah, I took all kinds of L's.",
+    "start": "00:18:55",
+    "end": "00:18:59"
+  },
+  {
+    "text": "I'd say the biggest one was just not uh not caring about engagement early on.",
+    "start": "00:18:59",
+    "end": "00:19:03"
+  },
+  {
+    "text": "I would just care about followers and views, but in reality, that's a huge mistake.",
+    "start": "00:19:03",
+    "end": "00:19:06"
+  },
+  {
+    "text": "You should uh you should always look at the influencer's comment sections.",
+    "start": "00:19:06",
+    "end": "00:19:10"
+  },
+  {
+    "text": "You want to make sure that people are commenting.",
+    "start": "00:19:10",
+    "end": "00:19:13"
+  },
+  {
+    "text": "Not only that, but also interacting with each other in the comment section.",
+    "start": "00:19:11",
+    "end": "00:19:17"
+  },
+  {
+    "text": "And if there are a ton of emojis, then they're most likely not a great influencer.",
+    "start": "00:19:17",
+    "end": "00:19:20"
+  },
+  {
+    "text": "So, I used to work with influencers that would have poor comments.",
+    "start": "00:19:20",
+    "end": "00:19:24"
+  },
+  {
+    "text": "And yeah, like as you can see with Jeremiah, all of his comments are solid.",
+    "start": "00:19:24",
+    "end": "00:19:27"
+  },
+  {
+    "text": "There aren't many emojis.",
+    "start": "00:19:27",
+    "end": "00:19:29"
+  },
+  {
+    "text": "They're all commenting about things in the video.",
+    "start": "00:19:29",
+    "end": "00:19:30"
+  },
+  {
+    "text": "And many of them are even asking questions, which is which is an amazing sign.",
+    "start": "00:19:30",
+    "end": "00:19:34"
+  },
+  {
+    "text": "Then you can see comments have a ton of likes.",
+    "start": "00:19:34",
+    "end": "00:19:37"
+  },
+  {
+    "text": "People are replying to each other's comments.",
+    "start": "00:19:37",
+    "end": "00:19:38"
+  },
+  {
+    "text": "And that's a very positive sign.",
+    "start": "00:19:38",
+    "end": "00:19:41"
+  },
+  {
+    "text": ">> Yeah, this is like engagement rate.",
+    "start": "00:19:40",
+    "end": "00:19:43"
+  },
+  {
+    "text": "And then also like the the comments and like how real are the comments.",
+    "start": "00:19:43",
+    "end": "00:19:46"
+  },
+  {
+    "text": "You can get a sense of Is this Is this person just have views, vanity metrics versus is this actually going to convert because the audience is loyal and engaged?",
+    "start": "00:19:46",
+    "end": "00:19:59"
+  },
+  {
+    "text": "Um yeah, those are good good pointers.",
+    "start": "00:19:59",
+    "end": "00:20:00"
+  },
+  {
+    "text": "Cool.",
+    "start": "00:19:59",
+    "end": "00:20:00"
+  },
+  {
+    "text": "Is there anything else that you wanted to cover with with influencer marketing?",
+    "start": "00:20:00",
+    "end": "00:20:04"
+  },
+  {
+    "text": ">> Don't be afraid to take risks, guys.",
+    "start": "00:20:03",
+    "end": "00:20:06"
+  },
+  {
+    "text": "Once you identify the influencers that work, keep scaling with them.",
+    "start": "00:20:04",
+    "end": "00:20:09"
+  },
+  {
+    "text": ">> I want to go back to like the the origin story cuz you said like you created content for the [music] website that Zach was doing with the like the video games unblocked on on school computers.",
+    "start": "00:20:07",
+    "end": "00:20:21"
+  },
+  {
+    "text": "Is this like your your Locked account on TikTok is originally the account for the games, right?",
+    "start": "00:20:21",
+    "end": "00:20:30"
+  },
+  {
+    "text": ">> This account started for my unblock gaming website, Evan Club.",
+    "start": "00:20:27",
+    "end": "00:20:33"
+  },
+  {
+    "text": "This was the OG account for that after creating tons of content for Totally Science.",
+    "start": "00:20:33",
+    "end": "00:20:38"
+  },
+  {
+    "text": "Then it shifted to an account for my app, Problem Pal, the homework helper.",
+    "start": "00:20:38",
+    "end": "00:20:44"
+  },
+  {
+    "text": "And then finally it was an account for Locked, which it currently is.",
+    "start": "00:20:41",
+    "end": "00:20:47"
+  },
+  {
+    "text": "So, it evolved from a gaming website to now a a productivity app.",
+    "start": "00:20:47",
+    "end": "00:20:51"
+  },
+  {
+    "text": ">> Oh, look at this.",
+    "start": "00:20:49",
+    "end": "00:20:52"
+  },
+  {
+    "text": "This is 200k views.",
+    "start": "00:20:52",
+    "end": "00:20:52"
+  },
+  {
+    "text": "What was this video?",
+    "start": "00:20:52",
+    "end": "00:20:54"
+  },
+  {
+    "text": ">> It was It was how to finish your homework very quickly.",
+    "start": "00:20:53",
+    "end": "00:20:59"
+  },
+  {
+    "text": ">> In 10 seconds.",
+    "start": "00:20:55",
+    "end": "00:20:57"
+  },
+  {
+    "text": "Use AI Problem Pal.",
+    "start": "00:20:57",
+    "end": "00:20:59"
+  },
+  {
+    "text": "Oh, wow.",
+    "start": "00:20:59",
+    "end": "00:21:01"
+  },
+  {
+    "text": "Wait, this video did super well.",
+    "start": "00:21:00",
+    "end": "00:21:02"
+  },
+  {
+    "text": "This is for Problem Pal?",
+    "start": "00:21:02",
+    "end": "00:21:04"
+  },
+  {
+    "text": ">> Yeah, yeah, it was.",
+    "start": "00:21:02",
+    "end": "00:21:05"
+  },
+  {
+    "text": "That uh Dude, that video drove a ton of traction.",
+    "start": "00:21:05",
+    "end": "00:21:07"
+  },
+  {
+    "text": "Like I think the reason that we were able to scale to $2,000 a month is because of this video.",
+    "start": "00:21:07",
+    "end": "00:21:13"
+  },
+  {
+    "text": ">> $2,000 a month Yeah, a lot of it seems like it came from this one.",
+    "start": "00:21:11",
+    "end": "00:21:16"
+  },
+  {
+    "text": "Like, 200,000 views.",
+    "start": "00:21:16",
+    "end": "00:21:19"
+  },
+  {
+    "text": "And you're literally like pitching the app in the in the whole video.",
+    "start": "00:21:19",
+    "end": "00:21:22"
+  },
+  {
+    "text": "It's like, here is the thing that you should use.",
+    "start": "00:21:22",
+    "end": "00:21:24"
+  },
+  {
+    "text": ">> Exactly.",
+    "start": "00:21:24",
+    "end": "00:21:25"
+  },
+  {
+    "text": ">> And then people would go and like download it.",
+    "start": "00:21:24",
+    "end": "00:21:27"
+  },
+  {
+    "text": "You've tried a bunch of apps and then you scaled Locked to over 14K a month in revenue.",
+    "start": "00:21:27",
+    "end": "00:21:34"
+  },
+  {
+    "text": "And then Yeah, what are you up to now?",
+    "start": "00:21:34",
+    "end": "00:21:37"
+  },
+  {
+    "text": "Are you still working on Locked or you do you have other projects?",
+    "start": "00:21:37",
+    "end": "00:21:41"
+  },
+  {
+    "text": ">> Most recently, I launched a platform called 10X, >> [music] >> which is basically the Shopify for apps.",
+    "start": "00:21:39",
+    "end": "00:21:46"
+  },
+  {
+    "text": "You go into it, you enter your prompt, and then it builds out it builds you out a fully functional app.",
+    "start": "00:21:44",
+    "end": "00:21:50"
+  },
+  {
+    "text": "And not only that, it also helps you scale your app with marketing features such as Instagram posts, AI slideshows, uh and it also gives you the metrics of your competitors to take inspo from and then of course just analyze the market.",
+    "start": "00:21:50",
+    "end": "00:22:04"
+  },
+  {
+    "text": ">> How is 10X doing traction-wise?",
+    "start": "00:22:03",
+    "end": "00:22:07"
+  },
+  {
+    "text": ">> So, we launched Actually, today is 1 month from launch.",
+    "start": "00:22:04",
+    "end": "00:22:10"
+  },
+  {
+    "text": "So far, we're at over 30,000 in ARR.",
+    "start": "00:22:10",
+    "end": "00:22:11"
+  },
+  {
+    "text": "We just hit that today.",
+    "start": "00:22:11",
+    "end": "00:22:15"
+  },
+  {
+    "text": "And to me, the most important thing honestly is just helping people build great apps.",
+    "start": "00:22:13",
+    "end": "00:22:18"
+  },
+  {
+    "text": "Like, the the feedback has been unreal.",
+    "start": "00:22:18",
+    "end": "00:22:20"
+  },
+  {
+    "text": "People are able to launch apps We had one guy launch launch a fully functional app to the App Store in 2 hours, which is genuinely insane.",
+    "start": "00:22:20",
+    "end": "00:22:29"
+  },
+  {
+    "text": "My goal with 10X is to help people scale an app to $10,000 a month without leaving the platform once.",
+    "start": "00:22:29",
+    "end": "00:22:37"
+  },
+  {
+    "text": "I want to give users all of the resources necessary to scale an app.",
+    "start": "00:22:37",
+    "end": "00:22:39"
+  },
+  {
+    "text": ">> I know we were talking about this earlier, but I want to just dig into your personal story a little bit.",
+    "start": "00:22:38",
+    "end": "00:22:45"
+  },
+  {
+    "text": "Like, you're 15 years old.",
+    "start": "00:22:45",
+    "end": "00:22:45"
+  },
+  {
+    "text": "Are you in What grade is that?",
+    "start": "00:22:45",
+    "end": "00:22:47"
+  },
+  {
+    "text": "Like, ninth grade?",
+    "start": "00:22:47",
+    "end": "00:22:48"
+  },
+  {
+    "text": ">> Yeah, I'm in ninth grade, freshman in high school.",
+    "start": "00:22:47",
+    "end": "00:22:51"
+  },
+  {
+    "text": ">> Okay, ninth grade.",
+    "start": "00:22:49",
+    "end": "00:22:51"
+  },
+  {
+    "text": "Like, your friends in in high school, are they like also into entrepreneurship or content creation or any of these like online side hustles?",
+    "start": "00:22:51",
+    "end": "00:23:01"
+  },
+  {
+    "text": ">> Not really, but after some of my friends saw my success with Locked and after seeing 10X as well, seeing how accessible building an app is like anyone can do it now.",
+    "start": "00:22:58",
+    "end": "00:23:11"
+  },
+  {
+    "text": "My my 9-year-old brother could do it, so they're they're starting to get into the app space now.",
+    "start": "00:23:09",
+    "end": "00:23:16"
+  },
+  {
+    "text": ">> No way.",
+    "start": "00:23:13",
+    "end": "00:23:14"
+  },
+  {
+    "text": "There's a third Combinator.",
+    "start": "00:23:14",
+    "end": "00:23:17"
+  },
+  {
+    "text": "Wow, this is going to be You guys are going to be like in the in the history books.",
+    "start": "00:23:17",
+    "end": "00:23:21"
+  },
+  {
+    "text": "It's really interesting.",
+    "start": "00:23:20",
+    "end": "00:23:23"
+  },
+  {
+    "text": "Like I feel like there's like entrepreneurship seems to be trending younger and younger as as it goes on.",
+    "start": "00:23:23",
+    "end": "00:23:29"
+  },
+  {
+    "text": "Like when I was building side projects in college and then I would talk to like 30-year-olds, they would be like, \"Oh, that's crazy.",
+    "start": "00:23:29",
+    "end": "00:23:37"
+  },
+  {
+    "text": "Oh, you're doing entrepreneurship already?",
+    "start": "00:23:37",
+    "end": "00:23:39"
+  },
+  {
+    "text": "\" Like and I was doing stuff like I was doing actual Shopify drop shipping.",
+    "start": "00:23:39",
+    "end": "00:23:43"
+  },
+  {
+    "text": "Um and people were like kind of so surprised that like younger people were doing it, but now it's like 15-year-olds, that's shocking to like I feel like a boomer now saying that like oh, 15-year-old doing entrepreneurship is is crazy.",
+    "start": "00:23:43",
+    "end": "00:23:53"
+  },
+  {
+    "text": "In your perspective, is it just like completely normal?",
+    "start": "00:23:53",
+    "end": "00:23:58"
+  },
+  {
+    "text": "It's like, \"Oh yeah, like there's other entrepreneurs on my even if, you know, my friends in high school aren't doing entrepreneurship, like does it feel like a like a normal thing?",
+    "start": "00:23:58",
+    "end": "00:24:07"
+  },
+  {
+    "text": "\" Or do you feel like you're kind of like within a niche and you feel kind of like different from your peers?",
+    "start": "00:24:07",
+    "end": "00:24:13"
+  },
+  {
+    "text": ">> For me, entrepreneurship has always been ordinary.",
+    "start": "00:24:11",
+    "end": "00:24:14"
+  },
+  {
+    "text": "I've been I've been into it since I was 9 years old.",
+    "start": "00:24:14",
+    "end": "00:24:18"
+  },
+  {
+    "text": "Like I said, I developed two Roblox games back then and yeah, since then I've worked on tons of different projects and I live and breathe entrepreneurship.",
+    "start": "00:24:18",
+    "end": "00:24:28"
+  },
+  {
+    "text": "I love it.",
+    "start": "00:24:28",
+    "end": "00:24:29"
+  },
+  {
+    "text": ">> I'm curious about other stuff.",
+    "start": "00:24:27",
+    "end": "00:24:30"
+  },
+  {
+    "text": "I think like you have a very unique perspective as a 15-year-old entrepreneur.",
+    "start": "00:24:30",
+    "end": "00:24:37"
+  },
+  {
+    "text": "As just like a Gen Z, kind of almost bordering on Gen Alpha, like I think you you probably see a lot of these like upcoming trends, like these the way that people talk about self-improvement and the way that people like consume and produce content online.",
+    "start": "00:24:34",
+    "end": "00:24:50"
+  },
+  {
+    "text": "Are there any other things that you feel like are trends that you feel like are going to be bigger in the future?",
+    "start": "00:24:50",
+    "end": "00:24:57"
+  },
+  {
+    "text": "Any predictions?",
+    "start": "00:24:57",
+    "end": "00:24:58"
+  },
+  {
+    "text": "Because I feel like you were pretty ahead of the curve with Locked, you know, like this is like self-improvement has always been a trend, but you're it was very like in the know of like what's going on with Gen Z.",
+    "start": "00:24:57",
+    "end": "00:25:09"
+  },
+  {
+    "text": "Any other things that you feel like could be good niches in general and then of course like they could probably become app app niches as well.",
+    "start": "00:25:09",
+    "end": "00:25:17"
+  },
+  {
+    "text": ">> I would say big one is just staying on top of AI models.",
+    "start": "00:25:15",
+    "end": "00:25:18"
+  },
+  {
+    "text": "Whenever a new one is released, there's always a ton of opportunity there.",
+    "start": "00:25:18",
+    "end": "00:25:24"
+  },
+  {
+    "text": "Uh another one I'd say are definitely trends on social media.",
+    "start": "00:25:22",
+    "end": "00:25:27"
+  },
+  {
+    "text": "For example, that imposter app where someone would be the imposter and they'd have to say things similar to the word.",
+    "start": "00:25:27",
+    "end": "00:25:33"
+  },
+  {
+    "text": "That's a trend.",
+    "start": "00:25:33",
+    "end": "00:25:32"
+  },
+  {
+    "text": "So I would say yeah, just stay on top of trends, stay on top of AI models launching and that's how you can really jump on jump on a goldmine.",
+    "start": "00:25:32",
+    "end": "00:25:41"
+  },
+  {
+    "text": ">> That's interesting.",
+    "start": "00:25:40",
+    "end": "00:25:42"
+  },
+  {
+    "text": "The imposter I actually haven't seen ton of backstory behind this.",
+    "start": "00:25:42",
+    "end": "00:25:45"
+  },
+  {
+    "text": "Is this like cuz I I think I've seen this on my feed a little bit.",
+    "start": "00:25:45",
+    "end": "00:25:49"
+  },
+  {
+    "text": "Is this is this the one like the imposter game party game?",
+    "start": "00:25:48",
+    "end": "00:25:52"
+  },
+  {
+    "text": "I haven't actually seen this on my feed that much, but it seems like it's super viral.",
+    "start": "00:25:52",
+    "end": "00:25:57"
+  },
+  {
+    "text": "How would you go about ideation and figuring out app ideas if you're starting from scratch?",
+    "start": "00:25:57",
+    "end": "00:26:04"
+  },
+  {
+    "text": ">> For ideation, the first thing I do is think about problems I have or others face that are similar to myself and [music] if the TAM is high enough, the total addressable market, then I'd move forward with it.",
+    "start": "00:26:02",
+    "end": "00:26:16"
+  },
+  {
+    "text": ">> So problem solution apps.",
+    "start": "00:26:13",
+    "end": "00:26:16"
+  },
+  {
+    "text": "This one is like more of a game though or are you into kind of like these viral trends that don't necessarily solve a problem or do you think it's better to like stick with problems and pain points and and stuff like that?",
+    "start": "00:26:16",
+    "end": "00:26:31"
+  },
+  {
+    "text": ">> I would say it's best to stick to problems or pain points, but if if you can hop on a trend, that's also great.",
+    "start": "00:26:29",
+    "end": "00:26:36"
+  },
+  {
+    "text": ">> And I guess you maybe you're optimizing for revenue with that, right?",
+    "start": "00:26:35",
+    "end": "00:26:41"
+  },
+  {
+    "text": "Cuz people are willing to pay to solve problems, whereas something like this where it's like a game, it's not really solving a problem necessarily.",
+    "start": "00:26:41",
+    "end": "00:26:52"
+  },
+  {
+    "text": "Um I imagine that this probably has a lower conversion rate.",
+    "start": "00:26:49",
+    "end": "00:26:54"
+  },
+  {
+    "text": "You know, they charge looks like they charge like two or nine dollars.",
+    "start": "00:26:54",
+    "end": "00:26:59"
+  },
+  {
+    "text": "Um, so yeah, just for like getting started.",
+    "start": "00:26:58",
+    "end": "00:27:00"
+  },
+  {
+    "text": "Like if you want to get to 10k a month as fast as possible, it seems like the the problem solution stuff is is good to start out in.",
+    "start": "00:27:00",
+    "end": "00:27:10"
+  },
+  {
+    "text": ">> If you want to speed run to $10,000 a month, think of a problem that you or others face.",
+    "start": "00:27:08",
+    "end": "00:27:14"
+  },
+  {
+    "text": "Once that's done, I I'd go straight into 10x.",
+    "start": "00:27:14",
+    "end": "00:27:18"
+  },
+  {
+    "text": "Prompt write down on a doc exactly what you want to solve, exactly the features you want included.",
+    "start": "00:27:18",
+    "end": "00:27:24"
+  },
+  {
+    "text": "Then once that's done, once your app is generated, you can use the market tabs in 10x and you should also utilize this whole influencer playbook.",
+    "start": "00:27:23",
+    "end": "00:27:32"
+  },
+  {
+    "text": ">> Thanks so much Evan for the for the whole playbook.",
+    "start": "00:27:30",
+    "end": "00:27:33"
+  },
+  {
+    "text": "This is like super clear and step-by-step.",
+    "start": "00:27:33",
+    "end": "00:27:35"
+  },
+  {
+    "text": "Yeah, where can people find you?",
+    "start": "00:27:35",
+    "end": "00:27:39"
+  },
+  {
+    "text": ">> You can find me on X Evan Yadegar and also on Instagram Evan Yadegar.",
+    "start": "00:27:37",
+    "end": "00:27:42"
+  },
+  {
+    "text": ">> Thanks so much Evan.",
+    "start": "00:27:41",
+    "end": "00:27:43"
+  },
+  {
+    "text": ">> Awesome.",
+    "start": "00:27:42",
+    "end": "00:27:42"
+  },
+  {
+    "text": "All right, I'll speak to you later Joseph.",
+    "start": "00:27:42",
+    "end": "00:27:45"
+  },
+  {
+    "text": ">> Something you might not know, most of the founders I cover on this podcast are hanging out right now in the Consumer Club Discord sharing with each other what's working now for consumer apps.",
+    "start": "00:27:44",
+    "end": "00:27:54"
+  },
+  {
+    "text": "So you can apply to join Consumer Club if that sounds interesting to you.",
+    "start": "00:27:54",
+    "end": "00:27:57"
+  },
+  {
+    "text": "And this is the Superwall podcast.",
+    "start": "00:27:57",
+    "end": "00:27:58"
+  },
+  {
+    "text": "Of course, you got to check out superwall.",
+    "start": "00:27:58",
+    "end": "00:28:00"
+  },
+  {
+    "text": "com.",
+    "start": "00:28:00",
+    "end": "00:28:01"
+  },
+  {
+    "text": "We have more videos on the channel.",
+    "start": "00:28:01",
+    "end": "00:28:02"
+  },
+  {
+    "text": "So dig into those to learn from app founders who are willing to share super tactical stuff about app growth.",
+    "start": "00:28:02",
+    "end": "00:28:08"
+  }
+]

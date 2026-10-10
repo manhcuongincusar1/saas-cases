@@ -1,0 +1,46 @@
+{
+ "f": "2026-02-23_i-sold-my-company",
+ "vid": "v-uhjlMg9L0",
+ "segments": [
+  {
+   "s": "02:12",
+   "e": "03:00",
+   "nut": ["?"],
+   "moi": "Hai giờ deep work mỗi sáng trước giờ đi làm",
+   "tom": "8 năm trước, mỗi sáng ngồi Starbucks làm 2 tiếng deep work trước khi vào ca dev lương 6 con số: viết, code, gửi email, phỏng vấn founder — rồi refresh Stripe xem doanh thu bò từ 0 lên vài trăm đô",
+   "kq": "doanh thu từ $0 lên vài trăm đô"
+  },
+  {
+   "s": "03:17",
+   "e": "04:24",
+   "nut": ["?"],
+   "moi": "Nghỉ việc với vốn nhỏ và chịu nhiều tháng không nhúc nhích",
+   "tom": "Nghỉ việc khi trong tay còn khoảng $12.000; nhiều tháng liền không có gì chuyển động, có tháng hỏng sạch, chỉ ship - đăng nội dung - phỏng vấn - code mỗi ngày; không hề bùng nổ mà tích tụ dần, người đầu tiên tuyển là em gái"
+  },
+  {
+   "s": "04:55",
+   "e": "06:00",
+   "nut": ["?"],
+   "moi": "Doanh nghiệp nuốt mất danh tính của founder",
+   "tom": "Mở business để đổi lấy tự do và đã có, nhưng khi nó lớn lên thì thành danh tính — 'thằng Starter Story' — và ăn hết từng phút trong ngày; từng tuyên bố công khai không bao giờ bán cho tới lúc offer thật rơi xuống"
+  },
+  {
+   "s": "06:16",
+   "e": "07:21",
+   "nut": ["?"],
+   "moi": "Dấu hiệu nên bán: công ty đã chạy được mà không cần mình",
+   "tom": "Câu tự vấn ngay trước cửa phòng họp: bán vì trên giấy tờ đó là nước đi đúng, hay chỉ vì đã mệt và muốn đi tiếp? Chốt được khi nhận ra công ty từ lâu đã không còn phụ thuộc vào mình, giữ chặt chỉ là đang kìm nó lại"
+  },
+  {
+   "s": "08:32",
+   "e": "09:03",
+   "nut": ["?"],
+   "moi": "Chọn bên mua theo alignment thay vì theo giá",
+   "tom": "Starter Story được HubSpot (công ty đại chúng) mua lại; thứ quyết định không phải con số mà là alignment — giữ nguyên team, nguyên sứ mệnh, chỉ thêm nguồn lực để làm phỏng vấn lớn hơn và sản xuất tốt hơn",
+   "kq": "bán cho HubSpot, giá không công bố nhưng 'life-changing'"
+  }
+ ],
+ "bo_qua": [
+  {"s": "10:03", "e": "10:35", "ly_do": "quảng bá buổi live trả phí mổ xẻ thương vụ"}
+ ]
+}

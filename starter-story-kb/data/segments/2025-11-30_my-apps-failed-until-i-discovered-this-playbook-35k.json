@@ -1,0 +1,82 @@
+{
+ "f": "2025-11-30_my-apps-failed-until-i-discovered-this-playbook-35k",
+ "vid": "-OPKa8DIzKU",
+ "segments": [
+  {
+   "s": "01:34",
+   "e": "02:34",
+   "nut": ["?"],
+   "moi": "Danh mục nhiều SaaS chạy chung một playbook",
+   "tom": "Đã launch hơn 10 SaaS, chỉ 3 cái sống: Influspy (tìm influencer Instagram/Snapchat) 20K MRR sau 2 tháng, Minea (dò sản phẩm cho dropshipper) đỉnh 750K MRR sau 2 năm, Drop Magic (dựng store bằng AI) 45K MRR sau 4 tháng.",
+   "kq": "3/10 app sống; Minea đỉnh 750K MRR, Drop Magic 45K MRR sau 4 tháng"
+  },
+  {
+   "s": "02:34",
+   "e": "03:36",
+   "nut": ["3.6", "2.1"],
+   "tom": "5 năm build SaaS không ai dùng, ship đủ feature mà 0 khách; chỉ đổi hướng khi một chủ shop e-commerce mang vấn đề tới, rồi leo thang: newsletter validate traction → app no-code validate PMF → app thật để scale.",
+   "kq": "5 năm, 0 khách, 0 MRR trước khi đổi cách"
+  },
+  {
+   "s": "03:36",
+   "e": "04:25",
+   "nut": ["2.B3", "4.4"],
+   "tom": "Nút thắt của founder là phân phối chứ không phải sản phẩm; playbook của anh là dùng YouTube creator — trả cash/affiliate nếu là promoter, trả equity nếu là co-founder. Minea và Drop Magic đã làm với hơn 500 creator."
+  },
+  {
+   "s": "04:25",
+   "e": "05:41",
+   "nut": ["?"],
+   "moi": "Chọn YouTube long-form vì view đoán trước được và còn convert lâu dài",
+   "tom": "4 lý do chọn YouTube thay TikTok: ROI tốt nhất, view tối thiểu đoán trước được, long-form đủ chỗ demo app, video 3 năm tuổi vẫn ra đơn, và cắt lại thành short/ads được. TikTok chỉ tạo nhận biết, không convert.",
+   "kq": "hơn 60% khách mới đến từ YouTube"
+  },
+  {
+   "s": "06:45",
+   "e": "08:03",
+   "nut": ["4.4"],
+   "tom": "Cách lọc creator: search keyword trên YouTube xem đối thủ đang đẩy micro hay big influencer, rồi chấm 2 chỉ số — engagement (view/follower) trên 10%, tối thiểu 100 comment/video, và creator từng làm với cùng một brand ít nhất 3 lần."
+  },
+  {
+   "s": "08:03",
+   "e": "09:03",
+   "nut": ["?"],
+   "moi": "Đàm phán creator theo 2 gói rủi ro, test 1 video trước",
+   "tom": "Outreach bằng chiến dịch 7 email mỗi cái một góc marketing, kèm nhắn Instagram/Twitter; deal luôn hạ offer đầu 30%, đưa 2 gói (upfront cao–commission thấp và ngược lại), test 1 video, hoà vốn sau 1 tháng mới ký gói 3–4 video."
+  },
+  {
+   "s": "09:19",
+   "e": "10:53",
+   "nut": ["?"],
+   "moi": "Kéo creator vào làm co-founder ăn equity để gánh phân phối",
+   "tom": "Creator co-founder gỡ 3 rủi ro: Batiste ở Drop Magic bảo đảm sẵn 10K MRR làm bàn đạp sang creator khác và ads; anh ta là power user nên mang feedback cộng đồng về; và iterate script, funnel, giá, góc marketing miễn phí.",
+   "kq": "co-founder creator bảo đảm 10K MRR ngay từ đầu"
+  },
+  {
+   "s": "11:08",
+   "e": "11:39",
+   "nut": ["?"],
+   "moi": "Stack build MVP kèm bộ công cụ quản lý creator",
+   "tom": "Stack: Supabase (DB), Next.js + Vercel, Sentry, Trigger.dev cho compute nặng, Cursor + Claude Code để code, Nano Banana gen ảnh, Gemini/OpenAI viết copy; phía marketing có tool dò creator, CRM và Loops cho email."
+  },
+  {
+   "s": "11:39",
+   "e": "12:20",
+   "nut": ["1.1", "1.3"],
+   "tom": "Chi phí thật: server + compute chỉ ~$100/tháng, nhưng LLM tốn ~$1,5K/tháng vì tặng 5 ảnh AI cho mỗi user free; Minea từng ở biên 80%, Drop Magic thấp hơn do đang test nhiều, điểm ngọt 70–80%.",
+   "kq": "biên 70–80%"
+  },
+  {
+   "s": "12:26",
+   "e": "12:56",
+   "nut": ["?"],
+   "moi": "Deadline và milestone làm điều kiện dừng dự án",
+   "tom": "Đừng gắn cảm xúc vào dự án — lấy deadline và milestone làm nguồn sự thật duy nhất để quyết đi tiếp hay dừng; anh mất nhiều năm bám một thứ không traction chỉ vì tiếc logo, dự án và đồng đội."
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:02", "ly_do": "intro/hook của kênh, giới thiệu nhân vật"},
+  {"s": "05:41", "e": "06:45", "ly_do": "quảng cáo Starter Story Build"},
+  {"s": "13:11", "e": "14:00", "ly_do": "lời cảm ơn và quảng bá Starter Story Build cuối video"}
+ ]
+}

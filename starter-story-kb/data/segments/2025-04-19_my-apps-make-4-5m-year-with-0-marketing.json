@@ -1,0 +1,40 @@
+{
+ "f": "2025-04-19_my-apps-make-4-5m-year-with-0-marketing",
+ "vid": "vLLBzUZr6-s",
+ "segments": [
+  {"s":"01:02","e":"02:08","nut":["1.6","1.1"],
+   "tom":"Erikas (người Lithuania, sống ở Paris, xuất thân designer) cùng một co-founder làm 5 app Shopify, tất cả nằm trong nhóm discount phục vụ merchant muốn tăng giá trị đơn hàng: Kaching Bundles (~$400K MRR), Kaching Post Purchase Upsell, Kaching Pop-up Upsell và Kaching Cart Drawer Upsell mới ra vài tuần; từ lúc mở bán tháng 8/2022 các app đã mang về hơn $400 triệu doanh thu cộng thêm cho merchant",
+   "kq":"$4,5 triệu ARR, biên lợi nhuận 90%"},
+  {"s":"02:08","e":"03:09","nut":["1.6","2.9"],
+   "tom":"Luận điểm chọn sân: trên app store của nền tảng chỉ có hai loại nhà phát triển — dân solo/indie làm app kỹ thuật, khó dùng, UX tệ; và công ty lớn hoặc có VC thì UX tốt nhưng chậm kinh khủng, thiếu một tính năng có khi mất vài tháng tới cả năm mới ra. Khe hở là làm UX tốt mà vẫn nhanh; ban đầu anh chỉ định đánh nhóm indie, sau 1-2 năm mới thấy đánh được cả nhóm lớn"},
+  {"s":"03:24","e":"04:28","nut":["1.6","2.3"],
+   "tom":"Ra trường anh vào agency thiết kế web với $2/giờ, chuyển sang freelance khoảng 2015-2016; 3-4 năm sau, trong lúc tìm cảm hứng làm landing page cho một khách startup, anh vô tình vào trang Shopify Partners và đọc được rằng 25% nhà phát triển app Shopify hàng đầu kiếm gần $300.000/năm — gấp nhiều lần thu nhập freelance của anh, mà anh thì đã sẵn kinh nghiệm Shopify"},
+  {"s":"04:44","e":"05:31","nut":["2.10","1.6"],
+   "tom":"Ba tiêu chí anh dùng để chọn app nào đáng làm trên marketplace: (1) phải dễ build, tối đa vài tháng; (2) thị trường phải rộng — hữu ích cho bất kỳ store Shopify nào để dễ marketing và dùng được luôn tệp khách cũ; (3) cạnh tranh thấp"},
+  {"s":"05:31","e":"06:32","nut":["3.7","3.6"],
+   "tom":"Cách validate trước khi build: vào các Discord của dân dropshipping và group Facebook e-commerce nói chuyện với người dùng, rồi đăng ảnh chụp app chưa hề tồn tại — mới chỉ là bản thiết kế; bài đó nổ với hơn 100 like và cả loạt bình luận hỏi tải ở đâu vì tưởng app đã có thật. Anh nói thêm: dựng được landing page thu email là tốt, mà thu được tiền hay cho đặt trước thì còn tốt hơn nữa vì biết chắc người ta chịu trả"},
+  {"s":"08:40","e":"09:12","nut":["2.7","2.B1"],
+   "tom":"Là designer chứ không phải dev, quy trình 0→1 của anh bắt đầu ở đối thủ: có sẵn đối thủ là dấu hiệu tốt vì mình đào được vào sản phẩm của họ, dùng thử từng bước và ghi chú cái gì thích, cái gì ghét — xong bảng đó là có hình dung rõ app của mình phải như thế nào để nói được là khách quan tốt hơn"},
+  {"s":"09:12","e":"10:14","nut":["?"],"moi":"Chào co-founder như một bài bán hàng có luận điểm",
+   "tom":"Anh coi việc tìm co-founder y như đi bán hàng: phải bán cho người ta niềm tin rằng việc này sẽ thành. Anh đăng hẳn một bài dài trong group developer địa phương trên Facebook nêu ba thứ mình mang tới — có kinh nghiệm Shopify, là designer nhiều năm nên UX sẽ tốt, và đã có sẵn tệp khách đang dùng Shopify để bán app cho họ"},
+  {"s":"10:14","e":"11:16","nut":["4.14","1.6"],
+   "tom":"App mới thì nằm tận đáy bảng xếp hạng app store, nên việc phải làm là onboard người dùng bằng tay càng nhiều càng tốt: anh đi khắp các cộng đồng, nhắn cho toàn bộ khách cũ và bạn bè đang dùng Shopify nhờ cài thử; và để app miễn phí — nhiều lượt cài thì nhiều review, nhiều review thì kéo doanh thu, đồng thời có feedback để sửa sản phẩm"},
+  {"s":"11:16","e":"12:18","nut":["4.15","?"],"moi":"Cỗ máy xin review 5 sao trên marketplace",
+   "tom":"Khi xác định review 5 sao là sống còn, họ tối ưu mọi quy trình quanh nó: hỏi xin review ngay trong sản phẩm, gửi email hằng tháng khoe app đã mang về bao nhiêu doanh thu cho merchant rồi xin review ngay trong email đó. Khoảng 95% review đến từ bộ phận hỗ trợ khách — support của họ đều là người kỹ thuật, chui thẳng vào code của khách để sửa, trực 24/7"},
+  {"s":"12:18","e":"13:05","nut":["?"],"moi":"Game hoá thưởng review cho đội support",
+   "tom":"Anh gắn hệ thống thưởng kiểu trò chơi cho đội support: bảng xếp hạng theo tháng, các đợt rút thăm, và giải anh thích nhất là 'persuader of the month' — tính tỉ lệ chuyển đổi giữa số lần hỏi xin review và số review thật sự nhận được; mỗi review agent đều có thưởng"},
+  {"s":"13:05","e":"13:36","nut":["4.13","?"],"moi":"Chỉ bật thu tiền sau khi đã có review và thứ hạng",
+   "tom":"Họ chỉ đưa mô hình subscription vào sau khi đã có những review đầu tiên và bắt đầu lên hạng cho các từ khoá cụ thể; về sau thêm các bậc giá — dùng càng nhiều trả càng cao"},
+  {"s":"13:36","e":"14:06","nut":["4.13","4.15"],
+   "tom":"Công thức ra mắt cho mọi app mới: luôn phát hành miễn phí để giảm ma sát cài đặt; khi bắt đầu có lượt cài organic thì cho toàn bộ người dùng cũ giữ nguyên miễn phí trọn đời và chỉ thu tiền người mới; luôn có free trial; và hoàn tiền vô điều kiện không hỏi lý do vì rủi ro ăn một review 1 sao là quá lớn"},
+  {"s":"14:06","e":"15:11","nut":["1.1","?"],"moi":"Bộ tool vận hành một business app Shopify",
+   "tom":"Slack để nội bộ trao đổi, Intercom cho hỗ trợ khách, features.vote để người dùng đề xuất và vote tính năng, Linear để quản việc, và Mantle cho mọi thứ liên quan Shopify (dựng affiliate, xem metric, funnel, quản khách); toàn bộ chi phí giữ cực gọn",
+   "kq":"lãi ~90% ngay từ ngày đầu"},
+  {"s":"16:14","e":"17:02","nut":["4.14","?"],"moi":"Đội 2 người: designer + dev, tự làm support",
+   "tom":"Lời khuyên khởi động: giai đoạn đầu 2 người là đủ — một người lo sản phẩm/thiết kế, một người lo kỹ thuật — và hai người tự làm toàn bộ chăm sóc khách để biết chính xác khách đang vướng ở đâu; chỉ khi ticket nhiều lên mới thuê support rồi mở rộng team. Anh cũng khuyên la cà cùng những người đang build khác để học từ lỗi của họ và có khi tìm được co-founder ở đó"}
+ ],
+ "bo_qua": [
+  {"s":"06:32","e":"08:25","ly_do":"quảng cáo monday.com marketplace (tài trợ video)"},
+  {"s":"17:17","e":"18:04","ly_do":"quảng bá thư viện case study và list 52 ý tưởng micro SaaS của Starter Story"}
+ ]
+}

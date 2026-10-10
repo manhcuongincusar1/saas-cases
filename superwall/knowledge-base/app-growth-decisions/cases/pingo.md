@@ -1,0 +1,61 @@
+---
+app: Pingo
+operator: Mori, co-founder (growth/content); co-founder Michael (product). YC-backed, started in a Northwestern dorm
+category: AI language-learning conversation companion (20+ languages)
+primary_channel: TikTok creator program (~100 micro creators, many languages) + Noise CPM marketplace
+headline: ~350–400M views in the last 30 days; ~$450–500k/month revenue ~14 months after launch; 3M users; one roast/crying format hit 52M views
+videos: [s9qQPM92JNs, 0mOLs315i04]
+published: 2026-04-19
+---
+
+# Pingo — "meaningfully viral": every video shows the product; creators found the viral use inside an open prompt feature; geography decides whether views monetize
+
+## Idea — how they found it
+- Mori had studied Chinese 7–8 years; his roommate (now co-founder) Michael is a native speaker — "not everyone has a Michael" — [04:25](https://www.youtube.com/watch?v=s9qQPM92JNs&t=265s), [05:17](https://www.youtube.com/watch?v=s9qQPM92JNs&t=317s). Positioning: Duolingo doesn't make you conversationally fluent.
+- **Distribution-first ideation**: Michael, after a failed food app, "I don't want to build an app that's not going to go viral" — [06:34](https://www.youtube.com/watch?v=s9qQPM92JNs&t=394s); so "what AI feature seems like it would be inherently viral?" → talking to an AI — [06:45](https://www.youtube.com/watch?v=s9qQPM92JNs&t=405s).
+- Launch: "January 25th was like what we call launch... really the last week of December" (i.e. ~Jan 2025) — [04:14](https://www.youtube.com/watch?v=s9qQPM92JNs&t=254s).
+
+## Product — what they built and the key product choices
+- The marketing screen IS the product screen: a user holding the phone talking; Pingo = four colored sound-wave lines, deliberately no avatar ("We don't really like the avatars") — [08:34](https://www.youtube.com/watch?v=s9qQPM92JNs&t=514s).
+- **Open prompt surface**: "custom scenarios" (I am X, you are Y, we're doing Z) existed since day one — [12:42](https://www.youtube.com/watch?v=s9qQPM92JNs&t=762s). Creators — not the team — discovered they could prompt Pingo to be mean/roast them, which became the top format — [13:11](https://www.youtube.com/watch?v=s9qQPM92JNs&t=791s). Users now ask for a "mean Pingo" toggle (on roadmap, not built) — [14:12](https://www.youtube.com/watch?v=s9qQPM92JNs&t=852s).
+- **Paywall** (multi-page): the winner is a trial-timeline page ("today you unlock Pingo · in 5 days... reminder · you'll be charged"; reminded 2 days before trial ends) — [46:24](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2784s), [48:03](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2883s); it outperformed social-proof variants ("join over 3 million learners", reviews) — [47:39](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2859s). His read: reinforce the low risk of the trial.
+- Push annual ($99.99/yr shown as weekly/monthly equivalent); monthly hidden behind "view all plans" with no trial — [46:45](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2805s), [46:53](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2813s). Intro-offer version: "one time offer for 55% off" + timeline — [50:53](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3053s).
+- **3-day vs 7-day trial** (data still incomplete): US conversion "really mildly different" (~0.3–0.7 pt), ARPU ~20¢ apart — [52:47](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3167s), [52:55](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3175s); cancel rate ~5–7% higher on 3-day — [53:01](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3181s); internationally 7-day converted ~2% higher — [53:19](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3199s). Offering a 7-day trial on transaction-abandon after a 3-day refusal converts higher; next test 10/14-day — [51:09](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3069s), [51:25](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3085s). Usage concentrates in trial days 1–3, so a longer trial costs AI spend — [54:06](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3246s).
+- Segmented US vs international so US billing can move to Stripe web checkout for margins — [48:12](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2892s).
+
+## Marketing — channel, formats, creator/ads machine
+- **Founders first**: for ~3 months "mainly just Michael and I making videos till like 20k MRR", holding an iPad in a dorm; Michael ran a Korean account, Mori a Chinese one — [19:01](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1141s), [19:09](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1149s). First hit ~100k views: "POV your Chinese teacher on Sundays used to hit you, so now you seek validation from an AI" — [18:02](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1082s), [18:12](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1092s). Cultural hooks (TikTok ban / RedNote) ~1M views — [20:03](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1203s).
+- **Doctrine**: "virality that converts shows and doesn't tell" — [16:50](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1010s); "Everything that's gone viral for us since August only has used Pingo"; a creator whose non-product videos go viral "don't convert" — [01:30](https://www.youtube.com/watch?v=s9qQPM92JNs&t=90s), [01:35](https://www.youtube.com/watch?v=s9qQPM92JNs&t=95s).
+- **Hero format**: mispronounce a word → Pingo roasts → creator cries/reacts; 52M views on one video, repeated in Korean, Russian, Arabic, Japanese, French, etc., with prop variations (knitting, writing, slime) — [10:26](https://www.youtube.com/watch?v=s9qQPM92JNs&t=626s). Formats last months: the first ran "four or five months"; crying format "since September and it's still working" — [40:06](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2406s), [40:11](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2411s).
+- **Failed / weaker**: language-learning hooks not using Pingo; slideshows could hit 1M views but accounts "burned out pretty quick", and conversion vs Pingo-talking videos was "night and day" — [21:46](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1306s), [22:12](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1332s).
+- **Creator program as a VC portfolio**: "The top 20–30% of creators are doing most of the views"; the bottom is "dead spend" — [24:58](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1498s); ~100 creators after cutting 30–50 — [41:20](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2480s); ~30 generate ideas, 10 "goated" — [40:56](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2456s). VAs do outreach; internal clock before cut/keep — [23:46](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1426s). Content coaching started a week before recording; mostly craft basics (lighting, angle, framing, audio, doing something with your hands) — [42:08](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2528s).
+- **Selection**: creators who actually learn/speak the target language; micro (<10k followers) — [26:09](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1569s); at least one breakout video so the bonus feels reachable — [26:12](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1572s); 10–30k "healthy", 5–10k "really nice", some <2k blew up — follower count "doesn't really predict the success" — [31:40](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1900s), [31:43](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1903s). DM template only updates the user-count stat ("we have three million users") — [33:28](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2008s).
+- **Pay**: base per video + non-stacking milestone bonuses at 50k/100k/200k/500k/1M views (you earn the highest tier only) — [35:01](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2101s), [35:08](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2108s). Second bucket on **Noise** (CPM with a cap) to scale winners and test ideas; in-house spend is fixed, Noise is the dial — [35:36](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2136s), [35:50](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2150s). Briefs = example video + why it went viral + key steps; founder films examples for new formats.
+- **Geo trap**: ~200k+ Russian users in February who "couldn't pay us anything" (Apple/Google block transactions) — [01:54](https://www.youtube.com/watch?v=s9qQPM92JNs&t=114s), [28:03](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1683s); on Android ~12.5k of 23k new users in a window were Russian — [27:34](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1654s). Viewer country ≠ creator location (a UK-based creator had "90-something percent Russian viewership") — [28:42](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1722s). They killed Russian content and now track which country a video goes viral in. Side effect: target-language content still converts native speakers into English learners — [30:10](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1810s).
+
+## Numbers
+| Number | Context | Kind | Link |
+|---|---|---|---|
+| 350–370M views ("part of me wants to say 400M") | last 30 days | measured (estimate) | [03:54](https://www.youtube.com/watch?v=s9qQPM92JNs&t=234s) |
+| $450–500k/month | revenue, Feb 2026, ~14 months post-launch | measured | [37:53](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2273s) |
+| 3M users | DM pitch stat | measured | [33:28](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2008s) |
+| $20k MRR from 2 founders' own videos | first ~3 months | measured | [19:01](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1141s) |
+| 52M views | single roast/crying video | measured | [10:26](https://www.youtube.com/watch?v=s9qQPM92JNs&t=626s) |
+| ~100 creators; top 20–30% drive most views; cut 30–50 | creator portfolio | measured | [41:20](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2480s), [24:58](https://www.youtube.com/watch?v=s9qQPM92JNs&t=1498s) |
+| 200k+ unmonetizable Russian users | one month (Feb) | measured | [01:54](https://www.youtube.com/watch?v=s9qQPM92JNs&t=114s) |
+| 3-day vs 7-day: US ~0.3–0.7 pt, ~20¢ ARPU; intl 7-day +2%; 3-day cancels 5–7% higher | trial test, data incomplete, iOS | measured | [52:47](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3167s), [53:19](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3199s) |
+| Trial-timeline paywall beat other variants | multi-page paywall | measured (no % given) | [48:03](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2883s) |
+| ~100 investor meetings scheduled, round closed in ~3 days | post-YC raise | measured | [55:31](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3331s) |
+
+## Lessons → decisions
+- Ideate from "what feature is inherently viral on camera?" within a big proven market → [choose-idea](../decisions/choose-idea.md)
+- Ship an open/promptable surface and watch what creators do with it → [ugc-creators](../decisions/ugc-creators.md), [choose-idea](../decisions/choose-idea.md)
+- Founders post until first revenue, then scale with micro creators who belong to the niche; run the roster like a portfolio and cut the bottom → [ugc-creators](../decisions/ugc-creators.md)
+- Track viewer country, not views; unmonetizable geos are dead spend → [choose-channel](../decisions/choose-channel.md), [ugc-creators](../decisions/ugc-creators.md)
+- De-risk the trial on the paywall (timeline + reminder), push annual, use transaction-abandon offers; trial length differs US vs international → [paywall-pricing](../decisions/paywall-pricing.md)
+
+## Caveats
+- Self-reported, approximate numbers; the 3- vs 7-day test was not finished when recorded (late Feb 2026). No conversion % or LTV disclosed.
+- YC-funded with a high AI voice cost base; negative cash flow from App Store payout timing was covered by venture money — [56:38](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3398s). Bootstrappers may not afford the same burn.
+- Uses Noise (a distribution platform with a commercial interest in this story) and Superwall (host, sells paywalls; Stripe web checkout is a Superwall feature).
+- A later Superwall video (0mOLs315i04, 2026-09-23) says Pingo "had creators" do the roast format because reaction content was trending and cites "over a billion views" [11:06](https://www.youtube.com/watch?v=0mOLs315i04&t=666s), [11:24](https://www.youtube.com/watch?v=0mOLs315i04&t=684s); Mori's own account is that creators discovered the roast use themselves, and he never gives a cumulative view total — treat the narrator's version as secondhand.

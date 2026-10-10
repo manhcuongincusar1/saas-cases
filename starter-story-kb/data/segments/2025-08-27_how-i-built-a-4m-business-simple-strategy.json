@@ -1,0 +1,83 @@
+{
+ "f": "2025-08-27_how-i-built-a-4m-business-simple-strategy",
+ "vid": "MLAH5OZ5FO8",
+ "segments": [
+  {
+   "s": "01:31",
+   "e": "02:17",
+   "nut": ["?"],
+   "moi": "Thu hẹp sản phẩm về đúng một tính năng nhỏ",
+   "tom": "Alia chỉ bán đúng một thứ: cái pop-up \"nhập email nhận 15% off\" cho brand e-commerce, không làm gì khác — và đang chạy cho ~1.500 brand, có cả Nike Strength lẫn Toms Shoes",
+   "kq": "$4M ARR, 1.500 brand"
+  },
+  {
+   "s": "02:17",
+   "e": "03:04",
+   "nut": ["3.B5"],
+   "tom": "Bản đầu build trong câu lạc bộ fintech ở đại học, là loyalty kiêm education tool — chính việc anh không tả nổi nó là gì đã lộ bệnh; suốt thời gian dài chỉ có 2 khách: em họ của co-founder và một bạn cùng lớp",
+   "kq": "2 khách, cả hai là người quen"
+  },
+  {
+   "s": "03:04",
+   "e": "04:16",
+   "nut": ["?"],
+   "moi": "Nghe khách gọi mình là gì rồi trở thành đúng cái đó",
+   "tom": "Đọc \"Obviously Awesome\" và nuốt viên thuốc đắng: anh muốn tin khách xịn nhất coi mình là education tool, thực tế họ coi mình là pop-up tool — nếu họ trả tiền cho pop-up thì hàng loạt người khác cũng sẽ trả",
+   "kq": "$0 → $4M ARR trong khoảng một năm sau khi đổi định vị"
+  },
+  {
+   "s": "04:16",
+   "e": "05:10",
+   "nut": ["?"],
+   "moi": "Đổi định vị trên website và nội dung trước tiên",
+   "tom": "Hai mặt trận đầu: tagline website đổi thành \"the next generation of pop-ups\" và menu ghi \"pop-up features\" chứ không phải \"product features\"; rồi ghim post \"$3.5M ARR, pop-up, đó là tất cả những gì chúng tôi làm\" lên profile"
+  },
+  {
+   "s": "05:10",
+   "e": "06:07",
+   "nut": ["?"],
+   "moi": "Đồng bộ ngôn ngữ trong sales call và nội bộ team",
+   "tom": "Hai mặt trận còn lại: mở mọi sales call bằng \"tôi là Sean, CEO, chúng tôi làm pop-up\"; và bắt cả team dùng đúng ngôn ngữ đó khi làm CS, sales, ra quyết định — để mỗi lần ai hỏi \"pop-up tool nào tốt nhất\" trên Twitter/Slack là tên mình bật ra"
+  },
+  {
+   "s": "06:49",
+   "e": "07:40",
+   "nut": ["?"],
+   "moi": "Đặt mục tiêu cộng một khách thay vì so với người có 20.000 khách",
+   "tom": "Cách anh sống sót lúc mới 2 khách: mục tiêu duy nhất là khách thứ ba, rồi thứ tư, thứ năm — hiểu vì sao có được 5 người đó rồi mới nhân lên 10, 100, 1.000; không so mình với công ty 20.000 khách"
+  },
+  {
+   "s": "07:40",
+   "e": "08:35",
+   "nut": ["?"],
+   "moi": "Thử định vị mới trên sales call trước khi đổi cả công ty",
+   "tom": "Không đổi cả 4 thứ cùng lúc: đầu tiên chỉ nói \"chúng tôi là pop-up tool\" trong sales call và đo close rate — call ngắn hơn, gọn hơn, chốt nhiều hơn; rồi mới tới content, rồi website, cuối cùng là ngôn ngữ nội bộ"
+  },
+  {
+   "s": "08:35",
+   "e": "09:34",
+   "nut": ["?"],
+   "moi": "Quy trình 3 bước tự tái định vị",
+   "tom": "Công thức anh đưa: đọc Obviously Awesome, làm đủ bộ câu hỏi định vị trong sách cùng co-founder, rồi đem định vị mới ra thử trên sales call xem khách có hiểu nhanh hơn và chốt nhiều hơn không — chưa tốt thì quay lại bước hai"
+  },
+  {
+   "s": "09:34",
+   "e": "10:07",
+   "nut": ["?"],
+   "moi": "Cam kết đồng đội đặt trên cả ý tưởng",
+   "tom": "Team 12 người trong đó 3 co-founder, bootstrap; mantra của công ty là \"Alia sẽ thành công kể cả khi phải đi bán hot dog lề đường\" — pivot kiểu gì cũng được miễn nhóm không tan"
+  },
+  {
+   "s": "10:07",
+   "e": "10:52",
+   "nut": ["?"],
+   "moi": "Tốc độ là lợi thế duy nhất trước incumbent 15–20 năm tuổi",
+   "tom": "Lời khuyên cuối: làm đúng một thứ và làm nó xuất sắc; đồng tiền duy nhất founder trẻ có mà incumbent không có là tốc độ — đối thủ trong ngành pop-up đã 15–20 năm tuổi nên bản chất họ chậm hơn"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:09", "ly_do": "intro/hook của kênh"},
+  {"s": "06:07", "e": "06:49", "ly_do": "quảng bá Starter Story Build"},
+  {"s": "10:52", "e": "11:44", "ly_do": "lời cảm ơn và quảng bá Starter Story Build"}
+ ]
+}

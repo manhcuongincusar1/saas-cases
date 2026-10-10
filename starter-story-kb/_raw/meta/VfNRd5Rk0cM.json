@@ -1,0 +1,502 @@
+{
+  "id": "VfNRd5Rk0cM",
+  "title": "This app made over $1M",
+  "upload_date": "20250831",
+  "duration": 915,
+  "view_count": 632069,
+  "like_count": 16065,
+  "comment_count": 399,
+  "description": "Ania Wysocka experienced a panic attack in university and decided to build a mental health app. Today, Rootd has been downloaded more than 4M times, and has made over $1M!\n*Free Course: Ship Your First iOS App in 7 Days:* https://clickhubspot.com/ymtv\n\n🛠️ Want to build your own app with AI? Check out Starter Story Build → https://build.starterstory.com/build/ai-build-accelerator?utm_source=youtube&utm_campaign=ania\n\nCheck out Rootd: https://www.rootd.io/\nFollow Ania's journey: https://x.com/aniamargaret\n\n🔔 Follow the Second Channel: ‪@StarterStoryBuild‬ \n🏁 We're hiring: starterstory.com/jobs\n\nChapters:\n0:00 - Intro\n0:55 - Who is Ania & what she built\n1:11 - Idea for Rootd\n1:51 - How Ania validated the idea\n2:40 - Ania's validation framework\n3:16 - Building as a non-technical person\n4:11 - Building the full app\n5:10 - Growth timeline of Rootd\n5:38 - Building alongside a 9-5\n6:29 - Build your own app\n7:10 - Growth: from 0 to 4M downloads\n8:42 - Growth hack: being helpful on social media\n9:18 - Ania's successful app playbook\n10:32 - The most important metric\n11:28 - What is Rootd\n13:03 - Listen to users\n14:26 - The final word\n\nThis video is an educational case study of one founder’s experience. It is not financial advice and does not guarantee any income or results. Every business is different and your results may vary.",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 55,
+      "title": "Intro"
+    },
+    {
+      "start": 55,
+      "end": 71,
+      "title": "Who is Ania & what she built"
+    },
+    {
+      "start": 71,
+      "end": 111,
+      "title": "Idea for Rootd"
+    },
+    {
+      "start": 111,
+      "end": 160,
+      "title": "How Ania validated the idea"
+    },
+    {
+      "start": 160,
+      "end": 196,
+      "title": "Ania's validation framework"
+    },
+    {
+      "start": 196,
+      "end": 251,
+      "title": "Building as a non-technical person"
+    },
+    {
+      "start": 251,
+      "end": 310,
+      "title": "Building the full app"
+    },
+    {
+      "start": 310,
+      "end": 338,
+      "title": "Growth timeline of Rootd"
+    },
+    {
+      "start": 338,
+      "end": 389,
+      "title": "Building alongside a 9-5"
+    },
+    {
+      "start": 389,
+      "end": 430,
+      "title": "Build your own app"
+    },
+    {
+      "start": 430,
+      "end": 522,
+      "title": "Growth: from 0 to 4M downloads"
+    },
+    {
+      "start": 522,
+      "end": 558,
+      "title": "Growth hack: being helpful on social media"
+    },
+    {
+      "start": 558,
+      "end": 632,
+      "title": "Ania's successful app playbook"
+    },
+    {
+      "start": 632,
+      "end": 688,
+      "title": "The most important metric"
+    },
+    {
+      "start": 688,
+      "end": 783,
+      "title": "What is Rootd"
+    },
+    {
+      "start": 783,
+      "end": 866,
+      "title": "Listen to users"
+    },
+    {
+      "start": 866,
+      "end": 915,
+      "title": "The final word"
+    }
+  ],
+  "heatmap": [
+    {
+      "s": 0,
+      "v": 0.4556252678060799
+    },
+    {
+      "s": 9,
+      "v": 0.21405418226283193
+    },
+    {
+      "s": 18,
+      "v": 0.0742328040603476
+    },
+    {
+      "s": 27,
+      "v": 0.0591251137353147
+    },
+    {
+      "s": 36,
+      "v": 0.0904501047656131
+    },
+    {
+      "s": 45,
+      "v": 0.053668426174028006
+    },
+    {
+      "s": 54,
+      "v": 0.4209123145540836
+    },
+    {
+      "s": 64,
+      "v": 0.7669714702061741
+    },
+    {
+      "s": 73,
+      "v": 0.26272832873711865
+    },
+    {
+      "s": 82,
+      "v": 0.1467902709514302
+    },
+    {
+      "s": 91,
+      "v": 0.1397991438730106
+    },
+    {
+      "s": 100,
+      "v": 0.1299552430068295
+    },
+    {
+      "s": 109,
+      "v": 0.24684706025708883
+    },
+    {
+      "s": 119,
+      "v": 0.15448304807885416
+    },
+    {
+      "s": 128,
+      "v": 0.18924793157803815
+    },
+    {
+      "s": 137,
+      "v": 0.3164650424841673
+    },
+    {
+      "s": 146,
+      "v": 0.421284230600184
+    },
+    {
+      "s": 155,
+      "v": 0.30178805829967553
+    },
+    {
+      "s": 164,
+      "v": 0.143362794404912
+    },
+    {
+      "s": 174,
+      "v": 0.18210869598465762
+    },
+    {
+      "s": 183,
+      "v": 0.20575866124665187
+    },
+    {
+      "s": 192,
+      "v": 0.3705998279522228
+    },
+    {
+      "s": 201,
+      "v": 0.1750537643035713
+    },
+    {
+      "s": 210,
+      "v": 0.21823600131079246
+    },
+    {
+      "s": 219,
+      "v": 0.23247263144091643
+    },
+    {
+      "s": 229,
+      "v": 0.3375494449315482
+    },
+    {
+      "s": 238,
+      "v": 0.3143466333970761
+    },
+    {
+      "s": 247,
+      "v": 0.5539685595348742
+    },
+    {
+      "s": 256,
+      "v": 0.2332399113735816
+    },
+    {
+      "s": 265,
+      "v": 0.21227824402953846
+    },
+    {
+      "s": 274,
+      "v": 0.20509026741620193
+    },
+    {
+      "s": 283,
+      "v": 0.30934091058956326
+    },
+    {
+      "s": 293,
+      "v": 0.3729146051814412
+    },
+    {
+      "s": 302,
+      "v": 0.3470637321430228
+    },
+    {
+      "s": 311,
+      "v": 0.23509393552896918
+    },
+    {
+      "s": 320,
+      "v": 0.23717375296075371
+    },
+    {
+      "s": 329,
+      "v": 0.3046621337183807
+    },
+    {
+      "s": 338,
+      "v": 0.23653358078259926
+    },
+    {
+      "s": 348,
+      "v": 0.16799486113197007
+    },
+    {
+      "s": 357,
+      "v": 0.17636576023580222
+    },
+    {
+      "s": 366,
+      "v": 0.1471176782225173
+    },
+    {
+      "s": 375,
+      "v": 0.10057748581082217
+    },
+    {
+      "s": 384,
+      "v": 0.24474911036355937
+    },
+    {
+      "s": 393,
+      "v": 0.19078409608600083
+    },
+    {
+      "s": 403,
+      "v": 0.3353636007378347
+    },
+    {
+      "s": 412,
+      "v": 0.35989064360460904
+    },
+    {
+      "s": 421,
+      "v": 0.5659479789902134
+    },
+    {
+      "s": 430,
+      "v": 0.999779201173796
+    },
+    {
+      "s": 439,
+      "v": 1.0
+    },
+    {
+      "s": 448,
+      "v": 0.789018537884735
+    },
+    {
+      "s": 458,
+      "v": 0.5349934197115805
+    },
+    {
+      "s": 467,
+      "v": 0.5252086298683667
+    },
+    {
+      "s": 476,
+      "v": 0.5393453709946302
+    },
+    {
+      "s": 485,
+      "v": 0.4639369957128462
+    },
+    {
+      "s": 494,
+      "v": 0.5830861640441206
+    },
+    {
+      "s": 503,
+      "v": 0.7642370789286101
+    },
+    {
+      "s": 512,
+      "v": 0.785596236310706
+    },
+    {
+      "s": 522,
+      "v": 0.45438816856871145
+    },
+    {
+      "s": 531,
+      "v": 0.4226365832946172
+    },
+    {
+      "s": 540,
+      "v": 0.17381774819997958
+    },
+    {
+      "s": 549,
+      "v": 0.2854212650751788
+    },
+    {
+      "s": 558,
+      "v": 0.2572030226452684
+    },
+    {
+      "s": 567,
+      "v": 0.352717971270378
+    },
+    {
+      "s": 577,
+      "v": 0.4024402703120804
+    },
+    {
+      "s": 586,
+      "v": 0.4102125574819346
+    },
+    {
+      "s": 595,
+      "v": 0.45485427713732757
+    },
+    {
+      "s": 604,
+      "v": 0.4461426722865932
+    },
+    {
+      "s": 613,
+      "v": 0.34827162688448354
+    },
+    {
+      "s": 622,
+      "v": 0.478224894175072
+    },
+    {
+      "s": 632,
+      "v": 0.28163370672197335
+    },
+    {
+      "s": 641,
+      "v": 0.13654789720358426
+    },
+    {
+      "s": 650,
+      "v": 0.14115863722715746
+    },
+    {
+      "s": 659,
+      "v": 0.12211419690018145
+    },
+    {
+      "s": 668,
+      "v": 0.0967945207471517
+    },
+    {
+      "s": 677,
+      "v": 0.13252925025329534
+    },
+    {
+      "s": 687,
+      "v": 0.3961891843576428
+    },
+    {
+      "s": 696,
+      "v": 0.4406432009411229
+    },
+    {
+      "s": 705,
+      "v": 0.6105873317977237
+    },
+    {
+      "s": 714,
+      "v": 0.627917552458651
+    },
+    {
+      "s": 723,
+      "v": 0.37201817157490913
+    },
+    {
+      "s": 732,
+      "v": 0.27466931700141434
+    },
+    {
+      "s": 741,
+      "v": 0.2517819782084516
+    },
+    {
+      "s": 751,
+      "v": 0.19593116785138603
+    },
+    {
+      "s": 760,
+      "v": 0.19100930767944355
+    },
+    {
+      "s": 769,
+      "v": 0.19068601230510174
+    },
+    {
+      "s": 778,
+      "v": 0.26483771170940323
+    },
+    {
+      "s": 787,
+      "v": 0.10737398979597722
+    },
+    {
+      "s": 796,
+      "v": 0.09394184724955477
+    },
+    {
+      "s": 806,
+      "v": 0.10862077706323821
+    },
+    {
+      "s": 815,
+      "v": 0.11057695678020432
+    },
+    {
+      "s": 824,
+      "v": 0.09187438556603894
+    },
+    {
+      "s": 833,
+      "v": 0.08036356187539599
+    },
+    {
+      "s": 842,
+      "v": 0.06765958609747652
+    },
+    {
+      "s": 851,
+      "v": 0.0512759942704229
+    },
+    {
+      "s": 861,
+      "v": 0.11332302183291809
+    },
+    {
+      "s": 870,
+      "v": 0.03551236615337325
+    },
+    {
+      "s": 879,
+      "v": 0.05347487618552377
+    },
+    {
+      "s": 888,
+      "v": 0.06605236600795251
+    },
+    {
+      "s": 897,
+      "v": 0.03891462975253151
+    },
+    {
+      "s": 906,
+      "v": 0.0
+    }
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/VfNRd5Rk0cM/maxresdefault.jpg",
+  "webpage_url": "https://www.youtube.com/watch?v=VfNRd5Rk0cM",
+  "tags": []
+}

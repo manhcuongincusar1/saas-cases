@@ -1,0 +1,1447 @@
+[
+  {
+    "text": "Today we're taking a look at how Julian Alvarez built Jungle, an AI study app doing 80K to 100K in MR, but his story is nothing like what you've heard before.",
+    "start": "00:00:00",
+    "end": "00:00:09"
+  },
+  {
+    "text": "His path to get to that spot will challenge almost everything you've heard about building consumer apps.",
+    "start": "00:00:09",
+    "end": "00:00:16"
+  },
+  {
+    "text": "For [music] the next two weeks, don't touch the product.",
+    "start": "00:00:16",
+    "end": "00:00:17"
+  },
+  {
+    "text": "Don't touch it at all.",
+    "start": "00:00:17",
+    "end": "00:00:20"
+  },
+  {
+    "text": "Just spend the next two weeks focusing purely on distribution.",
+    "start": "00:00:20",
+    "end": "00:00:22"
+  },
+  {
+    "text": "Because if you focus two complete weeks on distribution and nothing happens, [music] then no one probably cares about your product.",
+    "start": "00:00:22",
+    "end": "00:00:30"
+  },
+  {
+    "text": "You see, most founders obsess over whether to focus on product or distribution, but Julian's lived through both extremes.",
+    "start": "00:00:30",
+    "end": "00:00:38"
+  },
+  {
+    "text": "From mass DMing 200 people and getting his Twitter banned to running 40 UGC creators posting 400 videos per week to generating 150 million total views, he's done some crazy numbers.",
+    "start": "00:00:35",
+    "end": "00:00:51"
+  },
+  {
+    "text": ">> We went from 2K MR to like almost 15K MR within like a week or two.",
+    "start": "00:00:46",
+    "end": "00:00:54"
+  },
+  {
+    "text": "[music] And that video alone, I think we estimate made us like close to 20K or so.",
+    "start": "00:00:54",
+    "end": "00:00:59"
+  },
+  {
+    "text": "And when one video from a micro influencer made them $20,000, Julian thought he'd cracked the code.",
+    "start": "00:00:59",
+    "end": "00:01:04"
+  },
+  {
+    "text": "But when he tried to replicate it, something unexpected happened.",
+    "start": "00:01:04",
+    "end": "00:01:07"
+  },
+  {
+    "text": "The strategy that seemed like an infinite growth hack turns out to be far more complex than he thought.",
+    "start": "00:01:07",
+    "end": "00:01:13"
+  },
+  {
+    "text": "But that's what makes Julian's insights so valuable.",
+    "start": "00:01:13",
+    "end": "00:01:14"
+  },
+  {
+    "text": "He's super honest about what did and didn't work.",
+    "start": "00:01:14",
+    "end": "00:01:17"
+  },
+  {
+    "text": "So today, he's breaking down why their influencer strategy eventually failed, the saturation problem killing traditional UGC right now, and why consumers are starting to catch on to inauthentic content.",
+    "start": "00:01:17",
+    "end": "00:01:28"
+  },
+  {
+    "text": "This sort of traditional UGC strategy is a growth hack.",
+    "start": "00:01:28",
+    "end": "00:01:32"
+  },
+  {
+    "text": "[music] And hacks of any sort are temporary.",
+    "start": "00:01:32",
+    "end": "00:01:35"
+  },
+  {
+    "text": "Like they won't work forever.",
+    "start": "00:01:35",
+    "end": "00:01:36"
+  },
+  {
+    "text": "And that's because by nature, a growth hack exploits a gap in the market.",
+    "start": "00:01:36",
+    "end": "00:01:41"
+  },
+  {
+    "text": "And eventually those gaps end up getting filled.",
+    "start": "00:01:41",
+    "end": "00:01:42"
+  },
+  {
+    "text": "And we go deep on when short-term optimization makes sense versus long-term plays, why retention is 10 to 100 times harder to move than top of funnel, and his contrarian take on whether bootstrap founders can actually afford to focus on retention.",
+    "start": "00:01:42",
+    "end": "00:01:56"
+  },
+  {
+    "text": "But that's enough of me just telling you about it.",
+    "start": "00:01:56",
+    "end": "00:01:58"
+  },
+  {
+    "text": "Let's get into the meat.",
+    "start": "00:01:57",
+    "end": "00:01:59"
+  },
+  {
+    "text": "I'm your host, Joseph Choy, founder of Consumer Club.",
+    "start": "00:01:59",
+    "end": "00:02:01"
+  },
+  {
+    "text": "For those who don't know, this interview is brought to you by Superwall, the all-in-one platform for paywall management and revenue analytics for your mobile apps.",
+    "start": "00:02:00",
+    "end": "00:02:08"
+  },
+  {
+    "text": "Let's get into it.",
+    "start": "00:02:08",
+    "end": "00:02:10"
+  },
+  {
+    "text": "To start out, tell me about Jungle.",
+    "start": "00:02:10",
+    "end": "00:02:12"
+  },
+  {
+    "text": ">> Yeah, so Jungle is an AI learning platform for students.",
+    "start": "00:02:10",
+    "end": "00:02:15"
+  },
+  {
+    "text": "It's kind of like a Quizlet with AI where you can upload anything you want to learn like a PDF, your lecture slides, a YouTube video, anything like that.",
+    "start": "00:02:15",
+    "end": "00:02:24"
+  },
+  {
+    "text": "And then we'll use that to generate practice questions of different sorts.",
+    "start": "00:02:24",
+    "end": "00:02:28"
+  },
+  {
+    "text": "Multiple choice questions, flashcards, open-ended questions of different difficulties.",
+    "start": "00:02:28",
+    "end": "00:02:34"
+  },
+  {
+    "text": "And it's also gified like Dualingo as you can kind of see like from the vibe of it.",
+    "start": "00:02:34",
+    "end": "00:02:36"
+  },
+  {
+    "text": "The whole idea is like how do we make effective active learning for students really easy and also really fun because it turns out that one of the biggest problems for students isn't always like learning efficacy or how effective their studying is.",
+    "start": "00:02:36",
+    "end": "00:02:51"
+  },
+  {
+    "text": "It's more so their motivation to show up every day and be consistent.",
+    "start": "00:02:51",
+    "end": "00:02:53"
+  },
+  {
+    "text": "And one of the most beautiful things about what we're doing is not just making learning effective with AI and learning science, but also making it really fun so that people can fall in love with learning as school originally do, but doesn't do a great job at.",
+    "start": "00:02:53",
+    "end": "00:03:07"
+  },
+  {
+    "text": ">> That's really cool.",
+    "start": "00:03:06",
+    "end": "00:03:07"
+  },
+  {
+    "text": "How much money is Jungle making right now?",
+    "start": "00:03:07",
+    "end": "00:03:12"
+  },
+  {
+    "text": ">> We are making around like 80 to 100K a month.",
+    "start": "00:03:08",
+    "end": "00:03:14"
+  },
+  {
+    "text": ">> How did you initially get started getting your first downloads and revenue?",
+    "start": "00:03:12",
+    "end": "00:03:17"
+  },
+  {
+    "text": "My co-founder David and I, we've been like obsessed with learning education and we had been doing like a lot of pivots previously, but when AI came into the picture, we're like, \"Wow, this is like a huge opportunity to reimagine what uh learning and education could look like.",
+    "start": "00:03:17",
+    "end": "00:03:33"
+  },
+  {
+    "text": "\" And we were looking for an idea because we had pivoted like four or five times.",
+    "start": "00:03:33",
+    "end": "00:03:37"
+  },
+  {
+    "text": "Nothing was working.",
+    "start": "00:03:37",
+    "end": "00:03:39"
+  },
+  {
+    "text": "We had like 3 months of runway and we needed something that would work right now basically.",
+    "start": "00:03:37",
+    "end": "00:03:43"
+  },
+  {
+    "text": "And we saw this tweet someone put out that went viral where they basically said, \"My dream AI product would be to take anything I'm learning and to generate flashc cards with it using AI.",
+    "start": "00:03:43",
+    "end": "00:03:54"
+  },
+  {
+    "text": "\" That tweet blew up and I commented saying we were building like something similar, which we were building something tangentially similar, but not the exact same thing.",
+    "start": "00:03:54",
+    "end": "00:04:02"
+  },
+  {
+    "text": "But basically, I got like over 200 downloads, over 50, 200 DMs, and basically just like a lot of interest in this.",
+    "start": "00:04:02",
+    "end": "00:04:08"
+  },
+  {
+    "text": "and it felt like the perfect opportunity for us to take advantage of in a space that we really cared about.",
+    "start": "00:04:08",
+    "end": "00:04:16"
+  },
+  {
+    "text": "And we basically got our first 100 users by DMing everyone that engaged with that tweet.",
+    "start": "00:04:13",
+    "end": "00:04:19"
+  },
+  {
+    "text": "So much to the point that my Twitter account got banned, which was really sad.",
+    "start": "00:04:19",
+    "end": "00:04:24"
+  },
+  {
+    "text": "From there on, like we had content creators pick it up and start creating videos about it.",
+    "start": "00:04:24",
+    "end": "00:04:30"
+  },
+  {
+    "text": "And then we posted our thing on AI tool directories, kind of like future tools, for example.",
+    "start": "00:04:30",
+    "end": "00:04:36"
+  },
+  {
+    "text": "And then finally getting to 10,000 plus ended up coming from influencer marketing.",
+    "start": "00:04:34",
+    "end": "00:04:39"
+  },
+  {
+    "text": "And we did influencer marketing as kind of like our growth strategy for quite some time.",
+    "start": "00:04:39",
+    "end": "00:04:44"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:04:43",
+    "end": "00:04:44"
+  },
+  {
+    "text": "It seems like you've done every stage of growth from mass DMing things that don't scale to everyone who likes to tweet all the way to like mass scale UGC programs.",
+    "start": "00:04:44",
+    "end": "00:04:54"
+  },
+  {
+    "text": "AI tool directory.",
+    "start": "00:04:54",
+    "end": "00:04:56"
+  },
+  {
+    "text": "Do you feel like that's still a big thing today?",
+    "start": "00:04:56",
+    "end": "00:05:00"
+  },
+  {
+    "text": ">> Probably not.",
+    "start": "00:04:58",
+    "end": "00:05:00"
+  },
+  {
+    "text": "I think I would still try to post the tool there, but my guess would be that they're probably oversaturated by now.",
+    "start": "00:05:00",
+    "end": "00:05:07"
+  },
+  {
+    "text": "Actually, like the more important sort of advice that I got when I first launched, my co-founder, David and I were very product oriented.",
+    "start": "00:05:07",
+    "end": "00:05:16"
+  },
+  {
+    "text": "He's kind of more designer, product thinker.",
+    "start": "00:05:14",
+    "end": "00:05:17"
+  },
+  {
+    "text": "I'm more of a technical person.",
+    "start": "00:05:17",
+    "end": "00:05:21"
+  },
+  {
+    "text": "And so marketing and growth wasn't really like a natural thing for us.",
+    "start": "00:05:18",
+    "end": "00:05:24"
+  },
+  {
+    "text": "It wasn't the thing we gravitated towards.",
+    "start": "00:05:24",
+    "end": "00:05:26"
+  },
+  {
+    "text": "One of our mentors told us that when we first launched, he was like, \"Okay, great.",
+    "start": "00:05:24",
+    "end": "00:05:28"
+  },
+  {
+    "text": "You launch.",
+    "start": "00:05:28",
+    "end": "00:05:30"
+  },
+  {
+    "text": "\" Now, for the next two weeks, don't touch the product.",
+    "start": "00:05:30",
+    "end": "00:05:34"
+  },
+  {
+    "text": "Just spend the next two weeks focusing purely on distribution and nothing happens, then no one probably cares about your product and you should probably pivot.",
+    "start": "00:05:34",
+    "end": "00:05:42"
+  },
+  {
+    "text": "And for us, it was like there's a truth to that, but there was also a mindset shift that came with it.",
+    "start": "00:05:40",
+    "end": "00:05:46"
+  },
+  {
+    "text": "as a product person or as a technical person, you're always kind of like trying to think of like, oh, but there's this bug, there's this like thing we could add, this feature that we think would make a meaningful difference.",
+    "start": "00:05:46",
+    "end": "00:05:56"
+  },
+  {
+    "text": "And it's easy to get into this sort of like rat race.",
+    "start": "00:05:56",
+    "end": "00:06:00"
+  },
+  {
+    "text": "I think early on, you got to figure out a way to consistently get at least 30 to 100 people in the door per week.",
+    "start": "00:06:00",
+    "end": "00:06:08"
+  },
+  {
+    "text": "Ideally, a lot more, but at a minimum, like that amount, so that whenever you do release things or try different experiments out, you're able to at least get some sort of meaningful number of users trying it out to see if it actually works.",
+    "start": "00:06:05",
+    "end": "00:06:22"
+  },
+  {
+    "text": ">> So, after you took that advice and hey, let's just focus 2 weeks laser in on distribution, do you remember what the first kind of breakthrough moment was where you actually started to see some traction?",
+    "start": "00:06:19",
+    "end": "00:06:31"
+  },
+  {
+    "text": "Well, it was interesting the DMing hundreds of people to try the product.",
+    "start": "00:06:31",
+    "end": "00:06:36"
+  },
+  {
+    "text": "That was not the most effective way to grow, but it was a really effective way to get feedback because you're already opening a one-on-one like channel of communication.",
+    "start": "00:06:36",
+    "end": "00:06:46"
+  },
+  {
+    "text": "So, it's basically a lot easier for someone to share feedback through that versus if someone found your thing through TikTok.",
+    "start": "00:06:46",
+    "end": "00:06:53"
+  },
+  {
+    "text": "Like, there's not a direct channel of communication open.",
+    "start": "00:06:51",
+    "end": "00:06:55"
+  },
+  {
+    "text": "That was a really great way to get a lot of feedback early on, that one-on-one sort of marketing tactic.",
+    "start": "00:06:55",
+    "end": "00:06:59"
+  },
+  {
+    "text": "and then posting on the AI tool directories and having it get picked up by some influencers.",
+    "start": "00:06:59",
+    "end": "00:07:04"
+  },
+  {
+    "text": "There were some videos that started to go a little bit viral and that got a lot of people into the door just kind of gave us more validation on what we were building early on.",
+    "start": "00:07:04",
+    "end": "00:07:12"
+  },
+  {
+    "text": "So, was that almost like an early signal like you randomly posted on these directories hoping to get some users but then by chance people just influencers started mentioning you.",
+    "start": "00:07:12",
+    "end": "00:07:24"
+  },
+  {
+    "text": "Those posts did really well and then is that when you kind of realize like oh actually these posts by these influencers are doing well.",
+    "start": "00:07:22",
+    "end": "00:07:29"
+  },
+  {
+    "text": "maybe we should do influencer marketing.",
+    "start": "00:07:29",
+    "end": "00:07:31"
+  },
+  {
+    "text": ">> I think that was the natural sequence of thoughts where it's like, well, these people are organically making videos about us, but obviously that's limited in its [music] power and the number of people that would do it, especially after the newness factor of your app sort of dies down.",
+    "start": "00:07:30",
+    "end": "00:07:44"
+  },
+  {
+    "text": "I think also, by the way, the reason like influencers organically made videos is because it was like a pretty novel concept and cool idea at the time, like AI generated flashcards.",
+    "start": "00:07:44",
+    "end": "00:07:53"
+  },
+  {
+    "text": "Now, it feels like something that's very generic or not that exciting.",
+    "start": "00:07:53",
+    "end": "00:07:57"
+  },
+  {
+    "text": "So yeah, there's like a newness factor that makes it pretty interesting and fun.",
+    "start": "00:07:57",
+    "end": "00:08:02"
+  },
+  {
+    "text": ">> So then how did you do influencer marketing?",
+    "start": "00:08:00",
+    "end": "00:08:02"
+  },
+  {
+    "text": "Can you just walk through that strategy?",
+    "start": "00:08:02",
+    "end": "00:08:05"
+  },
+  {
+    "text": ">> Yeah, I mean we didn't really know what we were doing at the beginning or how it worked, but I think it was just basically finding influencers that were in our niche like the study space, study talk, and trying to get them to post videos.",
+    "start": "00:08:04",
+    "end": "00:08:17"
+  },
+  {
+    "text": "I think the like more advanced strategy that we ended up getting to after a couple iterations is target micro to mid-tier influencers like in the 5k to 100k followers range because the ROI and the CPMs at that time I think are a lot better versus like if you get really big influencers they're a lot more expensive.",
+    "start": "00:08:17",
+    "end": "00:08:39"
+  },
+  {
+    "text": "You know they don't always work out well so you're kind of gambling.",
+    "start": "00:08:39",
+    "end": "00:08:41"
+  },
+  {
+    "text": "But with the micro influencers it was like better guarantee that you would get a better ROI.",
+    "start": "00:08:41",
+    "end": "00:08:46"
+  },
+  {
+    "text": "The downside is that it's a lot more effort cuz you're reaching out to a lot more people.",
+    "start": "00:08:46",
+    "end": "00:08:52"
+  },
+  {
+    "text": "There's a lot in the process around, hey, try to do like a three or a multi- video deal in order to get like lower cost per video.",
+    "start": "00:08:49",
+    "end": "00:08:58"
+  },
+  {
+    "text": "And on top of that, like how do we best equip content and a sort of like plan to an influencer that sort of educates them on the pain points on viral hooks that have gone well, but also give them the creative freedom to express themselves.",
+    "start": "00:08:58",
+    "end": "00:09:12"
+  },
+  {
+    "text": "I think there was a a lot that we experimented with and finding the ideal balance between guiding and giving the best material possible to the influencers while also creating enough space for them to be creative and create things in the content style that best fits their own page.",
+    "start": "00:09:12",
+    "end": "00:09:28"
+  },
+  {
+    "text": ">> It seems like when you're working with micro influencers and you there's this concept of the brief, like you can't just have them make whatever video they want.",
+    "start": "00:09:26",
+    "end": "00:09:34"
+  },
+  {
+    "text": "You're kind of looking at good formats that have gone viral already within the niche.",
+    "start": "00:09:34",
+    "end": "00:09:39"
+  },
+  {
+    "text": "How did you actually think about that balance?",
+    "start": "00:09:39",
+    "end": "00:09:42"
+  },
+  {
+    "text": "I'm curious like what that strategy was between giving the influencer complete creative freedom versus saying here's actually how to make a video that'll convert to actual users.",
+    "start": "00:09:42",
+    "end": "00:09:52"
+  },
+  {
+    "text": "Yeah, there's a delicate balance.",
+    "start": "00:09:52",
+    "end": "00:09:53"
+  },
+  {
+    "text": "I think we have more of a benefit in that many of these influencers tend to be students themselves.",
+    "start": "00:09:53",
+    "end": "00:09:58"
+  },
+  {
+    "text": "So like they get it, they get the pain points, but at the same time they may not because they may know them, but they may not be consciously aware of them or how to talk about them.",
+    "start": "00:09:58",
+    "end": "00:10:07"
+  },
+  {
+    "text": "So, you want to provide like examples of videos that have performed really well or examples of viral hooks that they could potentially use.",
+    "start": "00:10:05",
+    "end": "00:10:14"
+  },
+  {
+    "text": "And of course, like give them feedback wherever feedback is warranted in order to to make it good.",
+    "start": "00:10:14",
+    "end": "00:10:19"
+  },
+  {
+    "text": "But it is hard cuz you have to train your own content intuition to know what works well.",
+    "start": "00:10:19",
+    "end": "00:10:24"
+  },
+  {
+    "text": "And this is a skill that neither my co-founder and I had.",
+    "start": "00:10:24",
+    "end": "00:10:26"
+  },
+  {
+    "text": "So I think like we have to sort of make content ourselves and really study content in order to develop good enough intuitions that would allow us to basically better guide and better vet the quality of any influencers we worked with.",
+    "start": "00:10:26",
+    "end": "00:10:41"
+  },
+  {
+    "text": ">> Yeah, I feel like it's actually like people like to over complicate it, but it's like anyone can literally make a TikTok.",
+    "start": "00:10:40",
+    "end": "00:10:45"
+  },
+  {
+    "text": "It's just your phone.",
+    "start": "00:10:45",
+    "end": "00:10:47"
+  },
+  {
+    "text": "You just record your face, talk to the camera, or just find a video that's doing well and just try to replicate it.",
+    "start": "00:10:47",
+    "end": "00:10:53"
+  },
+  {
+    "text": "But I remember this whole strategy has stuck in my mind for the past few years of knowing you guys.",
+    "start": "00:10:53",
+    "end": "00:10:57"
+  },
+  {
+    "text": "This is one of the first times that my mind was completely blown of like you can do micro influencer marketing and hit some big numbers with consumer apps.",
+    "start": "00:10:57",
+    "end": "00:11:07"
+  },
+  {
+    "text": "Was this like the first breakout video, would you say?",
+    "start": "00:11:07",
+    "end": "00:11:13"
+  },
+  {
+    "text": ">> Yeah, this um influencer uh Agogo, she's amazing.",
+    "start": "00:11:10",
+    "end": "00:11:14"
+  },
+  {
+    "text": "She makes really good content.",
+    "start": "00:11:14",
+    "end": "00:11:17"
+  },
+  {
+    "text": "She's in medical school, which is like in her niche of like the biggest power user.",
+    "start": "00:11:15",
+    "end": "00:11:21"
+  },
+  {
+    "text": "[music] And the quality of content she makes is just incredible.",
+    "start": "00:11:21",
+    "end": "00:11:24"
+  },
+  {
+    "text": "She like perfectly touched on the pain points in these videos, like had really good storytelling narrative, showed the product in a really compelling way.",
+    "start": "00:11:24",
+    "end": "00:11:35"
+  },
+  {
+    "text": "And yeah, she had maybe like three videos that got over a million views, this being one of them.",
+    "start": "00:11:35",
+    "end": "00:11:40"
+  },
+  {
+    "text": "It was insane.",
+    "start": "00:11:40",
+    "end": "00:11:42"
+  },
+  {
+    "text": "The first time we ever went like 10x viral was from one of her videos.",
+    "start": "00:11:42",
+    "end": "00:11:46"
+  },
+  {
+    "text": "It was pretty nuts.",
+    "start": "00:11:46",
+    "end": "00:11:47"
+  },
+  {
+    "text": "I can't remember exactly, but we went from 2K MR to like almost 15K MR within like a week or two.",
+    "start": "00:11:47",
+    "end": "00:11:56"
+  },
+  {
+    "text": "And that video alone, I think we estimate made us like close to 20K or so.",
+    "start": "00:11:56",
+    "end": "00:12:00"
+  },
+  {
+    "text": "So, you know, we feel like we won the lottery.",
+    "start": "00:12:00",
+    "end": "00:12:03"
+  },
+  {
+    "text": "I'll never forget that first viral moment.",
+    "start": "00:12:01",
+    "end": "00:12:04"
+  },
+  {
+    "text": "It was pretty surreal.",
+    "start": "00:12:04",
+    "end": "00:12:06"
+  },
+  {
+    "text": ">> Now, you have the winning lottery numbers, right?",
+    "start": "00:12:04",
+    "end": "00:12:08"
+  },
+  {
+    "text": "Cuz you're the one who kind of like strategized to make this video.",
+    "start": "00:12:08",
+    "end": "00:12:11"
+  },
+  {
+    "text": "Well, you know, you outsource the creativity a little bit to the creator, but you now have the data of like this type of video just made us 20k in revenue.",
+    "start": "00:12:11",
+    "end": "00:12:20"
+  },
+  {
+    "text": "So, are you then able to put in those same lottery numbers over and over and just kind of repeat the strategy or is there some more nuance there?",
+    "start": "00:12:20",
+    "end": "00:12:30"
+  },
+  {
+    "text": ">> Well, that was the big question.",
+    "start": "00:12:28",
+    "end": "00:12:32"
+  },
+  {
+    "text": "Like, great, we hit a home run.",
+    "start": "00:12:32",
+    "end": "00:12:33"
+  },
+  {
+    "text": "Can we do it again?",
+    "start": "00:12:33",
+    "end": "00:12:33"
+  },
+  {
+    "text": "And can we create a repeatable strategy around this?",
+    "start": "00:12:33",
+    "end": "00:12:37"
+  },
+  {
+    "text": "That was the big question at the time.",
+    "start": "00:12:37",
+    "end": "00:12:39"
+  },
+  {
+    "text": "And we were able to get a couple other like viral videos specifically from this creator, Agogo.",
+    "start": "00:12:39",
+    "end": "00:12:45"
+  },
+  {
+    "text": "But after some time like we weren't able to replicate it and we weren't able to like get similar success with other creators.",
+    "start": "00:12:43",
+    "end": "00:12:50"
+  },
+  {
+    "text": "We tried very hard.",
+    "start": "00:12:50",
+    "end": "00:12:53"
+  },
+  {
+    "text": "Maybe we just didn't know what the we were doing or we took the wrong approach.",
+    "start": "00:12:53",
+    "end": "00:12:57"
+  },
+  {
+    "text": "After some time like we were burning more money than we were making on these influencer videos.",
+    "start": "00:12:57",
+    "end": "00:13:01"
+  },
+  {
+    "text": "You know, we have to switch our approach.",
+    "start": "00:13:01",
+    "end": "00:13:03"
+  },
+  {
+    "text": "Is there anything you would have done differently if you knew that repeating the same influencer strategy wouldn't work the way that you wanted it to?",
+    "start": "00:13:03",
+    "end": "00:13:11"
+  },
+  {
+    "text": ">> I think one thing we didn't try as much is like minimum view clauses, right?",
+    "start": "00:13:09",
+    "end": "00:13:15"
+  },
+  {
+    "text": "That would have mitigated the risk.",
+    "start": "00:13:13",
+    "end": "00:13:16"
+  },
+  {
+    "text": "And I think overall, I feel like we could have done a much better job of seeing what worked or analyzing what worked and replicating that in a more strategic way.",
+    "start": "00:13:16",
+    "end": "00:13:23"
+  },
+  {
+    "text": "I don't know if it would have come from like just better briefs or better guidance, but there's definitely a lot of things that we didn't try, but it it felt expensive to keep on trying influencer marketing.",
+    "start": "00:13:23",
+    "end": "00:13:35"
+  },
+  {
+    "text": ">> So, the influencers were making some money and some downloads, but just not enough to justify the cost.",
+    "start": "00:13:32",
+    "end": "00:13:40"
+  },
+  {
+    "text": ">> Yeah, it definitely seemed like we were spending significantly more money than we were getting back.",
+    "start": "00:13:38",
+    "end": "00:13:47"
+  },
+  {
+    "text": ">> So, this was like 15k MR at this point when you just initially started a few videos within like a week or two.",
+    "start": "00:13:44",
+    "end": "00:13:54"
+  },
+  {
+    "text": "Now you're at, you know, 80, 100K a month.",
+    "start": "00:13:54",
+    "end": "00:13:56"
+  },
+  {
+    "text": "How did you get from 20K to where you are now?",
+    "start": "00:13:54",
+    "end": "00:13:58"
+  },
+  {
+    "text": ">> It's like product, right?",
+    "start": "00:13:57",
+    "end": "00:13:59"
+  },
+  {
+    "text": "Building a really good product, trying to improve retention as much as we can, increasing sharability and unlocking viral growth loops within the app.",
+    "start": "00:13:59",
+    "end": "00:14:07"
+  },
+  {
+    "text": "I still think there's a lot to do there, but we've done some things there.",
+    "start": "00:14:07",
+    "end": "00:14:10"
+  },
+  {
+    "text": "Yeah, around like 30 to 40% of all new users come from word of mouth.",
+    "start": "00:14:10",
+    "end": "00:14:14"
+  },
+  {
+    "text": "That's really important in terms of just like the virality of the app.",
+    "start": "00:14:14",
+    "end": "00:14:17"
+  },
+  {
+    "text": "And also that adds a force multiplier on all our distribution efforts.",
+    "start": "00:14:17",
+    "end": "00:14:21"
+  },
+  {
+    "text": "So product cloud growth I think it's super duper important and I think we've emphasized a good amount and also the like fun gamified element of the app I think is pretty big as well like jungle the whole brand narrative the storytelling the emotion that you provoke I think all of those things make a big difference >> you said 30 40% of new users come from word of mouth what do you feel like is the biggest lever that really moves that metric >> like one what's your magic what's the aha moment and then two what's your time to magic basically how long does does it take for a first-time user to experience the magic?",
+    "start": "00:14:21",
+    "end": "00:14:55"
+  },
+  {
+    "text": "And we've iterated and run hundreds of experiments on our landing page that you're showing here.",
+    "start": "00:14:55",
+    "end": "00:15:02"
+  },
+  {
+    "text": "And one of the most successful ones is basically being able to upload a document or a URL directly from the landing page.",
+    "start": "00:15:02",
+    "end": "00:15:11"
+  },
+  {
+    "text": "And you'll see here that this directly goes through the whole funnel of like generating questions.",
+    "start": "00:15:11",
+    "end": "00:15:16"
+  },
+  {
+    "text": "And our product experience for firsttime users is substantially different than it is for like second, third time users or basically anyone after that.",
+    "start": "00:15:16",
+    "end": "00:15:24"
+  },
+  {
+    "text": "We try to minimize and make it as simple as possible.",
+    "start": "00:15:24",
+    "end": "00:15:26"
+  },
+  {
+    "text": "Like we don't show you all these options of like what range of minutes or pages you want and rate for, what type of questions do you want, how many questions you want.",
+    "start": "00:15:26",
+    "end": "00:15:34"
+  },
+  {
+    "text": "These are all things you don't see in the first product experience because we want to keep it as simple as possible.",
+    "start": "00:15:34",
+    "end": "00:15:41"
+  },
+  {
+    "text": "We even have like a mini review here of like, hey, answer your first like seven questions.",
+    "start": "00:15:41",
+    "end": "00:15:44"
+  },
+  {
+    "text": "Like we make it really really like bite-sized so you can get through it, experience the core value and then we introduce the whole set of features after you complete like this first initial mini review.",
+    "start": "00:15:44",
+    "end": "00:15:55"
+  },
+  {
+    "text": "I think like just making sure you have really good magic and reducing the time to magic is one core thing and how good the app is.",
+    "start": "00:15:55",
+    "end": "00:16:03"
+  },
+  {
+    "text": "And then other than that, it's literally trying to make sharing as prominent as possible throughout the app.",
+    "start": "00:16:03",
+    "end": "00:16:10"
+  },
+  {
+    "text": "Oh, also the gamified element.",
+    "start": "00:16:10",
+    "end": "00:16:11"
+  },
+  {
+    "text": "You see this tree that's growing here as you're answering questions.",
+    "start": "00:16:11",
+    "end": "00:16:14"
+  },
+  {
+    "text": "One, that tree increase engagement by 70%.",
+    "start": "00:16:14",
+    "end": "00:16:17"
+  },
+  {
+    "text": "Basically, like the core engagement metric of answering a lot of questions, but it's also a really good growth hack.",
+    "start": "00:16:17",
+    "end": "00:16:23"
+  },
+  {
+    "text": "If you're in a library and you're studying on your computer and someone walks by you and sees this like tree growing, they're like, \"Yo, what is that tree?",
+    "start": "00:16:23",
+    "end": "00:16:31"
+  },
+  {
+    "text": "\" And it's sort of interesting growth loop in itself just through like the visual component.",
+    "start": "00:16:31",
+    "end": "00:16:37"
+  },
+  {
+    "text": "And this also speaks to one of the core benefits of targeting students, which is that students are in very close clusters with each other.",
+    "start": "00:16:37",
+    "end": "00:16:44"
+  },
+  {
+    "text": "Like they're at a university campus or high school campus or whatever it is.",
+    "start": "00:16:44",
+    "end": "00:16:47"
+  },
+  {
+    "text": "So they're likely to overlap and look at each other's screens.",
+    "start": "00:16:47",
+    "end": "00:16:51"
+  },
+  {
+    "text": "And so the visual component I think makes a big difference in word of mouth as well.",
+    "start": "00:16:51",
+    "end": "00:16:56"
+  },
+  {
+    "text": "That's underrated.",
+    "start": "00:16:54",
+    "end": "00:16:55"
+  },
+  {
+    "text": "How does it visually look on the screen?",
+    "start": "00:16:55",
+    "end": "00:16:58"
+  },
+  {
+    "text": "Not just to the user, but when people look at a screen, they're in the physical world and there might be other people looking at it.",
+    "start": "00:16:58",
+    "end": "00:17:04"
+  },
+  {
+    "text": "Another thing I'm noticing about this onboarding is you get the user to the the magic moment right away.",
+    "start": "00:17:03",
+    "end": "00:17:11"
+  },
+  {
+    "text": "It's like landing page to input your slides and then it immediately generates questions and you have an interactive demo.",
+    "start": "00:17:11",
+    "end": "00:17:18"
+  },
+  {
+    "text": "You can see the tree growing.",
+    "start": "00:17:18",
+    "end": "00:17:20"
+  },
+  {
+    "text": "You get the the answers wrong and it explains to you why you got it wrong.",
+    "start": "00:17:20",
+    "end": "00:17:24"
+  },
+  {
+    "text": "I hit the payw wall and then I said maybe later instead of signing off immediately.",
+    "start": "00:17:24",
+    "end": "00:17:29"
+  },
+  {
+    "text": "And then you go to when is the exam?",
+    "start": "00:17:29",
+    "end": "00:17:30"
+  },
+  {
+    "text": "So I'm like okay it's in 2 weeks.",
+    "start": "00:17:30",
+    "end": "00:17:32"
+  },
+  {
+    "text": "It's almost like the payw wall continues now.",
+    "start": "00:17:32",
+    "end": "00:17:34"
+  },
+  {
+    "text": "So like can you walk me through like how you thought about this part?",
+    "start": "00:17:34",
+    "end": "00:17:39"
+  },
+  {
+    "text": ">> Let's say that 50% of people complete like upload something and get to the checkpoint.",
+    "start": "00:17:36",
+    "end": "00:17:42"
+  },
+  {
+    "text": "All right.",
+    "start": "00:17:42",
+    "end": "00:17:43"
+  },
+  {
+    "text": "Well, if you show a payw wall, that means that 50% of people that complete the mini review or do this first experience will see the payw wall.",
+    "start": "00:17:43",
+    "end": "00:17:50"
+  },
+  {
+    "text": "Versus if you only show the payw wall after the first time you generate and only like 25% of people get there, then you're basically missing out on a 25% chunk that never even saw the payw wall.",
+    "start": "00:17:50",
+    "end": "00:18:01"
+  },
+  {
+    "text": "So this is true for almost anything right like and that's why some people have very long onboarding.",
+    "start": "00:18:01",
+    "end": "00:18:07"
+  },
+  {
+    "text": "So one thing we also strategically do is like we split our onboarding into three main phases.",
+    "start": "00:18:07",
+    "end": "00:18:11"
+  },
+  {
+    "text": "So one is just like signing up at the beginning which is after you generated questions then we ask you to sign up.",
+    "start": "00:18:11",
+    "end": "00:18:18"
+  },
+  {
+    "text": "Here's like the second part which is choose what exam this is for if you said you're a student or turn on notification reminders.",
+    "start": "00:18:18",
+    "end": "00:18:25"
+  },
+  {
+    "text": "If you're on mobile which we have a mobile app then it'd be turn on push notifications there.",
+    "start": "00:18:25",
+    "end": "00:18:29"
+  },
+  {
+    "text": "And then if you were to go back to the home screen after like doing this review, then you will get your like final sort of onboarding.",
+    "start": "00:18:29",
+    "end": "00:18:39"
+  },
+  {
+    "text": "Here's an upsell as well if you want more questions.",
+    "start": "00:18:39",
+    "end": "00:18:41"
+  },
+  {
+    "text": "Here's also part of the onboarding which is like to select your little character.",
+    "start": "00:18:41",
+    "end": "00:18:45"
+  },
+  {
+    "text": "This is pretty cute.",
+    "start": "00:18:45",
+    "end": "00:18:48"
+  },
+  {
+    "text": "This is like a little jungle river and as you gain XP you move through the river and if you get to the end you level up and as you level up you unlock new trees and other rewards.",
+    "start": "00:18:45",
+    "end": "00:18:56"
+  },
+  {
+    "text": "At the end here you see like the key topics that were a part of this review and like how you performed on them.",
+    "start": "00:18:56",
+    "end": "00:19:03"
+  },
+  {
+    "text": "You can like keep studying, retry the ones you missed.",
+    "start": "00:19:03",
+    "end": "00:19:06"
+  },
+  {
+    "text": "And then this is like the third onboarding step basically.",
+    "start": "00:19:06",
+    "end": "00:19:08"
+  },
+  {
+    "text": "So how did you hear about us?",
+    "start": "00:19:08",
+    "end": "00:19:09"
+  },
+  {
+    "text": "This is how we know that like 30 to 40% of people come from friends.",
+    "start": "00:19:09",
+    "end": "00:19:15"
+  },
+  {
+    "text": "What's your weekly goal?",
+    "start": "00:19:13",
+    "end": "00:19:16"
+  },
+  {
+    "text": "you see that we've kind of like split on boarding to be at these different sort of steps to not overwhelm the user especially like if they haven't really meaningfully tried the whole thing yet.",
+    "start": "00:19:16",
+    "end": "00:19:26"
+  },
+  {
+    "text": ">> Going back to that question, you tried some product things, you tried some growth things.",
+    "start": "00:19:24",
+    "end": "00:19:30"
+  },
+  {
+    "text": "Do you have any hot takes or any I guess just nuance takes cuz I feel like you see it all the time on people on Twitter, people fighting about distribution is more important than products or products more important than distribution.",
+    "start": "00:19:30",
+    "end": "00:19:40"
+  },
+  {
+    "text": "Do you have any takes on that?",
+    "start": "00:19:40",
+    "end": "00:19:43"
+  },
+  {
+    "text": ">> I have a lot and I'm still conflicted.",
+    "start": "00:19:41",
+    "end": "00:19:45"
+  },
+  {
+    "text": "So firstly, almost everyone knows this thing like first time founders focus on product, second time founders focus on distribution as if you're like stupid for focusing on product.",
+    "start": "00:19:43",
+    "end": "00:19:54"
+  },
+  {
+    "text": "My take is third- time founders realize that both are important, right?",
+    "start": "00:19:54",
+    "end": "00:19:58"
+  },
+  {
+    "text": "It's not one or the other.",
+    "start": "00:19:58",
+    "end": "00:19:59"
+  },
+  {
+    "text": "It's like both matter.",
+    "start": "00:19:59",
+    "end": "00:20:01"
+  },
+  {
+    "text": "But obviously when you're very early on, like focus is your most important thing.",
+    "start": "00:20:01",
+    "end": "00:20:05"
+  },
+  {
+    "text": "But I do think you get to a certain point in the company like where we're at, you have to do both to an extent.",
+    "start": "00:20:03",
+    "end": "00:20:09"
+  },
+  {
+    "text": "But you can say like, \"Oh, I'm going to focus 80% of my efforts on distribution and 20% on product or vice versa.",
+    "start": "00:20:08",
+    "end": "00:20:16"
+  },
+  {
+    "text": "\" But I think you got to do both eventually.",
+    "start": "00:20:16",
+    "end": "00:20:18"
+  },
+  {
+    "text": ">> One thing you said that really stuck out to me was when you have retention, you have more chances at monetization.",
+    "start": "00:20:17",
+    "end": "00:20:25"
+  },
+  {
+    "text": "I feel like for some people it's kind of a foreign concept because it's just the hard payw wall meta where it's like you acquire the user, you hard payw wall.",
+    "start": "00:20:25",
+    "end": "00:20:33"
+  },
+  {
+    "text": "If they don't pay then it's just it's over.",
+    "start": "00:20:33",
+    "end": "00:20:35"
+  },
+  {
+    "text": "You acquire a new user.",
+    "start": "00:20:34",
+    "end": "00:20:36"
+  },
+  {
+    "text": "In your guys' case, you acquire the user, you have a premium experience.",
+    "start": "00:20:36",
+    "end": "00:20:39"
+  },
+  {
+    "text": "You still show the payw wall pretty early in the onboarding, but you still allow the user to use the product for free and continue to add value with retention and eventually you convert those users later.",
+    "start": "00:20:39",
+    "end": "00:20:51"
+  },
+  {
+    "text": "Like you said, it requires a little bit more patience, a little bit more capital maybe to design the product in that way.",
+    "start": "00:20:51",
+    "end": "00:20:56"
+  },
+  {
+    "text": "Uh, do you feel like venture-backed companies are the only ones that are able to do this style of product where it's like premium or do you think that bootstrap founders are still able to really focus on retention and not hard payw walling?",
+    "start": "00:20:56",
+    "end": "00:21:10"
+  },
+  {
+    "text": "I think bootstrap founders can 100% focus on like the retentive product approach, but it's harder to like emphasize that if you are not cash flow positive.",
+    "start": "00:21:10",
+    "end": "00:21:21"
+  },
+  {
+    "text": "Like if you feel like you're in survival mode or you don't have that much money, then you're gonna like feel the need to be like, \"Hey, how do we make the most amount of money like right now?",
+    "start": "00:21:21",
+    "end": "00:21:31"
+  },
+  {
+    "text": "\" And usually that's going to lead you to distribution.",
+    "start": "00:21:31",
+    "end": "00:21:33"
+  },
+  {
+    "text": "The way to make the most money right now or to grow the most right now is not retention.",
+    "start": "00:21:33",
+    "end": "00:21:39"
+  },
+  {
+    "text": "Retention is a long-term play.",
+    "start": "00:21:39",
+    "end": "00:21:39"
+  },
+  {
+    "text": "And not only because you don't really see the benefits of good retention until like a little further down the line, but also because it's literally the hardest metric to move.",
+    "start": "00:21:39",
+    "end": "00:21:48"
+  },
+  {
+    "text": "Let's go to UGC.",
+    "start": "00:21:48",
+    "end": "00:21:50"
+  },
+  {
+    "text": "So, where we left off is you started doing influencer marketing.",
+    "start": "00:21:50",
+    "end": "00:21:54"
+  },
+  {
+    "text": "You maybe got lucky, maybe didn't, but it went very well, but it didn't quite scale.",
+    "start": "00:21:54",
+    "end": "00:21:59"
+  },
+  {
+    "text": "And now you're at 2, three, four times the revenue that you were at.",
+    "start": "00:21:59",
+    "end": "00:22:03"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:22:03",
+    "end": "00:22:04"
+  },
+  {
+    "text": "Break down your UGC strategy.",
+    "start": "00:22:04",
+    "end": "00:22:05"
+  },
+  {
+    "text": "Essentially, the core idea behind UGC is you get creators.",
+    "start": "00:22:05",
+    "end": "00:22:11"
+  },
+  {
+    "text": "These are usually people without as much experience.",
+    "start": "00:22:11",
+    "end": "00:22:13"
+  },
+  {
+    "text": "You can get very experienced one as well.",
+    "start": "00:22:13",
+    "end": "00:22:15"
+  },
+  {
+    "text": "just depends on your strategy whether you want to go for very high quality creators or kind of like people that are newer to it.",
+    "start": "00:22:15",
+    "end": "00:22:22"
+  },
+  {
+    "text": "They create their own separate accounts and we basically have them post like 10 to 12 videos a week.",
+    "start": "00:22:22",
+    "end": "00:22:27"
+  },
+  {
+    "text": "Very high content throughput at like 30 creators.",
+    "start": "00:22:27",
+    "end": "00:22:31"
+  },
+  {
+    "text": "That means we're getting like close to 400 videos per week.",
+    "start": "00:22:31",
+    "end": "00:22:33"
+  },
+  {
+    "text": "So very high content throughput.",
+    "start": "00:22:33",
+    "end": "00:22:35"
+  },
+  {
+    "text": "And the whole idea is that these people pose as students that like discovered this amazing tool jungle and are kind of like wanting to share the alpha in an organic way.",
+    "start": "00:22:35",
+    "end": "00:22:46"
+  },
+  {
+    "text": "The whole idea is that you feel like you're discovering this tool from this person that's being very generous about sharing about it or talking about it.",
+    "start": "00:22:46",
+    "end": "00:22:54"
+  },
+  {
+    "text": "There's a lot that we do internally to train the creators, get them to do well, give them feedback on videos, and so yeah, that's been something we've been developing a lot.",
+    "start": "00:22:54",
+    "end": "00:23:06"
+  },
+  {
+    "text": "But that's the core of the idea.",
+    "start": "00:23:03",
+    "end": "00:23:07"
+  },
+  {
+    "text": "And it works well for the most part.",
+    "start": "00:23:07",
+    "end": "00:23:09"
+  },
+  {
+    "text": "Like we're able to get basically like around $2 CPMs or so.",
+    "start": "00:23:09",
+    "end": "00:23:11"
+  },
+  {
+    "text": "That varies a little bit up and down, but it's pretty good and way better than influencer marketing.",
+    "start": "00:23:11",
+    "end": "00:23:18"
+  },
+  {
+    "text": "It's hard to know for sure, but it does feel like profitable overall.",
+    "start": "00:23:18",
+    "end": "00:23:21"
+  },
+  {
+    "text": "But there is a dilemma here that I think is very interesting, and that is that this sort of traditional UGC strategy is a growth [music] hack.",
+    "start": "00:23:21",
+    "end": "00:23:30"
+  },
+  {
+    "text": "And hacks of any sort are temporary.",
+    "start": "00:23:30",
+    "end": "00:23:32"
+  },
+  {
+    "text": "like they won't work forever and that's because by nature a growth hack exploits a gap in the market and eventually those gaps end up getting filled but yeah I think like this UGC strategy is short-lived because the more it works the more people that do it and honestly right now like almost every brand is doing UGC this sort of UGC strategy so like the amount of content that's coming out is completely saturating the market I feel like or at least it's starting to just think about it if you're a consumer and you like going on Tik Tok to watch like study videos like study talk and now like every third or fifth video is like this thing that seems organic but is actually someone just trying to push a product you're like I don't know this doesn't feel authentic I don't think these people are actually promoting product and then if you actually go to one of their profiles you realize that all their videos are mentioning this same tool it's a very inauthentic thing in a way >> another thing I like to ask people is if you're just starting out or you have a product that's maybe around 10k MR and you're trying to scale, you know, you have some profitability, what's kind of like the first lever or the first thing that you should be really prioritizing?",
+    "start": "00:23:32",
+    "end": "00:24:41"
+  },
+  {
+    "text": ">> The race to the top is very nonlinear.",
+    "start": "00:24:38",
+    "end": "00:24:44"
+  },
+  {
+    "text": "It can take a while.",
+    "start": "00:24:41",
+    "end": "00:24:43"
+  },
+  {
+    "text": "It's very hard and many of our growth moments have come like almost unexpectedly after trying a lot of things and and getting there.",
+    "start": "00:24:43",
+    "end": "00:24:51"
+  },
+  {
+    "text": "So that's why I think experimentation is so important.",
+    "start": "00:24:51",
+    "end": "00:24:53"
+  },
+  {
+    "text": "I think your biggest skill set to build as a founder is the ability to figure anything out.",
+    "start": "00:24:53",
+    "end": "00:24:58"
+  },
+  {
+    "text": "Like we didn't really know growth and growth intimidated us, but we didn't give a we just strapped in and got our hands dirty and tinkered with different strategies until we found something that worked and then it stopped working and then we tried new things and now it works and now it's like not working as well and now we're going to try new things and it's an endless cycle.",
+    "start": "00:24:58",
+    "end": "00:25:15"
+  },
+  {
+    "text": "It's very hard but that's also what makes it really fun is the challenge behind it.",
+    "start": "00:25:15",
+    "end": "00:25:20"
+  },
+  {
+    "text": ">> Great advice.",
+    "start": "00:25:18",
+    "end": "00:25:20"
+  },
+  {
+    "text": "This is a great pod.",
+    "start": "00:25:20",
+    "end": "00:25:22"
+  },
+  {
+    "text": ">> Absolutely.",
+    "start": "00:25:20",
+    "end": "00:25:21"
+  },
+  {
+    "text": "Thank you for having me.",
+    "start": "00:25:21",
+    "end": "00:25:24"
+  },
+  {
+    "text": "It was fun to riff and see what the hell comes out of my mouth.",
+    "start": "00:25:24",
+    "end": "00:25:26"
+  },
+  {
+    "text": ">> That's awesome.",
+    "start": "00:25:25",
+    "end": "00:25:26"
+  },
+  {
+    "text": "All right, that was a good one.",
+    "start": "00:25:26",
+    "end": "00:25:27"
+  },
+  {
+    "text": "By the way, I'm the host, Joseph Choy, founder of Consumer Club, which is a private group for ad founders to talk to each other about the latest tactics.",
+    "start": "00:25:27",
+    "end": "00:25:35"
+  },
+  {
+    "text": "Median revenue of member is about a million ARR.",
+    "start": "00:25:35",
+    "end": "00:25:38"
+  },
+  {
+    "text": "Check it out.",
+    "start": "00:25:38",
+    "end": "00:25:40"
+  },
+  {
+    "text": "Check out Superwall, too.",
+    "start": "00:25:40",
+    "end": "00:25:40"
+  },
+  {
+    "text": "They're the best.",
+    "start": "00:25:40",
+    "end": "00:25:42"
+  },
+  {
+    "text": "And check out the other interviews on the Super Wall channel.",
+    "start": "00:25:40",
+    "end": "00:25:44"
+  },
+  {
+    "text": "See you in the next one.",
+    "start": "00:25:44",
+    "end": "00:25:45"
+  }
+]

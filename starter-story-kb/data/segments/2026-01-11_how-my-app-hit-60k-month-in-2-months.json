@@ -1,0 +1,42 @@
+{
+ "f": "2026-01-11_how-my-app-hit-60k-month-in-2-months",
+ "vid": "XifgHi9R5Rc",
+ "segments": [
+  {"s":"01:03","e":"01:35","nut":["4.7"],
+   "tom":"Cleo là SaaS B2B viết content LinkedIn thay founder, launch tháng 10/2025, làm 30K trong 4 ngày đầu và lên 60K/tháng trong chưa đầy 2 tháng nhờ 'Cleo launch playbook'","kq":"0 → $60K/tháng trong chưa tới 2 tháng"},
+  {"s":"01:51","e":"02:38","nut":["4.7","4.8","?"],"moi":"Landing page không cho mua, chỉ cho đăng ký waitlist",
+   "tom":"Dashboard Polar cho thấy 62K MRR và 932 subscription active; landing page cố ý không có nút mua, muốn dùng phải vào waitlist rồi chờ mini-launch riêng — tạo scarcity và FOMO, ai không biết thì không mua được","kq":"62K MRR, 932 subscription active, 2 spike doanh thu"},
+  {"s":"02:54","e":"03:40","nut":["4.9","1.2","?"],"moi":"Bê playbook launch của info product sang SaaS",
+   "tom":"Lara đăng LinkedIn 3 năm vì decision-maker nằm hết ở đó, xây được 2 business từ content; nền agency + info product cho cô sẵn bộ FOMO, waitlist, email, webinar và cô bê nguyên bộ đó sang SaaS"},
+  {"s":"03:55","e":"04:43","nut":["4.7","4.B2"],
+   "tom":"Playbook gồm đúng 3 phần: content, waitlist, webinar. Cả hai lần launch đều chỉ là beta cho waitlist, chưa hề mở public — ngược hoàn toàn với kiểu launch trước rồi mới đi quảng bá","kq":"khách của cô làm theo cũng đạt 50–70K"},
+  {"s":"04:59","e":"06:12","nut":["4.1","?"],"moi":"Edu-selling: post không CTA, chỉ dạy rồi mới dẫn về waitlist",
+   "tom":"Đẩy người vào waitlist bằng post LinkedIn từ nhiều tài khoản (kể cả account phụ The LinkedIn Creator), tất cả đều không có CTA hay link — chỉ dạy đúng thứ họ muốn biết rồi cuối bài mới hé chỗ làm tốt hơn"},
+  {"s":"07:35","e":"09:00","nut":["3.B7","4.7"],
+   "tom":"Sai lầm phổ biến là dựng waitlist rồi bỏ đó; Cleo hâm nóng list suốt 4 tuần trước launch với hơn 10 email không CTA, email đầu đánh thẳng objection 'khác gì ChatGPT free' bằng cách đổi khung thành vấn đề khác biệt hoá"},
+  {"s":"09:00","e":"09:56","nut":["4.7","?"],"moi":"Email list ăn đứt viral content vì không phải đấu thuật toán",
+   "tom":"Email launch mở đầu ngay dòng đầu tiên bằng 'Cleo 2.0 đã live, thử ngay'; Lara khẳng định 30K rồi 60K MRR đến từ chuỗi email chứ không phải content viral, vì email không phải cạnh tranh với thuật toán"},
+  {"s":"10:11","e":"10:56","nut":["4.9","?"],"moi":"Không cần viral, chỉ cần hữu ích trên đúng một nền tảng",
+   "tom":"Bước 1 nếu làm lại từ số 0: xây personal brand LinkedIn, không cần viral cũng không cần là chuyên gia, chỉ cần hữu ích — chọn unfair advantage là câu chuyện riêng hoặc mảng chuyên môn rồi dạy đúng mảng đó"},
+  {"s":"10:56","e":"12:12","nut":["4.11","?"],"moi":"Khung 4321: 4 post/tuần, 3 pillar, 2 persona, 1 lead magnet",
+   "tom":"Khung 4321: đăng 4 lần/tuần thôi (không 5–7) để giữ chất lượng, 3 pillar là educational + storytelling + sales, 2 nhóm nhắm tới là ICP và IFP (ideal follower persona), 1 lead magnet chỉ cần Google Doc hoặc Loom đổi lấy email"},
+  {"s":"12:12","e":"13:14","nut":["4.7","?"],"moi":"Webinar 3 khối: 20 phút dạy, 20 phút demo, rồi mới pitch",
+   "tom":"Bước 3 là webinar — launch đầu chỉ dùng đúng một buổi LinkedIn Live: 20 phút đầu dạy một chủ đề, 20 phút sau walkthrough/demo sản phẩm, phần cuối mới pitch và gửi link mua","kq":"30K MRR trong 4 ngày"},
+  {"s":"13:14","e":"14:16","nut":["4.14","4.15","3.5"],
+   "tom":"Bước 4: gọi VIP white-glove onboarding dắt tay từng khách dùng đúng sản phẩm, vì người ta bỏ phần mềm chủ yếu do không hiểu chứ không phải do nó dở; đồng thời ghi âm mọi cuộc gọi để bắt pattern bug và sửa ngay","kq":"khách ở lại lâu hơn, cho testimonial và thành evangelist"},
+  {"s":"14:16","e":"15:17","nut":["4.7","?"],"moi":"Giới hạn số suất cộng lifetime discount để ép mua ngay",
+   "tom":"Bước 5: thử cả curiosity, scarcity và FOMO thì scarcity thắng — công bố chỉ còn 500 suất; kèm lifetime discount giảm 50% vĩnh viễn nếu mua ngay, không bao giờ phải trả giá mới"},
+  {"s":"15:17","e":"15:32","nut":["4.14","4.15"],
+   "tom":"Bước 6: đừng launch xong rồi ăn mừng MRR và quên khách — co-founder Rob đưa hẳn số điện thoại cá nhân cho từng user để chắc họ dùng đúng và thấy được hỗ trợ"},
+  {"s":"15:47","e":"16:19","nut":["?"],"moi":"Stack build và vận hành cho SaaS AI một team nhỏ",
+   "tom":"Build bằng Claude và Claude Code, Next.js + TypeScript, v0 của Vercel, hosting Vercel, auth Clerk; vận hành bằng Slack, Loops gửi email, Calendly đặt lịch onboarding, và Polar để thu tiền kèm landing page có sẵn của Polar"},
+  {"s":"16:19","e":"17:20","nut":["4.9","4.8"],
+   "tom":"Hai lời khuyên: xây personal brand trên LinkedIn dù thấy cringe vì gần như không có cạnh tranh so với Twitter hay Instagram; và dựng email list trước khi cần, vì mất tài khoản social lúc nào không biết"},
+  {"s":"17:52","e":"19:10","nut":["4.17","?"],"moi":"Chọn nền tảng có nhiều người xem hơn người sáng tạo",
+   "tom":"Pat làm toán: waitlist 10.000 người convert 1% là 100 khách trả tiền, tức 99% từ chối vẫn ổn; và LinkedIn đáng chơi vì số người tiêu thụ nhiều hơn số người tạo nội dung nên dễ nổi bật"}
+ ],
+ "bo_qua": [
+  {"s":"06:12","e":"07:35","ly_do":"quảng bá playbook 1000 follower đầu tiên của Starter Story"},
+  {"s":"19:10","e":"19:51","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

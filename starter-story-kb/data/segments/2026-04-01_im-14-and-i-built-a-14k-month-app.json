@@ -1,0 +1,32 @@
+{
+ "f": "2026-04-01_im-14-and-i-built-a-14k-month-app",
+ "vid": "dWeoSKLt_fc",
+ "segments": [
+  {"s":"01:52","e":"02:39","nut":["?"],"moi":"Abandon paywall — hạ giá ngay khi người dùng bấm thoát",
+   "tom":"Locked là habit tracker gamify (chọn nhân vật ngay onboarding, leaderboard, badge, level); paywall $40/năm kèm 3 ngày dùng thử hoặc $7/tuần, ai bấm thoát thì hiện paywall thứ hai chỉ $20/năm","kq":"$14K/tháng sau 4 tháng"},
+  {"s":"02:39","e":"03:32","nut":["2.0","2.B1"],
+   "tom":"9 tuổi đã làm game Roblox thay vì chơi; dropshipping, reselling, clipping, máy bán hàng tự động đều chết; app đầu Problem Pal đỉnh $2K/tháng rồi bán, Clear AI xịt — Locked ra đời từ chuyện một người bạn than không tập trung nổi","kq":"Problem Pal $2K/tháng rồi bán, Clear AI thất bại"},
+  {"s":"03:32","e":"04:10","nut":["?"],"moi":"Đường build app: Figma 2 tuần rồi sang Xcode với Claude Code",
+   "tom":"Thiết kế vẽ từ đầu trong Figma mất 2 tuần, xong mới chuyển sang Xcode, code dựa vào tutorial YouTube cộng Claude Code — từ ý tưởng tới lên App Store tổng cộng khoảng một tháng rưỡi"},
+  {"s":"04:10","e":"04:41","nut":["4.4"],
+   "tom":"Toàn bộ tăng trưởng là influencer, và phép tính duy nhất: RPM của app khoảng $2–3 nên phải chốt creator ở CPM thấp hơn, thường $1–1,5 — dưới ngưỡng đó thì mỗi deal tự có lãi"},
+  {"s":"04:41","e":"05:28","nut":["4.4","4.6"],
+   "tom":"Video của Jeremiah Jones ăn vì 3 lý do: engagement thật với bình luận chất lượng, chủ đề 'stay locked in' trùng khít tên app, và app được nhét vào tự nhiên — luôn bắt creator show app trong 15 giây đầu"},
+  {"s":"05:28","e":"06:30","nut":["4.4"],
+   "tom":"Video đăng khoảng 6/2: doanh thu ngày nhảy từ ~$300 lên $728, $600, $700, $678, có hôm gần $1.000; ước tính một video mang ~$3.000 và 1.800 lượt tải với ~1 triệu view, trả creator $800 kèm điều khoản tối thiểu 600.000 view","kq":"$3.000 doanh thu / 1.800 tải từ một video, chi $800"},
+  {"s":"07:17","e":"07:47","nut":["4.4"],
+   "tom":"Bước 1–2 của quy trình: gõ từ khoá ngách trên Instagram/TikTok, lướt video rồi bấm vào từng account, nhắn đúng một câu mở đầu 'paid promo?' cho tất cả — mục tiêu duy nhất là kéo được lên call"},
+  {"s":"07:47","e":"09:15","nut":["4.4"],
+   "tom":"Bốn kiểu deal: flat $500/reel hoặc $1.200/4 reel (chỉ với creator view ổn định), CPM $1–2 trên 1.000 view và luôn phải có cap, MVC $500 kèm tối thiểu 500.000 view (kiểu hay dùng nhất), và bonus $500 cộng thêm $500 nếu chạm 1 triệu view"},
+  {"s":"09:15","e":"09:56","nut":["?"],"moi":"Đưa chính influencer vào trong sản phẩm",
+   "tom":"Trong app: mỗi task tick xong được 100 XP, có cấp độ và tiến trình, bảng xếp hạng toàn thời gian / 7 ngày / hôm nay, và một màn hình động lực là chính Jeremiah — influencer quảng bá app — quát người dùng"},
+  {"s":"09:56","e":"10:30","nut":["?"],"moi":"Stack app iOS và chi phí thật hàng tháng",
+   "tom":"Figma cho thiết kế, Claude Code gói $200/tháng cho code, Superwall để A/B test paywall (ăn 1% doanh thu), Supabase làm database và đang xài bản miễn phí — hết, không có gì khác"}
+ ],
+ "bo_qua": [
+  {"s":"01:04","e":"01:20","ly_do":"teaser playbook marketing app của Starter Story"},
+  {"s":"06:30","e":"07:17","ly_do":"quảng cáo organic short form playbook trong Starter Story Build"},
+  {"s":"10:30","e":"11:20","ly_do":"lời khuyên chung về chuyện học hành, không có chi tiết dùng được"},
+  {"s":"11:20","e":"13:25","ly_do":"Pat và Gus bình luận rồi quảng bá khoá làm app iOS"}
+ ]
+}

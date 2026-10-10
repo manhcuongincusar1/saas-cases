@@ -1,0 +1,32 @@
+{
+ "f": "2026-04-19_i-spent-24-hours-with-a-saas-millionaire",
+ "vid": "iVy5J7iE-3Q",
+ "segments": [
+  {"s":"02:06","e":"02:52","nut":["2.1"],
+   "tom":"Nghịch no-code suốt nên thấy dân dùng Zapier tắc chỗ nào: API giới hạn, không tự động hoá được các thao tác lộn xộn trên trình duyệt — Task Magic sinh ra để bấm nút thay người ngay trong browser","kq":"60.000 user, 8.000 khách trả tiền"},
+  {"s":"02:52","e":"03:24","nut":["1.5"],
+   "tom":"Có tháng doanh thu vượt $400K, cả năm khoảng $3 triệu, lọt Inc. 500 với đúng một nhân viên là CTO; coi đó là đỉnh nên rao bán và chốt ở mức bảy con số giữa-cao trước sinh nhật 38 tuổi","kq":"bán ở mức mid–upper seven figures"},
+  {"s":"04:13","e":"05:00","nut":["3.2","2.1"],
+   "tom":"V1 là app builder no-code chạy ì ạch do người không biết code làm; monetize được đầu 2019 mới thuê nhân viên đầu tiên, dựng lại và ra mắt 2020 lên 7 con số, tới 2021 nghe khách hỏi mãi 'tự động hoá mấy thứ này kiểu gì' nên xoay sang automation","kq":"vài trăm nghìn năm 2021 → $3 triệu sau 3 năm"},
+  {"s":"06:23","e":"07:12","nut":["?"],"moi":"Chiến lược tentpole — sản phẩm phụ làm marketing cho sản phẩm lõi",
+   "tom":"Người ta marketing SaaS bằng công cụ free kiểu thông tin; với no-code thì bán được functionality chứ không chỉ information — nên làm loạt sản phẩm nhỏ, rẻ phục vụ đúng sản phẩm lõi, chúng tự rank và tự ra tiền"},
+  {"s":"07:12","e":"08:20","nut":["4.5"],
+   "tom":"Bước 1–2: build cho vấn đề TIẾP THEO của đúng tập khách cũ (chủ doanh nghiệp, agency, freelancer cần sales), và build thật hẹp — Mail Lead chỉ là tool gửi email outbound, vì SEO thưởng cho sự cụ thể nên nó rank nhanh hơn từ khoá chung 'automation'","kq":"riêng Mail Lead mang về gần 7 con số"},
+  {"s":"08:20","e":"09:23","nut":["?"],"moi":"Cài sẵn đường nâng cấp từ sản phẩm phụ về sản phẩm lõi",
+   "tom":"Bước 3: trong Mail Lead có sẵn nút automation, bấm là sang Task Magic, chạm giới hạn thì bắt đầu trả tiền cho Task Magic — và vì khách ngại subscription nên giai đoạn đầu bán lifetime deal cộng giá theo mức dùng để tự nuôi vốn"},
+  {"s":"09:23","e":"11:00","nut":["?"],"moi":"Xếp chồng hệ sinh thái sản phẩm bán chéo lẫn nhau",
+   "tom":"Bước cuối: hỏi người dùng Mail Lead cần gì tiếp — cần lead để gửi mail, nên làm LeadQuest.ai; từ LeadQuest bấm tab automation lại về Task Magic, cần gửi hàng loạt thì mua Mail Lead. Đây không phải mấy side hustle rời rạc mà cùng một hệ sinh thái"},
+  {"s":"11:28","e":"12:15","nut":["1.5"],
+   "tom":"Quyết định bán vì mục tiêu exit trước 38 tuổi cộng con nhỏ và khoản vay nhà $9.000/tháng: nói chuyện vài broker, rồi đăng lên marketplace acquire.com và có hơn 100 người nhắn hỏi mua"},
+  {"s":"12:15","e":"13:18","nut":["?"],"moi":"Mặt tối của quá trình bán công ty",
+   "tom":"Vừa mua lại phần của nhà đầu tư nên cạn sạch tiền cả cá nhân lẫn công ty; anh quẹt $50K lên thẻ Amex Platinum và gánh thêm $200K nợ cá nhân suốt 6–7 tháng đàm phán, sợ nhất là phải nói với vợ rằng mất căn nhà","kq":"bán xong có vài triệu, nhưng trải qua 6–7 tháng nợ nần"},
+  {"s":"13:48","e":"14:34","nut":["?"],"moi":"Kể cả phần tệ thay vì toxic positivity",
+   "tom":"Lời khuyên cuối: online ai cũng 'crushing it' và biết ơn, trong khi họ cũng đang trải qua đúng những đoạn tệ như anh mà không kể — rồi đột nhiên bỏ cuộc hoặc công ty chết mà không ai hiểu vì sao"}
+ ],
+ "bo_qua": [
+  {"s":"01:18","e":"02:06","ly_do":"tour nhà, tranh, đồ trang trí — không có nội dung kinh doanh"},
+  {"s":"05:00","e":"05:53","ly_do":"quảng cáo database 190 ý tưởng micro SaaS của Starter Story/HubSpot"},
+  {"s":"05:53","e":"06:23","ly_do":"đoạn ngồi thử xe G Wagon"},
+  {"s":"14:34","e":"15:55","ly_do":"cảm ơn, tổng kết và kêu gọi tải tài liệu"}
+ ]
+}

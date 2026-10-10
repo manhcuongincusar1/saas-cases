@@ -1,0 +1,39 @@
+{
+ "f": "2026-03-29_my-app-made-120k-in-24-hours",
+ "vid": "DkmStHS8NP0",
+ "segments": [
+  {"s":"01:17","e":"02:33","nut":["?"],"moi":"Bóc số liệu thật sau cú launch lifetime deal",
+   "tom":"Flogga (app cho giáo viên yoga) pre-launch 5/5/2025 lúc 2h chiều bằng lifetime deal, hết ngày đã $117K; nhưng hiện tại chỉ ~4.000 user free lẫn trả tiền và $9–10K/tháng doanh thu định kỳ","kq":"$120K trong 24 giờ, sau đó $9–10K/tháng"},
+  {"s":"02:33","e":"04:19","nut":["1.2"],
+   "tom":"Học kinh tế, 2012 gọi seed cho startup rồi chết, bỏ tech đi làm HLV trượt tuyết và nhiếp ảnh thời trang, 2016 quay lại làm growth strategist, 2020 mở Play Pause Be bán bộ bài yoga trên Kickstarter","kq":"Kickstarter $200K ngay tháng đầu"},
+  {"s":"04:50","e":"05:52","nut":["3.7"],
+   "tom":"Cách dựng lifetime deal: chốt tầm nhìn dài hạn, monetize sớm nhất có thể, xác định bộ tính năng tối thiểu đủ thuyết phục người ta mua trọn đời, rồi dựng cả cỗ máy launch — email, landing page, video, ad creative"},
+  {"s":"05:52","e":"06:38","nut":["3.7","3.4"],
+   "tom":"Quay một video YouTube đi hết từng tính năng, nói thẳng 'app hiện chạy như vầy, các tính năng kia sẽ làm sau, mua lifetime bây giờ nhưng tuyệt đối không hoàn tiền, muốn thử thì đợi 2 tháng nữa có gói subscription'","kq":"500–600 khách sớm, phần lớn tính năng sau này ra từ feedback của họ"},
+  {"s":"08:25","e":"09:45","nut":["4.7"],
+   "tom":"Chuỗi email pre-launch kéo 1 tháng 1 tuần: email 1 kể chuyện không hé lộ gì, email 2 cố tình đẩy sản phẩm vật lý ra sau và che thứ mới phía trước để gây tò mò, email 3 mới vén màn và dẫn sang video giới thiệu app"},
+  {"s":"09:45","e":"10:48","nut":["4.7"],
+   "tom":"Đoạn cuối pre-launch mới nói cơ chế lifetime deal: giới hạn số suất và giới hạn thời gian để chặn trì hoãn — và tuyệt đối không lộ giá trước ngày launch, để người ta cân nhắc theo tính năng và tầm nhìn chứ không theo con số"},
+  {"s":"11:51","e":"12:30","nut":["3.2"],
+   "tom":"Bước 1 của playbook: nói chuyện với 5–10 người trong thị trường mục tiêu về đúng vấn đề mình định giải, nhưng không bao giờ nói lý do hỏi để tránh dẫn dắt — đọc The Mom Test để làm cho đúng"},
+  {"s":"12:30","e":"13:07","nut":["?"],"moi":"Minimum launchable product — mốc đủ nhỏ để bán được",
+   "tom":"Bước 2: hỏi mức phát triển tối thiểu nào đủ truyền được giá trị để early adopter chịu móc tiền, ước lượng luôn thời gian build cái đó, rồi mới xếp toàn bộ kế hoạch launch quanh cái timeline ấy"},
+  {"s":"13:07","e":"13:39","nut":["?"],"moi":"Dựng sẵn kho nội dung trước khi bật lead generation",
+   "tom":"Bước 3: trước khi chạy bất kỳ lead gen nào phải có sẵn buffer nội dung — email, graphic, video, landing page; và viết bằng góc nhìn user, vì thứ hiển nhiên với người build thì người mua không hiểu"},
+  {"s":"13:39","e":"14:26","nut":["?"],"moi":"Ba tầng giá lifetime deal làm mỏ neo",
+   "tom":"Bước 4 định giá: ba tier lifetime $109 (bộ tính năng giới hạn), $199 (nhiều hơn) và $349 (trọn tầm nhìn) — hai tier rẻ tồn tại để làm mốc so sánh đẩy tier đắt và hứng nhóm còn hoài nghi","kq":"đừng hạ giá vì sợ, đó là bỏ tiền lại trên bàn"},
+  {"s":"14:26","e":"15:11","nut":["?"],"moi":"Khoá cửa launch: no-refund + giới hạn 5–7 ngày",
+   "tom":"Bước cuối: minh bạch app đang có gì, thiếu gì, sẽ làm gì; ghi rõ không hoàn tiền nếu không muốn lifetime deal bị phá; giới hạn cả số suất lẫn thời gian, tối đa 5–7 ngày, để ép người ta quyết"},
+  {"s":"15:56","e":"17:25","nut":["?"],"moi":"Lifetime deal như gọi vốn từ khách hàng, không mất equity",
+   "tom":"Phản biện chuyện LTD đốt doanh thu tương lai: giai đoạn đầu chưa có LTV hay churn, LTD biến giả định thành tiền thật; người mua trọn đời có cam kết nên báo bug và góp ý (họ lập hẳn group Telegram), còn nhóm ghét subscription sẵn sàng trả gấp 3–5 lần gói năm"},
+  {"s":"18:51","e":"19:15","nut":["?"],"moi":"Stack tối giản của app mobile subscription",
+   "tom":"Toàn bộ app chạy trên Flutter, Firebase khoảng $25/tháng, RevenueCat lo subscription, video host nhờ tài khoản Vimeo sẵn có của mảng kinh doanh cũ, và OneSignal cho push notification"},
+  {"s":"19:15","e":"19:52","nut":["3.B6"],
+   "tom":"Lời khuyên cuối: hoàn hảo chỉ là nỗi sợ nguỵ trang thành sự chuẩn bị — bước ngoặt xảy ra đúng lúc đưa thứ còn dang dở ra trước người thật, học công khai luôn nhanh hơn học một mình"}
+ ],
+ "bo_qua": [
+  {"s":"01:02","e":"01:17","ly_do":"teaser bootcamp 9 ngày của Starter Story"},
+  {"s":"06:38","e":"07:32","ly_do":"quảng cáo iOS Playbook bootcamp"},
+  {"s":"20:07","e":"23:35","ly_do":"Pat và Gus bình luận lại, không thêm chi tiết mới"}
+ ]
+}

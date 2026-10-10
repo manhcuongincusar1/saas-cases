@@ -1,0 +1,89 @@
+{
+ "f": "2025-08-16_how-we-built-it-900k-open-source-saas",
+ "vid": "F8i0kkrQ8_o",
+ "segments": [
+  {
+   "s": "01:20",
+   "e": "02:06",
+   "nut": ["?"],
+   "moi": "Thả tweet ý tưởng để đo nhu cầu trước khi viết code",
+   "tom": "Ý tưởng bắt đầu từ một tweet \"tôi sẽ build bản open source thay DocSend\": 40K view trong vài giờ, cuối tuần dựng xong MVP, tweet ra mắt thứ Hai được 100K view",
+   "kq": "khách đầu tiên tự hỏi trả tiền kiểu gì ngay sau tweet"
+  },
+  {
+   "s": "02:06",
+   "e": "03:04",
+   "nut": ["2.7"],
+   "tom": "DocSend và các nhà cung cấp data room đã tồn tại 10+ năm nhưng ngừng đổi mới và chỉ chăm khách enterprise — Papermark chen vào đúng khoảng trống đó bằng bản open source"
+  },
+  {
+   "s": "04:18",
+   "e": "05:03",
+   "nut": ["?"],
+   "moi": "Mô hình open core: lõi free, bán bản hosted và license enterprise",
+   "tom": "Lõi Papermark free và self-host được; ai ngại tự vận hành thì trả tiền dùng bản hosted, ai cần tính năng nâng cao thì mua license enterprise để chạy trên hạ tầng của chính họ"
+  },
+  {
+   "s": "05:03",
+   "e": "06:36",
+   "nut": ["?"],
+   "moi": "Open source như hào cạnh tranh",
+   "tom": "Bốn lợi ích thật: khó bị copy vì lõi đã cho không, rào cản dùng bằng 0, cộng đồng vá lỗi và thêm feature thay mình, và ngân hàng tự audit code được nên qua vòng bảo mật nhanh"
+  },
+  {
+   "s": "07:44",
+   "e": "09:06",
+   "nut": ["2.7", "2.9"],
+   "tom": "Cách săn ý tưởng: nhắm ngách bị các CRM khổng lồ phục vụ thừa — CRM riêng cho bác sĩ thú y hay quản lý toà nhà — rồi hỏi thị trường có đủ lớn và đã có bản open source chưa"
+  },
+  {
+   "s": "09:06",
+   "e": "10:05",
+   "nut": ["?"],
+   "moi": "Build in public trên nền open source",
+   "tom": "Open source thì không có gì để giấu nên đăng cả tính năng chưa hoàn chỉnh lên X/LinkedIn mỗi ngày, cộng tham gia Hacktoberfest kéo dài một tháng để hút contributor và người dùng"
+  },
+  {
+   "s": "10:05",
+   "e": "10:54",
+   "nut": ["?"],
+   "moi": "Chọn north star metric theo hành vi lõi của sản phẩm",
+   "tom": "Số thật: năm 1 lên $20K MRR, giữa năm 2 đạt $75K MRR, ~30.000 user (đa số free), ~1.000 khách trả tiền, 60 contributor, 7.000 star; north star là 800.000 lượt xem tài liệu chia sẻ",
+   "kq": "$75K MRR, gần $900K ARR sau 1,5 năm"
+  },
+  {
+   "s": "10:54",
+   "e": "11:46",
+   "nut": ["?"],
+   "moi": "Stack SaaS Next.js do hai founder tự vận hành",
+   "tom": "Hai project Next.js + TypeScript (site marketing tách khỏi app open source), Cursor làm AI IDE, code trên GitHub, deploy Vercel, Postgres ở PlanetScale, Trigger chạy job nền, Resend gửi mail, Stripe thu tiền"
+  },
+  {
+   "s": "11:46",
+   "e": "12:13",
+   "nut": ["1.3"],
+   "tom": "Cơ cấu chi phí: ~80% đổ vào freelancer và lương founder, ~15% cho các thử nghiệm marketing/growth, chỉ 5–6% là tiền công cụ",
+   "kq": "biên còn lại rất dày vì gần như không có chi phí hạ tầng đáng kể"
+  },
+  {
+   "s": "12:13",
+   "e": "12:54",
+   "nut": ["?"],
+   "moi": "Đạt feature parity rồi vượt tốc độ ship của incumbent",
+   "tom": "Làm bản open source của một ông lớn không tự động thắng: phải bằng tính năng với tool đang có rồi ship nhanh hơn họ, và phải biến sự hào hứng open source thành khách trả tiền"
+  },
+  {
+   "s": "12:54",
+   "e": "13:39",
+   "nut": ["?"],
+   "moi": "Không biết code thì build trên nền một project open source có sẵn",
+   "tom": "Iuliia hoàn toàn không biết lập trình: lấy một project open source có sẵn làm nền để build lên, rồi mở mã luôn phần mình viết và được chính cộng đồng contributor đẩy đi tiếp"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "00:49", "ly_do": "intro/hook của kênh"},
+  {"s": "06:36", "e": "07:44", "ly_do": "quảng cáo Vanta"},
+  {"s": "13:39", "e": "13:54", "ly_do": "lời cảm ơn, chào tạm biệt"},
+  {"s": "13:54", "e": "14:37", "ly_do": "quảng bá Starter Story Build"}
+ ]
+}

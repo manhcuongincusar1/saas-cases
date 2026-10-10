@@ -1,0 +1,7787 @@
+[
+  {
+    "text": "My first app, it's called Glam Up. We",
+    "start": 0,
+    "duration": 3.6
+  },
+  {
+    "text": "got a million users in the first 6",
+    "start": 1.76,
+    "duration": 3.6
+  },
+  {
+    "text": "months of launching. I think at peak we",
+    "start": 3.6,
+    "duration": 5.56
+  },
+  {
+    "text": "were at around 150k MRR. Sprawl, I was",
+    "start": 5.36,
+    "duration": 5.84
+  },
+  {
+    "text": "growing up for the first 8 months and we",
+    "start": 9.16,
+    "duration": 5
+  },
+  {
+    "text": "did 250k MRR. When I was handling all of",
+    "start": 11.2,
+    "duration": 4.84
+  },
+  {
+    "text": "the UGCs, we were doing 100 million",
+    "start": 14.16,
+    "duration": 2.76
+  },
+  {
+    "text": "monthly views.",
+    "start": 16.04,
+    "duration": 2.96
+  },
+  {
+    "text": ">> That's Nicole. She built four apps",
+    "start": 16.92,
+    "duration": 4.6
+  },
+  {
+    "text": "before turning 25 and the last two apps",
+    "start": 19,
+    "duration": 5.24
+  },
+  {
+    "text": "did over 400 grand a month between them.",
+    "start": 21.52,
+    "duration": 4.16
+  },
+  {
+    "text": "Now, the interesting part about Nicole",
+    "start": 24.24,
+    "duration": 3.04
+  },
+  {
+    "text": "is that she started Glam Up out of her",
+    "start": 25.68,
+    "duration": 3.64
+  },
+  {
+    "text": "bedroom while she was still in school",
+    "start": 27.28,
+    "duration": 3.8
+  },
+  {
+    "text": "without any engineering background. So,",
+    "start": 29.32,
+    "duration": 3.04
+  },
+  {
+    "text": "in this video I'm going to sit down with",
+    "start": 31.08,
+    "duration": 3.64
+  },
+  {
+    "text": "her to figure out the exact playbook she",
+    "start": 32.36,
+    "duration": 4.6
+  },
+  {
+    "text": "used to blow up four different apps and",
+    "start": 34.72,
+    "duration": 3.6
+  },
+  {
+    "text": "what she'd do differently if she was",
+    "start": 36.96,
+    "duration": 2.84
+  },
+  {
+    "text": "starting from zero today. This is the",
+    "start": 38.32,
+    "duration": 3.52
+  },
+  {
+    "text": "Superwall Podcast. I'm Joseph Choi,",
+    "start": 39.8,
+    "duration": 3.72
+  },
+  {
+    "text": "founder of Consumer Club, a Discord",
+    "start": 41.84,
+    "duration": 3.24
+  },
+  {
+    "text": "where top consumer app founders trade",
+    "start": 43.52,
+    "duration": 3.32
+  },
+  {
+    "text": "alpha and what's working now in growth.",
+    "start": 45.08,
+    "duration": 3
+  },
+  {
+    "text": "I've been talking to members doing a",
+    "start": 46.84,
+    "duration": 3
+  },
+  {
+    "text": "million AR and they tell me they've been",
+    "start": 48.08,
+    "duration": 3.48
+  },
+  {
+    "text": "using these two tools. Superwall has",
+    "start": 49.84,
+    "duration": 4.32
+  },
+  {
+    "text": "this free AI tool trained on 422",
+    "start": 51.56,
+    "duration": 4.36
+  },
+  {
+    "text": "profitable paywall experiments across",
+    "start": 54.16,
+    "duration": 3.64
+  },
+  {
+    "text": "thousands of successful apps. You upload",
+    "start": 55.92,
+    "duration": 3.2
+  },
+  {
+    "text": "a screenshot of your paywall and it",
+    "start": 57.8,
+    "duration": 3.08
+  },
+  {
+    "text": "gives you an experiment idea to make",
+    "start": 59.12,
+    "duration": 3.08
+  },
+  {
+    "text": "more revenue with the same number of",
+    "start": 60.88,
+    "duration": 3.6
+  },
+  {
+    "text": "users at paywallexperiments.com. And if",
+    "start": 62.2,
+    "duration": 4.16
+  },
+  {
+    "text": "your app's doing at least 100k MRR, we",
+    "start": 64.48,
+    "duration": 4.04
+  },
+  {
+    "text": "host vetted dinners in SF and New York",
+    "start": 66.36,
+    "duration": 3.96
+  },
+  {
+    "text": "to hang out and network with other top",
+    "start": 68.52,
+    "duration": 3.24
+  },
+  {
+    "text": "app founders. You can apply with the",
+    "start": 70.32,
+    "duration": 3.12
+  },
+  {
+    "text": "typeform in the description. Also, these",
+    "start": 71.76,
+    "duration": 3.2
+  },
+  {
+    "text": "app founders have been telling me they",
+    "start": 73.44,
+    "duration": 3.56
+  },
+  {
+    "text": "use R0K. I met Daniel, the founder of",
+    "start": 74.96,
+    "duration": 3.92
+  },
+  {
+    "text": "R0K, at a dinner and I got genuinely",
+    "start": 77,
+    "duration": 3.6
+  },
+  {
+    "text": "really excited when he told me about R0K",
+    "start": 78.88,
+    "duration": 3.52
+  },
+  {
+    "text": "Max, which is out now and has honestly",
+    "start": 80.6,
+    "duration": 3.92
+  },
+  {
+    "text": "changed the game for coding mobile apps.",
+    "start": 82.4,
+    "duration": 4.8
+  },
+  {
+    "text": "It's AI that one-shots full native iOS",
+    "start": 84.52,
+    "duration": 5.24
+  },
+  {
+    "text": "apps with Swift code, camera, sensors,",
+    "start": 87.2,
+    "duration": 4.44
+  },
+  {
+    "text": "haptics, payments, the whole stack. And",
+    "start": 89.76,
+    "duration": 3.36
+  },
+  {
+    "text": "as you vibe code with R0K, you can",
+    "start": 91.64,
+    "duration": 3.24
+  },
+  {
+    "text": "install prototypes directly onto your",
+    "start": 93.12,
+    "duration": 3.28
+  },
+  {
+    "text": "iPhone with one click and then publish",
+    "start": 94.88,
+    "duration": 2.88
+  },
+  {
+    "text": "to the App Store in two clicks. If",
+    "start": 96.4,
+    "duration": 2.92
+  },
+  {
+    "text": "you've been waiting for AI coding that",
+    "start": 97.76,
+    "duration": 3.44
+  },
+  {
+    "text": "actually does native iOS apps well, this",
+    "start": 99.32,
+    "duration": 3.44
+  },
+  {
+    "text": "is it. I got you guys a discount. You",
+    "start": 101.2,
+    "duration": 3.36
+  },
+  {
+    "text": "can use the code superwall or use the",
+    "start": 102.76,
+    "duration": 3.24
+  },
+  {
+    "text": "link below. Okay, I'm going to start",
+    "start": 104.56,
+    "duration": 3.52
+  },
+  {
+    "text": "with these tweets. Um you've been",
+    "start": 106,
+    "duration": 4.44
+  },
+  {
+    "text": "putting out some crazy tweets with",
+    "start": 108.08,
+    "duration": 6.52
+  },
+  {
+    "text": "flexing your MRR and your users and",
+    "start": 110.44,
+    "duration": 5.96
+  },
+  {
+    "text": "uh your views on TikTok and everything.",
+    "start": 114.6,
+    "duration": 3.24
+  },
+  {
+    "text": "It seems like you have multiple apps.",
+    "start": 116.4,
+    "duration": 3.24
+  },
+  {
+    "text": "So, I want to dig into some of the apps",
+    "start": 117.84,
+    "duration": 3.96
+  },
+  {
+    "text": "you're building, the playbooks, and then",
+    "start": 119.64,
+    "duration": 3.52
+  },
+  {
+    "text": "I think it's also pretty wild that",
+    "start": 121.8,
+    "duration": 2.8
+  },
+  {
+    "text": "you're you're a senior in college,",
+    "start": 123.16,
+    "duration": 2.96
+  },
+  {
+    "text": "right? And you're writing your you like",
+    "start": 124.6,
+    "duration": 4.48
+  },
+  {
+    "text": "wrote this report on how you built these",
+    "start": 126.12,
+    "duration": 4.4
+  },
+  {
+    "text": "companies, which is also like kind of",
+    "start": 129.08,
+    "duration": 3.64
+  },
+  {
+    "text": "crazy. So, yeah, so what's going on?",
+    "start": 130.52,
+    "duration": 3.439
+  },
+  {
+    "text": "What are What are your apps?",
+    "start": 132.72,
+    "duration": 2.96
+  },
+  {
+    "text": ">> Yeah, yeah, yeah. So, I've been building",
+    "start": 133.959,
+    "duration": 4.321
+  },
+  {
+    "text": "apps for the past 2 years. I have four",
+    "start": 135.68,
+    "duration": 5.36
+  },
+  {
+    "text": "apps right now. Uh my first two apps, I",
+    "start": 138.28,
+    "duration": 4.88
+  },
+  {
+    "text": "built them in college, hence why I wrote",
+    "start": 141.04,
+    "duration": 5.28
+  },
+  {
+    "text": "my senior college thesis on it. Uh but",
+    "start": 143.16,
+    "duration": 4.799
+  },
+  {
+    "text": "my first app, it's called Glam Up. We",
+    "start": 146.32,
+    "duration": 3.48
+  },
+  {
+    "text": "got a million users in the first 6",
+    "start": 147.959,
+    "duration": 3.441
+  },
+  {
+    "text": "months of launching.",
+    "start": 149.8,
+    "duration": 3.44
+  },
+  {
+    "text": "Um I think at peak we were at around",
+    "start": 151.4,
+    "duration": 4.44
+  },
+  {
+    "text": "150k MRR. It's a glow-up app for for",
+    "start": 153.24,
+    "duration": 4.88
+  },
+  {
+    "text": "women and makeup and skincare, all that",
+    "start": 155.84,
+    "duration": 5.48
+  },
+  {
+    "text": "stuff. My second app is called Prep AI.",
+    "start": 158.12,
+    "duration": 5.8
+  },
+  {
+    "text": "Uh we renamed it to Sprout now, but it's",
+    "start": 161.32,
+    "duration": 4.8
+  },
+  {
+    "text": "basically Tinder for jobs. So, you can",
+    "start": 163.92,
+    "duration": 4.08
+  },
+  {
+    "text": "download the app, upload your resume,",
+    "start": 166.12,
+    "duration": 4.24
+  },
+  {
+    "text": "and whenever you swipe right on a job,",
+    "start": 168,
+    "duration": 4
+  },
+  {
+    "text": "we just automatically apply for you with",
+    "start": 170.36,
+    "duration": 4.8
+  },
+  {
+    "text": "a tailored resume and cover letter. Yes,",
+    "start": 172,
+    "duration": 5.56
+  },
+  {
+    "text": "we also have a web app now. Uh but I'm",
+    "start": 175.16,
+    "duration": 4.079
+  },
+  {
+    "text": "currently stepping down as an advisor",
+    "start": 177.56,
+    "duration": 4.28
+  },
+  {
+    "text": "for them while working on the new apps",
+    "start": 179.239,
+    "duration": 3.961
+  },
+  {
+    "text": "uh that are currently in stealth.",
+    "start": 181.84,
+    "duration": 3.36
+  },
+  {
+    "text": ">> So, you have four apps total, and then",
+    "start": 183.2,
+    "duration": 4.84
+  },
+  {
+    "text": "Glam Up and Sprout, you know, with Glam",
+    "start": 185.2,
+    "duration": 6.84
+  },
+  {
+    "text": "Up you scaled to, you know, 150k MRR,",
+    "start": 188.04,
+    "duration": 5.6
+  },
+  {
+    "text": "million users.",
+    "start": 192.04,
+    "duration": 4.64
+  },
+  {
+    "text": "Um is this the one that you're going to",
+    "start": 193.64,
+    "duration": 5.04
+  },
+  {
+    "text": "uh share the most about cuz it seems",
+    "start": 196.68,
+    "duration": 4.96
+  },
+  {
+    "text": "like you really got very specific into",
+    "start": 198.68,
+    "duration": 4.68
+  },
+  {
+    "text": "all the details in the playbook of how",
+    "start": 201.64,
+    "duration": 3.8
+  },
+  {
+    "text": "you how you built and grew this.",
+    "start": 203.36,
+    "duration": 3.52
+  },
+  {
+    "text": ">> The good part about this is that",
+    "start": 205.44,
+    "duration": 5.04
+  },
+  {
+    "text": "whatever I did for Glam Up, I basically",
+    "start": 206.88,
+    "duration": 5.359
+  },
+  {
+    "text": "did it, but but did it better for",
+    "start": 210.48,
+    "duration": 4.759
+  },
+  {
+    "text": "Sprout. Um and I have the most info on",
+    "start": 212.239,
+    "duration": 4.441
+  },
+  {
+    "text": "Glam Up because that's when I was in",
+    "start": 215.239,
+    "duration": 3.841
+  },
+  {
+    "text": "college, I was like preparing for my O",
+    "start": 216.68,
+    "duration": 4.559
+  },
+  {
+    "text": "Y, so I I was like gathering a lot of",
+    "start": 219.08,
+    "duration": 4.159
+  },
+  {
+    "text": "evidences for it. Uh so, that's why I",
+    "start": 221.239,
+    "duration": 4.401
+  },
+  {
+    "text": "have the most resources there, but",
+    "start": 223.239,
+    "duration": 4
+  },
+  {
+    "text": "basically everything is the same when it",
+    "start": 225.64,
+    "duration": 3.12
+  },
+  {
+    "text": "comes to Glam Up and Sprout. I would say",
+    "start": 227.239,
+    "duration": 3.801
+  },
+  {
+    "text": "Sprout is a bit more",
+    "start": 228.76,
+    "duration": 4.24
+  },
+  {
+    "text": "matured, you know, when it comes to a",
+    "start": 231.04,
+    "duration": 3.8
+  },
+  {
+    "text": "lot of the systems that we're building,",
+    "start": 233,
+    "duration": 5.84
+  },
+  {
+    "text": "but Glam Up is the version one of like",
+    "start": 234.84,
+    "duration": 5.08
+  },
+  {
+    "text": "what we have now.",
+    "start": 238.84,
+    "duration": 2.68
+  },
+  {
+    "text": ">> Cuz I think Glam Up is like a it's a",
+    "start": 239.92,
+    "duration": 4.12
+  },
+  {
+    "text": "really good case study story for like",
+    "start": 241.52,
+    "duration": 4.8
+  },
+  {
+    "text": "people that are either just starting out",
+    "start": 244.04,
+    "duration": 3.8
+  },
+  {
+    "text": "with their first app cuz, you know,",
+    "start": 246.32,
+    "duration": 3.24
+  },
+  {
+    "text": "similar to how it was your first app,",
+    "start": 247.84,
+    "duration": 5
+  },
+  {
+    "text": "but also just all the growth hacks and",
+    "start": 249.56,
+    "duration": 5.32
+  },
+  {
+    "text": "some of the referral mechanisms and like",
+    "start": 252.84,
+    "duration": 3.92
+  },
+  {
+    "text": "a lot of the just had a lot have a lot",
+    "start": 254.88,
+    "duration": 2.96
+  },
+  {
+    "text": "of interesting stuff. I read through",
+    "start": 256.76,
+    "duration": 2.08
+  },
+  {
+    "text": "this and there's there's a lot of",
+    "start": 257.84,
+    "duration": 2.519
+  },
+  {
+    "text": "interesting stuff that I want to just to",
+    "start": 258.84,
+    "duration": 3.84
+  },
+  {
+    "text": "start out, like what what was the app",
+    "start": 260.359,
+    "duration": 3.921
+  },
+  {
+    "text": "idea and like what what does it do?",
+    "start": 262.68,
+    "duration": 4.4
+  },
+  {
+    "text": ">> The app idea, we were loosely inspired",
+    "start": 264.28,
+    "duration": 6
+  },
+  {
+    "text": "by Umax cuz my co-founder Aaron",
+    "start": 267.08,
+    "duration": 6.4
+  },
+  {
+    "text": "for for Glam Up, he was in H0 with some",
+    "start": 270.28,
+    "duration": 5.639
+  },
+  {
+    "text": "founders working on consumer apps. Umax",
+    "start": 273.48,
+    "duration": 5.04
+  },
+  {
+    "text": "was one of it and we just decided to",
+    "start": 275.919,
+    "duration": 4.081
+  },
+  {
+    "text": "build something",
+    "start": 278.52,
+    "duration": 3.8
+  },
+  {
+    "text": "you know, kind of in that space, but",
+    "start": 280,
+    "duration": 4.68
+  },
+  {
+    "text": "it's a glow up app before women and",
+    "start": 282.32,
+    "duration": 6.12
+  },
+  {
+    "text": "makeup or for guys and makeup. And we",
+    "start": 284.68,
+    "duration": 7.16
+  },
+  {
+    "text": "were like 2 years ago, it wasn't like",
+    "start": 288.44,
+    "duration": 4.72
+  },
+  {
+    "text": "that big of a thing, you know, when it",
+    "start": 291.84,
+    "duration": 4.72
+  },
+  {
+    "text": "comes to AI consumer apps yet. Not not",
+    "start": 293.16,
+    "duration": 5.44
+  },
+  {
+    "text": "that many like invite coders coming in",
+    "start": 296.56,
+    "duration": 3.68
+  },
+  {
+    "text": "at that point, so we just went on App",
+    "start": 298.6,
+    "duration": 3.8
+  },
+  {
+    "text": "Store. We didn't really find that many",
+    "start": 300.24,
+    "duration": 4.12
+  },
+  {
+    "text": "apps doing that",
+    "start": 302.4,
+    "duration": 4.4
+  },
+  {
+    "text": "and we just decided to make one and it",
+    "start": 304.36,
+    "duration": 5
+  },
+  {
+    "text": "was funny. It was my co-founder for for",
+    "start": 306.8,
+    "duration": 5.28
+  },
+  {
+    "text": "Glam Up Aaron, he just called me. We",
+    "start": 309.36,
+    "duration": 4.48
+  },
+  {
+    "text": "just had a 10-minute conversation and in",
+    "start": 312.08,
+    "duration": 3.48
+  },
+  {
+    "text": "that 10 minutes we decided to start an",
+    "start": 313.84,
+    "duration": 4.28
+  },
+  {
+    "text": "app together. We decided on the app name",
+    "start": 315.56,
+    "duration": 4.24
+  },
+  {
+    "text": "and the app concept and how it's going",
+    "start": 318.12,
+    "duration": 4.32
+  },
+  {
+    "text": "to work and that became Glam Up.",
+    "start": 319.8,
+    "duration": 4.8
+  },
+  {
+    "text": ">> In your article you said it was it was",
+    "start": 322.44,
+    "duration": 4.36
+  },
+  {
+    "text": "like a copycat app, right? Is this your",
+    "start": 324.6,
+    "duration": 3.84
+  },
+  {
+    "text": "is this your like what you're referring",
+    "start": 326.8,
+    "duration": 2.76
+  },
+  {
+    "text": "to or is this different one?",
+    "start": 328.44,
+    "duration": 3.32
+  },
+  {
+    "text": ">> No, no, no. So this is interesting. We",
+    "start": 329.56,
+    "duration": 5.28
+  },
+  {
+    "text": "were growing Glam Up and then we got",
+    "start": 331.76,
+    "duration": 5.36
+  },
+  {
+    "text": "kind of exposed on Twitter. So so some",
+    "start": 334.84,
+    "duration": 4.36
+  },
+  {
+    "text": "people started posting about Glam Up and",
+    "start": 337.12,
+    "duration": 4.44
+  },
+  {
+    "text": "how how much money it's making and this",
+    "start": 339.2,
+    "duration": 5.36
+  },
+  {
+    "text": "and that and someone copied our app, but",
+    "start": 341.56,
+    "duration": 4.96
+  },
+  {
+    "text": "it was a brand new app and they weren't",
+    "start": 344.56,
+    "duration": 5.08
+  },
+  {
+    "text": "ranking on on App Store and they chose a",
+    "start": 346.52,
+    "duration": 5.72
+  },
+  {
+    "text": "very similar name. So, when they started",
+    "start": 349.64,
+    "duration": 5.48
+  },
+  {
+    "text": "going viral, all the all the traffic",
+    "start": 352.24,
+    "duration": 5.6
+  },
+  {
+    "text": "went to us. So, like I see. That's",
+    "start": 355.12,
+    "duration": 5.12
+  },
+  {
+    "text": "crazy. Yeah. And then they just made us,",
+    "start": 357.84,
+    "duration": 4.36
+  },
+  {
+    "text": "you know, 100K in a week.",
+    "start": 360.24,
+    "duration": 4.08
+  },
+  {
+    "text": ">> So, that was like a crazy ASO thing.",
+    "start": 362.2,
+    "duration": 3.08
+  },
+  {
+    "text": "Well, we'll get into that a little bit",
+    "start": 364.32,
+    "duration": 3.68
+  },
+  {
+    "text": "later, but is it Is this the the page",
+    "start": 365.28,
+    "duration": 3.28
+  },
+  {
+    "text": "for the app?",
+    "start": 368,
+    "duration": 3
+  },
+  {
+    "text": ">> Yes, this is the page for the app.",
+    "start": 368.56,
+    "duration": 4.16
+  },
+  {
+    "text": "Um as you can see, we haven't worked on",
+    "start": 371,
+    "duration": 2.8
+  },
+  {
+    "text": "it for a year now.",
+    "start": 372.72,
+    "duration": 2.64
+  },
+  {
+    "text": ">> This was This is your first ever app",
+    "start": 373.8,
+    "duration": 2.88
+  },
+  {
+    "text": "with your co-founder? Like how long did",
+    "start": 375.36,
+    "duration": 2.64
+  },
+  {
+    "text": "it take to build it?",
+    "start": 376.68,
+    "duration": 4.48
+  },
+  {
+    "text": ">> Um let me think. I think we built the",
+    "start": 378,
+    "duration": 8.12
+  },
+  {
+    "text": "first MVP out in maybe 3 weeks to a",
+    "start": 381.16,
+    "duration": 8.08
+  },
+  {
+    "text": "month. Like that that was like our both",
+    "start": 386.12,
+    "duration": 4.96
+  },
+  {
+    "text": "of our first time building an app, so it",
+    "start": 389.24,
+    "duration": 4.72
+  },
+  {
+    "text": "took us a bit longer. It was all brown.",
+    "start": 391.08,
+    "duration": 6.2
+  },
+  {
+    "text": "The app barely worked and it was just a",
+    "start": 393.96,
+    "duration": 6.2
+  },
+  {
+    "text": "concept. Like it was genuinely an MVP",
+    "start": 397.28,
+    "duration": 4.76
+  },
+  {
+    "text": "that we just launched, but we didn't",
+    "start": 400.16,
+    "duration": 3.4
+  },
+  {
+    "text": "really care, you know, we were working",
+    "start": 402.04,
+    "duration": 4.04
+  },
+  {
+    "text": "on distribution at the same time. And",
+    "start": 403.56,
+    "duration": 4.6
+  },
+  {
+    "text": "Glam Up, like the current pink version",
+    "start": 406.08,
+    "duration": 4.24
+  },
+  {
+    "text": "is our version two and this one took us",
+    "start": 408.16,
+    "duration": 5.32
+  },
+  {
+    "text": "maybe a month to really improve and and",
+    "start": 410.32,
+    "duration": 4.04
+  },
+  {
+    "text": "optimize.",
+    "start": 413.48,
+    "duration": 4.04
+  },
+  {
+    "text": ">> So, you mentioned UMAX. Like um",
+    "start": 414.36,
+    "duration": 4.48
+  },
+  {
+    "text": "I think some people know about it, but",
+    "start": 417.52,
+    "duration": 3.08
+  },
+  {
+    "text": "for people who don't, like how did you",
+    "start": 418.84,
+    "duration": 5.04
+  },
+  {
+    "text": "come to the idea for Glam Up? You like",
+    "start": 420.6,
+    "duration": 6.96
+  },
+  {
+    "text": "you positioned it as like UMAX for women",
+    "start": 423.88,
+    "duration": 5.96
+  },
+  {
+    "text": "basically. But what what does that mean?",
+    "start": 427.56,
+    "duration": 4.12
+  },
+  {
+    "text": "Like why why did you come to this idea?",
+    "start": 429.84,
+    "duration": 5.72
+  },
+  {
+    "text": ">> Yeah, so my my co-founder Aaron, he was",
+    "start": 431.68,
+    "duration": 6.92
+  },
+  {
+    "text": "in H 0 with UMAX's founder.",
+    "start": 435.56,
+    "duration": 5.04
+  },
+  {
+    "text": "Um and they were killing it, you know,",
+    "start": 438.6,
+    "duration": 3.4
+  },
+  {
+    "text": "they were doing really good. It was",
+    "start": 440.6,
+    "duration": 3.4
+  },
+  {
+    "text": "basically like jawlines and all that",
+    "start": 442,
+    "duration": 3.68
+  },
+  {
+    "text": "stuff, like scores for your facial",
+    "start": 444,
+    "duration": 3.84
+  },
+  {
+    "text": "structures, but we wanted to do",
+    "start": 445.68,
+    "duration": 4.28
+  },
+  {
+    "text": "something that's like a little",
+    "start": 447.84,
+    "duration": 4.28
+  },
+  {
+    "text": "less toxic in that way. Like we don't",
+    "start": 449.96,
+    "duration": 4.12
+  },
+  {
+    "text": "want to rate women on their facial",
+    "start": 452.12,
+    "duration": 3.6
+  },
+  {
+    "text": "features. I think there's a difference",
+    "start": 454.08,
+    "duration": 3.04
+  },
+  {
+    "text": "between men and women when it comes to",
+    "start": 455.72,
+    "duration": 2.28
+  },
+  {
+    "text": "this.",
+    "start": 457.12,
+    "duration": 4.16
+  },
+  {
+    "text": "Um and obviously for for men to glow up,",
+    "start": 458,
+    "duration": 4.8
+  },
+  {
+    "text": "you know, they do the mewing and the",
+    "start": 461.28,
+    "duration": 4.04
+  },
+  {
+    "text": "looks maxing, but for women a lot of the",
+    "start": 462.8,
+    "duration": 4.76
+  },
+  {
+    "text": "times it's about skin care and makeup",
+    "start": 465.32,
+    "duration": 4.68
+  },
+  {
+    "text": "and and the products that they use.",
+    "start": 467.56,
+    "duration": 4.44
+  },
+  {
+    "text": "So, it's loosely inspired definitely by",
+    "start": 470,
+    "duration": 3.32
+  },
+  {
+    "text": "them,",
+    "start": 472,
+    "duration": 3.84
+  },
+  {
+    "text": "but you know, with with Glamhub we",
+    "start": 473.32,
+    "duration": 5.48
+  },
+  {
+    "text": "wanted to do something where it's more",
+    "start": 475.84,
+    "duration": 5.2
+  },
+  {
+    "text": "about makeup and and the actual",
+    "start": 478.8,
+    "duration": 3.04
+  },
+  {
+    "text": "products.",
+    "start": 481.04,
+    "duration": 2.28
+  },
+  {
+    "text": ">> And do you feel like you were the first",
+    "start": 481.84,
+    "duration": 3.44
+  },
+  {
+    "text": "ones to notice this trend? You're",
+    "start": 483.32,
+    "duration": 3.88
+  },
+  {
+    "text": "basically copying the",
+    "start": 485.28,
+    "duration": 3.4
+  },
+  {
+    "text": "the Umax",
+    "start": 487.2,
+    "duration": 2.68
+  },
+  {
+    "text": "value prop, but for a different",
+    "start": 488.68,
+    "duration": 2.64
+  },
+  {
+    "text": "audience. Like were you the first ones",
+    "start": 489.88,
+    "duration": 3.6
+  },
+  {
+    "text": "to kind of notice the the gap?",
+    "start": 491.32,
+    "duration": 4.56
+  },
+  {
+    "text": ">> I believe so. I think it's also because",
+    "start": 493.48,
+    "duration": 4.76
+  },
+  {
+    "text": "we have an advantage just because the",
+    "start": 495.88,
+    "duration": 5.16
+  },
+  {
+    "text": "Umax founder and my and my co-founder,",
+    "start": 498.24,
+    "duration": 5.72
+  },
+  {
+    "text": "they were in the same cohort together",
+    "start": 501.04,
+    "duration": 5.8
+  },
+  {
+    "text": "building together and so, you know, my",
+    "start": 503.96,
+    "duration": 5.48
+  },
+  {
+    "text": "co-founder was really familiar with Umax",
+    "start": 506.84,
+    "duration": 6.28
+  },
+  {
+    "text": "very early on doing their growth. So,",
+    "start": 509.44,
+    "duration": 5.08
+  },
+  {
+    "text": "you know, we kind of have a competitive",
+    "start": 513.12,
+    "duration": 3.32
+  },
+  {
+    "text": "advantage versus, you know, just",
+    "start": 514.52,
+    "duration": 4.079
+  },
+  {
+    "text": "discovering that on Twitter. And I I",
+    "start": 516.44,
+    "duration": 4.44
+  },
+  {
+    "text": "hope to believe that, you know, we're",
+    "start": 518.599,
+    "duration": 4.32
+  },
+  {
+    "text": "the first one to start this as well.",
+    "start": 520.88,
+    "duration": 3.48
+  },
+  {
+    "text": ">> How like how are people finding out",
+    "start": 522.919,
+    "duration": 2.201
+  },
+  {
+    "text": "about this app?",
+    "start": 524.36,
+    "duration": 2.64
+  },
+  {
+    "text": ">> I was like super happy about this. I",
+    "start": 525.12,
+    "duration": 3.76
+  },
+  {
+    "text": "remember I was like I couldn't sleep for",
+    "start": 527,
+    "duration": 3.44
+  },
+  {
+    "text": "for like an entire night when this",
+    "start": 528.88,
+    "duration": 3.36
+  },
+  {
+    "text": "happened and I had to call my mentor at",
+    "start": 530.44,
+    "duration": 3.56
+  },
+  {
+    "text": "like 6:00 a.m. and I didn't sleep for",
+    "start": 532.24,
+    "duration": 4.24
+  },
+  {
+    "text": "the whole night whole whole night, but",
+    "start": 534,
+    "duration": 5.04
+  },
+  {
+    "text": "that was the time when Glamhub reached",
+    "start": 536.48,
+    "duration": 4.2
+  },
+  {
+    "text": "number three on the App Store. We beat",
+    "start": 539.04,
+    "duration": 3.52
+  },
+  {
+    "text": "Tinder and Hinge",
+    "start": 540.68,
+    "duration": 5.08
+  },
+  {
+    "text": "luckily for like a a couple of days,",
+    "start": 542.56,
+    "duration": 4.92
+  },
+  {
+    "text": "but here are some screenshots from Super",
+    "start": 545.76,
+    "duration": 5.079
+  },
+  {
+    "text": "Wa. This is iOS. This is Android. I",
+    "start": 547.48,
+    "duration": 6.32
+  },
+  {
+    "text": "think well, now I think we have around",
+    "start": 550.839,
+    "duration": 6.521
+  },
+  {
+    "text": "like 2 million downloads, but we kind of",
+    "start": 553.8,
+    "duration": 5.2
+  },
+  {
+    "text": "stopped working on the app when we hit a",
+    "start": 557.36,
+    "duration": 4.32
+  },
+  {
+    "text": "million users. So, these are just from",
+    "start": 559,
+    "duration": 4.92
+  },
+  {
+    "text": "like the leftover distributions that",
+    "start": 561.68,
+    "duration": 6.4
+  },
+  {
+    "text": "that rent up. And",
+    "start": 563.92,
+    "duration": 6.84
+  },
+  {
+    "text": "we have we used to use one link for",
+    "start": 568.08,
+    "duration": 4.72
+  },
+  {
+    "text": "attribution links and for referral",
+    "start": 570.76,
+    "duration": 3.44
+  },
+  {
+    "text": "codes.",
+    "start": 572.8,
+    "duration": 4.2
+  },
+  {
+    "text": "So, as you can tell we have, you know,",
+    "start": 574.2,
+    "duration": 5.72
+  },
+  {
+    "text": "around 1.6 million total requests of",
+    "start": 577,
+    "duration": 4.96
+  },
+  {
+    "text": "people sharing the app, getting their",
+    "start": 579.92,
+    "duration": 5.12
+  },
+  {
+    "text": "codes, stuff like that. Um and when it",
+    "start": 581.96,
+    "duration": 5.2
+  },
+  {
+    "text": "comes to distribution, I just went on",
+    "start": 585.04,
+    "duration": 4.56
+  },
+  {
+    "text": "TikTok and I searched Glam Up app, and",
+    "start": 587.16,
+    "duration": 4.8
+  },
+  {
+    "text": "you can see I'll show you one of the",
+    "start": 589.6,
+    "duration": 3.6
+  },
+  {
+    "text": "videos.",
+    "start": 591.96,
+    "duration": 3.28
+  },
+  {
+    "text": "Um this doesn't have the audio, but I'll",
+    "start": 593.2,
+    "duration": 4.32
+  },
+  {
+    "text": "show you. So, it's a girl without",
+    "start": 595.24,
+    "duration": 3.92
+  },
+  {
+    "text": "makeup, and then it's a girl with",
+    "start": 597.52,
+    "duration": 4.48
+  },
+  {
+    "text": "makeup, and it has the Glam Up branding.",
+    "start": 599.16,
+    "duration": 6.92
+  },
+  {
+    "text": "And then we do the the like a screenshot",
+    "start": 602,
+    "duration": 7.24
+  },
+  {
+    "text": "about what the app is about. So, we did",
+    "start": 606.08,
+    "duration": 5.48
+  },
+  {
+    "text": "this for",
+    "start": 609.24,
+    "duration": 4.24
+  },
+  {
+    "text": "across, I think, 20 different UGC",
+    "start": 611.56,
+    "duration": 4.44
+  },
+  {
+    "text": "creators. We did faceless content. This",
+    "start": 613.48,
+    "duration": 4.24
+  },
+  {
+    "text": "is from years ago, but when we were",
+    "start": 616,
+    "duration": 3.72
+  },
+  {
+    "text": "killing it, we were getting millions of",
+    "start": 617.72,
+    "duration": 6.4
+  },
+  {
+    "text": "views like every single day from it.",
+    "start": 619.72,
+    "duration": 6.6
+  },
+  {
+    "text": "Um and it was pretty sick. And I",
+    "start": 624.12,
+    "duration": 4.44
+  },
+  {
+    "text": "remember the first faceless content that",
+    "start": 626.32,
+    "duration": 4.8
+  },
+  {
+    "text": "we posted, uh it was a slideshow,",
+    "start": 628.56,
+    "duration": 4.6
+  },
+  {
+    "text": "basically very similar",
+    "start": 631.12,
+    "duration": 5.36
+  },
+  {
+    "text": "um idea, and that one got like 10",
+    "start": 633.16,
+    "duration": 5.64
+  },
+  {
+    "text": "million views. This one, like, our very",
+    "start": 636.48,
+    "duration": 4.52
+  },
+  {
+    "text": "first post got like 10 million views,",
+    "start": 638.8,
+    "duration": 4.88
+  },
+  {
+    "text": "which is insane. But, as you can see,",
+    "start": 641,
+    "duration": 5.48
+  },
+  {
+    "text": "all of it is before makeup, after",
+    "start": 643.68,
+    "duration": 5.52
+  },
+  {
+    "text": "makeup, Glam Up branding, and then a",
+    "start": 646.48,
+    "duration": 5.08
+  },
+  {
+    "text": "screenshot of it. And you want to know",
+    "start": 649.2,
+    "duration": 4.12
+  },
+  {
+    "text": "something really funny?",
+    "start": 651.56,
+    "duration": 5.12
+  },
+  {
+    "text": "How we did this is actually we went on",
+    "start": 653.32,
+    "duration": 6.16
+  },
+  {
+    "text": "Pinterest, we found a bunch of like",
+    "start": 656.68,
+    "duration": 5.56
+  },
+  {
+    "text": "pretty girls. We downloaded another app",
+    "start": 659.48,
+    "duration": 5.04
+  },
+  {
+    "text": "that can remove their makeup. So, we",
+    "start": 662.24,
+    "duration": 5.4
+  },
+  {
+    "text": "would go to the app, and we would remove",
+    "start": 664.52,
+    "duration": 5.52
+  },
+  {
+    "text": "their makeup like 10 times to make them",
+    "start": 667.64,
+    "duration": 4.88
+  },
+  {
+    "text": "like just like really plain, you know,",
+    "start": 670.04,
+    "duration": 4.52
+  },
+  {
+    "text": "something like this, and then we will",
+    "start": 672.52,
+    "duration": 4.36
+  },
+  {
+    "text": "enhance their makeup. So, we have this",
+    "start": 674.56,
+    "duration": 4.56
+  },
+  {
+    "text": "huge contrast, and then we post on",
+    "start": 676.88,
+    "duration": 3.88
+  },
+  {
+    "text": "social media, and it goes viral. So,",
+    "start": 679.12,
+    "duration": 4.64
+  },
+  {
+    "text": "these are actually just like demo demos",
+    "start": 680.76,
+    "duration": 5.24
+  },
+  {
+    "text": "of our app, but these are not like",
+    "start": 683.76,
+    "duration": 5.24
+  },
+  {
+    "text": "actual users. Um cuz we don't want to",
+    "start": 686,
+    "duration": 4.4
+  },
+  {
+    "text": "post their, you know, private",
+    "start": 689,
+    "duration": 2.16
+  },
+  {
+    "text": "information.",
+    "start": 690.4,
+    "duration": 3.36
+  },
+  {
+    "text": ">> Right. Right. Okay, so the slides like",
+    "start": 691.16,
+    "duration": 5.32
+  },
+  {
+    "text": "the content format is like very simple.",
+    "start": 693.76,
+    "duration": 5.24
+  },
+  {
+    "text": "It seems like it's like basically before",
+    "start": 696.48,
+    "duration": 5.84
+  },
+  {
+    "text": "and after with a slow sliding screen",
+    "start": 699,
+    "duration": 5.12
+  },
+  {
+    "text": "transition. And then the name of the app",
+    "start": 702.32,
+    "duration": 3.84
+  },
+  {
+    "text": "is just like right there, Glam Up.",
+    "start": 704.12,
+    "duration": 5.16
+  },
+  {
+    "text": "Um and then it shows the demo of the app",
+    "start": 706.16,
+    "duration": 4.92
+  },
+  {
+    "text": "that shows like the personalized makeup",
+    "start": 709.28,
+    "duration": 4.68
+  },
+  {
+    "text": "routine. But then on the first couple of",
+    "start": 711.08,
+    "duration": 5.08
+  },
+  {
+    "text": "frames of the video, do you have like a",
+    "start": 713.96,
+    "duration": 4.48
+  },
+  {
+    "text": "caption or something that kind of acts",
+    "start": 716.16,
+    "duration": 2.92
+  },
+  {
+    "text": "as a hook?",
+    "start": 718.44,
+    "duration": 3
+  },
+  {
+    "text": ">> It's also very funny because we did this",
+    "start": 719.08,
+    "duration": 5.24
+  },
+  {
+    "text": "for every single like we probably had",
+    "start": 721.44,
+    "duration": 5.56
+  },
+  {
+    "text": "hundreds, maybe almost maybe even",
+    "start": 724.32,
+    "duration": 5.08
+  },
+  {
+    "text": "thousands of these posts out and we used",
+    "start": 727,
+    "duration": 4.92
+  },
+  {
+    "text": "the same caption on the video and the",
+    "start": 729.4,
+    "duration": 5.08
+  },
+  {
+    "text": "same caption below the video and the",
+    "start": 731.92,
+    "duration": 5.72
+  },
+  {
+    "text": "same hashtags. And for some reason this",
+    "start": 734.48,
+    "duration": 5.56
+  },
+  {
+    "text": "combo just worked. And the same audio.",
+    "start": 737.64,
+    "duration": 4.32
+  },
+  {
+    "text": ">> Really? Interesting. Wait, so what what",
+    "start": 740.04,
+    "duration": 3.76
+  },
+  {
+    "text": "is the caption? Wait, so yeah, walk me",
+    "start": 741.96,
+    "duration": 3.96
+  },
+  {
+    "text": "through the caption and then the like",
+    "start": 743.8,
+    "duration": 3.8
+  },
+  {
+    "text": "the on-screen video caption.",
+    "start": 745.92,
+    "duration": 4.08
+  },
+  {
+    "text": ">> It's Okay, so it's literally either two",
+    "start": 747.6,
+    "duration": 5.4
+  },
+  {
+    "text": "or three lines. It's never saw myself",
+    "start": 750,
+    "duration": 5.88
+  },
+  {
+    "text": "with the next line, right makeup",
+    "start": 753,
+    "duration": 5.839
+  },
+  {
+    "text": "routine, crying face crying face. And",
+    "start": 755.88,
+    "duration": 5.52
+  },
+  {
+    "text": "we've tested this actually with",
+    "start": 758.839,
+    "duration": 5.201
+  },
+  {
+    "text": "different different um hooks and",
+    "start": 761.4,
+    "duration": 5.28
+  },
+  {
+    "text": "different you know, lines, how many",
+    "start": 764.04,
+    "duration": 4.32
+  },
+  {
+    "text": "lines you can have. We were like very",
+    "start": 766.68,
+    "duration": 4.159
+  },
+  {
+    "text": "intricate with it, almost scientific and",
+    "start": 768.36,
+    "duration": 4.6
+  },
+  {
+    "text": "we realized this is the best one. And",
+    "start": 770.839,
+    "duration": 4
+  },
+  {
+    "text": "then when it comes to the caption, it's",
+    "start": 772.96,
+    "duration": 4.32
+  },
+  {
+    "text": "usually almost I will be unstoppable",
+    "start": 774.839,
+    "duration": 6.601
+  },
+  {
+    "text": "with the exhausted emoji and we do like",
+    "start": 777.28,
+    "duration": 6.08
+  },
+  {
+    "text": "um the hashtags for it. And then we use",
+    "start": 781.44,
+    "duration": 3.8
+  },
+  {
+    "text": "like there's",
+    "start": 783.36,
+    "duration": 4.32
+  },
+  {
+    "text": "maybe like 10 different audios that we",
+    "start": 785.24,
+    "duration": 4.76
+  },
+  {
+    "text": "use. Uh we've tried other audios, it",
+    "start": 787.68,
+    "duration": 4.08
+  },
+  {
+    "text": "just doesn't work. It doesn't go viral.",
+    "start": 790,
+    "duration": 4.96
+  },
+  {
+    "text": "But with those audios with the same hook",
+    "start": 791.76,
+    "duration": 5.16
+  },
+  {
+    "text": "with the same caption, it works every",
+    "start": 794.96,
+    "duration": 2.48
+  },
+  {
+    "text": "time.",
+    "start": 796.92,
+    "duration": 2.84
+  },
+  {
+    "text": ">> That's so it's so weird. Like I don't",
+    "start": 797.44,
+    "duration": 4.28
+  },
+  {
+    "text": "understand. Like the the TikTok",
+    "start": 799.76,
+    "duration": 4.12
+  },
+  {
+    "text": "algorithm is so mysterious sometimes.",
+    "start": 801.72,
+    "duration": 5.04
+  },
+  {
+    "text": "Like it says says never saw myself with",
+    "start": 803.88,
+    "duration": 4.8
+  },
+  {
+    "text": "the right makeup routine, but then",
+    "start": 806.76,
+    "duration": 4.6
+  },
+  {
+    "text": "there's a a new line after the word the",
+    "start": 808.68,
+    "duration": 4.48
+  },
+  {
+    "text": "and then the emojis on the third line.",
+    "start": 811.36,
+    "duration": 3.84
+  },
+  {
+    "text": "So, give me an example of like caption",
+    "start": 813.16,
+    "duration": 4.24
+  },
+  {
+    "text": "variation that was that looked very",
+    "start": 815.2,
+    "duration": 4.36
+  },
+  {
+    "text": "similar, but just didn't perform as",
+    "start": 817.4,
+    "duration": 2.52
+  },
+  {
+    "text": "well.",
+    "start": 819.56,
+    "duration": 3.8
+  },
+  {
+    "text": ">> We tested out the size of the lines as",
+    "start": 819.92,
+    "duration": 6.16
+  },
+  {
+    "text": "well. It can't be like super big on the",
+    "start": 823.36,
+    "duration": 4.2
+  },
+  {
+    "text": "screen. It has to be something like",
+    "start": 826.08,
+    "duration": 5.12
+  },
+  {
+    "text": "that's very like like Gen Z Insta girly",
+    "start": 827.56,
+    "duration": 6.2
+  },
+  {
+    "text": "posting like something. So, it has to be",
+    "start": 831.2,
+    "duration": 5.68
+  },
+  {
+    "text": "like small and it had it like we would",
+    "start": 833.76,
+    "duration": 5.44
+  },
+  {
+    "text": "prefer not on the center, but somewhere",
+    "start": 836.88,
+    "duration": 4.52
+  },
+  {
+    "text": "by the side. Yeah, I think we might have",
+    "start": 839.2,
+    "duration": 3.92
+  },
+  {
+    "text": "deleted the ones that didn't work that",
+    "start": 841.4,
+    "duration": 2.56
+  },
+  {
+    "text": "well, but",
+    "start": 843.12,
+    "duration": 3.64
+  },
+  {
+    "text": ">> Sure. In the search results, they're all",
+    "start": 843.96,
+    "duration": 3.44
+  },
+  {
+    "text": "the same.",
+    "start": 846.76,
+    "duration": 1.56
+  },
+  {
+    "text": ">> They're all the same. They're all the",
+    "start": 847.4,
+    "duration": 3.64
+  },
+  {
+    "text": "same. And um we can dive into it a",
+    "start": 848.32,
+    "duration": 4.6
+  },
+  {
+    "text": "little later as well, but if you take a",
+    "start": 851.04,
+    "duration": 3.44
+  },
+  {
+    "text": "look at the comments, everyone's asking",
+    "start": 852.92,
+    "duration": 3.88
+  },
+  {
+    "text": "for code for code, uh which is the",
+    "start": 854.48,
+    "duration": 4.2
+  },
+  {
+    "text": "referral code that we build within the",
+    "start": 856.8,
+    "duration": 5.12
+  },
+  {
+    "text": "app. You can see a bunch of people are",
+    "start": 858.68,
+    "duration": 5.28
+  },
+  {
+    "text": "doing the templates that",
+    "start": 861.92,
+    "duration": 3.08
+  },
+  {
+    "text": "you know, we have.",
+    "start": 863.96,
+    "duration": 3.88
+  },
+  {
+    "text": ">> And that is that is the crazy probably",
+    "start": 865,
+    "duration": 4.04
+  },
+  {
+    "text": "one of the craziest things about this",
+    "start": 867.84,
+    "duration": 3.32
+  },
+  {
+    "text": "app. I want to get into that",
+    "start": 869.04,
+    "duration": 2.76
+  },
+  {
+    "text": "um",
+    "start": 871.16,
+    "duration": 2.96
+  },
+  {
+    "text": "in a minute, but first like how did you",
+    "start": 871.8,
+    "duration": 4.039
+  },
+  {
+    "text": "come up with this",
+    "start": 874.12,
+    "duration": 3.719
+  },
+  {
+    "text": "before after slideshow format in the",
+    "start": 875.839,
+    "duration": 4.281
+  },
+  {
+    "text": "first place? Like is it uh were you like",
+    "start": 877.839,
+    "duration": 4.201
+  },
+  {
+    "text": "paying influencers or did you just make",
+    "start": 880.12,
+    "duration": 3.4
+  },
+  {
+    "text": "it yourself? Like how did you come up",
+    "start": 882.04,
+    "duration": 2.4
+  },
+  {
+    "text": "with this?",
+    "start": 883.52,
+    "duration": 2.8
+  },
+  {
+    "text": ">> So, we have tested a bunch. Latina",
+    "start": 884.44,
+    "duration": 4
+  },
+  {
+    "text": "makeup slideshows,",
+    "start": 886.32,
+    "duration": 5
+  },
+  {
+    "text": "all that stuff didn't really work. We",
+    "start": 888.44,
+    "duration": 5.8
+  },
+  {
+    "text": "tested color theories, celebrities, all",
+    "start": 891.32,
+    "duration": 5.92
+  },
+  {
+    "text": "that stuff didn't really work. Uh we",
+    "start": 894.24,
+    "duration": 5.08
+  },
+  {
+    "text": "also tested these like tutorials, makeup",
+    "start": 897.24,
+    "duration": 4.52
+  },
+  {
+    "text": "tutorials, didn't really work. We just",
+    "start": 899.32,
+    "duration": 5.88
+  },
+  {
+    "text": "kept testing different formats and I'm",
+    "start": 901.76,
+    "duration": 6.44
+  },
+  {
+    "text": "not exactly sure how we ended up with a",
+    "start": 905.2,
+    "duration": 5.04
+  },
+  {
+    "text": "before and after. I think our competitor",
+    "start": 908.2,
+    "duration": 3.72
+  },
+  {
+    "text": "app actually helped as well, like a",
+    "start": 910.24,
+    "duration": 4.52
+  },
+  {
+    "text": "copycat app that was copying everything",
+    "start": 911.92,
+    "duration": 5.36
+  },
+  {
+    "text": "that Glamour was doing. They came up",
+    "start": 914.76,
+    "duration": 4.32
+  },
+  {
+    "text": "with a bunch of viral strategies that",
+    "start": 917.28,
+    "duration": 3.68
+  },
+  {
+    "text": "like, you know, we honestly got really",
+    "start": 919.08,
+    "duration": 5.28
+  },
+  {
+    "text": "lucky with it and we just scaled and",
+    "start": 920.96,
+    "duration": 5.08
+  },
+  {
+    "text": "made it better.",
+    "start": 924.36,
+    "duration": 4.04
+  },
+  {
+    "text": "Um and then it just blew up for us.",
+    "start": 926.04,
+    "duration": 5.76
+  },
+  {
+    "text": ">> So, you said you had 20 creators. Like",
+    "start": 928.4,
+    "duration": 5.36
+  },
+  {
+    "text": "were you Did you hire all those people",
+    "start": 931.8,
+    "duration": 3.68
+  },
+  {
+    "text": "from the beginning and just have them",
+    "start": 933.76,
+    "duration": 3.08
+  },
+  {
+    "text": "create these",
+    "start": 935.48,
+    "duration": 2.32
+  },
+  {
+    "text": "these videos?",
+    "start": 936.84,
+    "duration": 3.96
+  },
+  {
+    "text": ">> So, across all four of my apps, I'm the",
+    "start": 937.8,
+    "duration": 5.24
+  },
+  {
+    "text": "first one to go viral on on all of them.",
+    "start": 940.8,
+    "duration": 4.92
+  },
+  {
+    "text": "With Glam Mom, I remember I had like",
+    "start": 943.04,
+    "duration": 5.12
+  },
+  {
+    "text": "three accounts. My co-founder, he had",
+    "start": 945.72,
+    "duration": 4.76
+  },
+  {
+    "text": "like three accounts. We would warm it up",
+    "start": 948.16,
+    "duration": 4.92
+  },
+  {
+    "text": "and try posting. And once we found a",
+    "start": 950.48,
+    "duration": 4.52
+  },
+  {
+    "text": "viral strategy, that's when we just",
+    "start": 953.08,
+    "duration": 4.16
+  },
+  {
+    "text": "scaled immediately. So, that's when we",
+    "start": 955,
+    "duration": 5.48
+  },
+  {
+    "text": "went to, you know, hire like, I believe",
+    "start": 957.24,
+    "duration": 5.36
+  },
+  {
+    "text": "at one point we had like 30, 40",
+    "start": 960.48,
+    "duration": 4.96
+  },
+  {
+    "text": "creators. This for Glam Mom, like during",
+    "start": 962.6,
+    "duration": 5.08
+  },
+  {
+    "text": "that time it's my first app. It's like a",
+    "start": 965.44,
+    "duration": 4.16
+  },
+  {
+    "text": "it's a huge scale for me during that",
+    "start": 967.68,
+    "duration": 4.4
+  },
+  {
+    "text": "time. Obviously, with Sprout now, we",
+    "start": 969.6,
+    "duration": 4.48
+  },
+  {
+    "text": "have probably over a thousand creators",
+    "start": 972.08,
+    "duration": 3.68
+  },
+  {
+    "text": "now. But, during that time it was a lot",
+    "start": 974.08,
+    "duration": 2.92
+  },
+  {
+    "text": "for me.",
+    "start": 975.76,
+    "duration": 3.56
+  },
+  {
+    "text": "Um but yeah, we just started hiring. We",
+    "start": 977,
+    "duration": 4.84
+  },
+  {
+    "text": "did a training course for all of them.",
+    "start": 979.32,
+    "duration": 5.04
+  },
+  {
+    "text": "Similar to what uh I can show later for",
+    "start": 981.84,
+    "duration": 3.84
+  },
+  {
+    "text": "Sprout as well. It's kind of like a",
+    "start": 984.36,
+    "duration": 3.32
+  },
+  {
+    "text": "course. We teach them how to create the",
+    "start": 985.68,
+    "duration": 4.08
+  },
+  {
+    "text": "account, how to warm it up, uh how to",
+    "start": 987.68,
+    "duration": 3.92
+  },
+  {
+    "text": "warm up a brand new account for like the",
+    "start": 989.76,
+    "duration": 3.2
+  },
+  {
+    "text": "algorithm,",
+    "start": 991.6,
+    "duration": 3.84
+  },
+  {
+    "text": "what exactly to do for the content. So,",
+    "start": 992.96,
+    "duration": 4.24
+  },
+  {
+    "text": "for example, all the details I just told",
+    "start": 995.44,
+    "duration": 3.8
+  },
+  {
+    "text": "you about, like make the size a bit",
+    "start": 997.2,
+    "duration": 4.52
+  },
+  {
+    "text": "small, don't make a center, make it on",
+    "start": 999.24,
+    "duration": 4.24
+  },
+  {
+    "text": "like, you know, all that little details",
+    "start": 1001.72,
+    "duration": 3.92
+  },
+  {
+    "text": "we would tell them. We'll come up with",
+    "start": 1003.48,
+    "duration": 5
+  },
+  {
+    "text": "the tutorials for them on how to,",
+    "start": 1005.64,
+    "duration": 5.32
+  },
+  {
+    "text": "you know, pose and and stuff like that.",
+    "start": 1008.48,
+    "duration": 4.2
+  },
+  {
+    "text": ">> There's so many people talking about UGC",
+    "start": 1010.96,
+    "duration": 4.6
+  },
+  {
+    "text": "and creator marketing these days, and",
+    "start": 1012.68,
+    "duration": 4.64
+  },
+  {
+    "text": "like from the outside it can seem kind",
+    "start": 1015.56,
+    "duration": 4.36
+  },
+  {
+    "text": "of almost random and like very almost",
+    "start": 1017.32,
+    "duration": 4.96
+  },
+  {
+    "text": "like a lottery. But, the way they talk",
+    "start": 1019.92,
+    "duration": 5.279
+  },
+  {
+    "text": "about it is such a system. It's like the",
+    "start": 1022.28,
+    "duration": 4.799
+  },
+  {
+    "text": "training, like thinking about it as a",
+    "start": 1025.199,
+    "duration": 4.161
+  },
+  {
+    "text": "talent acquisition game, and then",
+    "start": 1027.079,
+    "duration": 3.921
+  },
+  {
+    "text": "coaching and training them through the",
+    "start": 1029.36,
+    "duration": 4.24
+  },
+  {
+    "text": "through the program, um scientifically",
+    "start": 1031,
+    "duration": 4.12
+  },
+  {
+    "text": "testing all this stuff with a thousand",
+    "start": 1033.6,
+    "duration": 3.52
+  },
+  {
+    "text": "creators. So, I want to dive into that",
+    "start": 1035.12,
+    "duration": 3.959
+  },
+  {
+    "text": "entire thing, but first let's let's get",
+    "start": 1037.12,
+    "duration": 4.12
+  },
+  {
+    "text": "into the the viral system. So, like you",
+    "start": 1039.079,
+    "duration": 4.24
+  },
+  {
+    "text": "have this referral system where people",
+    "start": 1041.24,
+    "duration": 4.959
+  },
+  {
+    "text": "like refer out to their friends. So,",
+    "start": 1043.319,
+    "duration": 3.921
+  },
+  {
+    "text": "yeah, how does that work?",
+    "start": 1046.199,
+    "duration": 3.001
+  },
+  {
+    "text": ">> So,",
+    "start": 1047.24,
+    "duration": 3.72
+  },
+  {
+    "text": "this is our entire",
+    "start": 1049.2,
+    "duration": 4.32
+  },
+  {
+    "text": "app design that I can find from from",
+    "start": 1050.96,
+    "duration": 5.2
+  },
+  {
+    "text": "Face Ma so far. We have the welcoming",
+    "start": 1053.52,
+    "duration": 5.88
+  },
+  {
+    "text": "screen, we have the onboarding screen.",
+    "start": 1056.16,
+    "duration": 5.24
+  },
+  {
+    "text": "A lot of people confuse onboarding and",
+    "start": 1059.4,
+    "duration": 4.52
+  },
+  {
+    "text": "the actual purpose of it. I think a lot",
+    "start": 1061.4,
+    "duration": 4.48
+  },
+  {
+    "text": "of people think onboarding is for data",
+    "start": 1063.92,
+    "duration": 3.56
+  },
+  {
+    "text": "analytics",
+    "start": 1065.88,
+    "duration": 4.6
+  },
+  {
+    "text": "and that's like the the biggest purpose",
+    "start": 1067.48,
+    "duration": 4.16
+  },
+  {
+    "text": "of it.",
+    "start": 1070.48,
+    "duration": 3.52
+  },
+  {
+    "text": "I completely disagree. Obviously, it's",
+    "start": 1071.64,
+    "duration": 4
+  },
+  {
+    "text": "good for tailoring your plans and all",
+    "start": 1074,
+    "duration": 3.24
+  },
+  {
+    "text": "that stuff, but a lot of it is about",
+    "start": 1075.64,
+    "duration": 4.96
+  },
+  {
+    "text": "priming creators to increase conversion.",
+    "start": 1077.24,
+    "duration": 4.96
+  },
+  {
+    "text": "So, we will do a lot of like for",
+    "start": 1080.6,
+    "duration": 4.32
+  },
+  {
+    "text": "example, beauty goals, skin concerns so",
+    "start": 1082.2,
+    "duration": 5.12
+  },
+  {
+    "text": "that they think, you know, wow, I really",
+    "start": 1084.92,
+    "duration": 4.68
+  },
+  {
+    "text": "need this app, you know, and then we'll",
+    "start": 1087.32,
+    "duration": 4.28
+  },
+  {
+    "text": "tailor like a plan for them and",
+    "start": 1089.6,
+    "duration": 4.28
+  },
+  {
+    "text": "whatever. So, that will make them, you",
+    "start": 1091.6,
+    "duration": 3.6
+  },
+  {
+    "text": "know, want to use the app a little bit",
+    "start": 1093.88,
+    "duration": 2.64
+  },
+  {
+    "text": "more.",
+    "start": 1095.2,
+    "duration": 4.32
+  },
+  {
+    "text": "Afterwards, you will see, you know,",
+    "start": 1096.52,
+    "duration": 5.64
+  },
+  {
+    "text": "different scans that you can do and",
+    "start": 1099.52,
+    "duration": 5.16
+  },
+  {
+    "text": "after you choose it, you either pay or",
+    "start": 1102.16,
+    "duration": 5.48
+  },
+  {
+    "text": "you can refer friends. I don't know why",
+    "start": 1104.68,
+    "duration": 4.6
+  },
+  {
+    "text": "the code isn't showing up here, but",
+    "start": 1107.64,
+    "duration": 4.44
+  },
+  {
+    "text": "basically in order to view your results,",
+    "start": 1109.28,
+    "duration": 6.16
+  },
+  {
+    "text": "you can scan your face. Afterwards, we",
+    "start": 1112.08,
+    "duration": 5.12
+  },
+  {
+    "text": "hide everything",
+    "start": 1115.44,
+    "duration": 4.84
+  },
+  {
+    "text": "behind a paywall so we blur everything.",
+    "start": 1117.2,
+    "duration": 5.84
+  },
+  {
+    "text": "You can either do view results or invite",
+    "start": 1120.28,
+    "duration": 4.4
+  },
+  {
+    "text": "three friends.",
+    "start": 1123.04,
+    "duration": 3.4
+  },
+  {
+    "text": "If you click view results, then we",
+    "start": 1124.68,
+    "duration": 3.52
+  },
+  {
+    "text": "paywall you, but if you click invite",
+    "start": 1126.44,
+    "duration": 4
+  },
+  {
+    "text": "three friends, we'll bring you to this",
+    "start": 1128.2,
+    "duration": 4.72
+  },
+  {
+    "text": "like share your invite code and you can",
+    "start": 1130.44,
+    "duration": 4.92
+  },
+  {
+    "text": "redeem you can redeem it.",
+    "start": 1132.92,
+    "duration": 3.96
+  },
+  {
+    "text": "But basically, if you invite three",
+    "start": 1135.36,
+    "duration": 3.16
+  },
+  {
+    "text": "friends to unlock your results, you can",
+    "start": 1136.88,
+    "duration": 4.08
+  },
+  {
+    "text": "get it for free. You don't have to pay.",
+    "start": 1138.52,
+    "duration": 5.36
+  },
+  {
+    "text": "And obviously, for the target customers",
+    "start": 1140.96,
+    "duration": 5.56
+  },
+  {
+    "text": "for Glam Up, a lot of them are like",
+    "start": 1143.88,
+    "duration": 4.56
+  },
+  {
+    "text": "younger kids so anywhere between like,",
+    "start": 1146.52,
+    "duration": 5.16
+  },
+  {
+    "text": "you know, 13 to like 25 year olds.",
+    "start": 1148.44,
+    "duration": 5.2
+  },
+  {
+    "text": "And you know, they don't want to pay for",
+    "start": 1151.68,
+    "duration": 4.4
+  },
+  {
+    "text": "the app, so they would copy and paste",
+    "start": 1153.64,
+    "duration": 4.12
+  },
+  {
+    "text": "this code and share it with their",
+    "start": 1156.08,
+    "duration": 3.88
+  },
+  {
+    "text": "friends. But, a lot of people they",
+    "start": 1157.76,
+    "duration": 4.36
+  },
+  {
+    "text": "actually share it on TikTok, which is",
+    "start": 1159.96,
+    "duration": 4.08
+  },
+  {
+    "text": "why you will see, you know, the entire",
+    "start": 1162.12,
+    "duration": 4.24
+  },
+  {
+    "text": "comment section with the referral codes.",
+    "start": 1164.04,
+    "duration": 4.04
+  },
+  {
+    "text": "Um, and when we do the copy and paste,",
+    "start": 1166.36,
+    "duration": 3.92
+  },
+  {
+    "text": "we don't just give them the code.",
+    "start": 1168.08,
+    "duration": 4.72
+  },
+  {
+    "text": "We give them a template that has Glam Up",
+    "start": 1170.28,
+    "duration": 4.88
+  },
+  {
+    "text": "inside. So, it will be download Glam Up",
+    "start": 1172.8,
+    "duration": 4.88
+  },
+  {
+    "text": "and use my referral code. Um, so that",
+    "start": 1175.16,
+    "duration": 5.68
+  },
+  {
+    "text": "Glam Up, that keyword is ranking pretty",
+    "start": 1177.68,
+    "duration": 5.48
+  },
+  {
+    "text": "high on TikTok. Um, so whenever people",
+    "start": 1180.84,
+    "duration": 4.84
+  },
+  {
+    "text": "search Glam Up, our our app pops up as",
+    "start": 1183.16,
+    "duration": 3
+  },
+  {
+    "text": "well.",
+    "start": 1185.68,
+    "duration": 2.28
+  },
+  {
+    "text": ">> Wow, that's insane. I didn't even think",
+    "start": 1186.16,
+    "duration": 3.92
+  },
+  {
+    "text": "about that. Like, I",
+    "start": 1187.96,
+    "duration": 3.56
+  },
+  {
+    "text": "like we're Yeah, you have all these",
+    "start": 1190.08,
+    "duration": 3.72
+  },
+  {
+    "text": "users like commenting",
+    "start": 1191.52,
+    "duration": 4.32
+  },
+  {
+    "text": "uh, you know, use my code. And of",
+    "start": 1193.8,
+    "duration": 4.04
+  },
+  {
+    "text": "course, that'll boost your videos. But,",
+    "start": 1195.84,
+    "duration": 4.76
+  },
+  {
+    "text": "then it also like gets your keyword to",
+    "start": 1197.84,
+    "duration": 4.92
+  },
+  {
+    "text": "to rank. So, So, like when you tap the",
+    "start": 1200.6,
+    "duration": 4.48
+  },
+  {
+    "text": "search bar on on TikTok, you see all",
+    "start": 1202.76,
+    "duration": 4.76
+  },
+  {
+    "text": "these like suggested keywords. Did you",
+    "start": 1205.08,
+    "duration": 4.04
+  },
+  {
+    "text": "Do you feel like you",
+    "start": 1207.52,
+    "duration": 3.6
+  },
+  {
+    "text": "showed up in those",
+    "start": 1209.12,
+    "duration": 3.12
+  },
+  {
+    "text": "in those trending",
+    "start": 1211.12,
+    "duration": 2.56
+  },
+  {
+    "text": ">> If you search Glam Up right now, it's",
+    "start": 1212.24,
+    "duration": 3.76
+  },
+  {
+    "text": "all our apps. And this is like a random",
+    "start": 1213.68,
+    "duration": 3.8
+  },
+  {
+    "text": "account I'm using right now.",
+    "start": 1216,
+    "duration": 3.68
+  },
+  {
+    "text": ">> I see. Oh, so you So, you're kind of",
+    "start": 1217.48,
+    "duration": 3.8
+  },
+  {
+    "text": "doing it for",
+    "start": 1219.68,
+    "duration": 3.92
+  },
+  {
+    "text": "um, like branded keyword search. So,",
+    "start": 1221.28,
+    "duration": 4.44
+  },
+  {
+    "text": "like if if people are searching for your",
+    "start": 1223.6,
+    "duration": 4.08
+  },
+  {
+    "text": "actual name of your app, all the people",
+    "start": 1225.72,
+    "duration": 3.64
+  },
+  {
+    "text": "that commented on these videos, like",
+    "start": 1227.68,
+    "duration": 3.76
+  },
+  {
+    "text": "those videos will rank at the top.",
+    "start": 1229.36,
+    "duration": 3.88
+  },
+  {
+    "text": ">> But, obviously, I feel like Glam Up is",
+    "start": 1231.44,
+    "duration": 4.96
+  },
+  {
+    "text": "also like Glam Up look, like it's a",
+    "start": 1233.24,
+    "duration": 4.96
+  },
+  {
+    "text": "it's a hot phrase even for people not",
+    "start": 1236.4,
+    "duration": 2.52
+  },
+  {
+    "text": "using Glam Up.",
+    "start": 1238.2,
+    "duration": 1.72
+  },
+  {
+    "text": ">> Right. Right.",
+    "start": 1238.92,
+    "duration": 2.48
+  },
+  {
+    "text": ">> You know, that also helped. But, like",
+    "start": 1239.92,
+    "duration": 4.36
+  },
+  {
+    "text": "that's kind of like a hindsight bias.",
+    "start": 1241.4,
+    "duration": 5.72
+  },
+  {
+    "text": ">> So, it seems like most people ended up",
+    "start": 1244.28,
+    "duration": 4.64
+  },
+  {
+    "text": "trying to get the three referrals",
+    "start": 1247.12,
+    "duration": 4.44
+  },
+  {
+    "text": "instead of paying. Do you feel like that",
+    "start": 1248.92,
+    "duration": 4.28
+  },
+  {
+    "text": "hurt your conversion rate? Obviously, it",
+    "start": 1251.56,
+    "duration": 3.48
+  },
+  {
+    "text": "makes up for it a lot because you're",
+    "start": 1253.2,
+    "duration": 4.56
+  },
+  {
+    "text": "getting tons of people like sharing and",
+    "start": 1255.04,
+    "duration": 4.56
+  },
+  {
+    "text": "you get the viral K factor loop. But,",
+    "start": 1257.76,
+    "duration": 3.24
+  },
+  {
+    "text": "you did hit a lot of revenue. You got",
+    "start": 1259.6,
+    "duration": 3.84
+  },
+  {
+    "text": "like more than $600,000 total on this",
+    "start": 1261,
+    "duration": 4.48
+  },
+  {
+    "text": "app. So, do do you have an idea of your",
+    "start": 1263.44,
+    "duration": 3.24
+  },
+  {
+    "text": "conversion rates?",
+    "start": 1265.48,
+    "duration": 2.96
+  },
+  {
+    "text": ">> Um, our conversion rate during that time",
+    "start": 1266.68,
+    "duration": 3.68
+  },
+  {
+    "text": "is low. I I don't think this is the best",
+    "start": 1268.44,
+    "duration": 3.68
+  },
+  {
+    "text": "app I've built, but this is the first",
+    "start": 1270.36,
+    "duration": 3.16
+  },
+  {
+    "text": "one. This is the first one I've built",
+    "start": 1272.12,
+    "duration": 3.72
+  },
+  {
+    "text": "and and I'm like happy about it.",
+    "start": 1273.52,
+    "duration": 3.72
+  },
+  {
+    "text": "Conversion, I don't think it changed",
+    "start": 1275.84,
+    "duration": 4
+  },
+  {
+    "text": "much because in order to get three of",
+    "start": 1277.24,
+    "duration": 4.48
+  },
+  {
+    "text": "your friends to download the app, go",
+    "start": 1279.84,
+    "duration": 3.36
+  },
+  {
+    "text": "through the welcoming and onboarding",
+    "start": 1281.72,
+    "duration": 4.48
+  },
+  {
+    "text": "pages, and then to do your referral",
+    "start": 1283.2,
+    "duration": 6.16
+  },
+  {
+    "text": "code, that to be honest, takes a long",
+    "start": 1286.2,
+    "duration": 6.24
+  },
+  {
+    "text": "time. Even for me to convince, you know,",
+    "start": 1289.36,
+    "duration": 6.2
+  },
+  {
+    "text": "one of my friends to do it in school or",
+    "start": 1292.44,
+    "duration": 4.8
+  },
+  {
+    "text": "like, you know, if I'm just calling them",
+    "start": 1295.56,
+    "duration": 3.96
+  },
+  {
+    "text": "for them to do it, you you still get",
+    "start": 1297.24,
+    "duration": 4.2
+  },
+  {
+    "text": "impatient with it. So, a lot of the",
+    "start": 1299.52,
+    "duration": 4.44
+  },
+  {
+    "text": "people that ended up sharing the code",
+    "start": 1301.44,
+    "duration": 5.16
+  },
+  {
+    "text": "actually also ended up converting.",
+    "start": 1303.96,
+    "duration": 4.68
+  },
+  {
+    "text": ">> So, you're getting the virality without",
+    "start": 1306.6,
+    "duration": 4.28
+  },
+  {
+    "text": "sacrificing too much conversion rate cuz",
+    "start": 1308.64,
+    "duration": 4.44
+  },
+  {
+    "text": "people just like it it is kind of hard",
+    "start": 1310.88,
+    "duration": 4.88
+  },
+  {
+    "text": "to get someone to download an app and",
+    "start": 1313.08,
+    "duration": 5.04
+  },
+  {
+    "text": "use your code. Did you give any benefit",
+    "start": 1315.76,
+    "duration": 4.8
+  },
+  {
+    "text": "to the receiver of the code or are they",
+    "start": 1318.12,
+    "duration": 4.52
+  },
+  {
+    "text": "just inputting the code because their",
+    "start": 1320.56,
+    "duration": 3.08
+  },
+  {
+    "text": "friend sent it?",
+    "start": 1322.64,
+    "duration": 3.04
+  },
+  {
+    "text": ">> Because their friend sent it. And for",
+    "start": 1323.64,
+    "duration": 3
+  },
+  {
+    "text": "like",
+    "start": 1325.68,
+    "duration": 2.96
+  },
+  {
+    "text": "the friend who wants to use it for free,",
+    "start": 1326.64,
+    "duration": 4.16
+  },
+  {
+    "text": "they have to, you know, share their code",
+    "start": 1328.64,
+    "duration": 4.24
+  },
+  {
+    "text": "with like three other people. So.",
+    "start": 1330.8,
+    "duration": 4.48
+  },
+  {
+    "text": ">> And then okay, then what was your um",
+    "start": 1332.88,
+    "duration": 4.4
+  },
+  {
+    "text": "pricing? In the playbook, you said like",
+    "start": 1335.28,
+    "duration": 3.84
+  },
+  {
+    "text": "$3 a week and then you I think you",
+    "start": 1337.28,
+    "duration": 4.12
+  },
+  {
+    "text": "increased it like $9 a week. I assume",
+    "start": 1339.12,
+    "duration": 4.04
+  },
+  {
+    "text": "you had an annual plan as well.",
+    "start": 1341.4,
+    "duration": 4.32
+  },
+  {
+    "text": ">> I don't think we had an annual plan. I",
+    "start": 1343.16,
+    "duration": 5.24
+  },
+  {
+    "text": "think it was only weekly and monthly.",
+    "start": 1345.72,
+    "duration": 4.52
+  },
+  {
+    "text": ">> Oh, I see. Okay, weekly and monthly. And",
+    "start": 1348.4,
+    "duration": 2.72
+  },
+  {
+    "text": "then",
+    "start": 1350.24,
+    "duration": 2.68
+  },
+  {
+    "text": "it yeah, it's very it's a very like low",
+    "start": 1351.12,
+    "duration": 4.52
+  },
+  {
+    "text": "price point, $3 a week and then $9 a",
+    "start": 1352.92,
+    "duration": 4.4
+  },
+  {
+    "text": "week. Yeah, one of the things that stuck",
+    "start": 1355.64,
+    "duration": 5.08
+  },
+  {
+    "text": "out in the in the playbook doc was like",
+    "start": 1357.32,
+    "duration": 5.32
+  },
+  {
+    "text": "when you raised your price from three to",
+    "start": 1360.72,
+    "duration": 4.44
+  },
+  {
+    "text": "nine, like you tripled your price, it",
+    "start": 1362.64,
+    "duration": 4.32
+  },
+  {
+    "text": "somehow increased your conversion rate.",
+    "start": 1365.16,
+    "duration": 3.32
+  },
+  {
+    "text": "Like how does that work?",
+    "start": 1366.96,
+    "duration": 3.48
+  },
+  {
+    "text": ">> I have no idea, but you know what's",
+    "start": 1368.48,
+    "duration": 4.48
+  },
+  {
+    "text": "something really crazy? The new app that",
+    "start": 1370.44,
+    "duration": 4.2
+  },
+  {
+    "text": "I built that I launched three months",
+    "start": 1372.96,
+    "duration": 4.76
+  },
+  {
+    "text": "ago, we just raised the pricing by 20%",
+    "start": 1374.64,
+    "duration": 5.36
+  },
+  {
+    "text": "and the conversion also increased. And I",
+    "start": 1377.72,
+    "duration": 5
+  },
+  {
+    "text": "I it's because it depends on the demand.",
+    "start": 1380,
+    "duration": 5.16
+  },
+  {
+    "text": "Maybe like I'm like I'm kind of just",
+    "start": 1382.72,
+    "duration": 3.88
+  },
+  {
+    "text": "like talking out of my ass right now,",
+    "start": 1385.16,
+    "duration": 3.48
+  },
+  {
+    "text": "but like I feel like when you find an",
+    "start": 1386.6,
+    "duration": 3.52
+  },
+  {
+    "text": "app that you really want to use, your",
+    "start": 1388.64,
+    "duration": 4.76
+  },
+  {
+    "text": "demand for it is relatively inelastic.",
+    "start": 1390.12,
+    "duration": 7.44
+  },
+  {
+    "text": "Seeing that like maybe seeing the price",
+    "start": 1393.4,
+    "duration": 7.6
+  },
+  {
+    "text": "higher will bring the perceived value of",
+    "start": 1397.56,
+    "duration": 5.32
+  },
+  {
+    "text": "the app more cuz maybe they're like oh",
+    "start": 1401,
+    "duration": 3.92
+  },
+  {
+    "text": "this is so cheap there's no way you know",
+    "start": 1402.88,
+    "duration": 4.04
+  },
+  {
+    "text": "they can do this or do that. Maybe",
+    "start": 1404.92,
+    "duration": 3.96
+  },
+  {
+    "text": "that's one way of thinking about it, but",
+    "start": 1406.92,
+    "duration": 5.24
+  },
+  {
+    "text": "I see it not just from Glam up. I see it",
+    "start": 1408.88,
+    "duration": 5.28
+  },
+  {
+    "text": "from like the the current app that I'm",
+    "start": 1412.16,
+    "duration": 3.04
+  },
+  {
+    "text": "building as well.",
+    "start": 1414.16,
+    "duration": 2.72
+  },
+  {
+    "text": ">> So let me show you this. A lot of app",
+    "start": 1415.2,
+    "duration": 3.32
+  },
+  {
+    "text": "founders I talked to have a feeling",
+    "start": 1416.88,
+    "duration": 3.96
+  },
+  {
+    "text": "their app has viral potential, but don't",
+    "start": 1418.52,
+    "duration": 3.6
+  },
+  {
+    "text": "want to be the person brain rot",
+    "start": 1420.84,
+    "duration": 2.84
+  },
+  {
+    "text": "scrolling an hour a day hunting for",
+    "start": 1422.12,
+    "duration": 4.04
+  },
+  {
+    "text": "formats or worse burning thousands on",
+    "start": 1423.68,
+    "duration": 4.52
+  },
+  {
+    "text": "creators shooting videos that just flop.",
+    "start": 1426.16,
+    "duration": 3.6
+  },
+  {
+    "text": "Recently I've been telling every founder",
+    "start": 1428.2,
+    "duration": 4.16
+  },
+  {
+    "text": "I meet about Spy Talk. It's basically an",
+    "start": 1429.76,
+    "duration": 4.56
+  },
+  {
+    "text": "AI TikTok viral marketer that I've seen",
+    "start": 1432.36,
+    "duration": 3.96
+  },
+  {
+    "text": "a lot of top app growth teams using. You",
+    "start": 1434.32,
+    "duration": 3.72
+  },
+  {
+    "text": "just paste a link to your app and this",
+    "start": 1436.32,
+    "duration": 3.6
+  },
+  {
+    "text": "agent scrolls hundreds of thousands of",
+    "start": 1438.04,
+    "duration": 3.72
+  },
+  {
+    "text": "TikToks for you, finds the outlier",
+    "start": 1439.92,
+    "duration": 3.68
+  },
+  {
+    "text": "videos from competitors who've already",
+    "start": 1441.76,
+    "duration": 3.04
+  },
+  {
+    "text": "cracked the best formats that are",
+    "start": 1443.6,
+    "duration": 2.88
+  },
+  {
+    "text": "driving installs in the niche of your",
+    "start": 1444.8,
+    "duration": 3.44
+  },
+  {
+    "text": "app and then it remixes the hooks, the",
+    "start": 1446.48,
+    "duration": 3.52
+  },
+  {
+    "text": "angles, and then it makes playbooks so",
+    "start": 1448.24,
+    "duration": 3.72
+  },
+  {
+    "text": "you can pretty much copy paste virality.",
+    "start": 1450,
+    "duration": 3.64
+  },
+  {
+    "text": "And then it alerts you when it detects",
+    "start": 1451.96,
+    "duration": 3.4
+  },
+  {
+    "text": "new breakout formats that would also",
+    "start": 1453.64,
+    "duration": 3.04
+  },
+  {
+    "text": "work for your app. This is the only",
+    "start": 1455.36,
+    "duration": 3.52
+  },
+  {
+    "text": "growth tool I 100% vouch for on this",
+    "start": 1456.68,
+    "duration": 4.4
+  },
+  {
+    "text": "channel because there's a ton of gen AI",
+    "start": 1458.88,
+    "duration": 3.68
+  },
+  {
+    "text": "content tools out there, but none of",
+    "start": 1461.08,
+    "duration": 3.52
+  },
+  {
+    "text": "them tell you what to make. Spy Talk",
+    "start": 1462.56,
+    "duration": 3.48
+  },
+  {
+    "text": "makes sure you're never in the dark",
+    "start": 1464.6,
+    "duration": 3.08
+  },
+  {
+    "text": "about what's actually working now. I'll",
+    "start": 1466.04,
+    "duration": 3.48
+  },
+  {
+    "text": "put the link in the description. And do",
+    "start": 1467.68,
+    "duration": 3.88
+  },
+  {
+    "text": "you do that price increase for the",
+    "start": 1469.52,
+    "duration": 3.88
+  },
+  {
+    "text": "weekly as well for your new app?",
+    "start": 1471.56,
+    "duration": 4.12
+  },
+  {
+    "text": ">> Well, for my new app we are actually",
+    "start": 1473.4,
+    "duration": 4.32
+  },
+  {
+    "text": "doing only monthly and annual.",
+    "start": 1475.68,
+    "duration": 4.88
+  },
+  {
+    "text": ">> And you increased both by 20%?",
+    "start": 1477.72,
+    "duration": 5.48
+  },
+  {
+    "text": ">> Increased both by 20% and the conversion",
+    "start": 1480.56,
+    "duration": 4.48
+  },
+  {
+    "text": "went up. Our revenue per download, you",
+    "start": 1483.2,
+    "duration": 3.76
+  },
+  {
+    "text": "know, obviously also went up. So we are",
+    "start": 1485.04,
+    "duration": 4.72
+  },
+  {
+    "text": "actually testing another 20% increase",
+    "start": 1486.96,
+    "duration": 3.2
+  },
+  {
+    "text": "now.",
+    "start": 1489.76,
+    "duration": 1.72
+  },
+  {
+    "text": ">> And then you had a second paywall,",
+    "start": 1490.16,
+    "duration": 3.12
+  },
+  {
+    "text": "right? Like there there's the first",
+    "start": 1491.48,
+    "duration": 3.36
+  },
+  {
+    "text": "paywall that has the referrals and then",
+    "start": 1493.28,
+    "duration": 3.36
+  },
+  {
+    "text": "did Do a second paywall on Glam up?",
+    "start": 1494.84,
+    "duration": 4.4
+  },
+  {
+    "text": ">> Um yeah, so we have the the hard paywall",
+    "start": 1496.64,
+    "duration": 4.24
+  },
+  {
+    "text": "and then we have the discounted paywall.",
+    "start": 1499.24,
+    "duration": 3.36
+  },
+  {
+    "text": "So, once we show them the hard paywall,",
+    "start": 1500.88,
+    "duration": 3.84
+  },
+  {
+    "text": "they click out, we immediately hit them",
+    "start": 1502.6,
+    "duration": 5.2
+  },
+  {
+    "text": "with a 50% discounted paywall. So, we",
+    "start": 1504.72,
+    "duration": 6.36
+  },
+  {
+    "text": "have the usual paywall right here. You",
+    "start": 1507.8,
+    "duration": 6.88
+  },
+  {
+    "text": "know, it starts from $8.99, $10.99,",
+    "start": 1511.08,
+    "duration": 7.72
+  },
+  {
+    "text": "$12.99. Uh, we only have weekly for for",
+    "start": 1514.68,
+    "duration": 6.76
+  },
+  {
+    "text": "Glamour. And then we have the discounted",
+    "start": 1518.8,
+    "duration": 4.52
+  },
+  {
+    "text": "one. So, once they click out, we hit",
+    "start": 1521.44,
+    "duration": 4.32
+  },
+  {
+    "text": "them with the 50% discount.",
+    "start": 1523.32,
+    "duration": 5.2
+  },
+  {
+    "text": "This one is, you know, $4.49,",
+    "start": 1525.76,
+    "duration": 5.36
+  },
+  {
+    "text": "$5.49, $6.49.",
+    "start": 1528.52,
+    "duration": 5.24
+  },
+  {
+    "text": "Then we have an upgrade paywall where,",
+    "start": 1531.12,
+    "duration": 4.92
+  },
+  {
+    "text": "you know, you can add to like a higher",
+    "start": 1533.76,
+    "duration": 3
+  },
+  {
+    "text": "tier.",
+    "start": 1536.04,
+    "duration": 2.72
+  },
+  {
+    "text": ">> So, it's like kind of usage triggered.",
+    "start": 1536.76,
+    "duration": 5.32
+  },
+  {
+    "text": "So, they get they do scans and then uh,",
+    "start": 1538.76,
+    "duration": 5.16
+  },
+  {
+    "text": "they try to do another scan and then you",
+    "start": 1542.08,
+    "duration": 3.64
+  },
+  {
+    "text": "that requires a a higher plan.",
+    "start": 1543.92,
+    "duration": 3.52
+  },
+  {
+    "text": ">> Yeah. So, let's say like if you run out",
+    "start": 1545.72,
+    "duration": 4.04
+  },
+  {
+    "text": "of scans weekly, right? Cuz like we have",
+    "start": 1547.44,
+    "duration": 4.56
+  },
+  {
+    "text": "the two scans weekly, four scans weekly,",
+    "start": 1549.76,
+    "duration": 5.24
+  },
+  {
+    "text": "whatever. You want to scan more. Um, and",
+    "start": 1552,
+    "duration": 4.68
+  },
+  {
+    "text": "the reason why you scan more why you",
+    "start": 1555,
+    "duration": 4.36
+  },
+  {
+    "text": "want to scan more is because we have",
+    "start": 1556.68,
+    "duration": 4.08
+  },
+  {
+    "text": "different scans, right? We have the",
+    "start": 1559.36,
+    "duration": 3.52
+  },
+  {
+    "text": "color analysis, we have glow up guide,",
+    "start": 1560.76,
+    "duration": 4.48
+  },
+  {
+    "text": "and we have I believe another scan as",
+    "start": 1562.88,
+    "duration": 4.56
+  },
+  {
+    "text": "well. And within the glow up guide, we",
+    "start": 1565.24,
+    "duration": 4.8
+  },
+  {
+    "text": "have six different makeup guides that",
+    "start": 1567.44,
+    "duration": 5.64
+  },
+  {
+    "text": "you can scan your face on. So, there's a",
+    "start": 1570.04,
+    "duration": 6.32
+  },
+  {
+    "text": "lot of scans that you can try out. Um,",
+    "start": 1573.08,
+    "duration": 5.48
+  },
+  {
+    "text": "but you know, we we do kind of like a",
+    "start": 1576.36,
+    "duration": 4.96
+  },
+  {
+    "text": "limited scan per week. So, that triggers",
+    "start": 1578.56,
+    "duration": 5.2
+  },
+  {
+    "text": "them to want to do the upgrade paywall.",
+    "start": 1581.32,
+    "duration": 4.2
+  },
+  {
+    "text": ">> Another thing that I noticed is like the",
+    "start": 1583.76,
+    "duration": 4.12
+  },
+  {
+    "text": "results were blurred. Was that ever a",
+    "start": 1585.52,
+    "duration": 4.32
+  },
+  {
+    "text": "decision whether to blur the results or",
+    "start": 1587.88,
+    "duration": 4.12
+  },
+  {
+    "text": "not? Because like the scan itself is the",
+    "start": 1589.84,
+    "duration": 5.6
+  },
+  {
+    "text": "value and you want people to pay to see",
+    "start": 1592,
+    "duration": 4.52
+  },
+  {
+    "text": "the results.",
+    "start": 1595.44,
+    "duration": 3.04
+  },
+  {
+    "text": ">> Yeah, that's a great question. The scan",
+    "start": 1596.52,
+    "duration": 4.52
+  },
+  {
+    "text": "is completely fake. It's a fake scan.",
+    "start": 1598.48,
+    "duration": 5.36
+  },
+  {
+    "text": "So, we don't actually get the results at",
+    "start": 1601.04,
+    "duration": 6
+  },
+  {
+    "text": "all. We only run the API after they pay",
+    "start": 1603.84,
+    "duration": 4.56
+  },
+  {
+    "text": "because we don't want to waste, you",
+    "start": 1607.04,
+    "duration": 2.72
+  },
+  {
+    "text": "know, the API cost.",
+    "start": 1608.4,
+    "duration": 3.12
+  },
+  {
+    "text": ">> So, yeah, the the referral system is",
+    "start": 1609.76,
+    "duration": 3.76
+  },
+  {
+    "text": "very um, it's very interesting. Did you",
+    "start": 1611.52,
+    "duration": 4.76
+  },
+  {
+    "text": "get inspiration from anywhere for that?",
+    "start": 1613.52,
+    "duration": 4.28
+  },
+  {
+    "text": "Cuz I feel like a lot of people think of",
+    "start": 1616.28,
+    "duration": 4.12
+  },
+  {
+    "text": "referral systems as K factor, where",
+    "start": 1617.8,
+    "duration": 5.52
+  },
+  {
+    "text": "they're trying to get multiple downloads",
+    "start": 1620.4,
+    "duration": 5.12
+  },
+  {
+    "text": "from each download that they get. But it",
+    "start": 1623.32,
+    "duration": 4.4
+  },
+  {
+    "text": "seems like the main benefit was it just",
+    "start": 1625.52,
+    "duration": 4.2
+  },
+  {
+    "text": "made your contest so much more viral.",
+    "start": 1627.72,
+    "duration": 4.48
+  },
+  {
+    "text": "Have you seen anyone else do that in the",
+    "start": 1629.72,
+    "duration": 3.28
+  },
+  {
+    "text": "app space?",
+    "start": 1632.2,
+    "duration": 2.72
+  },
+  {
+    "text": ">> I think a lot of apps actually did it.",
+    "start": 1633,
+    "duration": 3.8
+  },
+  {
+    "text": "Or at least when I was building it, I",
+    "start": 1634.92,
+    "duration": 4.6
+  },
+  {
+    "text": "was seeing some apps do that.",
+    "start": 1636.8,
+    "duration": 5.36
+  },
+  {
+    "text": "Uh, we did that for for my app Sprout",
+    "start": 1639.52,
+    "duration": 4.24
+  },
+  {
+    "text": "and my current app as well.",
+    "start": 1642.16,
+    "duration": 3.2
+  },
+  {
+    "text": ">> So it does seem like somewhat",
+    "start": 1643.76,
+    "duration": 3.32
+  },
+  {
+    "text": "repeatable. Like you've done it, you did",
+    "start": 1645.36,
+    "duration": 3.88
+  },
+  {
+    "text": "it with, um, Glam Up and then you did it",
+    "start": 1647.08,
+    "duration": 4.32
+  },
+  {
+    "text": "again with Sprout. Are you doing the",
+    "start": 1649.24,
+    "duration": 4.56
+  },
+  {
+    "text": "same mechanic for your new apps?",
+    "start": 1651.4,
+    "duration": 5.24
+  },
+  {
+    "text": ">> Yeah. Also, some some people have found",
+    "start": 1653.8,
+    "duration": 4.52
+  },
+  {
+    "text": "my Twitter and and read the play blog",
+    "start": 1656.64,
+    "duration": 3.44
+  },
+  {
+    "text": "and a lot of them actually reached out",
+    "start": 1658.32,
+    "duration": 4.6
+  },
+  {
+    "text": "about the rating thing, the rating page.",
+    "start": 1660.08,
+    "duration": 4.2
+  },
+  {
+    "text": "I think it's pretty common, a lot of",
+    "start": 1662.92,
+    "duration": 3.6
+  },
+  {
+    "text": "apps do it now, but they were telling me",
+    "start": 1664.28,
+    "duration": 3.84
+  },
+  {
+    "text": "that it helped them a lot when it comes",
+    "start": 1666.52,
+    "duration": 3.32
+  },
+  {
+    "text": "to the ratings on the App Store.",
+    "start": 1668.12,
+    "duration": 3.2
+  },
+  {
+    "text": ">> The rating, can you show that screen,",
+    "start": 1669.84,
+    "duration": 1.88
+  },
+  {
+    "text": "too?",
+    "start": 1671.32,
+    "duration": 3.2
+  },
+  {
+    "text": ">> Onboarding, we ask a bunch of questions,",
+    "start": 1671.72,
+    "duration": 5.16
+  },
+  {
+    "text": "and then we do leave a rating,",
+    "start": 1674.52,
+    "duration": 5.12
+  },
+  {
+    "text": "um, and then we don't have the I rate",
+    "start": 1676.88,
+    "duration": 5.96
+  },
+  {
+    "text": "it. Like, that does not exist when you",
+    "start": 1679.64,
+    "duration": 5.44
+  },
+  {
+    "text": "click leave a rating, the pop-up will",
+    "start": 1682.84,
+    "duration": 5.72
+  },
+  {
+    "text": "show up for you to do that. And then you",
+    "start": 1685.08,
+    "duration": 5.76
+  },
+  {
+    "text": "can, you know, either rate it or cancel",
+    "start": 1688.56,
+    "duration": 4.6
+  },
+  {
+    "text": "it, but in order to move on to the next",
+    "start": 1690.84,
+    "duration": 3.88
+  },
+  {
+    "text": "page, uh,",
+    "start": 1693.16,
+    "duration": 3.52
+  },
+  {
+    "text": "like, something called I rate it will",
+    "start": 1694.72,
+    "duration": 3.88
+  },
+  {
+    "text": "pop up and you have to click that in",
+    "start": 1696.68,
+    "duration": 4.32
+  },
+  {
+    "text": "order to to move on. So we're kind of",
+    "start": 1698.6,
+    "duration": 3.96
+  },
+  {
+    "text": "forcing people to lie if they didn't",
+    "start": 1701,
+    "duration": 2.08
+  },
+  {
+    "text": "rate.",
+    "start": 1702.56,
+    "duration": 3.28
+  },
+  {
+    "text": ">> That is insane. That's crazy. So",
+    "start": 1703.08,
+    "duration": 4.88
+  },
+  {
+    "text": "So you're not you're not forcing people",
+    "start": 1705.84,
+    "duration": 5.8
+  },
+  {
+    "text": "to rate you five stars, but you are",
+    "start": 1707.96,
+    "duration": 7.12
+  },
+  {
+    "text": "making the call to action copywriting",
+    "start": 1711.64,
+    "duration": 6
+  },
+  {
+    "text": "like, \"Yes, I rated it.\" And you people",
+    "start": 1715.08,
+    "duration": 4.32
+  },
+  {
+    "text": "are going to be kind of uncomfortable",
+    "start": 1717.64,
+    "duration": 3.76
+  },
+  {
+    "text": "tapping a button that says like, \"Yes, I",
+    "start": 1719.4,
+    "duration": 4.12
+  },
+  {
+    "text": "rated it.\" when they didn't. So So if",
+    "start": 1721.4,
+    "duration": 4.56
+  },
+  {
+    "text": "they cancel, if if the if the star",
+    "start": 1723.52,
+    "duration": 4.64
+  },
+  {
+    "text": "rating pop-up comes up and then they",
+    "start": 1725.96,
+    "duration": 4.96
+  },
+  {
+    "text": "decide to not do the rating, does it",
+    "start": 1728.16,
+    "duration": 5.04
+  },
+  {
+    "text": "basically just stay on the screen and",
+    "start": 1730.92,
+    "duration": 4.64
+  },
+  {
+    "text": "then they can trigger the the rating",
+    "start": 1733.2,
+    "duration": 4.52
+  },
+  {
+    "text": "again by clicking the the big pink",
+    "start": 1735.56,
+    "duration": 2.64
+  },
+  {
+    "text": "button?",
+    "start": 1737.72,
+    "duration": 2.08
+  },
+  {
+    "text": ">> I'm not sure. I don't I don't think so,",
+    "start": 1738.2,
+    "duration": 4.08
+  },
+  {
+    "text": "though. I don't think it pops up. Yeah.",
+    "start": 1739.8,
+    "duration": 4.56
+  },
+  {
+    "text": "Uh but like I get your concern. My like",
+    "start": 1742.28,
+    "duration": 3.76
+  },
+  {
+    "text": "my current co-founder, he's actually",
+    "start": 1744.36,
+    "duration": 3.88
+  },
+  {
+    "text": "uncomfortable with it. So like for my",
+    "start": 1746.04,
+    "duration": 3.88
+  },
+  {
+    "text": "newest app right now, we don't have",
+    "start": 1748.24,
+    "duration": 3.44
+  },
+  {
+    "text": "this. Like we just have leave a rating",
+    "start": 1749.92,
+    "duration": 4.2
+  },
+  {
+    "text": "and then you can just continue. Uh",
+    "start": 1751.68,
+    "duration": 4.44
+  },
+  {
+    "text": "but it still works, you know. I think",
+    "start": 1754.12,
+    "duration": 3.84
+  },
+  {
+    "text": "it's it's the fact that you put it out",
+    "start": 1756.12,
+    "duration": 4.52
+  },
+  {
+    "text": "there, call call to action for them to",
+    "start": 1757.96,
+    "duration": 4.88
+  },
+  {
+    "text": "rate and you know, you have a very",
+    "start": 1760.64,
+    "duration": 4.6
+  },
+  {
+    "text": "simple pop-up for them to to go up.",
+    "start": 1762.84,
+    "duration": 3.92
+  },
+  {
+    "text": ">> It's really No, it's really smart,",
+    "start": 1765.24,
+    "duration": 3.28
+  },
+  {
+    "text": "though. I mean, I feel like people don't",
+    "start": 1766.76,
+    "duration": 5.64
+  },
+  {
+    "text": "put this much thought into onboardings.",
+    "start": 1768.52,
+    "duration": 4.44
+  },
+  {
+    "text": "Um",
+    "start": 1772.4,
+    "duration": 2.64
+  },
+  {
+    "text": "like there's just so many like small",
+    "start": 1772.96,
+    "duration": 4.44
+  },
+  {
+    "text": "nuances in this whole like onboarding",
+    "start": 1775.04,
+    "duration": 4.56
+  },
+  {
+    "text": "paywall sequence that I think people",
+    "start": 1777.4,
+    "duration": 3.16
+  },
+  {
+    "text": "could learn a lot from.",
+    "start": 1779.6,
+    "duration": 2.56
+  },
+  {
+    "text": ">> Um same thing for, you know,",
+    "start": 1780.56,
+    "duration": 4
+  },
+  {
+    "text": "notification page as well. Um you can do",
+    "start": 1782.16,
+    "duration": 3.84
+  },
+  {
+    "text": "something very similar with it.",
+    "start": 1784.56,
+    "duration": 3.44
+  },
+  {
+    "text": ">> Let's go to the the marketing. So can",
+    "start": 1786,
+    "duration": 3.92
+  },
+  {
+    "text": "you show the stats again for the um I",
+    "start": 1788,
+    "duration": 3.48
+  },
+  {
+    "text": "guess the views cuz I think you got like",
+    "start": 1789.92,
+    "duration": 3.48
+  },
+  {
+    "text": "a crazy amount of views.",
+    "start": 1791.48,
+    "duration": 4.68
+  },
+  {
+    "text": ">> That's for Sprout. Um so I can I can",
+    "start": 1793.4,
+    "duration": 4.32
+  },
+  {
+    "text": "low-key just like transition into",
+    "start": 1796.16,
+    "duration": 3.64
+  },
+  {
+    "text": "Sprout. That's the same onboarding if",
+    "start": 1797.72,
+    "duration": 2.72
+  },
+  {
+    "text": "you want.",
+    "start": 1799.8,
+    "duration": 3.16
+  },
+  {
+    "text": ">> Um for Glam Up, did you have any like um",
+    "start": 1800.44,
+    "duration": 4.16
+  },
+  {
+    "text": "did you have like a a huge marketing",
+    "start": 1802.96,
+    "duration": 4.04
+  },
+  {
+    "text": "system or is the 100 creators you",
+    "start": 1804.6,
+    "duration": 4.48
+  },
+  {
+    "text": "started that with like uh Sprout?",
+    "start": 1807,
+    "duration": 4.44
+  },
+  {
+    "text": ">> with Sprout. Like the the really big",
+    "start": 1809.08,
+    "duration": 4.28
+  },
+  {
+    "text": "scaling ones, I I did it all with",
+    "start": 1811.44,
+    "duration": 5.76
+  },
+  {
+    "text": "Sprout. Yeah, but for for Glam Up, we we",
+    "start": 1813.36,
+    "duration": 6.32
+  },
+  {
+    "text": "also had a course. I don't even think I",
+    "start": 1817.2,
+    "duration": 4.6
+  },
+  {
+    "text": "can find that course anymore, but it's",
+    "start": 1819.68,
+    "duration": 4.48
+  },
+  {
+    "text": "like same thing like modules, video",
+    "start": 1821.8,
+    "duration": 5.04
+  },
+  {
+    "text": "tutorials, all that stuff. Um but",
+    "start": 1824.16,
+    "duration": 4.32
+  },
+  {
+    "text": "Sprout, we did it way better.",
+    "start": 1826.84,
+    "duration": 3.2
+  },
+  {
+    "text": ">> Let's anchor Sprout a little bit. So how",
+    "start": 1828.48,
+    "duration": 3.36
+  },
+  {
+    "text": "much how much money did Sprout make?",
+    "start": 1830.04,
+    "duration": 4.24
+  },
+  {
+    "text": ">> I was growing up for the first 8 months",
+    "start": 1831.84,
+    "duration": 5.84
+  },
+  {
+    "text": "and we did 250k MRR. So by October 2nd,",
+    "start": 1834.28,
+    "duration": 6.04
+  },
+  {
+    "text": "we were doing 250k MRR. I think now they",
+    "start": 1837.68,
+    "duration": 6.08
+  },
+  {
+    "text": "have steadily been growing at around 200",
+    "start": 1840.32,
+    "duration": 5.56
+  },
+  {
+    "text": "K MRR. Like during the time when I was",
+    "start": 1843.76,
+    "duration": 3.92
+  },
+  {
+    "text": "like growing it a lot cuz right now I'm",
+    "start": 1845.88,
+    "duration": 3.72
+  },
+  {
+    "text": "just an advisor, but when I was",
+    "start": 1847.68,
+    "duration": 4
+  },
+  {
+    "text": "handling, you know, all of the UGCs, we",
+    "start": 1849.6,
+    "duration": 4.48
+  },
+  {
+    "text": "were doing 100 million monthly views. I",
+    "start": 1851.68,
+    "duration": 3.52
+  },
+  {
+    "text": "just talked to,",
+    "start": 1854.08,
+    "duration": 3.2
+  },
+  {
+    "text": "you know, the Sprout team and they had a",
+    "start": 1855.2,
+    "duration": 4.52
+  },
+  {
+    "text": "crazy number. Last 7 days they did",
+    "start": 1857.28,
+    "duration": 3.36
+  },
+  {
+    "text": ">> Wow.",
+    "start": 1859.72,
+    "duration": 3.76
+  },
+  {
+    "text": ">> 400 million views. Yeah, so monthly I",
+    "start": 1860.64,
+    "duration": 5.88
+  },
+  {
+    "text": "think they're doing around 400 to 500",
+    "start": 1863.48,
+    "duration": 4.44
+  },
+  {
+    "text": "average monthly.",
+    "start": 1866.52,
+    "duration": 3.12
+  },
+  {
+    "text": ">> You're talking about YouTube Shorts.",
+    "start": 1867.92,
+    "duration": 3.84
+  },
+  {
+    "text": ">> Wow, that's insane. So you So yeah, so",
+    "start": 1869.64,
+    "duration": 3.84
+  },
+  {
+    "text": "you were While you were with them,",
+    "start": 1871.76,
+    "duration": 3.92
+  },
+  {
+    "text": "you're you're getting like 100 million",
+    "start": 1873.48,
+    "duration": 4.88
+  },
+  {
+    "text": "of you views per month. Recently they",
+    "start": 1875.68,
+    "duration": 4.76
+  },
+  {
+    "text": "they're now getting 400 million views in",
+    "start": 1878.36,
+    "duration": 5.12
+  },
+  {
+    "text": "just 1 week, which is crazy. But you",
+    "start": 1880.44,
+    "duration": 5.24
+  },
+  {
+    "text": "built the system that allowed this to",
+    "start": 1883.48,
+    "duration": 5.08
+  },
+  {
+    "text": "happen, right? Like it's 100 creators.",
+    "start": 1885.68,
+    "duration": 5.32
+  },
+  {
+    "text": ">> When when we were scaling a lot, I",
+    "start": 1888.56,
+    "duration": 5.84
+  },
+  {
+    "text": "remember we have maybe over 200 active",
+    "start": 1891,
+    "duration": 5.64
+  },
+  {
+    "text": "creators at the same time. But we've",
+    "start": 1894.4,
+    "duration": 3.84
+  },
+  {
+    "text": "already gone through, you know, probably",
+    "start": 1896.64,
+    "duration": 3.68
+  },
+  {
+    "text": "a thousand or more than that creators at",
+    "start": 1898.24,
+    "duration": 4.56
+  },
+  {
+    "text": "that point. And I I created this course",
+    "start": 1900.32,
+    "duration": 4.36
+  },
+  {
+    "text": "for them.",
+    "start": 1902.8,
+    "duration": 4.32
+  },
+  {
+    "text": "I do like consulting for some startups",
+    "start": 1904.68,
+    "duration": 4.72
+  },
+  {
+    "text": "as well. So like I will, you know, make",
+    "start": 1907.12,
+    "duration": 4.16
+  },
+  {
+    "text": "a course similar to those. But",
+    "start": 1909.4,
+    "duration": 5.08
+  },
+  {
+    "text": "basically, it's like a creator course.",
+    "start": 1911.28,
+    "duration": 5.52
+  },
+  {
+    "text": "We have onboarded, I would say over a",
+    "start": 1914.48,
+    "duration": 4.48
+  },
+  {
+    "text": "thousand creators onto this course",
+    "start": 1916.8,
+    "duration": 4.8
+  },
+  {
+    "text": "without any training whatsoever. And I",
+    "start": 1918.96,
+    "duration": 5.16
+  },
+  {
+    "text": "would say over 50% of the creators",
+    "start": 1921.6,
+    "duration": 4.44
+  },
+  {
+    "text": "finished this course with no previous",
+    "start": 1924.12,
+    "duration": 4.16
+  },
+  {
+    "text": "experiences. They go viral within the",
+    "start": 1926.04,
+    "duration": 4.12
+  },
+  {
+    "text": "first 2 weeks of starting a brand new",
+    "start": 1928.28,
+    "duration": 4.08
+  },
+  {
+    "text": "account with us. So, that's great. We",
+    "start": 1930.16,
+    "duration": 4.96
+  },
+  {
+    "text": "do, you know, we have a Typeform. We",
+    "start": 1932.36,
+    "duration": 4.84
+  },
+  {
+    "text": "link this to our CRM system. And then",
+    "start": 1935.12,
+    "duration": 3.84
+  },
+  {
+    "text": "afterwards, we have, you know, getting",
+    "start": 1937.2,
+    "duration": 3.52
+  },
+  {
+    "text": "started, warm-up playbook, creating",
+    "start": 1938.96,
+    "duration": 4.68
+  },
+  {
+    "text": "content, content bank example. I can go",
+    "start": 1940.72,
+    "duration": 5.84
+  },
+  {
+    "text": "into that more in detail later. And then",
+    "start": 1943.64,
+    "duration": 5
+  },
+  {
+    "text": "we have content policies, account",
+    "start": 1946.56,
+    "duration": 4.76
+  },
+  {
+    "text": "management, next steps, resources,",
+    "start": 1948.64,
+    "duration": 6
+  },
+  {
+    "text": "bonuses, all that stuff. An example of",
+    "start": 1951.32,
+    "duration": 6
+  },
+  {
+    "text": "the modules I created is it's just me",
+    "start": 1954.64,
+    "duration": 5.8
+  },
+  {
+    "text": "talking and I edit it in a I try to edit",
+    "start": 1957.32,
+    "duration": 5.56
+  },
+  {
+    "text": "it in a very engaging way for for",
+    "start": 1960.44,
+    "duration": 4.4
+  },
+  {
+    "text": "creators to learn and like show them",
+    "start": 1962.88,
+    "duration": 4.52
+  },
+  {
+    "text": "examples of what we mean by the content",
+    "start": 1964.84,
+    "duration": 5.2
+  },
+  {
+    "text": "bank, how to edit, how to introduce the",
+    "start": 1967.4,
+    "duration": 5.28
+  },
+  {
+    "text": "app in the video so that it can convert",
+    "start": 1970.04,
+    "duration": 6.52
+  },
+  {
+    "text": "better. Um and we always have a quiz at",
+    "start": 1972.68,
+    "duration": 5.4
+  },
+  {
+    "text": "the end of the module as well for all",
+    "start": 1976.56,
+    "duration": 4.12
+  },
+  {
+    "text": "the creators to take uh just to quality",
+    "start": 1978.08,
+    "duration": 4.44
+  },
+  {
+    "text": "check on the creators and make sure that",
+    "start": 1980.68,
+    "duration": 3.84
+  },
+  {
+    "text": "you know they're actually finishing the",
+    "start": 1982.52,
+    "duration": 2.84
+  },
+  {
+    "text": "the courses.",
+    "start": 1984.52,
+    "duration": 2.56
+  },
+  {
+    "text": ">> How many creators like this is very",
+    "start": 1985.36,
+    "duration": 4.2
+  },
+  {
+    "text": "thorough um and it's it's pretty it's",
+    "start": 1987.08,
+    "duration": 4.64
+  },
+  {
+    "text": "pretty cool that there's like within 2",
+    "start": 1989.56,
+    "duration": 4.48
+  },
+  {
+    "text": "weeks people are going viral just by",
+    "start": 1991.72,
+    "duration": 4.72
+  },
+  {
+    "text": "taking the course. Do you have an idea",
+    "start": 1994.04,
+    "duration": 4.8
+  },
+  {
+    "text": "of the funnel for that? Are most people",
+    "start": 1996.44,
+    "duration": 4.36
+  },
+  {
+    "text": "actually completing the whole course?",
+    "start": 1998.84,
+    "duration": 4.2
+  },
+  {
+    "text": ">> Yeah, most of them cuz we also interview",
+    "start": 2000.8,
+    "duration": 4.16
+  },
+  {
+    "text": "them. So like before we onboard them",
+    "start": 2003.04,
+    "duration": 5.12
+  },
+  {
+    "text": "onto you know our UGC system, we do",
+    "start": 2004.96,
+    "duration": 6.28
+  },
+  {
+    "text": "inbound and outbound uh on our creators",
+    "start": 2008.16,
+    "duration": 4.84
+  },
+  {
+    "text": "and then we always interview them",
+    "start": 2011.24,
+    "duration": 4.04
+  },
+  {
+    "text": "beforehand. It can be a basically like a",
+    "start": 2013,
+    "duration": 4.16
+  },
+  {
+    "text": "15-minute interview. We want to vibe",
+    "start": 2015.28,
+    "duration": 4.12
+  },
+  {
+    "text": "check them. We want to know if they can",
+    "start": 2017.16,
+    "duration": 4.68
+  },
+  {
+    "text": "do well with their with our content and",
+    "start": 2019.4,
+    "duration": 4
+  },
+  {
+    "text": "we want to know that they're serious",
+    "start": 2021.84,
+    "duration": 3.36
+  },
+  {
+    "text": "about our campaign. And then we'll",
+    "start": 2023.4,
+    "duration": 3.44
+  },
+  {
+    "text": "explain you know you have to take this",
+    "start": 2025.2,
+    "duration": 3.4
+  },
+  {
+    "text": "course, take it seriously. We have",
+    "start": 2026.84,
+    "duration": 4.72
+  },
+  {
+    "text": "quizzes after every module.",
+    "start": 2028.6,
+    "duration": 4.76
+  },
+  {
+    "text": "Afterwards you'll you'll do really great",
+    "start": 2031.56,
+    "duration": 4.12
+  },
+  {
+    "text": "and we we have you know we have a lot of",
+    "start": 2033.36,
+    "duration": 4.36
+  },
+  {
+    "text": "credibility because hundreds of our",
+    "start": 2035.68,
+    "duration": 4.2
+  },
+  {
+    "text": "creators have gotten viral. So this is",
+    "start": 2037.72,
+    "duration": 5.4
+  },
+  {
+    "text": "one of our creator. She has a over 100k",
+    "start": 2039.88,
+    "duration": 5.24
+  },
+  {
+    "text": "followers right now and this is a sprout",
+    "start": 2043.12,
+    "duration": 4.28
+  },
+  {
+    "text": "dedicated one. So we taught her how to",
+    "start": 2045.12,
+    "duration": 5.08
+  },
+  {
+    "text": "create a new account, all that stuff. Um",
+    "start": 2047.4,
+    "duration": 4.88
+  },
+  {
+    "text": "when she just started she was killing it",
+    "start": 2050.2,
+    "duration": 4.24
+  },
+  {
+    "text": "for us. So let me just show you some of",
+    "start": 2052.28,
+    "duration": 4.52
+  },
+  {
+    "text": "the views. Okay, this is when she just",
+    "start": 2054.44,
+    "duration": 4.04
+  },
+  {
+    "text": "started. This is literally her first",
+    "start": 2056.8,
+    "duration": 2.8
+  },
+  {
+    "text": "video.",
+    "start": 2058.48,
+    "duration": 3.24
+  },
+  {
+    "text": "And then as you can tell it's millions",
+    "start": 2059.6,
+    "duration": 5
+  },
+  {
+    "text": "and millions and millions of views",
+    "start": 2061.72,
+    "duration": 5.8
+  },
+  {
+    "text": "uh for every single one of her videos.",
+    "start": 2064.6,
+    "duration": 5.48
+  },
+  {
+    "text": "And she does like one of our skit",
+    "start": 2067.52,
+    "duration": 3.28
+  },
+  {
+    "text": "content.",
+    "start": 2070.08,
+    "duration": 2.559
+  },
+  {
+    "text": ">> This is a crazy track record. Every",
+    "start": 2070.8,
+    "duration": 4.24
+  },
+  {
+    "text": "single video is like almost every video",
+    "start": 2072.639,
+    "duration": 5.201
+  },
+  {
+    "text": "is over 100k. Like most of them are like",
+    "start": 2075.04,
+    "duration": 5
+  },
+  {
+    "text": "multiple 100k to a million views.",
+    "start": 2077.84,
+    "duration": 4.2
+  },
+  {
+    "text": ">> And so she is really good with our",
+    "start": 2080.04,
+    "duration": 4.4
+  },
+  {
+    "text": "recruiter call, like fake recruiter call",
+    "start": 2082.04,
+    "duration": 4.599
+  },
+  {
+    "text": "content. This girl, she's another one of",
+    "start": 2084.44,
+    "duration": 4.8
+  },
+  {
+    "text": "our creators. She has like 60, 70k",
+    "start": 2086.639,
+    "duration": 5
+  },
+  {
+    "text": "followers now on this account. She does",
+    "start": 2089.24,
+    "duration": 4.32
+  },
+  {
+    "text": "a lot of recruiter calls, but she also",
+    "start": 2091.639,
+    "duration": 4.641
+  },
+  {
+    "text": "goes viral with like talking videos,",
+    "start": 2093.56,
+    "duration": 5.08
+  },
+  {
+    "text": "like talking heads as well. And we put",
+    "start": 2096.28,
+    "duration": 4.76
+  },
+  {
+    "text": "all of these content in a content bank.",
+    "start": 2098.64,
+    "duration": 4.92
+  },
+  {
+    "text": "So we do a lot of these we do these like",
+    "start": 2101.04,
+    "duration": 5.2
+  },
+  {
+    "text": "wars over videos. That's completely",
+    "start": 2103.56,
+    "duration": 4.64
+  },
+  {
+    "text": "faceless.",
+    "start": 2106.24,
+    "duration": 6
+  },
+  {
+    "text": "6.7 seconds long. We tested the length",
+    "start": 2108.2,
+    "duration": 5.56
+  },
+  {
+    "text": "of that video",
+    "start": 2112.24,
+    "duration": 4.56
+  },
+  {
+    "text": "between 5 seconds to 6 seconds to 7",
+    "start": 2113.76,
+    "duration": 4.72
+  },
+  {
+    "text": "seconds and we found",
+    "start": 2116.8,
+    "duration": 5.52
+  },
+  {
+    "text": "uh 6.7 seconds worked the best for this",
+    "start": 2118.48,
+    "duration": 5
+  },
+  {
+    "text": "video.",
+    "start": 2122.32,
+    "duration": 3.52
+  },
+  {
+    "text": "Um same thing as Glamob. Like remember",
+    "start": 2123.48,
+    "duration": 4.4
+  },
+  {
+    "text": "Glamob? I told you we're very scientific",
+    "start": 2125.84,
+    "duration": 4.16
+  },
+  {
+    "text": "when it comes to like the details of",
+    "start": 2127.88,
+    "duration": 3.36
+  },
+  {
+    "text": ">> Jen, yeah.",
+    "start": 2130,
+    "duration": 2.96
+  },
+  {
+    "text": ">> We did the same thing with this war is",
+    "start": 2131.24,
+    "duration": 3.08
+  },
+  {
+    "text": "over video as well.",
+    "start": 2132.96,
+    "duration": 2.72
+  },
+  {
+    "text": ">> That's a really simple video. So that's",
+    "start": 2134.32,
+    "duration": 4.08
+  },
+  {
+    "text": "a 6.7 second video. It just says war is",
+    "start": 2135.68,
+    "duration": 4.92
+  },
+  {
+    "text": "over I finally landed my first full-time",
+    "start": 2138.4,
+    "duration": 3.76
+  },
+  {
+    "text": "job. And then it's just like a",
+    "start": 2140.6,
+    "duration": 3.48
+  },
+  {
+    "text": "spreadsheet with the drop down and you",
+    "start": 2142.16,
+    "duration": 4.44
+  },
+  {
+    "text": "just like switch to like oh accepted,",
+    "start": 2144.08,
+    "duration": 3.56
+  },
+  {
+    "text": "like I got the job.",
+    "start": 2146.6,
+    "duration": 2.36
+  },
+  {
+    "text": ">> I don't think I can show you that whole",
+    "start": 2147.64,
+    "duration": 3.04
+  },
+  {
+    "text": "tutorial, but I made a whole tutorial",
+    "start": 2148.96,
+    "duration": 4.16
+  },
+  {
+    "text": "video on exactly how to film this one",
+    "start": 2150.68,
+    "duration": 4.12
+  },
+  {
+    "text": "cuz this one probably brought in like",
+    "start": 2153.12,
+    "duration": 3.84
+  },
+  {
+    "text": "hundreds of millions of views for us and",
+    "start": 2154.8,
+    "duration": 4.36
+  },
+  {
+    "text": "a lot of conversions. We make all of",
+    "start": 2156.96,
+    "duration": 4.56
+  },
+  {
+    "text": "these Google sheet templates for them.",
+    "start": 2159.16,
+    "duration": 5.32
+  },
+  {
+    "text": "We put them in like a Google sheet like",
+    "start": 2161.52,
+    "duration": 4.56
+  },
+  {
+    "text": "link and then with different templates",
+    "start": 2164.48,
+    "duration": 4.12
+  },
+  {
+    "text": "that they can use. We teach them how to",
+    "start": 2166.08,
+    "duration": 5.96
+  },
+  {
+    "text": "position the the angle. It can't be",
+    "start": 2168.6,
+    "duration": 5.64
+  },
+  {
+    "text": "completely like 90° angle. It has to be",
+    "start": 2172.04,
+    "duration": 4.72
+  },
+  {
+    "text": "something tilted. And then you have to",
+    "start": 2174.24,
+    "duration": 6.32
+  },
+  {
+    "text": "like like you need to zoom in as as like",
+    "start": 2176.76,
+    "duration": 6.72
+  },
+  {
+    "text": "certain seconds of the entire video. You",
+    "start": 2180.56,
+    "duration": 5.2
+  },
+  {
+    "text": "have to zoom in at a certain pace. You",
+    "start": 2183.48,
+    "duration": 5
+  },
+  {
+    "text": "have to It's like super specific little",
+    "start": 2185.76,
+    "duration": 5.56
+  },
+  {
+    "text": "things. I'm very OCD about content like",
+    "start": 2188.48,
+    "duration": 3.32
+  },
+  {
+    "text": "this.",
+    "start": 2191.32,
+    "duration": 2.72
+  },
+  {
+    "text": ">> I can sort of see why. Like the Like why",
+    "start": 2191.8,
+    "duration": 3.56
+  },
+  {
+    "text": "do you think the angle matters? Like my",
+    "start": 2194.04,
+    "duration": 3.44
+  },
+  {
+    "text": "guess is that it makes it harder to",
+    "start": 2195.36,
+    "duration": 4.84
+  },
+  {
+    "text": "read. So it makes you kind of like pause",
+    "start": 2197.48,
+    "duration": 4.12
+  },
+  {
+    "text": "and look at the video longer.",
+    "start": 2200.2,
+    "duration": 3.24
+  },
+  {
+    "text": ">> I think so and I think it's more",
+    "start": 2201.6,
+    "duration": 4.28
+  },
+  {
+    "text": "organic. And then we always do something",
+    "start": 2203.44,
+    "duration": 4.64
+  },
+  {
+    "text": "that's like first few seconds we're just",
+    "start": 2205.88,
+    "duration": 4.48
+  },
+  {
+    "text": "showing this. Afterwards we zoom in.",
+    "start": 2208.08,
+    "duration": 5.24
+  },
+  {
+    "text": "After that we click and we try to do it",
+    "start": 2210.36,
+    "duration": 5.88
+  },
+  {
+    "text": "a little slow so we so the users can see",
+    "start": 2213.32,
+    "duration": 5.12
+  },
+  {
+    "text": "but not clearly see",
+    "start": 2216.24,
+    "duration": 4.12
+  },
+  {
+    "text": "all of the options and then you click",
+    "start": 2218.44,
+    "duration": 4.68
+  },
+  {
+    "text": "accepted. You zoom in again. You can see",
+    "start": 2220.36,
+    "duration": 4.76
+  },
+  {
+    "text": "it zoom in again and then it it zooms",
+    "start": 2223.12,
+    "duration": 4.2
+  },
+  {
+    "text": "back out. So we we test it, you know, a",
+    "start": 2225.12,
+    "duration": 4
+  },
+  {
+    "text": "bunch of the details for this one",
+    "start": 2227.32,
+    "duration": 2.88
+  },
+  {
+    "text": "content format.",
+    "start": 2229.12,
+    "duration": 2.08
+  },
+  {
+    "text": ">> And then how is the how is the",
+    "start": 2230.2,
+    "duration": 2.76
+  },
+  {
+    "text": "conversion happening from this type of",
+    "start": 2231.2,
+    "duration": 2.28
+  },
+  {
+    "text": "video?",
+    "start": 2232.96,
+    "duration": 5
+  },
+  {
+    "text": ">> We are not sure. Um it's always hard to",
+    "start": 2233.48,
+    "duration": 6.56
+  },
+  {
+    "text": "track attribution when it comes to",
+    "start": 2237.96,
+    "duration": 4.68
+  },
+  {
+    "text": "certain content formats but it's been",
+    "start": 2240.04,
+    "duration": 3.84
+  },
+  {
+    "text": "working well for us.",
+    "start": 2242.64,
+    "duration": 3.32
+  },
+  {
+    "text": ">> We never fully went into the products.",
+    "start": 2243.88,
+    "duration": 4.08
+  },
+  {
+    "text": "Like what is what is Prepped AI?",
+    "start": 2245.96,
+    "duration": 3.48
+  },
+  {
+    "text": ">> Let me show you Sprout. This is our",
+    "start": 2247.96,
+    "duration": 3.36
+  },
+  {
+    "text": "onboarding but basically it's Tinder for",
+    "start": 2249.44,
+    "duration": 4.4
+  },
+  {
+    "text": "jobs. You're going to see a bunch of",
+    "start": 2251.32,
+    "duration": 4.36
+  },
+  {
+    "text": "like jobs that you can get. You can",
+    "start": 2253.84,
+    "duration": 4.32
+  },
+  {
+    "text": "filter what jobs you want and whenever",
+    "start": 2255.68,
+    "duration": 4.44
+  },
+  {
+    "text": "you swipe right we just automatically",
+    "start": 2258.16,
+    "duration": 4.28
+  },
+  {
+    "text": "apply for you. You can also tap in to",
+    "start": 2260.12,
+    "duration": 4.72
+  },
+  {
+    "text": "see more like info about the job. We",
+    "start": 2262.44,
+    "duration": 5.12
+  },
+  {
+    "text": "also have AI tailored resume and cover",
+    "start": 2264.84,
+    "duration": 5.6
+  },
+  {
+    "text": "letter that you can you can do directly",
+    "start": 2267.56,
+    "duration": 6.16
+  },
+  {
+    "text": "from our app as well. And the onboarding",
+    "start": 2270.44,
+    "duration": 6.52
+  },
+  {
+    "text": "is completely almost exactly the same",
+    "start": 2273.72,
+    "duration": 6.88
+  },
+  {
+    "text": "but better version of Glamma. So we have",
+    "start": 2276.96,
+    "duration": 7.2
+  },
+  {
+    "text": "the welcome pages. We added the sign in",
+    "start": 2280.6,
+    "duration": 6.36
+  },
+  {
+    "text": "for Sprout. And then we have, you know,",
+    "start": 2284.16,
+    "duration": 5.92
+  },
+  {
+    "text": "all these questions that prime the users",
+    "start": 2286.96,
+    "duration": 5
+  },
+  {
+    "text": "into thinking that they really need",
+    "start": 2290.08,
+    "duration": 3.12
+  },
+  {
+    "text": "this.",
+    "start": 2291.96,
+    "duration": 3.8
+  },
+  {
+    "text": "This is also a nice little thing that",
+    "start": 2293.2,
+    "duration": 4.8
+  },
+  {
+    "text": "that I learned later on is you should",
+    "start": 2295.76,
+    "duration": 5.56
+  },
+  {
+    "text": "have these fun fact pages that aren't",
+    "start": 2298,
+    "duration": 6.48
+  },
+  {
+    "text": "questions but it shows how valuable the",
+    "start": 2301.32,
+    "duration": 6.68
+  },
+  {
+    "text": "app is. For example, they ask um we will",
+    "start": 2304.48,
+    "duration": 6.04
+  },
+  {
+    "text": "ask, \"Have you tried other job search",
+    "start": 2308,
+    "duration": 4.76
+  },
+  {
+    "text": "apps?\" And right afterwards, we will",
+    "start": 2310.52,
+    "duration": 5.28
+  },
+  {
+    "text": "compare Sprout with other job search",
+    "start": 2312.76,
+    "duration": 5.36
+  },
+  {
+    "text": "apps. Does that make sense? Um",
+    "start": 2315.8,
+    "duration": 3.16
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 2318.12,
+    "duration": 2.8
+  },
+  {
+    "text": ">> Yeah, same thing here. What is your",
+    "start": 2318.96,
+    "duration": 4.8
+  },
+  {
+    "text": "goal? Whatever, whatever. And then the",
+    "start": 2320.92,
+    "duration": 5.68
+  },
+  {
+    "text": "next page is, \"Oh, like you can reach",
+    "start": 2323.76,
+    "duration": 5.48
+  },
+  {
+    "text": "that goal with Sprout way more than",
+    "start": 2326.6,
+    "duration": 5.44
+  },
+  {
+    "text": "without Sprout.\" So, we designed these",
+    "start": 2329.24,
+    "duration": 5.92
+  },
+  {
+    "text": "all together so that, you know, it it's",
+    "start": 2332.04,
+    "duration": 4.24
+  },
+  {
+    "text": "the most impactful.",
+    "start": 2335.16,
+    "duration": 2.56
+  },
+  {
+    "text": ">> And then you have another one here that",
+    "start": 2336.28,
+    "duration": 3.12
+  },
+  {
+    "text": "says, \"You have great potential to crush",
+    "start": 2337.72,
+    "duration": 3.92
+  },
+  {
+    "text": "your goal.\" That's right after \"What do",
+    "start": 2339.4,
+    "duration": 4.12
+  },
+  {
+    "text": "you want to accomplish?\" Make more",
+    "start": 2341.64,
+    "duration": 3.92
+  },
+  {
+    "text": "money, support family, find a job.",
+    "start": 2343.52,
+    "duration": 4.52
+  },
+  {
+    "text": ">> Take a look, leave a rating, you know,",
+    "start": 2345.56,
+    "duration": 4.68
+  },
+  {
+    "text": "and then enable notification, referral",
+    "start": 2348.04,
+    "duration": 3.76
+  },
+  {
+    "text": "code. It's the same thing from from",
+    "start": 2350.24,
+    "duration": 2.12
+  },
+  {
+    "text": "Glamour.",
+    "start": 2351.8,
+    "duration": 2.96
+  },
+  {
+    "text": ">> So, the Tinder for jobs thing is the is",
+    "start": 2352.36,
+    "duration": 4.36
+  },
+  {
+    "text": "the value prop. I'm noticing like sort",
+    "start": 2354.76,
+    "duration": 3.52
+  },
+  {
+    "text": "of a pattern. It's kind of like a",
+    "start": 2356.72,
+    "duration": 3.04
+  },
+  {
+    "text": "there's there's sort of like an end",
+    "start": 2358.28,
+    "duration": 4.36
+  },
+  {
+    "text": "result that people want for like both of",
+    "start": 2359.76,
+    "duration": 4.84
+  },
+  {
+    "text": "these apps. Like for Glamour, it's like",
+    "start": 2362.64,
+    "duration": 4.36
+  },
+  {
+    "text": "figure out how to, you know, adjust your",
+    "start": 2364.6,
+    "duration": 5.04
+  },
+  {
+    "text": "makeup to have a glow up or to, you",
+    "start": 2367,
+    "duration": 4.68
+  },
+  {
+    "text": "know, to glamour up. And then for",
+    "start": 2369.64,
+    "duration": 4.48
+  },
+  {
+    "text": "Sprout, it's like get a job. And the",
+    "start": 2371.68,
+    "duration": 5.08
+  },
+  {
+    "text": "onboarding is walking you through",
+    "start": 2374.12,
+    "duration": 4.96
+  },
+  {
+    "text": "basically problem and then solution. And",
+    "start": 2376.76,
+    "duration": 3.68
+  },
+  {
+    "text": "then the improvement that you made with",
+    "start": 2379.08,
+    "duration": 3.4
+  },
+  {
+    "text": "with Sprout is like instead of just",
+    "start": 2380.44,
+    "duration": 3.84
+  },
+  {
+    "text": "asking questions about, \"Oh, what are",
+    "start": 2382.48,
+    "duration": 3.76
+  },
+  {
+    "text": "your problems? You know, what other",
+    "start": 2384.28,
+    "duration": 3.4
+  },
+  {
+    "text": "things have you tried?\" You're you're",
+    "start": 2386.24,
+    "duration": 3.2
+  },
+  {
+    "text": "just like kind of pitching the app like",
+    "start": 2387.68,
+    "duration": 3.12
+  },
+  {
+    "text": "while they're",
+    "start": 2389.44,
+    "duration": 2.72
+  },
+  {
+    "text": "uh answering the questions.",
+    "start": 2390.8,
+    "duration": 2.84
+  },
+  {
+    "text": ">> Basically, yeah. That's a great way to",
+    "start": 2392.16,
+    "duration": 3.24
+  },
+  {
+    "text": "put it. Yeah, I'm I'm pitching the app",
+    "start": 2393.64,
+    "duration": 2.72
+  },
+  {
+    "text": "in the onboarding.",
+    "start": 2395.4,
+    "duration": 2.52
+  },
+  {
+    "text": ">> And then for the paywall for this one,",
+    "start": 2396.36,
+    "duration": 4.12
+  },
+  {
+    "text": "did you make any changes from how you",
+    "start": 2397.92,
+    "duration": 3.72
+  },
+  {
+    "text": "approached it with Glamour?",
+    "start": 2400.48,
+    "duration": 3.4
+  },
+  {
+    "text": ">> We didn't put a discounted paywall, but",
+    "start": 2401.64,
+    "duration": 4.28
+  },
+  {
+    "text": "we do weekly/monthly.",
+    "start": 2403.88,
+    "duration": 4.64
+  },
+  {
+    "text": "We didn't do annual because we don't",
+    "start": 2405.92,
+    "duration": 4.52
+  },
+  {
+    "text": "think it makes sense for a job searching",
+    "start": 2408.52,
+    "duration": 4.08
+  },
+  {
+    "text": "app to charge an annual subscription.",
+    "start": 2410.44,
+    "duration": 4.92
+  },
+  {
+    "text": "That means you you you will need a year",
+    "start": 2412.6,
+    "duration": 5.68
+  },
+  {
+    "text": "to find a job. You know what I mean?",
+    "start": 2415.36,
+    "duration": 5.8
+  },
+  {
+    "text": "So, we have this weekly monthly and then",
+    "start": 2418.28,
+    "duration": 4.72
+  },
+  {
+    "text": "we do stripe",
+    "start": 2421.16,
+    "duration": 4.24
+  },
+  {
+    "text": "instead of, you know, the the native App",
+    "start": 2423,
+    "duration": 3
+  },
+  {
+    "text": "Store.",
+    "start": 2425.4,
+    "duration": 2.64
+  },
+  {
+    "text": ">> Your stripe thing looks pretty good",
+    "start": 2426,
+    "duration": 3.64
+  },
+  {
+    "text": "though. Like it doesn't seem like it",
+    "start": 2428.04,
+    "duration": 3.52
+  },
+  {
+    "text": "opens the browser. It like it's like",
+    "start": 2429.64,
+    "duration": 3.52
+  },
+  {
+    "text": "interstitial. It's like still within the",
+    "start": 2431.56,
+    "duration": 2
+  },
+  {
+    "text": "app.",
+    "start": 2433.16,
+    "duration": 1.96
+  },
+  {
+    "text": ">> I'm pretty sure it's within the app.",
+    "start": 2433.56,
+    "duration": 3.12
+  },
+  {
+    "text": ">> And then is there any kind of scan",
+    "start": 2435.12,
+    "duration": 3.12
+  },
+  {
+    "text": "before the paywall where they're like",
+    "start": 2436.68,
+    "duration": 2.92
+  },
+  {
+    "text": "kind of anticipating some kind of",
+    "start": 2438.24,
+    "duration": 2.04
+  },
+  {
+    "text": "result?",
+    "start": 2439.6,
+    "duration": 2.32
+  },
+  {
+    "text": ">> I don't think so. I think we did",
+    "start": 2440.28,
+    "duration": 3.28
+  },
+  {
+    "text": "beforehand but we switched to a hard",
+    "start": 2441.92,
+    "duration": 3.8
+  },
+  {
+    "text": "paywall afterwards. I would actually",
+    "start": 2443.56,
+    "duration": 4.48
+  },
+  {
+    "text": "recommend a lot of users, well, a lot of",
+    "start": 2445.72,
+    "duration": 4.64
+  },
+  {
+    "text": "founders to just completely hard paywall",
+    "start": 2448.04,
+    "duration": 5.28
+  },
+  {
+    "text": "right after the onboarding screens cuz",
+    "start": 2450.36,
+    "duration": 4.4
+  },
+  {
+    "text": "for some reason the conversion is",
+    "start": 2453.32,
+    "duration": 3.88
+  },
+  {
+    "text": "better. For for Sprout and for my newest",
+    "start": 2454.76,
+    "duration": 2.84
+  },
+  {
+    "text": "app.",
+    "start": 2457.2,
+    "duration": 2.12
+  },
+  {
+    "text": ">> For Sprout did you have are there any",
+    "start": 2457.6,
+    "duration": 3.48
+  },
+  {
+    "text": "screens before this paywall?",
+    "start": 2459.32,
+    "duration": 4.08
+  },
+  {
+    "text": ">> So, we have the onboarding. We have the",
+    "start": 2461.08,
+    "duration": 4.4
+  },
+  {
+    "text": "referral code. Afterwards you can upload",
+    "start": 2463.4,
+    "duration": 4.28
+  },
+  {
+    "text": "your resume and this is just an example",
+    "start": 2465.48,
+    "duration": 4.56
+  },
+  {
+    "text": "resume that I used that I I did with",
+    "start": 2467.68,
+    "duration": 4.64
+  },
+  {
+    "text": "like, you know, like ChatGPT. And then",
+    "start": 2470.04,
+    "duration": 5.04
+  },
+  {
+    "text": "you can upload and continue. Afterwards",
+    "start": 2472.32,
+    "duration": 6.44
+  },
+  {
+    "text": "you will get into this. So, this is like",
+    "start": 2475.08,
+    "duration": 6.28
+  },
+  {
+    "text": "the first page.",
+    "start": 2478.76,
+    "duration": 4.72
+  },
+  {
+    "text": "And because of your onboarding questions",
+    "start": 2481.36,
+    "duration": 3.84
+  },
+  {
+    "text": "we know what type of jobs you're looking",
+    "start": 2483.48,
+    "duration": 4.48
+  },
+  {
+    "text": "for and then what countries or if it's",
+    "start": 2485.2,
+    "duration": 5.4
+  },
+  {
+    "text": "remote, what location it is. So, we",
+    "start": 2487.96,
+    "duration": 5.36
+  },
+  {
+    "text": "already have it preset for you and then",
+    "start": 2490.6,
+    "duration": 5.16
+  },
+  {
+    "text": "you'll see jobs that, you know, maybe",
+    "start": 2493.32,
+    "duration": 4.64
+  },
+  {
+    "text": "you'll want. If you want to you can",
+    "start": 2495.76,
+    "duration": 4.48
+  },
+  {
+    "text": "click here for the filter and you can",
+    "start": 2497.96,
+    "duration": 4.32
+  },
+  {
+    "text": "search, you know, your role, you can",
+    "start": 2500.24,
+    "duration": 4.76
+  },
+  {
+    "text": "change the locations, whatever it is.",
+    "start": 2502.28,
+    "duration": 6.4
+  },
+  {
+    "text": "If you apply, if you swipe right, then",
+    "start": 2505,
+    "duration": 6.36
+  },
+  {
+    "text": "we start paywalling you.",
+    "start": 2508.68,
+    "duration": 4.28
+  },
+  {
+    "text": "And then this is our paywall. So, it's",
+    "start": 2511.36,
+    "duration": 4.64
+  },
+  {
+    "text": "like you swipe right and then we have",
+    "start": 2512.96,
+    "duration": 5.6
+  },
+  {
+    "text": "kind of this welcome screen as well and",
+    "start": 2516,
+    "duration": 4.48
+  },
+  {
+    "text": "then we we show you the paywall.",
+    "start": 2518.56,
+    "duration": 3.8
+  },
+  {
+    "text": ">> Wow, okay. So, this is a pretty",
+    "start": 2520.48,
+    "duration": 4.4
+  },
+  {
+    "text": "different flow. It's still hard paywall",
+    "start": 2522.36,
+    "duration": 5.12
+  },
+  {
+    "text": "but you're allowing the user to kind of",
+    "start": 2524.88,
+    "duration": 5.8
+  },
+  {
+    "text": "navigate through the app as if it's",
+    "start": 2527.48,
+    "duration": 6.08
+  },
+  {
+    "text": "free free to use and then as soon as",
+    "start": 2530.68,
+    "duration": 6.08
+  },
+  {
+    "text": "they hit the point of actual valuable",
+    "start": 2533.56,
+    "duration": 6.2
+  },
+  {
+    "text": "feature, that's when you paywall um",
+    "start": 2536.76,
+    "duration": 5.2
+  },
+  {
+    "text": "instead of like paywalling without",
+    "start": 2539.76,
+    "duration": 3.84
+  },
+  {
+    "text": "letting them kind of like navigate the",
+    "start": 2541.96,
+    "duration": 2.12
+  },
+  {
+    "text": "app.",
+    "start": 2543.6,
+    "duration": 2.8
+  },
+  {
+    "text": ">> For Glam Up, it's the same thing. So,",
+    "start": 2544.08,
+    "duration": 5.96
+  },
+  {
+    "text": "like for Glam Up, um after finishing up",
+    "start": 2546.4,
+    "duration": 6.24
+  },
+  {
+    "text": "the onboarding and everything, you can",
+    "start": 2550.04,
+    "duration": 4.48
+  },
+  {
+    "text": "get started, and we actually bring you",
+    "start": 2552.64,
+    "duration": 4.48
+  },
+  {
+    "text": "to the home page. And you can swipe to",
+    "start": 2554.52,
+    "duration": 7.16
+  },
+  {
+    "text": "see what scan you want. And then you can",
+    "start": 2557.12,
+    "duration": 6.56
+  },
+  {
+    "text": "actually click the scan, and we will",
+    "start": 2561.68,
+    "duration": 3.92
+  },
+  {
+    "text": "show you what to do and not to do for",
+    "start": 2563.68,
+    "duration": 4.12
+  },
+  {
+    "text": "your picture. You can take a selfie or",
+    "start": 2565.6,
+    "duration": 4.76
+  },
+  {
+    "text": "upload a video. We will actually scan",
+    "start": 2567.8,
+    "duration": 5.44
+  },
+  {
+    "text": "for you. It will say analyzing, and then",
+    "start": 2570.36,
+    "duration": 4.76
+  },
+  {
+    "text": "we'll go through this. Like everything",
+    "start": 2573.24,
+    "duration": 4.52
+  },
+  {
+    "text": "is blurred, and then we paywall you.",
+    "start": 2575.12,
+    "duration": 5.88
+  },
+  {
+    "text": ">> It's the same um flow from for these two",
+    "start": 2577.76,
+    "duration": 5
+  },
+  {
+    "text": "apps, but I guess it's different from",
+    "start": 2581,
+    "duration": 3.04
+  },
+  {
+    "text": "some of the onboarding flows that I've",
+    "start": 2582.76,
+    "duration": 3.8
+  },
+  {
+    "text": "seen where the hard paywall just comes",
+    "start": 2584.04,
+    "duration": 4.68
+  },
+  {
+    "text": "right after the onboarding without",
+    "start": 2586.56,
+    "duration": 3.72
+  },
+  {
+    "text": "letting the user navigate through the",
+    "start": 2588.72,
+    "duration": 4.64
+  },
+  {
+    "text": "app. But I feel like this one feels",
+    "start": 2590.28,
+    "duration": 5.32
+  },
+  {
+    "text": "a little bit better because when there's",
+    "start": 2593.36,
+    "duration": 3.84
+  },
+  {
+    "text": "a hard paywall and you can't navigate",
+    "start": 2595.6,
+    "duration": 3.92
+  },
+  {
+    "text": "through the app, as a user, I feel like",
+    "start": 2597.2,
+    "duration": 4.04
+  },
+  {
+    "text": "what the heck? Like I can't even like",
+    "start": 2599.52,
+    "duration": 3.72
+  },
+  {
+    "text": "open the app itself. I have to pay. Like",
+    "start": 2601.24,
+    "duration": 3.04
+  },
+  {
+    "text": "I don't even know what's going to be",
+    "start": 2603.24,
+    "duration": 3.36
+  },
+  {
+    "text": "inside. But with this, you see exactly",
+    "start": 2604.28,
+    "duration": 4.52
+  },
+  {
+    "text": "what's inside. You can flip through, and",
+    "start": 2606.6,
+    "duration": 4.36
+  },
+  {
+    "text": "it also kind of targets",
+    "start": 2608.8,
+    "duration": 5
+  },
+  {
+    "text": "um what they actually want. Like with",
+    "start": 2610.96,
+    "duration": 3.92
+  },
+  {
+    "text": "the hard",
+    "start": 2613.8,
+    "duration": 4
+  },
+  {
+    "text": "like it you know, they're able to for",
+    "start": 2614.88,
+    "duration": 4.84
+  },
+  {
+    "text": "for Sprout, you they actually search for",
+    "start": 2617.8,
+    "duration": 4
+  },
+  {
+    "text": "the for the job that they want, whatever",
+    "start": 2619.72,
+    "duration": 3.92
+  },
+  {
+    "text": "that is, like software engineering. With",
+    "start": 2621.8,
+    "duration": 3.68
+  },
+  {
+    "text": "Glam Up, it's like there's different",
+    "start": 2623.64,
+    "duration": 4.08
+  },
+  {
+    "text": "types of scans, and they do the scan",
+    "start": 2625.48,
+    "duration": 4.48
+  },
+  {
+    "text": "that they want the most, and then get",
+    "start": 2627.72,
+    "duration": 4.52
+  },
+  {
+    "text": "paywalled. Um so, you're kind of just",
+    "start": 2629.96,
+    "duration": 3.16
+  },
+  {
+    "text": "like",
+    "start": 2632.24,
+    "duration": 3.8
+  },
+  {
+    "text": "letting people increase their own intent",
+    "start": 2633.12,
+    "duration": 5.24
+  },
+  {
+    "text": "level before they get to the paywall.",
+    "start": 2636.04,
+    "duration": 4.84
+  },
+  {
+    "text": "Did you do you see like a a conversion",
+    "start": 2638.36,
+    "duration": 4.8
+  },
+  {
+    "text": "rate increase when you do this? Like did",
+    "start": 2640.88,
+    "duration": 3.84
+  },
+  {
+    "text": "you ever have uh",
+    "start": 2643.16,
+    "duration": 2.96
+  },
+  {
+    "text": "just hard paywall without letting the",
+    "start": 2644.72,
+    "duration": 3
+  },
+  {
+    "text": "user kind of poke around.",
+    "start": 2646.12,
+    "duration": 3.88
+  },
+  {
+    "text": ">> I totally get like like thank you for",
+    "start": 2647.72,
+    "duration": 4.52
+  },
+  {
+    "text": "for understanding this perspective. I I",
+    "start": 2650,
+    "duration": 4.08
+  },
+  {
+    "text": "agree and disagree with you because I",
+    "start": 2652.24,
+    "duration": 4.72
+  },
+  {
+    "text": "think from a user psychology, like I",
+    "start": 2654.08,
+    "duration": 4.72
+  },
+  {
+    "text": "think this is the proper way of doing it",
+    "start": 2656.96,
+    "duration": 4.16
+  },
+  {
+    "text": "and I did this for my newest app. For So",
+    "start": 2658.8,
+    "duration": 4.24
+  },
+  {
+    "text": "for the stealth app that I'm currently",
+    "start": 2661.12,
+    "duration": 4.16
+  },
+  {
+    "text": "working on, we also let them, you know,",
+    "start": 2663.04,
+    "duration": 4.32
+  },
+  {
+    "text": "go into the homepage and we and you",
+    "start": 2665.28,
+    "duration": 3.52
+  },
+  {
+    "text": "know, they can",
+    "start": 2667.36,
+    "duration": 3.4
+  },
+  {
+    "text": "they can try kind of some sort of",
+    "start": 2668.8,
+    "duration": 4.76
+  },
+  {
+    "text": "feature of the app before we hard before",
+    "start": 2670.76,
+    "duration": 4.96
+  },
+  {
+    "text": "we hard paywall them. But then we ran a",
+    "start": 2673.56,
+    "duration": 3.36
+  },
+  {
+    "text": "test",
+    "start": 2675.72,
+    "duration": 1.84
+  },
+  {
+    "text": "um",
+    "start": 2676.92,
+    "duration": 2.84
+  },
+  {
+    "text": "of complete hard paywall after the",
+    "start": 2677.56,
+    "duration": 4
+  },
+  {
+    "text": "onboarding. They don't even go into this",
+    "start": 2679.76,
+    "duration": 4.64
+  },
+  {
+    "text": "to the app. Unfortunately, we see a 50%",
+    "start": 2681.56,
+    "duration": 4.64
+  },
+  {
+    "text": "increase in conversion.",
+    "start": 2684.4,
+    "duration": 4.36
+  },
+  {
+    "text": ">> Oh, wow. Okay, so I was just everything",
+    "start": 2686.2,
+    "duration": 5.56
+  },
+  {
+    "text": "I said just completely ignore that.",
+    "start": 2688.76,
+    "duration": 4.32
+  },
+  {
+    "text": "It's the opposite It's quite the",
+    "start": 2691.76,
+    "duration": 3.12
+  },
+  {
+    "text": "opposite. That is a very interesting",
+    "start": 2693.08,
+    "duration": 4.56
+  },
+  {
+    "text": "insight though. Like a So you you 50%",
+    "start": 2694.88,
+    "duration": 4.6
+  },
+  {
+    "text": "increase if you don't allow them to kind",
+    "start": 2697.64,
+    "duration": 3.44
+  },
+  {
+    "text": "of poke around. Okay, that that was a",
+    "start": 2699.48,
+    "duration": 3.36
+  },
+  {
+    "text": "very That was like an onboarding paywall",
+    "start": 2701.08,
+    "duration": 4.68
+  },
+  {
+    "text": "masterclass. I think um I learned a lot",
+    "start": 2702.84,
+    "duration": 4.28
+  },
+  {
+    "text": "from that. So we kind of got a little",
+    "start": 2705.76,
+    "duration": 3
+  },
+  {
+    "text": "bit sidetracked. So you you were talking",
+    "start": 2707.12,
+    "duration": 3.04
+  },
+  {
+    "text": "about like the",
+    "start": 2708.76,
+    "duration": 2.84
+  },
+  {
+    "text": "you know, you have hundreds of creators.",
+    "start": 2710.16,
+    "duration": 3.96
+  },
+  {
+    "text": "You've cycled through people as they",
+    "start": 2711.6,
+    "duration": 5.2
+  },
+  {
+    "text": "kind of show how um how well they can",
+    "start": 2714.12,
+    "duration": 5.08
+  },
+  {
+    "text": "perform. And then you have this course",
+    "start": 2716.8,
+    "duration": 4.04
+  },
+  {
+    "text": "where, you know, a lot of them just",
+    "start": 2719.2,
+    "duration": 3.84
+  },
+  {
+    "text": "start going viral after 2 weeks of just,",
+    "start": 2720.84,
+    "duration": 3.68
+  },
+  {
+    "text": "you know, learning from the course. Is",
+    "start": 2723.04,
+    "duration": 4.56
+  },
+  {
+    "text": "there any other element of this creator",
+    "start": 2724.52,
+    "duration": 5.08
+  },
+  {
+    "text": "mission that is you think is",
+    "start": 2727.6,
+    "duration": 3.84
+  },
+  {
+    "text": "contributing to its success?",
+    "start": 2729.6,
+    "duration": 3.84
+  },
+  {
+    "text": ">> I feel like the course itself pretty",
+    "start": 2731.44,
+    "duration": 5
+  },
+  {
+    "text": "standard. You you know, like if anyone's",
+    "start": 2733.44,
+    "duration": 5.2
+  },
+  {
+    "text": "is experiencing UGC, they know what to",
+    "start": 2736.44,
+    "duration": 5.32
+  },
+  {
+    "text": "do. I think one thing that I feel really",
+    "start": 2738.64,
+    "duration": 6.64
+  },
+  {
+    "text": "proud of is our content bank. I can't I",
+    "start": 2741.76,
+    "duration": 4.96
+  },
+  {
+    "text": "can't show the content bank in this",
+    "start": 2745.28,
+    "duration": 2.36
+  },
+  {
+    "text": "call.",
+    "start": 2746.72,
+    "duration": 4.2
+  },
+  {
+    "text": "Um but I come from like a entertainment",
+    "start": 2747.64,
+    "duration": 4.84
+  },
+  {
+    "text": "background growing up. My brother's a",
+    "start": 2750.92,
+    "duration": 3.28
+  },
+  {
+    "text": "director. I have a lot of friends in",
+    "start": 2752.48,
+    "duration": 3.52
+  },
+  {
+    "text": "film school. So when it comes to the",
+    "start": 2754.2,
+    "duration": 4.28
+  },
+  {
+    "text": "content bank, I I approach it from a",
+    "start": 2756,
+    "duration": 5.12
+  },
+  {
+    "text": "production perspective. For every viral",
+    "start": 2758.48,
+    "duration": 5.12
+  },
+  {
+    "text": "format that we have, I have the content",
+    "start": 2761.12,
+    "duration": 5.56
+  },
+  {
+    "text": "idea, I have the content details, I have",
+    "start": 2763.6,
+    "duration": 6.04
+  },
+  {
+    "text": "the example videos, I have maybe audios",
+    "start": 2766.68,
+    "duration": 5.4
+  },
+  {
+    "text": "for it, and then I have a script. And",
+    "start": 2769.64,
+    "duration": 4.8
+  },
+  {
+    "text": "that script is line by line what you're",
+    "start": 2772.08,
+    "duration": 5.16
+  },
+  {
+    "text": "supposed to say, and for each line, I",
+    "start": 2774.44,
+    "duration": 4.64
+  },
+  {
+    "text": "give the emotions that you're supposed",
+    "start": 2777.24,
+    "duration": 3.64
+  },
+  {
+    "text": "to portray and the shots that you're",
+    "start": 2779.08,
+    "duration": 4.2
+  },
+  {
+    "text": "supposed to do. Emotions, for example,",
+    "start": 2780.88,
+    "duration": 5.32
+  },
+  {
+    "text": "oh, do a sarcastic tone here. Or oh,",
+    "start": 2783.28,
+    "duration": 5.48
+  },
+  {
+    "text": "roll your eyes here. Or like, you know,",
+    "start": 2786.2,
+    "duration": 4.4
+  },
+  {
+    "text": "like a lot of these like emotional",
+    "start": 2788.76,
+    "duration": 5.16
+  },
+  {
+    "text": "triggers. And I have shots. So like,",
+    "start": 2790.6,
+    "duration": 5.64
+  },
+  {
+    "text": "maybe there's a long shot, a medium",
+    "start": 2793.92,
+    "duration": 4.76
+  },
+  {
+    "text": "shot, a close-up shot,",
+    "start": 2796.24,
+    "duration": 5.28
+  },
+  {
+    "text": "to switch things around. So I go really",
+    "start": 2798.68,
+    "duration": 4.44
+  },
+  {
+    "text": "in detail when it comes to the content",
+    "start": 2801.52,
+    "duration": 4.16
+  },
+  {
+    "text": "strategies to make sure that, you know,",
+    "start": 2803.12,
+    "duration": 5.44
+  },
+  {
+    "text": "coupled with the UGC course that we give",
+    "start": 2805.68,
+    "duration": 4.68
+  },
+  {
+    "text": "them, they know exactly what to do when",
+    "start": 2808.56,
+    "duration": 2.8
+  },
+  {
+    "text": "it comes to content.",
+    "start": 2810.36,
+    "duration": 2.56
+  },
+  {
+    "text": ">> In a way, you kind of are like the",
+    "start": 2811.36,
+    "duration": 3.12
+  },
+  {
+    "text": "playing the role of a director and a",
+    "start": 2812.92,
+    "duration": 3.2
+  },
+  {
+    "text": "screenwriter a little bit, where you're",
+    "start": 2814.48,
+    "duration": 3.24
+  },
+  {
+    "text": "it's not just the lines, it's like the",
+    "start": 2816.12,
+    "duration": 3.64
+  },
+  {
+    "text": "stage directions. Like, what what should",
+    "start": 2817.72,
+    "duration": 4.72
+  },
+  {
+    "text": "your face look like? What's the tone?",
+    "start": 2819.76,
+    "duration": 4.96
+  },
+  {
+    "text": "What's the pacing? And being really",
+    "start": 2822.44,
+    "duration": 3.08
+  },
+  {
+    "text": "specific.",
+    "start": 2824.72,
+    "duration": 2.76
+  },
+  {
+    "text": ">> I'm not that camera-shy, so I will film",
+    "start": 2825.52,
+    "duration": 4.12
+  },
+  {
+    "text": "example videos to show them exactly what",
+    "start": 2827.48,
+    "duration": 4.2
+  },
+  {
+    "text": "I mean by like the different shots, the",
+    "start": 2829.64,
+    "duration": 4.04
+  },
+  {
+    "text": "different emotions, so so they can copy",
+    "start": 2831.68,
+    "duration": 2.64
+  },
+  {
+    "text": "off of me.",
+    "start": 2833.68,
+    "duration": 3.28
+  },
+  {
+    "text": ">> So when you're finding people who you",
+    "start": 2834.32,
+    "duration": 4.28
+  },
+  {
+    "text": "want to be creators for your app, you",
+    "start": 2836.96,
+    "duration": 3.2
+  },
+  {
+    "text": "you said when you do the interview,",
+    "start": 2838.6,
+    "duration": 3.48
+  },
+  {
+    "text": "you're doing like vibe check, and then",
+    "start": 2840.16,
+    "duration": 2.96
+  },
+  {
+    "text": "you're doing like you want you want to",
+    "start": 2842.08,
+    "duration": 3.04
+  },
+  {
+    "text": "see like seriousness. Are they are they",
+    "start": 2843.12,
+    "duration": 3.44
+  },
+  {
+    "text": "actually serious about this? Is there",
+    "start": 2845.12,
+    "duration": 2.88
+  },
+  {
+    "text": "anything else? Like, are you looking for",
+    "start": 2846.56,
+    "duration": 4.84
+  },
+  {
+    "text": "past experience or people who have made,",
+    "start": 2848,
+    "duration": 4.96
+  },
+  {
+    "text": "you know, viral TikToks before?",
+    "start": 2851.4,
+    "duration": 4.16
+  },
+  {
+    "text": ">> They're definitely a bonus, but I feel",
+    "start": 2852.96,
+    "duration": 4.64
+  },
+  {
+    "text": "like with the course, it doesn't really",
+    "start": 2855.56,
+    "duration": 4.2
+  },
+  {
+    "text": "matter. Like, a lot of our viral",
+    "start": 2857.6,
+    "duration": 4.76
+  },
+  {
+    "text": "creators, they come from no experiences",
+    "start": 2859.76,
+    "duration": 4.04
+  },
+  {
+    "text": "at all. They're just looking for like an",
+    "start": 2862.36,
+    "duration": 2.2
+  },
+  {
+    "text": "internship.",
+    "start": 2863.8,
+    "duration": 2.44
+  },
+  {
+    "text": ">> For an internship. So you're are you",
+    "start": 2864.56,
+    "duration": 3.6
+  },
+  {
+    "text": "positioning this as a internship rather",
+    "start": 2866.24,
+    "duration": 3.8
+  },
+  {
+    "text": "than like a hey, I'll pay you money to",
+    "start": 2868.16,
+    "duration": 2.28
+  },
+  {
+    "text": "make",
+    "start": 2870.04,
+    "duration": 2.32
+  },
+  {
+    "text": ">> No, so we do inbound and outbound. For",
+    "start": 2870.44,
+    "duration": 4.84
+  },
+  {
+    "text": "inbound, we we actually work with some",
+    "start": 2872.36,
+    "duration": 6
+  },
+  {
+    "text": "big influencers and their Discord chats.",
+    "start": 2875.28,
+    "duration": 4.96
+  },
+  {
+    "text": "Um so, you know, we'll post an",
+    "start": 2878.36,
+    "duration": 4.44
+  },
+  {
+    "text": "application form in the Discord chats or",
+    "start": 2880.24,
+    "duration": 4.92
+  },
+  {
+    "text": "sometimes we will actually just put it",
+    "start": 2882.8,
+    "duration": 5.12
+  },
+  {
+    "text": "on Handshake. And a lot of people,",
+    "start": 2885.16,
+    "duration": 5.32
+  },
+  {
+    "text": "students on Handshake, they don't really",
+    "start": 2887.92,
+    "duration": 4.48
+  },
+  {
+    "text": "know much about UGC. They might just",
+    "start": 2890.48,
+    "duration": 3.72
+  },
+  {
+    "text": "want like a social media internship.",
+    "start": 2892.4,
+    "duration": 4.92
+  },
+  {
+    "text": "They see our program and they apply and",
+    "start": 2894.2,
+    "duration": 5.32
+  },
+  {
+    "text": "um we tell them all about it.",
+    "start": 2897.32,
+    "duration": 4.76
+  },
+  {
+    "text": ">> The influencer Discord thing seems",
+    "start": 2899.52,
+    "duration": 4.88
+  },
+  {
+    "text": "smart, kind of weird. Like, why",
+    "start": 2902.08,
+    "duration": 3.64
+  },
+  {
+    "text": "influencer Discords?",
+    "start": 2904.4,
+    "duration": 4.32
+  },
+  {
+    "text": ">> There are some influencers that train",
+    "start": 2905.72,
+    "duration": 5.68
+  },
+  {
+    "text": "other creators to go viral and they host",
+    "start": 2908.72,
+    "duration": 4.56
+  },
+  {
+    "text": "courses and community calls in their",
+    "start": 2911.4,
+    "duration": 4.04
+  },
+  {
+    "text": "Discord chats, which is why this is the",
+    "start": 2913.28,
+    "duration": 4.6
+  },
+  {
+    "text": "perfect place, you know, to get UGC",
+    "start": 2915.44,
+    "duration": 4.68
+  },
+  {
+    "text": "creators because these are students or",
+    "start": 2917.88,
+    "duration": 4.16
+  },
+  {
+    "text": "whatever it is that are like already",
+    "start": 2920.12,
+    "duration": 3.96
+  },
+  {
+    "text": "interested in making content that have",
+    "start": 2922.04,
+    "duration": 5.32
+  },
+  {
+    "text": "been semi-trained by like an influencer",
+    "start": 2924.08,
+    "duration": 4.36
+  },
+  {
+    "text": "or something like that.",
+    "start": 2927.36,
+    "duration": 2.84
+  },
+  {
+    "text": ">> How do you incentivize the the creators?",
+    "start": 2928.44,
+    "duration": 2.56
+  },
+  {
+    "text": "How do you pay?",
+    "start": 2930.2,
+    "duration": 4.08
+  },
+  {
+    "text": ">> We pay based on every other UGC program",
+    "start": 2931,
+    "duration": 4.44
+  },
+  {
+    "text": "out there. Like, we use the same",
+    "start": 2934.28,
+    "duration": 3.4
+  },
+  {
+    "text": "structure. So, it's flat rate plus",
+    "start": 2935.44,
+    "duration": 5.08
+  },
+  {
+    "text": "bonuses. Flat rate, we usually do You",
+    "start": 2937.68,
+    "duration": 5.96
+  },
+  {
+    "text": "can do anywhere between $10 to $30 per",
+    "start": 2940.52,
+    "duration": 4.44
+  },
+  {
+    "text": "post.",
+    "start": 2943.64,
+    "duration": 3.52
+  },
+  {
+    "text": "Um and bonuses, you can do view",
+    "start": 2944.96,
+    "duration": 5.2
+  },
+  {
+    "text": "thresholds with a bonus. And usually it",
+    "start": 2947.16,
+    "duration": 5.36
+  },
+  {
+    "text": "can be like a flat CPM or a decreasing",
+    "start": 2950.16,
+    "duration": 4.76
+  },
+  {
+    "text": "CPM. A flat CPM would be something 10K",
+    "start": 2952.52,
+    "duration": 5.44
+  },
+  {
+    "text": "views $10, 100K views $100,",
+    "start": 2954.92,
+    "duration": 6.32
+  },
+  {
+    "text": "a million views $1,000, or you can do a",
+    "start": 2957.96,
+    "duration": 5.88
+  },
+  {
+    "text": "decreasing CPM, which is what we do. So,",
+    "start": 2961.24,
+    "duration": 4.12
+  },
+  {
+    "text": "10K views",
+    "start": 2963.84,
+    "duration": 7.04
+  },
+  {
+    "text": "maybe $40, 50K views $50, 100K views",
+    "start": 2965.36,
+    "duration": 8.92
+  },
+  {
+    "text": "$80, a million views $800. Something",
+    "start": 2970.88,
+    "duration": 5.44
+  },
+  {
+    "text": "like that. Usually that works the best.",
+    "start": 2974.28,
+    "duration": 3.48
+  },
+  {
+    "text": ">> Okay, so another thing you mentioned is",
+    "start": 2976.32,
+    "duration": 4
+  },
+  {
+    "text": "like Charli D'Amelio. Like, what will",
+    "start": 2977.76,
+    "duration": 3.56
+  },
+  {
+    "text": "happen with her?",
+    "start": 2980.32,
+    "duration": 5.04
+  },
+  {
+    "text": ">> Yeah, well, so I got connected to some",
+    "start": 2981.32,
+    "duration": 8.36
+  },
+  {
+    "text": "big influencer agencies and I was, you",
+    "start": 2985.36,
+    "duration": 6.92
+  },
+  {
+    "text": "know, looking for Glam Up later on to go",
+    "start": 2989.68,
+    "duration": 4.8
+  },
+  {
+    "text": "into B2B. So, like, you know, working",
+    "start": 2992.28,
+    "duration": 5.2
+  },
+  {
+    "text": "with like Sephora or like other beauty",
+    "start": 2994.48,
+    "duration": 5.52
+  },
+  {
+    "text": "brands out there and makeup brands and",
+    "start": 2997.48,
+    "duration": 4.84
+  },
+  {
+    "text": "like I was thinking this huge vision of",
+    "start": 3000,
+    "duration": 4.96
+  },
+  {
+    "text": "like, you know, like what if in 10 years",
+    "start": 3002.32,
+    "duration": 4.8
+  },
+  {
+    "text": "I go into Sephora and like instead of",
+    "start": 3004.96,
+    "duration": 5.56
+  },
+  {
+    "text": "people coming up to you to help you out,",
+    "start": 3007.12,
+    "duration": 5.44
+  },
+  {
+    "text": "it's like an iPad and it's Glam up",
+    "start": 3010.52,
+    "duration": 3.72
+  },
+  {
+    "text": "scanning your face, you know? Like I had",
+    "start": 3012.56,
+    "duration": 3.6
+  },
+  {
+    "text": "that as a little dream when I was in",
+    "start": 3014.24,
+    "duration": 3.76
+  },
+  {
+    "text": "college. And then I realized I don't",
+    "start": 3016.16,
+    "duration": 3.48
+  },
+  {
+    "text": "want to do Glam up for like 10 years of",
+    "start": 3018,
+    "duration": 5.08
+  },
+  {
+    "text": "my life. Um I just unfortunately don't",
+    "start": 3019.64,
+    "duration": 7.04
+  },
+  {
+    "text": "have the patience for it. Um and I think",
+    "start": 3023.08,
+    "duration": 5.28
+  },
+  {
+    "text": "the whole reason why I love consumer",
+    "start": 3026.68,
+    "duration": 3.92
+  },
+  {
+    "text": "apps so much is because how fast you can",
+    "start": 3028.36,
+    "duration": 4.84
+  },
+  {
+    "text": "iterate and how fast you can grow. Um",
+    "start": 3030.6,
+    "duration": 5.32
+  },
+  {
+    "text": "and I really want to I feel like when I",
+    "start": 3033.2,
+    "duration": 5.52
+  },
+  {
+    "text": "do find an app where I can sit down for",
+    "start": 3035.92,
+    "duration": 4.52
+  },
+  {
+    "text": "a couple years and really grow it, I",
+    "start": 3038.72,
+    "duration": 3
+  },
+  {
+    "text": "will I will know it.",
+    "start": 3040.44,
+    "duration": 4.2
+  },
+  {
+    "text": ">> hit 150 150k a month with Glam up and",
+    "start": 3041.72,
+    "duration": 6.16
+  },
+  {
+    "text": "then like 250k a month with Sprout. And",
+    "start": 3044.64,
+    "duration": 4.72
+  },
+  {
+    "text": "then you're you're building two more",
+    "start": 3047.88,
+    "duration": 3.76
+  },
+  {
+    "text": "apps after that, right? I'm interested",
+    "start": 3049.36,
+    "duration": 5.16
+  },
+  {
+    "text": "to to see the progression in how you",
+    "start": 3051.64,
+    "duration": 4.56
+  },
+  {
+    "text": "thought about each one. Like with Glam",
+    "start": 3054.52,
+    "duration": 3.56
+  },
+  {
+    "text": "up, it was your first and you kind of",
+    "start": 3056.2,
+    "duration": 4.12
+  },
+  {
+    "text": "copy-pasted an app into a different",
+    "start": 3058.08,
+    "duration": 4.2
+  },
+  {
+    "text": "market. But that was like the innovation",
+    "start": 3060.32,
+    "duration": 4.32
+  },
+  {
+    "text": "is basically like market arbitrage kind",
+    "start": 3062.28,
+    "duration": 4.88
+  },
+  {
+    "text": "of. And then with the second app, you're",
+    "start": 3064.64,
+    "duration": 5.24
+  },
+  {
+    "text": "doing a another problem-solving app, but",
+    "start": 3067.16,
+    "duration": 5.8
+  },
+  {
+    "text": "it seems like the LTV and like the",
+    "start": 3069.88,
+    "duration": 5.4
+  },
+  {
+    "text": "monetization potential is higher because",
+    "start": 3072.96,
+    "duration": 3.64
+  },
+  {
+    "text": "if you think about like what are people",
+    "start": 3075.28,
+    "duration": 3.32
+  },
+  {
+    "text": "willing to pay for? Imagine your pricing",
+    "start": 3076.6,
+    "duration": 4.2
+  },
+  {
+    "text": "was higher for Sprout.",
+    "start": 3078.6,
+    "duration": 4
+  },
+  {
+    "text": ">> Pricing is way higher. We have I think",
+    "start": 3080.8,
+    "duration": 3.6
+  },
+  {
+    "text": "up to $80 a month.",
+    "start": 3082.6,
+    "duration": 3.36
+  },
+  {
+    "text": ">> $80 a month. Wow, okay.",
+    "start": 3084.4,
+    "duration": 3.96
+  },
+  {
+    "text": ">> I think that's a really good question um",
+    "start": 3085.96,
+    "duration": 6.12
+  },
+  {
+    "text": "because I think about why I leave apps",
+    "start": 3088.36,
+    "duration": 6.16
+  },
+  {
+    "text": "or like why I move on to a new app and",
+    "start": 3092.08,
+    "duration": 4.44
+  },
+  {
+    "text": "and the reasons for it. I think for for",
+    "start": 3094.52,
+    "duration": 3.68
+  },
+  {
+    "text": "my first app Glam up, I was just done",
+    "start": 3096.52,
+    "duration": 3.12
+  },
+  {
+    "text": "with it, you know? Like I was still in",
+    "start": 3098.2,
+    "duration": 3.56
+  },
+  {
+    "text": "college. I want to build another app.",
+    "start": 3099.64,
+    "duration": 4.64
+  },
+  {
+    "text": "I'm not that into makeup or like beauty",
+    "start": 3101.76,
+    "duration": 5.8
+  },
+  {
+    "text": "anyways, so like it was whatever. Uh I",
+    "start": 3104.28,
+    "duration": 5.6
+  },
+  {
+    "text": "really wanted to experiment with UGC. So",
+    "start": 3107.56,
+    "duration": 4.96
+  },
+  {
+    "text": "I wanted an app to really do well with",
+    "start": 3109.88,
+    "duration": 3.44
+  },
+  {
+    "text": "the",
+    "start": 3112.52,
+    "duration": 3.32
+  },
+  {
+    "text": "the talking UGCs. So that's when Sprout",
+    "start": 3113.32,
+    "duration": 6.12
+  },
+  {
+    "text": "came in. But Sprout right now, we have a",
+    "start": 3115.84,
+    "duration": 6.52
+  },
+  {
+    "text": "team of 10 full-time people including",
+    "start": 3119.44,
+    "duration": 5.2
+  },
+  {
+    "text": "the co-founders. And I think at one",
+    "start": 3122.36,
+    "duration": 4.68
+  },
+  {
+    "text": "point I just really wanted to build from",
+    "start": 3124.64,
+    "duration": 6.96
+  },
+  {
+    "text": "a much leaner team. Um and I wanted to",
+    "start": 3127.04,
+    "duration": 8.16
+  },
+  {
+    "text": "do something fun like I've never gotten",
+    "start": 3131.6,
+    "duration": 6.08
+  },
+  {
+    "text": "I've never applied to a job out of like",
+    "start": 3135.2,
+    "duration": 4.64
+  },
+  {
+    "text": "college. You know, I don't really relate",
+    "start": 3137.68,
+    "duration": 4.2
+  },
+  {
+    "text": "to that. I don't I think that's a pretty",
+    "start": 3139.84,
+    "duration": 4.68
+  },
+  {
+    "text": "boring and painful like thing to do. And",
+    "start": 3141.88,
+    "duration": 4.56
+  },
+  {
+    "text": "and like hopefully I never need to go",
+    "start": 3144.52,
+    "duration": 3.92
+  },
+  {
+    "text": "through that. Um",
+    "start": 3146.44,
+    "duration": 3.96
+  },
+  {
+    "text": "but I just want to build more fun apps",
+    "start": 3148.44,
+    "duration": 5.16
+  },
+  {
+    "text": "that get me really excited. And like I",
+    "start": 3150.4,
+    "duration": 5.32
+  },
+  {
+    "text": "just want to learn, you know, about all",
+    "start": 3153.6,
+    "duration": 5
+  },
+  {
+    "text": "of these these stuff. But with the new",
+    "start": 3155.72,
+    "duration": 4.44
+  },
+  {
+    "text": "the newest apps I'm building, I want to",
+    "start": 3158.6,
+    "duration": 3.8
+  },
+  {
+    "text": "build it larger than anything I've I've",
+    "start": 3160.16,
+    "duration": 4.2
+  },
+  {
+    "text": "seen in the consumer app space. I'm very",
+    "start": 3162.4,
+    "duration": 3.96
+  },
+  {
+    "text": "ambitious when it comes to it where, you",
+    "start": 3164.36,
+    "duration": 3.96
+  },
+  {
+    "text": "know, 3 months in, we're almost at 200k",
+    "start": 3166.36,
+    "duration": 4.36
+  },
+  {
+    "text": "MRR. I want to eventually make it to",
+    "start": 3168.32,
+    "duration": 5.72
+  },
+  {
+    "text": "bigger and better and more optimized and",
+    "start": 3170.72,
+    "duration": 5.56
+  },
+  {
+    "text": "just more fun to to build with as well.",
+    "start": 3174.04,
+    "duration": 4.8
+  },
+  {
+    "text": ">> 200k in your most recent app already?",
+    "start": 3176.28,
+    "duration": 3.92
+  },
+  {
+    "text": "That's pretty recent, right? Like how",
+    "start": 3178.84,
+    "duration": 2.68
+  },
+  {
+    "text": "long have you been working on that one?",
+    "start": 3180.2,
+    "duration": 3.08
+  },
+  {
+    "text": ">> We launched it in January.",
+    "start": 3181.52,
+    "duration": 3.72
+  },
+  {
+    "text": ">> January, so it's been like 3 months or",
+    "start": 3183.28,
+    "duration": 4.12
+  },
+  {
+    "text": "so. Yeah. Is that the fastest timeline",
+    "start": 3185.24,
+    "duration": 2.8
+  },
+  {
+    "text": "so far?",
+    "start": 3187.4,
+    "duration": 2.36
+  },
+  {
+    "text": ">> Well, we're almost at 200k. We're not",
+    "start": 3188.04,
+    "duration": 3.76
+  },
+  {
+    "text": "there yet. My goal for for this one is",
+    "start": 3189.76,
+    "duration": 4
+  },
+  {
+    "text": "500k by the end of this month.",
+    "start": 3191.8,
+    "duration": 4.48
+  },
+  {
+    "text": ">> Is there is there anything that you",
+    "start": 3193.76,
+    "duration": 5.04
+  },
+  {
+    "text": "would want to tell an app founder that",
+    "start": 3196.28,
+    "duration": 5.08
+  },
+  {
+    "text": "you feel like most people don't get as",
+    "start": 3198.8,
+    "duration": 3.92
+  },
+  {
+    "text": "advice very often?",
+    "start": 3201.36,
+    "duration": 4.88
+  },
+  {
+    "text": ">> Yeah, I think um first principles, very",
+    "start": 3202.72,
+    "duration": 5.76
+  },
+  {
+    "text": "important. I do some consulting calls",
+    "start": 3206.24,
+    "duration": 4.36
+  },
+  {
+    "text": "sometimes. A lot of the people will come",
+    "start": 3208.48,
+    "duration": 3.48
+  },
+  {
+    "text": "and be like, \"Oh yeah, I saw this on",
+    "start": 3210.6,
+    "duration": 3.24
+  },
+  {
+    "text": "Twitter. I saw this on Twitter.\"",
+    "start": 3211.96,
+    "duration": 4.2
+  },
+  {
+    "text": "Uh this and that. And I'm like, \"Okay,",
+    "start": 3213.84,
+    "duration": 4.12
+  },
+  {
+    "text": "but have you downloaded the apps?\" And",
+    "start": 3216.16,
+    "duration": 3.88
+  },
+  {
+    "text": "they haven't. And the thing is like I I",
+    "start": 3217.96,
+    "duration": 3.8
+  },
+  {
+    "text": "haven't like I've been building apps for",
+    "start": 3220.04,
+    "duration": 3.36
+  },
+  {
+    "text": "2 years. I never",
+    "start": 3221.76,
+    "duration": 4.16
+  },
+  {
+    "text": "posted anything on Twitter until, you",
+    "start": 3223.4,
+    "duration": 5.92
+  },
+  {
+    "text": "know, earlier this year. Um all of my",
+    "start": 3225.92,
+    "duration": 6.44
+  },
+  {
+    "text": "learnings, Twitter or X, it's it's only",
+    "start": 3229.32,
+    "duration": 6
+  },
+  {
+    "text": "like maybe 10% of it. Like 90% is",
+    "start": 3232.36,
+    "duration": 6.04
+  },
+  {
+    "text": "actually you downloading the actual app,",
+    "start": 3235.32,
+    "duration": 5.32
+  },
+  {
+    "text": "like learning from the onboarding flow,",
+    "start": 3238.4,
+    "duration": 4.6
+  },
+  {
+    "text": "by doing it yourself, and testing it on",
+    "start": 3240.64,
+    "duration": 4.08
+  },
+  {
+    "text": "your actual app, instead of just reading",
+    "start": 3243,
+    "duration": 3.6
+  },
+  {
+    "text": "about it on X. So, I think that's",
+    "start": 3244.72,
+    "duration": 3.56
+  },
+  {
+    "text": "something that a lot of people forget to",
+    "start": 3246.6,
+    "duration": 3
+  },
+  {
+    "text": "do because",
+    "start": 3248.28,
+    "duration": 3.88
+  },
+  {
+    "text": "I I do think X sometimes is like it is a",
+    "start": 3249.6,
+    "duration": 4.48
+  },
+  {
+    "text": "bubble, you know, everyone's posting",
+    "start": 3252.16,
+    "duration": 3.88
+  },
+  {
+    "text": "crazy numbers, and you just want to",
+    "start": 3254.08,
+    "duration": 4.2
+  },
+  {
+    "text": "listen to them, but but you have to, you",
+    "start": 3256.04,
+    "duration": 4.36
+  },
+  {
+    "text": "know, be hands-on with it and be crafty",
+    "start": 3258.28,
+    "duration": 5.72
+  },
+  {
+    "text": "with it. Another thing, um is",
+    "start": 3260.4,
+    "duration": 6.96
+  },
+  {
+    "text": "don't be too harsh on yourself. I think",
+    "start": 3264,
+    "duration": 4.96
+  },
+  {
+    "text": "a lot of the times, like, I know some",
+    "start": 3267.36,
+    "duration": 3.28
+  },
+  {
+    "text": "people who are just building consumer",
+    "start": 3268.96,
+    "duration": 3.48
+  },
+  {
+    "text": "apps just because",
+    "start": 3270.64,
+    "duration": 4.72
+  },
+  {
+    "text": "of the hype around it, but actually",
+    "start": 3272.44,
+    "duration": 4.76
+  },
+  {
+    "text": "think about what you want to do and and",
+    "start": 3275.36,
+    "duration": 3.56
+  },
+  {
+    "text": "what you value and what you find",
+    "start": 3277.2,
+    "duration": 4.08
+  },
+  {
+    "text": "meaningful, because a lot of the times",
+    "start": 3278.92,
+    "duration": 4.08
+  },
+  {
+    "text": "what you find meaningful, playing",
+    "start": 3281.28,
+    "duration": 3.52
+  },
+  {
+    "text": "volleyball or painting a painting, is",
+    "start": 3283,
+    "duration": 3.56
+  },
+  {
+    "text": "the same thing that you find meaningful",
+    "start": 3284.8,
+    "duration": 3.88
+  },
+  {
+    "text": "building an app. And I think if you can",
+    "start": 3286.56,
+    "duration": 5.2
+  },
+  {
+    "text": "find that little abstract idea that",
+    "start": 3288.68,
+    "duration": 5.88
+  },
+  {
+    "text": "defines who you are, you can succeed in",
+    "start": 3291.76,
+    "duration": 5.56
+  },
+  {
+    "text": "whatever industry you you plan to do.",
+    "start": 3294.56,
+    "duration": 4.44
+  },
+  {
+    "text": ">> I think that's such good advice. Like,",
+    "start": 3297.32,
+    "duration": 4.24
+  },
+  {
+    "text": "don't just follow Twitter. Like, see the",
+    "start": 3299,
+    "duration": 4.32
+  },
+  {
+    "text": "results that people are flexing on",
+    "start": 3301.56,
+    "duration": 3.48
+  },
+  {
+    "text": "Twitter, and then actually download the",
+    "start": 3303.32,
+    "duration": 4.28
+  },
+  {
+    "text": "app and study it yourself, instead of",
+    "start": 3305.04,
+    "duration": 5
+  },
+  {
+    "text": "blindly believing it or blindly like",
+    "start": 3307.6,
+    "duration": 3.76
+  },
+  {
+    "text": "saying, \"Oh, that's fake.\" Just like",
+    "start": 3310.04,
+    "duration": 3.84
+  },
+  {
+    "text": "actually download the app and see how it",
+    "start": 3311.36,
+    "duration": 4.44
+  },
+  {
+    "text": "study it. Um but then would you also",
+    "start": 3313.88,
+    "duration": 3.76
+  },
+  {
+    "text": "apply that to marketing? Like, do you",
+    "start": 3315.8,
+    "duration": 4.04
+  },
+  {
+    "text": "scroll TikToks and just like look at",
+    "start": 3317.64,
+    "duration": 3
+  },
+  {
+    "text": "people's marketing?",
+    "start": 3319.84,
+    "duration": 3.04
+  },
+  {
+    "text": ">> Hours. Hours of it. Yeah, usually the",
+    "start": 3320.64,
+    "duration": 4.04
+  },
+  {
+    "text": "ones are doing the best are not they're",
+    "start": 3322.88,
+    "duration": 3.4
+  },
+  {
+    "text": "not posting anything on Twitter, you",
+    "start": 3324.68,
+    "duration": 2.92
+  },
+  {
+    "text": "know? Like, they're they're keeping it",
+    "start": 3326.28,
+    "duration": 3.48
+  },
+  {
+    "text": "to themselves. So, you have to find it.",
+    "start": 3327.6,
+    "duration": 2.8
+  },
+  {
+    "text": "Yeah.",
+    "start": 3329.76,
+    "duration": 2.28
+  },
+  {
+    "text": ">> This was a great interview. Thank you",
+    "start": 3330.4,
+    "duration": 2.84
+  },
+  {
+    "text": "for being on the pod.",
+    "start": 3332.04,
+    "duration": 3.12
+  },
+  {
+    "text": ">> Thank you, Joseph. I'm super excited for",
+    "start": 3333.24,
+    "duration": 3.96
+  },
+  {
+    "text": "this, and thank you for for for",
+    "start": 3335.16,
+    "duration": 2.88
+  },
+  {
+    "text": "interviewing me.",
+    "start": 3337.2,
+    "duration": 2.2
+  },
+  {
+    "text": ">> Where where can people find you?",
+    "start": 3338.04,
+    "duration": 6.04
+  },
+  {
+    "text": ">> Uh they can find me on X at made by Cole",
+    "start": 3339.4,
+    "duration": 7.88
+  },
+  {
+    "text": "and I might do some other stuff later",
+    "start": 3344.08,
+    "duration": 6.08
+  },
+  {
+    "text": "on. We'll see. And if they're interested",
+    "start": 3347.28,
+    "duration": 5.12
+  },
+  {
+    "text": "uh in the playbook, maybe like you can",
+    "start": 3350.16,
+    "duration": 3.8
+  },
+  {
+    "text": "put it as a link in bio or something",
+    "start": 3352.4,
+    "duration": 3.52
+  },
+  {
+    "text": "like that. It's completely free if you",
+    "start": 3353.96,
+    "duration": 3.56
+  },
+  {
+    "text": "guys want to read the whole thing, you",
+    "start": 3355.92,
+    "duration": 3.12
+  },
+  {
+    "text": "know, hopefully it's helpful for you",
+    "start": 3357.52,
+    "duration": 2.2
+  },
+  {
+    "text": "guys.",
+    "start": 3359.04,
+    "duration": 2.12
+  },
+  {
+    "text": ">> Sounds great. Thanks, Nicole.",
+    "start": 3359.72,
+    "duration": 1.76
+  },
+  {
+    "text": ">> Bye.",
+    "start": 3361.16,
+    "duration": 2.2
+  },
+  {
+    "text": ">> All right. Something you might not know,",
+    "start": 3361.48,
+    "duration": 3.48
+  },
+  {
+    "text": "most of the founders I cover on this",
+    "start": 3363.36,
+    "duration": 3.6
+  },
+  {
+    "text": "podcast are hanging out right now in the",
+    "start": 3364.96,
+    "duration": 4.08
+  },
+  {
+    "text": "Consumer Club Discord sharing with each",
+    "start": 3366.96,
+    "duration": 3.64
+  },
+  {
+    "text": "other what's working now for consumer",
+    "start": 3369.04,
+    "duration": 3.24
+  },
+  {
+    "text": "apps. So you can apply to join Consumer",
+    "start": 3370.6,
+    "duration": 3.52
+  },
+  {
+    "text": "Club if that sounds interesting to you.",
+    "start": 3372.28,
+    "duration": 3.48
+  },
+  {
+    "text": "And this is the Superwall podcast. Of",
+    "start": 3374.12,
+    "duration": 2.56
+  },
+  {
+    "text": "course, you got to check out",
+    "start": 3375.76,
+    "duration": 2.76
+  },
+  {
+    "text": "superwall.com. We have more videos on",
+    "start": 3376.68,
+    "duration": 3.68
+  },
+  {
+    "text": "the channel. So dig into those to learn",
+    "start": 3378.52,
+    "duration": 3.2
+  },
+  {
+    "text": "from app founders who are willing to",
+    "start": 3380.36,
+    "duration": 3.8
+  },
+  {
+    "text": "share super tactical stuff about app",
+    "start": 3381.72,
+    "duration": 4.88
+  },
+  {
+    "text": "growth.",
+    "start": 3384.16,
+    "duration": 2.44
+  }
+]

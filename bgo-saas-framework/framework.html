@@ -1,0 +1,768 @@
+<title>Service First, SaaS Second</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800&family=Newsreader:opsz,wght@6..72,300;6..72,400;6..72,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{
+  --paper:#EDEEE9;
+  --surface:#F7F8F4;
+  --surface-2:#E3E5DE;
+  --ink:#161A19;
+  --ink-soft:#525A57;
+  --ink-faint:#7C8481;
+  --rule:#D0D4CB;
+  --rule-strong:#AEB4A9;
+  --accent:#0E4C55;
+  --accent-soft:#D8E6E6;
+  --wrong:#9E3320;
+  --wrong-soft:#F2DDD7;
+  --right:#2F5D3A;
+  --right-soft:#DCE8DC;
+  --shadow:0 1px 0 rgba(22,26,25,.06);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#131715;
+    --surface:#1A201D;
+    --surface-2:#232A27;
+    --ink:#E7EAE4;
+    --ink-soft:#A3ADA7;
+    --ink-faint:#79837E;
+    --rule:#2E3733;
+    --rule-strong:#414C47;
+    --accent:#79C6CE;
+    --accent-soft:#1D3A3D;
+    --wrong:#E08A72;
+    --wrong-soft:#33211C;
+    --right:#8FC49C;
+    --right-soft:#1E2C22;
+    --shadow:0 1px 0 rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#131715;
+  --surface:#1A201D;
+  --surface-2:#232A27;
+  --ink:#E7EAE4;
+  --ink-soft:#A3ADA7;
+  --ink-faint:#79837E;
+  --rule:#2E3733;
+  --rule-strong:#414C47;
+  --accent:#79C6CE;
+  --accent-soft:#1D3A3D;
+  --wrong:#E08A72;
+  --wrong-soft:#33211C;
+  --right:#8FC49C;
+  --right-soft:#1E2C22;
+  --shadow:0 1px 0 rgba(0,0,0,.3);
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Newsreader",Georgia,"Times New Roman",serif;
+  font-size:18px;
+  line-height:1.62;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px 96px}
+
+/* ---------- type ---------- */
+h1,h2,h3,h4,.eyebrow,.num,th,.btn{font-family:"Archivo",-apple-system,"Helvetica Neue",Arial,sans-serif}
+h1{
+  font-weight:800;font-size:clamp(38px,6.4vw,76px);line-height:.98;
+  letter-spacing:-.025em;text-wrap:balance;margin:0;
+  font-stretch:92%;
+}
+h2{font-weight:800;font-size:clamp(26px,3.4vw,38px);line-height:1.08;letter-spacing:-.02em;margin:0;text-wrap:balance}
+h3{font-weight:700;font-size:20px;line-height:1.25;letter-spacing:-.01em;margin:0 0 8px;text-wrap:balance}
+h4{font-weight:600;font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);margin:0}
+p{margin:0}
+.eyebrow{
+  font-size:12px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--accent);
+}
+.lede{font-size:clamp(19px,2.1vw,23px);line-height:1.55;color:var(--ink-soft);font-weight:300}
+.mono{font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace}
+.small{font-size:15px;line-height:1.55;color:var(--ink-soft)}
+.tiny{font-size:13px;line-height:1.5;color:var(--ink-faint)}
+em{font-style:italic}
+strong{font-weight:600}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
+a:focus-visible,.btn:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+
+/* ---------- masthead ---------- */
+header.mast{
+  border-bottom:1.5px solid var(--ink);
+  padding:56px 0 26px;margin-bottom:44px;
+}
+.mast-top{
+  display:flex;flex-wrap:wrap;gap:12px 28px;align-items:baseline;
+  justify-content:space-between;margin-bottom:34px;
+}
+.src{font-size:13px;color:var(--ink-faint);font-family:"IBM Plex Mono",monospace}
+.src a{color:var(--ink-soft)}
+h1 .hl{color:var(--accent)}
+.mast-sub{
+  margin-top:26px;display:grid;grid-template-columns:minmax(0,1fr);gap:22px;
+  max-width:64ch;
+}
+.thesis{
+  border-left:3px solid var(--accent);padding:2px 0 2px 20px;
+  font-size:clamp(19px,2.3vw,25px);line-height:1.45;font-weight:400;
+}
+.thesis .q{color:var(--ink-faint)}
+
+/* ---------- toc ---------- */
+nav.toc{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));
+  gap:0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  margin:0 0 68px;
+}
+nav.toc a{
+  display:flex;flex-direction:column;gap:3px;padding:14px 16px 14px 0;
+  text-decoration:none;color:var(--ink);border-right:1px solid var(--rule);
+}
+nav.toc a:last-child{border-right:none}
+nav.toc a:hover .tl{color:var(--accent)}
+nav.toc .tn{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-faint)}
+nav.toc .tl{font-family:"Archivo",sans-serif;font-weight:600;font-size:14px;line-height:1.25;transition:color .15s}
+
+/* ---------- sections on a spine ---------- */
+section.step{
+  display:grid;grid-template-columns:64px minmax(0,1fr);gap:0 28px;
+  padding-bottom:64px;position:relative;
+}
+.spine{
+  position:relative;
+}
+.spine::before{
+  content:"";position:absolute;left:23px;top:52px;bottom:-64px;width:1px;background:var(--rule);
+}
+section.step:last-of-type .spine::before{display:none}
+.num{
+  width:47px;height:47px;border-radius:50%;
+  border:1.5px solid var(--ink);
+  display:grid;place-items:center;
+  font-family:"IBM Plex Mono",monospace;font-weight:600;font-size:15px;
+  background:var(--paper);position:relative;z-index:1;
+}
+.step-body{display:flex;flex-direction:column;gap:20px;min-width:0;padding-top:8px}
+.step-head{display:flex;flex-direction:column;gap:10px}
+
+/* ---------- blocks ---------- */
+.card{
+  background:var(--surface);border:1px solid var(--rule);
+  padding:22px 24px;box-shadow:var(--shadow);
+}
+.card h3{margin-bottom:6px}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.grid3{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}
+.stack{display:flex;flex-direction:column;gap:14px}
+
+.pull{
+  font-size:clamp(20px,2.5vw,27px);line-height:1.32;font-weight:400;
+  border-top:1.5px solid var(--ink);border-bottom:1.5px solid var(--ink);
+  padding:22px 0;text-wrap:balance;
+}
+.pull .vi{display:block;font-size:16px;line-height:1.5;color:var(--ink-soft);margin-top:10px;font-style:italic}
+
+/* flow */
+.flow{
+  display:flex;flex-wrap:wrap;align-items:stretch;gap:8px;
+  font-family:"Archivo",sans-serif;
+}
+.flow .node{
+  flex:1 1 auto;min-width:104px;text-align:center;padding:14px 12px;
+  border:1px solid var(--rule-strong);background:var(--surface);
+  font-weight:600;font-size:13px;letter-spacing:.05em;text-transform:uppercase;
+}
+.flow .node.key{background:var(--accent);color:var(--paper);border-color:var(--accent)}
+.flow .arw{align-self:center;color:var(--ink-faint);font-size:15px}
+
+/* venn-ish */
+.venn{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px}
+.venn .c{border:1px solid var(--rule);background:var(--surface);padding:18px 18px 20px}
+.venn .c h4{color:var(--accent);margin-bottom:8px}
+.venn .c ul{margin:0;padding-left:18px}
+.venn .c li{margin-bottom:5px;font-size:15px;line-height:1.5;color:var(--ink-soft)}
+.venn-out{
+  margin-top:12px;padding:14px 18px;background:var(--accent-soft);
+  border:1px solid var(--accent);font-size:16px;
+}
+
+/* tables */
+.tbl-wrap{overflow-x:auto;border:1px solid var(--rule);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:15px;min-width:440px}
+th{
+  text-align:left;font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-faint);padding:12px 16px;border-bottom:1px solid var(--rule-strong);
+  white-space:nowrap;
+}
+td{padding:11px 16px;border-bottom:1px solid var(--rule);vertical-align:top;line-height:1.45}
+tr:last-child td{border-bottom:none}
+td.n{font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums;white-space:nowrap;font-size:14px}
+.tbl-wrap .cap{padding:10px 16px;font-size:12px;color:var(--ink-faint);border-top:1px solid var(--rule);font-family:"IBM Plex Mono",monospace}
+
+/* compare */
+.cmp{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:0;border:1px solid var(--rule)}
+.cmp>div{padding:20px 22px}
+.cmp .bad{background:var(--wrong-soft);border-right:1px solid var(--rule)}
+.cmp .good{background:var(--right-soft)}
+.cmp h4{margin-bottom:12px}
+.cmp .bad h4{color:var(--wrong)}
+.cmp .good h4{color:var(--right)}
+.cmp ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:7px}
+.cmp li{font-size:15px;line-height:1.45}
+
+/* script box */
+.script{
+  background:var(--surface-2);border:1px solid var(--rule-strong);
+  padding:18px 20px;font-family:"IBM Plex Mono",monospace;font-size:14.5px;line-height:1.6;
+}
+.script .en{color:var(--ink)}
+.script .vn{color:var(--ink-soft);display:block;margin-top:7px}
+.script .lbl{
+  display:block;font-family:"Archivo",sans-serif;font-size:11px;font-weight:600;
+  letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:9px;
+}
+
+/* invoice test */
+.inv{display:grid;grid-template-columns:1fr auto 1fr;gap:14px;align-items:center}
+.inv .side{padding:16px 18px;border:1px solid var(--rule);background:var(--surface)}
+.inv .no{color:var(--wrong);text-decoration:line-through;text-decoration-thickness:1.5px}
+.inv .yes{border-color:var(--accent)}
+.inv .mid{color:var(--ink-faint);font-size:20px}
+@media(max-width:640px){.inv{grid-template-columns:1fr}.inv .mid{transform:rotate(90deg);justify-self:center}}
+
+/* callout */
+.note{
+  border-left:3px solid var(--rule-strong);padding:4px 0 4px 18px;
+  font-size:16px;color:var(--ink-soft);
+}
+.note.warn{border-left-color:var(--wrong)}
+
+/* checklist */
+ul.check{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:9px}
+ul.check li{
+  display:grid;grid-template-columns:22px 1fr;gap:10px;font-size:15.5px;line-height:1.5;
+}
+ul.check li::before{
+  content:"";width:15px;height:15px;border:1.5px solid var(--rule-strong);
+  margin-top:4px;
+}
+
+/* stat strip */
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:0;border:1px solid var(--rule);background:var(--surface)}
+.stats>div{padding:18px 20px;border-right:1px solid var(--rule)}
+.stats>div:last-child{border-right:none}
+.stats .v{font-family:"Archivo",sans-serif;font-weight:800;font-size:clamp(24px,3vw,32px);letter-spacing:-.02em;line-height:1;color:var(--accent);font-variant-numeric:tabular-nums}
+.stats .k{font-size:13px;color:var(--ink-soft);margin-top:8px;line-height:1.35}
+
+/* closing */
+.closing{border-top:1.5px solid var(--ink);margin-top:20px;padding-top:40px;display:flex;flex-direction:column;gap:28px}
+ol.laws{margin:0;padding-left:22px;display:flex;flex-direction:column;gap:12px;font-size:17px}
+ol.laws li::marker{font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--ink-faint)}
+ol.laws .vi{display:block;font-size:15px;color:var(--ink-soft);margin-top:3px}
+
+footer{margin-top:56px;padding-top:20px;border-top:1px solid var(--rule);font-size:13px;color:var(--ink-faint);font-family:"IBM Plex Mono",monospace;display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+
+@media(max-width:700px){
+  body{font-size:17px}
+  section.step{grid-template-columns:40px minmax(0,1fr);gap:0 16px}
+  .num{width:38px;height:38px;font-size:13px}
+  .spine::before{left:18.5px;top:44px}
+  .cmp .bad{border-right:none;border-bottom:1px solid var(--rule)}
+  .stats>div{border-right:none;border-bottom:1px solid var(--rule)}
+  .stats>div:last-child{border-bottom:none}
+}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<div class="wrap">
+
+<header class="mast">
+  <div class="mast-top">
+    <span class="eyebrow">Khung xây SaaS · Bản đúc kết</span>
+    <span class="src">Nguồn: <a href="https://www.youtube.com/watch?v=sQhjGDmV-bw">Bgo — “How I'd Build a SaaS That PRINTS Money in 2026”</a> · 54:02</span>
+  </div>
+  <h1>Service first.<br><span class="hl">SaaS second.</span></h1>
+  <div class="mast-sub">
+    <p class="lede">Ba người xây SaaS thành công: hai kỹ sư phần mềm, một y tá chưa từng viết một dòng code. Mẫu số chung không phải kỹ năng — mà là <strong>thứ tự</strong> họ làm mọi việc.</p>
+    <p class="thesis">Bạn không <span class="q">build</span> một SaaS.<br>Bạn <strong>giành lấy quyền</strong> được build một SaaS.</p>
+  </div>
+</header>
+
+<nav class="toc">
+  <a href="#s1"><span class="tn">01</span><span class="tl">Tìm vấn đề</span></a>
+  <a href="#s2"><span class="tn">02</span><span class="tl">Bán trước khi build</span></a>
+  <a href="#s3"><span class="tn">03</span><span class="tl">Giải bằng tay</span></a>
+  <a href="#s4"><span class="tn">04</span><span class="tl">Tín hiệu được build</span></a>
+  <a href="#s5"><span class="tn">05</span><span class="tl">Phân phối</span></a>
+  <a href="#s6"><span class="tn">06</span><span class="tl">Ba đòn bẩy</span></a>
+  <a href="#numbers"><span class="tn">→</span><span class="tl">Timeline &amp; con số</span></a>
+</nav>
+
+<!-- ============ INTRO ============ -->
+<section class="step">
+  <div class="spine"><div class="num">00</div></div>
+  <div class="step-body">
+    <div class="step-head">
+      <span class="eyebrow">Chẩn đoán</span>
+      <h2>Vì sao 99% SaaS chết</h2>
+    </div>
+    <p>Vòng lặp quen thuộc của mọi dev: có ý tưởng → code sáu tháng → launch → im lặng → nản → có ý tưởng mới → lặp lại. Vấn đề không nằm ở tay nghề.</p>
+    <p class="pull">You're not stuck because you can't build.<br>You're stuck because you <strong>build first</strong>.
+      <span class="vi">Bạn kẹt không phải vì bạn không build được. Bạn kẹt vì bạn build trước.</span></p>
+
+    <div class="grid3">
+      <div class="card">
+        <h3>Y tá thực hành</h3>
+        <p class="small"><strong>Chưa từng viết một dòng code.</strong> HH&nbsp;Notes&nbsp;AI — ghi âm buổi thăm khám, tự điền form OASIS. Rút 2–3 giờ xuống 2–3 phút.</p>
+        <p class="small" style="margin-top:10px;color:var(--accent)"><strong>$35–40K tháng đầu · 0đ quảng cáo</strong></p>
+      </div>
+      <div class="card">
+        <h3>Sandra</h3>
+        <p class="small">Kỹ sư phần mềm đào tạo tại MIT. Phần mềm compliance cho home care — sinh ra từ chính agency dịch vụ của cô.</p>
+        <p class="small" style="margin-top:10px;color:var(--accent)"><strong>Nhiều khách đã ký trước khi hard-launch</strong></p>
+      </div>
+      <div class="card">
+        <h3>Paul</h3>
+        <p class="small">Dev kỳ cựu hàng chục năm. Quản lý nhà cung cấp cho chuỗi nhà hàng Mỹ.</p>
+        <p class="small" style="margin-top:10px;color:var(--accent)"><strong>$100K + equity để build · $50K/tháng từ service</strong></p>
+      </div>
+    </div>
+
+    <h4 style="margin-top:6px">Thứ tự đúng — xương sống của toàn bộ framework</h4>
+    <div class="flow">
+      <div class="node">Unique<br>advantage</div><span class="arw">→</span>
+      <div class="node">Conversation</div><span class="arw">→</span>
+      <div class="node">Pitch</div><span class="arw">→</span>
+      <div class="node key">Deposit</div><span class="arw">→</span>
+      <div class="node">Giải bằng tay</div><span class="arw">→</span>
+      <div class="node">Lặp lại</div><span class="arw">→</span>
+      <div class="node">SaaS</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 01 ============ -->
+<section class="step" id="s1">
+  <div class="spine"><div class="num">01</div></div>
+  <div class="step-body">
+    <div class="step-head">
+      <span class="eyebrow">Ý tưởng</span>
+      <h2>Vấn đề không nằm trên internet</h2>
+    </div>
+    <p>Reddit, X, “best SaaS ideas 2026” — Bgo tự thú chính anh ta đã mất thời gian ở đó. Vô ích.</p>
+    <p class="pull">Vấn đề bạn cần gần như chắc chắn <strong>không được đăng ở đâu cả</strong>. Nó được <strong>nói thành lời</strong>, trong một cuộc trò chuyện với một người thật đang điều hành một doanh nghiệp thật.</p>
+
+    <h4>Unique Advantage — ba vòng tròn</h4>
+    <div class="venn">
+      <div class="c">
+        <h4>Location</h4>
+        <ul>
+          <li>Thành phố bạn tới gặp mặt được</li>
+          <li>Hiệp hội ngành nghề, BNI, hội doanh nhân</li>
+          <li>Triển lãm &amp; sự kiện ngành</li>
+          <li>Cộng đồng online bạn thực sự có mặt</li>
+        </ul>
+      </div>
+      <div class="c">
+        <h4>Network</h4>
+        <ul>
+          <li>Chủ doanh nghiệp đã có trong danh bạ</li>
+          <li>Đồng nghiệp cũ nay ở ghế ra quyết định</li>
+          <li>Người thân có business offline</li>
+          <li>Ai bạn bè giới thiệu được ngay tuần này</li>
+        </ul>
+      </div>
+      <div class="c">
+        <h4>Experience</h4>
+        <ul>
+          <li>Ngành bạn đã cắm 10–15 năm</li>
+          <li>Quy trình bạn biết “chỗ nào thối”</li>
+          <li>Jargon dev khác không hiểu</li>
+          <li>Sở thích bạn theo sâu</li>
+        </ul>
+      </div>
+    </div>
+    <p class="venn-out"><strong>Phần giao nhau là nơi bạn săn.</strong> Xác suất hai người trên đời có cùng location + network + experience gần như bằng không. Trong buổi live, hàng chục người gõ ngành mạnh nhất của mình — <em>không một câu trả lời nào trùng nhau</em>.</p>
+
+    <div class="grid2">
+      <div class="card">
+        <h3>Mỏ quặng 1 — Free tech support list</h3>
+        <p class="small">Liệt kê mọi lần ai đó nhờ vả bạn <em>chỉ vì bạn là dev</em>: ông anh họ có nhà hàng cần website, chú ở nhà thờ, sếp cũ nhờ sửa file Excel. Đó là cầu thật, và nó tự tìm đến bạn.</p>
+      </div>
+      <div class="card">
+        <h3>Mỏ quặng 2 — Badge industry</h3>
+        <p class="small">Ngành bạn đã làm 10–15 năm. Bạn hiểu jargon, hiểu quy trình, biết ai duyệt ngân sách. Một dev giỏi hơn bạn <strong>không mua được lợi thế này bằng tiền</strong>.</p>
+      </div>
+    </div>
+
+    <div class="script">
+      <span class="lbl">Câu hỏi ma thuật — rồi im lặng và ghi chép</span>
+      <span class="en">“If you had a magic wand, what problem would you make go away?”</span>
+      <span class="vn">“Nếu anh/chị có cây đũa thần, anh muốn xoá bay vấn đề nào trong công việc?”</span>
+    </div>
+
+    <p class="note">Luyện nghe <strong>“the sigh”</strong> — tiếng thở dài. Mọi chủ doanh nghiệp đều sẽ than phiền, đôi khi ngụy trang thành một câu đùa. Năm 1995 tại hội chợ NAMM, một phụ nữ <em>đùa</em> rằng cô muốn có cái hộp giúp hát đúng tông. Năm 1997, Auto-Tune ra đời.</p>
+
+    <p class="note">Bạn không cố thay đổi thế giới, không cố thành Jeff Bezos. Bạn giải vấn đề mà <strong>chỉ bạn mới ở đúng vị trí để nhìn thấy và khai thác</strong>.</p>
+  </div>
+</section>
+
+<!-- ============ 02 ============ -->
+<section class="step" id="s2">
+  <div class="spine"><div class="num">02</div></div>
+  <div class="step-body">
+    <div class="step-head">
+      <span class="eyebrow">Kiểm chứng thị trường</span>
+      <h2>Bán bản sửa lỗi trước khi build bất cứ thứ gì</h2>
+    </div>
+
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th></th><th>Service</th><th>SaaS</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Dòng tiền</strong></td><td><strong>Được trả tiền TRƯỚC khi giải pháp tồn tại</strong></td><td>Phải có sản phẩm rồi mới thu được tiền</td></tr>
+          <tr><td><strong>Ai chịu rủi ro</strong></td><td>Khách</td><td>Bạn</td></tr>
+          <tr><td><strong>Ai bỏ vốn</strong></td><td>Tiền cọc của khách</td><td>Tiền tiết kiệm của bạn</td></tr>
+        </tbody>
+      </table>
+      <div class="cap">Đây là toàn bộ khác biệt. Việc build chỉ bắt đầu sau khi tiền đã về tài khoản.</div>
+    </div>
+
+    <div class="flow">
+      <div class="node">Conversation</div><span class="arw">→</span>
+      <div class="node">Pitch</div><span class="arw">→</span>
+      <div class="node key">Deposit</div><span class="arw">→</span>
+      <div class="node">Solve</div>
+    </div>
+
+    <h4>The Invoice Test — luật ngôn ngữ</h4>
+    <p>Nếu một từ <strong>không bao giờ xuất hiện trên hoá đơn mà họ gửi cho khách của họ</strong>, từ đó không được có mặt trong pitch của bạn.</p>
+    <div class="inv">
+      <div class="side"><p class="small no">API · pipeline · model · LLM · agent · integration · RAG</p></div>
+      <div class="mid">→</div>
+      <div class="side yes"><p class="small">“Kỹ thuật viên của anh rời công trường là báo cáo đã nộp xong.”<br><span class="tiny">visits · claims · no-shows · giờ overtime · khách bị mất · doanh thu bị mất</span></p></div>
+    </div>
+
+    <p class="pull">Họ không trả tiền cho <strong>code</strong> của bạn.<br>Họ mua <strong>kết quả</strong>.
+      <span class="vi">Không case study, không testimonial, không portfolio — đều không liên quan. Họ mua outcome.</span></p>
+
+    <div class="grid2">
+      <div class="card"><h3>Vì sao phải thu tiền trước (1)</h3><p class="small">Làm free chỉ hút người chất lượng thấp. <strong>Tiền là bộ lọc</strong> tách “khách du lịch” khỏi người nghiêm túc.</p></div>
+      <div class="card"><h3>Vì sao phải thu tiền trước (2)</h3><p class="small">Khách đã trả tiền trả lời câu hỏi spec <strong>nhanh gấp nhiều lần</strong> khách chưa trả đồng nào.</p></div>
+    </div>
+
+    <div class="script">
+      <span class="lbl">Câu chốt giá — nói xong thì ngừng nói</span>
+      <span class="en">“It's [PRICE] for [OUTCOME]. Half to start, half when it's live.”</span>
+      <span class="vn">“Là [giá] cho [kết quả]. Một nửa để bắt đầu, một nửa khi chạy được.”</span>
+    </div>
+
+    <div class="cmp">
+      <div class="bad">
+        <h4>Không bao giờ</h4>
+        <ul>
+          <li>Nhận 100% sau khi giao hàng</li>
+          <li>Giảm giá khi bị ép</li>
+          <li>Build khi chưa có cọc</li>
+        </ul>
+      </div>
+      <div class="good">
+        <h4>Luôn luôn</h4>
+        <ul>
+          <li>Tối thiểu 50/50, hoặc chia milestone</li>
+          <li><strong>Thu hẹp scope, không hạ giá</strong></li>
+          <li>Tiền = validation = bản đặc tả yêu cầu</li>
+        </ul>
+      </div>
+    </div>
+
+    <p class="note"><strong>Case:</strong> Ian bán cho bạn của một đồng nghiệp cũ, gặp mặt trực tiếp — <strong>$10,000</strong>, 5K trước 5K sau. Không portfolio, chưa từng làm bao giờ. Người kia đồng ý vì đang mua một outcome.</p>
+  </div>
+</section>
+
+<!-- ============ 03 ============ -->
+<section class="step" id="s3">
+  <div class="spine"><div class="num">03</div></div>
+  <div class="step-body">
+    <div class="step-head">
+      <span class="eyebrow">Phiên bản đầu tiên</span>
+      <h2>V1 phải làm bạn thấy xấu hổ</h2>
+    </div>
+
+    <div class="cmp">
+      <div class="bad" style="background:var(--surface)">
+        <h4 style="color:var(--ink-faint)">Solution A — bàn tay</h4>
+        <ul><li>Một buổi tư vấn</li><li>Một quy trình</li><li>Một bảng tính</li><li>Một checklist</li><li>Một workshop</li><li>Một bản build one-off</li></ul>
+      </div>
+      <div class="good" style="background:var(--surface)">
+        <h4 style="color:var(--ink-faint)">Solution B — code</h4>
+        <ul><li>Phần mềm</li></ul>
+        <p class="small" style="margin-top:14px;color:var(--ink-faint)">Chỉ đến sau. Không bao giờ đến trước.</p>
+      </div>
+    </div>
+
+    <p class="pull">If the only fix you can think of is software, you do not understand the problem well enough.
+      <span class="vi">Nếu giải pháp duy nhất bạn nghĩ ra được là phần mềm, bạn chưa hiểu vấn đề đủ sâu. Không gọi tên được A → chưa sẵn sàng cho B.</span></p>
+
+    <p>Y tá kia đã làm <strong>thủ công</strong> việc điền form OASIS và kiểm compliance cho các home-health agency, qua dịch vụ tư vấn — trước khi nó trở thành phần mềm.</p>
+
+    <div class="stats">
+      <div><div class="v mono">3 giờ</div><div class="k">Khách tự làm — bài toán gốc</div></div>
+      <div><div class="v mono">45 phút</div><div class="k">Solution A, thủ công — <strong>đã đủ để bán</strong></div></div>
+      <div><div class="v mono">3 phút</div><div class="k">Solution B, phần mềm — chỉ đến sau khi validate</div></div>
+    </div>
+    <p class="small">45 phút vẫn tốt hơn 3 giờ rất nhiều. Bạn đã tạo giá trị thật, được trả tiền thật, và hiểu bài toán tới tận xương trước khi viết dòng code đầu tiên.</p>
+
+    <p class="note">Solution A phải làm được <strong>một mình</strong> — không cần team, không cần funding, không cần xin phép ai. Software không phải đẳng cấp cao hơn service; nó chỉ là <em>hình thái cuối cùng của đòn bẩy</em>.</p>
+  </div>
+</section>
+
+<!-- ============ 04 ============ -->
+<section class="step" id="s4">
+  <div class="spine"><div class="num">04</div></div>
+  <div class="step-body">
+    <div class="step-head">
+      <span class="eyebrow">Tín hiệu</span>
+      <h2>Khi nào bạn được phép build SaaS</h2>
+    </div>
+
+    <p class="pull">Nhiều <strong>người mua khác nhau</strong> trả tiền cho <strong>cùng một giải pháp</strong>.
+      <span class="vi">Không phải một khách trả ba lần. Phải là khách mới, cùng giải pháp.</span></p>
+
+    <h4>The Repeat Log — ghi ở mọi khách hàng</h4>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Date</th><th>The task</th><th>Minutes it took</th><th>Who did it</th><th>What they said out loud</th></tr></thead>
+        <tbody>
+          <tr><td class="n">—</td><td>Việc gì</td><td class="n">Mất bao lâu</td><td>Ai làm</td><td><strong>Họ nói nguyên văn gì</strong></td></tr>
+        </tbody>
+      </table>
+      <div class="cap">Cột cuối cùng quan trọng nhất — nó chính là headline landing page SaaS của bạn sau này.</div>
+    </div>
+
+    <p>Khi bạn build cho ba người cùng một vấn đề, bạn sẽ thấy <strong>80% codebase giống hệt nhau</strong>, chỉ 20% là custom (nối API riêng, khớp workflow riêng). Lúc đó nó không còn là custom work nữa — nó là một SaaS đang đội lốt. Vấn đề lặp lại nghĩa là <strong>doanh thu lặp lại</strong>.</p>
+
+    <p class="note">SaaS thực chất chỉ là một <strong>“answer key”</strong> — đáp án bạn đã giải bằng tay nhiều lần, giờ in ra được hàng trăm nghìn bản.</p>
+
+    <div class="cmp">
+      <div class="bad">
+        <h4>Built on day one</h4>
+        <ul>
+          <li>Mỗi feature là một phỏng đoán</li>
+          <li>Tiền tiết kiệm của bạn nuôi nó</li>
+          <li>Bạn launch cho người lạ</li>
+          <li>Bạn tự bịa ra giá</li>
+        </ul>
+      </div>
+      <div class="good">
+        <h4>Built after validation</h4>
+        <ul>
+          <li>Mỗi feature là một hoá đơn đã thu</li>
+          <li>Tiền cọc của khách nuôi nó</li>
+          <li>Bạn giao cho khách đang trả tiền</li>
+          <li>Họ đã nói cho bạn biết giá</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="script">
+      <span class="lbl">Xin referral — 91% sẵn sàng, chỉ 11% từng được hỏi</span>
+      <span class="en">“Who's one other person you know that's dealing with [X problem]? Just do an intro from you and I'll take care of them.”</span>
+      <span class="vn">“Anh còn biết ai đang gặp đúng vấn đề [X] không? Anh chỉ cần giới thiệu giúp em một câu, phần còn lại em lo.”</span>
+    </div>
+
+    <h4>Checklist — chỉ build khi tất cả đều đúng</h4>
+    <ul class="check">
+      <li>Tôi đã được trả tiền <strong>trước</strong> ít nhất <strong>3 lần</strong> cho cùng loại vấn đề</li>
+      <li>Người trả tiền là <strong>3 buyer khác nhau</strong>, không phải 1 khách trả 3 lần</li>
+      <li>Tôi đã giải bài toán này <strong>bằng tay</strong> và biết chính xác nó tốn bao nhiêu phút</li>
+      <li>Repeat Log có ≥3 client và thấy rõ phần 80% trùng nhau</li>
+      <li>Tôi biết giá vì <strong>khách đã trả</strong> đúng mức đó — không phải tôi tự bịa</li>
+      <li>≥2 khách hiện tại sẵn sàng upgrade sang bản phần mềm</li>
+      <li>Thu nhập từ service đủ sống <strong>trong lúc build</strong></li>
+    </ul>
+    <p class="small">Thiếu bất kỳ ô nào → quay lại bán service.</p>
+  </div>
+</section>
+
+<!-- ============ 05 ============ -->
+<section class="step" id="s5">
+  <div class="spine"><div class="num">05</div></div>
+  <div class="step-body">
+    <div class="step-head">
+      <span class="eyebrow">Marketing &amp; phân phối</span>
+      <h2>Bạn không cần launch. Bạn không cần ads.</h2>
+    </div>
+
+    <p class="pull">Khách service của bạn <strong>chính là kênh phân phối</strong>.
+      <span class="vi">Launch cho người lạ → churn trong hai tuần và bạn phải đoán giá. Upgrade khách sẵn có → họ đã dùng giải pháp nhiều tháng, đã quen, và đã tự nói cho bạn biết mức giá.</span></p>
+
+    <div class="script">
+      <span class="lbl">Script chuyển Service → SaaS (nguyên văn của y tá)</span>
+      <span class="vn" style="margin-top:0;color:var(--ink)">“Tất cả những gì em vẫn làm thủ công cho anh, giờ đã có phần mềm. Anh vẫn trả đúng <strong>$1,500/tháng</strong> như cũ, vẫn nhận X, Y, Z như cũ — <strong>nhưng giờ có thêm</strong> tính năng A, B, C, D, E.”</span>
+    </div>
+    <p class="small">Với khách: offer <strong>tốt hơn</strong> (cùng giá, nhiều giá trị hơn). Với bạn: cùng doanh thu, không còn tốn giờ công, biên lợi nhuận nhảy vọt.</p>
+
+    <div class="card">
+      <h3>Custom work không chết — nó thành phí onboarding</h3>
+      <p class="small">Mô hình ServiceNow: <strong>80% giống nhau ở mọi khách → SaaS</strong> (subscription cố định). <strong>20% riêng của từng khách → onboarding / integration</strong>, tính phí riêng, high-ticket.</p>
+    </div>
+
+    <h4>Thứ tự scale — ads đứng cuối, không phải đầu</h4>
+    <div class="flow">
+      <div class="node">Khách service</div><span class="arw">→</span>
+      <div class="node">Referral</div><span class="arw">→</span>
+      <div class="node">Own the vertical</div><span class="arw">→</span>
+      <div class="node">“The industry person”</div><span class="arw">→</span>
+      <div class="node key">Mới chạy ads</div>
+    </div>
+    <p class="small">Và định giá phần mềm dựa trên <strong>service bạn đã bán</strong>, không dựa trên thị trường — vì bạn đã biết chính xác nó đáng bao nhiêu.</p>
+
+    <h4>Tiền lệ: mọi công ty tỷ đô đều đi đường này</h4>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Công ty</th><th>Service đầu tiên</th><th>Kết quả</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Mailchimp</strong></td><td>Agency thiết kế web ở Atlanta; khách SMB cần newsletter nên chắp vá một tool nội bộ</td><td class="n">$12 tỷ<br><span class="tiny">không nhận 1đ VC</span></td></tr>
+          <tr><td><strong>Basecamp</strong></td><td>Công ty tư vấn web, build tool quản lý dự án của chính mình — khách hỏi “cho bọn tôi dùng với?”</td><td class="n">Vượt agency<br><span class="tiny">trong 18 tháng</span></td></tr>
+          <tr><td><strong>Slack</strong></td><td>Studio game build chat tool cho đội mình. Game chết, tool sống.</td><td class="n">$27,7 tỷ<br><span class="tiny">Salesforce mua lại</span></td></tr>
+          <tr><td><strong>Shopify</strong></td><td>Tobi chỉ muốn bán ván trượt tuyết online; phần mềm store quá tệ nên tự viết</td><td class="n">Công ty tỷ đô</td></tr>
+          <tr><td><strong>FreshBooks</strong></td><td>Agency 4 người; lỡ ghi đè một invoice cũ, bực quá tự viết công cụ bill khách</td><td class="n">30 triệu<br><span class="tiny">người dùng</span></td></tr>
+        </tbody>
+      </table>
+      <div class="cap">Nobody skipped the work. The software is what the work left behind.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 06 ============ -->
+<section class="step" id="s6">
+  <div class="spine"><div class="num">06</div></div>
+  <div class="step-body">
+    <div class="step-head">
+      <span class="eyebrow">Sau khi live</span>
+      <h2>Ba đòn bẩy</h2>
+    </div>
+    <div class="grid3">
+      <div class="card">
+        <h3>Tăng giá</h3>
+        <p class="small">Cứ vài khách lại tăng. <strong>Dừng khi tỷ lệ conversion trên doanh thu bắt đầu đi xuống</strong> — đó chính là giá thị trường thật.</p>
+      </div>
+      <div class="card">
+        <h3>Tính phí onboarding</h3>
+        <p class="small">Custom work thành setup fee. Cần một gói high-ticket <strong>để neo giá</strong>: SaaS $1,000/tháng, cạnh đó là gói có custom work.</p>
+      </div>
+      <div class="card">
+        <h3>Giữ một khách service</h3>
+        <p class="small">Họ là <strong>phòng R&amp;D được trả tiền</strong> của bạn. Lời phàn nàn của họ chính là roadmap quý sau.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ NUMBERS ============ -->
+<section class="step" id="numbers">
+  <div class="spine"><div class="num">→</div></div>
+  <div class="step-body">
+    <div class="step-head">
+      <span class="eyebrow">Kỳ vọng trung thực</span>
+      <h2>Timeline &amp; con số</h2>
+    </div>
+
+    <div class="stats">
+      <div><div class="v mono">1–3 năm</div><div class="k">Tới tự do tài chính — <strong>từ service</strong>, chưa cần SaaS</div></div>
+      <div><div class="v mono">3–5 năm</div><div class="k">SaaS + exit tới mức không bao giờ phải lo về tiền</div></div>
+      <div><div class="v mono">&gt;99%</div><div class="k">Tỉ lệ thất bại của SaaS làm theo thứ tự ngược</div></div>
+      <div><div class="v mono">33 triệu</div><div class="k">SMB tại Mỹ, phần lớn cần ứng dụng AI mà không ai build cho</div></div>
+    </div>
+
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Mốc</th><th>Thời gian</th><th>Bạn đang làm gì</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Năm 1</strong></td><td class="n">0–12 tháng</td><td>Conversations, deposits, service. <strong>Chưa động vào SaaS.</strong></td></tr>
+          <tr><td><strong>Cuối Y1 / đầu Y2</strong></td><td class="n">~10–15 tháng</td><td>SaaS bắt đầu hình thành — đủ repeat log, đủ tín hiệu</td></tr>
+          <tr><td><strong>Tự do tài chính</strong></td><td class="n">1–3 năm</td><td>Từ service. Bạn không nghèo trong lúc chờ.</td></tr>
+          <tr><td><strong>SaaS + exit</strong></td><td class="n">3–5 năm</td><td>Paul vẫn thu $50K/tháng recurring từ service <em>trong khi</em> build SaaS</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h4>Thời gian thật của từng case</h4>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Người</th><th>Ở trong ngành trước khi hiểu vấn đề</th><th>Chuyển Service → SaaS</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Y tá</strong></td><td>Chạy công ty tư vấn <strong>2 năm</strong></td><td class="n">8 tháng</td></tr>
+          <tr><td><strong>Sandra</strong></td><td>Làm trong ngành home care một thời gian dài</td><td class="n">~1 năm</td></tr>
+          <tr><td><strong>Paul</strong></td><td>Nhanh nhất trong ba người</td><td class="n">hơi dưới 1 năm</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h4>Deal size được nêu trong video</h4>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Người</th><th>Con số</th><th>Bối cảnh</th></tr></thead>
+        <tbody>
+          <tr><td>Y tá (HH Notes AI)</td><td class="n">$35–40K</td><td>Tháng đầu tiên, 0 đồng ads, chưa hard-launch</td></tr>
+          <tr><td>Paul</td><td class="n">$100K + equity</td><td>Được trả để build SaaS; song song $50K/tháng recurring từ service</td></tr>
+          <tr><td>Benoa (Canada)</td><td class="n">$325K CAD</td><td>$30K → gia hạn +$30K → 4 referral nóng → quỹ đầu tư tỉnh chủ động liên hệ</td></tr>
+          <tr><td>Scott (Mỹ)</td><td class="n">$149K</td><td>Project fee + được trả tiền build SaaS + equity</td></tr>
+          <tr><td>“The mirror”</td><td class="n">$50K</td><td>Engagement; đang đàm phán productize cho Home Depot</td></tr>
+          <tr><td>Ian</td><td class="n">$10K</td><td>Deal đầu tiên, 5K/5K, không case study</td></tr>
+          <tr><td>Masa (Nhật)</td><td class="n">$15K+/tháng</td><td>Tiếng Anh không phải tiếng mẹ đẻ</td></tr>
+          <tr><td>John</td><td class="n">$4,5 triệu</td><td>Offer mua lại sau khi nghỉ việc</td></tr>
+        </tbody>
+      </table>
+      <div class="cap">Lưu ý: đây là các case thắng trong một cộng đồng có thu phí — không có mẫu số. Đọc mục cảnh báo bên dưới.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CLOSING ============ -->
+<div class="closing">
+
+  <div class="stack">
+    <span class="eyebrow">Ba việc trong tuần này</span>
+    <div class="grid3">
+      <div class="card"><h4 style="color:var(--accent);margin-bottom:8px">01 · Trước thứ Sáu</h4><h3>Viết free tech support list</h3><p class="small">Ai hay nhờ bạn vì bạn là dev? Bạn biết gì mà người khác không? Badge industry của bạn là gì?</p></div>
+      <div class="card"><h4 style="color:var(--accent);margin-bottom:8px">02 · Trước thứ Sáu</h4><h3>Đặt một cuộc trò chuyện</h3><p class="small">Với một chủ doanh nghiệp trong badge industry của bạn. Hai mươi phút. Chỉ hỏi và ghi chép.</p></div>
+      <div class="card"><h4 style="color:var(--accent);margin-bottom:8px">03 · Trước thứ Sáu</h4><h3>Pitch một fix &amp; nhận cọc</h3><p class="small">Không phải SaaS. Một buổi tư vấn, một quy trình, một fix. Và tiền phải về trước.</p></div>
+    </div>
+  </div>
+
+  <div class="stack">
+    <span class="eyebrow">Đọc tỉnh táo</span>
+    <h2>Ba điều cần trừ hao</h2>
+    <p class="note warn"><strong>Đây là một webinar bán khoá học.</strong> Bgo bán codetoceo, một accelerator cho software engineer. Framework không vì thế mà sai — nhưng mọi con số đều là <strong>case thắng</strong>, không có mẫu số: không ai nói bao nhiêu học viên vào rồi không đạt gì.</p>
+    <p class="note warn"><strong>“$35K tháng đầu” là tiền đã thu, không phải MRR ổn định.</strong> Chưa trừ chi phí, chưa qua kỳ churn nào, bằng chứng là ảnh chụp check và số dư tài khoản.</p>
+    <p class="note warn"><strong>Phần lớn case thực chất là consulting / custom software hợp đồng lớn</strong>, chưa phải SaaS đúng nghĩa (self-serve, product-led, biên 80%+). Chính video thừa nhận điều này ở chương 8–9.</p>
+    <p>Nhưng phần lõi đứng vững: Mailchimp, Basecamp, Slack, Shopify, FreshBooks là sự thật lịch sử kiểm chứng được, và tất cả đều đi đúng khuôn service-first. Nguyên tắc bán trước khi build cũng trùng với <em>The Mom Test</em>, Lean Startup và mô hình productized service.</p>
+    <p class="note"><strong>Framework này KHÔNG hợp nếu:</strong> bạn muốn làm B2C, bạn muốn product-led growth self-serve $19/tháng, bạn không muốn nói chuyện với ai, hoặc bạn cần thu nhập trong ba tháng.</p>
+  </div>
+
+  <div class="stack">
+    <span class="eyebrow">Năm câu cần thuộc</span>
+    <ol class="laws">
+      <li>You're not stuck because you can't build — you're stuck because you build first.<span class="vi">Bạn kẹt vì bạn build trước, không phải vì bạn không build được.</span></li>
+      <li>If the only fix you can think of is software, you don't understand the problem well enough.<span class="vi">Chỉ nghĩ ra được giải pháp phần mềm nghĩa là bạn chưa hiểu vấn đề.</span></li>
+      <li>They're not paying for your code. They're paying for the outcome.<span class="vi">Họ không mua code. Họ mua kết quả.</span></li>
+      <li>Shrink the scope, never the deposit.<span class="vi">Thu hẹp phạm vi, đừng bao giờ hạ giá.</span></li>
+      <li>You don't build a SaaS. You earn the right to build one.<span class="vi">Bạn không build một SaaS. Bạn giành lấy quyền được build một SaaS.</span></li>
+    </ol>
+  </div>
+
+  <footer>
+    <span>Đúc kết từ video 54 phút · Bgo / codetoceo · 31.08.2026</span>
+    <span>Kèm transcript đầy đủ, worksheet, script và 13 slide gốc trong thư mục dự án</span>
+  </footer>
+</div>
+
+</div>

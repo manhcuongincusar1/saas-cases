@@ -1,0 +1,32 @@
+{
+ "f": "2025-05-07_i-got-rejected-from-yc-then-built-a-200m-startup",
+ "vid": "PSx0vcUY-sk",
+ "segments": [
+  {"s":"02:25","e":"03:11","nut":["?"],"moi":"Chạy trọn một vòng ship để chứng minh mình làm nổi đã",
+   "tom":"Việc đầu tiên với cặp co-founder trẻ không phải chọn ý tưởng mà là đi hết một vòng: mua domain → dựng back-end → làm landing page, chỉ để biết mình có ghép nổi một thứ chạy được không","kq":"2–3 năm, phần lớn ý tưởng đầu đều chết"},
+  {"s":"03:11","e":"04:01","nut":["2.8","?"],"moi":"Bê trải nghiệm đơn giản của công cụ khác sang định dạng của mình",
+   "tom":"Cả hai mê mảng video và chính Saba dù rành kỹ thuật vẫn thấy dựng video khó; lấy cảm hứng từ editor GIF của Giphy (upload, thêm chữ, cắt, xong) để làm bộ công cụ sửa video cơ bản ngay trên trình duyệt"},
+  {"s":"04:01","e":"04:48","nut":["?"],"moi":"Ép chi phí vận hành xuống đáy, mặc cả từng khoản SaaS",
+   "tom":"Runway 1 năm mà gần như không tiến: dậy 6h, đạp xe tới 'văn phòng' — thật ra là coworking mà hai đứa xài chung một thẻ ra vào — làm tới 7–8h tối, mua đồ ăn giảm nửa giá lúc muộn, email xin Crisp hạ từ $100 xuống $20/tháng"},
+  {"s":"04:48","e":"05:52","nut":["?"],"moi":"Giá thật của 2 năm không doanh thu, không tín hiệu",
+   "tom":"Bị chính quỹ VC cho ngồi nhờ đuổi khỏi văn phòng, hai intern nghỉ cùng một ngày, xin vốn bị từ chối rất nhiều lần, phải bán sạch crypto để nuôi công ty — tới mức không đủ tiền mua vé tàu đi sinh nhật bạn","kq":"2 năm không tiền, không validation, không vốn"},
+  {"s":"05:52","e":"06:39","nut":["?"],"moi":"Đi làm lại rồi bơm nửa lương vào công ty để thuê người build",
+   "tom":"Cả hai quay lại đi làm thuê nhưng đều đặn mỗi tháng trích nửa lương đổ vào tài khoản công ty, lấy tiền đó thuê thêm hai kỹ sư build tiếp — 8–9 tháng sau đi từ 0 lên 30.000 user/tháng, dù chưa ai trả tiền","kq":"0 → 30.000 user/tháng trong 9 tháng, chưa thu tiền"},
+  {"s":"08:36","e":"09:44","nut":["1.B2"],
+   "tom":"Nộp Y Combinator với 30.000 user/tháng và 2 năm lì đòn, lọt tới vòng phỏng vấn rồi trượt; dòng đáng giá nhất trong email từ chối là 'không hiểu vì sao các bạn chưa thu tiền user'","kq":"trượt YC vòng phỏng vấn"},
+  {"s":"09:44","e":"10:47","nut":["3.7"],
+   "tom":"Thay vì buồn, hai người dựng luôn phần thu tiền ngay cuối tuần đó, 9h sáng thứ Hai email lại YC: 'đã làm theo góp ý, đã có 20 khách trả tiền, xét lại giúp' — vẫn bị từ chối lần hai, nhưng công ty đã từ 0 doanh thu thành có doanh thu","kq":"20 khách trả tiền sau 1 cuối tuần; vẫn trượt YC lần 2"},
+  {"s":"10:47","e":"11:18","nut":["?"],"moi":"Chốt đúng một chỉ số duy nhất phải cao hơn hôm qua",
+   "tom":"Về lại UK, Saba rút gọn công việc của mình còn đúng một việc: làm traffic hôm nay cao hơn hôm qua và doanh thu tuần này cao hơn tuần trước; cứ 4–6 tháng lại phải tự học một nghề mới, và nghề làm mọi thứ cất cánh là SEO"},
+  {"s":"11:18","e":"11:49","nut":["4.5"],
+   "tom":"Không có tiền nên chỉ còn SEO: dù bị chứng khó đọc vẫn tự viết landing page (sai chính tả tùm lum), tìm ra khoảng 500 từ khoá kiểu 'trim video', 'crop video' rồi làm một landing page cho từng từ khoá, kèm một video YouTube cho từng trang"},
+  {"s":"11:49","e":"12:19","nut":["4.1"],
+   "tom":"Sau khi SEO ăn thì đường cong dựng đứng: 0 lên $1 triệu trong năm đầu, 4 tháng sau $2 triệu, 2 tháng sau nữa $3 triệu, 6 tháng sau $6 triệu, rồi lên 10–20–30–40 triệu doanh thu","kq":"$0 → $40M doanh thu"},
+  {"s":"12:19","e":"13:37","nut":["?"],"moi":"Giai đoạn scale là chạy bền, không còn là nhảy vòng lửa",
+   "tom":"Saba mô tả khác biệt: lúc khởi đầu là nhảy qua từng vòng lửa, tìm mẹo vượt góc cua tiếp theo; lúc đã scale thì là đánh nhau hằng ngày với việc quản người và giữ nhịp trống — càng lớn càng thấy dễ tổn thương và hoang mang hơn"}
+ ],
+ "bo_qua": [
+  {"s":"06:39","e":"08:36","ly_do":"quảng cáo PostHog (nhà tài trợ)"},
+  {"s":"14:10","e":"14:56","ly_do":"lời kết của Pat và quảng bá Starter Story Build (bootcamp 12 ngày)"}
+ ]
+}

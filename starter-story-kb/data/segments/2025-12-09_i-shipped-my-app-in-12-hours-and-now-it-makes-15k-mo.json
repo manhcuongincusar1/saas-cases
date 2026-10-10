@@ -1,0 +1,93 @@
+{
+ "f": "2025-12-09_i-shipped-my-app-in-12-hours-and-now-it-makes-15k-mo",
+ "vid": "k2jecxFu2as",
+ "segments": [
+  {
+   "s": "01:35",
+   "e": "02:39",
+   "nut": ["?"],
+   "moi": "Bán gói trả trước không tự động gia hạn",
+   "tom": "AudioPen là SaaS B2C voice-to-text: ghi âm, chép lại rồi viết lại theo văn phong người dùng chọn, chạy đa ngôn ngữ trên cả mobile lẫn desktop. Bán $99/năm hoặc $159/2 năm, cả hai đều KHÔNG tự động gia hạn, user tự quyết.",
+   "kq": "$15K/tháng, 200.000 user, hơn 5.000 khách trả tiền"
+  },
+  {
+   "s": "02:39",
+   "e": "03:28",
+   "nut": ["?"],
+   "moi": "Giữ việc chính, build nhiều tool nhỏ làm thu nhập phụ",
+   "tom": "Anh làm full-time trong business gia đình ở thế giới offline; nghịch no-code từ 2015, tới 2021 quay lại và gặp Bubble, build 15–20 tool, gần như fail hết — AudioPen là cái đầu tiên ăn và giờ đủ làm nguồn thu nhập thứ hai.",
+   "kq": "15–20 tool thất bại trước khi trúng cái đầu tiên"
+  },
+  {
+   "s": "03:28",
+   "e": "04:14",
+   "nut": ["?"],
+   "moi": "Hackathon 12 tiếng: từ ý tưởng tới đồng doanh thu đầu tiên",
+   "tom": "Anh lập hackathon Halfday Build trên Twitter năm 2022: một Chủ nhật, cả nhóm khắp thế giới vào chung Slack/Discord, mỗi người build riêng, bắt đầu 12h trưa và phải kiếm được ít nhất $1 trước nửa đêm. Một tuần anh ra 4–5 tool nhỏ đặt hết lên trang cá nhân."
+  },
+  {
+   "s": "04:14",
+   "e": "05:03",
+   "nut": ["3.6", "4.1"],
+   "tom": "MVP AudioPen chỉ là 1 trong 5 tool đó, nhưng lên Twitter được yêu thích hơn hẳn dự đoán — anh coi đó là tín hiệu, làm bản đầy đủ và gắn giá luôn. Nguyên tắc: chi phí thử nghiệm giờ quá rẻ, cứ làm nhiều thứ rồi dồn vào cái dính."
+  },
+  {
+   "s": "06:03",
+   "e": "06:50",
+   "nut": ["3.7", "3.2"],
+   "tom": "Sau khi có tín hiệu: DM từng người hỏi vì sao thích để gom use case, ngồi Figma thiết kế (cảm hứng lấy từ Pinterest trước đó), tới giờ thứ 10 của hackathon thì mở waitlist. Chưa hết 12 tiếng đã có thông báo Stripe từ beta tester dù anh chỉ nhờ họ test.",
+   "kq": "có khách trả tiền trong vòng 12 tiếng dù không hề đòi tiền"
+  },
+  {
+   "s": "06:50",
+   "e": "07:36",
+   "nut": ["4.9", "4.8"],
+   "tom": "Bốn thứ cộng lại làm nên cú đó: sản phẩm chạm nhu cầu anh không biết là có; anh đã build in public trên Twitter vài năm nên có uy tín sẵn; đã tạo hype trước cả khi build; và cộng đồng Halfday Build cổ vũ — người ta mua khi thấy người khác tin bạn."
+  },
+  {
+   "s": "07:36",
+   "e": "08:39",
+   "nut": ["?"],
+   "moi": "Thiết kế trước khi build, khoe thiết kế để dò phản ứng",
+   "tom": "Playbook: build nhiều thứ nhỏ có thể đóng cửa mà không hại ai; thiết kế TRƯỚC khi build vì prompt AI ra sản phẩm thì dễ nhưng biết design nào ăn thì khó và mất thời gian hơn tưởng; khoe thiết kế ra công chúng, ai cộng hưởng thì dựng email list dù chỉ bằng Google Form; rồi launch bản đơn giản nhất và tăng giá dần."
+  },
+  {
+   "s": "08:39",
+   "e": "09:10",
+   "nut": ["?"],
+   "moi": "Giữ giọng indie hacker làm lợi thế bán hàng",
+   "tom": "Là indie hacker thì cư xử như indie hacker, đừng cố nói giọng công ty lớn. User khen AudioPen chính vì họ đã đi cùng hành trình builder của anh suốt mấy năm — thứ mà một brand vô danh không có."
+  },
+  {
+   "s": "09:28",
+   "e": "10:14",
+   "nut": ["?"],
+   "moi": "Phân tầng free/premium theo thời lượng và văn phong",
+   "tom": "Cách chia gói: bản free chỉ cho ghi rất ngắn để nếm thử; premium mới được ghi tới 15 phút một lần, chọn văn phong viết lại, chọn ngôn ngữ, chọn mức viết lại (giữ nguyên văn hay cô đọng) và nối với các app khác."
+  },
+  {
+   "s": "10:14",
+   "e": "11:02",
+   "nut": ["3.B5"],
+   "tom": "Vì sao app này ăn còn hàng loạt app tương tự thì không: vào sớm khi chưa có mấy sản phẩm cùng loại, và AudioPen chỉ làm đúng một việc thật tốt. Anh nhiều lần bị cám dỗ mở sang thị trường kề vì thấy app bên đó ăn nên, nhưng cố tình không mở."
+  },
+  {
+   "s": "11:18",
+   "e": "11:50",
+   "nut": ["1.1"],
+   "tom": "Chi phí thật: Bubble cho web app ~$130/tháng, Xano lo backend và logic ~$260/tháng, DraftBit ~$300/năm cho app native, Loops email ~$800/tháng, Plausible Analytics chỉ $19/tháng; khoản lớn nhất là API, thay đổi theo từng tháng."
+  },
+  {
+   "s": "11:50",
+   "e": "12:22",
+   "nut": ["4.1"],
+   "tom": "Lời khuyên: cứ build nhiều thứ cho vui vì mỗi cái đều dạy được điều gì đó và phần lớn sẽ fail; ngay khi có một cái trông không fail và cộng hưởng với ai đó thì dồn hết vào — trúng một cái là thế giới quên hết những cái hỏng."
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:35", "ly_do": "intro/hook và mời tải lead magnet '100 ý tưởng' của Starter Story"},
+  {"s": "05:03", "e": "06:03", "ly_do": "quảng cáo Xero (sponsor)"},
+  {"s": "11:02", "e": "11:18", "ly_do": "quảng bá database micro-SaaS ideas của Starter Story"},
+  {"s": "12:22", "e": "13:00", "ly_do": "lời cảm ơn và mã giảm giá Starter Story Build"}
+ ]
+}

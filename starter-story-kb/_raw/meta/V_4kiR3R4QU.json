@@ -1,0 +1,497 @@
+{
+  "id": "V_4kiR3R4QU",
+  "title": "This Simple App Makes $18K/Month",
+  "upload_date": "20260726",
+  "duration": 936,
+  "view_count": 157867,
+  "like_count": 4564,
+  "comment_count": 164,
+  "description": "Ryan is a former product designer who quit his job to finally build his own app. With the help of AI coding tools, the first app he ever built hit $18K/month. \n\nBut here's the crazy part... this type of app has been built hundreds of times. Why was his successful? \n\nIn this video, we will dive into the simple app he built, how he got his first users, and his advice on how to pick winning app ideas. \n\n*Free: iOS Bootcamp:* http://go.starterstory.com/lp-test-2-ios-bootcamp-description\n\nFollow Ryan: https://www.linkedin.com/in/ryanqyao/\nCheck out Cat on Chair: https://catonchair.app/en/\n\n🔔 Follow the Second Channel: @StarterStoryBuild \n🏁 We're hiring: starterstory.com/jobs\n\nChapters\n0:00 - I love niche apps\n0:50 - What’s your story?\n1:19 - App breakdown and data\n2:46 - Ryan’s background\n3:20 - Simple apps win\n3:54 - Design and AI\n4:10 - Build timeline\n5:35 - Target customers\n6:16 - Tech stack\n6:48 - Finding the app idea\n8:15 - Why does this app work?\n9:47 - Building a hand-crafted app\n10:19 - How to build cool, unique apps\n11:11 - Cat on Chair Demo\n12:33 - Final advice\n13:20 - Pat and Gus reflections: building unique apps\n\nThis video is an educational case study of this founder’s experience. It is not financial advice and does not guarantee any income or results. Every business is different and your results may vary.",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 50,
+      "title": "I love niche apps"
+    },
+    {
+      "start": 50,
+      "end": 79,
+      "title": "What’s your story?"
+    },
+    {
+      "start": 79,
+      "end": 166,
+      "title": "App breakdown and data"
+    },
+    {
+      "start": 166,
+      "end": 200,
+      "title": "Ryan’s background"
+    },
+    {
+      "start": 200,
+      "end": 234,
+      "title": "Simple apps win"
+    },
+    {
+      "start": 234,
+      "end": 250,
+      "title": "Design and AI"
+    },
+    {
+      "start": 250,
+      "end": 335,
+      "title": "Build timeline"
+    },
+    {
+      "start": 335,
+      "end": 376,
+      "title": "Target customers"
+    },
+    {
+      "start": 376,
+      "end": 408,
+      "title": "Tech stack"
+    },
+    {
+      "start": 408,
+      "end": 495,
+      "title": "Finding the app idea"
+    },
+    {
+      "start": 495,
+      "end": 587,
+      "title": "Why does this app work?"
+    },
+    {
+      "start": 587,
+      "end": 619,
+      "title": "Building a hand-crafted app"
+    },
+    {
+      "start": 619,
+      "end": 671,
+      "title": "How to build cool, unique apps"
+    },
+    {
+      "start": 671,
+      "end": 753,
+      "title": "Cat on Chair Demo"
+    },
+    {
+      "start": 753,
+      "end": 800,
+      "title": "Final advice"
+    },
+    {
+      "start": 800,
+      "end": 936,
+      "title": "Pat and Gus reflections: building unique apps"
+    }
+  ],
+  "heatmap": [
+    {
+      "s": 0,
+      "v": 0.08012608547763994
+    },
+    {
+      "s": 9,
+      "v": 0.09018477251959792
+    },
+    {
+      "s": 18,
+      "v": 0.059862944547425474
+    },
+    {
+      "s": 28,
+      "v": 0.005639033357259447
+    },
+    {
+      "s": 37,
+      "v": 0.05013034773266407
+    },
+    {
+      "s": 46,
+      "v": 0.15599151364133426
+    },
+    {
+      "s": 56,
+      "v": 0.37442892451906323
+    },
+    {
+      "s": 65,
+      "v": 0.39346423727894075
+    },
+    {
+      "s": 74,
+      "v": 0.472296613249002
+    },
+    {
+      "s": 84,
+      "v": 0.5958530609185831
+    },
+    {
+      "s": 93,
+      "v": 0.47967842160952406
+    },
+    {
+      "s": 103,
+      "v": 0.507109895033104
+    },
+    {
+      "s": 112,
+      "v": 0.3678737133077082
+    },
+    {
+      "s": 121,
+      "v": 0.2776274894654616
+    },
+    {
+      "s": 131,
+      "v": 0.2914966063546405
+    },
+    {
+      "s": 140,
+      "v": 0.3286954388932865
+    },
+    {
+      "s": 149,
+      "v": 0.2666470567915041
+    },
+    {
+      "s": 159,
+      "v": 0.1720815929286703
+    },
+    {
+      "s": 168,
+      "v": 0.1564730538068362
+    },
+    {
+      "s": 178,
+      "v": 0.24309511418047913
+    },
+    {
+      "s": 187,
+      "v": 0.1927096774927589
+    },
+    {
+      "s": 196,
+      "v": 0.22538667551830385
+    },
+    {
+      "s": 206,
+      "v": 0.1226224771339229
+    },
+    {
+      "s": 215,
+      "v": 0.1356375816196903
+    },
+    {
+      "s": 224,
+      "v": 0.2546128616298982
+    },
+    {
+      "s": 234,
+      "v": 0.2589336025297465
+    },
+    {
+      "s": 243,
+      "v": 0.2621328719210884
+    },
+    {
+      "s": 252,
+      "v": 0.38389187142916315
+    },
+    {
+      "s": 262,
+      "v": 0.5095528907309788
+    },
+    {
+      "s": 271,
+      "v": 0.5626837260799485
+    },
+    {
+      "s": 281,
+      "v": 0.4547172017878183
+    },
+    {
+      "s": 290,
+      "v": 0.28886776791342367
+    },
+    {
+      "s": 299,
+      "v": 0.32235715315061547
+    },
+    {
+      "s": 309,
+      "v": 0.47625399612129227
+    },
+    {
+      "s": 318,
+      "v": 0.4609202389428833
+    },
+    {
+      "s": 327,
+      "v": 0.2660045110136578
+    },
+    {
+      "s": 337,
+      "v": 0.20435836455384102
+    },
+    {
+      "s": 346,
+      "v": 0.19490720680825946
+    },
+    {
+      "s": 356,
+      "v": 0.08363741671663344
+    },
+    {
+      "s": 365,
+      "v": 0.07282922204174822
+    },
+    {
+      "s": 374,
+      "v": 0.3009821874923065
+    },
+    {
+      "s": 384,
+      "v": 0.49298013351483
+    },
+    {
+      "s": 393,
+      "v": 0.8925668688310685
+    },
+    {
+      "s": 402,
+      "v": 1.0
+    },
+    {
+      "s": 412,
+      "v": 0.22523966197390943
+    },
+    {
+      "s": 421,
+      "v": 0.0993446265460176
+    },
+    {
+      "s": 431,
+      "v": 0.19022538340747475
+    },
+    {
+      "s": 440,
+      "v": 0.1633220500296799
+    },
+    {
+      "s": 449,
+      "v": 0.14136222561415557
+    },
+    {
+      "s": 459,
+      "v": 0.15733942425642145
+    },
+    {
+      "s": 468,
+      "v": 0.11995956631270689
+    },
+    {
+      "s": 477,
+      "v": 0.046561922562425015
+    },
+    {
+      "s": 487,
+      "v": 0.14212827923054955
+    },
+    {
+      "s": 496,
+      "v": 0.1294927398475867
+    },
+    {
+      "s": 505,
+      "v": 0.22643644373049931
+    },
+    {
+      "s": 515,
+      "v": 0.1972326013537108
+    },
+    {
+      "s": 524,
+      "v": 0.16505295114136906
+    },
+    {
+      "s": 534,
+      "v": 0.16766854795426647
+    },
+    {
+      "s": 543,
+      "v": 0.12944338028608163
+    },
+    {
+      "s": 552,
+      "v": 0.1059152580813936
+    },
+    {
+      "s": 562,
+      "v": 0.06223452744174961
+    },
+    {
+      "s": 571,
+      "v": 0.036671757632981715
+    },
+    {
+      "s": 580,
+      "v": 0.12805227097677876
+    },
+    {
+      "s": 590,
+      "v": 0.03722681667454588
+    },
+    {
+      "s": 599,
+      "v": 0.04514268387084217
+    },
+    {
+      "s": 609,
+      "v": 0.05346740752326381
+    },
+    {
+      "s": 618,
+      "v": 0.22701922062293317
+    },
+    {
+      "s": 627,
+      "v": 0.3585978437351811
+    },
+    {
+      "s": 637,
+      "v": 0.3493720357483296
+    },
+    {
+      "s": 646,
+      "v": 0.28648793018316365
+    },
+    {
+      "s": 655,
+      "v": 0.20732139070794514
+    },
+    {
+      "s": 665,
+      "v": 0.2517782332758053
+    },
+    {
+      "s": 674,
+      "v": 0.17494960374245697
+    },
+    {
+      "s": 684,
+      "v": 0.23137823394393864
+    },
+    {
+      "s": 693,
+      "v": 0.23605674088571096
+    },
+    {
+      "s": 702,
+      "v": 0.18113755948172122
+    },
+    {
+      "s": 712,
+      "v": 0.19664212640313147
+    },
+    {
+      "s": 721,
+      "v": 0.24005670515510147
+    },
+    {
+      "s": 730,
+      "v": 0.1650642561512871
+    },
+    {
+      "s": 740,
+      "v": 0.07602096282905477
+    },
+    {
+      "s": 749,
+      "v": 0.13195038122212194
+    },
+    {
+      "s": 758,
+      "v": 0.054968698315739924
+    },
+    {
+      "s": 768,
+      "v": 0.09031591789696604
+    },
+    {
+      "s": 777,
+      "v": 0.07376569807746323
+    },
+    {
+      "s": 787,
+      "v": 0.05783287220431886
+    },
+    {
+      "s": 796,
+      "v": 0.1260235784742831
+    },
+    {
+      "s": 805,
+      "v": 0.0490160901277028
+    },
+    {
+      "s": 815,
+      "v": 0.01720373775097939
+    },
+    {
+      "s": 824,
+      "v": 0.013348674901539294
+    },
+    {
+      "s": 833,
+      "v": 0.006005798622817398
+    },
+    {
+      "s": 843,
+      "v": 0.006741828602057575
+    },
+    {
+      "s": 852,
+      "v": 0.011284929605978766
+    },
+    {
+      "s": 862,
+      "v": 0.018102873363142893
+    },
+    {
+      "s": 871,
+      "v": 0.003996448096605498
+    },
+    {
+      "s": 880,
+      "v": 0.0045528688229831285
+    },
+    {
+      "s": 890,
+      "v": 0.0
+    },
+    {
+      "s": 899,
+      "v": 0.00905375154575434
+    },
+    {
+      "s": 908,
+      "v": 0.015498563404365995
+    },
+    {
+      "s": 918,
+      "v": 0.02048685061523583
+    },
+    {
+      "s": 927,
+      "v": 0.004776003574416584
+    }
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/V_4kiR3R4QU/maxresdefault.jpg",
+  "webpage_url": "https://www.youtube.com/watch?v=V_4kiR3R4QU",
+  "tags": []
+}

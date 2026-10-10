@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Starter Story Knowledge Base</title>
+<style>
+  :root{color-scheme:light dark}
+  body{margin:0;min-height:100svh;display:flex;flex-direction:column;align-items:center;
+    justify-content:center;gap:18px;background:#F1F3F0;color:#16211D;
+    font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;padding:24px}
+  @media (prefers-color-scheme:dark){body{background:#0E1412;color:#E7ECE8}}
+  p{margin:0;opacity:.65;font-size:13px}
+  nav{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;max-width:420px}
+  a{padding:8px 14px;border-radius:8px;border:1px solid currentColor;text-decoration:none;
+    color:inherit;opacity:.8;font-weight:500}
+  a:hover{opacity:1}
+</style>
+</head>
+<body>
+<p>Choose your language</p>
+<nav>
+  <a href="vi/">Tiếng Việt</a>
+  <a href="en/">English</a>
+  <a href="zh-Hans/">简体中文</a>
+  <a href="zh-Hant/">繁體中文</a>
+  <a href="hi/">हिन्दी</a>
+  <a href="id/">Bahasa Indonesia</a>
+  <a href="es/">Español</a>
+</nav>
+<script>
+(function(){
+  var have = ["vi", "en", "zh-Hans", "zh-Hant", "hi", "id", "es"];
+  var want = (navigator.languages || [navigator.language || ""]).map(String);
+  for (var i = 0; i < want.length; i++) {
+    var w = want[i];
+    for (var j = 0; j < have.length; j++) {
+      if (w.toLowerCase() === have[j].toLowerCase()) return go(have[j]);
+    }
+    var base = w.split("-")[0].toLowerCase();
+    if (base === "zh") return go(/hant|tw|hk|mo/i.test(w) ? "zh-Hant" : "zh-Hans");
+    for (var k = 0; k < have.length; k++) {
+      if (have[k].split("-")[0].toLowerCase() === base) return go(have[k]);
+    }
+  }
+  go("en");
+  function go(c) { location.replace(c + "/" + (location.hash || "")); }
+})();
+</script>
+</body>
+</html>

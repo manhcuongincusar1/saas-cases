@@ -1,0 +1,2372 @@
+[
+  {
+    "text": "We have people spending anywhere from a quarter million to north of 700,000 on the platform.",
+    "start": "00:00:00",
+    "end": "00:00:08"
+  },
+  {
+    "text": ">> 700,000 per month?",
+    "start": "00:00:07",
+    "end": "00:00:11"
+  },
+  {
+    "text": ">> 700,000 per month.",
+    "start": "00:00:08",
+    "end": "00:00:11"
+  },
+  {
+    "text": "Yes, correct.",
+    "start": "00:00:11",
+    "end": "00:00:13"
+  },
+  {
+    "text": ">> Nick Lawson co-founded SideShift, and basically every app you can think of runs their UGC creator campaigns through it.",
+    "start": "00:00:11",
+    "end": "00:00:17"
+  },
+  {
+    "text": "The interesting thing is Cursor is on there, but so are founders just starting out with a couple thousand bucks.",
+    "start": "00:00:17",
+    "end": "00:00:22"
+  },
+  {
+    "text": "Nick sees all of it, so he knows exactly which campaigns make money and which ones don't.",
+    "start": "00:00:22",
+    "end": "00:00:27"
+  },
+  {
+    "text": "So, we went deep on the whole thing, and about 15 minutes in he stops and says this.",
+    "start": "00:00:27",
+    "end": "00:00:34"
+  },
+  {
+    "text": ">> AI UGC, great for vanity views, terrible for conversions at the end of the day.",
+    "start": "00:00:31",
+    "end": "00:00:37"
+  },
+  {
+    "text": "I've not seen it convert.",
+    "start": "00:00:36",
+    "end": "00:00:39"
+  },
+  {
+    "text": ">> This is not a guess, by the way.",
+    "start": "00:00:37",
+    "end": "00:00:40"
+  },
+  {
+    "text": "He's looking at the conversion data across hundreds of campaigns, and AI UGC just doesn't convert as well as humans.",
+    "start": "00:00:40",
+    "end": "00:00:46"
+  },
+  {
+    "text": "What actually works is way more boring than people want it to be.",
+    "start": "00:00:46",
+    "end": "00:00:48"
+  },
+  {
+    "text": "We went into what kind of content doesn't just get views, but actually converts to downloads and revenue for consumer apps.",
+    "start": "00:00:48",
+    "end": "00:00:55"
+  },
+  {
+    "text": "Then he broke down how the biggest spenders actually split their marketing budget.",
+    "start": "00:00:55",
+    "end": "00:01:00"
+  },
+  {
+    "text": ">> You have a creative organic budget, which is about 20%, and then the absolute monolith of the budget is the performance budget, and that accounts for 80%.",
+    "start": "00:00:58",
+    "end": "00:01:09"
+  },
+  {
+    "text": ">> So, making the content, paying all those creators, that's only 20%.",
+    "start": "00:01:07",
+    "end": "00:01:12"
+  },
+  {
+    "text": "The other 80% is just paying money to put the winners in front of more people.",
+    "start": "00:01:12",
+    "end": "00:01:17"
+  },
+  {
+    "text": "The signal Nick watches for is a 5% engagement rate.",
+    "start": "00:01:17",
+    "end": "00:01:20"
+  },
+  {
+    "text": "A video hits that, and it gets ad spend.",
+    "start": "00:01:20",
+    "end": "00:01:22"
+  },
+  {
+    "text": "You can start with $100 a day, and the biggest teams are spending 100,000.",
+    "start": "00:01:20",
+    "end": "00:01:25"
+  },
+  {
+    "text": "In this episode, Nick walks through his entire process, his format research, how he avoids competitor saturation by tweaking videos 10 to 20%, his content market fit metrics, how he looks for at least one video that gets 10,000 views within the first 180 to 300 videos, and the 90/10 split after he hits that first winner.",
+    "start": "00:01:25",
+    "end": "00:01:43"
+  },
+  {
+    "text": "90% of your creators running the winner, and 10% keep testing.",
+    "start": "00:01:43",
+    "end": "00:01:47"
+  },
+  {
+    "text": "If UGC is anywhere on your road map, you should watch this video before you spend a dollar.",
+    "start": "00:01:47",
+    "end": "00:01:51"
+  },
+  {
+    "text": "This is the Superwall podcast.",
+    "start": "00:01:51",
+    "end": "00:01:54"
+  },
+  {
+    "text": "I'm Joseph Choi, founder of Consumer Club, a Discord where top consumer app founders trade alpha and what's working now in growth.",
+    "start": "00:01:52",
+    "end": "00:01:58"
+  },
+  {
+    "text": "I've been talking to members doing a million ARR and they tell me they've been using these two tools.",
+    "start": "00:01:58",
+    "end": "00:02:02"
+  },
+  {
+    "text": "Superwall has this free AI tool trained on 422 profitable paywall experiments across thousands of successful apps.",
+    "start": "00:02:02",
+    "end": "00:02:09"
+  },
+  {
+    "text": "You upload a screenshot of your paywall and it gives you an experiment idea to make more revenue with the same number of users at paywallexperiments.",
+    "start": "00:02:09",
+    "end": "00:02:16"
+  },
+  {
+    "text": "com.",
+    "start": "00:02:16",
+    "end": "00:02:16"
+  },
+  {
+    "text": "And if your app's doing at least 100k MRR, we host vetted dinners in SF and New York to hang out and network with other top app founders.",
+    "start": "00:02:16",
+    "end": "00:02:22"
+  },
+  {
+    "text": "You can apply with the typeform in the description.",
+    "start": "00:02:22",
+    "end": "00:02:25"
+  },
+  {
+    "text": "Also, these app founders have been telling me they use Rorke.",
+    "start": "00:02:25",
+    "end": "00:02:27"
+  },
+  {
+    "text": "I met Daniel, the founder of Rorke, at a dinner and I got genuinely really excited when he told me about Rorke Max, which is out now and has honestly changed the game for coding mobile apps.",
+    "start": "00:02:27",
+    "end": "00:02:36"
+  },
+  {
+    "text": "It's AI that one-shots full native iOS apps with Swift code, camera, sensors, haptics, payments, the whole stack.",
+    "start": "00:02:36",
+    "end": "00:02:42"
+  },
+  {
+    "text": "And as you vibe code with Rorke, you can install prototypes directly onto your iPhone with one click and then publish to the App Store in two clicks.",
+    "start": "00:02:42",
+    "end": "00:02:50"
+  },
+  {
+    "text": "If you've been waiting for AI coding that actually does native iOS apps well, this is it.",
+    "start": "00:02:48",
+    "end": "00:02:53"
+  },
+  {
+    "text": "I got you guys a discount.",
+    "start": "00:02:53",
+    "end": "00:02:55"
+  },
+  {
+    "text": "You can use the code Superwall or use the link below.",
+    "start": "00:02:54",
+    "end": "00:02:57"
+  },
+  {
+    "text": "I think where I want to start actually is what are some exciting customers you've seen popping off recently?",
+    "start": "00:02:57",
+    "end": "00:03:04"
+  },
+  {
+    "text": ">> Exciting customers popping off on Sideshift recently, you got to give a shoutout to the Cursor team.",
+    "start": "00:03:02",
+    "end": "00:03:10"
+  },
+  {
+    "text": "They've been absolutely crushing it lately.",
+    "start": "00:03:10",
+    "end": "00:03:12"
+  },
+  {
+    "text": "Um obviously a lot a lot of good stuff going on over there.",
+    "start": "00:03:12",
+    "end": "00:03:16"
+  },
+  {
+    "text": "Yeah, man, it's interesting to see UGC really start to trickle into some of these larger enterprise.",
+    "start": "00:03:16",
+    "end": "00:03:22"
+  },
+  {
+    "text": "I think when we started this thing, it was consumer apps that had just kind of started off but started out, but now we're seeing some of the biggest in the world use Sideshift and we're seeing them run massive UGC campaigns as well.",
+    "start": "00:03:22",
+    "end": "00:03:34"
+  },
+  {
+    "text": "Movies has started [music] to kind of pick up as well.",
+    "start": "00:03:34",
+    "end": "00:03:39"
+  },
+  {
+    "text": "I think entertainment is a great type of vertical for UGC.",
+    "start": "00:03:39",
+    "end": "00:03:43"
+  },
+  {
+    "text": "Obviously, it's predominantly all clipping right now, but I think, you know, there's a little bit of a of a title shift where we're starting to see some new types of content uh, circulate, movies and songs and >> That's pretty crazy that people I I never would have predicted that these big companies would start getting on UGC.",
+    "start": "00:03:43",
+    "end": "00:04:00"
+  },
+  {
+    "text": "For me, this all started with e-commerce and drop shipping and I see TikTok shop creators doing it, but now like B2B brands doing it is is pretty crazy.",
+    "start": "00:04:00",
+    "end": "00:04:08"
+  },
+  {
+    "text": "Aside from the the huge brands, have you also seen like new customers, any any like new apps that sign up for SideShift and then they just kind of see like immediate success?",
+    "start": "00:04:08",
+    "end": "00:04:20"
+  },
+  {
+    "text": "Have you seen any trends in like people that are able to do that?",
+    "start": "00:04:20",
+    "end": "00:04:24"
+  },
+  {
+    "text": ">> Yeah, 100% man.",
+    "start": "00:04:22",
+    "end": "00:04:24"
+  },
+  {
+    "text": "I I can't really share any names just because obviously they're they're growing and some people like to remain confidential.",
+    "start": "00:04:24",
+    "end": "00:04:30"
+  },
+  {
+    "text": "However, the amount of I mean, I guess I can talk about space, right?",
+    "start": "00:04:30",
+    "end": "00:04:34"
+  },
+  {
+    "text": "Right now, I'm sure as you're aware that the peptide GLP-1 space has been absolutely ripping on the platform.",
+    "start": "00:04:34",
+    "end": "00:04:39"
+  },
+  {
+    "text": "There's a ton of peptide trackers using SideShift for distribution.",
+    "start": "00:04:39",
+    "end": "00:04:43"
+  },
+  {
+    "text": "Kind of back to your original question, yeah, I'm seeing tons and tons of, uh, new apps every day.",
+    "start": "00:04:43",
+    "end": "00:04:53"
+  },
+  {
+    "text": "Start with a small budget of maybe two to four thousand dollars, see good results and then from there they start to scale aggressively month to, [music] you know, >> I think a good a good way to start this pod, I think I just want to go through that whole journey of when you first start with two to four thousand dollars, like you said, what type of validation are you even looking for when you're trying out UGC creators, and then what's next and then what's next after that?",
+    "start": "00:04:50",
+    "end": "00:05:18"
+  },
+  {
+    "text": "Like I think that seeing like the complete workflow cuz you're one of these like rare people that can see the entire flow across hundreds of different customers and you've seen what works and what doesn't work.",
+    "start": "00:05:18",
+    "end": "00:05:29"
+  },
+  {
+    "text": "So it'd be really valuable, I think, to hear that end to end, like when you're just starting out until scaling up to I don't know how much how much do like your top people spend on UGC?",
+    "start": "00:05:29",
+    "end": "00:05:42"
+  },
+  {
+    "text": ">> We have people spending anywhere from a quarter million to, uh, uh, north north of seven hundred thousand on the platform, right?",
+    "start": "00:05:39",
+    "end": "00:05:51"
+  },
+  {
+    "text": ">> 700,000 per month?",
+    "start": "00:05:50",
+    "end": "00:05:53"
+  },
+  {
+    "text": ">> 700,000 per month.",
+    "start": "00:05:51",
+    "end": "00:05:54"
+  },
+  {
+    "text": "Yes, correct.",
+    "start": "00:05:54",
+    "end": "00:05:56"
+  },
+  {
+    "text": ">> Wow, that's insane.",
+    "start": "00:05:53",
+    "end": "00:05:56"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:05:56",
+    "end": "00:05:56"
+  },
+  {
+    "text": "And like, why are they spending that much?",
+    "start": "00:05:56",
+    "end": "00:05:59"
+  },
+  {
+    "text": "Is it like profitable or is it like for impressions?",
+    "start": "00:05:59",
+    "end": "00:06:02"
+  },
+  {
+    "text": ">> It's profitable.",
+    "start": "00:06:00",
+    "end": "00:06:02"
+  },
+  {
+    "text": "It's different.",
+    "start": "00:06:02",
+    "end": "00:06:04"
+  },
+  {
+    "text": "No other channel is working as well right now.",
+    "start": "00:06:04",
+    "end": "00:06:05"
+  },
+  {
+    "text": "Once you have the flywheel really going and you have content market fit across the board, you have a great creator engine, you really can start to see some pretty low CPMs across the board and it's really just a matter of doubling down on creators that are working as well as formats that are working, right?",
+    "start": "00:06:05",
+    "end": "00:06:22"
+  },
+  {
+    "text": "It's like it's a tale as old as time.",
+    "start": "00:06:22",
+    "end": "00:06:24"
+  },
+  {
+    "text": "It's easier said than done, of course.",
+    "start": "00:06:24",
+    "end": "00:06:26"
+  },
+  {
+    "text": "Obviously, some of these companies have massive resources of not only capital but lots of time and human labor to help with this process.",
+    "start": "00:06:26",
+    "end": "00:06:33"
+  },
+  {
+    "text": ">> [music] >> But once the flywheel is absolutely running, it it becomes incredibly easy to sustain and grow.",
+    "start": "00:06:33",
+    "end": "00:06:40"
+  },
+  {
+    "text": ">> So, how do you start?",
+    "start": "00:06:39",
+    "end": "00:06:41"
+  },
+  {
+    "text": "Yeah, if you have that two Let's say a 4,000 on budget.",
+    "start": "00:06:41",
+    "end": "00:06:42"
+  },
+  {
+    "text": "Like >> When you have your app built, there's a couple things that you should do before launching your UGC campaign.",
+    "start": "00:06:42",
+    "end": "00:06:49"
+  },
+  {
+    "text": "I think the first and easiest is to go to TikTok, to go to Instagram, go to any of these platforms, search up any competitors you have in the space.",
+    "start": "00:06:49",
+    "end": "00:06:59"
+  },
+  {
+    "text": "[music] I think often times people get so overwhelmed with having to try and create a brand new format when in reality all you really need to do is just go and look at what competitors in your space are doing.",
+    "start": "00:06:59",
+    "end": "00:07:12"
+  },
+  {
+    "text": "Now, you don't need to blatantly rip them off, but you should start thinking about some potential formats that could be remixed about 10 to 20% and then [music] plug your product into those.",
+    "start": "00:07:12",
+    "end": "00:07:23"
+  },
+  {
+    "text": "So, I would say just start to get an idea of that before you even launch your first UGC campaign.",
+    "start": "00:07:23",
+    "end": "00:07:30"
+  },
+  {
+    "text": "And if you don't have two to 4,000 dollars, what you should do is you should still create these accounts yourself given that if you just launched an app, you're probably a small team, you might not have a lot of resources.",
+    "start": "00:07:28",
+    "end": "00:07:39"
+  },
+  {
+    "text": "One of the best things you can do to just actually accelerate your business is by showing up every day with UGC.",
+    "start": "00:07:38",
+    "end": "00:07:47"
+  },
+  {
+    "text": "You have an idea of, you know, the type of content you're going to want to create.",
+    "start": "00:07:47",
+    "end": "00:07:52"
+  },
+  {
+    "text": "I would go ahead and I would launch a campaign.",
+    "start": "00:07:50",
+    "end": "00:07:53"
+  },
+  {
+    "text": "When you launch said campaign, you're going to want to pay anywhere from $600 to $800 for 30 to 60 videos.",
+    "start": "00:07:53",
+    "end": "00:08:03"
+  },
+  {
+    "text": "You're going to also want to layer in view bonus incentives.",
+    "start": "00:08:03",
+    "end": "00:08:06"
+  },
+  {
+    "text": "What we found works really well is a structure of that guaranteed base retainer, $600 with either an uncapped CPM, because the idea is that if it's uncapped, you should be going viral and it should be bringing a lot more revenue to your app.",
+    "start": "00:08:06",
+    "end": "00:08:26"
+  },
+  {
+    "text": "However, if you want to cap them cap the upside, you can a little bit in order to just make sure that things are profitable.",
+    "start": "00:08:22",
+    "end": "00:08:31"
+  },
+  {
+    "text": "So, we'll say it's $600 with a dollar to two dollars CPM, either uncapped or capped.",
+    "start": "00:08:31",
+    "end": "00:08:38"
+  },
+  {
+    "text": "That seems to be the most fruitful for creators, which but also incentivizes them.",
+    "start": "00:08:38",
+    "end": "00:08:44"
+  },
+  {
+    "text": "So, obviously with a budget of between two to four thousand dollars, you're going to be able to get substantial amount of volume that's going to really allow you to A to optimize solving for one problem in your first month.",
+    "start": "00:08:44",
+    "end": "00:08:56"
+  },
+  {
+    "text": "And that is finding content market fit.",
+    "start": "00:08:56",
+    "end": "00:08:58"
+  },
+  {
+    "text": "That is the thing that I think a lot of people overlook, and it's also one of the things that leads to a lot of people to quit early on their UGC campaign.",
+    "start": "00:08:58",
+    "end": "00:09:09"
+  },
+  {
+    "text": ">> How do you define content market fit?",
+    "start": "00:09:07",
+    "end": "00:09:12"
+  },
+  {
+    "text": "Cuz let's say you have these $600 per month retainers for basically daily or twice daily videos per creator, and you're looking at like one to two dollars CPMs, so you're looking for them to go viral.",
+    "start": "00:09:09",
+    "end": "00:09:24"
+  },
+  {
+    "text": "Like does content market fit mean you get just at least a couple of formats to go viral, or is it like a certain CPM that you achieve, or some other metric?",
+    "start": "00:09:24",
+    "end": "00:09:34"
+  },
+  {
+    "text": ">> think it's a certain CPM in that first month, and I don't think it's even necessarily going extremely viral, right?",
+    "start": "00:09:31",
+    "end": "00:09:38"
+  },
+  {
+    "text": "Obviously, that's a very clear indicator, but if you have a format that has legs, like I was saying, that's starting to show promise where it's getting, you know, above 10k views, maybe you have a couple different iterations of one kind of like [music] pillar format that's starting to go viral.",
+    "start": "00:09:38",
+    "end": "00:09:54"
+  },
+  {
+    "text": "I mean, everyone's definition is is different.",
+    "start": "00:09:54",
+    "end": "00:09:57"
+  },
+  {
+    "text": "I I consider something viral after 100k, but let's say at that 10,000 view mark, right?",
+    "start": "00:09:57",
+    "end": "00:10:02"
+  },
+  {
+    "text": "You have consistent [music] videos that are kind of hitting that.",
+    "start": "00:10:02",
+    "end": "00:10:07"
+  },
+  {
+    "text": "Maybe it's like five or six out of the entire campaign.",
+    "start": "00:10:05",
+    "end": "00:10:09"
+  },
+  {
+    "text": "That's kind of how I would define content market fit.",
+    "start": "00:10:09",
+    "end": "00:10:12"
+  },
+  {
+    "text": "From there, I'm analyzing watch time, analyzing retention, uh trying to understand like why those videos are working, and then, you know, I'm also doing this.",
+    "start": "00:10:12",
+    "end": "00:10:22"
+  },
+  {
+    "text": "I'm very big on sharing all learnings with creators as I'm learning them, and the reason for that is I want these creators extremely bought in, and I also think that if you're managing if you're trying to manage creators one-on-one, you're going to have an extremely difficult time.",
+    "start": "00:10:22",
+    "end": "00:10:36"
+  },
+  {
+    "text": "The best way to manage everything is just by running it all in one massive group chat where everyone feels like a big family and you're sharing the wins and learnings along the way.",
+    "start": "00:10:36",
+    "end": "00:10:44"
+  },
+  {
+    "text": "So, I'll be breaking down videos in a group chat, you know, saying, \"Hey, like look at the watch time here.",
+    "start": "00:10:44",
+    "end": "00:10:48"
+  },
+  {
+    "text": "I'm curious if maybe we maybe maybe like do we think it's this word that really is work really well for this video?",
+    "start": "00:10:48",
+    "end": "00:10:54"
+  },
+  {
+    "text": "Is it the audio?",
+    "start": "00:10:54",
+    "end": "00:10:56"
+  },
+  {
+    "text": "What is it?",
+    "start": "00:10:56",
+    "end": "00:10:57"
+  },
+  {
+    "text": "Let's try and, you know, extrapolate these findings onto a couple more videos and see if we can really identify those variables that are driving the videos forward.",
+    "start": "00:10:55",
+    "end": "00:11:06"
+  },
+  {
+    "text": "\" >> So, you're you're just looking for like 10,000 view videos or like like signs of videos that could get more views because it's it's like it's basically like product market fit where you don't need to see it's not really the scaling phase.",
+    "start": "00:11:06",
+    "end": "00:11:20"
+  },
+  {
+    "text": "It's just you need to know that some of these videos have potential because you're going to iterate with the creators and like be able to multiply the success.",
+    "start": "00:11:20",
+    "end": "00:11:31"
+  },
+  {
+    "text": "But then, I'm curious like if there's existing formats out there.",
+    "start": "00:11:29",
+    "end": "00:11:35"
+  },
+  {
+    "text": "You know, in phase one you said you go on TikTok and Instagram and you search for videos in your niche that, you know, there's evidence that there could be something that works.",
+    "start": "00:11:35",
+    "end": "00:11:45"
+  },
+  {
+    "text": "What if you just copy the formats that already exist?",
+    "start": "00:11:45",
+    "end": "00:11:49"
+  },
+  {
+    "text": "Like shouldn't that take Like have you seen people that copy formats that already exist?",
+    "start": "00:11:47",
+    "end": "00:11:53"
+  },
+  {
+    "text": "And then it should take like pretty pretty It should be like pretty quick to find that that fit cuz it kind of the fit is already like validated in a way.",
+    "start": "00:11:53",
+    "end": "00:12:02"
+  },
+  {
+    "text": ">> 100% people to remix it at least 10 to 20% so it's not a blatant copy.",
+    "start": "00:11:59",
+    "end": "00:12:07"
+  },
+  {
+    "text": "Avoids a couple issues right there off the bat.",
+    "start": "00:12:07",
+    "end": "00:12:11"
+  },
+  {
+    "text": "The other thing is those accounts have already warmed up in that audience extremely well, right?",
+    "start": "00:12:11",
+    "end": "00:12:17"
+  },
+  {
+    "text": "So it's like they've built that account up usually over the span of a month or longer.",
+    "start": "00:12:15",
+    "end": "00:12:21"
+  },
+  {
+    "text": "Once you have kind of that warmed up account, then it's going to be a lot easier to kind of continue to pour gasoline on the fire, right?",
+    "start": "00:12:21",
+    "end": "00:12:29"
+  },
+  {
+    "text": "Don't get me wrong.",
+    "start": "00:12:29",
+    "end": "00:12:29"
+  },
+  {
+    "text": "There's plenty of accounts that, >> [music] >> you know, will start day zero.",
+    "start": "00:12:29",
+    "end": "00:12:34"
+  },
+  {
+    "text": "They don't warm up properly.",
+    "start": "00:12:34",
+    "end": "00:12:34"
+  },
+  {
+    "text": "They don't have the audience.",
+    "start": "00:12:34",
+    "end": "00:12:35"
+  },
+  {
+    "text": "They'll copy the format exactly and it doesn't necessarily work, right?",
+    "start": "00:12:35",
+    "end": "00:12:39"
+  },
+  {
+    "text": "[music] That's why if you can find a unique format that really isn't that unique.",
+    "start": "00:12:39",
+    "end": "00:12:45"
+  },
+  {
+    "text": "[music] It's It is a winning format that's copied, but it's remixed 10 to 20%.",
+    "start": "00:12:43",
+    "end": "00:12:47"
+  },
+  {
+    "text": "That will get your account a ton of validity through the algorithm and from there that's what's going to allow you to scale.",
+    "start": "00:12:47",
+    "end": "00:12:56"
+  },
+  {
+    "text": ">> I see.",
+    "start": "00:12:55",
+    "end": "00:12:55"
+  },
+  {
+    "text": "So let's let's go and do an example like for like the peptide tracker niche.",
+    "start": "00:12:55",
+    "end": "00:13:01"
+  },
+  {
+    "text": "Um cuz you said that was a niche that's popping off.",
+    "start": "00:13:01",
+    "end": "00:13:03"
+  },
+  {
+    "text": "So there's probably a lot of content already out there that's validated.",
+    "start": "00:13:03",
+    "end": "00:13:06"
+  },
+  {
+    "text": "So like I just searched peptide tracker on TikTok.",
+    "start": "00:13:06",
+    "end": "00:13:10"
+  },
+  {
+    "text": "And for example, let's just look at first video.",
+    "start": "00:13:10",
+    "end": "00:13:15"
+  },
+  {
+    "text": "This is like a slideshow and it's just like looks like it's from a UGC like a new UGC account.",
+    "start": "00:13:12",
+    "end": "00:13:19"
+  },
+  {
+    "text": "The first slide is a caption that's like, \"Hey, this app is so perf.",
+    "start": "00:13:19",
+    "end": "00:13:25"
+  },
+  {
+    "text": "\" And then it's just three slides.",
+    "start": "00:13:25",
+    "end": "00:13:28"
+  },
+  {
+    "text": "It's like another UI slide.",
+    "start": "00:13:28",
+    "end": "00:13:29"
+  },
+  {
+    "text": "And then And it's just like a screenshot of the app.",
+    "start": "00:13:29",
+    "end": "00:13:31"
+  },
+  {
+    "text": "Like And this video seems like this got like a couple thousand views at least.",
+    "start": "00:13:31",
+    "end": "00:13:35"
+  },
+  {
+    "text": "And there's like comments that are asking like what the app is.",
+    "start": "00:13:35",
+    "end": "00:13:39"
+  },
+  {
+    "text": ">> I mean, this brings up a whole other dilemma, right?",
+    "start": "00:13:38",
+    "end": "00:13:41"
+  },
+  {
+    "text": "Where AI I mean, sure we can get into this, but I'm sure you have you've had many people talk about this, but AI UGC great for vanity views, terrible for conversions at the end of the day.",
+    "start": "00:13:41",
+    "end": "00:13:50"
+  },
+  {
+    "text": "I've not seen it convert.",
+    "start": "00:13:50",
+    "end": "00:13:52"
+  },
+  {
+    "text": "As you can see here, like the user sentiment like is it that great?",
+    "start": "00:13:52",
+    "end": "00:13:55"
+  },
+  {
+    "text": ">> [music] >> Um whereas people should be asking like what does you know, what what's the app?",
+    "start": "00:13:55",
+    "end": "00:14:01"
+  },
+  {
+    "text": "What's this?",
+    "start": "00:14:00",
+    "end": "00:14:01"
+  },
+  {
+    "text": "What's that?",
+    "start": "00:14:01",
+    "end": "00:14:03"
+  },
+  {
+    "text": "That's like a true testament of [music] um like really strong >> Cuz this one got like, you know, 17.",
+    "start": "00:14:03",
+    "end": "00:14:11"
+  },
+  {
+    "text": "9 thousand views.",
+    "start": "00:14:11",
+    "end": "00:14:10"
+  },
+  {
+    "text": "And but then all the comments are like, what the heck is AI?",
+    "start": "00:14:10",
+    "end": "00:14:16"
+  },
+  {
+    "text": "But then this video, I think it only got it got 10,000 views.",
+    "start": "00:14:13",
+    "end": "00:14:20"
+  },
+  {
+    "text": "But there's comments that are asking about the app.",
+    "start": "00:14:18",
+    "end": "00:14:23"
+  },
+  {
+    "text": ">> Transpiring, this is like a terrible account.",
+    "start": "00:14:21",
+    "end": "00:14:24"
+  },
+  {
+    "text": "Content's like pretty scattered all over over the place.",
+    "start": "00:14:24",
+    "end": "00:14:27"
+  },
+  {
+    "text": "This is not an account that's like doing a good job of finding content market fit.",
+    "start": "00:14:27",
+    "end": "00:14:31"
+  },
+  {
+    "text": "And even if they did want to keep running that AI format, which one I they should, but if they were smart, they would just keep doubling down on seeing that type of content since it sort of worked.",
+    "start": "00:14:31",
+    "end": "00:14:41"
+  },
+  {
+    "text": "Some people mix views.",
+    "start": "00:14:41",
+    "end": "00:14:44"
+  },
+  {
+    "text": "They think that views just correlate with success, and that's not always the case at the end of the day, right?",
+    "start": "00:14:42",
+    "end": "00:14:49"
+  },
+  {
+    "text": "Really has to come down to like how is this video actually converting?",
+    "start": "00:14:48",
+    "end": "00:14:53"
+  },
+  {
+    "text": "Like it's great that you could say you run a massive UGC program that does 10 million views a month organically, but if all those videos are slideshows and it converts at a 0.",
+    "start": "00:14:53",
+    "end": "00:15:03"
+  },
+  {
+    "text": "0001%, like then you're just burning money on fire.",
+    "start": "00:15:03",
+    "end": "00:15:04"
+  },
+  {
+    "text": "And it's setting a bad example kind of for the industry.",
+    "start": "00:15:04",
+    "end": "00:15:08"
+  },
+  {
+    "text": "[music] >> So when you're doing these this like research content research, you wouldn't even look at this to try to iterate on this 10 20%?",
+    "start": "00:15:08",
+    "end": "00:15:15"
+  },
+  {
+    "text": ">> That's for the mod.",
+    "start": "00:15:14",
+    "end": "00:15:17"
+  },
+  {
+    "text": ">> Let's start from the beginning again and try to find like how do you research a good format?",
+    "start": "00:15:15",
+    "end": "00:15:20"
+  },
+  {
+    "text": ">> Okay, so this is a real creator.",
+    "start": "00:15:19",
+    "end": "00:15:22"
+  },
+  {
+    "text": "This actually brings an interesting point, right?",
+    "start": "00:15:22",
+    "end": "00:15:23"
+  },
+  {
+    "text": "Yes, research a competitor, but this kind of goes back to what I was saying when we had no competitors, I had to draw on more regular just everyday type of creators who were experiencing or facing some sort of plot problem that my product was going to solve.",
+    "start": "00:15:23",
+    "end": "00:15:38"
+  },
+  {
+    "text": "From there, I was able to come up with something that makes, you know, somewhat sense in terms of a potentially viral converting video.",
+    "start": "00:15:38",
+    "end": "00:15:46"
+  },
+  {
+    "text": "You know, so for example, my face before peptides, if you click on that, extremely simple, it's not AI, it's not a slideshow.",
+    "start": "00:15:46",
+    "end": "00:15:54"
+  },
+  {
+    "text": "You can clearly see she passes the uncanny test.",
+    "start": "00:15:54",
+    "end": "00:15:58"
+  },
+  {
+    "text": "Super simple to get someone like this to do a before and after transformation and then layer in a CTA at the very end, right?",
+    "start": "00:15:55",
+    "end": "00:16:04"
+  },
+  {
+    "text": "And obviously you need some sort of creative imagination for that, but it's not the hardest reference or it's not the hardest jump to make, right?",
+    "start": "00:16:04",
+    "end": "00:16:12"
+  },
+  {
+    "text": "As you can see, the sentiment is pretty strong.",
+    "start": "00:16:12",
+    "end": "00:16:14"
+  },
+  {
+    "text": "I need I need I need.",
+    "start": "00:16:14",
+    "end": "00:16:17"
+  },
+  {
+    "text": "Um so, whether you are a peptide app or you actually had a peptide product yourself, something like this could stick and it's definitely something that I would try.",
+    "start": "00:16:17",
+    "end": "00:16:26"
+  },
+  {
+    "text": ">> It's kind of like a joke format cuz you're saying like my face before peptides and she makes you wait for like the whole 10 seconds.",
+    "start": "00:16:25",
+    "end": "00:16:32"
+  },
+  {
+    "text": "And then the last 2 seconds, she says, \"My face still before peptides cuz I still don't know what the heck they are.",
+    "start": "00:16:32",
+    "end": "00:16:38"
+  },
+  {
+    "text": "\" >> [laughter] >> But then like people in the comments are still asking like what's where's the how did where how did you get them?",
+    "start": "00:16:38",
+    "end": "00:16:45"
+  },
+  {
+    "text": "And then my then some people get it.",
+    "start": "00:16:45",
+    "end": "00:16:46"
+  },
+  {
+    "text": "Seems like this is a great format for you could tweak it a little bit and say you could just put a call to action at the end instead of saying, \"Hey, I still don't know what it is.",
+    "start": "00:16:46",
+    "end": "00:16:54"
+  },
+  {
+    "text": "\" Like this could be a simple before after format.",
+    "start": "00:16:54",
+    "end": "00:16:57"
+  },
+  {
+    "text": "And the viewer retention is probably very good.",
+    "start": "00:16:57",
+    "end": "00:17:01"
+  },
+  {
+    "text": "You're saying a a good way to research formats is not necessarily copying competitors because it's that means it's probably already a little bit more saturated, but just finding regular videos that talk about some kind of problem and and tweaking it to add a CTA.",
+    "start": "00:17:01",
+    "end": "00:17:17"
+  },
+  {
+    "text": ">> For us like, >> you know, we were research a lot of formats in the job market, right?",
+    "start": "00:17:16",
+    "end": "00:17:23"
+  },
+  {
+    "text": "Job market so good, this and that.",
+    "start": "00:17:23",
+    "end": "00:17:24"
+  },
+  {
+    "text": "And we ended up just like being able to take these actual just organic creators videos and then add in some sort of CTA.",
+    "start": "00:17:24",
+    "end": "00:17:34"
+  },
+  {
+    "text": "I think like yes, the easiest route to go is just copy a competitor, remake it 10 to 20%, but if you want to go into actual like format discovery and format creation, what you really do is is you're not copying other people.",
+    "start": "00:17:32",
+    "end": "00:17:47"
+  },
+  {
+    "text": "Yes, like you can still draw inspiration.",
+    "start": "00:17:47",
+    "end": "00:17:50"
+  },
+  {
+    "text": "This was a format that I created last year.",
+    "start": "00:17:47",
+    "end": "00:17:54"
+  },
+  {
+    "text": "And [music] funny story is I saw this from a girl who actually did get denied from an entry-level position at a zoo and she had a dual master's degree or something like that.",
+    "start": "00:17:51",
+    "end": "00:18:07"
+  },
+  {
+    "text": "And I was like, \"Wow, this is absolutely crazy.",
+    "start": "00:18:07",
+    "end": "00:18:08"
+  },
+  {
+    "text": "This would definitely be a great way to plug Side Shift.",
+    "start": "00:18:08",
+    "end": "00:18:11"
+  },
+  {
+    "text": "\" So, as you can see, even still a year later, we we still use this format.",
+    "start": "00:18:11",
+    "end": "00:18:16"
+  },
+  {
+    "text": "That um it doesn't convert super well, but it's a great warm-up format, which is a different type of format.",
+    "start": "00:18:16",
+    "end": "00:18:21"
+  },
+  {
+    "text": "It warms up accounts super well and it starts to get the the niche quite engaged.",
+    "start": "00:18:21",
+    "end": "00:18:25"
+  },
+  {
+    "text": ">> Oh, you actually did say Side Shift a minute into this yapping video, but this video got 700,000 likes, which is >> Yeah, that would be That would be That would printed, man.",
+    "start": "00:18:24",
+    "end": "00:18:34"
+  },
+  {
+    "text": "That would printed.",
+    "start": "00:18:34",
+    "end": "00:18:36"
+  },
+  {
+    "text": ">> It's not just warming up the account cuz I've heard like people talk about warming up UGC accounts, but you're saying like it's good to post just high view videos and then because that shows the account who you want to watch the future videos.",
+    "start": "00:18:34",
+    "end": "00:18:51"
+  },
+  {
+    "text": ">> Exactly.",
+    "start": "00:18:49",
+    "end": "00:18:50"
+  },
+  {
+    "text": "I mean, usually like when it comes to to warm-up videos, I'm trying not to confuse like the first the first-time UGC operator here too much, but like yeah, there's a thing where you'll essentially want to run a warm-up for a warm-up format, which is basically a video that doesn't focus on any sort of call to action.",
+    "start": "00:18:50",
+    "end": "00:19:08"
+  },
+  {
+    "text": "You're not worried about conversions.",
+    "start": "00:19:08",
+    "end": "00:19:09"
+  },
+  {
+    "text": "You're just trying to signal to the algorithm than you're a real that you're a real person and that all of the content that you're about to post as well is you know following all the guidelines and is real and is everything.",
+    "start": "00:19:09",
+    "end": "00:19:20"
+  },
+  {
+    "text": "So you really optimize for views on that right there.",
+    "start": "00:19:20",
+    "end": "00:19:25"
+  },
+  {
+    "text": "Often times the best format that uh warm up an account super well are those that are quite controversial just because that sparks virality.",
+    "start": "00:19:22",
+    "end": "00:19:32"
+  },
+  {
+    "text": "It's harder to like plug a proper CTA into those videos without it feeling off without without it feeling like inauthentic, which is you know obviously like one of the biggest hurdles that you must overcome and and UGC is making the call to action feel extremely natural, subtle, and not to a viewer to say, \"Hmm, that's actually pretty interesting.",
+    "start": "00:19:32",
+    "end": "00:19:48"
+  },
+  {
+    "text": "Let me go take a action [music] now and try and convert myself.",
+    "start": "00:19:48",
+    "end": "00:19:53"
+  },
+  {
+    "text": "\" >> It seems like really really simple actually to do these this format research.",
+    "start": "00:19:53",
+    "end": "00:19:56"
+  },
+  {
+    "text": "Like I was just looking at this video too and this is like in the job market.",
+    "start": "00:19:56",
+    "end": "00:19:59"
+  },
+  {
+    "text": "She's saying like job market is so bad.",
+    "start": "00:19:59",
+    "end": "00:20:02"
+  },
+  {
+    "text": "I've been applying to all these things.",
+    "start": "00:20:02",
+    "end": "00:20:04"
+  },
+  {
+    "text": "And then she kind of like shows her iPad screen but there's nothing there.",
+    "start": "00:20:04",
+    "end": "00:20:09"
+  },
+  {
+    "text": "It's just like LinkedIn or something.",
+    "start": "00:20:09",
+    "end": "00:20:10"
+  },
+  {
+    "text": "But this could easily be tweet.",
+    "start": "00:20:10",
+    "end": "00:20:12"
+  },
+  {
+    "text": "You know, you could just show your app on the iPad or something.",
+    "start": "00:20:12",
+    "end": "00:20:15"
+  },
+  {
+    "text": "Like >> Be curious to see how conversions are at the end of the day, but yeah, you you you're on the right track.",
+    "start": "00:20:15",
+    "end": "00:20:21"
+  },
+  {
+    "text": ">> It seems like pretty simple to to do the the format research and then so and then step two is just two to four thousand dollars budget to in your first month just to get maybe like five to eight creators, small base, a little bit of CPM as well.",
+    "start": "00:20:19",
+    "end": "00:20:34"
+  },
+  {
+    "text": "And then you're trying to find content market fit.",
+    "start": "00:20:34",
+    "end": "00:20:37"
+  },
+  {
+    "text": "So then what do you do once you find, you know, a few formats that have you know, maybe 10 you know, to 50,000 views.",
+    "start": "00:20:37",
+    "end": "00:20:45"
+  },
+  {
+    "text": ">> Usually like the best sign for us and just like even from our own personal experience is like when I have my campaign launched on SideShift and I'm checking my analytics tab and I go to my post page and I see okay, we finally have some content market fit here.",
+    "start": "00:20:42",
+    "end": "00:21:00"
+  },
+  {
+    "text": "Now it's time to double down.",
+    "start": "00:21:00",
+    "end": "00:21:01"
+  },
+  {
+    "text": "What I'll do is I'll usually just go back to our to the marketplace and I will source more creators.",
+    "start": "00:21:01",
+    "end": "00:21:08"
+  },
+  {
+    "text": "Or I may go back to my campaign listing and just find existing creators that maybe were new applicants or that I had originally just passed over for whatever reason, but I'll usually talk to those people on a 5 to 10 minute call, tell them how the campaign's going, tell them why we're scaling up, then I will assign them to the campaign, add them to the group chat, and then we're kind of off to the races.",
+    "start": "00:21:08",
+    "end": "00:21:30"
+  },
+  {
+    "text": "And this is really where you're just pouring gasoline on the fire.",
+    "start": "00:21:30",
+    "end": "00:21:34"
+  },
+  {
+    "text": "I still have about 90% of the creator cohort posting that new format and just dragging that into infinity.",
+    "start": "00:21:34",
+    "end": "00:21:44"
+  },
+  {
+    "text": "However, I will have maybe 10%, which is usually like one to two creators, still testing a couple new formats on the side for one of two reasons.",
+    "start": "00:21:42",
+    "end": "00:21:51"
+  },
+  {
+    "text": "One, I always want to be finding new formats, but two, if my other format gets too saturated, I want to have another one ready to go that I can then just kind of like slot into the chamber and have that cohort continue to rip it.",
+    "start": "00:21:51",
+    "end": "00:22:04"
+  },
+  {
+    "text": ">> What's that percentage of like new formats exploration versus just doubling down on existing one?",
+    "start": "00:22:01",
+    "end": "00:22:10"
+  },
+  {
+    "text": ">> Like I said, it's probably about 10%.",
+    "start": "00:22:08",
+    "end": "00:22:13"
+  },
+  {
+    "text": "I'm having 10% of the creator cohort finding new formats.",
+    "start": "00:22:10",
+    "end": "00:22:14"
+  },
+  {
+    "text": "Everyone does a little bit differently, but that's what we found to work really well.",
+    "start": "00:22:14",
+    "end": "00:22:19"
+  },
+  {
+    "text": "I don't think like, yes, put all your eggs in one basket, but maybe keep a slightly smaller basket to the side just in case.",
+    "start": "00:22:19",
+    "end": "00:22:26"
+  },
+  {
+    "text": "You really want to hedge your bets here a little bit.",
+    "start": "00:22:25",
+    "end": "00:22:27"
+  },
+  {
+    "text": "I mean, I know some people that just run one format and they just run that thing into oblivion.",
+    "start": "00:22:27",
+    "end": "00:22:32"
+  },
+  {
+    "text": "That's not us.",
+    "start": "00:22:32",
+    "end": "00:22:31"
+  },
+  {
+    "text": "We like to hedge a little bit and just be a little cautious that we're not saturating our audiences too heavily.",
+    "start": "00:22:31",
+    "end": "00:22:39"
+  },
+  {
+    "text": ">> It's actually a more than I thought, like 90%, and then you're saying some people even do just 100%.",
+    "start": "00:22:38",
+    "end": "00:22:45"
+  },
+  {
+    "text": "Like you you have six creators, maybe it's like kind of demoralizing to you know, three, four weeks, you know, you don't see anything, and then as soon as you get that one video, then you just shift all of the creators to just doing that one format, and then they should all like do much better.",
+    "start": "00:22:45",
+    "end": "00:23:02"
+  },
+  {
+    "text": ">> Right, then it's barbecue chicken at that point for the rest of the creators, you know, especially if they got the view bonus, like if they're on a view bonus structure as well, like everyone now has seen another creator in the cohort do well.",
+    "start": "00:23:01",
+    "end": "00:23:13"
+  },
+  {
+    "text": "They know the format works.",
+    "start": "00:23:13",
+    "end": "00:23:14"
+  },
+  {
+    "text": "Now they're going to spend a little bit extra effort here trying to copy that format and making sure that they can drag that thing out.",
+    "start": "00:23:14",
+    "end": "00:23:22"
+  },
+  {
+    "text": "And I think on the contrary for the creators that are a little bit more still in like the discovery phase while the rest of the cohort is kind of like dragging these formats out, I think it it's important for them to know that like often times some of those first videos of a new breakout format are the ones that will go the most viral, right?",
+    "start": "00:23:22",
+    "end": "00:23:38"
+  },
+  {
+    "text": "Just cuz the algorithm hasn't seen them before.",
+    "start": "00:23:38",
+    "end": "00:23:41"
+  },
+  {
+    "text": ">> So, let me show you this.",
+    "start": "00:23:40",
+    "end": "00:23:42"
+  },
+  {
+    "text": "A lot of app founders I talk to have a feeling their app has viral potential, but don't want to be the person brain rot scrolling an hour a day hunting for formats, or worse, burning thousands on creators shooting videos that just flop.",
+    "start": "00:23:42",
+    "end": "00:23:54"
+  },
+  {
+    "text": "Recently, I've been telling every founder I meet about Spytalk.",
+    "start": "00:23:52",
+    "end": "00:23:58"
+  },
+  {
+    "text": "It's basically an AI TikTok viral marketer that I've seen a lot of top app growth teams using.",
+    "start": "00:23:58",
+    "end": "00:24:01"
+  },
+  {
+    "text": "You just paste a link to your app and this agent scrolls hundreds of thousands of TikToks for you, finds the outlier videos from competitors who've already cracked the best formats that are driving installs in the niche of your app, and then it remixes the hooks, the angles, and then it makes playbooks so you can pretty much copy paste virality.",
+    "start": "00:24:01",
+    "end": "00:24:17"
+  },
+  {
+    "text": "And then it alerts you when it detects new breakout formats that would also work for your app.",
+    "start": "00:24:17",
+    "end": "00:24:22"
+  },
+  {
+    "text": "This is the only growth tool I 100% vouch for on this channel because there's a ton of gen AI content tools out there, but none of them tell you what to make.",
+    "start": "00:24:22",
+    "end": "00:24:30"
+  },
+  {
+    "text": "Spytalk makes sure you're never in the dark about what's actually working now.",
+    "start": "00:24:30",
+    "end": "00:24:33"
+  },
+  {
+    "text": "I'll put the link in the description.",
+    "start": "00:24:33",
+    "end": "00:24:36"
+  },
+  {
+    "text": ">> Do you see a big difference in this next phase where you're asking creators to come onto a campaign that's already doing well?",
+    "start": "00:24:34",
+    "end": "00:24:42"
+  },
+  {
+    "text": "Like do you see a difference a big difference in their willingness to to jump on?",
+    "start": "00:24:42",
+    "end": "00:24:47"
+  },
+  {
+    "text": ">> Creators are more willing to jump onto a successful campaign because they see it's working, they see there's content market fit, they see that if they can slot themselves in, they should be able to be one of those top creators that starts to produce, especially on side shift since we have all like the shareable links and stuff, often times brands will send their dashboards into the chat so all the creators can see like, \"Okay, here's a leaderboard.",
+    "start": "00:24:45",
+    "end": "00:25:06"
+  },
+  {
+    "text": "Here's who's doing really well.",
+    "start": "00:25:05",
+    "end": "00:25:07"
+  },
+  {
+    "text": "Here's the format that's working.",
+    "start": "00:25:07",
+    "end": "00:25:08"
+  },
+  {
+    "text": "\" So on and so forth.",
+    "start": "00:25:08",
+    "end": "00:25:09"
+  },
+  {
+    "text": "There's really like a million different ways to run a UGC campaign.",
+    "start": "00:25:09",
+    "end": "00:25:13"
+  },
+  {
+    "text": "So some people might be sitting here and thinking everything I'm saying is wrong.",
+    "start": "00:25:13",
+    "end": "00:25:16"
+  },
+  {
+    "text": "Although I would beg to differ, I'm not too wrong.",
+    "start": "00:25:14",
+    "end": "00:25:19"
+  },
+  {
+    "text": ">> Do paid ads come into this at all, or is that the next the next phase?",
+    "start": "00:25:16",
+    "end": "00:25:22"
+  },
+  {
+    "text": ">> I think paid ads come into this pretty heavily, actually.",
+    "start": "00:25:20",
+    "end": "00:25:24"
+  },
+  {
+    "text": "I think there's some people in the UGC space that are just too organic marketing pilled.",
+    "start": "00:25:24",
+    "end": "00:25:30"
+  },
+  {
+    "text": "And like, that is definitely like where we started.",
+    "start": "00:25:30",
+    "end": "00:25:32"
+  },
+  {
+    "text": "And I think organic marketing is huge and it's amazing.",
+    "start": "00:25:32",
+    "end": "00:25:36"
+  },
+  {
+    "text": "But I think after working with some of these massive enterprises, what's become really apparent is that they use this channel as one, obviously a great way to go viral organically, a great way to get copious amounts of volume out onto the internet, a great way to drive millions and millions of sign-ups, downloads, whatever it may be.",
+    "start": "00:25:36",
+    "end": "00:25:56"
+  },
+  {
+    "text": "But what they're also doing is they're testing dozens of creatives every single day.",
+    "start": "00:25:56",
+    "end": "00:26:02"
+  },
+  {
+    "text": "These people have a massive performance budget.",
+    "start": "00:26:02",
+    "end": "00:26:06"
+  },
+  {
+    "text": "You have to remember that in a marketing budget, it's really like split into two.",
+    "start": "00:26:06",
+    "end": "00:26:11"
+  },
+  {
+    "text": "You have a creative organic budget, which is about 20%, and then the absolute monolith of the budget is the performance budget.",
+    "start": "00:26:08",
+    "end": "00:26:18"
+  },
+  {
+    "text": "And that accounts for 80%.",
+    "start": "00:26:18",
+    "end": "00:26:19"
+  },
+  {
+    "text": "So what these people are doing on their performance teams is they're constantly testing which creative is working for us, which seems to be resonating really well with our audience.",
+    "start": "00:26:19",
+    "end": "00:26:29"
+  },
+  {
+    "text": "Once they have those data points, obviously it becomes a little bit more of kind of a technical process in running a a monster paid ads campaign.",
+    "start": "00:26:29",
+    "end": "00:26:39"
+  },
+  {
+    "text": "But if they go on SideShift they see an engagement rate is above a certain percent, they know that that video works.",
+    "start": "00:26:39",
+    "end": "00:26:44"
+  },
+  {
+    "text": "They take that video and then they put paid ad spend behind that.",
+    "start": "00:26:44",
+    "end": "00:26:50"
+  },
+  {
+    "text": "And that is where I'm seeing some of the biggest differentiators between people running solely organic and people running organic and paid, which is why we're building this paid ads integration for all of our brands to now run all of their organic winners as paid ads on Meta, on TikTok directly through the platform, right?",
+    "start": "00:26:48",
+    "end": "00:27:10"
+  },
+  {
+    "text": "So, they don't need to necessarily [music] download the videos now.",
+    "start": "00:27:10",
+    "end": "00:27:13"
+  },
+  {
+    "text": "They can just run that all in one spot.",
+    "start": "00:27:13",
+    "end": "00:27:17"
+  },
+  {
+    "text": ">> refreshing take cuz I think a lot of people are just like like you said, like so organic pilled and just have any experience in ads.",
+    "start": "00:27:16",
+    "end": "00:27:24"
+  },
+  {
+    "text": "And I think that can be intimidating, too.",
+    "start": "00:27:24",
+    "end": "00:27:27"
+  },
+  {
+    "text": "Cuz like if you're used to organic and you're used to not paying per view base you're I mean, you're paying CPM bonuses, but paid ads is just it feels like a a whole different thing.",
+    "start": "00:27:27",
+    "end": "00:27:37"
+  },
+  {
+    "text": "Is it really that intimidating?",
+    "start": "00:27:37",
+    "end": "00:27:38"
+  },
+  {
+    "text": "Like what should a person do to get started with ads if they're already pretty good at organic?",
+    "start": "00:27:38",
+    "end": "00:27:45"
+  },
+  {
+    "text": ">> I would say it's intimidating because people only know the Meta Ads Manager as this like big scary monster.",
+    "start": "00:27:43",
+    "end": "00:27:51"
+  },
+  {
+    "text": "And to be fair, it is quite intimidating when you first get in there.",
+    "start": "00:27:51",
+    "end": "00:27:54"
+  },
+  {
+    "text": "Like I mean, that's why I actually think we're the right people to be building this because we were so organic pilled ourselves and we understand how simple organic really is at the end of the day that we wanted to apply that same philosophy to an ads product.",
+    "start": "00:27:54",
+    "end": "00:28:08"
+  },
+  {
+    "text": "So, what we really did is we took the Meta Ads Manager, we integrated it with Inside Sherpa.",
+    "start": "00:28:08",
+    "end": "00:28:14"
+  },
+  {
+    "text": "We made it extremely simple for you to run these paid ad campaigns almost as you were just running a UGC campaign.",
+    "start": "00:28:14",
+    "end": "00:28:20"
+  },
+  {
+    "text": ">> It sounds like the platform is really useful.",
+    "start": "00:28:19",
+    "end": "00:28:21"
+  },
+  {
+    "text": "Like operationally, regardless of the platform, like how how should you run your organics?",
+    "start": "00:28:21",
+    "end": "00:28:27"
+  },
+  {
+    "text": "Like if you're getting your next wave of creators on and you're starting to kind of pop off like 50,000 views, 100,000 views here and there, like what do you what should you be doing with Meta Ads?",
+    "start": "00:28:27",
+    "end": "00:28:39"
+  },
+  {
+    "text": ">> I think what you should be doing with Meta Ads is you should be taking your top winners once they hit a certain engagement rate.",
+    "start": "00:28:38",
+    "end": "00:28:46"
+  },
+  {
+    "text": "Everyone has a different engagement rate that it works upon for them.",
+    "start": "00:28:46",
+    "end": "00:28:49"
+  },
+  {
+    "text": "Our engagement [music] rate is around 5%.",
+    "start": "00:28:49",
+    "end": "00:28:52"
+  },
+  {
+    "text": "That's what we see work really well.",
+    "start": "00:28:52",
+    "end": "00:28:54"
+  },
+  {
+    "text": "Once that happens, we're going to allocate some spend behind it, and we're going to basically just test and start to see what the conversion looks like.",
+    "start": "00:28:54",
+    "end": "00:29:02"
+  },
+  {
+    "text": "Now, the great thing about paid ads at the end of the day is it solves the old the age-old question of organic marketing, which is where's the attribution?",
+    "start": "00:29:02",
+    "end": "00:29:12"
+  },
+  {
+    "text": "Luckily, with paid, you have attribution.",
+    "start": "00:29:12",
+    "end": "00:29:15"
+  },
+  {
+    "text": "It allows you to justify putting more spend behind certain things.",
+    "start": "00:29:15",
+    "end": "00:29:18"
+  },
+  {
+    "text": "You know, organic is is tricky because you have correlation spikes.",
+    "start": "00:29:18",
+    "end": "00:29:22"
+  },
+  {
+    "text": "You know, we have the ability to connect your revenue, CAD, your Superwall, your Stripe, all these different things, and you can see correlation spikes when, you know, you get a big view spike, does your revenue go up, does your installs go up, whatever.",
+    "start": "00:29:22",
+    "end": "00:29:33"
+  },
+  {
+    "text": "Now, in paid, like with direct UTM links and tracking, [music] you can see just exactly how everything is converting.",
+    "start": "00:29:33",
+    "end": "00:29:39"
+  },
+  {
+    "text": "How many trial starts are you getting?",
+    "start": "00:29:39",
+    "end": "00:29:41"
+  },
+  {
+    "text": "How much is that converting?",
+    "start": "00:29:41",
+    "end": "00:29:42"
+  },
+  {
+    "text": "What does this actually look like at the end of the day?",
+    "start": "00:29:42",
+    "end": "00:29:47"
+  },
+  {
+    "text": "So, my recommendation is to always start with organic.",
+    "start": "00:29:47",
+    "end": "00:29:49"
+  },
+  {
+    "text": "Yes, like if you are new to paid ads, start with organic, really understand how that game works.",
+    "start": "00:29:49",
+    "end": "00:29:54"
+  },
+  {
+    "text": ">> [music] >> But, as you could as you continue to scale up, you have content market fit, you have some budget now to deploy, start to put some of that budget into paid ads with those winners that are working.",
+    "start": "00:29:54",
+    "end": "00:30:08"
+  },
+  {
+    "text": ">> If you look at like 5% engagement rate, I think is the bar that you said you want to look at um to start spending, how much do you spend on on videos that have that 5%?",
+    "start": "00:30:05",
+    "end": "00:30:17"
+  },
+  {
+    "text": ">> It all depends on your ROAS, right?",
+    "start": "00:30:15",
+    "end": "00:30:18"
+  },
+  {
+    "text": "If you're spending 200 bucks and you're getting 400 bucks out of it, then like great, keep spending and keep running that flywheel.",
+    "start": "00:30:18",
+    "end": "00:30:23"
+  },
+  {
+    "text": "Now, if you're spending and you're losing if like if you're putting dollar in and you're getting 75 cents back, then you're just going to accelerate the bleeding and you should probably not be running that video as a paid ad because then you clearly it didn't have uh organic content market fit.",
+    "start": "00:30:23",
+    "end": "00:30:37"
+  },
+  {
+    "text": "Some people start with like $300 a day.",
+    "start": "00:30:37",
+    "end": "00:30:40"
+  },
+  {
+    "text": "Some people are running up to $100,000 a day.",
+    "start": "00:30:40",
+    "end": "00:30:43"
+  },
+  {
+    "text": "It all just Now it actually depends on how much capital and resources you have to deploy.",
+    "start": "00:30:43",
+    "end": "00:30:49"
+  },
+  {
+    "text": ">> In the same example of like the work of the end-to-end that we were describing before where you have like 2 to 4,000 first month and then you bring on some more creators because it's working out and then now you have a bunch of creators copying the formats that you're already winning at and you have like maybe 10 examples of like formats that are hitting, you know, 100 plus K views and they have like 5% engagement, right?",
+    "start": "00:30:46",
+    "end": "00:31:13"
+  },
+  {
+    "text": "What's a good spend level like to just to try out cuz I think people are kind of intimidated by uh just spending.",
+    "start": "00:31:11",
+    "end": "00:31:18"
+  },
+  {
+    "text": "Like even beyond the Meta Ads Manager itself.",
+    "start": "00:31:18",
+    "end": "00:31:21"
+  },
+  {
+    "text": "It's just like what are you supposed to spend on these initial winners?",
+    "start": "00:31:21",
+    "end": "00:31:25"
+  },
+  {
+    "text": ">> I can make some assumptions off of that.",
+    "start": "00:31:24",
+    "end": "00:31:27"
+  },
+  {
+    "text": "Like let's say you started with that 2 to $4,000 budget, you found content market fit.",
+    "start": "00:31:25",
+    "end": "00:31:31"
+  },
+  {
+    "text": "Now your budget has grown to over 10,000 a month for marketing including organic and paid.",
+    "start": "00:31:31",
+    "end": "00:31:37"
+  },
+  {
+    "text": "I would start just simple, maybe 100 bucks a day, see how that bodes for the first 14 days contingent on obviously like what your funnel looks like.",
+    "start": "00:31:37",
+    "end": "00:31:44"
+  },
+  {
+    "text": "What is your free trial look like?",
+    "start": "00:31:44",
+    "end": "00:31:45"
+  },
+  {
+    "text": "All that stuff.",
+    "start": "00:31:45",
+    "end": "00:31:47"
+  },
+  {
+    "text": "Are you a 7-day free trial?",
+    "start": "00:31:46",
+    "end": "00:31:48"
+  },
+  {
+    "text": "Are you a 14-day free trial?",
+    "start": "00:31:48",
+    "end": "00:31:49"
+  },
+  {
+    "text": "But I would start there.",
+    "start": "00:31:49",
+    "end": "00:31:50"
+  },
+  {
+    "text": "If you're seeing a positive ROAS, which you should if you're doing it properly, then you can start to allocate more spend into that.",
+    "start": "00:31:50",
+    "end": "00:32:00"
+  },
+  {
+    "text": ">> Is that $100 per day per ad or just total?",
+    "start": "00:31:56",
+    "end": "00:32:02"
+  },
+  {
+    "text": ">> Collective across how many videos you're running.",
+    "start": "00:32:00",
+    "end": "00:32:03"
+  },
+  {
+    "text": "Maybe you're only running three.",
+    "start": "00:32:03",
+    "end": "00:32:04"
+  },
+  {
+    "text": "So, right?",
+    "start": "00:32:04",
+    "end": "00:32:05"
+  },
+  {
+    "text": "We're allocating 33 bucks across the board to each video.",
+    "start": "00:32:05",
+    "end": "00:32:09"
+  },
+  {
+    "text": "That's like it's it's going to be pretty small.",
+    "start": "00:32:08",
+    "end": "00:32:10"
+  },
+  {
+    "text": "To give you an example, when we first started running paid ads, we were running at an extremely small scale.",
+    "start": "00:32:10",
+    "end": "00:32:16"
+  },
+  {
+    "text": "We were doing like 100 bucks a day.",
+    "start": "00:32:16",
+    "end": "00:32:17"
+  },
+  {
+    "text": "We started seeing great results obviously as we had more creative and we started to put more money behind it.",
+    "start": "00:32:17",
+    "end": "00:32:23"
+  },
+  {
+    "text": "But $100 a day is like enough to get your feet wet and be like, \"Okay, like this starts This is starting to make sense for me.",
+    "start": "00:32:23",
+    "end": "00:32:31"
+  },
+  {
+    "text": "I'm seeing a positive return here.",
+    "start": "00:32:28",
+    "end": "00:32:31"
+  },
+  {
+    "text": "What does it look like if I now start spending $300 a day?",
+    "start": "00:32:31",
+    "end": "00:32:34"
+  },
+  {
+    "text": "What does it look like if I spend $1,000 a day?",
+    "start": "00:32:34",
+    "end": "00:32:36"
+  },
+  {
+    "text": "\" So on and so forth.",
+    "start": "00:32:36",
+    "end": "00:32:39"
+  },
+  {
+    "text": ">> And do you do meta ads or TikTok ads?",
+    "start": "00:32:37",
+    "end": "00:32:41"
+  },
+  {
+    "text": ">> We do meta ads primarily for B2B.",
+    "start": "00:32:39",
+    "end": "00:32:42"
+  },
+  {
+    "text": ">> Oh, interesting.",
+    "start": "00:32:41",
+    "end": "00:32:43"
+  },
+  {
+    "text": "So, if you're doing like organic on TikTok, you basically have to like download the videos from the creators and then like upload them to meta and then run them.",
+    "start": "00:32:43",
+    "end": "00:32:53"
+  },
+  {
+    "text": ">> So, that's what you had to do.",
+    "start": "00:32:51",
+    "end": "00:32:54"
+  },
+  {
+    "text": "Now, you can do it all through SideShift where you can just pretty much say, \"Hey, I want to put $10,000 behind this.",
+    "start": "00:32:54",
+    "end": "00:32:59"
+  },
+  {
+    "text": "\" And we have that integration now where you can just pour the spend directly into the video.",
+    "start": "00:32:59",
+    "end": "00:33:03"
+  },
+  {
+    "text": "The same thing with TikTok Spark as well.",
+    "start": "00:33:03",
+    "end": "00:33:09"
+  },
+  {
+    "text": "TikTok Spark very similar to meta.",
+    "start": "00:33:07",
+    "end": "00:33:10"
+  },
+  {
+    "text": "It's honestly a lot simpler to understand.",
+    "start": "00:33:10",
+    "end": "00:33:13"
+  },
+  {
+    "text": "Transparently, it's not as intimidating, but the the principles are are the same.",
+    "start": "00:33:11",
+    "end": "00:33:17"
+  },
+  {
+    "text": ">> So, you do both.",
+    "start": "00:33:15",
+    "end": "00:33:17"
+  },
+  {
+    "text": "You do like TikTok Spark ads and then also meta ads.",
+    "start": "00:33:17",
+    "end": "00:33:21"
+  },
+  {
+    "text": ">> TikTok Spark ads is more for like pushing organic, right?",
+    "start": "00:33:20",
+    "end": "00:33:24"
+  },
+  {
+    "text": "That's more for like if you have a video doing really well on organic that has a really high CTA.",
+    "start": "00:33:24",
+    "end": "00:33:29"
+  },
+  {
+    "text": "Like, let's say >> [music] >> I mean, to draw back to that example of Frank short, one of our creators.",
+    "start": "00:33:29",
+    "end": "00:33:37"
+  },
+  {
+    "text": "If that call to action was stronger and it was converting extremely well, we would maybe pour Spark ad dollars behind it to continue to push it into the organic sphere.",
+    "start": "00:33:37",
+    "end": "00:33:46"
+  },
+  {
+    "text": "You'll have a little bit of the It's going to give you an attributable CPM.",
+    "start": "00:33:46",
+    "end": "00:33:49"
+  },
+  {
+    "text": "It's not going to give you, obviously, the conversion and attribution that you're going to get from meta [music] ads.",
+    "start": "00:33:49",
+    "end": "00:33:56"
+  },
+  {
+    "text": ">> Oh, right.",
+    "start": "00:33:54",
+    "end": "00:33:55"
+  },
+  {
+    "text": "Because you're just pushing it in the for you page and it shows up as an ad, but there's no anchor on the Spark ad, right?",
+    "start": "00:33:55",
+    "end": "00:34:02"
+  },
+  {
+    "text": ">> Correct.",
+    "start": "00:34:01",
+    "end": "00:34:02"
+  },
+  {
+    "text": "No anchor.",
+    "start": "00:34:02",
+    "end": "00:34:04"
+  },
+  {
+    "text": ">> Yeah, there's no button to actually CTA and like download the app.",
+    "start": "00:34:02",
+    "end": "00:34:06"
+  },
+  {
+    "text": "But, meta ads, obviously, there's button, there's more attribution.",
+    "start": "00:34:06",
+    "end": "00:34:08"
+  },
+  {
+    "text": "I see.",
+    "start": "00:34:08",
+    "end": "00:34:09"
+  },
+  {
+    "text": "So, it's very different.",
+    "start": "00:34:09",
+    "end": "00:34:10"
+  },
+  {
+    "text": "So, I I would guess that CPMs are probably cheaper for Spark ads then?",
+    "start": "00:34:10",
+    "end": "00:34:15"
+  },
+  {
+    "text": ">> Yeah, CPMs are cheaper and that's really the only thing you can measure from it at the end of the day.",
+    "start": "00:34:14",
+    "end": "00:34:18"
+  },
+  {
+    "text": "Like you said, there's no anchor.",
+    "start": "00:34:18",
+    "end": "00:34:19"
+  },
+  {
+    "text": "I mean, if you want to run it now, TikTok ads, there's an anchor, that's different.",
+    "start": "00:34:19",
+    "end": "00:34:22"
+  },
+  {
+    "text": "But, you know, there's no CTA.",
+    "start": "00:34:22",
+    "end": "00:34:26"
+  },
+  {
+    "text": ">> The real scalability comes with meta and that's where you got to I mean, like met if it if you do it manually, you have to So download the video from TikTok, upload it into meta, decide how much to spend.",
+    "start": "00:34:23",
+    "end": "00:34:35"
+  },
+  {
+    "text": "But if you're already running organic on SideShift, you just put budget in and it just allocates it to the winners.",
+    "start": "00:34:35",
+    "end": "00:34:41"
+  },
+  {
+    "text": ">> Yes.",
+    "start": "00:34:40",
+    "end": "00:34:42"
+  },
+  {
+    "text": ">> I've never seen that an organic platform do cuz I feel like there's these organic marketplaces and you can like run your organic.",
+    "start": "00:34:41",
+    "end": "00:34:48"
+  },
+  {
+    "text": "But then it's always like kind of a manual process like pull the videos out and then put it into meta.",
+    "start": "00:34:48",
+    "end": "00:34:56"
+  },
+  {
+    "text": ">> Most brands should have an amazing organic pipeline, right?",
+    "start": "00:34:53",
+    "end": "00:34:57"
+  },
+  {
+    "text": "That's where you're testing everything, that's where you're getting to read those rewards.",
+    "start": "00:34:57",
+    "end": "00:35:02"
+  },
+  {
+    "text": "But as you start to scale up, you know, and you become a real enterprise like there's a reason why, you know, some of these platforms are spending millions and millions of dollars on paid ads every year, right?",
+    "start": "00:35:00",
+    "end": "00:35:12"
+  },
+  {
+    "text": "It clearly works across the board.",
+    "start": "00:35:12",
+    "end": "00:35:14"
+  },
+  {
+    "text": "So we wanted to just bridge that gap between organic and paid, right?",
+    "start": "00:35:14",
+    "end": "00:35:18"
+  },
+  {
+    "text": "We wanted to be able to go to a creator and say, \"Hey, you were getting paid a retainer and a CPM.",
+    "start": "00:35:18",
+    "end": "00:35:28"
+  },
+  {
+    "text": "Now we're going to pay you a retainer and a percentage of those ad sales that you drive now that we can track that directly through SideShift, right?",
+    "start": "00:35:28",
+    "end": "00:35:36"
+  },
+  {
+    "text": "And that also becomes really compelling to creators and it opens up the world of, you know, I think TikTok Shop creators who are very familiar with this model, but now bringing them over to Canvas UGC, which is where which is the landscape that we sit in.",
+    "start": "00:35:36",
+    "end": "00:35:51"
+  },
+  {
+    "text": ">> One of the big challenges with ads also is just figuring out your ad creatives and so many paid ads are UGC-based ad creatives anyway.",
+    "start": "00:35:49",
+    "end": "00:35:59"
+  },
+  {
+    "text": "So if you're going to do UGC, you still have the creator somehow.",
+    "start": "00:35:59",
+    "end": "00:36:03"
+  },
+  {
+    "text": "But you guys already have all the UGC creators and you just start with organic and then you get to the ultimate goal which is paid.",
+    "start": "00:36:03",
+    "end": "00:36:11"
+  },
+  {
+    "text": ">> Right.",
+    "start": "00:36:09",
+    "end": "00:36:10"
+  },
+  {
+    "text": "Well, that goes back to what I was saying earlier when you asked me like, \"Do we have brand spending X amount like six figures plus, six figures a month?",
+    "start": "00:36:10",
+    "end": "00:36:18"
+  },
+  {
+    "text": "\" And like, \"Yes, we do.",
+    "start": "00:36:18",
+    "end": "00:36:18"
+  },
+  {
+    "text": "\" And like, that six figures may seem like a lot, but that's actually nothing in comparison to their overall advertising budget where they may be spending six figures with us for all this organic testing, but they might be might be spending seven to eight figures with their performance budgets as well.",
+    "start": "00:36:18",
+    "end": "00:36:34"
+  },
+  {
+    "text": "So now it's about, you know, intertwining both.",
+    "start": "00:36:33",
+    "end": "00:36:37"
+  },
+  {
+    "text": ">> That really is a next level of skill that I think people that are really, really good at organic, I'm just so bullish on them being the best in the world at paid.",
+    "start": "00:36:35",
+    "end": "00:36:47"
+  },
+  {
+    "text": "Cuz there's people that um go in the opposite direction and it's really hard to like unlearn paid and figure out how to do organic UGC.",
+    "start": "00:36:47",
+    "end": "00:36:55"
+  },
+  {
+    "text": "But if you know hooks and like, you know, algorithm and for you page and stuff, I feel like that's like the transition to paid is like not actually that hard.",
+    "start": "00:36:55",
+    "end": "00:37:05"
+  },
+  {
+    "text": ">> Our goal is to just make that process of learning paid and running paid ads like through Sider, it's extremely simple so anyone can really understand it at the end of the day because yes, there's so many great UGC operators out there that I think are missing out a little bit when it comes to can they double down their strategy with paid.",
+    "start": "00:37:04",
+    "end": "00:37:22"
+  },
+  {
+    "text": "And I'm starting to see that shift a little bit on Twitter as well, which is great to see.",
+    "start": "00:37:22",
+    "end": "00:37:25"
+  },
+  {
+    "text": "Obviously, you still got some people who are extremely UGC pilled, but the best people in the UGC space are ones that, you know, are aware of this.",
+    "start": "00:37:25",
+    "end": "00:37:36"
+  },
+  {
+    "text": "They're aware of how you test with organic and then run that as paid like >> I do feel like this is maybe the next shift cuz I feel like a couple of years ago when you and I probably saw the same thing with TikTok shop where it was like, oh, TikTok shop creators and marketers are the real marketers.",
+    "start": "00:37:34",
+    "end": "00:37:53"
+  },
+  {
+    "text": "Like nobody in app space is doing this real kind of marketing.",
+    "start": "00:37:53",
+    "end": "00:37:56"
+  },
+  {
+    "text": "But then a couple years before that, they learned from the affiliate marketers and the clippers and stuff like that.",
+    "start": "00:37:56",
+    "end": "00:38:04"
+  },
+  {
+    "text": "And then now it's like the whole space is kind of evolving towards okay, we're grinding this out and we're actually doing real good marketing with organic UGC, but it just doesn't make that much money compared to paid ads.",
+    "start": "00:38:04",
+    "end": "00:38:17"
+  },
+  {
+    "text": "And like if you just take that same skill set and apply it to a more scalable model, it's there's just so much more money to be made.",
+    "start": "00:38:16",
+    "end": "00:38:25"
+  },
+  {
+    "text": "One last question I had for you was we got to talk about AI a little bit.",
+    "start": "00:38:25",
+    "end": "00:38:28"
+  },
+  {
+    "text": "Like what how how do you think the the best leverage teams are using AI?",
+    "start": "00:38:28",
+    "end": "00:38:33"
+  },
+  {
+    "text": "Not not in like ad creatives or videos, but just like in workflows like make stuff efficient.",
+    "start": "00:38:33",
+    "end": "00:38:39"
+  },
+  {
+    "text": ">> I've seen a lot recently on Twitter the rise of all these platforms claiming to do the GPT for marketing or GPT for UGC, Claude for UGC.",
+    "start": "00:38:37",
+    "end": "00:38:48"
+  },
+  {
+    "text": "But I think it's about like taking it a step further and like our vision for helping people run campaigns was like what if your AI could cut your existing creators, right?",
+    "start": "00:38:48",
+    "end": "00:39:02"
+  },
+  {
+    "text": "What if your a your AI agent could effectively deploy spend behind all these winners for you?",
+    "start": "00:39:02",
+    "end": "00:39:09"
+  },
+  {
+    "text": "How can we move into this extremely autonomous era that you know, it's taking over Silicon Valley and all these other industries and bring it into an industry that is relatively very creative, but there's actually a lot of nuances behind running a massive UGC paid ad system.",
+    "start": "00:39:09",
+    "end": "00:39:25"
+  },
+  {
+    "text": "And I think when you talk about automating these processes like what we just launched with our agent where you're able to go on SideShift now, type in your budget, drop your website, set the the amount of creators you're looking for and just hit go, it really makes this process as easy as possible, right?",
+    "start": "00:39:25",
+    "end": "00:39:46"
+  },
+  {
+    "text": "The amount of friction that there was for first-time UGC operators was extremely high because you need some you need a knowledge base of figuring out like what creator should I work with?",
+    "start": "00:39:46",
+    "end": "00:40:00"
+  },
+  {
+    "text": "Which brief should I be testing?",
+    "start": "00:40:00",
+    "end": "00:40:01"
+  },
+  {
+    "text": "Which hook works very well?",
+    "start": "00:40:01",
+    "end": "00:40:02"
+  },
+  {
+    "text": "What pay structure should I be working?",
+    "start": "00:40:02",
+    "end": "00:40:04"
+  },
+  {
+    "text": ">> [music] >> So now our goal, the same way that we're trying to make we're trying to take these UGC operators and make them really comfortable with paid ad spend, we're trying to take people who have never ran UGC campaigns and show them the ropes with our new AI agent effectively, right?",
+    "start": "00:40:03",
+    "end": "00:40:19"
+  },
+  {
+    "text": "Where they can come in and they can just do all those steps that I said, really just drop your link, drop your budget, and just hit go, and our agent will teach you the ropes, right?",
+    "start": "00:40:19",
+    "end": "00:40:31"
+  },
+  {
+    "text": ">> When you said briefs, that's kind of what is blowing my mind cuz I feel like the biggest challenge in like AI for marketing is like it's all slop in my opinion.",
+    "start": "00:40:29",
+    "end": "00:40:40"
+  },
+  {
+    "text": "Like most most gen AI tools are just like if you try to apply AI to marketing, it's just slop.",
+    "start": "00:40:40",
+    "end": "00:40:45"
+  },
+  {
+    "text": "But then it's like doing the judgment side and like figuring out who like which creators to cut, which ones to hire, how to manage them, that actually seems more like an AI thing that like an AI would be potentially better than a human at managing a bunch of creators.",
+    "start": "00:40:45",
+    "end": "00:41:04"
+  },
+  {
+    "text": "But then the brief part makes so much sense cuz you guys have data on all of the most and least successful UGC campaigns.",
+    "start": "00:41:04",
+    "end": "00:41:12"
+  },
+  {
+    "text": "So, you guys can probably make the best AI briefs to like tell creators what to make.",
+    "start": "00:41:12",
+    "end": "00:41:18"
+  },
+  {
+    "text": ">> Exactly.",
+    "start": "00:41:16",
+    "end": "00:41:17"
+  },
+  {
+    "text": "And at the end of the day, like we're training our own model based off all of you know, all of this really important data.",
+    "start": "00:41:17",
+    "end": "00:41:24"
+  },
+  {
+    "text": "And I won't go too into the weeds for it, right?",
+    "start": "00:41:24",
+    "end": "00:41:27"
+  },
+  {
+    "text": "But it helps give everyone the best chance of building an actual viral campaign, right?",
+    "start": "00:41:27",
+    "end": "00:41:34"
+  },
+  {
+    "text": "Instead of just guessing at the end of the day, you know?",
+    "start": "00:41:34",
+    "end": "00:41:36"
+  },
+  {
+    "text": "And it takes out all the ambiguity of what I talked about at the start where it's like, \"Should I go and copy this format and remix it 20%?",
+    "start": "00:41:36",
+    "end": "00:41:44"
+  },
+  {
+    "text": "\" Or what if I just know that the way that, you know, I string these words together and I use this audio for this niche it start it actually has a much higher success rate than even something I thought about copying, right?",
+    "start": "00:41:44",
+    "end": "00:41:57"
+  },
+  {
+    "text": "And we take a lot of the decision paralysis out of the equation and just make this extremely extremely simple and non-complex for both brands and creators.",
+    "start": "00:41:57",
+    "end": "00:42:08"
+  },
+  {
+    "text": ">> I feel like one of the first things that people think about when they're trying to do get into UGC is like, should I hire a growth lead or like some kind of like head of Tik Tok?",
+    "start": "00:42:07",
+    "end": "00:42:18"
+  },
+  {
+    "text": "Do you think that's necessary anymore with like SideShift Agent?",
+    "start": "00:42:18",
+    "end": "00:42:23"
+  },
+  {
+    "text": ">> Not necessarily, transparently.",
+    "start": "00:42:20",
+    "end": "00:42:25"
+  },
+  {
+    "text": "I think like you still do need labor to run your UGC campaigns.",
+    "start": "00:42:25",
+    "end": "00:42:27"
+  },
+  {
+    "text": "I [music] think our whole goal is to try and just make all of these archaic and complex processes extremely seamless.",
+    "start": "00:42:27",
+    "end": "00:42:36"
+  },
+  {
+    "text": "And like even if you don't have a growth leader, a campaign manager, like now you can just go on SideShift into the mark into the discover marketplace and just grab a campaign manager who can run your whole operation for you, who understands how to use our new agent, who understands how to use SideShift to its fullest, and then obviously run this viral UGC campaign.",
+    "start": "00:42:36",
+    "end": "00:42:57"
+  },
+  {
+    "text": "So, do I think that yes, there's still a need for a for human for human labor in the equation?",
+    "start": "00:42:57",
+    "end": "00:43:05"
+  },
+  {
+    "text": "Yes, I I always think there will be, but the agent is supposed to make their job extremely simple, right?",
+    "start": "00:43:05",
+    "end": "00:43:10"
+  },
+  {
+    "text": "Where they can focus just more on the high-leverage thing.",
+    "start": "00:43:10",
+    "end": "00:43:13"
+  },
+  {
+    "text": ">> Wow, this is super exciting.",
+    "start": "00:43:11",
+    "end": "00:43:14"
+  },
+  {
+    "text": "Yeah, Nick, thanks for thanks for being on the pod.",
+    "start": "00:43:14",
+    "end": "00:43:16"
+  },
+  {
+    "text": ">> Thanks for having me, Joseph.",
+    "start": "00:43:15",
+    "end": "00:43:17"
+  },
+  {
+    "text": "Always a pleasure.",
+    "start": "00:43:17",
+    "end": "00:43:17"
+  },
+  {
+    "text": "We'll have to We'll have to have you come by the office uh soon.",
+    "start": "00:43:17",
+    "end": "00:43:21"
+  },
+  {
+    "text": "I know you're due for a visit.",
+    "start": "00:43:21",
+    "end": "00:43:23"
+  },
+  {
+    "text": ">> Yeah, let's do it.",
+    "start": "00:43:21",
+    "end": "00:43:23"
+  },
+  {
+    "text": "Where where can people find you?",
+    "start": "00:43:23",
+    "end": "00:43:24"
+  },
+  {
+    "text": "Are you're on Twitter, right?",
+    "start": "00:43:24",
+    "end": "00:43:27"
+  },
+  {
+    "text": ">> I'm on Twitter.",
+    "start": "00:43:25",
+    "end": "00:43:27"
+  },
+  {
+    "text": "You can find me Nicholas N Lawton.",
+    "start": "00:43:27",
+    "end": "00:43:28"
+  },
+  {
+    "text": "That's probably the best place to connect.",
+    "start": "00:43:28",
+    "end": "00:43:31"
+  },
+  {
+    "text": "I'm always down to shop with anyone on uh anything UGC related.",
+    "start": "00:43:31",
+    "end": "00:43:37"
+  },
+  {
+    "text": "So, hit me up.",
+    "start": "00:43:37",
+    "end": "00:43:40"
+  },
+  {
+    "text": ">> Awesome.",
+    "start": "00:43:38",
+    "end": "00:43:39"
+  },
+  {
+    "text": "Cool.",
+    "start": "00:43:39",
+    "end": "00:43:39"
+  },
+  {
+    "text": "Something you might not know, most of the founders I cover on this podcast are hanging out right now in the Consumer Club Discord sharing with each other what's working now for consumer apps.",
+    "start": "00:43:39",
+    "end": "00:43:48"
+  },
+  {
+    "text": "So, you can apply to join Consumer Club if that sounds interesting to you.",
+    "start": "00:43:48",
+    "end": "00:43:51"
+  },
+  {
+    "text": "And this is the Superwall podcast.",
+    "start": "00:43:51",
+    "end": "00:43:53"
+  },
+  {
+    "text": "Of course, you got to check out superwall.",
+    "start": "00:43:53",
+    "end": "00:43:54"
+  },
+  {
+    "text": "com.",
+    "start": "00:43:54",
+    "end": "00:43:55"
+  },
+  {
+    "text": "We have more videos on the channel.",
+    "start": "00:43:55",
+    "end": "00:43:56"
+  },
+  {
+    "text": "So, dig into those to learn from app founders who are willing to share super tactical stuff about app growth.",
+    "start": "00:43:56",
+    "end": "00:44:03"
+  }
+]

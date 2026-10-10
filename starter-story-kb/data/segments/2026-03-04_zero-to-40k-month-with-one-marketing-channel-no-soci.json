@@ -1,0 +1,99 @@
+{
+ "f": "2026-03-04_zero-to-40k-month-with-one-marketing-channel-no-soci",
+ "vid": "E_rX4JJrYkY",
+ "segments": [
+  {
+   "s": "01:36",
+   "e": "02:39",
+   "nut": ["?"],
+   "moi": "Gói bọc API chính chủ thành một API duy nhất để bán lại",
+   "tom": "Late bọc các API chính chủ của Facebook, Instagram, X, LinkedIn — tự trả gói cao nhất và xin đủ permission — rồi giao lại thành một API duy nhất, tính tiền theo số tài khoản kết nối với 3 bậc gói",
+   "kq": "$40K MRR sau 7 tháng, 50.000 signup, hơn 700 khách trả tiền, churn dưới 10%"
+  },
+  {
+   "s": "02:54",
+   "e": "03:41",
+   "nut": ["2.7"],
+   "tom": "Sau 5 năm nghịch startup (từng lập Academy có vốn VC và hơn 100 nhân viên), thấy khoảng trống: chưa có API tự động hoá social nào vừa rẻ vừa đơn giản — đồ đang có hoặc quá đắt, quá phức tạp, hoặc documentation tệ"
+  },
+  {
+   "s": "03:57",
+   "e": "04:42",
+   "nut": ["1.4", "4.5"],
+   "tom": "Bỏ hẳn cửa organic social vì quá nhiễu và reach đã chết; thay vào đó bắt đúng người đang gõ 'social media scheduling API' hay 'Twitter automation tool' — ý định mua cao gấp 10 — tức hớt intent có sẵn thay vì tự tạo intent bằng nội dung viral"
+  },
+  {
+   "s": "06:13",
+   "e": "07:01",
+   "nut": ["?"],
+   "moi": "Bài nào không lên top organic thì đổ ads vào chính trang đó",
+   "tom": "Một nội dung phục vụ hai mục đích: viết bài hữu ích cho đúng tệp khách, bài nào lên top Google thì để chạy organic, bài nào không lên nổi thì đổ Google Ads vào chính trang đó — không phải làm hai bộ nội dung"
+  },
+  {
+   "s": "07:01",
+   "e": "08:03",
+   "nut": ["4.5"],
+   "tom": "Organic chỉ nhắm keyword đáy phễu: dùng Ahrefs lọc từ khoá 300-800 lượt tìm/tháng, cạnh tranh thấp nhưng ý định mua rất cao, viết guide sâu đúng intent; kèm link building (mua qua tool lẫn tự đi xin, có trả tiền), theo dõi rank bằng Ahrefs và Search Console",
+   "kq": "hơn $8K MRR đến từ organic"
+  },
+  {
+   "s": "08:03",
+   "e": "09:23",
+   "nut": ["?"],
+   "moi": "Google Search Ads: mỗi ad group một landing page riêng, khoá target CPA",
+   "tom": "Paid search đấu đúng bộ keyword đang nhắm organic, mỗi ad group một landing page riêng (từ khoá 'Instagram API' có trang riêng), automated bidding đặt target CPA $120, ad copy bán giá trị kiểu 'làm 30 ngày nội dung trong 1 giờ'",
+   "kq": "chi $8.000/tháng, thu $2,5 trên mỗi $1, khoảng $15K MRR từ paid"
+  },
+  {
+   "s": "10:26",
+   "e": "11:12",
+   "nut": ["4.5"],
+   "tom": "Bước 1: liệt kê bộ keyword lõi sát value proposition (với họ là 'social media API', khỏi cần đi tìm), lập spreadsheet ghi volume và độ khó, chỉ tập trung đúng bộ đó chứ không gì khác, nhắm lên top trong 3-6 tháng"
+  },
+  {
+   "s": "11:12",
+   "e": "12:00",
+   "nut": ["4.5"],
+   "tom": "Bước 2: mỗi keyword một nội dung — blog, landing page hoặc free tool — gắn CTA to về trang đăng ký và internal link chéo nhau; đẩy 10-15 bài chất lượng ngay tuần đầu để tạo đà, nhưng đừng bơm quá nhiều vì Google không thích"
+  },
+  {
+   "s": "12:00",
+   "e": "13:19",
+   "nut": ["?"],
+   "moi": "Ngưỡng CAC quyết định khi nào được tăng ngân sách ads",
+   "tom": "Bước 3-5: mở Google Ads theo đúng bộ keyword đó với 3-5 biến thể copy, tắt keyword không ra khách và dồn tiền vào keyword ROI cao, tăng ngân sách từng tháng khi ROAS còn tốt; chuẩn là CAC bằng 20-40% LTV và dưới 30% doanh thu năm đầu"
+  },
+  {
+   "s": "14:52",
+   "e": "15:23",
+   "nut": ["?"],
+   "moi": "Stack tối giản: AI code + attribution doanh thu + Ahrefs",
+   "tom": "Stack cực gọn: Claude Code để code nhanh, DataFast để biết doanh thu đến từ đâu, Google Ads ngốn $8.000/tháng và Ahrefs khoảng $200/tháng cho phần organic"
+  },
+  {
+   "s": "15:23",
+   "e": "16:11",
+   "nut": ["4.B1"],
+   "tom": "Lời khuyên: thôi cố làm mọi thứ cho mọi người — chọn đúng một kênh tăng trưởng rồi giỏi thật sự ở đó (với họ là paid search) tốt hơn gấp 100 lần việc làng nhàng ở 10 kênh"
+  },
+  {
+   "s": "16:42",
+   "e": "17:27",
+   "nut": ["1.4"],
+   "tom": "Google là kênh cho người không muốn lên hình: hợp dân thích dựng spreadsheet keyword, đọc intent và nhìn số hơn là quay video viral — và là kênh đầu tiên rất chắc cho B2B SaaS"
+  },
+  {
+   "s": "17:43",
+   "e": "18:47",
+   "nut": ["?"],
+   "moi": "Chỉ đánh truy vấn có ý định mua, bỏ truy vấn thông tin (AI đã ăn mất)",
+   "tom": "Google search chưa chết nhưng truy vấn thông tin thì coi như chết: 'how to create a great social media post' giờ người ta hỏi thẳng ChatGPT; còn truy vấn ý định mua kiểu 'social media scheduler' vẫn gõ Google rồi bấm vào phần mềm để mua"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:50", "e": "01:05", "ly_do": "quảng bá template ý tưởng của Starter Story"},
+  {"s": "04:42", "e": "05:43", "ly_do": "quảng cáo Vanta"},
+  {"s": "09:23", "e": "10:11", "ly_do": "quảng bá free business idea template"},
+  {"s": "19:19", "e": "19:50", "ly_do": "tự quảng bá Starter Story Build"}
+ ]
+}

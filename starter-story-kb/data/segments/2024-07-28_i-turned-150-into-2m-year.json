@@ -1,0 +1,115 @@
+{
+ "f": "2024-07-28_i-turned-150-into-2m-year",
+ "vid": "8yCXyCN_NR0",
+ "segments": [
+  {
+   "s": "01:04",
+   "e": "01:36",
+   "nut": ["?"],
+   "moi": "Sản phẩm ăn theo mặt trái của làn sóng AI",
+   "tom": "StealthGPT là web app thu phí thuê bao: sinh văn bản AI mà máy dò không phát hiện được, hoặc nhận text từ Claude, ChatGPT, Gemini rồi biến thành không thể phát hiện",
+   "kq": "$190K MRR sau khoảng 15 tháng"
+  },
+  {
+   "s": "01:36",
+   "e": "02:42",
+   "nut": ["1.3", "1.B1"],
+   "tom": "Doanh thu $190K/tháng nhưng lợi nhuận thật chỉ $10–30K/tháng: khoảng $100K/tháng đổ vào marketing và giành khách mới, lương cho 6-7 người (đang tuyển thêm 2) mất $50–60K/tháng, database + hosting + AI stack thêm khoảng $5.000. Vòng đời sản phẩm: 400.000 lượt đăng ký, 15–20.000 subscriber từng trả tiền, hiện còn 8.500 đang active",
+   "kq": "$190K MRR → lãi thật $10–30K/tháng"
+  },
+  {
+   "s": "02:42",
+   "e": "03:30",
+   "nut": ["?"],
+   "moi": "Học code bằng đúng dự án mình thật sự muốn làm",
+   "tom": "Mê RuneScape từ bé, ra trường muốn viết bot farm vàng trong game nên bắt đầu học — lớp CS50 của Harvard cộng một đống YouTube tutorial, rồi tự build website cho mình và một game blackjack; mất vài năm mới code được, và đó là nền để sau này tự dựng StealthGPT"
+  },
+  {
+   "s": "03:30",
+   "e": "05:35",
+   "nut": ["?"],
+   "moi": "Rủi ro pháp lý khi làm dịch vụ tài chính cho người khác",
+   "tom": "23 tuổi mở J Squared Invest giúp người không biết cách vào Bitcoin/Ethereum, không biết Coinbase là gì, không biết mở ví; vay tiền bố để thuê luật sư và lập công ty rồi nhận khách. 2017 thị trường bùng nổ, 2018 sập, mất sạch tiền; sau đó CFTC gửi email cáo buộc, mất 2-3 năm để dàn xếp — riêng chi phí trước khi tới phiên toà đã $50.000 và phải vay bố mẹ vì lúc đó anh trắng tay",
+   "kq": "thất bại, dàn xếp tổng $400.000 và vẫn đang trả tới nay"
+  },
+  {
+   "s": "05:35",
+   "e": "06:23",
+   "nut": ["2.3"],
+   "tom": "Năm 2022 ChatGPT nổi lên, anh suy ra: nội dung online sắp ngập AI, và tất yếu sẽ có phản ứng ngược — sẽ có người cần biết đoạn này do người hay do máy viết. Đúng lúc đó TikTok đẩy cho anh video về một máy dò AI tên GPTZero quét chính xác tới 99% — ngách nằm ở phía đối diện của cái máy dò đó"
+  },
+  {
+   "s": "06:23",
+   "e": "06:56",
+   "nut": ["?"],
+   "moi": "Tự chứng minh kỹ thuật khả thi trước khi build sản phẩm",
+   "tom": "Anh ngồi reverse-engineer chính máy dò đó, thử liên tục vài ngày cho tới khi crack được — mọi output đưa qua detector đều ra 'human'. Có ý tưởng tháng 1, tháng 2 mua domain $75/năm (bắt mua tối thiểu 2 năm nên tổng $150), tháng 3 dựng site Next.js + React và có khách đầu tiên",
+   "kq": "vốn khởi đầu $150, có khách sau 2 tháng"
+  },
+  {
+   "s": "07:43",
+   "e": "08:30",
+   "nut": ["?"],
+   "moi": "Đăng lên directory sản phẩm để creator tự tìm thấy",
+   "tom": "Khách đầu tiên đến từ việc đăng web lên Futurepedia; cho dùng thử 10 lượt miễn phí rồi mới phải mua, ba bậc giá từ $4,99 tới $15. Hỏi ra mới biết họ nghe về StealthGPT qua một TikToker tên Phil chuyên review sản phẩm mới mỗi ngày và bám theo danh sách Futurepedia — tức đăng sản phẩm lên chỗ có người theo dõi thì không đoán được điều gì sẽ tới"
+  },
+  {
+   "s": "08:30",
+   "e": "09:33",
+   "nut": ["4.2", "4.1"],
+   "tom": "Giai đoạn đầu chạy UGC trên TikTok và Instagram, nội dung chủ yếu là giáo dục thị trường vì chưa từng có thứ này — phải giải thích StealthGPT là gì, làm được gì, vì sao cần. Qua mùa hè thì dồn vào Google Ads và trúng đậm: cost per conversion thời kỳ đầu chỉ $10–20, nên tiền vào bao nhiêu lại đổ hết vào Google Ads bấy nhiêu, như đổ xăng vào lửa",
+   "kq": "$10–20 chi phí mỗi lượt chuyển đổi giai đoạn đầu"
+  },
+  {
+   "s": "09:33",
+   "e": "10:20",
+   "nut": ["?"],
+   "moi": "Lọc feedback: dùng user để đo chất lượng, không để lên roadmap",
+   "tom": "Nguyên tắc là giải vấn đề rộng nhất có thể. Anh vẫn hỏi user muốn gì, gợi ý nào giúp được nhiều người thì thử, nhưng gợi ý chỉ hợp riêng một người thì từ chối thẳng — không bỏ hàng trăm giờ build một tính năng phức tạp cho một người. Thứ anh thật sự lấy từ user là hai câu: chất lượng output thế nào, và dùng app có dễ hiểu không"
+  },
+  {
+   "s": "10:20",
+   "e": "10:52",
+   "nut": ["?"],
+   "moi": "Ép sản phẩm về đúng một cú click",
+   "tom": "Dân kỹ thuật luôn muốn build ứng dụng phức tạp nhất, mạnh nhất, cho user tối đa tự do — theo anh đó là thảm hoạ. Người dùng internet muốn đưa vấn đề vào và một click là xong; không phải vấn đề nào cũng nén được về một click, nhưng cứ phải cố kéo về gần một click nhất có thể"
+  },
+  {
+   "s": "10:52",
+   "e": "11:41",
+   "nut": ["?"],
+   "moi": "Stack app AI của indie hacker",
+   "tom": "Next.js + React; Vercel là hạ tầng then chốt vì deploy trong vài phút và lỗi thì roll back được rồi đẩy lại; Supabase làm database; Discord để team liên lạc; Buffer quản lý đăng bài cho Instagram/TikTok/Facebook; Zendesk cho support; Google Sheets/Docs để cộng tác tài liệu; GitHub"
+  },
+  {
+   "s": "11:41",
+   "e": "12:28",
+   "nut": ["?"],
+   "moi": "Tuyển dev qua post Twitter, không cần hồ sơ đẹp",
+   "tom": "Hai tháng đầu làm một mình vì ý tưởng còn thô, chỉ để xem có chạy không; khi thấy traction thật thì biết cần thêm tay. Toàn bộ dev đều tuyển qua một bài đăng trên Twitter — không ai có bằng cấp hào nhoáng, chưa ai từng làm gì nổi bật trước đó"
+  },
+  {
+   "s": "12:28",
+   "e": "13:15",
+   "nut": ["2.1"],
+   "tom": "Cách tìm ý tưởng: nghĩ về vấn đề trong chính đời mình — thứ làm mình bực, thứ ngốn thời gian, thứ ngốn tiền — hoặc đi hỏi người khác về vấn đề trong lĩnh vực mình có hứng, vì làm thứ mình quan tâm thì làm tốt hơn hẳn. Và phải đủ trung thực để tự phê ý tưởng của mình: người ta có thật sự bỏ tiền mua không, hay mình đang tự thổi phồng"
+  },
+  {
+   "s": "13:15",
+   "e": "14:16",
+   "nut": ["?"],
+   "moi": "Lướt timeline indie hacker mỗi ngày để nhặt ý",
+   "tom": "Buổi sáng đầu tiên là kiểm tra hệ thống có xanh hết không, rồi soi hiệu suất ads hôm nay so với hôm qua; phần còn lại là nghĩ ý tưởng và trao đổi với team theo kiểu rất hands-off. Ngoài ra anh dành lượng thời gian đáng kể lướt timeline Twitter đọc indie hacker và founder — kể cả tài khoản avatar anime chỉ được một hai like, thấy ý hay là thử luôn"
+  },
+  {
+   "s": "14:16",
+   "e": "15:05",
+   "nut": ["2.B3"],
+   "tom": "Lời khuyên cho chính mình: marketing quan trọng ngang, nếu không muốn nói là hơn, bản thân sản phẩm — không có phân phối, không ai nhìn thấy thứ mình build thì coi như xong. Và chưa bao giờ dễ build như bây giờ: chỉ cần laptop và wifi, với AI cùng gói free tier của Vercel và Supabase là đưa được thứ gì đó lên mạng ngay hôm nay"
+  }
+ ],
+ "bo_qua": [
+  {"s": "06:56", "e": "07:43", "ly_do": "quảng cáo báo cáo 52 micro-SaaS và cộng đồng Starter Story"},
+  {"s": "15:05", "e": "16:13", "ly_do": "outro + quảng cáo báo cáo micro-SaaS của Starter Story"}
+ ]
+}

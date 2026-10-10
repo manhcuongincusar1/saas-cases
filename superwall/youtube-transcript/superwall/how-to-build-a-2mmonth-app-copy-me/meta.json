@@ -1,0 +1,114 @@
+{
+  "videoId": "GUkXzJ2S6Z8",
+  "title": "How to Build a $2M/Month App (Copy Me)",
+  "channel": "Superwall",
+  "channelId": "UCWWlrm9Y5ZjYzfi_H0caBhw",
+  "description": "Start building & deploying paywalls in 10 minutes flat: https://superwall.com/\n\nCreate mobile apps by chatting with AI: Get 20% off your first month https://rork.com/?ref=SUPERWALL\n\nPrivate dinners for $100k/mo app founders: https://75v4gfh4e3l.typeform.com/to/CgZbJWb6\n\nSpy on outlier TikToks that went viral promoting apps: https://spytok.com/\n\nJoin a community of world class consumer app founders and growth hackers: https://joinconsumerclub.com/\n\nHosted & produced by Joseph Choi: https://twitter.com/JosephKChoi\nMarcus: https://www.linkedin.com/in/marcusburke/\n\nTimestamps:\n\n0:00 - Intro: The High-Leverage Skill of App Scaling\n2:20 - Marcus Burke’s Background: Transitioning from Air Traffic Control to Mobile Gaming UA (2012–2019)   \n4:31 - The Evolution of Mobile Ads: Gaming vs. Subscription App Verticals   5:15 - Moving to Blinkist & Pioneering the Web-to-App Blog Funnel   \n6:56 - Why In-App Optimization (Onboarding, Paywalls) Dictates Upper-Funnel Meta Ad Success   \n7:55 - Why E-commerce D2C Talking-Head UGC Formats Fail for Subscription Apps   \n8:11 - Mitigating App Store Friction: Priming Users in the Creative to Protect Install Rates   \n9:08 - Case Study: Deconstructing a $1M+ Spend Creative Concept for Moonate   \n11:13 - Algorithmic Targeting: Using Hyper-Specific Ad Copy to Inform the Meta Algorithm   \n12:13 - The Reddit + Claude Research Workflow: Extracting Vivid Emotional Language Patterns   \n14:33 - Soft CTAs vs. Feature Demos: Deciding Where the True \"Sale\" Happens   \n16:49 - Funnel Architecture Breakdown: Web Advertorials vs. Direct App Store Installs   \n18:53 - Static Image Ad Delivery Constraints in App Promotion Campaigns   \n21:40 - Integrating Generative AI (GPT Image, Google Nano) to Control Creative Testing Variables   \n38:11 - Top-Level Variables for Performance Scale: Message, Media, Content Type, and Funnel   \n40:52 - Media Buying Analytics: Evaluating Placement Composition and Demographic Purchase Power   \n43:42 - Correcting Trial-to-Paid Conversion Disparities Using Meta Value Rules   \n52:11 - Account Structuring: Leveraging Multi-Ad Set Budgets to Force Spend Across Distinct Niches   \n55:30 - Capitalizing on Cultural Micro-Trends (ADHD, Toxic Attachments) in Mental Wellness Creatives   \n1:00:29 - Where to Connect with Marcus Burke   \n\n\nOn this episode of the Superwall Podcast, I sit down with growth consultant Marcus Burke to detail the technical frameworks required to scale mobile subscription apps past six figures a month in Meta ad spend. The discussion focuses on user acquisition (UA) architecture, highlighting why traditional direct-to-consumer (D2C) e-commerce content structures fail when applied to mobile app promotion campaigns. We evaluate the mechanics of the Meta algorithm, specifically looking at how ad creative dictates audience targeting optimization, placement composition, and data feedback loops.  \n\nThe workflow segments unpack the execution of a research pipeline combining anonymous Reddit forum mining with Claude LLM synthesis to identify hyper-specific consumer psychological profiles and emotional language patterns. Marcus details his creative testing methodologies, including asset diversification across static images, short-form video, and generative AI production tools like GPT Image. Additionally, the video provides an operational overview of backend media buying settings, explaining how to mitigate App Store install friction, structure multi-ad set budget allocation, execute web-to-app blog funnels, and counter trial-to-paid drop-offs using automated Meta value rules.",
+  "duration": 3672,
+  "publishDate": "2026-06-21",
+  "url": "https://www.youtube.com/watch?v=GUkXzJ2S6Z8",
+  "coverImage": "imgs/cover.jpg",
+  "thumbnailUrl": "https://i.ytimg.com/vi/GUkXzJ2S6Z8/maxresdefault.jpg",
+  "language": {
+    "code": "en",
+    "name": "English",
+    "isGenerated": true
+  },
+  "chapters": [
+    {
+      "title": "- Intro: The High-Leverage Skill of App Scaling",
+      "start": 0,
+      "end": 140
+    },
+    {
+      "title": "- Marcus Burke’s Background: Transitioning from Air Traffic Control to Mobile Gaming UA (2012–2019)",
+      "start": 140,
+      "end": 271
+    },
+    {
+      "title": "- The Evolution of Mobile Ads: Gaming vs. Subscription App Verticals   5:15 - Moving to Blinkist & Pioneering the Web-to-App Blog Funnel",
+      "start": 271,
+      "end": 416
+    },
+    {
+      "title": "- Why In-App Optimization (Onboarding, Paywalls) Dictates Upper-Funnel Meta Ad Success",
+      "start": 416,
+      "end": 475
+    },
+    {
+      "title": "- Why E-commerce D2C Talking-Head UGC Formats Fail for Subscription Apps",
+      "start": 475,
+      "end": 491
+    },
+    {
+      "title": "- Mitigating App Store Friction: Priming Users in the Creative to Protect Install Rates",
+      "start": 491,
+      "end": 548
+    },
+    {
+      "title": "- Case Study: Deconstructing a $1M+ Spend Creative Concept for Moonate",
+      "start": 548,
+      "end": 673
+    },
+    {
+      "title": "- Algorithmic Targeting: Using Hyper-Specific Ad Copy to Inform the Meta Algorithm",
+      "start": 673,
+      "end": 733
+    },
+    {
+      "title": "- The Reddit + Claude Research Workflow: Extracting Vivid Emotional Language Patterns",
+      "start": 733,
+      "end": 873
+    },
+    {
+      "title": "- Soft CTAs vs. Feature Demos: Deciding Where the True \"Sale\" Happens",
+      "start": 873,
+      "end": 1009
+    },
+    {
+      "title": "- Funnel Architecture Breakdown: Web Advertorials vs. Direct App Store Installs",
+      "start": 1009,
+      "end": 1133
+    },
+    {
+      "title": "- Static Image Ad Delivery Constraints in App Promotion Campaigns",
+      "start": 1133,
+      "end": 1300
+    },
+    {
+      "title": "- Integrating Generative AI (GPT Image, Google Nano) to Control Creative Testing Variables",
+      "start": 1300,
+      "end": 2291
+    },
+    {
+      "title": "- Top-Level Variables for Performance Scale: Message, Media, Content Type, and Funnel",
+      "start": 2291,
+      "end": 2452
+    },
+    {
+      "title": "- Media Buying Analytics: Evaluating Placement Composition and Demographic Purchase Power",
+      "start": 2452,
+      "end": 2622
+    },
+    {
+      "title": "- Correcting Trial-to-Paid Conversion Disparities Using Meta Value Rules",
+      "start": 2622,
+      "end": 3131
+    },
+    {
+      "title": "- Account Structuring: Leveraging Multi-Ad Set Budgets to Force Spend Across Distinct Niches",
+      "start": 3131,
+      "end": 3330
+    },
+    {
+      "title": "- Capitalizing on Cultural Micro-Trends (ADHD, Toxic Attachments) in Mental Wellness Creatives",
+      "start": 3330,
+      "end": 3629
+    },
+    {
+      "title": "- Where to Connect with Marcus Burke",
+      "start": 3629,
+      "end": 3672
+    }
+  ]
+}

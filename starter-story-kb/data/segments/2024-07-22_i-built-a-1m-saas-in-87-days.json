@@ -1,0 +1,122 @@
+{
+ "f": "2024-07-22_i-built-a-1m-saas-in-87-days",
+ "vid": "WctFUP4w0sc",
+ "segments": [
+  {
+   "s": "01:36",
+   "e": "02:07",
+   "nut": ["?"],
+   "moi": "Bảng giá và tệp khách của SaaS cold email",
+   "tom": "ListKit phục vụ cold email — tìm email rồi gửi pitch; khách là dân sales, chủ doanh nghiệp, freelancer và solopreneur đi chào dịch vụ; giá khởi điểm $97/tháng, gói enterprise vài trăm đô",
+   "kq": "1.000 khách trả tiền trong 6 tháng đầu, hơn 1.500 sau gần 1 năm"
+  },
+  {
+   "s": "02:07",
+   "e": "02:55",
+   "nut": ["1.3"],
+   "tom": "Khởi động 7/2023, tới 6/2024 sắp vượt $200K MRR — nhưng cơ cấu chi phí nuốt gần hết: riêng chi phí nhân sự đã hơn $100K/tháng, tổng chi để duy trì tăng trưởng kể cả ads và acquisition là $150–175K/tháng, với 4 co-founder + 20 người CS/sales + đội dev",
+   "kq": "$200K MRR nhưng chi $150–175K/tháng"
+  },
+  {
+   "s": "02:55",
+   "e": "03:41",
+   "nut": ["?"],
+   "moi": "Chuỗi tiến hoá agency → coaching → SaaS",
+   "tom": "Không có vốn nên bắt đầu bằng dịch vụ từ năm 16-17 tuổi: agency lead generation cùng anh họ Dan và Christian, kéo lên $100K/tháng rồi kẹt cứng không scale nổi; bắt tay Daniel Fazio (Cold Email Wizard) mở Client Ascension dạy người khác đi từ 0 lên $100K/tháng bằng đúng chiến thuật cold email của mình",
+   "kq": "agency $100K/tháng nhưng chạm trần"
+  },
+  {
+   "s": "03:41",
+   "e": "05:16",
+   "nut": ["3.7", "4.14"],
+   "tom": "Không có vốn và không muốn gọi VC thì đường duy nhất là productized service: mặt trước trông y như SaaS (vào web đặt hàng), mặt sau người làm tay — khách điền form 'tôi cần 100 / 1.000 / 10.000 lead', trong 24 giờ đội ngũ làm xong rồi giao thủ công. Ba lý do: (1) không tốn đồng phí dev nào vì chỉ tách đúng việc agency đang làm sẵn cho khách của mình; (2) chứng minh được nhu cầu — họ chưa biết khách có muốn tự phục vụ không, thời gian trả kết quả có quan trọng không, giá có quan trọng không; (3) tạo dòng tiền, và tới lúc build thật thì biết chính xác phải build gì nên rẻ hơn hẳn"
+  },
+  {
+   "s": "05:46",
+   "e": "06:50",
+   "nut": ["?"],
+   "moi": "Đốt tiền thuê dev ngoài khi không có người hiểu sản phẩm",
+   "tom": "Lấy $5–10K/tháng từ productized service đổ hết vào dev và designer thuê ngoài, nhưng chưa từng làm sản phẩm bao giờ nên tiền đi hết vào một app không bao giờ ra mắt; đã tới mức muốn bỏ — 'tôi biết ý tưởng này chạy được, chỉ là không tìm được ai thực thi'. May là một học viên của Client Ascension tên Oliver bay tới Tampa nói mình hiểu đúng thứ cần làm, 6 tháng sau thì ra mắt được",
+   "kq": "mất hàng chục nghìn đô, app không bao giờ thấy ánh sáng"
+  },
+  {
+   "s": "06:50",
+   "e": "07:38",
+   "nut": ["4.7", "4.8"],
+   "tom": "Lúc relaunch đã có sẵn danh sách khách trả tiền từ coaching, từ agency và từ productized service; anh đi hỏi thẳng họ muốn thấy gì trong bản SaaS cuối cùng, đồng thời tweet kể trọn hành trình suốt thời gian đó — kể cả đoạn đốt sạch tiền, thất bại và suýt bỏ cuộc. Tới ngày launch chỉ cần gửi vài email, làm vài buổi live call, đăng vài tweet là người ta đổ vào ủng hộ",
+   "kq": "0 → $1 triệu ARR trong 87 ngày"
+  },
+  {
+   "s": "07:38",
+   "e": "08:10",
+   "nut": ["?"],
+   "moi": "Định giá bằng cách hỏi chính khách của đối thủ",
+   "tom": "Thứ tự: tính chi phí của mình trước để chắc còn lãi → xem đối thủ đang thu bao nhiêu → đi hỏi chính khách của đối thủ 'anh thích gì và ghét gì ở cách họ tính giá'. Với SaaS mình không bắt đầu từ số 0 mà đi sau đối thủ rồi chỉnh những điểm nhỏ; ListKit chốt ở mô hình credit: muốn bao nhiêu credit, giá mỗi credit hợp lý với business của anh"
+  },
+  {
+   "s": "08:10",
+   "e": "08:42",
+   "nut": ["4.2"],
+   "tom": "Thứ tự kênh: đầu tiên là cold email vì đó đúng là thứ tệp khách của họ đang dùng và đang cần lead; thứ hai mới tới ads để vượt qua một ngưỡng nhất định; thứ ba là content marketing, affiliate, và hệ sinh thái sản phẩm sẵn có (chương trình coaching + agency)"
+  },
+  {
+   "s": "08:42",
+   "e": "09:13",
+   "nut": ["?"],
+   "moi": "Lead magnet trong cold email: tặng 50 lead thật",
+   "tom": "Cold email chỉ thật sự ăn khi bán dịch vụ agency giá cao, nên thay vì chào sản phẩm họ chào quà: 'trả lời email này, nói anh muốn lead ngành nào, tụi tôi gửi 50 lead từ ListKit — thấy dùng được thì nói chuyện tiếp'. Lead magnet đó bùng nổ, giờ đối thủ nào cũng copy"
+  },
+  {
+   "s": "09:13",
+   "e": "10:15",
+   "nut": ["?"],
+   "moi": "Nhịp test 20 creative mới mỗi tuần khi scale ads",
+   "tom": "Sản phẩm giá thấp thì nuôi đội sales bằng ads không nổi, nên họ dựng thêm 'setup offer': vào tận business của khách dựng nguyên hệ thống cold email giống hệt hệ thống của mình và cấp lead định kỳ. Về ads: qua mốc chi $300–400/ngày là creative nhanh chết, mỗi tuần phải test gần 20 cái mới — 10 ảnh tĩnh và 10 biến thể video, khác headline, khác copy, khác người xuất hiện"
+  },
+  {
+   "s": "10:15",
+   "e": "10:47",
+   "nut": ["4.13"],
+   "tom": "Không dùng free trial vì nó hút sai người — dân săn đồ miễn phí chứ không phải người mua; sản phẩm đủ rẻ và đủ ít cam kết để trả tiền luôn, nên thay bằng money-back guarantee: vẫn nói được như free trial mà tiền vào ngay. Ngoại lệ: SaaS kiếm tiền theo số user (bán quảng cáo, lấy dữ liệu) thì free trial mới hợp lý"
+  },
+  {
+   "s": "10:47",
+   "e": "11:35",
+   "nut": ["?"],
+   "moi": "Thuê dev và CS ở nước chi phí thấp để giữ biên",
+   "tom": "40 người mà vẫn có lãi vì phần lớn là dev ở Ukraine và customer success ở Lebanon — trả $1.000–2.000/tháng cho một người full-time làm tốt ngang hoặc hơn người Mỹ mà mức Mỹ phải trả $5.000–8.000/tháng",
+   "kq": "team 40 người, chi phí nhân sự hơn $100K/tháng"
+  },
+  {
+   "s": "11:35",
+   "e": "12:22",
+   "nut": ["2.7", "2.B1"],
+   "tom": "Cách build SaaS mà anh cho là ai cũng nên dùng: chọn thứ đã được chứng minh — hoặc đông user, hoặc là công ty niêm yết doanh thu tỉ đô như ZoomInfo — rồi đi tìm người ta thích gì, KHÔNG thích gì, nút thắt nằm ở đâu. Anh vốn là user của Apollo và biết điểm ai cũng ghét là lead của Apollo không được verify, nên build đúng cái Apollo có nhưng sửa đúng một chỗ khách thật sự quan tâm"
+  },
+  {
+   "s": "12:22",
+   "e": "14:27",
+   "nut": ["?"],
+   "moi": "Bộ vai bắt buộc trong team co-founder SaaS",
+   "tom": "Năm co-founder, mỗi người một mảng không giẫm chân: anh làm CEO/người gắn kết, Daniel và Christian lo toàn bộ marketing (funnel, ads, content — anh không đụng vào vì không phải người giỏi nhất việc đó), Dan lo sales (anh chưa từng lên một cuộc sales call nào), Oliver lo công nghệ. Muốn ghép team thì trước hết phải biết mình có thật sự cần co-founder không (mục tiêu là công ty lớn hay giữ nhỏ), rồi liệt kê kỹ năng mình có và kỹ năng còn thiếu, rồi vào đúng cộng đồng đầy người giỏi mảng đó mà kết nối — anh vốn hướng nội nhưng phải tự ép mình hướng ngoại; và bắt buộc phải cùng giá trị cốt lõi và cùng nhìn thấy một tầm nhìn"
+  },
+  {
+   "s": "14:27",
+   "e": "15:12",
+   "nut": ["4.14", "3.2"],
+   "tom": "Mọi khách vừa mua ListKit đều được mời một buổi onboarding 1-1; trong đó anh hỏi đúng ba câu: vì sao anh đăng ký, anh mong dùng cái này để đạt gì, và anh có đang đạt được không — nếu không thì tìm ra phải build thêm gì hoặc support thế nào để họ đạt được đều đặn, vì SaaS là trò giữ churn thấp"
+  },
+  {
+   "s": "16:13",
+   "e": "17:00",
+   "nut": ["?"],
+   "moi": "Lúc thắng phải nhân đôi thay vì buông tay",
+   "tom": "Bảy năm làm thì 4-5 năm đầu không gọi được là thành công; đây là trò chơi nhất quán dài hạn — lúc khó thì phải nhất quán hơn và chủ đích hơn với từng đầu việc, lúc đang tốt thì phải nhân đôi, vì founder vật lộn lâu ngày hay vừa thấy thành công là buông đúng những thứ đã đưa họ tới đó rồi rơi ngược lại"
+  }
+ ],
+ "bo_qua": [
+  {"s": "05:16", "e": "05:46", "ly_do": "quảng cáo báo cáo 50 ý tưởng solo developer của Starter Story"},
+  {"s": "17:15", "e": "17:47", "ly_do": "tự quảng bá chương trình coaching + kể tên các coach anh theo học"},
+  {"s": "18:03", "e": "19:03", "ly_do": "outro + quảng cáo Starter Story"}
+ ]
+}

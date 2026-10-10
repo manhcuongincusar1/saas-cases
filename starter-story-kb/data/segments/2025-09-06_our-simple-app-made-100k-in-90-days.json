@@ -1,0 +1,92 @@
+{
+ "f": "2025-09-06_our-simple-app-made-100k-in-90-days",
+ "vid": "1nfPvJKrYYQ",
+ "segments": [
+  {
+   "s": "01:55",
+   "e": "02:46",
+   "nut": ["?"],
+   "moi": "Chọn ý tưởng theo kênh phân phối đã chứng minh viral",
+   "tom": "Natural Write chỉ làm một việc: dán text AI vào, bấm humanize, ra text vượt được đa số AI detector; ý tưởng đến từ chỗ họ thấy TikTok đầy video về humanizer nên biết chắc dễ đẩy — build 2 tuần rồi bắt đầu đăng",
+   "kq": "sản phẩm xong trong 2 tuần"
+  },
+  {
+   "s": "02:46",
+   "e": "03:49",
+   "nut": ["3.B2", "4.2"],
+   "tom": "Đầu tiên thuê influencer trả tiền làm video: ra view nhưng gần như không ra đơn; bỏ, tự mở tài khoản TikTok và tự quay mặt mình, đăng mỗi ngày một video — video đầu tiên đã có đơn đầu tiên",
+   "kq": "tháng 1 $41K, tháng 2 $32K, tháng 3 $27K, tổng $100K"
+  },
+  {
+   "s": "03:49",
+   "e": "04:18",
+   "nut": ["4.1"],
+   "tom": "Bản rút gọn của cả chiến lược: set up tài khoản cho chuẩn → tìm video viral trong ngách → copy lại đúng video đó → đăng 1 video/ngày → khi đã viral rồi mới thử ý tưởng của riêng mình"
+  },
+  {
+   "s": "04:19",
+   "e": "04:51",
+   "nut": ["3.1"],
+   "tom": "Bước 1 làm trước cả khi viết code: nghiên cứu ngách trên TikTok để tìm hai bằng chứng — có đối thủ đang làm nội dung ngách này, và đối thủ đó có video viral thật; dùng TikTok search cộng Creator Search Insights"
+  },
+  {
+   "s": "04:51",
+   "e": "05:22",
+   "nut": ["?"],
+   "moi": "Dựng tài khoản TikTok đúng thị trường mục tiêu rồi warm-up",
+   "tom": "Bước 2–3: không ở nước mục tiêu thì cần VPN, iPhone, số điện thoại nước đó, email mới, Apple ID mới, và tài khoản đầu tiên bắt buộc đăng ký bằng số điện thoại; sau đó warm-up 30–50 phút/ngày trong 3–5 ngày, like, comment, follow creator trong ngách"
+  },
+  {
+   "s": "05:22",
+   "e": "05:53",
+   "nut": ["4.1", "4.11"],
+   "tom": "Bước 4–5: dựng bản copy 1:1 chất lượng cao của các video đang viral trong ngách, bắt buộc thêm caption bằng chính editor của TikTok; đăng đúng 1 video/ngày vào khung giờ tối ưu, thường là nửa sau của ngày"
+  },
+  {
+   "s": "05:53",
+   "e": "06:12",
+   "nut": ["4.6"],
+   "tom": "Bước 6–7: chỉ khi video bắt đầu viral và đã hiểu cách TikTok chạy thì mới thử format của riêng mình, rồi nhân bản bằng cách mở thêm tài khoản và thuê creator"
+  },
+  {
+   "s": "07:35",
+   "e": "08:15",
+   "nut": ["4.10"],
+   "tom": "Video viral nhất: \"còn 5 phút phải nộp bài luận\" cắt từ phim hài Jim Carrey, nêu vấn đề rồi chìa giải pháp theo kiểu buồn cười; làm mất vài tiếng, format đã có creator khác chứng minh nên họ chỉ copy",
+   "kq": "4 triệu view"
+  },
+  {
+   "s": "08:15",
+   "e": "08:50",
+   "nut": ["4.1"],
+   "tom": "Video thứ hai chỉ demo thẳng: text 100% AI → bấm một cái → text 100% human; bản gốc của creator khác chỉ ~150K view còn bản copy của Evgeniy đạt 1,5 triệu view, và cứ viral là đơn về ngay lập tức",
+   "kq": "1,5 triệu view từ bản copy của video 150K view"
+  },
+  {
+   "s": "08:50",
+   "e": "09:23",
+   "nut": ["?"],
+   "moi": "Phễu thật từ view TikTok tới doanh thu",
+   "tom": "Toàn phễu 3 tháng: ~9 triệu view TikTok từ mọi tài khoản → 300K lượt truy cập web → 250K lượt đăng ký, tức tỉ lệ visit→signup khoảng 80%",
+   "kq": "$100K doanh thu"
+  },
+  {
+   "s": "09:23",
+   "e": "10:14",
+   "nut": ["1.1"],
+   "tom": "Nhóm có thành viên thứ ba Alexander lo kỹ thuật; stack Next.js, Postgres, Coolify, NextAuth, Resend; chi phí chạy cả business: server $35/tháng, Resend $20/tháng, VPN $5/tháng cho 5 thiết bị, số điện thoại Mỹ $5/tháng mỗi số",
+   "kq": "chi phí vận hành dưới ~$70/tháng"
+  },
+  {
+   "s": "10:14",
+   "e": "10:53",
+   "nut": ["4.6"],
+   "tom": "Lời khuyên chốt: tự mình làm TikTok trước, tìm ra cái gì chạy rồi mới nghĩ tới giao việc hay thuê người; và đừng phức tạp hoá — bỏ luôn ý định tự sáng tạo format, cứ nhân bản thứ đang viral"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:55", "ly_do": "intro/hook của kênh và lời giới thiệu hai nhân vật"},
+  {"s": "06:12", "e": "07:35", "ly_do": "quảng cáo Vanta"},
+  {"s": "10:53", "e": "11:31", "ly_do": "lời cảm ơn và quảng bá Starter Story Build"}
+ ]
+}

@@ -1,0 +1,518 @@
+{
+  "id": "miEUhwSR2-0",
+  "title": "My AI App Makes $100K/Month",
+  "upload_date": "20250730",
+  "duration": 750,
+  "view_count": 78062,
+  "like_count": 1936,
+  "comment_count": 93,
+  "description": "This is how Nicolai Klemke dropped his PhD in physics to build in AI, and now makes $100K per month.\n\nSerious about B2B? Download the free Compliance for Startups Bundle→ https://go.starterstory.com/nicolai\n\n🛠️ Want to start building with AI? Check out Starter Story Build → https://build.starterstory.com/build/ai-build-accelerator?utm_source=youtube&utm_campaign=nicolai\n\nFollow Nico's Journey: https://x.com/nicolaiklemke\n\n🔔 Follow the Second Channel: ‪@StarterStoryBuild‬ \n🏁 We're hiring: starterstory.com/jobs\n\nChapters:\n0:00 - Intro\n0:48 - Who is Nico\n1:15 - What does Neural Frames do?\n1:48 - From PhD in physics to building in AI\n2:30 - Why Nico changed his career\n3:02 - Start landing enterprise customers\n4:12 - Advice on changing careers\n4:57 - Nico's ideation process\n5:53 - AI ideas to build NOW\n6:28 - Growth hack: niching down\n7:18 - From 0 to $100K MRR\n8:40 - Numbers behind Neural Frames\n9:02 - Tech stack\n9:50 - Costs to run\n10:29 - Bootstrap over VC\n11:11 - Take the leap today\n11:45 - Start building with AI\n\nThis video is an educational case study of one founder’s experience. It is not financial advice and does not guarantee any income or results. Every business is different and your results may vary.",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 48,
+      "title": "Intro"
+    },
+    {
+      "start": 48,
+      "end": 75,
+      "title": "Who is Nico"
+    },
+    {
+      "start": 75,
+      "end": 108,
+      "title": "What does Neural Frames do?"
+    },
+    {
+      "start": 108,
+      "end": 150,
+      "title": "From PhD in physics to building in AI"
+    },
+    {
+      "start": 150,
+      "end": 182,
+      "title": "Why Nico changed his career"
+    },
+    {
+      "start": 182,
+      "end": 252,
+      "title": "Start landing enterprise customers"
+    },
+    {
+      "start": 252,
+      "end": 297,
+      "title": "Advice on changing careers"
+    },
+    {
+      "start": 297,
+      "end": 353,
+      "title": "Nico's ideation process"
+    },
+    {
+      "start": 353,
+      "end": 388,
+      "title": "AI ideas to build NOW"
+    },
+    {
+      "start": 388,
+      "end": 438,
+      "title": "Growth hack: niching down"
+    },
+    {
+      "start": 438,
+      "end": 520,
+      "title": "From 0 to $100K MRR"
+    },
+    {
+      "start": 520,
+      "end": 542,
+      "title": "Numbers behind Neural Frames"
+    },
+    {
+      "start": 542,
+      "end": 590,
+      "title": "Tech stack"
+    },
+    {
+      "start": 590,
+      "end": 629,
+      "title": "Costs to run"
+    },
+    {
+      "start": 629,
+      "end": 671,
+      "title": "Bootstrap over VC"
+    },
+    {
+      "start": 671,
+      "end": 705,
+      "title": "Take the leap today"
+    },
+    {
+      "start": 705,
+      "end": 750,
+      "title": "Start building with AI"
+    }
+  ],
+  "heatmap": [
+    {
+      "s": 0,
+      "v": 0.22249937599683658
+    },
+    {
+      "s": 7,
+      "v": 0.15283473991441865
+    },
+    {
+      "s": 15,
+      "v": 0.07755375038957425
+    },
+    {
+      "s": 22,
+      "v": 0.031140271606213236
+    },
+    {
+      "s": 30,
+      "v": 0.055504331082410575
+    },
+    {
+      "s": 37,
+      "v": 0.09006179946263737
+    },
+    {
+      "s": 45,
+      "v": 0.33598101987414997
+    },
+    {
+      "s": 52,
+      "v": 0.5239416993899867
+    },
+    {
+      "s": 60,
+      "v": 0.48695932982775186
+    },
+    {
+      "s": 67,
+      "v": 0.47047780111279053
+    },
+    {
+      "s": 75,
+      "v": 0.3865244847081165
+    },
+    {
+      "s": 82,
+      "v": 0.1937923324965654
+    },
+    {
+      "s": 90,
+      "v": 0.20483476649328697
+    },
+    {
+      "s": 97,
+      "v": 0.2533051713554398
+    },
+    {
+      "s": 105,
+      "v": 0.2873190881151191
+    },
+    {
+      "s": 112,
+      "v": 0.18357720783131215
+    },
+    {
+      "s": 120,
+      "v": 0.23250275669736825
+    },
+    {
+      "s": 127,
+      "v": 0.20994209943406966
+    },
+    {
+      "s": 135,
+      "v": 0.2419782608866865
+    },
+    {
+      "s": 142,
+      "v": 0.28127605055022425
+    },
+    {
+      "s": 150,
+      "v": 0.16876285315954423
+    },
+    {
+      "s": 157,
+      "v": 0.06955034541938553
+    },
+    {
+      "s": 165,
+      "v": 0.06013261738915425
+    },
+    {
+      "s": 172,
+      "v": 0.054168536496934365
+    },
+    {
+      "s": 180,
+      "v": 0.16913319864514753
+    },
+    {
+      "s": 187,
+      "v": 0.11135966991798255
+    },
+    {
+      "s": 195,
+      "v": 0.13033684425961478
+    },
+    {
+      "s": 202,
+      "v": 0.12489560855083179
+    },
+    {
+      "s": 210,
+      "v": 0.11176999075558515
+    },
+    {
+      "s": 217,
+      "v": 0.14231706269983327
+    },
+    {
+      "s": 225,
+      "v": 0.15545551114554945
+    },
+    {
+      "s": 232,
+      "v": 0.14462316949227336
+    },
+    {
+      "s": 240,
+      "v": 0.11120235299142678
+    },
+    {
+      "s": 247,
+      "v": 0.515032242514709
+    },
+    {
+      "s": 255,
+      "v": 0.3941486743747373
+    },
+    {
+      "s": 262,
+      "v": 0.21667046807184004
+    },
+    {
+      "s": 270,
+      "v": 0.17990600546853333
+    },
+    {
+      "s": 277,
+      "v": 0.15528147919996718
+    },
+    {
+      "s": 285,
+      "v": 0.24891794529106984
+    },
+    {
+      "s": 292,
+      "v": 0.3268943195674753
+    },
+    {
+      "s": 300,
+      "v": 0.30851504742060837
+    },
+    {
+      "s": 307,
+      "v": 0.3630696886228229
+    },
+    {
+      "s": 315,
+      "v": 0.31988438008769604
+    },
+    {
+      "s": 322,
+      "v": 0.4811956609431643
+    },
+    {
+      "s": 330,
+      "v": 0.781742652676731
+    },
+    {
+      "s": 337,
+      "v": 0.9412967308366647
+    },
+    {
+      "s": 345,
+      "v": 0.7850382488342861
+    },
+    {
+      "s": 352,
+      "v": 0.7091283892157481
+    },
+    {
+      "s": 360,
+      "v": 0.39771721624097006
+    },
+    {
+      "s": 367,
+      "v": 0.36984632130455264
+    },
+    {
+      "s": 375,
+      "v": 0.28459366832479505
+    },
+    {
+      "s": 383,
+      "v": 0.3449453166929125
+    },
+    {
+      "s": 390,
+      "v": 0.31071760673470594
+    },
+    {
+      "s": 398,
+      "v": 0.3236554290737355
+    },
+    {
+      "s": 405,
+      "v": 0.268347373299372
+    },
+    {
+      "s": 413,
+      "v": 0.2217208200785947
+    },
+    {
+      "s": 420,
+      "v": 0.24855018428690798
+    },
+    {
+      "s": 428,
+      "v": 0.40514767684901126
+    },
+    {
+      "s": 435,
+      "v": 0.6544510998409878
+    },
+    {
+      "s": 443,
+      "v": 0.5145046412737083
+    },
+    {
+      "s": 450,
+      "v": 0.7748304341224589
+    },
+    {
+      "s": 458,
+      "v": 0.669724559349164
+    },
+    {
+      "s": 465,
+      "v": 0.6262905288840767
+    },
+    {
+      "s": 473,
+      "v": 0.6039253134717922
+    },
+    {
+      "s": 480,
+      "v": 0.4559121530781935
+    },
+    {
+      "s": 488,
+      "v": 0.4272543829459949
+    },
+    {
+      "s": 495,
+      "v": 0.40543860687825173
+    },
+    {
+      "s": 503,
+      "v": 0.36021660462496624
+    },
+    {
+      "s": 510,
+      "v": 0.29627705371898966
+    },
+    {
+      "s": 518,
+      "v": 0.39759261059135637
+    },
+    {
+      "s": 525,
+      "v": 0.5291536044260147
+    },
+    {
+      "s": 533,
+      "v": 0.5257083224439113
+    },
+    {
+      "s": 540,
+      "v": 0.5245813050219754
+    },
+    {
+      "s": 548,
+      "v": 0.6281085357110379
+    },
+    {
+      "s": 555,
+      "v": 0.8840740483906836
+    },
+    {
+      "s": 563,
+      "v": 0.8338761394303881
+    },
+    {
+      "s": 570,
+      "v": 0.80661166477254
+    },
+    {
+      "s": 578,
+      "v": 1.0
+    },
+    {
+      "s": 585,
+      "v": 0.7004757288633365
+    },
+    {
+      "s": 593,
+      "v": 0.683201788962761
+    },
+    {
+      "s": 600,
+      "v": 0.48850800004437966
+    },
+    {
+      "s": 608,
+      "v": 0.4431284208871153
+    },
+    {
+      "s": 615,
+      "v": 0.5346689184075921
+    },
+    {
+      "s": 623,
+      "v": 0.8696680570794502
+    },
+    {
+      "s": 630,
+      "v": 0.6163681387972361
+    },
+    {
+      "s": 638,
+      "v": 0.23921702538313275
+    },
+    {
+      "s": 645,
+      "v": 0.17777010742427696
+    },
+    {
+      "s": 653,
+      "v": 0.15965625693360744
+    },
+    {
+      "s": 660,
+      "v": 0.12501851670080055
+    },
+    {
+      "s": 668,
+      "v": 0.12218730139206364
+    },
+    {
+      "s": 675,
+      "v": 0.10750587164744871
+    },
+    {
+      "s": 683,
+      "v": 0.24436540417118635
+    },
+    {
+      "s": 690,
+      "v": 0.2821089876282632
+    },
+    {
+      "s": 698,
+      "v": 0.1760688916314468
+    },
+    {
+      "s": 705,
+      "v": 0.04159221276472784
+    },
+    {
+      "s": 713,
+      "v": 0.014652105820568003
+    },
+    {
+      "s": 720,
+      "v": 0.06001478644533076
+    },
+    {
+      "s": 728,
+      "v": 0.08633072582859717
+    },
+    {
+      "s": 735,
+      "v": 0.08347430800260898
+    },
+    {
+      "s": 743,
+      "v": 0.0
+    }
+  ],
+  "thumbnail": "https://i.ytimg.com/vi_webp/miEUhwSR2-0/maxresdefault.webp",
+  "webpage_url": "https://www.youtube.com/watch?v=miEUhwSR2-0",
+  "tags": [
+    "starterstory",
+    "starters story",
+    "starter story",
+    "starter stories",
+    "starter story ideas",
+    "how i built it",
+    "micro-saas ideas",
+    "micro saas ideas",
+    "indie hackers",
+    "saas ideas",
+    "saas",
+    "business ideas",
+    "how i built it: ai apps",
+    "ai app business",
+    "john rush"
+  ]
+}

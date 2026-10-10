@@ -1,0 +1,27 @@
+{
+ "f": "2026-03-22_i-make-250k-month-from-13-businesses-after-losing-ev",
+ "vid": "spiC5m6AJNs",
+ "segments": [
+  {"s":"01:46","e":"02:31","nut":["?"],"moi":"Bóc tách doanh thu của danh mục nhiều sản phẩm",
+   "tom":"Bóc từng dòng: Indexsy $85K/tháng (12 tháng $500K), Local Rank $454K từ tháng 3 (~$50K/tháng), Advise $300K/năm, Trackings.ai $25–30K/tháng, cộng 7–8 nguồn nhỏ $170–5K","kq":"$250K/tháng, 13 nguồn thu"},
+  {"s":"02:31","e":"03:07","nut":["1.2"],
+   "tom":"Chạy SEO agency từ 2015 hơn 10 năm; khi algo update Google cuối 2023 xoá sổ mảng content site thì lấy đúng know-how local SEO của agency dựng thành SaaS Local Rank","kq":"Local Rank $20K/tháng ngay khi ra mắt"},
+  {"s":"03:07","e":"03:54","nut":["?"],"moi":"Rủi ro nền tảng: AI overview giết mô hình content site",
+   "tom":"Blog ẩm thực sống bằng display ads + affiliate chết vì AI overviews trả lời thẳng công thức: zero click, Google scrape data rồi tự hiển thị, mình hoá ra đang cạnh tranh với Google","kq":"mất gần hết doanh thu content site, agency là thứ cứu lại"},
+  {"s":"04:40","e":"05:37","nut":["4.9","3.B2"],
+   "tom":"Video launch Local Rank chỉ 1.8K view nhưng mang 80% doanh thu của cú launch $20K MRR, còn tweet launch 30K view (gấp 15 lần impression) chỉ ra 20%","kq":"$20K MRR, 80% đến từ YouTube"},
+  {"s":"05:37","e":"06:12","nut":["4.11"],
+   "tom":"Chiến lược YouTube chỉ là đăng mỗi ngày suốt 2 năm rưỡi; video đầu tiên 24 giờ đầu được 30 view vẫn làm tiếp, giờ mỗi video daily 1–2K view nhưng là khán giả cực giá trị"},
+  {"s":"06:12","e":"07:20","nut":["4.9","4.11"],
+   "tom":"Bước 1–3: chọn ngách hẹp đủ để độc chiếm (local SEO, SEO cho thợ ống nước), cam kết 6 tháng mỗi ngày 1 video dài + 1 short, và quay đúng vấn đề mình đang tự gỡ"},
+  {"s":"07:20","e":"08:38","nut":["?"],"moi":"Phễu YouTube: hook 5 giây → giải vấn đề → lead magnet newsletter",
+   "tom":"Bước 4–6: hook trong 5 giây đầu ('cách tôi rank ChatGPT trong 24 giờ'), bám LLM mới ra để rank sớm, mỗi video dẫn về newsletter lấy email rồi mới pitch — không bán sớm trong video"},
+  {"s":"08:50","e":"09:28","nut":["?"],"moi":"Đa dạng hoá nguồn thu như bảo hiểm rủi ro thuật toán",
+   "tom":"Lời khuyên ngược dòng: đừng nghe người bảo tập trung một dự án — đa dạng hoá doanh thu là lý do duy nhất anh còn sống sau cú algo update và làn sóng AI"}
+ ],
+ "bo_qua": [
+  {"s":"04:03","e":"04:40","ly_do":"quảng cáo business idea template của Starter Story/HubSpot"},
+  {"s":"09:28","e":"11:17","ly_do":"Pat và Gus bình luận lại, không có chi tiết mới"},
+  {"s":"11:17","e":"11:45","ly_do":"tự quảng bá Starter Story Build"}
+ ]
+}

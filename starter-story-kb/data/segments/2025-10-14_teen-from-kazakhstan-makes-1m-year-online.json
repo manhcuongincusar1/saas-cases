@@ -1,0 +1,32 @@
+{
+ "f": "2025-10-14_teen-from-kazakhstan-makes-1m-year-online",
+ "vid": "YtyJ4reSQY0",
+ "segments": [
+  {"s":"01:05","e":"01:38","nut":["?"],"moi":"Định vị agency: làm thứ để nổi, không tối ưu chuyển đổi",
+   "tom":"Agency làm từ website tới video ra mắt và billboard Times Square cho các tên AI như Bolt.new, Primer, Contra; định vị rõ là giúp khách được chú ý và lan truyền, cố tình không nhận việc tinh chỉnh conversion trên landing page"},
+  {"s":"01:38","e":"02:24","nut":["4.9","?"],"moi":"Gom follower trước rồi mới mở agency",
+   "tom":"Mốc thời gian thật: hơn 5 năm trước mới mở Figma lần đầu, bỏ front-end sang design, làm khách địa phương ở Kazakhstan; tháng 1/2024 mở tài khoản X và đăng đều, vài tháng được 5–6K follower; tháng 11/2024 mới mở agency","kq":"10 tháng sau khi mở agency đạt $80K/tháng"},
+  {"s":"02:24","e":"02:40","nut":["1.2","?"],"moi":"Ít khách retainer giá cao thay vì nhiều khách nhỏ",
+   "tom":"Mô hình doanh thu: trung bình 6–7 khách mỗi tháng, một phần là dự án lẻ, phần còn lại là retainer với giá trung bình khoảng $20K/tháng cho mỗi khách"},
+  {"s":"02:40","e":"03:27","nut":["4.1","?"],"moi":"Redesign miễn phí brand lớn rồi đăng công khai để kéo khách",
+   "tom":"Cả hè 2024 rải đơn xin việc UX/UI và bị từ chối hết, nên anh chuyển sang chiến dịch redesign miễn phí cho brand lớn: lấy landing page của Wolf, làm lại hero section rồi đăng — bài lên 110K view sau một đêm","kq":"10–12 booking sau một đêm, chốt phần lớn"},
+  {"s":"03:27","e":"04:13","nut":["4.1","4.14"],
+   "tom":"Hai ví dụ mạnh nhất: bay từ Kazakhstan sang San Francisco dự sự kiện Bolt và đưa bản redesign miễn phí cho team Bolt, một tuần sau họ liên hệ hợp tác; bản redesign homepage acquisition.com thì được chính Alex Hormozi trả lời","kq":"thành khách hàng của Bolt; 15–16 booking sau một đêm"},
+  {"s":"04:13","e":"05:15","nut":["4.9","?"],"moi":"Comment 50 lần mỗi ngày rồi dùng giveaway để bơm follower đầu",
+   "tom":"Bước 1–2 của playbook: mở tài khoản X rồi mỗi ngày để lại 50 comment dưới bài của designer khác; sau đó chạy giveaway (kiến thức, sản phẩm hoặc dịch vụ) đổi lấy follow + comment + repost rồi gửi qua DM","kq":"3 giveaway đưa từ 500 lên 5.000 follower trong vài tháng"},
+  {"s":"05:15","e":"06:17","nut":["4.1","4.10"],
+   "tom":"Bước 3–5: cài extension TweetHunter để soi bài viral nhất trong ngành mà bắt chước; tận dụng vùng 3–5K follower để thử liên tục vì đủ lớn để bài bùng mà chưa đủ lớn để bài dở làm mất uy tín; rồi dồn sức làm việc thật đẹp cho brand đang được bàn tán"},
+  {"s":"07:04","e":"07:34","nut":["?"],"moi":"Doanh thu agency nhân đôi mỗi hai tháng",
+   "tom":"Số thật sau 10 tháng: trung bình $80K doanh thu/tháng và sắp chạm $100K, dashboard cho thấy doanh thu nhân đôi mỗi hai tháng theo chuỗi 10K → 20K → 40K → 80K; X có 25K follower và hơn 25 triệu view trong năm","kq":"$80K/tháng, team 20 người"},
+  {"s":"07:34","e":"08:04","nut":["?"],"moi":"Bộ tool agency thiết kế và X verified organization",
+   "tom":"Bộ đồ nghề gần như không đổi từ lúc mới tới lúc lớn: Figma, Blender, After Effects, Cinema 4D cho 3D motion, Slack để trao đổi, Notion, và gói X verified organization cao nhất để dựng nhận diện thương hiệu"},
+  {"s":"08:04","e":"08:36","nut":["1.2","?"],"moi":"Khởi động gần như miễn phí, chưa cần website",
+   "tom":"Người mới gần như không cần vốn: Figma dùng free, chỉ tốn khoảng $30/tháng nếu muốn host website riêng mà cũng không bắt buộc — anh có nhiều bạn đang làm $30–40K MRR mà không hề có website"},
+  {"s":"08:36","e":"09:06","nut":["4.11","?"],"moi":"Hỏi cần lặp bao nhiêu lần để xác suất trượt gần bằng 0",
+   "tom":"Lời khuyên: ai cũng đánh giá thấp khối lượng việc phải làm, nên anh luôn tự hỏi phải lặp một việc bao nhiêu lần thì xác suất không ra khách gần bằng không — bao nhiêu cold DM, bao nhiêu bài đăng"}
+ ],
+ "bo_qua": [
+  {"s":"06:17","e":"07:04","ly_do":"quảng cáo Mobbin (thư viện thiết kế app)"},
+  {"s":"09:21","e":"10:00","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

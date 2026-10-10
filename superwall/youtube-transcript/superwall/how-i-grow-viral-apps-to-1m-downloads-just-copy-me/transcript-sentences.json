@@ -1,0 +1,2337 @@
+[
+  {
+    "text": "Today I talked to Yev, who I believe is one of the best growth hackers I've met in a while.",
+    "start": "00:00:00",
+    "end": "00:00:05"
+  },
+  {
+    "text": "He's currently the head of growth at an edtech app called Sizzle.",
+    "start": "00:00:05",
+    "end": "00:00:10"
+  },
+  {
+    "text": "And before that, he got into some really interesting stuff with YouTube shorts getting billions of views for faceless channels.",
+    "start": "00:00:08",
+    "end": "00:00:15"
+  },
+  {
+    "text": "And in this video, we just go really deep into the tactics and strategies of how to build a growth engine.",
+    "start": "00:00:15",
+    "end": "00:00:21"
+  },
+  {
+    "text": "And also, he gives some pretty interesting takes on how to balance organic and paid marketing for mobile apps.",
+    "start": "00:00:21",
+    "end": "00:00:26"
+  },
+  {
+    "text": "So, by the end of this interview, we're going to know exactly how to build a growth system that is scalable and balance a lot of these interesting tactics.",
+    "start": "00:00:26",
+    "end": "00:00:34"
+  },
+  {
+    "text": "So, yeah, Sizzle AI has been growing super fast.",
+    "start": "00:00:34",
+    "end": "00:00:37"
+  },
+  {
+    "text": "Can you give us the 20 second version of what does the app do and who it's for?",
+    "start": "00:00:37",
+    "end": "00:00:42"
+  },
+  {
+    "text": "Yeah, Sizzle AI, it's a learning app started over a year ago before all the hype of a lot of learning apps, study apps, and there's actually learning science behind it.",
+    "start": "00:00:42",
+    "end": "00:00:52"
+  },
+  {
+    "text": "So I think we find this balance of not just revenue and growth but actual learning happening for anyone that wants to learn like student and prep but any type of learning topic and it's it's tailored to the learner.",
+    "start": "00:00:52",
+    "end": "00:01:01"
+  },
+  {
+    "text": "That's awesome.",
+    "start": "00:01:01",
+    "end": "00:01:02"
+  },
+  {
+    "text": "So by the time we finish this episode what kind of playbook or insight will people be walking away with?",
+    "start": "00:01:02",
+    "end": "00:01:07"
+  },
+  {
+    "text": "On the growth side I'm focused on finding these tipping points.",
+    "start": "00:01:07",
+    "end": "00:01:10"
+  },
+  {
+    "text": "So, anytime you hear a growth hack, most of the time it won't work.",
+    "start": "00:01:10",
+    "end": "00:01:15"
+  },
+  {
+    "text": "But what I'm trying to do is find these lowhanging fruits in all areas of the business on marketing, growth, product, and you realize there's tipping points, meaning these thresholds of low hanging fruit you do, and then at some point a growth hack like pops viral.",
+    "start": "00:01:13",
+    "end": "00:01:26"
+  },
+  {
+    "text": "So, it's going to be this takeaway like where do you shift attention in your strategy to find these moments where you're getting close to conversion actually increasing, dropouts decreasing.",
+    "start": "00:01:26",
+    "end": "00:01:36"
+  },
+  {
+    "text": "So, it's these tipping points that I'm looking for.",
+    "start": "00:01:36",
+    "end": "00:01:39"
+  },
+  {
+    "text": "So before Sizzle even started getting some serious traction, what were your first signs that you saw that this probably has some potential?",
+    "start": "00:01:39",
+    "end": "00:01:45"
+  },
+  {
+    "text": "This is when you're looking at particular pathways of the user journey.",
+    "start": "00:01:45",
+    "end": "00:01:49"
+  },
+  {
+    "text": "There's a lot of noise out there, but certain ones are highly converting or lower drop off.",
+    "start": "00:01:49",
+    "end": "00:01:55"
+  },
+  {
+    "text": "So you know you're on to something because your product actually solves the problem, but then the product is like never good enough.",
+    "start": "00:01:55",
+    "end": "00:02:00"
+  },
+  {
+    "text": "You need kind of like the growth and virality and kind of amplifying what's working.",
+    "start": "00:02:00",
+    "end": "00:02:04"
+  },
+  {
+    "text": "But it's seeing these moments of hundreds of journeys of the user taking, but some of them are actually having the lower drop off.",
+    "start": "00:02:04",
+    "end": "00:02:11"
+  },
+  {
+    "text": "So you know you're on to something there.",
+    "start": "00:02:11",
+    "end": "00:02:13"
+  },
+  {
+    "text": "How'd you get like the first thousand users?",
+    "start": "00:02:12",
+    "end": "00:02:14"
+  },
+  {
+    "text": "Are there any weird hacks or do things that don't scale type of tactics that you did initially?",
+    "start": "00:02:14",
+    "end": "00:02:20"
+  },
+  {
+    "text": "This is hard to recommend, but I'm doing everything on the growth side.",
+    "start": "00:02:20",
+    "end": "00:02:24"
+  },
+  {
+    "text": "Our founder is ex Facebook VP of AI kind of just doing announcement help.",
+    "start": "00:02:24",
+    "end": "00:02:28"
+  },
+  {
+    "text": "So it's not something where I can give a growth hack of like starting exactly from scratch, but that's that's where connections and PR start coming in.",
+    "start": "00:02:28",
+    "end": "00:02:35"
+  },
+  {
+    "text": "Gotcha.",
+    "start": "00:02:35",
+    "end": "00:02:36"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:02:36",
+    "end": "00:02:37"
+  },
+  {
+    "text": "What has been the biggest thing that you really think has made Sizzle grow at its fastest peak rate?",
+    "start": "00:02:37",
+    "end": "00:02:43"
+  },
+  {
+    "text": "One of the growth levers is within this area of identifying every step of the funnel and seeing where the drop offs are the biggest and addressing those.",
+    "start": "00:02:43",
+    "end": "00:02:55"
+  },
+  {
+    "text": "So it's that clarity of identifying from the top of the funnel from the whether it's organic content or paid into the app and then using the app you have to see where the drop off is the highest.",
+    "start": "00:02:55",
+    "end": "00:03:04"
+  },
+  {
+    "text": "So as soon as we shifted focus knowing on there's over 50% drop off here when we improve that we see these 2x to 3x growth moments as opposed to there's like these moments of within the product you're trying to optimize ad features but it's just these 10% improvements.",
+    "start": "00:03:04",
+    "end": "00:03:18"
+  },
+  {
+    "text": "I I think you're asking for like growth strategies.",
+    "start": "00:03:18",
+    "end": "00:03:20"
+  },
+  {
+    "text": "Like we'll get to those.",
+    "start": "00:03:20",
+    "end": "00:03:22"
+  },
+  {
+    "text": "And it's actually not that.",
+    "start": "00:03:22",
+    "end": "00:03:23"
+  },
+  {
+    "text": "That's like very experimentive on types of ads to run, types of organic content, kind of doing things on meta side versus Tik Tok that have these big growth levers for scale.",
+    "start": "00:03:23",
+    "end": "00:03:32"
+  },
+  {
+    "text": "But I would say it's on the conversion side.",
+    "start": "00:03:30",
+    "end": "00:03:32"
+  },
+  {
+    "text": "It's actually finding where your biggest drop offs are and solving them.",
+    "start": "00:03:32",
+    "end": "00:03:37"
+  },
+  {
+    "text": "And all of a sudden you just 2x 3x how many people make it to the next stage.",
+    "start": "00:03:35",
+    "end": "00:03:41"
+  },
+  {
+    "text": "So we could go deeper into like those moments within the payw wall, within the onboarding.",
+    "start": "00:03:39",
+    "end": "00:03:44"
+  },
+  {
+    "text": "So I would say it's those it's identifying where you have the biggest drop off and focusing in on that like every team member is thinking about what to optimize within that from different perspective of of their expertise of really dialing in that area.",
+    "start": "00:03:44",
+    "end": "00:03:56"
+  },
+  {
+    "text": "That's where you see just the biggest growth levers which you can like accomplish within a week as opposed to like a monthly quarterly goal where you're making incremental improvements over time.",
+    "start": "00:03:56",
+    "end": "00:04:05"
+  },
+  {
+    "text": "Yeah, I love the scientific approach to growth just like being super analytical about every single step of the funnel like where can we optimize this?",
+    "start": "00:04:05",
+    "end": "00:04:12"
+  },
+  {
+    "text": "I think we should go super deep into that.",
+    "start": "00:04:12",
+    "end": "00:04:14"
+  },
+  {
+    "text": "Maybe first, could you just tell us like what's the breakdown of organic versus paid?",
+    "start": "00:04:14",
+    "end": "00:04:19"
+  },
+  {
+    "text": "Do you do a lot of organic stuff?",
+    "start": "00:04:19",
+    "end": "00:04:21"
+  },
+  {
+    "text": "And like I think everyone's trying to go viral on TikTok right now.",
+    "start": "00:04:21",
+    "end": "00:04:23"
+  },
+  {
+    "text": "Maybe you could talk a little bit about the organic side and what you guys do there.",
+    "start": "00:04:23",
+    "end": "00:04:26"
+  },
+  {
+    "text": "Yeah, it's definitely a balance.",
+    "start": "00:04:26",
+    "end": "00:04:28"
+  },
+  {
+    "text": "So, it's kind of like there's this tricky moment of wanting the answer if it's organic or paid.",
+    "start": "00:04:28",
+    "end": "00:04:33"
+  },
+  {
+    "text": "But what I found out is knowing when to switch across the two and knowing how to leverage each one.",
+    "start": "00:04:33",
+    "end": "00:04:38"
+  },
+  {
+    "text": "So that is the advantage where I would say like the paid is easier to pull levers because you're like add budget and then you kind of see growth or not.",
+    "start": "00:04:38",
+    "end": "00:04:46"
+  },
+  {
+    "text": "So that's kind of an easier one and now or unorganic there's a lot more things to test just a lot more of how you're approaching the influencers the creatives which platform you're doing it on.",
+    "start": "00:04:46",
+    "end": "00:04:56"
+  },
+  {
+    "text": "So what I found is when you get traction in organic certain posts or certain creators most of the time you then go on to try to replicate that more but what I found is kind of taking a step back and it's kind of like this tipping point is now knowing which ones to amplify with ads.",
+    "start": "00:04:56",
+    "end": "00:05:10"
+  },
+  {
+    "text": "So it's finding this balance.",
+    "start": "00:05:10",
+    "end": "00:05:11"
+  },
+  {
+    "text": "So it's actually doing both like we can get kind of into the percentages of each and it's more on the ad side because we're using it to optimize parts of the funnel.",
+    "start": "00:05:11",
+    "end": "00:05:21"
+  },
+  {
+    "text": "So it's not just paid ads to grow.",
+    "start": "00:05:21",
+    "end": "00:05:23"
+  },
+  {
+    "text": "It's like this very strategic insertion of a ad to find what headline works the best and then we put it in a particular part of the app.",
+    "start": "00:05:23",
+    "end": "00:05:29"
+  },
+  {
+    "text": "So it's leveraging ads in different ways.",
+    "start": "00:05:29",
+    "end": "00:05:31"
+  },
+  {
+    "text": "And actually it'll be interesting to break down on how paid ads are used versus on organic there's the virality but that's to actually have stronger distribution across different creators and kind of more like an engine of content being created and actually getting installs and purchases.",
+    "start": "00:05:31",
+    "end": "00:05:46"
+  },
+  {
+    "text": "That's the goal of organic.",
+    "start": "00:05:46",
+    "end": "00:05:47"
+  },
+  {
+    "text": "But then in paid it kind of has different levers within that.",
+    "start": "00:05:47",
+    "end": "00:05:49"
+  },
+  {
+    "text": "One of them is to amplify the organic to test organic more.",
+    "start": "00:05:49",
+    "end": "00:05:53"
+  },
+  {
+    "text": "And sometimes you kind of have organic content that it doesn't go viral like it just gets like hundreds or views or maybe just like on the low thousands of views and you think it's not working compared to the ones that have like hundreds of thousands or millions of views.",
+    "start": "00:05:53",
+    "end": "00:06:04"
+  },
+  {
+    "text": "But there's like these wild cards where just like something in the algorithm like you put it on TikTok and it just like doesn't go viral, but it may have been like the timing or just something that you posted wrong, but we always kind of have the ignition with paid ads to give it bigger of a lift to see if it actually converts or not.",
+    "start": "00:06:04",
+    "end": "00:06:20"
+  },
+  {
+    "text": "So, it's finding those moments knowing how to amplify organic with paid.",
+    "start": "00:06:20",
+    "end": "00:06:24"
+  },
+  {
+    "text": "I would say that's where I found biggest levers as opposed to like just organic or paid cuz I'm seeing the differences.",
+    "start": "00:06:24",
+    "end": "00:06:29"
+  },
+  {
+    "text": "It's like well if you have like extra budget depending where like your funding is coming from or how much profit is coming in that decides on someone is mostly doing paid or someone's doing mostly organic because they don't have the luxury of experimenting quicker or more with paid ads.",
+    "start": "00:06:29",
+    "end": "00:06:41"
+  },
+  {
+    "text": "So, I'm kind of like in that position of being able to like do both and find like the synergy across them.",
+    "start": "00:06:41",
+    "end": "00:06:45"
+  },
+  {
+    "text": "I feel like this is a huge alpha.",
+    "start": "00:06:45",
+    "end": "00:06:49"
+  },
+  {
+    "text": "I don't think anyone really is doing this right now where they're thinking about the nuances between transitioning from paid to organic and organic to paid.",
+    "start": "00:06:47",
+    "end": "00:06:56"
+  },
+  {
+    "text": "The classic playbook is like let's blow up on Tik Tok and then we'll just run ads with those ad creatives.",
+    "start": "00:06:56",
+    "end": "00:07:02"
+  },
+  {
+    "text": "But what you're saying is like there's a whole system that helps each side like complement each other a lot more.",
+    "start": "00:07:02",
+    "end": "00:07:09"
+  },
+  {
+    "text": "I would love to just dig into that.",
+    "start": "00:07:09",
+    "end": "00:07:10"
+  },
+  {
+    "text": "Like I feel like the editors could also put together like a diagram that kind of shows all the connections between this.",
+    "start": "00:07:10",
+    "end": "00:07:16"
+  },
+  {
+    "text": "But like looking into the process of how you think about that, that would be really interesting.",
+    "start": "00:07:14",
+    "end": "00:07:19"
+  },
+  {
+    "text": "Here's an example where well there's like different platforms or strategies of trying to get organic content and creators, influencers to create content for you like you're doing it yourself or you're kind of finding creators.",
+    "start": "00:07:19",
+    "end": "00:07:31"
+  },
+  {
+    "text": "There's different strategies.",
+    "start": "00:07:31",
+    "end": "00:07:32"
+  },
+  {
+    "text": "So you can like dig in that more.",
+    "start": "00:07:32",
+    "end": "00:07:33"
+  },
+  {
+    "text": "I know you have a lot of experience in that too or understanding how it's working.",
+    "start": "00:07:33",
+    "end": "00:07:37"
+  },
+  {
+    "text": "So in this example where try different platforms that are kind of like marketplaces for like brands and creators, right?",
+    "start": "00:07:37",
+    "end": "00:07:42"
+  },
+  {
+    "text": "This particular one is from join brands and then there's a bunch of ones like testing like side shift and like and kind of our own discord and like just trying different approaches of having creators make content for you.",
+    "start": "00:07:42",
+    "end": "00:07:53"
+  },
+  {
+    "text": "So one it's about the the piece of content.",
+    "start": "00:07:53",
+    "end": "00:07:55"
+  },
+  {
+    "text": "That's one thing.",
+    "start": "00:07:55",
+    "end": "00:07:57"
+  },
+  {
+    "text": "Two is the algorithm specifically on the Tik Tok side is that getting posting just might trigger the algorithm.",
+    "start": "00:07:55",
+    "end": "00:08:03"
+  },
+  {
+    "text": "So you kind of want post uh just a lot of posting there.",
+    "start": "00:08:03",
+    "end": "00:08:05"
+  },
+  {
+    "text": "And three a viral engine component which is different than the first two parts.",
+    "start": "00:08:05",
+    "end": "00:08:09"
+  },
+  {
+    "text": "The first one, the content is more of a paid ad strategy rather than like we kind of have our own designers, creators, and like contractors, people that create content for us.",
+    "start": "00:08:09",
+    "end": "00:08:16"
+  },
+  {
+    "text": "But what if just the content could be generated and then we could be amplifying them with paid ads.",
+    "start": "00:08:16",
+    "end": "00:08:21"
+  },
+  {
+    "text": "That's first one.",
+    "start": "00:08:21",
+    "end": "00:08:21"
+  },
+  {
+    "text": "The second one is more about some of these creators have their own following.",
+    "start": "00:08:21",
+    "end": "00:08:24"
+  },
+  {
+    "text": "So, they'll kind of reach the algorithm different.",
+    "start": "00:08:24",
+    "end": "00:08:26"
+  },
+  {
+    "text": "They have different styles or formats their account is posting like.",
+    "start": "00:08:26",
+    "end": "00:08:29"
+  },
+  {
+    "text": "So if they do it in their style, it just may go viral differently like this one where it's like all right the covering the face and kind of being shocked approach which is like kind of going viral regardless of who does it or maybe it's like not as viral as before.",
+    "start": "00:08:29",
+    "end": "00:08:42"
+  },
+  {
+    "text": "So it's like well let's try that on their channel.",
+    "start": "00:08:40",
+    "end": "00:08:43"
+  },
+  {
+    "text": "Could you actually break down this this whole Tik Tok?",
+    "start": "00:08:43",
+    "end": "00:08:47"
+  },
+  {
+    "text": "This video got 79,000 likes.",
+    "start": "00:08:47",
+    "end": "00:08:48"
+  },
+  {
+    "text": "What about the hook do you think got like hooked that attention?",
+    "start": "00:08:48",
+    "end": "00:08:51"
+  },
+  {
+    "text": "What are the factors in that?",
+    "start": "00:08:51",
+    "end": "00:08:54"
+  },
+  {
+    "text": "And then also how does it actually sell the app?",
+    "start": "00:08:52",
+    "end": "00:08:55"
+  },
+  {
+    "text": "How long do you show the call to action if there even is a call to action?",
+    "start": "00:08:55",
+    "end": "00:08:59"
+  },
+  {
+    "text": "And like how much do you show the product?",
+    "start": "00:08:59",
+    "end": "00:09:01"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:09:01",
+    "end": "00:09:01"
+  },
+  {
+    "text": "Perfect.",
+    "start": "00:09:01",
+    "end": "00:09:02"
+  },
+  {
+    "text": "And and I'll kind of say it from two perspectives.",
+    "start": "00:09:02",
+    "end": "00:09:05"
+  },
+  {
+    "text": "This is to the to the other point where there's an organic strategy.",
+    "start": "00:09:03",
+    "end": "00:09:08"
+  },
+  {
+    "text": "So there's like a bunch of organic that we did and out of the best ones were amplifying with paid and then this is a paid where we can actually track attribution as well.",
+    "start": "00:09:08",
+    "end": "00:09:16"
+  },
+  {
+    "text": "What purchases it's leading to the cost per purchase in this piece of content that turn into a ad versus other ones where the cost per purchase isn't as good.",
+    "start": "00:09:16",
+    "end": "00:09:24"
+  },
+  {
+    "text": "And then there's the parts of it like the actual hook.",
+    "start": "00:09:24",
+    "end": "00:09:27"
+  },
+  {
+    "text": "why this video converts better than others or why it's more scalable.",
+    "start": "00:09:27",
+    "end": "00:09:31"
+  },
+  {
+    "text": "So the first part was just a hook which it's done in the industry.",
+    "start": "00:09:31",
+    "end": "00:09:34"
+  },
+  {
+    "text": "It's just something shocking and it's not even like talking.",
+    "start": "00:09:34",
+    "end": "00:09:37"
+  },
+  {
+    "text": "Some people want to like start talking right away but it's just more about the expression and kind of like seeing what's working just like copying like the headlines.",
+    "start": "00:09:37",
+    "end": "00:09:44"
+  },
+  {
+    "text": "So that's where just like testing a whole bunch.",
+    "start": "00:09:44",
+    "end": "00:09:47"
+  },
+  {
+    "text": "Some are done by a lot of other viral pages and it's just like all right they just happen to convert.",
+    "start": "00:09:47",
+    "end": "00:09:51"
+  },
+  {
+    "text": "So I think that's more of a emulating strategy of what's working for others and then putting it in the context of yours.",
+    "start": "00:09:51",
+    "end": "00:09:56"
+  },
+  {
+    "text": "So then the middle is more like product demo showing.",
+    "start": "00:09:56",
+    "end": "00:09:59"
+  },
+  {
+    "text": "This just like calls out the audience more knowing that later on it's actually might convert because it's for the relevant audience.",
+    "start": "00:09:59",
+    "end": "00:10:04"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:10:04",
+    "end": "00:10:05"
+  },
+  {
+    "text": "And essentially some sort of conclusion, not even a call to action.",
+    "start": "00:10:05",
+    "end": "00:10:07"
+  },
+  {
+    "text": "This is where the paid ads do that part where it adds the link.",
+    "start": "00:10:07",
+    "end": "00:10:12"
+  },
+  {
+    "text": "You have purchase attribution.",
+    "start": "00:10:12",
+    "end": "00:10:13"
+  },
+  {
+    "text": "So there's less focus on like calling out what the app is.",
+    "start": "00:10:13",
+    "end": "00:10:15"
+  },
+  {
+    "text": "And then in the comments you can see there's like questions like what is the app or what is the app?",
+    "start": "00:10:15",
+    "end": "00:10:20"
+  },
+  {
+    "text": "But it's like oh I can just use chat GPD for this.",
+    "start": "00:10:20",
+    "end": "00:10:22"
+  },
+  {
+    "text": "Oh, this is like Quizlet or or kind of whatever like kind of other um apps and study apps.",
+    "start": "00:10:22",
+    "end": "00:10:26"
+  },
+  {
+    "text": "So then like the comment section is for that and something that's goofy or whatever kind of just the creator thought of that himself.",
+    "start": "00:10:26",
+    "end": "00:10:31"
+  },
+  {
+    "text": "It's just like how to how to end it and that just did better than other types of videos that he shot different endings.",
+    "start": "00:10:31",
+    "end": "00:10:37"
+  },
+  {
+    "text": "I would say it's like a strong hook and we should dig into the hook more because there's like where I have a lot of virality experience on like on YouTube, Tik Tok what's different and kind of can even show different examples.",
+    "start": "00:10:37",
+    "end": "00:10:47"
+  },
+  {
+    "text": "So, it's like that hook that catch attention.",
+    "start": "00:10:47",
+    "end": "00:10:50"
+  },
+  {
+    "text": "Something in the middle that is more about relating to the audience.",
+    "start": "00:10:50",
+    "end": "00:10:52"
+  },
+  {
+    "text": "That way, it's more likely to convert later.",
+    "start": "00:10:52",
+    "end": "00:10:54"
+  },
+  {
+    "text": "So, I feel like there's like less best practices.",
+    "start": "00:10:54",
+    "end": "00:10:57"
+  },
+  {
+    "text": "It's more about showing something about the product or how it's used.",
+    "start": "00:10:57",
+    "end": "00:11:00"
+  },
+  {
+    "text": "That way, it's not totally relevant.",
+    "start": "00:11:00",
+    "end": "00:11:01"
+  },
+  {
+    "text": "Like, it has to be some relevance there.",
+    "start": "00:11:01",
+    "end": "00:11:03"
+  },
+  {
+    "text": "And then some sort of conclusion that's different than the rest of the video, but there's continuity.",
+    "start": "00:11:03",
+    "end": "00:11:07"
+  },
+  {
+    "text": "And it's more like a pattern interrupter, but after the middle, so they actually stay on.",
+    "start": "00:11:07",
+    "end": "00:11:11"
+  },
+  {
+    "text": "That's kind of more about the video, but I think it's now relevant to talk about like organic versus paid and why certain things work or not.",
+    "start": "00:11:11",
+    "end": "00:11:17"
+  },
+  {
+    "text": "So, this is essentially where testing many different creators and pieces of content and seeing like organically which ones finding the organic outliers that do better than the rest.",
+    "start": "00:11:17",
+    "end": "00:11:27"
+  },
+  {
+    "text": "So, this is where just in comparison to many other videos that you just don't even get into like thousands of views, right?",
+    "start": "00:11:27",
+    "end": "00:11:33"
+  },
+  {
+    "text": "This is a different strategy than organically getting millions of views.",
+    "start": "00:11:33",
+    "end": "00:11:36"
+  },
+  {
+    "text": "If you're able to do that organically, like you're on to something, especially if you can amplify and then start replicating it, changing the first second or the final second when you are onto that.",
+    "start": "00:11:36",
+    "end": "00:11:44"
+  },
+  {
+    "text": "So, it's not even that.",
+    "start": "00:11:44",
+    "end": "00:11:45"
+  },
+  {
+    "text": "It's more about growth hacking into these tipping points where you have 50 organic videos.",
+    "start": "00:11:45",
+    "end": "00:11:51"
+  },
+  {
+    "text": "This actually took more like between 20 and 30 organic pieces of content to find one that's way better than the rest and then kind of replicating that.",
+    "start": "00:11:51",
+    "end": "00:11:59"
+  },
+  {
+    "text": "But it's within do 20 organic videos, kind of multiple creators, multiple hook strategies.",
+    "start": "00:11:59",
+    "end": "00:12:02"
+  },
+  {
+    "text": "You just find the best one, the top 10%.",
+    "start": "00:12:02",
+    "end": "00:12:04"
+  },
+  {
+    "text": "It may not be the best one that's viral, but it'll do better than the rest.",
+    "start": "00:12:04",
+    "end": "00:12:08"
+  },
+  {
+    "text": "And all of them pay amplifying with ads.",
+    "start": "00:12:08",
+    "end": "00:12:10"
+  },
+  {
+    "text": "This might be the alpha.",
+    "start": "00:12:10",
+    "end": "00:12:12"
+  },
+  {
+    "text": "This does not follow like best practices of data science.",
+    "start": "00:12:12",
+    "end": "00:12:14"
+  },
+  {
+    "text": "Even though I'm like former data scientists and like very like mathematical, it's not that.",
+    "start": "00:12:14",
+    "end": "00:12:19"
+  },
+  {
+    "text": "It's about directional patterns.",
+    "start": "00:12:19",
+    "end": "00:12:20"
+  },
+  {
+    "text": "You take all of your organic pieces and just put a few dollars into them.",
+    "start": "00:12:20",
+    "end": "00:12:23"
+  },
+  {
+    "text": "If you're kind of on TikTok, there's like a minimum all of that, but just put a couple of dollars into each one.",
+    "start": "00:12:23",
+    "end": "00:12:28"
+  },
+  {
+    "text": "And what does that mean?",
+    "start": "00:12:28",
+    "end": "00:12:31"
+  },
+  {
+    "text": "You'll have 20 pieces of content and each of them get zero or one click or two clicks which is kind of bad.",
+    "start": "00:12:28",
+    "end": "00:12:36"
+  },
+  {
+    "text": "It's not a good sample size but this is where the magic is.",
+    "start": "00:12:36",
+    "end": "00:12:38"
+  },
+  {
+    "text": "One of them will have like five or 10 clicks and then you're like asking wait was that a outlier?",
+    "start": "00:12:38",
+    "end": "00:12:44"
+  },
+  {
+    "text": "Was that random?",
+    "start": "00:12:44",
+    "end": "00:12:43"
+  },
+  {
+    "text": "Was it just chance but then you just continue the budget more and it either averages out and it was a fluke or you're on to something.",
+    "start": "00:12:43",
+    "end": "00:12:51"
+  },
+  {
+    "text": "So that's why I like this kind of like low sample size approach of finding very quickly across a lot of variety because whether it's in Facebook and Instagram, YouTube, Tik Tok, the creative makes the biggest difference.",
+    "start": "00:12:51",
+    "end": "00:13:01"
+  },
+  {
+    "text": "There's like targeting strategies.",
+    "start": "00:13:01",
+    "end": "00:13:02"
+  },
+  {
+    "text": "There's so many strategies to improve like the content or the ads.",
+    "start": "00:13:02",
+    "end": "00:13:06"
+  },
+  {
+    "text": "The creative is the biggest one that gives you like the 10x multipliers.",
+    "start": "00:13:05",
+    "end": "00:13:09"
+  },
+  {
+    "text": "the ones where the right creative will give you the 10 time difference as opposed to these small optimizations, which is after you have successful ads and a business model and customer journey, then you can like make these 10% improvements which help your bottom line and you kind of know your numbers better.",
+    "start": "00:13:09",
+    "end": "00:13:23"
+  },
+  {
+    "text": "That makes sense where like each month you make the improvement.",
+    "start": "00:13:23",
+    "end": "00:13:26"
+  },
+  {
+    "text": "But when you're looking for the biggest levers, that's when it should be the 10x differences and that's the creative.",
+    "start": "00:13:26",
+    "end": "00:13:31"
+  },
+  {
+    "text": "And then when you just put a few dollars on each one, you're amplifying that difference between the average creatives versus the one that has the strongest hook.",
+    "start": "00:13:31",
+    "end": "00:13:37"
+  },
+  {
+    "text": "And it just might be that expression in the face whether someone is annoyed or excited, you know, kind of like catches that attention.",
+    "start": "00:13:37",
+    "end": "00:13:45"
+  },
+  {
+    "text": "People watch for one second longer and that's a signal to Tik Tok, YouTube, the algorithm like, all right, the person just watched for one extra second because of that emotional or something in the eyes or the face or the tagline.",
+    "start": "00:13:45",
+    "end": "00:13:56"
+  },
+  {
+    "text": "So now they show it to more and then it kind of amplifies from there.",
+    "start": "00:13:54",
+    "end": "00:13:59"
+  },
+  {
+    "text": "But then that $1,10 $100 ad spend on each of these creatives amplifies that difference more.",
+    "start": "00:13:59",
+    "end": "00:14:03"
+  },
+  {
+    "text": "So I feel like that was your question on finding that balance and actually doing it because I see so many kind of like these organic focused creators which is amazing.",
+    "start": "00:14:03",
+    "end": "00:14:11"
+  },
+  {
+    "text": "They like figure out how to do it on like zero or lower budget like their time and creativity but then it's such a lowhanging fruit to actually amplify that even further and take those middle quality creatives and actually find that they may be higher converting ones because there's kind of this paradox that happens sometimes the more viral it is.",
+    "start": "00:14:11",
+    "end": "00:14:26"
+  },
+  {
+    "text": "It's kind of like viral for the wrong reasons, which is good for reviews, but does it convert or not?",
+    "start": "00:14:26",
+    "end": "00:14:32"
+  },
+  {
+    "text": "You kind of have to like drop down the clickbaitness of it to find the ones that will convert better.",
+    "start": "00:14:32",
+    "end": "00:14:37"
+  },
+  {
+    "text": "And those might be kind of like that top 75% or like in in the top 25% meaning like above the average ones, those middle virality ones that will convert better.",
+    "start": "00:14:37",
+    "end": "00:14:45"
+  },
+  {
+    "text": "I feel like half of the time I'm trying to find the balance between clickbaity content and like not going to the spammy route, but just the ones where you just get attention.",
+    "start": "00:14:44",
+    "end": "00:14:52"
+  },
+  {
+    "text": "It's an algorithm problem.",
+    "start": "00:14:52",
+    "end": "00:14:53"
+  },
+  {
+    "text": "you just want to get attention to beat all of the other advertisers or promoters or pieces of content.",
+    "start": "00:14:53",
+    "end": "00:14:59"
+  },
+  {
+    "text": "And once you do that, then it's about conversion.",
+    "start": "00:14:59",
+    "end": "00:15:03"
+  },
+  {
+    "text": "But if you make it way too clickbaity, then it'll be hard to convert.",
+    "start": "00:15:00",
+    "end": "00:15:05"
+  },
+  {
+    "text": "So you just have to have those elements throughout the video or piece of content.",
+    "start": "00:15:05",
+    "end": "00:15:08"
+  },
+  {
+    "text": "Yeah, there seems to be a tension.",
+    "start": "00:15:08",
+    "end": "00:15:10"
+  },
+  {
+    "text": "If a video goes super super viral, then it probably means you didn't shill super hard in the video because people are willing to share that video with their friends.",
+    "start": "00:15:10",
+    "end": "00:15:20"
+  },
+  {
+    "text": "They don't want to share obviously sponsored posts with their friends.",
+    "start": "00:15:20",
+    "end": "00:15:22"
+  },
+  {
+    "text": "If a video does go viral, probably means it didn't convert as well.",
+    "start": "00:15:22",
+    "end": "00:15:25"
+  },
+  {
+    "text": "It's not always the case, but it seems like that's what the numbers have been saying for you.",
+    "start": "00:15:25",
+    "end": "00:15:30"
+  },
+  {
+    "text": "There's two things that I want to look at.",
+    "start": "00:15:30",
+    "end": "00:15:32"
+  },
+  {
+    "text": "So, first of all, how well did this ad do?",
+    "start": "00:15:32",
+    "end": "00:15:34"
+  },
+  {
+    "text": "What were the results for this one?",
+    "start": "00:15:34",
+    "end": "00:15:36"
+  },
+  {
+    "text": "And then second thing is I want to look into the workflow of like how did you arrive at this level?",
+    "start": "00:15:36",
+    "end": "00:15:40"
+  },
+  {
+    "text": "What were all the little experiments and the variations of organic and how much did you boost each one and you know all that.",
+    "start": "00:15:40",
+    "end": "00:15:48"
+  },
+  {
+    "text": "So this is to the part where with the paid ads, it's a amplifier for the organic.",
+    "start": "00:15:48",
+    "end": "00:15:53"
+  },
+  {
+    "text": "So I'm going to like get into tracking what we're doing to track performance and knowing that there's the full top of funnel and it's on the platform side of the social platform and then you're inside the app.",
+    "start": "00:15:53",
+    "end": "00:16:05"
+  },
+  {
+    "text": "There's like desktop performance, but then you're in the mobile app.",
+    "start": "00:16:04",
+    "end": "00:16:08"
+  },
+  {
+    "text": "So then there's performance within that.",
+    "start": "00:16:08",
+    "end": "00:16:10"
+  },
+  {
+    "text": "So there's two ways I'm measuring the performance.",
+    "start": "00:16:10",
+    "end": "00:16:11"
+  },
+  {
+    "text": "There's kind of like the obvious one and it's how it fits into profitability of the ad and profitability of the company.",
+    "start": "00:16:11",
+    "end": "00:16:19"
+  },
+  {
+    "text": "Meaning that like what are your goals?",
+    "start": "00:16:19",
+    "end": "00:16:20"
+  },
+  {
+    "text": "What LTV do we need?",
+    "start": "00:16:20",
+    "end": "00:16:21"
+  },
+  {
+    "text": "What cost per purchase that do we need?",
+    "start": "00:16:21",
+    "end": "00:16:22"
+  },
+  {
+    "text": "And this is where targeting comes in that Tik Tok is like working better for like US targeting.",
+    "start": "00:16:22",
+    "end": "00:16:28"
+  },
+  {
+    "text": "And then Facebook is working better for global targeting.",
+    "start": "00:16:28",
+    "end": "00:16:30"
+  },
+  {
+    "text": "And then it's a topic like iOS versus Android.",
+    "start": "00:16:30",
+    "end": "00:16:33"
+  },
+  {
+    "text": "So these ones on US and we have different goals on trying to reach $50 cost per purchase versus $100 cost per purchase versus $200 cost per purchase.",
+    "start": "00:16:33",
+    "end": "00:16:41"
+  },
+  {
+    "text": "I kind of set three different numbers because we have different goals on one part of the ad.",
+    "start": "00:16:41",
+    "end": "00:16:47"
+  },
+  {
+    "text": "We want to make sure we get enough data into like the onboarding flow.",
+    "start": "00:16:47",
+    "end": "00:16:51"
+  },
+  {
+    "text": "So, if we're able to reach $200 cost per purchase, which is way more lenient than if we're like being more aggressive on we need to reach profitability where some of these ads are like $100 cost per purchase and depending if we're looking to the LTV.",
+    "start": "00:16:51",
+    "end": "00:17:06"
+  },
+  {
+    "text": "So, we have to like know your churn numbers really well on one part of the ads is kind of like a break even approach and part of it is like pure profit.",
+    "start": "00:17:04",
+    "end": "00:17:12"
+  },
+  {
+    "text": "So you have to know that one of them you're building up that way it's it's profitable and scalable and the other one is we're optimizing the onboarding flow.",
+    "start": "00:17:12",
+    "end": "00:17:21"
+  },
+  {
+    "text": "So I'm kind of like sending in traffic and knowing that we're getting 1% conversion rate from the install all the way down to the purchase.",
+    "start": "00:17:21",
+    "end": "00:17:29"
+  },
+  {
+    "text": "And then I'm taking the same ad.",
+    "start": "00:17:29",
+    "end": "00:17:30"
+  },
+  {
+    "text": "This is where like the key breakdown happens where here's a a successful ad meaning it's it's in the top 10% of the organic content.",
+    "start": "00:17:30",
+    "end": "00:17:38"
+  },
+  {
+    "text": "So now I can amplify it with paid ads and knowing that this creative is like the testing amplifier.",
+    "start": "00:17:38",
+    "end": "00:17:46"
+  },
+  {
+    "text": "So now I take my funnel the actual journey from the install to going through onboarding in the app using the app and then there's paywall related steps whether it's in the onboarding or after product usage.",
+    "start": "00:17:44",
+    "end": "00:17:57"
+  },
+  {
+    "text": "So now I need to look at it as two points of profitability.",
+    "start": "00:17:57",
+    "end": "00:18:00"
+  },
+  {
+    "text": "Meaning that anytime I'm split testing part of the app usage, I kind of like don't care about the cost per purchase because I'm sending in tens of thousands of installs to optimize that data within a few days.",
+    "start": "00:18:00",
+    "end": "00:18:12"
+  },
+  {
+    "text": "And then I'm tracking all of this data to know that here's the best ad that I have.",
+    "start": "00:18:12",
+    "end": "00:18:16"
+  },
+  {
+    "text": "And I know it's not like $2,000 cost per purchase or $1,000 cost per purchase.",
+    "start": "00:18:16",
+    "end": "00:18:20"
+  },
+  {
+    "text": "It's like something that's reasonable.",
+    "start": "00:18:18",
+    "end": "00:18:22"
+  },
+  {
+    "text": "And now I'm optimizing the inapp really fast.",
+    "start": "00:18:20",
+    "end": "00:18:22"
+  },
+  {
+    "text": "It's not taking like weeks or months to optimize it.",
+    "start": "00:18:22",
+    "end": "00:18:26"
+  },
+  {
+    "text": "It's like within days I do three-way experiment, four-way experiment.",
+    "start": "00:18:26",
+    "end": "00:18:29"
+  },
+  {
+    "text": "I'm testing like crazy things like in the payw wall, other parts of the app.",
+    "start": "00:18:29",
+    "end": "00:18:33"
+  },
+  {
+    "text": "And right away that cost per purchase goes from $500 to $300 per person depending what I'm targeting.",
+    "start": "00:18:33",
+    "end": "00:18:38"
+  },
+  {
+    "text": "I'm like, \"All right, should I like target teachers as well or tutors?",
+    "start": "00:18:37",
+    "end": "00:18:42"
+  },
+  {
+    "text": "\" So part of it is sending in data really fast to optimize and then that cost per purchase moves down really quickly.",
+    "start": "00:18:42",
+    "end": "00:18:48"
+  },
+  {
+    "text": "The performance is more about the velocity of performance.",
+    "start": "00:18:48",
+    "end": "00:18:50"
+  },
+  {
+    "text": "I'm using this ad to increase our velocity of getting from bad numbers to good to really good because able to test really fast and then part of it I'm just kind of separately tracking on we know what that our churn is depending on the audience the country it's kind of between three and seven months it kind of depends on the numbers I'm looking at I can like estimate LTV so I know that each purchase is worth kind of depending on the audience but it's $30 or like $70 or like higher kind of depending on different parts of the product that is purchased that depending on the country and also device like iOS is much better.",
+    "start": "00:18:50",
+    "end": "00:19:22"
+  },
+  {
+    "text": "So then I know the exact numbers.",
+    "start": "00:19:19",
+    "end": "00:19:23"
+  },
+  {
+    "text": "I don't blend this data with the rest because you might make a decision where like, oh, it's $300 cost per purchase.",
+    "start": "00:19:23",
+    "end": "00:19:29"
+  },
+  {
+    "text": "Turn that all off.",
+    "start": "00:19:27",
+    "end": "00:19:28"
+  },
+  {
+    "text": "Sometimes you could do that if you're very aggressive, but then I'm taking where like 20% of it is matching our numbers exactly.",
+    "start": "00:19:28",
+    "end": "00:19:34"
+  },
+  {
+    "text": "So it's kind of I'm okay with incremental improvement there.",
+    "start": "00:19:34",
+    "end": "00:19:37"
+  },
+  {
+    "text": "While crazy testing is here, incremental meaning that then taking this creative and testing 10 different headlines.",
+    "start": "00:19:37",
+    "end": "00:19:43"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:19:43",
+    "end": "00:19:44"
+  },
+  {
+    "text": "Specifically for this video, it's in the hundreds of purchases.",
+    "start": "00:19:44",
+    "end": "00:19:46"
+  },
+  {
+    "text": "So it's not like crazy where it's like thousands of purchases from a particular video.",
+    "start": "00:19:46",
+    "end": "00:19:51"
+  },
+  {
+    "text": "Guess we can like do the math but it's in the ballpark of hundreds of purchases.",
+    "start": "00:19:51",
+    "end": "00:19:54"
+  },
+  {
+    "text": "Mhm.",
+    "start": "00:19:54",
+    "end": "00:19:55"
+  },
+  {
+    "text": "So this is where my previous answer where then you horizontally scale it.",
+    "start": "00:19:55",
+    "end": "00:19:58"
+  },
+  {
+    "text": "Then that gets into you're replicating it where it's multiple moments of these like different hundreds of purchases that stem from this.",
+    "start": "00:19:58",
+    "end": "00:20:05"
+  },
+  {
+    "text": "So this is like on a scale of hundreds and then what do you do from there?",
+    "start": "00:20:05",
+    "end": "00:20:08"
+  },
+  {
+    "text": "Do you like horizontally scale by having the same creator make multiple variations and then you run ads on all of those as well?",
+    "start": "00:20:08",
+    "end": "00:20:15"
+  },
+  {
+    "text": "Yeah, it's both, but but it's more of the example where it's the same type of video, but you test on the ad side different elements of the ad.",
+    "start": "00:20:15",
+    "end": "00:20:24"
+  },
+  {
+    "text": "So, you're scaling within the ad platform platform.",
+    "start": "00:20:24",
+    "end": "00:20:27"
+  },
+  {
+    "text": "This is if it's different audiences, different headlines, different flows that goes into the app.",
+    "start": "00:20:27",
+    "end": "00:20:33"
+  },
+  {
+    "text": "To you, scaling means you take this winning ad and then you make variations of it.",
+    "start": "00:20:33",
+    "end": "00:20:38"
+  },
+  {
+    "text": "Sounds like a few different levels like audiences, the copy of the headline, and then landing page variations.",
+    "start": "00:20:38",
+    "end": "00:20:44"
+  },
+  {
+    "text": "Is that accurate?",
+    "start": "00:20:44",
+    "end": "00:20:46"
+  },
+  {
+    "text": "on the audience making sure that it's clear on device and countries less on the student or interest because the algorithm is really good.",
+    "start": "00:20:46",
+    "end": "00:20:53"
+  },
+  {
+    "text": "They find that so it's more like broader in terms of the audience of the reach.",
+    "start": "00:20:53",
+    "end": "00:20:57"
+  },
+  {
+    "text": "It's more about how it fits into the funnel inside the app.",
+    "start": "00:20:57",
+    "end": "00:20:59"
+  },
+  {
+    "text": "So that's on the audience side like kind of different countries because different countries have different LTV goals, different MR goals and kind of things that the ad is trying to accomplish.",
+    "start": "00:20:59",
+    "end": "00:21:08"
+  },
+  {
+    "text": "So it's making sure that it's different countries because then this fits into are they going to a free trial or not.",
+    "start": "00:21:08",
+    "end": "00:21:14"
+  },
+  {
+    "text": "So this is on the ad side.",
+    "start": "00:21:14",
+    "end": "00:21:16"
+  },
+  {
+    "text": "So what are we looking at here?",
+    "start": "00:21:15",
+    "end": "00:21:18"
+  },
+  {
+    "text": "Is this the original video or is this like a horizontal scaling?",
+    "start": "00:21:18",
+    "end": "00:21:21"
+  },
+  {
+    "text": "Yeah, this is like scaling it like taking different variations but this is showing same thing but then in US versus different countries.",
+    "start": "00:21:21",
+    "end": "00:21:27"
+  },
+  {
+    "text": "So then it's scaling on that first part or like different targeting and then what happens is inside the app on different flows.",
+    "start": "00:21:27",
+    "end": "00:21:34"
+  },
+  {
+    "text": "So I'm kind of like scaling that way.",
+    "start": "00:21:34",
+    "end": "00:21:36"
+  },
+  {
+    "text": "I have different cost per purchase metrics scaling it on the ad platform side knowing that it's different targeting which diversifies the risk meaning that to scale it even more there's differences that happen inside of the app depending how we have the different payw wall once there's multiple ads going this is like different countries different targeting it's like the same creative but then like changing like the intro or the outro this is where like on the creative side there's like some variations just to like not fatigue the audience but making sure that there's enough different ads and then there's hundred hundreds of different ads at the ad group level.",
+    "start": "00:21:36",
+    "end": "00:22:08"
+  },
+  {
+    "text": "How do you horizontally scale that across different audiences and demographics?",
+    "start": "00:22:08",
+    "end": "00:22:12"
+  },
+  {
+    "text": "Part of the scaling is identifying the funnel steps.",
+    "start": "00:22:12",
+    "end": "00:22:17"
+  },
+  {
+    "text": "There's our analytics that are internal inside of the app like our own dashboards and then what you can see on the platform.",
+    "start": "00:22:17",
+    "end": "00:22:23"
+  },
+  {
+    "text": "There's like the issue of attribution with attributing or not and then versus like everything we're tracking inside just our own database and trying to confirm.",
+    "start": "00:22:21",
+    "end": "00:22:28"
+  },
+  {
+    "text": "What I do is just making sure looking at all of the different attribution types of like metrics and periods.",
+    "start": "00:22:28",
+    "end": "00:22:34"
+  },
+  {
+    "text": "I know there's a lot of data and then like gut feeling that if you run an ad and you have 10 purchases reported or 100 purchases, what does that actually mean?",
+    "start": "00:22:34",
+    "end": "00:22:43"
+  },
+  {
+    "text": "Are is the real data where it's like double that?",
+    "start": "00:22:43",
+    "end": "00:22:45"
+  },
+  {
+    "text": "So, I think there's like a good insight where it's usually like double that and then I'm doing like different lift studies where I completely turn off ads to see how much sales go down and then I turn them back on to see how much sales go up to get estimates of these lifts.",
+    "start": "00:22:45",
+    "end": "00:22:56"
+  },
+  {
+    "text": "And then um the same thing when I'm looking at some of these ads time period for any ad knowing how many are coming in right away kind of like 1 day versus 7 day or beyond to know that at least 10% of the purchases are coming in later that aren't relatively instant.",
+    "start": "00:22:56",
+    "end": "00:23:11"
+  },
+  {
+    "text": "Then also looking at scan versus what's other reported purchases knowing that another over 10 to 20% of the purchases are coming in through these other attribution methods and then I'm actually in Apple connect looking at analytics like based on platform knowing that another 10 to 20% of purchases are coming in from spillover types of attribution that are happening like somebody sees the ad and then they just go search for it and then they like end up like installing and and purchasing.",
+    "start": "00:23:11",
+    "end": "00:23:35"
+  },
+  {
+    "text": "So there's all of these different attribution sources that then give me more confidence on being able to scale ads out because I know what's being reported in the actual ad.",
+    "start": "00:23:34",
+    "end": "00:23:43"
+  },
+  {
+    "text": "So this is making sure that you have some sort of funnel step view.",
+    "start": "00:23:43",
+    "end": "00:23:46"
+  },
+  {
+    "text": "Not only like on onboarding, you might know like how many people you're dropping off at each different step, but within the ads as well.",
+    "start": "00:23:46",
+    "end": "00:23:51"
+  },
+  {
+    "text": "Whether it's as simple as setting up the columns, but just seeing that order of how many people you have from install, there's like I have like hundreds of ads, actually like thousands of ads.",
+    "start": "00:23:51",
+    "end": "00:23:59"
+  },
+  {
+    "text": "I'm just kind of showing a very like refined example from like install, registration, kind of different engagement, and then different payw wall steps.",
+    "start": "00:23:59",
+    "end": "00:24:06"
+  },
+  {
+    "text": "So I want to make sure to see that so you know what the drop offs are.",
+    "start": "00:24:06",
+    "end": "00:24:10"
+  },
+  {
+    "text": "just so when I'm looking at 20 of these looking for outliers I see which ones have higher percentage of conversion lower drop off and actually making custom metrics making sure that it's percentage wise comparison as well that way it's much easier to split test it when I was talking about the Tik Tok example where there's creative but then there's many different adsets with different targeting knowing which one is loading to lower percentage of drop pops just so it's much easier to tell on what the percentage is of like from one step to the next from the install using the app different steps of the payw while being able to measure that because that's where you end up seeing outliers like these top 10% where from going into the purchase there's these 10x differences on some of the ads some of the targeting depending on the journey they took inside of the app.",
+    "start": "00:24:08",
+    "end": "00:24:52"
+  },
+  {
+    "text": "So there's like different types of products and some of them start using a particular product and end up purchasing and it's 10 times higher conversion then kind of just like roaming through throughout the app.",
+    "start": "00:24:52",
+    "end": "00:25:00"
+  },
+  {
+    "text": "Is there any outlier stat that's really interesting here?",
+    "start": "00:25:00",
+    "end": "00:25:04"
+  },
+  {
+    "text": "Actually this is a better example here where I take this approach.",
+    "start": "00:25:04",
+    "end": "00:25:06"
+  },
+  {
+    "text": "So this was headline testing where it's the same creative, so it's a constant variable.",
+    "start": "00:25:06",
+    "end": "00:25:12"
+  },
+  {
+    "text": "So it's the same video ad, same targeting, but I'm just testing just one factor.",
+    "start": "00:25:12",
+    "end": "00:25:17"
+  },
+  {
+    "text": "In this case, it's creative and seeing um just the differences in the performance.",
+    "start": "00:25:17",
+    "end": "00:25:21"
+  },
+  {
+    "text": "Then I turned off a bunch.",
+    "start": "00:25:21",
+    "end": "00:25:22"
+  },
+  {
+    "text": "So then these ones have a lot more ad spend than the ones that didn't work.",
+    "start": "00:25:22",
+    "end": "00:25:25"
+  },
+  {
+    "text": "But it's this approach where it's like look at these 10 ads.",
+    "start": "00:25:25",
+    "end": "00:25:28"
+  },
+  {
+    "text": "my earlier example where I'm like even if you're spending just like a few dollars per creative, you're going to start seeing these outliers where it goes from one click to 10 click or a purchase comes in and some like never get a purchase and some start getting two three purchases and then I revisit it weekly to make sure that that pattern holds.",
+    "start": "00:25:28",
+    "end": "00:25:42"
+  },
+  {
+    "text": "So it's doing this approach but for each of your hypotheses making sure that it's here it's just the headline everything else is the same and the same thing like with the Tik Tok examples where it's all kinds of different targeting different countries but it's the same thing.",
+    "start": "00:25:42",
+    "end": "00:25:55"
+  },
+  {
+    "text": "It's that identical creative and then they start taking different flows and then it's repeating that but inside of the app but it's the same targeting same creative.",
+    "start": "00:25:55",
+    "end": "00:26:04"
+  },
+  {
+    "text": "Would you consider this horizontal scaling doing the headline variations?",
+    "start": "00:26:04",
+    "end": "00:26:07"
+  },
+  {
+    "text": "I would say this is trying to get deeper because you found something that's working.",
+    "start": "00:26:07",
+    "end": "00:26:11"
+  },
+  {
+    "text": "So in this case the video was successful.",
+    "start": "00:26:11",
+    "end": "00:26:14"
+  },
+  {
+    "text": "So now when it's like scale this video more and it's finding these headlines.",
+    "start": "00:26:14",
+    "end": "00:26:19"
+  },
+  {
+    "text": "So this one isn't for different audiences.",
+    "start": "00:26:19",
+    "end": "00:26:20"
+  },
+  {
+    "text": "As soon as it gets into like different audiences, it starts getting into like different psychologies and different like value propositions which kind of feel more horizontal here.",
+    "start": "00:26:19",
+    "end": "00:26:29"
+  },
+  {
+    "text": "It's like going more deeper to be able to scale this, but it's kind of like one word make a difference.",
+    "start": "00:26:29",
+    "end": "00:26:33"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:26:33",
+    "end": "00:26:34"
+  },
+  {
+    "text": "I just want to try to build out a step-by-step process for this.",
+    "start": "00:26:34",
+    "end": "00:26:37"
+  },
+  {
+    "text": "So, it sounds like step one is organic variations, small boosts on each organic variation.",
+    "start": "00:26:37",
+    "end": "00:26:43"
+  },
+  {
+    "text": "Second step is find a winner and then you start doing deeper scaling with things like this, like headline variations.",
+    "start": "00:26:43",
+    "end": "00:26:50"
+  },
+  {
+    "text": "And then maybe step three now you go to different audiences and try to test stuff there.",
+    "start": "00:26:50",
+    "end": "00:26:54"
+  },
+  {
+    "text": "I'm trying to piece together all the different parts and try to put it into a very simple to understand framework.",
+    "start": "00:26:54",
+    "end": "00:27:00"
+  },
+  {
+    "text": "That's completely right.",
+    "start": "00:27:00",
+    "end": "00:27:01"
+  },
+  {
+    "text": "The only thing is I try to move through that flow very quick.",
+    "start": "00:27:01",
+    "end": "00:27:04"
+  },
+  {
+    "text": "Meaning that within a week I test all of that and then move on to the next layer which is repeating that same process within the app.",
+    "start": "00:27:04",
+    "end": "00:27:13"
+  },
+  {
+    "text": "Then that expands into the app.",
+    "start": "00:27:13",
+    "end": "00:27:14"
+  },
+  {
+    "text": "Meaning that if you have different pay walls, different onboarding, that flow will be different depending on what country the user is from.",
+    "start": "00:27:14",
+    "end": "00:27:20"
+  },
+  {
+    "text": "So if I narrow down and I find that certain countries are doing better, then I take just that country and then tracking that data in different flows, different experiments inside the app, within a week that experiment starts expanding into newer flows, newer experiments, but it's repeating those processes.",
+    "start": "00:27:20",
+    "end": "00:27:37"
+  },
+  {
+    "text": "It's just that what you outlined was in the context of organic variations, taking the winner of that, being able to have a like different targeting and scaling it further, but it gets into the app right away.",
+    "start": "00:27:37",
+    "end": "00:27:48"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:27:48",
+    "end": "00:27:49"
+  },
+  {
+    "text": "Let's look at the app now.",
+    "start": "00:27:47",
+    "end": "00:27:50"
+  },
+  {
+    "text": "Uh this is more examples of variations testing and kind of like smaller differences versus bigger.",
+    "start": "00:27:50",
+    "end": "00:27:54"
+  },
+  {
+    "text": "Like one is like social proof.",
+    "start": "00:27:54",
+    "end": "00:27:56"
+  },
+  {
+    "text": "So there's like promising metrics anytime you social proof.",
+    "start": "00:27:55",
+    "end": "00:27:58"
+  },
+  {
+    "text": "But what I'm trying to do is like rather than the test itself where it's three types of registration, one is more cleaner, one is warmer, one is there's like more social proof.",
+    "start": "00:27:58",
+    "end": "00:28:06"
+  },
+  {
+    "text": "tracking all of these metrics.",
+    "start": "00:28:06",
+    "end": "00:28:07"
+  },
+  {
+    "text": "Same thing then on paywall side where it's just trying different variations whether it's comparison free versus a paid plan more detail versus less detail these more like bigger variations but then within that it's finding like micro variation so it's an aspect of social proof where I think the interesting part is certain metrics go up you have like more engagement but less purchases and in certain situations it's like oh crap it's like we're like on to something but the social proof is not in the right place so you have to take these learnings and then put them into micro experiments so the goal isn't specifically like to do these tests, but it's to learn from it as fast as possible to move into the ne next test within a week.",
+    "start": "00:28:07",
+    "end": "00:28:42"
+  },
+  {
+    "text": "There's like all of these new sets trying to find out the data like really quick.",
+    "start": "00:28:42",
+    "end": "00:28:46"
+  },
+  {
+    "text": "Same as on the ad side.",
+    "start": "00:28:46",
+    "end": "00:28:46"
+  },
+  {
+    "text": "There's like the process of following of how you're trying to identify the steps of where the organic comes in paid on the testing.",
+    "start": "00:28:46",
+    "end": "00:28:53"
+  },
+  {
+    "text": "But I would say like the more important is trying to run through it as fast as possible to like unlock the next test.",
+    "start": "00:28:53",
+    "end": "00:29:00"
+  },
+  {
+    "text": "Same here registration page onboarding doing some variations to see all right is it leading to like more purchases more more engagement finding the balance of those because we actually like want testers want students to learn so we don't always look at just like the purchase metric because sometimes engagement goes way down we're like all right let's find that hybrid approach where we don't lose engagement and still getting purchases I look at a lot of assisted conversions and I'm looking at the way certain screens assist in conversions you run an experiment during onboarding and then at the end you have more or less purchases or more or less engagement.",
+    "start": "00:28:57",
+    "end": "00:29:30"
+  },
+  {
+    "text": "But sometimes there's a screen where people don't convert on that screen, but it's like an assisted conversion.",
+    "start": "00:29:30",
+    "end": "00:29:35"
+  },
+  {
+    "text": "So, making sure you're tracking that and you find these patterns that you don't see if you're not tracking assisted conversions.",
+    "start": "00:29:35",
+    "end": "00:29:41"
+  },
+  {
+    "text": "So, I don't know like how common it is for others, but making sure that you're setting up your analytics.",
+    "start": "00:29:41",
+    "end": "00:29:45"
+  },
+  {
+    "text": "That way, you kind of have like a second opinion or like a tiebreaker.",
+    "start": "00:29:45",
+    "end": "00:29:48"
+  },
+  {
+    "text": "If purchases are neutral in your test, look at assisted conversions.",
+    "start": "00:29:48",
+    "end": "00:29:52"
+  },
+  {
+    "text": "That will help deciding some of these screens helping or not.",
+    "start": "00:29:52",
+    "end": "00:29:56"
+  },
+  {
+    "text": "So that was the example here where like social proof had mixed findings purchases were up but in certain types of demographics or pathways but when you look at it as a assisted conversion then it was like neutral meaning like there wasn't the negative effect that I thought it was if you're just looking at the final conversion metric across all users all countries back to like the organic and ad side when you're running those different experiments from the different creatives they might lead to a different dynamics on like is social proof relevant for them or not.",
+    "start": "00:29:56",
+    "end": "00:30:23"
+  },
+  {
+    "text": "But when you're looking at the assisted conversions, it kind of adds this tiebreaker.",
+    "start": "00:30:23",
+    "end": "00:30:26"
+  },
+  {
+    "text": "That way, you don't like make a decision based on just the final data point.",
+    "start": "00:30:26",
+    "end": "00:30:29"
+  },
+  {
+    "text": "You have to take this first principles, making sure that you're measuring something, but adding on to that second order thinking and strategies to make sure that it amplifies it in these scenarios because it gets sophisticated with the top of the funnel testing on the ad side and how it actually happens within the app.",
+    "start": "00:30:29",
+    "end": "00:30:45"
+  },
+  {
+    "text": "Yeah, I appreciate the super deep breakdown.",
+    "start": "00:30:44",
+    "end": "00:30:46"
+  },
+  {
+    "text": "What are some of the things that got you into virality?",
+    "start": "00:30:46",
+    "end": "00:30:49"
+  },
+  {
+    "text": "cuz I think you've done some super mega viral like YouTube shorts stuff where I have like many different channels and it's figuring out like that virality in the first split second and it's all kinds of themes like fake text messaging like Spongebob like president head comedy videos so it's all kinds of stuff that you can easily automate use AI or like examples like this where it's oddly satisfying type of stuff where it's just like a few seconds long but it's the first seconds that catch attention again you have to realize that revenue is not high well like depending like what country you're from.",
+    "start": "00:30:49",
+    "end": "00:31:20"
+  },
+  {
+    "text": "So, I feel like me figuring that out throughout this past year, there's something psychological happening of curiosity, attention, and then comes e-commerce, commerce.",
+    "start": "00:31:20",
+    "end": "00:31:28"
+  },
+  {
+    "text": "So, I feel like just having that experience of all kinds of different niches being able to capture attention and this like micro storytelling.",
+    "start": "00:31:28",
+    "end": "00:31:35"
+  },
+  {
+    "text": "Then it's the same thing in app like attention from the organic content into an app and converting.",
+    "start": "00:31:35",
+    "end": "00:31:43"
+  },
+  {
+    "text": "So, this channel did 26 million views in the last 28 days.",
+    "start": "00:31:43",
+    "end": "00:31:45"
+  },
+  {
+    "text": "That's what this dashboard is showing, right?",
+    "start": "00:31:45",
+    "end": "00:31:47"
+  },
+  {
+    "text": "Could you show us what are these videos?",
+    "start": "00:31:47",
+    "end": "00:31:49"
+  },
+  {
+    "text": "Oh yeah.",
+    "start": "00:31:49",
+    "end": "00:31:50"
+  },
+  {
+    "text": "Let's see.",
+    "start": "00:31:50",
+    "end": "00:31:50"
+  },
+  {
+    "text": "That's the video.",
+    "start": "00:31:50",
+    "end": "00:31:52"
+  },
+  {
+    "text": "Hundreds of millions of views over like a billion views.",
+    "start": "00:31:52",
+    "end": "00:31:53"
+  },
+  {
+    "text": "And actually another channel I have that's like even more where it's like just crushing stuff and like breaking stuff.",
+    "start": "00:31:53",
+    "end": "00:31:58"
+  },
+  {
+    "text": "You have to have like other business models.",
+    "start": "00:31:58",
+    "end": "00:32:01"
+  },
+  {
+    "text": "But also I have over 10 of these channels.",
+    "start": "00:32:01",
+    "end": "00:32:03"
+  },
+  {
+    "text": "Things have to add up.",
+    "start": "00:32:03",
+    "end": "00:32:03"
+  },
+  {
+    "text": "But it's like learning that viral moment.",
+    "start": "00:32:03",
+    "end": "00:32:05"
+  },
+  {
+    "text": "And in other topics like fake text messages, right?",
+    "start": "00:32:05",
+    "end": "00:32:08"
+  },
+  {
+    "text": "Kind of different demographics.",
+    "start": "00:32:08",
+    "end": "00:32:09"
+  },
+  {
+    "text": "So it's kind of interesting how there's these weird niches like all over YouTube and Tik Tok, right?",
+    "start": "00:32:09",
+    "end": "00:32:13"
+  },
+  {
+    "text": "I'm being able to like create this virality.",
+    "start": "00:32:13",
+    "end": "00:32:16"
+  },
+  {
+    "text": "essentially is this micro storytelling that's happening there.",
+    "start": "00:32:16",
+    "end": "00:32:18"
+  },
+  {
+    "text": "I'm going to ask two more questions.",
+    "start": "00:32:18",
+    "end": "00:32:20"
+  },
+  {
+    "text": "First one is someone had an MVP or an app that doesn't have that many downloads, but you have a $5,000 budget.",
+    "start": "00:32:20",
+    "end": "00:32:26"
+  },
+  {
+    "text": "What would you do to get your first few users and start getting traction?",
+    "start": "00:32:26",
+    "end": "00:32:30"
+  },
+  {
+    "text": "I don't think most would say this, but I would try to spread it out in as many learnings as possible, as many hypotheses as possible.",
+    "start": "00:32:30",
+    "end": "00:32:37"
+  },
+  {
+    "text": "So rather than like putting it all into the algorithm and it working, you just might be testing a piece of content or strategy that it's just not an outlier and you're just going to dump it all.",
+    "start": "00:32:37",
+    "end": "00:32:47"
+  },
+  {
+    "text": "So instead, think of as many variations as possible, like 100 if you can.",
+    "start": "00:32:47",
+    "end": "00:32:51"
+  },
+  {
+    "text": "It sounds extreme, but after like 20, you're going to force yourself to think about what's a slightly different format, angle, hook, and then even if it's like a $1 amplifier for each of those, I feel like it's going to go longer because you're going to get zero clicks for almost all of them, but then there's going to be one that has like 20 clicks.",
+    "start": "00:32:51",
+    "end": "00:33:05"
+  },
+  {
+    "text": "You're like, \"All right, what's going on?",
+    "start": "00:33:05",
+    "end": "00:33:07"
+  },
+  {
+    "text": "Is this an outlier?",
+    "start": "00:33:07",
+    "end": "00:33:07"
+  },
+  {
+    "text": "There's something different about it, right?",
+    "start": "00:33:07",
+    "end": "00:33:09"
+  },
+  {
+    "text": "Like the viral YouTube example that I showed.",
+    "start": "00:33:09",
+    "end": "00:33:11"
+  },
+  {
+    "text": "It's like I didn't even like think is that relevant for learning.",
+    "start": "00:33:10",
+    "end": "00:33:14"
+  },
+  {
+    "text": "Well, that actually this like the strategy I'm trying next is like applying these completely other niches into the learning niche.",
+    "start": "00:33:14",
+    "end": "00:33:19"
+  },
+  {
+    "text": "There's like learnings in other industries and you start mixing them, you start getting virality.",
+    "start": "00:33:19",
+    "end": "00:33:23"
+  },
+  {
+    "text": "So, I would say put it into as many creative ideas as possible.",
+    "start": "00:33:23",
+    "end": "00:33:26"
+  },
+  {
+    "text": "Dilute it out because that's where the outlier will come out from.",
+    "start": "00:33:26",
+    "end": "00:33:29"
+  },
+  {
+    "text": "So, like a hundred variations is insane, but it totally makes sense.",
+    "start": "00:33:29",
+    "end": "00:33:34"
+  },
+  {
+    "text": "So you mentioned you could put as little as a dollar in to each video.",
+    "start": "00:33:34",
+    "end": "00:33:38"
+  },
+  {
+    "text": "Is that actually how you would do it?",
+    "start": "00:33:38",
+    "end": "00:33:40"
+  },
+  {
+    "text": "Would you actually spend like a dollar on each 100 videos?",
+    "start": "00:33:40",
+    "end": "00:33:41"
+  },
+  {
+    "text": "What's the budget you usually do just to get that tiny little boost?",
+    "start": "00:33:41",
+    "end": "00:33:46"
+  },
+  {
+    "text": "The platforms have minimum but yes the minimum in each of the platform and this is where I'm testing like Google, YouTube, Facebook, Tik Tok to find those outliers.",
+    "start": "00:33:46",
+    "end": "00:33:52"
+  },
+  {
+    "text": "The same thing or similar thing in a different platform might give you 2x results but yes the minimum on each of those.",
+    "start": "00:33:52",
+    "end": "00:33:58"
+  },
+  {
+    "text": "So it depends is like5 or $20 depending on the platform.",
+    "start": "00:33:58",
+    "end": "00:34:02"
+  },
+  {
+    "text": "That's what I would do.",
+    "start": "00:34:02",
+    "end": "00:34:03"
+  },
+  {
+    "text": "20 creatives, the lowest on each one, and then just track it throughout the day.",
+    "start": "00:34:03",
+    "end": "00:34:06"
+  },
+  {
+    "text": "It's not going to go all the way down to the purchases, but you're just looking at the top of the funnel metric.",
+    "start": "00:34:06",
+    "end": "00:34:10"
+  },
+  {
+    "text": "Which one is getting the most clicks?",
+    "start": "00:34:10",
+    "end": "00:34:12"
+  },
+  {
+    "text": "And that's it.",
+    "start": "00:34:12",
+    "end": "00:34:13"
+  },
+  {
+    "text": "It's almost like a little bit of clickbait, but again, this is a psychological game of what's getting attention, what's telling the right story, the strong hook, and you're going to find the one that's two, five, 10x performance better than the rest.",
+    "start": "00:34:13",
+    "end": "00:34:23"
+  },
+  {
+    "text": "Then you dial in on that one.",
+    "start": "00:34:23",
+    "end": "00:34:24"
+  },
+  {
+    "text": "Then that one you want to track that all the way down to the purchase, make variations.",
+    "start": "00:34:24",
+    "end": "00:34:29"
+  },
+  {
+    "text": "But most don't even get to the finding of the outliers and they're stuck in these the worst 75% of the content creative and they never get that virality or that that viral channel or video.",
+    "start": "00:34:29",
+    "end": "00:34:39"
+  },
+  {
+    "text": "You kind of hear this from like people that have been doing it for years that they have virality cuz they tested like 500 things.",
+    "start": "00:34:39",
+    "end": "00:34:45"
+  },
+  {
+    "text": "Maybe it took them a year but try to condense those 500 videos into a week.",
+    "start": "00:34:45",
+    "end": "00:34:49"
+  },
+  {
+    "text": "It sounds extreme but after you make 20 of them then you start looking at competitive tools.",
+    "start": "00:34:49",
+    "end": "00:34:53"
+  },
+  {
+    "text": "You start having a meditation session to inspire you or you go on a jog or you kind of talk to people.",
+    "start": "00:34:53",
+    "end": "00:34:58"
+  },
+  {
+    "text": "You have different team members come up with ideas.",
+    "start": "00:34:58",
+    "end": "00:34:59"
+  },
+  {
+    "text": "You start approaching these creative ways of coming up with idea and that's when you find the outliers because you tested enough.",
+    "start": "00:34:59",
+    "end": "00:35:06"
+  },
+  {
+    "text": "That's kind of like the more straightforward approach even though it's like a lot.",
+    "start": "00:35:06",
+    "end": "00:35:10"
+  },
+  {
+    "text": "You kind of have to get creative.",
+    "start": "00:35:08",
+    "end": "00:35:10"
+  },
+  {
+    "text": "The other one is something along partnerships.",
+    "start": "00:35:10",
+    "end": "00:35:12"
+  },
+  {
+    "text": "There's so much traffic, so much audiences.",
+    "start": "00:35:12",
+    "end": "00:35:15"
+  },
+  {
+    "text": "You could like buy an existing channel or audience or partner where it exists and your creative will already have a hundred times more likely chance of success.",
+    "start": "00:35:15",
+    "end": "00:35:23"
+  },
+  {
+    "text": "So this is kind of more like either a networking route, a partnership route or just kind of like you acquire this piece of asset and it might cost you the few hundred, $3,000 to like shortcut your way into having access to an audience like renting the audience or buying it that will skip all of these other steps of building it yourself to find out really quick.",
+    "start": "00:35:23",
+    "end": "00:35:41"
+  },
+  {
+    "text": "So I would say that's the a little bit more sophisticated, but then you're kind of thinking a lot more strategically on how like investors think or VCs think or kind of like on the enterprise level.",
+    "start": "00:35:41",
+    "end": "00:35:51"
+  },
+  {
+    "text": "I've done both and both have their own very fast growth labs and like trying to combine them.",
+    "start": "00:35:49",
+    "end": "00:35:55"
+  },
+  {
+    "text": "So you said 20 different creatives, $5 budget for each one.",
+    "start": "00:35:55",
+    "end": "00:36:00"
+  },
+  {
+    "text": "Is that what you said?",
+    "start": "00:36:00",
+    "end": "00:36:01"
+  },
+  {
+    "text": "Like and that's all Tik Tok.",
+    "start": "00:36:01",
+    "end": "00:36:01"
+  },
+  {
+    "text": "$20 minimum on Tik Tok.",
+    "start": "00:36:01",
+    "end": "00:36:04"
+  },
+  {
+    "text": "So then if we're talking about Tik Tok, I would go with the example where you have to like put $20 in each one, but you could turn it off after it spends $5.",
+    "start": "00:36:04",
+    "end": "00:36:11"
+  },
+  {
+    "text": "You could turn it off.",
+    "start": "00:36:11",
+    "end": "00:36:12"
+  },
+  {
+    "text": "So yes, this is actually the approach where 20 creatives $20 each.",
+    "start": "00:36:12",
+    "end": "00:36:15"
+  },
+  {
+    "text": "Turn it off halfway if you want, but now you have 20 pieces of content within hours.",
+    "start": "00:36:15",
+    "end": "00:36:20"
+  },
+  {
+    "text": "You'll know which one is an outlier.",
+    "start": "00:36:20",
+    "end": "00:36:23"
+  },
+  {
+    "text": "Even if it's not amazing, it's better than the rest.",
+    "start": "00:36:23",
+    "end": "00:36:26"
+  },
+  {
+    "text": "So that's what you have to go with.",
+    "start": "00:36:26",
+    "end": "00:36:28"
+  },
+  {
+    "text": "You instantly growth hacked into finding the one that is better than the rest.",
+    "start": "00:36:28",
+    "end": "00:36:31"
+  },
+  {
+    "text": "It's not maybe the best one, but it's like good while the rest were bad.",
+    "start": "00:36:31",
+    "end": "00:36:34"
+  },
+  {
+    "text": "So now you take that and make variations of that.",
+    "start": "00:36:34",
+    "end": "00:36:36"
+  },
+  {
+    "text": "That would be like the next phase.",
+    "start": "00:36:34",
+    "end": "00:36:38"
+  },
+  {
+    "text": "So for Tik Tok, you would do 20 creatives, $20 each.",
+    "start": "00:36:38",
+    "end": "00:36:40"
+  },
+  {
+    "text": "It would take you like a few hours to see those results.",
+    "start": "00:36:40",
+    "end": "00:36:44"
+  },
+  {
+    "text": "For Facebook, is it different?",
+    "start": "00:36:44",
+    "end": "00:36:45"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:36:45",
+    "end": "00:36:46"
+  },
+  {
+    "text": "I even go more extreme on Facebook.",
+    "start": "00:36:46",
+    "end": "00:36:48"
+  },
+  {
+    "text": "You could put lower amounts and it's just easier to duplicate and scale everything.",
+    "start": "00:36:48",
+    "end": "00:36:52"
+  },
+  {
+    "text": "So it's the same thing, but I try to have 30 40.",
+    "start": "00:36:52",
+    "end": "00:36:53"
+  },
+  {
+    "text": "So in there, you just learn much quicker.",
+    "start": "00:36:53",
+    "end": "00:36:56"
+  },
+  {
+    "text": "There's kind of like attribution issues.",
+    "start": "00:36:56",
+    "end": "00:36:58"
+  },
+  {
+    "text": "If you're trying to go down to like in this phase of growth hack, don't worry about that yet.",
+    "start": "00:36:58",
+    "end": "00:37:03"
+  },
+  {
+    "text": "It's more about as many variations as you can.",
+    "start": "00:37:03",
+    "end": "00:37:04"
+  },
+  {
+    "text": "But the example that I showed where it's the same video, many headlines or the other way, just pick the same headline, one that is generally working.",
+    "start": "00:37:04",
+    "end": "00:37:12"
+  },
+  {
+    "text": "It's getting decent click-through rates, but then change the video like that piece of content.",
+    "start": "00:37:10",
+    "end": "00:37:16"
+  },
+  {
+    "text": "Just to wrap it up, so like 30, 40 videos on Facebook and then putting as little as a dollar behind each one and you can just get instant results there and find some outliers.",
+    "start": "00:37:16",
+    "end": "00:37:27"
+  },
+  {
+    "text": "Yeah, you're going to find right away that four or five of those videos are much better than the rest.",
+    "start": "00:37:25",
+    "end": "00:37:30"
+  },
+  {
+    "text": "You're going to think, is it statistically significant or not?",
+    "start": "00:37:30",
+    "end": "00:37:33"
+  },
+  {
+    "text": "Probably not.",
+    "start": "00:37:33",
+    "end": "00:37:34"
+  },
+  {
+    "text": "But this is directional.",
+    "start": "00:37:34",
+    "end": "00:37:35"
+  },
+  {
+    "text": "Some of them will have 5 10 clicks more more than the rest.",
+    "start": "00:37:35",
+    "end": "00:37:37"
+  },
+  {
+    "text": "Then of course you increase the budget and test that and expand it further.",
+    "start": "00:37:37",
+    "end": "00:37:41"
+  },
+  {
+    "text": "That's super interesting.",
+    "start": "00:37:41",
+    "end": "00:37:44"
+  },
+  {
+    "text": "I love it.",
+    "start": "00:37:44",
+    "end": "00:37:43"
+  },
+  {
+    "text": "It's just like super rapid.",
+    "start": "00:37:43",
+    "end": "00:37:46"
+  },
+  {
+    "text": "This is like a really great road map for just super rapid testing.",
+    "start": "00:37:44",
+    "end": "00:37:49"
+  },
+  {
+    "text": "I think when most people are thinking about starting, it's like, oh, let me try five ads.",
+    "start": "00:37:49",
+    "end": "00:37:54"
+  },
+  {
+    "text": "Let's try 10 ads.",
+    "start": "00:37:52",
+    "end": "00:37:54"
+  },
+  {
+    "text": "But it's like for you, it's like, no, 40 ads on this platform, 20 ads on another platform, and just Yeah.",
+    "start": "00:37:54",
+    "end": "00:37:59"
+  },
+  {
+    "text": "Yeah, you just need to experiment as fast as possible to get those outliers.",
+    "start": "00:37:59",
+    "end": "00:38:03"
+  },
+  {
+    "text": "So, yeah.",
+    "start": "00:38:03",
+    "end": "00:38:04"
+  },
+  {
+    "text": "And the easier part is whoever's already focused on organic just amplifying existing cuz you already probably have hundreds of pieces of organic.",
+    "start": "00:38:04",
+    "end": "00:38:11"
+  },
+  {
+    "text": "Yeah, super interesting.",
+    "start": "00:38:11",
+    "end": "00:38:13"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:38:13",
+    "end": "00:38:14"
+  },
+  {
+    "text": "Thanks so much.",
+    "start": "00:38:12",
+    "end": "00:38:13"
+  },
+  {
+    "text": "Yeah, but this is great.",
+    "start": "00:38:13",
+    "end": "00:38:15"
+  },
+  {
+    "text": "All right.",
+    "start": "00:38:14",
+    "end": "00:38:15"
+  },
+  {
+    "text": "All right.",
+    "start": "00:38:15",
+    "end": "00:38:16"
+  },
+  {
+    "text": "That was Yev.",
+    "start": "00:38:16",
+    "end": "00:38:17"
+  },
+  {
+    "text": "Great conversation.",
+    "start": "00:38:15",
+    "end": "00:38:17"
+  },
+  {
+    "text": "Uh Yev is also a member of Consumer Club sponsored by Superwall.",
+    "start": "00:38:17",
+    "end": "00:38:20"
+  },
+  {
+    "text": "Consumer Club is just a place where we talk about all the the growth tactics, successful app founders and operators and growth hackers.",
+    "start": "00:38:20",
+    "end": "00:38:28"
+  },
+  {
+    "text": "Yv has been an active member for a while.",
+    "start": "00:38:28",
+    "end": "00:38:32"
+  },
+  {
+    "text": "So, it was great to have him on the pod.",
+    "start": "00:38:32",
+    "end": "00:38:32"
+  }
+]

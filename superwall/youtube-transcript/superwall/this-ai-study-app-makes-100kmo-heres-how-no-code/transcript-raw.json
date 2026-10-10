@@ -1,0 +1,3822 @@
+[
+  {
+    "text": "Today we're taking a look at how Julian",
+    "start": 0.16,
+    "duration": 4.4
+  },
+  {
+    "text": "Alvarez built Jungle, an AI study app",
+    "start": 1.92,
+    "duration": 5.919
+  },
+  {
+    "text": "doing 80K to 100K in MR, but his story",
+    "start": 4.56,
+    "duration": 4.64
+  },
+  {
+    "text": "is nothing like what you've heard",
+    "start": 7.839,
+    "duration": 3.601
+  },
+  {
+    "text": "before. His path to get to that spot",
+    "start": 9.2,
+    "duration": 4
+  },
+  {
+    "text": "will challenge almost everything you've",
+    "start": 11.44,
+    "duration": 3.625
+  },
+  {
+    "text": "heard about building consumer apps. For",
+    "start": 13.2,
+    "duration": 3.6
+  },
+  {
+    "text": "[music] the next two weeks, don't touch",
+    "start": 15.065,
+    "duration": 3.495
+  },
+  {
+    "text": "the product. Don't touch it at all. Just",
+    "start": 16.8,
+    "duration": 3.84
+  },
+  {
+    "text": "spend the next two weeks focusing purely",
+    "start": 18.56,
+    "duration": 4.479
+  },
+  {
+    "text": "on distribution. Because if you focus",
+    "start": 20.64,
+    "duration": 4.719
+  },
+  {
+    "text": "two complete weeks on distribution and",
+    "start": 23.039,
+    "duration": 4.56
+  },
+  {
+    "text": "nothing happens, [music] then no one",
+    "start": 25.359,
+    "duration": 3.76
+  },
+  {
+    "text": "probably cares about your product. You",
+    "start": 27.599,
+    "duration": 3.68
+  },
+  {
+    "text": "see, most founders obsess over whether",
+    "start": 29.119,
+    "duration": 4.641
+  },
+  {
+    "text": "to focus on product or distribution, but",
+    "start": 31.279,
+    "duration": 4.401
+  },
+  {
+    "text": "Julian's lived through both extremes.",
+    "start": 33.76,
+    "duration": 4.319
+  },
+  {
+    "text": "From mass DMing 200 people and getting",
+    "start": 35.68,
+    "duration": 4.96
+  },
+  {
+    "text": "his Twitter banned to running 40 UGC",
+    "start": 38.079,
+    "duration": 4.881
+  },
+  {
+    "text": "creators posting 400 videos per week to",
+    "start": 40.64,
+    "duration": 4.64
+  },
+  {
+    "text": "generating 150 million total views, he's",
+    "start": 42.96,
+    "duration": 3.68
+  },
+  {
+    "text": "done some crazy numbers.",
+    "start": 45.28,
+    "duration": 6.32
+  },
+  {
+    "text": ">> We went from 2K MR to like almost 15K MR",
+    "start": 46.64,
+    "duration": 6.96
+  },
+  {
+    "text": "within like a week or two. [music] And",
+    "start": 51.6,
+    "duration": 4
+  },
+  {
+    "text": "that video alone, I think we estimate",
+    "start": 53.6,
+    "duration": 4.639
+  },
+  {
+    "text": "made us like close to 20K or so. And",
+    "start": 55.6,
+    "duration": 4.479
+  },
+  {
+    "text": "when one video from a micro influencer",
+    "start": 58.239,
+    "duration": 4.401
+  },
+  {
+    "text": "made them $20,000, Julian thought he'd",
+    "start": 60.079,
+    "duration": 4.4
+  },
+  {
+    "text": "cracked the code. But when he tried to",
+    "start": 62.64,
+    "duration": 3.68
+  },
+  {
+    "text": "replicate it, something unexpected",
+    "start": 64.479,
+    "duration": 3.841
+  },
+  {
+    "text": "happened. The strategy that seemed like",
+    "start": 66.32,
+    "duration": 3.76
+  },
+  {
+    "text": "an infinite growth hack turns out to be",
+    "start": 68.32,
+    "duration": 3.68
+  },
+  {
+    "text": "far more complex than he thought. But",
+    "start": 70.08,
+    "duration": 3.92
+  },
+  {
+    "text": "that's what makes Julian's insights so",
+    "start": 72,
+    "duration": 4
+  },
+  {
+    "text": "valuable. He's super honest about what",
+    "start": 74,
+    "duration": 3.92
+  },
+  {
+    "text": "did and didn't work. So today, he's",
+    "start": 76,
+    "duration": 3.36
+  },
+  {
+    "text": "breaking down why their influencer",
+    "start": 77.92,
+    "duration": 3.199
+  },
+  {
+    "text": "strategy eventually failed, the",
+    "start": 79.36,
+    "duration": 3.52
+  },
+  {
+    "text": "saturation problem killing traditional",
+    "start": 81.119,
+    "duration": 4.081
+  },
+  {
+    "text": "UGC right now, and why consumers are",
+    "start": 82.88,
+    "duration": 4.08
+  },
+  {
+    "text": "starting to catch on to inauthentic",
+    "start": 85.2,
+    "duration": 4.88
+  },
+  {
+    "text": "content. This sort of traditional UGC",
+    "start": 86.96,
+    "duration": 5.119
+  },
+  {
+    "text": "strategy is a growth hack. [music] And",
+    "start": 90.08,
+    "duration": 4.079
+  },
+  {
+    "text": "hacks of any sort are temporary. Like",
+    "start": 92.079,
+    "duration": 3.68
+  },
+  {
+    "text": "they won't work forever. And that's",
+    "start": 94.159,
+    "duration": 3.681
+  },
+  {
+    "text": "because by nature, a growth hack",
+    "start": 95.759,
+    "duration": 3.921
+  },
+  {
+    "text": "exploits a gap in the market. And",
+    "start": 97.84,
+    "duration": 3.84
+  },
+  {
+    "text": "eventually those gaps end up getting",
+    "start": 99.68,
+    "duration": 3.759
+  },
+  {
+    "text": "filled. And we go deep on when",
+    "start": 101.68,
+    "duration": 3.439
+  },
+  {
+    "text": "short-term optimization makes sense",
+    "start": 103.439,
+    "duration": 4.161
+  },
+  {
+    "text": "versus long-term plays, why retention is",
+    "start": 105.119,
+    "duration": 4.96
+  },
+  {
+    "text": "10 to 100 times harder to move than top",
+    "start": 107.6,
+    "duration": 4.64
+  },
+  {
+    "text": "of funnel, and his contrarian take on",
+    "start": 110.079,
+    "duration": 3.921
+  },
+  {
+    "text": "whether bootstrap founders can actually",
+    "start": 112.24,
+    "duration": 3.44
+  },
+  {
+    "text": "afford to focus on retention. But that's",
+    "start": 114,
+    "duration": 3.2
+  },
+  {
+    "text": "enough of me just telling you about it.",
+    "start": 115.68,
+    "duration": 3.039
+  },
+  {
+    "text": "Let's get into the meat. I'm your host,",
+    "start": 117.2,
+    "duration": 3.36
+  },
+  {
+    "text": "Joseph Choy, founder of Consumer Club.",
+    "start": 118.719,
+    "duration": 3.201
+  },
+  {
+    "text": "For those who don't know, this interview",
+    "start": 120.56,
+    "duration": 2.879
+  },
+  {
+    "text": "is brought to you by Superwall, the",
+    "start": 121.92,
+    "duration": 3.28
+  },
+  {
+    "text": "all-in-one platform for paywall",
+    "start": 123.439,
+    "duration": 3.521
+  },
+  {
+    "text": "management and revenue analytics for",
+    "start": 125.2,
+    "duration": 3.44
+  },
+  {
+    "text": "your mobile apps. Let's get into it. To",
+    "start": 126.96,
+    "duration": 3.519
+  },
+  {
+    "text": "start out, tell me about Jungle.",
+    "start": 128.64,
+    "duration": 4
+  },
+  {
+    "text": ">> Yeah, so Jungle is an AI learning",
+    "start": 130.479,
+    "duration": 4.321
+  },
+  {
+    "text": "platform for students. It's kind of like",
+    "start": 132.64,
+    "duration": 4.88
+  },
+  {
+    "text": "a Quizlet with AI where you can upload",
+    "start": 134.8,
+    "duration": 5.12
+  },
+  {
+    "text": "anything you want to learn like a PDF,",
+    "start": 137.52,
+    "duration": 4.4
+  },
+  {
+    "text": "your lecture slides, a YouTube video,",
+    "start": 139.92,
+    "duration": 4.16
+  },
+  {
+    "text": "anything like that. And then we'll use",
+    "start": 141.92,
+    "duration": 4.64
+  },
+  {
+    "text": "that to generate practice questions of",
+    "start": 144.08,
+    "duration": 3.92
+  },
+  {
+    "text": "different sorts. Multiple choice",
+    "start": 146.56,
+    "duration": 3.28
+  },
+  {
+    "text": "questions, flashcards, open-ended",
+    "start": 148,
+    "duration": 4.319
+  },
+  {
+    "text": "questions of different difficulties. And",
+    "start": 149.84,
+    "duration": 5.119
+  },
+  {
+    "text": "it's also gified like Dualingo as you",
+    "start": 152.319,
+    "duration": 4.321
+  },
+  {
+    "text": "can kind of see like from the vibe of",
+    "start": 154.959,
+    "duration": 3.201
+  },
+  {
+    "text": "it. The whole idea is like how do we",
+    "start": 156.64,
+    "duration": 3.679
+  },
+  {
+    "text": "make effective active learning for",
+    "start": 158.16,
+    "duration": 5.359
+  },
+  {
+    "text": "students really easy and also really fun",
+    "start": 160.319,
+    "duration": 4.801
+  },
+  {
+    "text": "because it turns out that one of the",
+    "start": 163.519,
+    "duration": 3.121
+  },
+  {
+    "text": "biggest problems for students isn't",
+    "start": 165.12,
+    "duration": 3.839
+  },
+  {
+    "text": "always like learning efficacy or how",
+    "start": 166.64,
+    "duration": 4
+  },
+  {
+    "text": "effective their studying is. It's more",
+    "start": 168.959,
+    "duration": 3.441
+  },
+  {
+    "text": "so their motivation to show up every day",
+    "start": 170.64,
+    "duration": 3.599
+  },
+  {
+    "text": "and be consistent. And one of the most",
+    "start": 172.4,
+    "duration": 3.28
+  },
+  {
+    "text": "beautiful things about what we're doing",
+    "start": 174.239,
+    "duration": 3.681
+  },
+  {
+    "text": "is not just making learning effective",
+    "start": 175.68,
+    "duration": 4.32
+  },
+  {
+    "text": "with AI and learning science, but also",
+    "start": 177.92,
+    "duration": 3.92
+  },
+  {
+    "text": "making it really fun so that people can",
+    "start": 180,
+    "duration": 3.84
+  },
+  {
+    "text": "fall in love with learning as school",
+    "start": 181.84,
+    "duration": 3.679
+  },
+  {
+    "text": "originally do, but doesn't do a great",
+    "start": 183.84,
+    "duration": 2.24
+  },
+  {
+    "text": "job at.",
+    "start": 185.519,
+    "duration": 2.241
+  },
+  {
+    "text": ">> That's really cool. How much money is",
+    "start": 186.08,
+    "duration": 2.72
+  },
+  {
+    "text": "Jungle making right now?",
+    "start": 187.76,
+    "duration": 4.32
+  },
+  {
+    "text": ">> We are making around like 80 to 100K a",
+    "start": 188.8,
+    "duration": 3.6
+  },
+  {
+    "text": "month.",
+    "start": 192.08,
+    "duration": 2.64
+  },
+  {
+    "text": ">> How did you initially get started",
+    "start": 192.4,
+    "duration": 4.4
+  },
+  {
+    "text": "getting your first downloads and",
+    "start": 194.72,
+    "duration": 4.159
+  },
+  {
+    "text": "revenue? My co-founder David and I,",
+    "start": 196.8,
+    "duration": 4.079
+  },
+  {
+    "text": "we've been like obsessed with learning",
+    "start": 198.879,
+    "duration": 4.881
+  },
+  {
+    "text": "education and we had been doing like a",
+    "start": 200.879,
+    "duration": 4.72
+  },
+  {
+    "text": "lot of pivots previously, but when AI",
+    "start": 203.76,
+    "duration": 3.52
+  },
+  {
+    "text": "came into the picture, we're like, \"Wow,",
+    "start": 205.599,
+    "duration": 3.201
+  },
+  {
+    "text": "this is like a huge opportunity to",
+    "start": 207.28,
+    "duration": 4.56
+  },
+  {
+    "text": "reimagine what uh learning and education",
+    "start": 208.8,
+    "duration": 5.2
+  },
+  {
+    "text": "could look like.\" And we were looking",
+    "start": 211.84,
+    "duration": 3.92
+  },
+  {
+    "text": "for an idea because we had pivoted like",
+    "start": 214,
+    "duration": 3.519
+  },
+  {
+    "text": "four or five times. Nothing was working.",
+    "start": 215.76,
+    "duration": 3.92
+  },
+  {
+    "text": "We had like 3 months of runway and we",
+    "start": 217.519,
+    "duration": 4.08
+  },
+  {
+    "text": "needed something that would work right",
+    "start": 219.68,
+    "duration": 4.96
+  },
+  {
+    "text": "now basically. And we saw this tweet",
+    "start": 221.599,
+    "duration": 4.961
+  },
+  {
+    "text": "someone put out that went viral where",
+    "start": 224.64,
+    "duration": 4.159
+  },
+  {
+    "text": "they basically said, \"My dream AI",
+    "start": 226.56,
+    "duration": 3.84
+  },
+  {
+    "text": "product would be to take anything I'm",
+    "start": 228.799,
+    "duration": 3.761
+  },
+  {
+    "text": "learning and to generate flashc cards",
+    "start": 230.4,
+    "duration": 4.16
+  },
+  {
+    "text": "with it using AI.\" That tweet blew up",
+    "start": 232.56,
+    "duration": 3.759
+  },
+  {
+    "text": "and I commented saying we were building",
+    "start": 234.56,
+    "duration": 3.44
+  },
+  {
+    "text": "like something similar, which we were",
+    "start": 236.319,
+    "duration": 3.2
+  },
+  {
+    "text": "building something tangentially similar,",
+    "start": 238,
+    "duration": 3.12
+  },
+  {
+    "text": "but not the exact same thing. But",
+    "start": 239.519,
+    "duration": 3.44
+  },
+  {
+    "text": "basically, I got like over 200",
+    "start": 241.12,
+    "duration": 5.119
+  },
+  {
+    "text": "downloads, over 50, 200 DMs, and",
+    "start": 242.959,
+    "duration": 5.121
+  },
+  {
+    "text": "basically just like a lot of interest in",
+    "start": 246.239,
+    "duration": 3.2
+  },
+  {
+    "text": "this. and it felt like the perfect",
+    "start": 248.08,
+    "duration": 3.68
+  },
+  {
+    "text": "opportunity for us to take advantage of",
+    "start": 249.439,
+    "duration": 4.321
+  },
+  {
+    "text": "in a space that we really cared about.",
+    "start": 251.76,
+    "duration": 4.56
+  },
+  {
+    "text": "And we basically got our first 100 users",
+    "start": 253.76,
+    "duration": 5.52
+  },
+  {
+    "text": "by DMing everyone that engaged with that",
+    "start": 256.32,
+    "duration": 4.72
+  },
+  {
+    "text": "tweet. So much to the point that my",
+    "start": 259.28,
+    "duration": 3.6
+  },
+  {
+    "text": "Twitter account got banned, which was",
+    "start": 261.04,
+    "duration": 4.64
+  },
+  {
+    "text": "really sad. From there on, like we had",
+    "start": 262.88,
+    "duration": 4.72
+  },
+  {
+    "text": "content creators pick it up and start",
+    "start": 265.68,
+    "duration": 3.519
+  },
+  {
+    "text": "creating videos about it. And then we",
+    "start": 267.6,
+    "duration": 4.48
+  },
+  {
+    "text": "posted our thing on AI tool directories,",
+    "start": 269.199,
+    "duration": 4.881
+  },
+  {
+    "text": "kind of like future tools, for example.",
+    "start": 272.08,
+    "duration": 4.8
+  },
+  {
+    "text": "And then finally getting to 10,000 plus",
+    "start": 274.08,
+    "duration": 4.48
+  },
+  {
+    "text": "ended up coming from influencer",
+    "start": 276.88,
+    "duration": 2.96
+  },
+  {
+    "text": "marketing. And we did influencer",
+    "start": 278.56,
+    "duration": 2.639
+  },
+  {
+    "text": "marketing as kind of like our growth",
+    "start": 279.84,
+    "duration": 3.2
+  },
+  {
+    "text": "strategy for quite some time.",
+    "start": 281.199,
+    "duration": 3.761
+  },
+  {
+    "text": ">> Yeah. It seems like you've done every",
+    "start": 283.04,
+    "duration": 5.2
+  },
+  {
+    "text": "stage of growth from mass DMing things",
+    "start": 284.96,
+    "duration": 5.36
+  },
+  {
+    "text": "that don't scale to everyone who likes",
+    "start": 288.24,
+    "duration": 4.72
+  },
+  {
+    "text": "to tweet all the way to like mass scale",
+    "start": 290.32,
+    "duration": 5.599
+  },
+  {
+    "text": "UGC programs. AI tool directory. Do you",
+    "start": 292.96,
+    "duration": 4.64
+  },
+  {
+    "text": "feel like that's still a big thing",
+    "start": 295.919,
+    "duration": 2.161
+  },
+  {
+    "text": "today?",
+    "start": 297.6,
+    "duration": 2.96
+  },
+  {
+    "text": ">> Probably not. I think I would still try",
+    "start": 298.08,
+    "duration": 5.6
+  },
+  {
+    "text": "to post the tool there, but my guess",
+    "start": 300.56,
+    "duration": 4.8
+  },
+  {
+    "text": "would be that they're probably",
+    "start": 303.68,
+    "duration": 4.32
+  },
+  {
+    "text": "oversaturated by now. Actually, like the",
+    "start": 305.36,
+    "duration": 4.96
+  },
+  {
+    "text": "more important sort of advice that I got",
+    "start": 308,
+    "duration": 4.32
+  },
+  {
+    "text": "when I first launched, my co-founder,",
+    "start": 310.32,
+    "duration": 4.08
+  },
+  {
+    "text": "David and I were very product oriented.",
+    "start": 312.32,
+    "duration": 4.159
+  },
+  {
+    "text": "He's kind of more designer, product",
+    "start": 314.4,
+    "duration": 4.48
+  },
+  {
+    "text": "thinker. I'm more of a technical person.",
+    "start": 316.479,
+    "duration": 4.56
+  },
+  {
+    "text": "And so marketing and growth wasn't",
+    "start": 318.88,
+    "duration": 3.759
+  },
+  {
+    "text": "really like a natural thing for us. It",
+    "start": 321.039,
+    "duration": 3.281
+  },
+  {
+    "text": "wasn't the thing we gravitated towards.",
+    "start": 322.639,
+    "duration": 4
+  },
+  {
+    "text": "One of our mentors told us that when we",
+    "start": 324.32,
+    "duration": 3.84
+  },
+  {
+    "text": "first launched, he was like, \"Okay,",
+    "start": 326.639,
+    "duration": 3.601
+  },
+  {
+    "text": "great. You launch.\" Now, for the next",
+    "start": 328.16,
+    "duration": 4.4
+  },
+  {
+    "text": "two weeks, don't touch the product. Just",
+    "start": 330.24,
+    "duration": 4.48
+  },
+  {
+    "text": "spend the next two weeks focusing purely",
+    "start": 332.56,
+    "duration": 4.96
+  },
+  {
+    "text": "on distribution and nothing happens,",
+    "start": 334.72,
+    "duration": 4.56
+  },
+  {
+    "text": "then no one probably cares about your",
+    "start": 337.52,
+    "duration": 3.04
+  },
+  {
+    "text": "product and you should probably pivot.",
+    "start": 339.28,
+    "duration": 3.04
+  },
+  {
+    "text": "And for us, it was like there's a truth",
+    "start": 340.56,
+    "duration": 3.28
+  },
+  {
+    "text": "to that, but there was also a mindset",
+    "start": 342.32,
+    "duration": 3.36
+  },
+  {
+    "text": "shift that came with it. as a product",
+    "start": 343.84,
+    "duration": 3.919
+  },
+  {
+    "text": "person or as a technical person, you're",
+    "start": 345.68,
+    "duration": 3.76
+  },
+  {
+    "text": "always kind of like trying to think of",
+    "start": 347.759,
+    "duration": 3.521
+  },
+  {
+    "text": "like, oh, but there's this bug, there's",
+    "start": 349.44,
+    "duration": 3.52
+  },
+  {
+    "text": "this like thing we could add, this",
+    "start": 351.28,
+    "duration": 3.04
+  },
+  {
+    "text": "feature that we think would make a",
+    "start": 352.96,
+    "duration": 3.04
+  },
+  {
+    "text": "meaningful difference. And it's easy to",
+    "start": 354.32,
+    "duration": 4.24
+  },
+  {
+    "text": "get into this sort of like rat race. I",
+    "start": 356,
+    "duration": 4.56
+  },
+  {
+    "text": "think early on, you got to figure out a",
+    "start": 358.56,
+    "duration": 5.04
+  },
+  {
+    "text": "way to consistently get at least 30 to",
+    "start": 360.56,
+    "duration": 5.12
+  },
+  {
+    "text": "100 people in the door per week.",
+    "start": 363.6,
+    "duration": 4.719
+  },
+  {
+    "text": "Ideally, a lot more, but at a minimum,",
+    "start": 365.68,
+    "duration": 5.04
+  },
+  {
+    "text": "like that amount, so that whenever you",
+    "start": 368.319,
+    "duration": 4.32
+  },
+  {
+    "text": "do release things or try different",
+    "start": 370.72,
+    "duration": 4.16
+  },
+  {
+    "text": "experiments out, you're able to at least",
+    "start": 372.639,
+    "duration": 4.641
+  },
+  {
+    "text": "get some sort of meaningful number of",
+    "start": 374.88,
+    "duration": 4.08
+  },
+  {
+    "text": "users trying it out to see if it",
+    "start": 377.28,
+    "duration": 2.56
+  },
+  {
+    "text": "actually works.",
+    "start": 378.96,
+    "duration": 3.44
+  },
+  {
+    "text": ">> So, after you took that advice and hey,",
+    "start": 379.84,
+    "duration": 5.12
+  },
+  {
+    "text": "let's just focus 2 weeks laser in on",
+    "start": 382.4,
+    "duration": 4.32
+  },
+  {
+    "text": "distribution, do you remember what the",
+    "start": 384.96,
+    "duration": 3.679
+  },
+  {
+    "text": "first kind of breakthrough moment was",
+    "start": 386.72,
+    "duration": 3.759
+  },
+  {
+    "text": "where you actually started to see some",
+    "start": 388.639,
+    "duration": 4.321
+  },
+  {
+    "text": "traction? Well, it was interesting the",
+    "start": 390.479,
+    "duration": 4.72
+  },
+  {
+    "text": "DMing hundreds of people to try the",
+    "start": 392.96,
+    "duration": 4.799
+  },
+  {
+    "text": "product. That was not the most effective",
+    "start": 395.199,
+    "duration": 4.401
+  },
+  {
+    "text": "way to grow, but it was a really",
+    "start": 397.759,
+    "duration": 3.841
+  },
+  {
+    "text": "effective way to get feedback because",
+    "start": 399.6,
+    "duration": 4
+  },
+  {
+    "text": "you're already opening a one-on-one like",
+    "start": 401.6,
+    "duration": 4.159
+  },
+  {
+    "text": "channel of communication. So, it's",
+    "start": 403.6,
+    "duration": 4
+  },
+  {
+    "text": "basically a lot easier for someone to",
+    "start": 405.759,
+    "duration": 3.841
+  },
+  {
+    "text": "share feedback through that versus if",
+    "start": 407.6,
+    "duration": 4
+  },
+  {
+    "text": "someone found your thing through TikTok.",
+    "start": 409.6,
+    "duration": 3.599
+  },
+  {
+    "text": "Like, there's not a direct channel of",
+    "start": 411.6,
+    "duration": 3.439
+  },
+  {
+    "text": "communication open. That was a really",
+    "start": 413.199,
+    "duration": 3.761
+  },
+  {
+    "text": "great way to get a lot of feedback early",
+    "start": 415.039,
+    "duration": 3.841
+  },
+  {
+    "text": "on, that one-on-one sort of marketing",
+    "start": 416.96,
+    "duration": 4
+  },
+  {
+    "text": "tactic. and then posting on the AI tool",
+    "start": 418.88,
+    "duration": 3.68
+  },
+  {
+    "text": "directories and having it get picked up",
+    "start": 420.96,
+    "duration": 3.28
+  },
+  {
+    "text": "by some influencers. There were some",
+    "start": 422.56,
+    "duration": 3.6
+  },
+  {
+    "text": "videos that started to go a little bit",
+    "start": 424.24,
+    "duration": 4
+  },
+  {
+    "text": "viral and that got a lot of people into",
+    "start": 426.16,
+    "duration": 3.92
+  },
+  {
+    "text": "the door just kind of gave us more",
+    "start": 428.24,
+    "duration": 3.359
+  },
+  {
+    "text": "validation on what we were building",
+    "start": 430.08,
+    "duration": 3.44
+  },
+  {
+    "text": "early on. So, was that almost like an",
+    "start": 431.599,
+    "duration": 4.401
+  },
+  {
+    "text": "early signal like you randomly posted on",
+    "start": 433.52,
+    "duration": 4.16
+  },
+  {
+    "text": "these directories hoping to get some",
+    "start": 436,
+    "duration": 4.319
+  },
+  {
+    "text": "users but then by chance people just",
+    "start": 437.68,
+    "duration": 4.48
+  },
+  {
+    "text": "influencers started mentioning you.",
+    "start": 440.319,
+    "duration": 3.841
+  },
+  {
+    "text": "Those posts did really well and then is",
+    "start": 442.16,
+    "duration": 3.439
+  },
+  {
+    "text": "that when you kind of realize like oh",
+    "start": 444.16,
+    "duration": 3.039
+  },
+  {
+    "text": "actually these posts by these",
+    "start": 445.599,
+    "duration": 3.201
+  },
+  {
+    "text": "influencers are doing well. maybe we",
+    "start": 447.199,
+    "duration": 2.961
+  },
+  {
+    "text": "should do influencer marketing.",
+    "start": 448.8,
+    "duration": 3.04
+  },
+  {
+    "text": ">> I think that was the natural sequence of",
+    "start": 450.16,
+    "duration": 3.12
+  },
+  {
+    "text": "thoughts where it's like, well, these",
+    "start": 451.84,
+    "duration": 3.12
+  },
+  {
+    "text": "people are organically making videos",
+    "start": 453.28,
+    "duration": 3.44
+  },
+  {
+    "text": "about us, but obviously that's limited",
+    "start": 454.96,
+    "duration": 3.44
+  },
+  {
+    "text": "in its [music] power and the number of",
+    "start": 456.72,
+    "duration": 3.28
+  },
+  {
+    "text": "people that would do it, especially",
+    "start": 458.4,
+    "duration": 4.239
+  },
+  {
+    "text": "after the newness factor of your app",
+    "start": 460,
+    "duration": 4.72
+  },
+  {
+    "text": "sort of dies down. I think also, by the",
+    "start": 462.639,
+    "duration": 3.521
+  },
+  {
+    "text": "way, the reason like influencers",
+    "start": 464.72,
+    "duration": 3.44
+  },
+  {
+    "text": "organically made videos is because it",
+    "start": 466.16,
+    "duration": 4.24
+  },
+  {
+    "text": "was like a pretty novel concept and cool",
+    "start": 468.16,
+    "duration": 4.72
+  },
+  {
+    "text": "idea at the time, like AI generated",
+    "start": 470.4,
+    "duration": 4.32
+  },
+  {
+    "text": "flashcards. Now, it feels like something",
+    "start": 472.88,
+    "duration": 3.439
+  },
+  {
+    "text": "that's very generic or not that",
+    "start": 474.72,
+    "duration": 3.28
+  },
+  {
+    "text": "exciting. So yeah, there's like a",
+    "start": 476.319,
+    "duration": 3.121
+  },
+  {
+    "text": "newness factor that makes it pretty",
+    "start": 478,
+    "duration": 2.319
+  },
+  {
+    "text": "interesting and fun.",
+    "start": 479.44,
+    "duration": 2.64
+  },
+  {
+    "text": ">> So then how did you do influencer",
+    "start": 480.319,
+    "duration": 3.041
+  },
+  {
+    "text": "marketing? Can you just walk through",
+    "start": 482.08,
+    "duration": 2.399
+  },
+  {
+    "text": "that strategy?",
+    "start": 483.36,
+    "duration": 2.559
+  },
+  {
+    "text": ">> Yeah, I mean we didn't really know what",
+    "start": 484.479,
+    "duration": 3.28
+  },
+  {
+    "text": "we were doing at the beginning or how it",
+    "start": 485.919,
+    "duration": 4
+  },
+  {
+    "text": "worked, but I think it was just",
+    "start": 487.759,
+    "duration": 4.641
+  },
+  {
+    "text": "basically finding influencers that were",
+    "start": 489.919,
+    "duration": 4.481
+  },
+  {
+    "text": "in our niche like the study space, study",
+    "start": 492.4,
+    "duration": 4.32
+  },
+  {
+    "text": "talk, and trying to get them to post",
+    "start": 494.4,
+    "duration": 5.04
+  },
+  {
+    "text": "videos. I think the like more advanced",
+    "start": 496.72,
+    "duration": 4.64
+  },
+  {
+    "text": "strategy that we ended up getting to",
+    "start": 499.44,
+    "duration": 5.039
+  },
+  {
+    "text": "after a couple iterations is target",
+    "start": 501.36,
+    "duration": 5.44
+  },
+  {
+    "text": "micro to mid-tier influencers like in",
+    "start": 504.479,
+    "duration": 6.241
+  },
+  {
+    "text": "the 5k to 100k followers range because",
+    "start": 506.8,
+    "duration": 7.039
+  },
+  {
+    "text": "the ROI and the CPMs at that time I",
+    "start": 510.72,
+    "duration": 4.799
+  },
+  {
+    "text": "think are a lot better versus like if",
+    "start": 513.839,
+    "duration": 3.76
+  },
+  {
+    "text": "you get really big influencers they're a",
+    "start": 515.519,
+    "duration": 3.76
+  },
+  {
+    "text": "lot more expensive. You know they don't",
+    "start": 517.599,
+    "duration": 3.201
+  },
+  {
+    "text": "always work out well so you're kind of",
+    "start": 519.279,
+    "duration": 3.521
+  },
+  {
+    "text": "gambling. But with the micro influencers",
+    "start": 520.8,
+    "duration": 3.68
+  },
+  {
+    "text": "it was like better guarantee that you",
+    "start": 522.8,
+    "duration": 3.68
+  },
+  {
+    "text": "would get a better ROI. The downside is",
+    "start": 524.48,
+    "duration": 3.68
+  },
+  {
+    "text": "that it's a lot more effort cuz you're",
+    "start": 526.48,
+    "duration": 3.359
+  },
+  {
+    "text": "reaching out to a lot more people.",
+    "start": 528.16,
+    "duration": 4.08
+  },
+  {
+    "text": "There's a lot in the process around,",
+    "start": 529.839,
+    "duration": 4.401
+  },
+  {
+    "text": "hey, try to do like a three or a multi-",
+    "start": 532.24,
+    "duration": 3.92
+  },
+  {
+    "text": "video deal in order to get like lower",
+    "start": 534.24,
+    "duration": 4.64
+  },
+  {
+    "text": "cost per video. And on top of that, like",
+    "start": 536.16,
+    "duration": 5.76
+  },
+  {
+    "text": "how do we best equip content and a sort",
+    "start": 538.88,
+    "duration": 5.68
+  },
+  {
+    "text": "of like plan to an influencer that sort",
+    "start": 541.92,
+    "duration": 4.96
+  },
+  {
+    "text": "of educates them on the pain points on",
+    "start": 544.56,
+    "duration": 4.32
+  },
+  {
+    "text": "viral hooks that have gone well, but",
+    "start": 546.88,
+    "duration": 3.519
+  },
+  {
+    "text": "also give them the creative freedom to",
+    "start": 548.88,
+    "duration": 3.36
+  },
+  {
+    "text": "express themselves. I think there was a",
+    "start": 550.399,
+    "duration": 3.761
+  },
+  {
+    "text": "a lot that we experimented with and",
+    "start": 552.24,
+    "duration": 3.92
+  },
+  {
+    "text": "finding the ideal balance between",
+    "start": 554.16,
+    "duration": 3.92
+  },
+  {
+    "text": "guiding and giving the best material",
+    "start": 556.16,
+    "duration": 3.84
+  },
+  {
+    "text": "possible to the influencers while also",
+    "start": 558.08,
+    "duration": 3.439
+  },
+  {
+    "text": "creating enough space for them to be",
+    "start": 560,
+    "duration": 3.36
+  },
+  {
+    "text": "creative and create things in the",
+    "start": 561.519,
+    "duration": 4.721
+  },
+  {
+    "text": "content style that best fits their own",
+    "start": 563.36,
+    "duration": 3.36
+  },
+  {
+    "text": "page.",
+    "start": 566.24,
+    "duration": 2.08
+  },
+  {
+    "text": ">> It seems like when you're working with",
+    "start": 566.72,
+    "duration": 3.52
+  },
+  {
+    "text": "micro influencers and you there's this",
+    "start": 568.32,
+    "duration": 3.68
+  },
+  {
+    "text": "concept of the brief, like you can't",
+    "start": 570.24,
+    "duration": 3.84
+  },
+  {
+    "text": "just have them make whatever video they",
+    "start": 572,
+    "duration": 4.24
+  },
+  {
+    "text": "want. You're kind of looking at good",
+    "start": 574.08,
+    "duration": 4
+  },
+  {
+    "text": "formats that have gone viral already",
+    "start": 576.24,
+    "duration": 3.68
+  },
+  {
+    "text": "within the niche. How did you actually",
+    "start": 578.08,
+    "duration": 3.84
+  },
+  {
+    "text": "think about that balance? I'm curious",
+    "start": 579.92,
+    "duration": 4.24
+  },
+  {
+    "text": "like what that strategy was between",
+    "start": 581.92,
+    "duration": 4.64
+  },
+  {
+    "text": "giving the influencer complete creative",
+    "start": 584.16,
+    "duration": 4.88
+  },
+  {
+    "text": "freedom versus saying here's actually",
+    "start": 586.56,
+    "duration": 4.399
+  },
+  {
+    "text": "how to make a video that'll convert to",
+    "start": 589.04,
+    "duration": 3.919
+  },
+  {
+    "text": "actual users. Yeah, there's a delicate",
+    "start": 590.959,
+    "duration": 3.44
+  },
+  {
+    "text": "balance. I think we have more of a",
+    "start": 592.959,
+    "duration": 2.721
+  },
+  {
+    "text": "benefit in that many of these",
+    "start": 594.399,
+    "duration": 2.801
+  },
+  {
+    "text": "influencers tend to be students",
+    "start": 595.68,
+    "duration": 3.04
+  },
+  {
+    "text": "themselves. So like they get it, they",
+    "start": 597.2,
+    "duration": 3.36
+  },
+  {
+    "text": "get the pain points, but at the same",
+    "start": 598.72,
+    "duration": 3.84
+  },
+  {
+    "text": "time they may not because they may know",
+    "start": 600.56,
+    "duration": 3.44
+  },
+  {
+    "text": "them, but they may not be consciously",
+    "start": 602.56,
+    "duration": 3.12
+  },
+  {
+    "text": "aware of them or how to talk about them.",
+    "start": 604,
+    "duration": 3.839
+  },
+  {
+    "text": "So, you want to provide like examples of",
+    "start": 605.68,
+    "duration": 4.159
+  },
+  {
+    "text": "videos that have performed really well",
+    "start": 607.839,
+    "duration": 4.721
+  },
+  {
+    "text": "or examples of viral hooks that they",
+    "start": 609.839,
+    "duration": 4.721
+  },
+  {
+    "text": "could potentially use. And of course,",
+    "start": 612.56,
+    "duration": 3.44
+  },
+  {
+    "text": "like give them feedback wherever",
+    "start": 614.56,
+    "duration": 3.44
+  },
+  {
+    "text": "feedback is warranted in order to to",
+    "start": 616,
+    "duration": 3.839
+  },
+  {
+    "text": "make it good. But it is hard cuz you",
+    "start": 618,
+    "duration": 3.68
+  },
+  {
+    "text": "have to train your own content intuition",
+    "start": 619.839,
+    "duration": 4
+  },
+  {
+    "text": "to know what works well. And this is a",
+    "start": 621.68,
+    "duration": 3.92
+  },
+  {
+    "text": "skill that neither my co-founder and I",
+    "start": 623.839,
+    "duration": 4.161
+  },
+  {
+    "text": "had. So I think like we have to sort of",
+    "start": 625.6,
+    "duration": 4.479
+  },
+  {
+    "text": "make content ourselves and really study",
+    "start": 628,
+    "duration": 4.88
+  },
+  {
+    "text": "content in order to develop good enough",
+    "start": 630.079,
+    "duration": 5.521
+  },
+  {
+    "text": "intuitions that would allow us to",
+    "start": 632.88,
+    "duration": 4.959
+  },
+  {
+    "text": "basically better guide and better vet",
+    "start": 635.6,
+    "duration": 4.16
+  },
+  {
+    "text": "the quality of any influencers we worked",
+    "start": 637.839,
+    "duration": 2.321
+  },
+  {
+    "text": "with.",
+    "start": 639.76,
+    "duration": 2.16
+  },
+  {
+    "text": ">> Yeah, I feel like it's actually like",
+    "start": 640.16,
+    "duration": 3.2
+  },
+  {
+    "text": "people like to over complicate it, but",
+    "start": 641.92,
+    "duration": 2.96
+  },
+  {
+    "text": "it's like anyone can literally make a",
+    "start": 643.36,
+    "duration": 3.12
+  },
+  {
+    "text": "TikTok. It's just your phone. You just",
+    "start": 644.88,
+    "duration": 3.6
+  },
+  {
+    "text": "record your face, talk to the camera, or",
+    "start": 646.48,
+    "duration": 3.76
+  },
+  {
+    "text": "just find a video that's doing well and",
+    "start": 648.48,
+    "duration": 4.4
+  },
+  {
+    "text": "just try to replicate it. But I remember",
+    "start": 650.24,
+    "duration": 4.48
+  },
+  {
+    "text": "this whole strategy has stuck in my mind",
+    "start": 652.88,
+    "duration": 4
+  },
+  {
+    "text": "for the past few years of knowing you",
+    "start": 654.72,
+    "duration": 3.52
+  },
+  {
+    "text": "guys. This is one of the first times",
+    "start": 656.88,
+    "duration": 3.68
+  },
+  {
+    "text": "that my mind was completely blown of",
+    "start": 658.24,
+    "duration": 4.08
+  },
+  {
+    "text": "like you can do micro influencer",
+    "start": 660.56,
+    "duration": 4.959
+  },
+  {
+    "text": "marketing and hit some big numbers with",
+    "start": 662.32,
+    "duration": 5.84
+  },
+  {
+    "text": "consumer apps. Was this like the first",
+    "start": 665.519,
+    "duration": 4.641
+  },
+  {
+    "text": "breakout video, would you say?",
+    "start": 668.16,
+    "duration": 5.52
+  },
+  {
+    "text": ">> Yeah, this um influencer uh Agogo, she's",
+    "start": 670.16,
+    "duration": 5.52
+  },
+  {
+    "text": "amazing. She makes really good content.",
+    "start": 673.68,
+    "duration": 4.159
+  },
+  {
+    "text": "She's in medical school, which is like",
+    "start": 675.68,
+    "duration": 4.159
+  },
+  {
+    "text": "in her niche of like the biggest power",
+    "start": 677.839,
+    "duration": 2.721
+  },
+  {
+    "text": "user. [music]",
+    "start": 679.839,
+    "duration": 3.44
+  },
+  {
+    "text": "And the quality of content she makes is",
+    "start": 680.56,
+    "duration": 4.8
+  },
+  {
+    "text": "just incredible. She like perfectly",
+    "start": 683.279,
+    "duration": 3.68
+  },
+  {
+    "text": "touched on the pain points in these",
+    "start": 685.36,
+    "duration": 3.2
+  },
+  {
+    "text": "videos, like had really good",
+    "start": 686.959,
+    "duration": 3.601
+  },
+  {
+    "text": "storytelling narrative, showed the",
+    "start": 688.56,
+    "duration": 5.04
+  },
+  {
+    "text": "product in a really compelling way. And",
+    "start": 690.56,
+    "duration": 6
+  },
+  {
+    "text": "yeah, she had maybe like three videos",
+    "start": 693.6,
+    "duration": 5.04
+  },
+  {
+    "text": "that got over a million views, this",
+    "start": 696.56,
+    "duration": 4.24
+  },
+  {
+    "text": "being one of them. It was insane. The",
+    "start": 698.64,
+    "duration": 4.8
+  },
+  {
+    "text": "first time we ever went like 10x viral",
+    "start": 700.8,
+    "duration": 4.8
+  },
+  {
+    "text": "was from one of her videos. It was",
+    "start": 703.44,
+    "duration": 4
+  },
+  {
+    "text": "pretty nuts. I can't remember exactly,",
+    "start": 705.6,
+    "duration": 5.6
+  },
+  {
+    "text": "but we went from 2K MR to like almost",
+    "start": 707.44,
+    "duration": 7.36
+  },
+  {
+    "text": "15K MR within like a week or two. And",
+    "start": 711.2,
+    "duration": 5.68
+  },
+  {
+    "text": "that video alone, I think we estimate",
+    "start": 714.8,
+    "duration": 5.279
+  },
+  {
+    "text": "made us like close to 20K or so. So, you",
+    "start": 716.88,
+    "duration": 4.8
+  },
+  {
+    "text": "know, we feel like we won the lottery.",
+    "start": 720.079,
+    "duration": 3.121
+  },
+  {
+    "text": "I'll never forget that first viral",
+    "start": 721.68,
+    "duration": 2.96
+  },
+  {
+    "text": "moment. It was pretty surreal.",
+    "start": 723.2,
+    "duration": 3.68
+  },
+  {
+    "text": ">> Now, you have the winning lottery",
+    "start": 724.64,
+    "duration": 3.759
+  },
+  {
+    "text": "numbers, right? Cuz you're the one who",
+    "start": 726.88,
+    "duration": 3.6
+  },
+  {
+    "text": "kind of like strategized to make this",
+    "start": 728.399,
+    "duration": 4.081
+  },
+  {
+    "text": "video. Well, you know, you outsource the",
+    "start": 730.48,
+    "duration": 3.52
+  },
+  {
+    "text": "creativity a little bit to the creator,",
+    "start": 732.48,
+    "duration": 3.76
+  },
+  {
+    "text": "but you now have the data of like this",
+    "start": 734,
+    "duration": 5.279
+  },
+  {
+    "text": "type of video just made us 20k in",
+    "start": 736.24,
+    "duration": 6.159
+  },
+  {
+    "text": "revenue. So, are you then able to put in",
+    "start": 739.279,
+    "duration": 5.041
+  },
+  {
+    "text": "those same lottery numbers over and over",
+    "start": 742.399,
+    "duration": 4.24
+  },
+  {
+    "text": "and just kind of repeat the strategy or",
+    "start": 744.32,
+    "duration": 4.24
+  },
+  {
+    "text": "is there some more nuance there?",
+    "start": 746.639,
+    "duration": 3.521
+  },
+  {
+    "text": ">> Well, that was the big question. Like,",
+    "start": 748.56,
+    "duration": 4.32
+  },
+  {
+    "text": "great, we hit a home run. Can we do it",
+    "start": 750.16,
+    "duration": 4.88
+  },
+  {
+    "text": "again? And can we create a repeatable",
+    "start": 752.88,
+    "duration": 4
+  },
+  {
+    "text": "strategy around this? That was the big",
+    "start": 755.04,
+    "duration": 3.76
+  },
+  {
+    "text": "question at the time. And we were able",
+    "start": 756.88,
+    "duration": 4.16
+  },
+  {
+    "text": "to get a couple other like viral videos",
+    "start": 758.8,
+    "duration": 4.96
+  },
+  {
+    "text": "specifically from this creator, Agogo.",
+    "start": 761.04,
+    "duration": 4.64
+  },
+  {
+    "text": "But after some time like we weren't able",
+    "start": 763.76,
+    "duration": 4.24
+  },
+  {
+    "text": "to replicate it and we weren't able to",
+    "start": 765.68,
+    "duration": 4.24
+  },
+  {
+    "text": "like get similar success with other",
+    "start": 768,
+    "duration": 4.56
+  },
+  {
+    "text": "creators. We tried very hard. Maybe we",
+    "start": 769.92,
+    "duration": 4.24
+  },
+  {
+    "text": "just didn't know what the we were doing",
+    "start": 772.56,
+    "duration": 3.6
+  },
+  {
+    "text": "or we took the wrong approach. After",
+    "start": 774.16,
+    "duration": 3.679
+  },
+  {
+    "text": "some time like we were burning more",
+    "start": 776.16,
+    "duration": 3.28
+  },
+  {
+    "text": "money than we were making on these",
+    "start": 777.839,
+    "duration": 3.281
+  },
+  {
+    "text": "influencer videos. You know, we have to",
+    "start": 779.44,
+    "duration": 3.519
+  },
+  {
+    "text": "switch our approach. Is there anything",
+    "start": 781.12,
+    "duration": 3.68
+  },
+  {
+    "text": "you would have done differently if you",
+    "start": 782.959,
+    "duration": 4.081
+  },
+  {
+    "text": "knew that repeating the same influencer",
+    "start": 784.8,
+    "duration": 4.159
+  },
+  {
+    "text": "strategy wouldn't work the way that you",
+    "start": 787.04,
+    "duration": 2.64
+  },
+  {
+    "text": "wanted it to?",
+    "start": 788.959,
+    "duration": 2.801
+  },
+  {
+    "text": ">> I think one thing we didn't try as much",
+    "start": 789.68,
+    "duration": 4.24
+  },
+  {
+    "text": "is like minimum view clauses, right?",
+    "start": 791.76,
+    "duration": 3.759
+  },
+  {
+    "text": "That would have mitigated the risk. And",
+    "start": 793.92,
+    "duration": 3.28
+  },
+  {
+    "text": "I think overall, I feel like we could",
+    "start": 795.519,
+    "duration": 4.241
+  },
+  {
+    "text": "have done a much better job of seeing",
+    "start": 797.2,
+    "duration": 4.4
+  },
+  {
+    "text": "what worked or analyzing what worked and",
+    "start": 799.76,
+    "duration": 3.519
+  },
+  {
+    "text": "replicating that in a more strategic",
+    "start": 801.6,
+    "duration": 3.12
+  },
+  {
+    "text": "way. I don't know if it would have come",
+    "start": 803.279,
+    "duration": 3.441
+  },
+  {
+    "text": "from like just better briefs or better",
+    "start": 804.72,
+    "duration": 3.52
+  },
+  {
+    "text": "guidance, but there's definitely a lot",
+    "start": 806.72,
+    "duration": 3.119
+  },
+  {
+    "text": "of things that we didn't try, but it it",
+    "start": 808.24,
+    "duration": 3.12
+  },
+  {
+    "text": "felt expensive to keep on trying",
+    "start": 809.839,
+    "duration": 2.641
+  },
+  {
+    "text": "influencer marketing.",
+    "start": 811.36,
+    "duration": 3.68
+  },
+  {
+    "text": ">> So, the influencers were making some",
+    "start": 812.48,
+    "duration": 4.56
+  },
+  {
+    "text": "money and some downloads, but just not",
+    "start": 815.04,
+    "duration": 3.919
+  },
+  {
+    "text": "enough to justify the cost.",
+    "start": 817.04,
+    "duration": 3.84
+  },
+  {
+    "text": ">> Yeah, it definitely seemed like we were",
+    "start": 818.959,
+    "duration": 4
+  },
+  {
+    "text": "spending significantly more money than",
+    "start": 820.88,
+    "duration": 3.199
+  },
+  {
+    "text": "we were getting back.",
+    "start": 822.959,
+    "duration": 4.88
+  },
+  {
+    "text": ">> So, this was like 15k MR at this point",
+    "start": 824.079,
+    "duration": 6.241
+  },
+  {
+    "text": "when you just initially started a few",
+    "start": 827.839,
+    "duration": 4.961
+  },
+  {
+    "text": "videos within like a week or two. Now",
+    "start": 830.32,
+    "duration": 4.56
+  },
+  {
+    "text": "you're at, you know, 80, 100K a month.",
+    "start": 832.8,
+    "duration": 4.159
+  },
+  {
+    "text": "How did you get from 20K to where you",
+    "start": 834.88,
+    "duration": 2.48
+  },
+  {
+    "text": "are now?",
+    "start": 836.959,
+    "duration": 2
+  },
+  {
+    "text": ">> It's like product, right? Building a",
+    "start": 837.36,
+    "duration": 3.2
+  },
+  {
+    "text": "really good product, trying to improve",
+    "start": 838.959,
+    "duration": 4
+  },
+  {
+    "text": "retention as much as we can, increasing",
+    "start": 840.56,
+    "duration": 4.639
+  },
+  {
+    "text": "sharability and unlocking viral growth",
+    "start": 842.959,
+    "duration": 3.921
+  },
+  {
+    "text": "loops within the app. I still think",
+    "start": 845.199,
+    "duration": 3.2
+  },
+  {
+    "text": "there's a lot to do there, but we've",
+    "start": 846.88,
+    "duration": 2.959
+  },
+  {
+    "text": "done some things there. Yeah, around",
+    "start": 848.399,
+    "duration": 3.921
+  },
+  {
+    "text": "like 30 to 40% of all new users come",
+    "start": 849.839,
+    "duration": 3.841
+  },
+  {
+    "text": "from word of mouth. That's really",
+    "start": 852.32,
+    "duration": 3.12
+  },
+  {
+    "text": "important in terms of just like the",
+    "start": 853.68,
+    "duration": 4.56
+  },
+  {
+    "text": "virality of the app. And also that adds",
+    "start": 855.44,
+    "duration": 4.56
+  },
+  {
+    "text": "a force multiplier on all our",
+    "start": 858.24,
+    "duration": 3.76
+  },
+  {
+    "text": "distribution efforts. So product cloud",
+    "start": 860,
+    "duration": 3.199
+  },
+  {
+    "text": "growth I think it's super duper",
+    "start": 862,
+    "duration": 3.36
+  },
+  {
+    "text": "important and I think we've emphasized a",
+    "start": 863.199,
+    "duration": 4.161
+  },
+  {
+    "text": "good amount and also the like fun",
+    "start": 865.36,
+    "duration": 4.08
+  },
+  {
+    "text": "gamified element of the app I think is",
+    "start": 867.36,
+    "duration": 4
+  },
+  {
+    "text": "pretty big as well like jungle the whole",
+    "start": 869.44,
+    "duration": 3.92
+  },
+  {
+    "text": "brand narrative the storytelling the",
+    "start": 871.36,
+    "duration": 3.839
+  },
+  {
+    "text": "emotion that you provoke I think all of",
+    "start": 873.36,
+    "duration": 3.68
+  },
+  {
+    "text": "those things make a big difference",
+    "start": 875.199,
+    "duration": 5.521
+  },
+  {
+    "text": ">> you said 30 40% of new users come from",
+    "start": 877.04,
+    "duration": 5.2
+  },
+  {
+    "text": "word of mouth what do you feel like is",
+    "start": 880.72,
+    "duration": 4
+  },
+  {
+    "text": "the biggest lever that really moves that",
+    "start": 882.24,
+    "duration": 3.12
+  },
+  {
+    "text": "metric",
+    "start": 884.72,
+    "duration": 2.08
+  },
+  {
+    "text": ">> like one what's your magic what's the",
+    "start": 885.36,
+    "duration": 3.68
+  },
+  {
+    "text": "aha moment and then two what's your time",
+    "start": 886.8,
+    "duration": 4.32
+  },
+  {
+    "text": "to magic basically how long does does it",
+    "start": 889.04,
+    "duration": 5.12
+  },
+  {
+    "text": "take for a first-time user to experience",
+    "start": 891.12,
+    "duration": 5.76
+  },
+  {
+    "text": "the magic? And we've iterated and run",
+    "start": 894.16,
+    "duration": 4.56
+  },
+  {
+    "text": "hundreds of experiments on our landing",
+    "start": 896.88,
+    "duration": 3.759
+  },
+  {
+    "text": "page that you're showing here. And one",
+    "start": 898.72,
+    "duration": 4.72
+  },
+  {
+    "text": "of the most successful ones is basically",
+    "start": 900.639,
+    "duration": 7.281
+  },
+  {
+    "text": "being able to upload a document or a URL",
+    "start": 903.44,
+    "duration": 6.639
+  },
+  {
+    "text": "directly from the landing page. And",
+    "start": 907.92,
+    "duration": 4.24
+  },
+  {
+    "text": "you'll see here that this directly goes",
+    "start": 910.079,
+    "duration": 3.601
+  },
+  {
+    "text": "through the whole funnel of like",
+    "start": 912.16,
+    "duration": 3.679
+  },
+  {
+    "text": "generating questions. And our product",
+    "start": 913.68,
+    "duration": 4.8
+  },
+  {
+    "text": "experience for firsttime users is",
+    "start": 915.839,
+    "duration": 4.481
+  },
+  {
+    "text": "substantially different than it is for",
+    "start": 918.48,
+    "duration": 3.76
+  },
+  {
+    "text": "like second, third time users or",
+    "start": 920.32,
+    "duration": 3.92
+  },
+  {
+    "text": "basically anyone after that. We try to",
+    "start": 922.24,
+    "duration": 3.68
+  },
+  {
+    "text": "minimize and make it as simple as",
+    "start": 924.24,
+    "duration": 3.2
+  },
+  {
+    "text": "possible. Like we don't show you all",
+    "start": 925.92,
+    "duration": 3.039
+  },
+  {
+    "text": "these options of like what range of",
+    "start": 927.44,
+    "duration": 3.36
+  },
+  {
+    "text": "minutes or pages you want and rate for,",
+    "start": 928.959,
+    "duration": 3.361
+  },
+  {
+    "text": "what type of questions do you want, how",
+    "start": 930.8,
+    "duration": 3.039
+  },
+  {
+    "text": "many questions you want. These are all",
+    "start": 932.32,
+    "duration": 2.959
+  },
+  {
+    "text": "things you don't see in the first",
+    "start": 933.839,
+    "duration": 3.201
+  },
+  {
+    "text": "product experience because we want to",
+    "start": 935.279,
+    "duration": 4.721
+  },
+  {
+    "text": "keep it as simple as possible. We even",
+    "start": 937.04,
+    "duration": 5.12
+  },
+  {
+    "text": "have like a mini review here of like,",
+    "start": 940,
+    "duration": 4.079
+  },
+  {
+    "text": "hey, answer your first like seven",
+    "start": 942.16,
+    "duration": 3.679
+  },
+  {
+    "text": "questions. Like we make it really really",
+    "start": 944.079,
+    "duration": 3.521
+  },
+  {
+    "text": "like bite-sized so you can get through",
+    "start": 945.839,
+    "duration": 3.92
+  },
+  {
+    "text": "it, experience the core value and then",
+    "start": 947.6,
+    "duration": 3.919
+  },
+  {
+    "text": "we introduce the whole set of features",
+    "start": 949.759,
+    "duration": 3.44
+  },
+  {
+    "text": "after you complete like this first",
+    "start": 951.519,
+    "duration": 4.401
+  },
+  {
+    "text": "initial mini review. I think like just",
+    "start": 953.199,
+    "duration": 4.481
+  },
+  {
+    "text": "making sure you have really good magic",
+    "start": 955.92,
+    "duration": 3.839
+  },
+  {
+    "text": "and reducing the time to magic is one",
+    "start": 957.68,
+    "duration": 4.159
+  },
+  {
+    "text": "core thing and how good the app is. And",
+    "start": 959.759,
+    "duration": 3.76
+  },
+  {
+    "text": "then other than that, it's literally",
+    "start": 961.839,
+    "duration": 5.201
+  },
+  {
+    "text": "trying to make sharing as prominent as",
+    "start": 963.519,
+    "duration": 5.76
+  },
+  {
+    "text": "possible throughout the app. Oh, also",
+    "start": 967.04,
+    "duration": 4.239
+  },
+  {
+    "text": "the gamified element. You see this tree",
+    "start": 969.279,
+    "duration": 3.841
+  },
+  {
+    "text": "that's growing here as you're answering",
+    "start": 971.279,
+    "duration": 3.841
+  },
+  {
+    "text": "questions. One, that tree increase",
+    "start": 973.12,
+    "duration": 4.88
+  },
+  {
+    "text": "engagement by 70%. Basically, like the",
+    "start": 975.12,
+    "duration": 4.639
+  },
+  {
+    "text": "core engagement metric of answering a",
+    "start": 978,
+    "duration": 3.68
+  },
+  {
+    "text": "lot of questions, but it's also a really",
+    "start": 979.759,
+    "duration": 3.76
+  },
+  {
+    "text": "good growth hack. If you're in a library",
+    "start": 981.68,
+    "duration": 4.079
+  },
+  {
+    "text": "and you're studying on your computer and",
+    "start": 983.519,
+    "duration": 4.88
+  },
+  {
+    "text": "someone walks by you and sees this like",
+    "start": 985.759,
+    "duration": 4.401
+  },
+  {
+    "text": "tree growing, they're like, \"Yo, what is",
+    "start": 988.399,
+    "duration": 4.721
+  },
+  {
+    "text": "that tree?\" And it's sort of interesting",
+    "start": 990.16,
+    "duration": 4.72
+  },
+  {
+    "text": "growth loop in itself just through like",
+    "start": 993.12,
+    "duration": 3.68
+  },
+  {
+    "text": "the visual component. And this also",
+    "start": 994.88,
+    "duration": 4.16
+  },
+  {
+    "text": "speaks to one of the core benefits of",
+    "start": 996.8,
+    "duration": 4
+  },
+  {
+    "text": "targeting students, which is that",
+    "start": 999.04,
+    "duration": 4.4
+  },
+  {
+    "text": "students are in very close clusters with",
+    "start": 1000.8,
+    "duration": 4.32
+  },
+  {
+    "text": "each other. Like they're at a university",
+    "start": 1003.44,
+    "duration": 3.44
+  },
+  {
+    "text": "campus or high school campus or whatever",
+    "start": 1005.12,
+    "duration": 3.92
+  },
+  {
+    "text": "it is. So they're likely to overlap and",
+    "start": 1006.88,
+    "duration": 3.92
+  },
+  {
+    "text": "look at each other's screens. And so the",
+    "start": 1009.04,
+    "duration": 3.44
+  },
+  {
+    "text": "visual component I think makes a big",
+    "start": 1010.8,
+    "duration": 3.44
+  },
+  {
+    "text": "difference in word of mouth as well.",
+    "start": 1012.48,
+    "duration": 3.68
+  },
+  {
+    "text": "That's underrated. How does it visually",
+    "start": 1014.24,
+    "duration": 3.76
+  },
+  {
+    "text": "look on the screen? Not just to the",
+    "start": 1016.16,
+    "duration": 3.76
+  },
+  {
+    "text": "user, but when people look at a screen,",
+    "start": 1018,
+    "duration": 3.759
+  },
+  {
+    "text": "they're in the physical world and there",
+    "start": 1019.92,
+    "duration": 3.2
+  },
+  {
+    "text": "might be other people looking at it.",
+    "start": 1021.759,
+    "duration": 2.641
+  },
+  {
+    "text": "Another thing I'm noticing about this",
+    "start": 1023.12,
+    "duration": 4.319
+  },
+  {
+    "text": "onboarding is you get the user to the",
+    "start": 1024.4,
+    "duration": 5.36
+  },
+  {
+    "text": "the magic moment right away. It's like",
+    "start": 1027.439,
+    "duration": 5.76
+  },
+  {
+    "text": "landing page to input your slides and",
+    "start": 1029.76,
+    "duration": 5.6
+  },
+  {
+    "text": "then it immediately generates questions",
+    "start": 1033.199,
+    "duration": 4.48
+  },
+  {
+    "text": "and you have an interactive demo. You",
+    "start": 1035.36,
+    "duration": 4
+  },
+  {
+    "text": "can see the tree growing. You get the",
+    "start": 1037.679,
+    "duration": 4.24
+  },
+  {
+    "text": "the answers wrong and it explains to you",
+    "start": 1039.36,
+    "duration": 4.079
+  },
+  {
+    "text": "why you got it wrong. I hit the payw",
+    "start": 1041.919,
+    "duration": 3.841
+  },
+  {
+    "text": "wall and then I said maybe later instead",
+    "start": 1043.439,
+    "duration": 4.161
+  },
+  {
+    "text": "of signing off immediately. And then you",
+    "start": 1045.76,
+    "duration": 4.96
+  },
+  {
+    "text": "go to when is the exam? So I'm like okay",
+    "start": 1047.6,
+    "duration": 5.12
+  },
+  {
+    "text": "it's in 2 weeks. It's almost like the",
+    "start": 1050.72,
+    "duration": 3.839
+  },
+  {
+    "text": "payw wall continues now. So like can you",
+    "start": 1052.72,
+    "duration": 2.959
+  },
+  {
+    "text": "walk me through like how you thought",
+    "start": 1054.559,
+    "duration": 1.841
+  },
+  {
+    "text": "about this part?",
+    "start": 1055.679,
+    "duration": 3.841
+  },
+  {
+    "text": ">> Let's say that 50% of people complete",
+    "start": 1056.4,
+    "duration": 5.12
+  },
+  {
+    "text": "like upload something and get to the",
+    "start": 1059.52,
+    "duration": 3.36
+  },
+  {
+    "text": "checkpoint. All right. Well, if you show",
+    "start": 1061.52,
+    "duration": 3.84
+  },
+  {
+    "text": "a payw wall, that means that 50% of",
+    "start": 1062.88,
+    "duration": 5.12
+  },
+  {
+    "text": "people that complete the mini review or",
+    "start": 1065.36,
+    "duration": 4.24
+  },
+  {
+    "text": "do this first experience will see the",
+    "start": 1068,
+    "duration": 3.44
+  },
+  {
+    "text": "payw wall. Versus if you only show the",
+    "start": 1069.6,
+    "duration": 3.68
+  },
+  {
+    "text": "payw wall after the first time you",
+    "start": 1071.44,
+    "duration": 4.239
+  },
+  {
+    "text": "generate and only like 25% of people get",
+    "start": 1073.28,
+    "duration": 4.48
+  },
+  {
+    "text": "there, then you're basically missing out",
+    "start": 1075.679,
+    "duration": 4.561
+  },
+  {
+    "text": "on a 25% chunk that never even saw the",
+    "start": 1077.76,
+    "duration": 4.64
+  },
+  {
+    "text": "payw wall. So this is true for almost",
+    "start": 1080.24,
+    "duration": 4.4
+  },
+  {
+    "text": "anything right like and that's why some",
+    "start": 1082.4,
+    "duration": 4.24
+  },
+  {
+    "text": "people have very long onboarding. So one",
+    "start": 1084.64,
+    "duration": 4
+  },
+  {
+    "text": "thing we also strategically do is like",
+    "start": 1086.64,
+    "duration": 4.64
+  },
+  {
+    "text": "we split our onboarding into three main",
+    "start": 1088.64,
+    "duration": 4.64
+  },
+  {
+    "text": "phases. So one is just like signing up",
+    "start": 1091.28,
+    "duration": 3.84
+  },
+  {
+    "text": "at the beginning which is after you",
+    "start": 1093.28,
+    "duration": 4
+  },
+  {
+    "text": "generated questions then we ask you to",
+    "start": 1095.12,
+    "duration": 3.919
+  },
+  {
+    "text": "sign up. Here's like the second part",
+    "start": 1097.28,
+    "duration": 4.08
+  },
+  {
+    "text": "which is choose what exam this is for if",
+    "start": 1099.039,
+    "duration": 4.401
+  },
+  {
+    "text": "you said you're a student or turn on",
+    "start": 1101.36,
+    "duration": 3.76
+  },
+  {
+    "text": "notification reminders. If you're on",
+    "start": 1103.44,
+    "duration": 3.2
+  },
+  {
+    "text": "mobile which we have a mobile app then",
+    "start": 1105.12,
+    "duration": 3.2
+  },
+  {
+    "text": "it'd be turn on push notifications",
+    "start": 1106.64,
+    "duration": 3.6
+  },
+  {
+    "text": "there. And then if you were to go back",
+    "start": 1108.32,
+    "duration": 4.32
+  },
+  {
+    "text": "to the home screen after like doing this",
+    "start": 1110.24,
+    "duration": 5.92
+  },
+  {
+    "text": "review, then you will get your like",
+    "start": 1112.64,
+    "duration": 5.84
+  },
+  {
+    "text": "final sort of onboarding. Here's an",
+    "start": 1116.16,
+    "duration": 4.24
+  },
+  {
+    "text": "upsell as well if you want more",
+    "start": 1118.48,
+    "duration": 3.52
+  },
+  {
+    "text": "questions. Here's also part of the",
+    "start": 1120.4,
+    "duration": 3.279
+  },
+  {
+    "text": "onboarding which is like to select your",
+    "start": 1122,
+    "duration": 3.6
+  },
+  {
+    "text": "little character. This is pretty cute.",
+    "start": 1123.679,
+    "duration": 4.401
+  },
+  {
+    "text": "This is like a little jungle river and",
+    "start": 1125.6,
+    "duration": 4.16
+  },
+  {
+    "text": "as you gain XP you move through the",
+    "start": 1128.08,
+    "duration": 3.12
+  },
+  {
+    "text": "river and if you get to the end you",
+    "start": 1129.76,
+    "duration": 3.2
+  },
+  {
+    "text": "level up and as you level up you unlock",
+    "start": 1131.2,
+    "duration": 4.24
+  },
+  {
+    "text": "new trees and other rewards. At the end",
+    "start": 1132.96,
+    "duration": 5.2
+  },
+  {
+    "text": "here you see like the key topics that",
+    "start": 1135.44,
+    "duration": 5.599
+  },
+  {
+    "text": "were a part of this review and like how",
+    "start": 1138.16,
+    "duration": 4.96
+  },
+  {
+    "text": "you performed on them. You can like keep",
+    "start": 1141.039,
+    "duration": 4.241
+  },
+  {
+    "text": "studying, retry the ones you missed. And",
+    "start": 1143.12,
+    "duration": 3.919
+  },
+  {
+    "text": "then this is like the third onboarding",
+    "start": 1145.28,
+    "duration": 3.759
+  },
+  {
+    "text": "step basically. So how did you hear",
+    "start": 1147.039,
+    "duration": 4
+  },
+  {
+    "text": "about us? This is how we know that like",
+    "start": 1149.039,
+    "duration": 4.161
+  },
+  {
+    "text": "30 to 40% of people come from friends.",
+    "start": 1151.039,
+    "duration": 4.241
+  },
+  {
+    "text": "What's your weekly goal? you see that",
+    "start": 1153.2,
+    "duration": 4.4
+  },
+  {
+    "text": "we've kind of like split on boarding to",
+    "start": 1155.28,
+    "duration": 4.56
+  },
+  {
+    "text": "be at these different sort of steps to",
+    "start": 1157.6,
+    "duration": 4.4
+  },
+  {
+    "text": "not overwhelm the user especially like",
+    "start": 1159.84,
+    "duration": 3.76
+  },
+  {
+    "text": "if they haven't really meaningfully",
+    "start": 1162,
+    "duration": 2.72
+  },
+  {
+    "text": "tried the whole thing yet.",
+    "start": 1163.6,
+    "duration": 3.04
+  },
+  {
+    "text": ">> Going back to that question, you tried",
+    "start": 1164.72,
+    "duration": 3.839
+  },
+  {
+    "text": "some product things, you tried some",
+    "start": 1166.64,
+    "duration": 4.24
+  },
+  {
+    "text": "growth things. Do you have any hot takes",
+    "start": 1168.559,
+    "duration": 4.801
+  },
+  {
+    "text": "or any I guess just nuance takes cuz I",
+    "start": 1170.88,
+    "duration": 4.08
+  },
+  {
+    "text": "feel like you see it all the time on",
+    "start": 1173.36,
+    "duration": 3.92
+  },
+  {
+    "text": "people on Twitter, people fighting about",
+    "start": 1174.96,
+    "duration": 3.52
+  },
+  {
+    "text": "distribution is more important than",
+    "start": 1177.28,
+    "duration": 2.56
+  },
+  {
+    "text": "products or products more important than",
+    "start": 1178.48,
+    "duration": 2.88
+  },
+  {
+    "text": "distribution. Do you have any takes on",
+    "start": 1179.84,
+    "duration": 1.839
+  },
+  {
+    "text": "that?",
+    "start": 1181.36,
+    "duration": 2.08
+  },
+  {
+    "text": ">> I have a lot and I'm still conflicted.",
+    "start": 1181.679,
+    "duration": 3.601
+  },
+  {
+    "text": "So firstly, almost everyone knows this",
+    "start": 1183.44,
+    "duration": 4.16
+  },
+  {
+    "text": "thing like first time founders focus on",
+    "start": 1185.28,
+    "duration": 4.16
+  },
+  {
+    "text": "product, second time founders focus on",
+    "start": 1187.6,
+    "duration": 4.079
+  },
+  {
+    "text": "distribution as if you're like stupid",
+    "start": 1189.44,
+    "duration": 4.72
+  },
+  {
+    "text": "for focusing on product. My take is",
+    "start": 1191.679,
+    "duration": 4.561
+  },
+  {
+    "text": "third- time founders realize that both",
+    "start": 1194.16,
+    "duration": 3.92
+  },
+  {
+    "text": "are important, right? It's not one or",
+    "start": 1196.24,
+    "duration": 3.679
+  },
+  {
+    "text": "the other. It's like both matter. But",
+    "start": 1198.08,
+    "duration": 3.839
+  },
+  {
+    "text": "obviously when you're very early on,",
+    "start": 1199.919,
+    "duration": 3.921
+  },
+  {
+    "text": "like focus is your most important thing.",
+    "start": 1201.919,
+    "duration": 3.281
+  },
+  {
+    "text": "But I do think you get to a certain",
+    "start": 1203.84,
+    "duration": 2.719
+  },
+  {
+    "text": "point in the company like where we're",
+    "start": 1205.2,
+    "duration": 3.2
+  },
+  {
+    "text": "at, you have to do both to an extent.",
+    "start": 1206.559,
+    "duration": 3.36
+  },
+  {
+    "text": "But you can say like, \"Oh, I'm going to",
+    "start": 1208.4,
+    "duration": 3.6
+  },
+  {
+    "text": "focus 80% of my efforts on distribution",
+    "start": 1209.919,
+    "duration": 4.961
+  },
+  {
+    "text": "and 20% on product or vice versa.\" But I",
+    "start": 1212,
+    "duration": 5.039
+  },
+  {
+    "text": "think you got to do both eventually.",
+    "start": 1214.88,
+    "duration": 3.919
+  },
+  {
+    "text": ">> One thing you said that really stuck out",
+    "start": 1217.039,
+    "duration": 4.321
+  },
+  {
+    "text": "to me was when you have retention, you",
+    "start": 1218.799,
+    "duration": 5.681
+  },
+  {
+    "text": "have more chances at monetization. I",
+    "start": 1221.36,
+    "duration": 4.64
+  },
+  {
+    "text": "feel like for some people it's kind of a",
+    "start": 1224.48,
+    "duration": 3.12
+  },
+  {
+    "text": "foreign concept because it's just the",
+    "start": 1226,
+    "duration": 3.28
+  },
+  {
+    "text": "hard payw wall meta where it's like you",
+    "start": 1227.6,
+    "duration": 4.4
+  },
+  {
+    "text": "acquire the user, you hard payw wall. If",
+    "start": 1229.28,
+    "duration": 4.72
+  },
+  {
+    "text": "they don't pay then it's just it's over.",
+    "start": 1232,
+    "duration": 3.919
+  },
+  {
+    "text": "You acquire a new user. In your guys'",
+    "start": 1234,
+    "duration": 4.08
+  },
+  {
+    "text": "case, you acquire the user, you have a",
+    "start": 1235.919,
+    "duration": 4.561
+  },
+  {
+    "text": "premium experience. You still show the",
+    "start": 1238.08,
+    "duration": 3.68
+  },
+  {
+    "text": "payw wall pretty early in the",
+    "start": 1240.48,
+    "duration": 3.52
+  },
+  {
+    "text": "onboarding, but you still allow the user",
+    "start": 1241.76,
+    "duration": 4.72
+  },
+  {
+    "text": "to use the product for free and continue",
+    "start": 1244,
+    "duration": 4.72
+  },
+  {
+    "text": "to add value with retention and",
+    "start": 1246.48,
+    "duration": 4.319
+  },
+  {
+    "text": "eventually you convert those users",
+    "start": 1248.72,
+    "duration": 3.92
+  },
+  {
+    "text": "later. Like you said, it requires a",
+    "start": 1250.799,
+    "duration": 2.961
+  },
+  {
+    "text": "little bit more patience, a little bit",
+    "start": 1252.64,
+    "duration": 2.88
+  },
+  {
+    "text": "more capital maybe to design the product",
+    "start": 1253.76,
+    "duration": 3.68
+  },
+  {
+    "text": "in that way. Uh, do you feel like",
+    "start": 1255.52,
+    "duration": 3.519
+  },
+  {
+    "text": "venture-backed companies are the only",
+    "start": 1257.44,
+    "duration": 3.84
+  },
+  {
+    "text": "ones that are able to do this style of",
+    "start": 1259.039,
+    "duration": 4.401
+  },
+  {
+    "text": "product where it's like premium or do",
+    "start": 1261.28,
+    "duration": 3.759
+  },
+  {
+    "text": "you think that bootstrap founders are",
+    "start": 1263.44,
+    "duration": 3.68
+  },
+  {
+    "text": "still able to really focus on retention",
+    "start": 1265.039,
+    "duration": 3.841
+  },
+  {
+    "text": "and not hard payw walling? I think",
+    "start": 1267.12,
+    "duration": 4.88
+  },
+  {
+    "text": "bootstrap founders can 100% focus on",
+    "start": 1268.88,
+    "duration": 5.6
+  },
+  {
+    "text": "like the retentive product approach, but",
+    "start": 1272,
+    "duration": 5.52
+  },
+  {
+    "text": "it's harder to like emphasize that if",
+    "start": 1274.48,
+    "duration": 5.84
+  },
+  {
+    "text": "you are not cash flow positive. Like if",
+    "start": 1277.52,
+    "duration": 4.639
+  },
+  {
+    "text": "you feel like you're in survival mode or",
+    "start": 1280.32,
+    "duration": 4.08
+  },
+  {
+    "text": "you don't have that much money, then",
+    "start": 1282.159,
+    "duration": 4.4
+  },
+  {
+    "text": "you're gonna like feel the need to be",
+    "start": 1284.4,
+    "duration": 3.84
+  },
+  {
+    "text": "like, \"Hey, how do we make the most",
+    "start": 1286.559,
+    "duration": 3.841
+  },
+  {
+    "text": "amount of money like right now?\" And",
+    "start": 1288.24,
+    "duration": 3.76
+  },
+  {
+    "text": "usually that's going to lead you to",
+    "start": 1290.4,
+    "duration": 3.44
+  },
+  {
+    "text": "distribution. The way to make the most",
+    "start": 1292,
+    "duration": 3.84
+  },
+  {
+    "text": "money right now or to grow the most",
+    "start": 1293.84,
+    "duration": 4.079
+  },
+  {
+    "text": "right now is not retention. Retention is",
+    "start": 1295.84,
+    "duration": 4.719
+  },
+  {
+    "text": "a long-term play. And not only because",
+    "start": 1297.919,
+    "duration": 4.401
+  },
+  {
+    "text": "you don't really see the benefits of",
+    "start": 1300.559,
+    "duration": 3.441
+  },
+  {
+    "text": "good retention until like a little",
+    "start": 1302.32,
+    "duration": 3.52
+  },
+  {
+    "text": "further down the line, but also because",
+    "start": 1304,
+    "duration": 4.159
+  },
+  {
+    "text": "it's literally the hardest metric to",
+    "start": 1305.84,
+    "duration": 4.88
+  },
+  {
+    "text": "move. Let's go to UGC. So, where we left",
+    "start": 1308.159,
+    "duration": 4.561
+  },
+  {
+    "text": "off is you started doing influencer",
+    "start": 1310.72,
+    "duration": 4.4
+  },
+  {
+    "text": "marketing. You maybe got lucky, maybe",
+    "start": 1312.72,
+    "duration": 4.8
+  },
+  {
+    "text": "didn't, but it went very well, but it",
+    "start": 1315.12,
+    "duration": 5.6
+  },
+  {
+    "text": "didn't quite scale. And now you're at 2,",
+    "start": 1317.52,
+    "duration": 4.96
+  },
+  {
+    "text": "three, four times the revenue that you",
+    "start": 1320.72,
+    "duration": 3.839
+  },
+  {
+    "text": "were at. Yeah. Break down your UGC",
+    "start": 1322.48,
+    "duration": 4.16
+  },
+  {
+    "text": "strategy. Essentially, the core idea",
+    "start": 1324.559,
+    "duration": 5.36
+  },
+  {
+    "text": "behind UGC is you get creators. These",
+    "start": 1326.64,
+    "duration": 5.76
+  },
+  {
+    "text": "are usually people without as much",
+    "start": 1329.919,
+    "duration": 4.24
+  },
+  {
+    "text": "experience. You can get very experienced",
+    "start": 1332.4,
+    "duration": 3.2
+  },
+  {
+    "text": "one as well. just depends on your",
+    "start": 1334.159,
+    "duration": 3.201
+  },
+  {
+    "text": "strategy whether you want to go for very",
+    "start": 1335.6,
+    "duration": 3.68
+  },
+  {
+    "text": "high quality creators or kind of like",
+    "start": 1337.36,
+    "duration": 3.679
+  },
+  {
+    "text": "people that are newer to it. They create",
+    "start": 1339.28,
+    "duration": 4.24
+  },
+  {
+    "text": "their own separate accounts and we",
+    "start": 1341.039,
+    "duration": 4.801
+  },
+  {
+    "text": "basically have them post like 10 to 12",
+    "start": 1343.52,
+    "duration": 4.24
+  },
+  {
+    "text": "videos a week. Very high content",
+    "start": 1345.84,
+    "duration": 4
+  },
+  {
+    "text": "throughput at like 30 creators. That",
+    "start": 1347.76,
+    "duration": 4.48
+  },
+  {
+    "text": "means we're getting like close to 400",
+    "start": 1349.84,
+    "duration": 4.24
+  },
+  {
+    "text": "videos per week. So very high content",
+    "start": 1352.24,
+    "duration": 3.76
+  },
+  {
+    "text": "throughput. And the whole idea is that",
+    "start": 1354.08,
+    "duration": 4.56
+  },
+  {
+    "text": "these people pose as students that like",
+    "start": 1356,
+    "duration": 5.679
+  },
+  {
+    "text": "discovered this amazing tool jungle and",
+    "start": 1358.64,
+    "duration": 4.88
+  },
+  {
+    "text": "are kind of like wanting to share the",
+    "start": 1361.679,
+    "duration": 4.401
+  },
+  {
+    "text": "alpha in an organic way. The whole idea",
+    "start": 1363.52,
+    "duration": 5.12
+  },
+  {
+    "text": "is that you feel like you're discovering",
+    "start": 1366.08,
+    "duration": 5.2
+  },
+  {
+    "text": "this tool from this person that's being",
+    "start": 1368.64,
+    "duration": 4.48
+  },
+  {
+    "text": "very generous about sharing about it or",
+    "start": 1371.28,
+    "duration": 3.519
+  },
+  {
+    "text": "talking about it. There's a lot that we",
+    "start": 1373.12,
+    "duration": 4.16
+  },
+  {
+    "text": "do internally to train the creators, get",
+    "start": 1374.799,
+    "duration": 4.801
+  },
+  {
+    "text": "them to do well, give them feedback on",
+    "start": 1377.28,
+    "duration": 4.24
+  },
+  {
+    "text": "videos, and so yeah, that's been",
+    "start": 1379.6,
+    "duration": 3.68
+  },
+  {
+    "text": "something we've been developing a lot.",
+    "start": 1381.52,
+    "duration": 4.48
+  },
+  {
+    "text": "But that's the core of the idea. And it",
+    "start": 1383.28,
+    "duration": 4.72
+  },
+  {
+    "text": "works well for the most part. Like we're",
+    "start": 1386,
+    "duration": 4.64
+  },
+  {
+    "text": "able to get basically like around $2",
+    "start": 1388,
+    "duration": 5.12
+  },
+  {
+    "text": "CPMs or so. That varies a little bit up",
+    "start": 1390.64,
+    "duration": 4.48
+  },
+  {
+    "text": "and down, but it's pretty good and way",
+    "start": 1393.12,
+    "duration": 4.48
+  },
+  {
+    "text": "better than influencer marketing. It's",
+    "start": 1395.12,
+    "duration": 4.24
+  },
+  {
+    "text": "hard to know for sure, but it does feel",
+    "start": 1397.6,
+    "duration": 4.16
+  },
+  {
+    "text": "like profitable overall. But there is a",
+    "start": 1399.36,
+    "duration": 4.24
+  },
+  {
+    "text": "dilemma here that I think is very",
+    "start": 1401.76,
+    "duration": 3.84
+  },
+  {
+    "text": "interesting, and that is that this sort",
+    "start": 1403.6,
+    "duration": 5.321
+  },
+  {
+    "text": "of traditional UGC strategy is a growth",
+    "start": 1405.6,
+    "duration": 5.52
+  },
+  {
+    "text": "[music] hack. And hacks of any sort are",
+    "start": 1408.921,
+    "duration": 4.199
+  },
+  {
+    "text": "temporary. like they won't work forever",
+    "start": 1411.12,
+    "duration": 4
+  },
+  {
+    "text": "and that's because by nature a growth",
+    "start": 1413.12,
+    "duration": 4.4
+  },
+  {
+    "text": "hack exploits a gap in the market and",
+    "start": 1415.12,
+    "duration": 4.48
+  },
+  {
+    "text": "eventually those gaps end up getting",
+    "start": 1417.52,
+    "duration": 4.32
+  },
+  {
+    "text": "filled but yeah I think like this UGC",
+    "start": 1419.6,
+    "duration": 4.64
+  },
+  {
+    "text": "strategy is short-lived because the more",
+    "start": 1421.84,
+    "duration": 4.079
+  },
+  {
+    "text": "it works the more people that do it and",
+    "start": 1424.24,
+    "duration": 3.439
+  },
+  {
+    "text": "honestly right now like almost every",
+    "start": 1425.919,
+    "duration": 4.24
+  },
+  {
+    "text": "brand is doing UGC this sort of UGC",
+    "start": 1427.679,
+    "duration": 4.561
+  },
+  {
+    "text": "strategy so like the amount of content",
+    "start": 1430.159,
+    "duration": 4.241
+  },
+  {
+    "text": "that's coming out is completely",
+    "start": 1432.24,
+    "duration": 4.16
+  },
+  {
+    "text": "saturating the market I feel like or at",
+    "start": 1434.4,
+    "duration": 3.84
+  },
+  {
+    "text": "least it's starting to just think about",
+    "start": 1436.4,
+    "duration": 4.159
+  },
+  {
+    "text": "it if you're a consumer and you like",
+    "start": 1438.24,
+    "duration": 4.48
+  },
+  {
+    "text": "going on Tik Tok to watch like study",
+    "start": 1440.559,
+    "duration": 4.081
+  },
+  {
+    "text": "videos like study talk and now like",
+    "start": 1442.72,
+    "duration": 5.04
+  },
+  {
+    "text": "every third or fifth video is like this",
+    "start": 1444.64,
+    "duration": 5.2
+  },
+  {
+    "text": "thing that seems organic but is actually",
+    "start": 1447.76,
+    "duration": 3.84
+  },
+  {
+    "text": "someone just trying to push a product",
+    "start": 1449.84,
+    "duration": 3.36
+  },
+  {
+    "text": "you're like I don't know this doesn't",
+    "start": 1451.6,
+    "duration": 3.28
+  },
+  {
+    "text": "feel authentic I don't think these",
+    "start": 1453.2,
+    "duration": 2.959
+  },
+  {
+    "text": "people are actually promoting product",
+    "start": 1454.88,
+    "duration": 2.96
+  },
+  {
+    "text": "and then if you actually go to one of",
+    "start": 1456.159,
+    "duration": 4
+  },
+  {
+    "text": "their profiles you realize that all",
+    "start": 1457.84,
+    "duration": 4.64
+  },
+  {
+    "text": "their videos are mentioning this same",
+    "start": 1460.159,
+    "duration": 4.961
+  },
+  {
+    "text": "tool it's a very inauthentic thing in a",
+    "start": 1462.48,
+    "duration": 2.96
+  },
+  {
+    "text": "way",
+    "start": 1465.12,
+    "duration": 2.4
+  },
+  {
+    "text": ">> another thing I like to ask people is if",
+    "start": 1465.44,
+    "duration": 4
+  },
+  {
+    "text": "you're just starting out or you have a",
+    "start": 1467.52,
+    "duration": 4.159
+  },
+  {
+    "text": "product that's maybe around 10k MR and",
+    "start": 1469.44,
+    "duration": 3.839
+  },
+  {
+    "text": "you're trying to scale, you know, you",
+    "start": 1471.679,
+    "duration": 3.6
+  },
+  {
+    "text": "have some profitability, what's kind of",
+    "start": 1473.279,
+    "duration": 3.76
+  },
+  {
+    "text": "like the first lever or the first thing",
+    "start": 1475.279,
+    "duration": 3.681
+  },
+  {
+    "text": "that you should be really prioritizing?",
+    "start": 1477.039,
+    "duration": 4
+  },
+  {
+    "text": ">> The race to the top is very nonlinear.",
+    "start": 1478.96,
+    "duration": 5.28
+  },
+  {
+    "text": "It can take a while. It's very hard and",
+    "start": 1481.039,
+    "duration": 4.961
+  },
+  {
+    "text": "many of our growth moments have come",
+    "start": 1484.24,
+    "duration": 3.919
+  },
+  {
+    "text": "like almost unexpectedly after trying a",
+    "start": 1486,
+    "duration": 4.08
+  },
+  {
+    "text": "lot of things and and getting there. So",
+    "start": 1488.159,
+    "duration": 3.76
+  },
+  {
+    "text": "that's why I think experimentation is so",
+    "start": 1490.08,
+    "duration": 3.839
+  },
+  {
+    "text": "important. I think your biggest skill",
+    "start": 1491.919,
+    "duration": 4.321
+  },
+  {
+    "text": "set to build as a founder is the ability",
+    "start": 1493.919,
+    "duration": 4.64
+  },
+  {
+    "text": "to figure anything out. Like we didn't",
+    "start": 1496.24,
+    "duration": 3.439
+  },
+  {
+    "text": "really know growth and growth",
+    "start": 1498.559,
+    "duration": 3.201
+  },
+  {
+    "text": "intimidated us, but we didn't give a we",
+    "start": 1499.679,
+    "duration": 4.401
+  },
+  {
+    "text": "just strapped in and got our hands dirty",
+    "start": 1501.76,
+    "duration": 4.159
+  },
+  {
+    "text": "and tinkered with different strategies",
+    "start": 1504.08,
+    "duration": 3.44
+  },
+  {
+    "text": "until we found something that worked and",
+    "start": 1505.919,
+    "duration": 2.88
+  },
+  {
+    "text": "then it stopped working and then we",
+    "start": 1507.52,
+    "duration": 2.88
+  },
+  {
+    "text": "tried new things and now it works and",
+    "start": 1508.799,
+    "duration": 3.12
+  },
+  {
+    "text": "now it's like not working as well and",
+    "start": 1510.4,
+    "duration": 2.96
+  },
+  {
+    "text": "now we're going to try new things and",
+    "start": 1511.919,
+    "duration": 3.601
+  },
+  {
+    "text": "it's an endless cycle. It's very hard",
+    "start": 1513.36,
+    "duration": 4
+  },
+  {
+    "text": "but that's also what makes it really fun",
+    "start": 1515.52,
+    "duration": 3.44
+  },
+  {
+    "text": "is the challenge behind it.",
+    "start": 1517.36,
+    "duration": 3.199
+  },
+  {
+    "text": ">> Great advice. This is a great pod.",
+    "start": 1518.96,
+    "duration": 3.199
+  },
+  {
+    "text": ">> Absolutely. Thank you for having me. It",
+    "start": 1520.559,
+    "duration": 3.921
+  },
+  {
+    "text": "was fun to riff and see what the hell",
+    "start": 1522.159,
+    "duration": 3.281
+  },
+  {
+    "text": "comes out of my mouth.",
+    "start": 1524.48,
+    "duration": 2.4
+  },
+  {
+    "text": ">> That's awesome. All right, that was a",
+    "start": 1525.44,
+    "duration": 3.119
+  },
+  {
+    "text": "good one. By the way, I'm the host,",
+    "start": 1526.88,
+    "duration": 3.76
+  },
+  {
+    "text": "Joseph Choy, founder of Consumer Club,",
+    "start": 1528.559,
+    "duration": 3.841
+  },
+  {
+    "text": "which is a private group for ad founders",
+    "start": 1530.64,
+    "duration": 3.68
+  },
+  {
+    "text": "to talk to each other about the latest",
+    "start": 1532.4,
+    "duration": 4.32
+  },
+  {
+    "text": "tactics. Median revenue of member is",
+    "start": 1534.32,
+    "duration": 4.64
+  },
+  {
+    "text": "about a million ARR. Check it out. Check",
+    "start": 1536.72,
+    "duration": 4
+  },
+  {
+    "text": "out Superwall, too. They're the best.",
+    "start": 1538.96,
+    "duration": 3.199
+  },
+  {
+    "text": "And check out the other interviews on",
+    "start": 1540.72,
+    "duration": 2.8
+  },
+  {
+    "text": "the Super Wall channel. See you in the",
+    "start": 1542.159,
+    "duration": 3.601
+  },
+  {
+    "text": "next one.",
+    "start": 1543.52,
+    "duration": 2.24
+  }
+]

@@ -1,0 +1,3552 @@
+[
+  {
+    "text": "Yeah, in 70 days we're able to hit 100,000 in revenue.",
+    "start": "00:00:00",
+    "end": "00:00:04"
+  },
+  {
+    "text": ">> This is Cedric.",
+    "start": "00:00:02",
+    "end": "00:00:04"
+  },
+  {
+    "text": "His app, Pep AI, hit $100,000 in revenue in 70 days.",
+    "start": "00:00:04",
+    "end": "00:00:08"
+  },
+  {
+    "text": "The way he pulled it off is he looked at every successful GLP and peptide app already in the market and then did the exact opposite.",
+    "start": "00:00:08",
+    "end": "00:00:16"
+  },
+  {
+    "text": ">> at all these successful GLP apps.",
+    "start": "00:00:14",
+    "end": "00:00:17"
+  },
+  {
+    "text": "None of them are doing influencer marketing.",
+    "start": "00:00:17",
+    "end": "00:00:19"
+  },
+  {
+    "text": "They're only running ads.",
+    "start": "00:00:17",
+    "end": "00:00:20"
+  },
+  {
+    "text": "So, I went and found pretty much every peptide creator in the space.",
+    "start": "00:00:20",
+    "end": "00:00:23"
+  },
+  {
+    "text": "And so, I went and got every single one of them to post about Pep AI.",
+    "start": "00:00:23",
+    "end": "00:00:26"
+  },
+  {
+    "text": "First month we did $30,000 in revenue.",
+    "start": "00:00:26",
+    "end": "00:00:28"
+  },
+  {
+    "text": "Second month we did 50,000.",
+    "start": "00:00:28",
+    "end": "00:00:31"
+  },
+  {
+    "text": "And this month we're on pace for 80.",
+    "start": "00:00:31",
+    "end": "00:00:33"
+  },
+  {
+    "text": ">> But while the system was running, Cedric noticed something interesting happening across all his UGC creators.",
+    "start": "00:00:31",
+    "end": "00:00:37"
+  },
+  {
+    "text": "So, he decided to test something out and the results were pretty surprising.",
+    "start": "00:00:37",
+    "end": "00:00:41"
+  },
+  {
+    "text": ">> I even tested it by having one of our creators where we had him put the link in the bio and we didn't have him post for 2 weeks and we still had a ton of downloads and he didn't even make a single post.",
+    "start": "00:00:39",
+    "end": "00:00:50"
+  },
+  {
+    "text": ">> So, in this episode, Cedric breaks down his exact playbook from the video format that outperforms talking head UGC videos across all of his creators to a flash sale tactic he borrowed from e-commerce that gave him his single biggest revenue day on record and the onboarding mistake that was killing a meaningful share of his sign-ups before they ever hit the paywall.",
+    "start": "00:00:48",
+    "end": "00:01:06"
+  },
+  {
+    "text": "By the end, you'll have the same exact playbook he used to build a six-figure revenue app in 70 days as a college student.",
+    "start": "00:01:06",
+    "end": "00:01:13"
+  },
+  {
+    "text": "This is the Superwall podcast.",
+    "start": "00:01:13",
+    "end": "00:01:14"
+  },
+  {
+    "text": "I'm Joseph Choi, founder of Consumer Club, a Discord where top consumer app founders trade alpha and what's working now in growth.",
+    "start": "00:01:14",
+    "end": "00:01:21"
+  },
+  {
+    "text": "I've been talking to members doing a million AR and they tell me they've been using these two tools.",
+    "start": "00:01:21",
+    "end": "00:01:25"
+  },
+  {
+    "text": "Superwall has this free AI tool trained on 422 profitable paywall experiments across thousands of successful apps.",
+    "start": "00:01:25",
+    "end": "00:01:30"
+  },
+  {
+    "text": "You upload a screenshot of your paywall and it gives you an experiment idea to make more revenue with the same number of users at paywallexperiments.",
+    "start": "00:01:30",
+    "end": "00:01:38"
+  },
+  {
+    "text": "com.",
+    "start": "00:01:38",
+    "end": "00:01:38"
+  },
+  {
+    "text": "And if your app's doing at least 100K MRR, we host vetted dinners in SF and New York to hang out and network with other top app founders.",
+    "start": "00:01:38",
+    "end": "00:01:44"
+  },
+  {
+    "text": "You can apply with the typeform in the description.",
+    "start": "00:01:44",
+    "end": "00:01:47"
+  },
+  {
+    "text": "Also, these app founders have been telling me they use Rorke.",
+    "start": "00:01:47",
+    "end": "00:01:49"
+  },
+  {
+    "text": "I met Daniel, the founder of Rorke, at a dinner and I got genuinely really excited when he told me about Rorke Max, which is out now and has honestly changed the game for coding mobile apps.",
+    "start": "00:01:49",
+    "end": "00:01:58"
+  },
+  {
+    "text": "It's AI that one shots full native iOS apps with Swift code, camera, sensors, haptics, payments, the whole stack.",
+    "start": "00:01:58",
+    "end": "00:02:04"
+  },
+  {
+    "text": "And as you vibe code with Rorke, you can install prototypes directly onto your iPhone with one click and then publish to the App Store in two clicks.",
+    "start": "00:02:04",
+    "end": "00:02:12"
+  },
+  {
+    "text": "If you've been waiting for AI coding that actually does native iOS apps well, this is it.",
+    "start": "00:02:10",
+    "end": "00:02:15"
+  },
+  {
+    "text": "I got you guys a discount.",
+    "start": "00:02:15",
+    "end": "00:02:17"
+  },
+  {
+    "text": "You can use the code superwall or use the link below.",
+    "start": "00:02:15",
+    "end": "00:02:19"
+  },
+  {
+    "text": "We're going to start with the tweet.",
+    "start": "00:02:19",
+    "end": "00:02:21"
+  },
+  {
+    "text": "100K revenue in the last 70 days.",
+    "start": "00:02:21",
+    "end": "00:02:23"
+  },
+  {
+    "text": "This is a super fresh start.",
+    "start": "00:02:23",
+    "end": "00:02:26"
+  },
+  {
+    "text": "Right, so I want to just like dive into this whole machine.",
+    "start": "00:02:25",
+    "end": "00:02:28"
+  },
+  {
+    "text": "Like how did you make this work?",
+    "start": "00:02:28",
+    "end": "00:02:29"
+  },
+  {
+    "text": "What's the app?",
+    "start": "00:02:29",
+    "end": "00:02:30"
+  },
+  {
+    "text": "If you don't know, it's a peptide tracking app and GLP-1 tracking app, which pretty much is like peptides become a really big thing on social media recently.",
+    "start": "00:02:30",
+    "end": "00:02:39"
+  },
+  {
+    "text": "If you don't know what a GLP or peptide is, it can be injectable, it can be oral.",
+    "start": "00:02:39",
+    "end": "00:02:44"
+  },
+  {
+    "text": "It's like a a drug that you're taking that helps with many different things.",
+    "start": "00:02:42",
+    "end": "00:02:47"
+  },
+  {
+    "text": "For GLPs, it's weight loss.",
+    "start": "00:02:46",
+    "end": "00:02:48"
+  },
+  {
+    "text": "For a lot of them, it can be for, you know, tanning, uh skin care, recovery.",
+    "start": "00:02:48",
+    "end": "00:02:52"
+  },
+  {
+    "text": "And so what our app does is it pretty much just like serves as a a tracking tool for users where they can go in and put in all their data and track when they're taking their stuff, when they're supposed to, tracking their nutrition, sleep, all these important things that are, you know, people need to be tracking while taking these uh GLPs and peptides.",
+    "start": "00:02:52",
+    "end": "00:03:09"
+  },
+  {
+    "text": "A couple months ago, I just realized there was a gap in the market and no one was really marketing an app very well for this.",
+    "start": "00:03:09",
+    "end": "00:03:13"
+  },
+  {
+    "text": "So I made mine and then we just started doing a bunch of influencer marketing, running ads, and, you know, a little bit of word of mouth, too, because there was nothing out there like this where it just spread really fast.",
+    "start": "00:03:13",
+    "end": "00:03:28"
+  },
+  {
+    "text": "And yeah, in 70 days we were able to hit 100,000 in uh revenue.",
+    "start": "00:03:26",
+    "end": "00:03:30"
+  },
+  {
+    "text": "I feel like this whole category has been kind of exploding.",
+    "start": "00:03:30",
+    "end": "00:03:33"
+  },
+  {
+    "text": "I've been talking to some of the marketing people in the space that work across different apps, and they say that peptide trackers and like GLPs in general is just a huge trend, and with any trends like there's apps that ride that wave.",
+    "start": "00:03:33",
+    "end": "00:03:47"
+  },
+  {
+    "text": "So, were you aware of the trend itself?",
+    "start": "00:03:47",
+    "end": "00:03:50"
+  },
+  {
+    "text": "And then like how how did you come up with the idea to make an app specifically around like these features and solutions?",
+    "start": "00:03:50",
+    "end": "00:03:59"
+  },
+  {
+    "text": ">> Not to give myself too much credit, I would say our app was a big influence on this trend cuz we started building this in January and there was like a couple peptide calculator apps that had been out for years, but they really didn't have they weren't doing anything for marketing them.",
+    "start": "00:03:57",
+    "end": "00:04:12"
+  },
+  {
+    "text": "They had a only a couple reviews.",
+    "start": "00:04:12",
+    "end": "00:04:13"
+  },
+  {
+    "text": "So, there really was nothing in the space.",
+    "start": "00:04:13",
+    "end": "00:04:16"
+  },
+  {
+    "text": "There was a couple GLP apps that had been doing actually, you know, very well, but for peptides there was nothing.",
+    "start": "00:04:16",
+    "end": "00:04:23"
+  },
+  {
+    "text": "So, I started building mine late January.",
+    "start": "00:04:23",
+    "end": "00:04:25"
+  },
+  {
+    "text": "It launched end of February kind of and then we just started marketing and every creator in the space for peptides we got all of them to promote our app and so now it's become a huge trend, but yeah, I would say we just got on it really, really early.",
+    "start": "00:04:25",
+    "end": "00:04:38"
+  },
+  {
+    "text": "I feel like there's a difference between the GLPs because I think last year maybe there was some GLP tracker apps that were doing really well like basically like Ozempic trackers, but then peptides is like if people don't know like GLP-1 is a peptide, but then there's all these other peptides like Reda and just like all these other peptides that are starting to become like this huge trend, the apps always seem to be kind of lagging behind e-commerce and and health and just like the supplement D2C space.",
+    "start": "00:04:38",
+    "end": "00:05:10"
+  },
+  {
+    "text": "What was your approach to making your app better than the the stuff in the market cuz I noticed this as well.",
+    "start": "00:05:10",
+    "end": "00:05:16"
+  },
+  {
+    "text": "I went on the App Store and I was searching like peptides and all the apps back in January or December like you said were not very good or that none of them had like had high revenue.",
+    "start": "00:05:16",
+    "end": "00:05:25"
+  },
+  {
+    "text": "So, what what was the difference?",
+    "start": "00:05:25",
+    "end": "00:05:26"
+  },
+  {
+    "text": "Like how did you make 100k when everyone else wasn't really doing very well?",
+    "start": "00:05:26",
+    "end": "00:05:31"
+  },
+  {
+    "text": ">> Yeah, and to kind of just expand on what you said at the beginning as well.",
+    "start": "00:05:29",
+    "end": "00:05:35"
+  },
+  {
+    "text": "So, like GLPs are just weight loss drugs and peptides can be for recovery and serve a ton of different purposes, which gives us more to market if that makes sense, you know.",
+    "start": "00:05:35",
+    "end": "00:05:42"
+  },
+  {
+    "text": "What I did was I looked at all these successful GLP apps.",
+    "start": "00:05:42",
+    "end": "00:05:45"
+  },
+  {
+    "text": "None of them are doing influencer marketing.",
+    "start": "00:05:45",
+    "end": "00:05:48"
+  },
+  {
+    "text": "They're only running ads.",
+    "start": "00:05:48",
+    "end": "00:05:48"
+  },
+  {
+    "text": "And so I didn't want to start running ads until we had winners.",
+    "start": "00:05:48",
+    "end": "00:05:51"
+  },
+  {
+    "text": "So what I did is I did a lot of research on a lot of successful apps that came out this year like CaliAI, Quitter, and all of them really focus on their influencer marketing.",
+    "start": "00:05:51",
+    "end": "00:06:02"
+  },
+  {
+    "text": "So I went and found pretty much every peptide creator in the space.",
+    "start": "00:06:02",
+    "end": "00:06:05"
+  },
+  {
+    "text": "I mean, there's not pretty much everyone who's making like consistent videos about peptides works for Peptide or works with us.",
+    "start": "00:06:05",
+    "end": "00:06:12"
+  },
+  {
+    "text": "And so I went and got every single one of them to post about Peptide.",
+    "start": "00:06:12",
+    "end": "00:06:16"
+  },
+  {
+    "text": "And then that just blew up.",
+    "start": "00:06:16",
+    "end": "00:06:17"
+  },
+  {
+    "text": "First month we did $30,000 in revenue.",
+    "start": "00:06:17",
+    "end": "00:06:20"
+  },
+  {
+    "text": "Second month we did 50,000.",
+    "start": "00:06:20",
+    "end": "00:06:20"
+  },
+  {
+    "text": "And this month we're on pace for 80.",
+    "start": "00:06:20",
+    "end": "00:06:23"
+  },
+  {
+    "text": "The influencer marketing has been key.",
+    "start": "00:06:23",
+    "end": "00:06:24"
+  },
+  {
+    "text": "And we just started running our ads this month.",
+    "start": "00:06:24",
+    "end": "00:06:27"
+  },
+  {
+    "text": "And all I've done is taken our winners, so that all the ones that performed really well on TikTok and Instagram, put it on Meta ads, and now that's skyrocketing as well.",
+    "start": "00:06:27",
+    "end": "00:06:37"
+  },
+  {
+    "text": ">> How profitable are ads that you just like copy-paste over from organic?",
+    "start": "00:06:35",
+    "end": "00:06:40"
+  },
+  {
+    "text": ">> You know, there was some trial and error at the beginning.",
+    "start": "00:06:39",
+    "end": "00:06:42"
+  },
+  {
+    "text": "Some of them we tried like giving scripts to people, trying to kind of copy what worked for some of these GLP apps, and those ones failed.",
+    "start": "00:06:42",
+    "end": "00:06:50"
+  },
+  {
+    "text": "So what we did is you know, we lost some money on that, but then once we took our winners, those ones performed really well.",
+    "start": "00:06:48",
+    "end": "00:06:54"
+  },
+  {
+    "text": "From what I've heard is if your cost per download is under $5, you're usually doing pretty good.",
+    "start": "00:06:54",
+    "end": "00:07:01"
+  },
+  {
+    "text": "And ours is around $2.",
+    "start": "00:07:01",
+    "end": "00:07:03"
+  },
+  {
+    "text": "50.",
+    "start": "00:07:03",
+    "end": "00:07:04"
+  },
+  {
+    "text": "We just keep increasing our budget every week and pushing those ones that are winners, and it's been paying off.",
+    "start": "00:07:03",
+    "end": "00:07:10"
+  },
+  {
+    "text": ">> $2.",
+    "start": "00:07:08",
+    "end": "00:07:11"
+  },
+  {
+    "text": "50 per download.",
+    "start": "00:07:11",
+    "end": "00:07:11"
+  },
+  {
+    "text": "That Yeah, that does sound really good.",
+    "start": "00:07:11",
+    "end": "00:07:14"
+  },
+  {
+    "text": "And then what is the like spend per day on that?",
+    "start": "00:07:14",
+    "end": "00:07:18"
+  },
+  {
+    "text": ">> In total, probably right now we're probably spending 400 in total a day right now.",
+    "start": "00:07:16",
+    "end": "00:07:21"
+  },
+  {
+    "text": "And that's not even including Apple search ads.",
+    "start": "00:07:21",
+    "end": "00:07:24"
+  },
+  {
+    "text": "We probably spend another 150 with Apple search ads.",
+    "start": "00:07:24",
+    "end": "00:07:27"
+  },
+  {
+    "text": "For Meta though, I mean, we want up the budget.",
+    "start": "00:07:27",
+    "end": "00:07:28"
+  },
+  {
+    "text": "You know, we've got a ton of more creatives being made right now and that we're getting set up for Meta.",
+    "start": "00:07:28",
+    "end": "00:07:34"
+  },
+  {
+    "text": "We've also just started testing with like AI like generated pictures of our app, and those have been performing really well also.",
+    "start": "00:07:32",
+    "end": "00:07:41"
+  },
+  {
+    "text": "So our goal is to have about anywhere from 50 to 100 campaigns running by sometime next month.",
+    "start": "00:07:41",
+    "end": "00:07:47"
+  },
+  {
+    "text": "Just have a a decent budget on all of them because I mean, it's proven to work and as long as it stays under that like $5 per download.",
+    "start": "00:07:47",
+    "end": "00:07:53"
+  },
+  {
+    "text": "We'll see how it goes, but it is fairly new for us.",
+    "start": "00:07:53",
+    "end": "00:07:58"
+  },
+  {
+    "text": ">> So, the $2.",
+    "start": "00:07:55",
+    "end": "00:07:57"
+  },
+  {
+    "text": "50 per download, is that profitable for you guys?",
+    "start": "00:07:57",
+    "end": "00:08:00"
+  },
+  {
+    "text": "Like do you have um like the numbers on conversion rates and stuff?",
+    "start": "00:08:00",
+    "end": "00:08:03"
+  },
+  {
+    "text": "Maybe we can start showing some of these like dashboards and stuff, too.",
+    "start": "00:08:03",
+    "end": "00:08:08"
+  },
+  {
+    "text": ">> I know it is profitable, though.",
+    "start": "00:08:06",
+    "end": "00:08:08"
+  },
+  {
+    "text": "You can see it like on our dashboard and how it's profitable, but even from simple math, it is I'm able to just calculate for how much based off our conversion rate and how much uh we charge for the app with the subscription, based off those downloads, it is profitable.",
+    "start": "00:08:08",
+    "end": "00:08:22"
+  },
+  {
+    "text": "But also, I would say that it's not our number one marketing channel.",
+    "start": "00:08:22",
+    "end": "00:08:26"
+  },
+  {
+    "text": "Influencer marketing is by far been number one.",
+    "start": "00:08:26",
+    "end": "00:08:28"
+  },
+  {
+    "text": "I try and repost as many as I can.",
+    "start": "00:08:28",
+    "end": "00:08:31"
+  },
+  {
+    "text": "You know, we have about 100 creators posting videos for us.",
+    "start": "00:08:31",
+    "end": "00:08:33"
+  },
+  {
+    "text": "So, there's multiple posts going out every single day.",
+    "start": "00:08:33",
+    "end": "00:08:37"
+  },
+  {
+    "text": "What it looks like is, you know, it's just a bunch of uh people that are taking peptides and GLPs, and they'll usually talk about their journey or things that are important like I'm, you know, eating this amount of food and drinking this much water and I use Peptide to help track it.",
+    "start": "00:08:37",
+    "end": "00:08:53"
+  },
+  {
+    "text": ">> So, that video got like 7,000 views, but that's was that's a repost on your brand account, right?",
+    "start": "00:08:51",
+    "end": "00:08:57"
+  },
+  {
+    "text": "So, do you know how many like how much engagement that got originally?",
+    "start": "00:08:57",
+    "end": "00:09:02"
+  },
+  {
+    "text": ">> What we do is we we track everything through like these creator codes.",
+    "start": "00:09:00",
+    "end": "00:09:04"
+  },
+  {
+    "text": "So, when people are signing up, they can say that a creator referred you.",
+    "start": "00:09:04",
+    "end": "00:09:08"
+  },
+  {
+    "text": "Uh we also have one links for all of our creators uh in their bio.",
+    "start": "00:09:06",
+    "end": "00:09:11"
+  },
+  {
+    "text": "If you don't know what that is, it pretty much tracks if someone is downloading the app through their link.",
+    "start": "00:09:11",
+    "end": "00:09:15"
+  },
+  {
+    "text": "So, that way we can look through all their statistics and see like who's converting the best and then keep working with the creators that are doing well.",
+    "start": "00:09:15",
+    "end": "00:09:21"
+  },
+  {
+    "text": "And the ones that aren't performing as well, you know, that's where we can be like, you know, based on our our deal wasn't a super profitable, so we're willing to keep working with you but at this lower price.",
+    "start": "00:09:21",
+    "end": "00:09:31"
+  },
+  {
+    "text": "And that's kind of how we track everything and make sure everything stays profitable.",
+    "start": "00:09:31",
+    "end": "00:09:35"
+  },
+  {
+    "text": ">> This woman is just like walking down the street talking to the camera.",
+    "start": "00:09:33",
+    "end": "00:09:38"
+  },
+  {
+    "text": "Is that the main format that you guys are doing uh or there other like cuz talking head seems like it's very like high trust I imagine but then the I don't think she really showed the app did she?",
+    "start": "00:09:38",
+    "end": "00:09:50"
+  },
+  {
+    "text": ">> Uh she does at the end but you know that's not really even what performs the best.",
+    "start": "00:09:48",
+    "end": "00:09:52"
+  },
+  {
+    "text": "What what I've noticed performs really well is videos like this which I'll show you it's a slideshow but these slideshows they like go through and talk about these important things while taking peptides and GLP's and then how the app you can you know use the app to track all of that together.",
+    "start": "00:09:52",
+    "end": "00:10:10"
+  },
+  {
+    "text": "And this is Ethan who's Ethan's probably our top performer.",
+    "start": "00:10:10",
+    "end": "00:10:12"
+  },
+  {
+    "text": "You know he's his videos all get tons of views.",
+    "start": "00:10:12",
+    "end": "00:10:16"
+  },
+  {
+    "text": "I don't even know if he really talks about Peptides in it but he just puts like Peptides Apple plus Android crazy.",
+    "start": "00:10:16",
+    "end": "00:10:24"
+  },
+  {
+    "text": ">> think the fifth slide there was like apps that I used to track.",
+    "start": "00:10:22",
+    "end": "00:10:27"
+  },
+  {
+    "text": "Could you go to that fifth slide again?",
+    "start": "00:10:27",
+    "end": "00:10:28"
+  },
+  {
+    "text": "So the first slide is just most important things to do on Reddit and then it's like prioritize protein water and electrolytes and then work out three to five times a week low intensity cardio is the fourth slide and then here's the CTA tracking your progress Peptides makes it easier to track.",
+    "start": "00:10:28",
+    "end": "00:10:46"
+  },
+  {
+    "text": "That's like super simple.",
+    "start": "00:10:46",
+    "end": "00:10:47"
+  },
+  {
+    "text": "But this is an influencer right?",
+    "start": "00:10:47",
+    "end": "00:10:47"
+  },
+  {
+    "text": "Like he's a actually like fitness creator.",
+    "start": "00:10:47",
+    "end": "00:10:51"
+  },
+  {
+    "text": ">> Yeah he's got a ton of followers.",
+    "start": "00:10:50",
+    "end": "00:10:53"
+  },
+  {
+    "text": "He's very known in the peptide like community very trusted.",
+    "start": "00:10:53",
+    "end": "00:10:55"
+  },
+  {
+    "text": "He converts really well and then we also do some like videos that are kind of funny.",
+    "start": "00:10:55",
+    "end": "00:11:01"
+  },
+  {
+    "text": "Like this this guy's name is Moose.",
+    "start": "00:11:01",
+    "end": "00:11:02"
+  },
+  {
+    "text": "He's his videos are mostly jokes where he talks about like his friends taking too much of a of a peptide and not feeling the best or or or getting too not as much not the best results.",
+    "start": "00:11:02",
+    "end": "00:11:13"
+  },
+  {
+    "text": "He'll talk about how it's important to use our app to track it and so I'll show you one of his videos like this one got 400,000 views.",
+    "start": "00:11:13",
+    "end": "00:11:21"
+  },
+  {
+    "text": ">> Okay so it's a 19 second long video which is doable.",
+    "start": "00:11:19",
+    "end": "00:11:23"
+  },
+  {
+    "text": "It's like not too complex I guess.",
+    "start": "00:11:23",
+    "end": "00:11:27"
+  },
+  {
+    "text": ">> So like all his videos get hundreds of thousands of views.",
+    "start": "00:11:25",
+    "end": "00:11:28"
+  },
+  {
+    "text": "They're supposed to just be funny and And he'll just talk about the app at the end.",
+    "start": "00:11:28",
+    "end": "00:11:33"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:11:31",
+    "end": "00:11:33"
+  },
+  {
+    "text": "Can we see the flow?",
+    "start": "00:11:33",
+    "end": "00:11:35"
+  },
+  {
+    "text": "Like the the user journey flow from you find this video on your for you page or like because you're following the person, and then in the description of the video it says code moose for Pep AI, right?",
+    "start": "00:11:35",
+    "end": "00:11:46"
+  },
+  {
+    "text": "And then you click on the bio and then there's another link there.",
+    "start": "00:11:46",
+    "end": "00:11:50"
+  },
+  {
+    "text": ">> So what they do is like um if we click on Moose's account right there.",
+    "start": "00:11:48",
+    "end": "00:11:55"
+  },
+  {
+    "text": ">> So then in his bio it says, \"Oh, these are all these other other things that he's promoting.",
+    "start": "00:11:52",
+    "end": "00:11:59"
+  },
+  {
+    "text": "\" But then in his like link in bio it has the tracked link, I see.",
+    "start": "00:11:59",
+    "end": "00:12:03"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:12:03",
+    "end": "00:12:04"
+  },
+  {
+    "text": ">> And this link automatically tracks it.",
+    "start": "00:12:03",
+    "end": "00:12:06"
+  },
+  {
+    "text": "So when someone clicks this, we can see someone clicked his link, then we can see if they downloaded, and then we can also see if they bought a subscription.",
+    "start": "00:12:04",
+    "end": "00:12:12"
+  },
+  {
+    "text": "So then from here it just takes you straight to the app store.",
+    "start": "00:12:11",
+    "end": "00:12:15"
+  },
+  {
+    "text": "Or it also tracks if you're on, you know, um Android.",
+    "start": "00:12:15",
+    "end": "00:12:17"
+  },
+  {
+    "text": "So then if not, it'll bring you to the Google Play Store.",
+    "start": "00:12:17",
+    "end": "00:12:21"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:12:18",
+    "end": "00:12:20"
+  },
+  {
+    "text": "What software do you use to track?",
+    "start": "00:12:20",
+    "end": "00:12:24"
+  },
+  {
+    "text": ">> Uh AppsFlyer.",
+    "start": "00:12:22",
+    "end": "00:12:23"
+  },
+  {
+    "text": "And then AppsFlyer makes these one links for us, which pretty much does that.",
+    "start": "00:12:23",
+    "end": "00:12:28"
+  },
+  {
+    "text": ">> That's really interesting cuz I feel like a lot of the UGC space lately has been all about like very subtle CTAs, no links in bio, and people are just like closing the TikTok app, opening App Store, manually searching the name of the app, and then downloading.",
+    "start": "00:12:27",
+    "end": "00:12:43"
+  },
+  {
+    "text": "And then there's like zero attribution.",
+    "start": "00:12:43",
+    "end": "00:12:45"
+  },
+  {
+    "text": "But it seems like with your influencer marketing strategy, there's like people who actually have an audience with trust, and then they have enough trust to be able to say in their videos like, \"Hey, use my code, get a discount.",
+    "start": "00:12:45",
+    "end": "00:12:57"
+  },
+  {
+    "text": "\" And then people are actually clicking the link in the bio, which is really interesting.",
+    "start": "00:12:57",
+    "end": "00:13:01"
+  },
+  {
+    "text": ">> So you find that that's much higher converting, you said, than the like uh scrappy UGC.",
+    "start": "00:13:00",
+    "end": "00:13:06"
+  },
+  {
+    "text": ">> Yeah, and another reason for that as well is I mean this could work for other apps, but it works specifically well for this one.",
+    "start": "00:13:05",
+    "end": "00:13:11"
+  },
+  {
+    "text": "People are going to click these guys' links from if they see another video of theirs that doesn't have anything to do with Pep AI, they still want to click the link because they want to find something that's going to teach them about peptides or GLPs.",
+    "start": "00:13:11",
+    "end": "00:13:23"
+  },
+  {
+    "text": "Or if they have a link where they can go, you know, like a lot of these guys will be like, \"You can book a call with me or read about my whole experience while taking them.",
+    "start": "00:13:23",
+    "end": "00:13:29"
+  },
+  {
+    "text": "So, a lot of these people will see a different video that has nothing to do with Peptide I, then they'll click their link, and then then they'll see the Peptide I app there, and a lot of people convert from that without even seeing any video.",
+    "start": "00:13:29",
+    "end": "00:13:40"
+  },
+  {
+    "text": ">> I didn't even think about that, but that makes so much sense.",
+    "start": "00:13:39",
+    "end": "00:13:42"
+  },
+  {
+    "text": "Cuz if they're a influencer, they're creator, they're making multiple videos per week.",
+    "start": "00:13:42",
+    "end": "00:13:47"
+  },
+  {
+    "text": "They're probably posting every day in some cases, and you're just getting all those all that traffic cuz they're promoting other stuff.",
+    "start": "00:13:47",
+    "end": "00:13:54"
+  },
+  {
+    "text": "Like, what are the other things that they promote?",
+    "start": "00:13:54",
+    "end": "00:13:58"
+  },
+  {
+    "text": ">> They just do like, you know, videos talking about peptides, like informational videos, and they're not even necessarily promoting stuff.",
+    "start": "00:13:56",
+    "end": "00:14:04"
+  },
+  {
+    "text": "It's just more like informational, and they'll be like, \"If you want to learn more, like, you can go to link in bio.",
+    "start": "00:14:04",
+    "end": "00:14:09"
+  },
+  {
+    "text": "\" You know, TikTok can be kind of like strict about some of the stuff you talk about on there, but they'll have like their own like school communities or Discord, where then they can talk about it more, and that's where they're trying to get people to go to, I think, so that they can like teach them more about their journey on peptides and GLPs, and stuff like that.",
+    "start": "00:14:09",
+    "end": "00:14:24"
+  },
+  {
+    "text": "But, because of that traffic, we get a lot to the app.",
+    "start": "00:14:24",
+    "end": "00:14:27"
+  },
+  {
+    "text": "And I even tested it by having one of our creators, where we had him put the link in the bio, and we didn't have him post for 2 weeks, and we still had a ton of downloads, and he didn't even make a single post.",
+    "start": "00:14:27",
+    "end": "00:14:37"
+  },
+  {
+    "text": ">> Yeah, that makes a lot of sense.",
+    "start": "00:14:36",
+    "end": "00:14:38"
+  },
+  {
+    "text": "So, basically, they're promoting like their own paid communities because the peptide space is sort of There's just a lot of information out there, and you don't really know who to trust.",
+    "start": "00:14:38",
+    "end": "00:14:49"
+  },
+  {
+    "text": "So, then people are probably paying 10, 20, 50 dollars a month to get access to like curated expert information from people that are like have experience with peptides.",
+    "start": "00:14:49",
+    "end": "00:14:57"
+  },
+  {
+    "text": "And then, they're probably doing call to actions on their other videos saying, \"Hey, go to my link in bio.",
+    "start": "00:14:57",
+    "end": "00:15:02"
+  },
+  {
+    "text": "\" And then you're getting all that residual just clicks from all the people that are following their other CCAs.",
+    "start": "00:15:02",
+    "end": "00:15:09"
+  },
+  {
+    "text": "That's really That's really good.",
+    "start": "00:15:08",
+    "end": "00:15:11"
+  },
+  {
+    "text": "So, how do you do deal structures with influencers like these?",
+    "start": "00:15:11",
+    "end": "00:15:15"
+  },
+  {
+    "text": ">> You know, it's different for everyone.",
+    "start": "00:15:13",
+    "end": "00:15:15"
+  },
+  {
+    "text": "A lot of times we'll start with like a trial month, where we'll be like, one post a week for the month, four posts in total, four story posts, and then, of course, always link in bio.",
+    "start": "00:15:15",
+    "end": "00:15:24"
+  },
+  {
+    "text": "And then it kind of goes off of their views and engagement.",
+    "start": "00:15:24",
+    "end": "00:15:26"
+  },
+  {
+    "text": "So, we don't really care about how many followers they have.",
+    "start": "00:15:26",
+    "end": "00:15:29"
+  },
+  {
+    "text": "It's all about engagement.",
+    "start": "00:15:29",
+    "end": "00:15:31"
+  },
+  {
+    "text": "If they were getting like 5,000 views per video, we'd probably give them $200 or something.",
+    "start": "00:15:31",
+    "end": "00:15:36"
+  },
+  {
+    "text": "You know, it's not a lot.",
+    "start": "00:15:36",
+    "end": "00:15:37"
+  },
+  {
+    "text": "From there, it's like if they perform really well that month based off all their sign-ups and stuff, we'll increase it.",
+    "start": "00:15:37",
+    "end": "00:15:42"
+  },
+  {
+    "text": "Or if it's not going as well, we you know, it was okay, we'll keep it the same or decrease it.",
+    "start": "00:15:42",
+    "end": "00:15:47"
+  },
+  {
+    "text": "But usually we start off with a 1-month deal.",
+    "start": "00:15:47",
+    "end": "00:15:48"
+  },
+  {
+    "text": "And then after that, if it goes very well, we instantly go into like a 3-month deal.",
+    "start": "00:15:48",
+    "end": "00:15:52"
+  },
+  {
+    "text": "It really varies for everyone.",
+    "start": "00:15:52",
+    "end": "00:15:53"
+  },
+  {
+    "text": "But some of our like bigger creators, it can be up to $4,000 a month.",
+    "start": "00:15:53",
+    "end": "00:15:57"
+  },
+  {
+    "text": "We even just signed this month, which I can't say who it is yet, but we signed it a really really big fitness influencer that's only worked with one app before.",
+    "start": "00:15:57",
+    "end": "00:16:05"
+  },
+  {
+    "text": "Um and he was their number one channel for marketing.",
+    "start": "00:16:05",
+    "end": "00:16:10"
+  },
+  {
+    "text": "So, we just signed him and we had to pay over 20,000.",
+    "start": "00:16:10",
+    "end": "00:16:13"
+  },
+  {
+    "text": "So, he's going to be posting starting next month, but this is going to be huge.",
+    "start": "00:16:13",
+    "end": "00:16:17"
+  },
+  {
+    "text": "And so, it's kind of a risk we're taking, but we we've been taking risks since we started, you know.",
+    "start": "00:16:17",
+    "end": "00:16:22"
+  },
+  {
+    "text": "First month, we probably spent anywhere from 20 to 30,000 in marketing just the first month cuz >> Well, that was pretty a pretty good month, right?",
+    "start": "00:16:21",
+    "end": "00:16:29"
+  },
+  {
+    "text": "What was the revenue for the first month?",
+    "start": "00:16:29",
+    "end": "00:16:32"
+  },
+  {
+    "text": ">> I take that back.",
+    "start": "00:16:30",
+    "end": "00:16:32"
+  },
+  {
+    "text": "We didn't spend 30 the first month, but we spent around 10 to 15, and then we made 30.",
+    "start": "00:16:32",
+    "end": "00:16:38"
+  },
+  {
+    "text": "And then the next month, we probably spent 25, 20-ish, and then we made 50.",
+    "start": "00:16:36",
+    "end": "00:16:44"
+  },
+  {
+    "text": "And this month, we probably spent actually less this month somehow.",
+    "start": "00:16:43",
+    "end": "00:16:47"
+  },
+  {
+    "text": "I think we spent anywhere from 15 to 20, but we've done 70 so far.",
+    "start": "00:16:47",
+    "end": "00:16:52"
+  },
+  {
+    "text": ">> So, you're actually like about 2x profitable for each month um even though you're spending like up front for a lot of these influencers, you just like looking at how many views they get, and then estimating, okay, here's the monthly retainer, and then in the in that example, like you start small, like if they have 5,000 views per video, then you would pay something like $200 for the whole month.",
+    "start": "00:16:50",
+    "end": "00:17:15"
+  },
+  {
+    "text": "And then how many videos would they be responsible for posting?",
+    "start": "00:17:15",
+    "end": "00:17:20"
+  },
+  {
+    "text": ">> Four videos, four story posts, and then the link in bio.",
+    "start": "00:17:18",
+    "end": "00:17:23"
+  },
+  {
+    "text": ">> Four videos, four story posts, and link in bio.",
+    "start": "00:17:20",
+    "end": "00:17:24"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:17:24",
+    "end": "00:17:25"
+  },
+  {
+    "text": "And the link in bio stays there for the whole month.",
+    "start": "00:17:25",
+    "end": "00:17:28"
+  },
+  {
+    "text": "And then is there like a cadence for that?",
+    "start": "00:17:28",
+    "end": "00:17:30"
+  },
+  {
+    "text": "Is like one one video, one story per week?",
+    "start": "00:17:30",
+    "end": "00:17:33"
+  },
+  {
+    "text": ">> Yeah, exactly.",
+    "start": "00:17:31",
+    "end": "00:17:32"
+  },
+  {
+    "text": "And then that's for a TikTok, too?",
+    "start": "00:17:32",
+    "end": "00:17:34"
+  },
+  {
+    "text": "Like I didn't even know TikTok stories got engagement.",
+    "start": "00:17:34",
+    "end": "00:17:37"
+  },
+  {
+    "text": ">> Some of them do.",
+    "start": "00:17:36",
+    "end": "00:17:37"
+  },
+  {
+    "text": "If they have a lot of followers, and especially in this space, people want to know as much information as they can.",
+    "start": "00:17:37",
+    "end": "00:17:42"
+  },
+  {
+    "text": "So, they'll really watch everything.",
+    "start": "00:17:42",
+    "end": "00:17:43"
+  },
+  {
+    "text": "You know, I've never even taken any peptides or GLPs, but there was a period before I built the app and I was interested.",
+    "start": "00:17:43",
+    "end": "00:17:49"
+  },
+  {
+    "text": "Some of these guys I work with now, everything they posted I would watch because I trusted them since they were taking all them.",
+    "start": "00:17:49",
+    "end": "00:17:55"
+  },
+  {
+    "text": "And I'd be like, all right, if I watch these guys and and hear what they have to say, I can at least learn from them.",
+    "start": "00:17:55",
+    "end": "00:18:00"
+  },
+  {
+    "text": "So, I would watch everything and if they were like, \"Download this app,\" I would have done it in a heartbeat.",
+    "start": "00:18:00",
+    "end": "00:18:05"
+  },
+  {
+    "text": "And that's what kind of justified where I was like, \"Oh, this this would work if someone actually knew how to market this, right?",
+    "start": "00:18:05",
+    "end": "00:18:11"
+  },
+  {
+    "text": "\" >> I feel like that's a pretty good deal.",
+    "start": "00:18:11",
+    "end": "00:18:14"
+  },
+  {
+    "text": "Like $200 for four posts, and they're getting about 5,000 views per post, which is not a lot of views, but if the video if the video format is like the ones that you were showing me earlier, where it's like they're actually talking about the app through some pain point or through some story, that's probably like a pretty high converting video.",
+    "start": "00:18:11",
+    "end": "00:18:32"
+  },
+  {
+    "text": "So, like how specific are you with the with the brief or like telling them how to make the videos?",
+    "start": "00:18:32",
+    "end": "00:18:38"
+  },
+  {
+    "text": ">> One thing I've tried really hard to do is have really really good relationships with all of our creators.",
+    "start": "00:18:36",
+    "end": "00:18:41"
+  },
+  {
+    "text": "You know, I think every creator we've worked with has said we're like the best company they've ever worked with.",
+    "start": "00:18:41",
+    "end": "00:18:46"
+  },
+  {
+    "text": "We're always, you know, working with them and we give them a ton of creative freedom.",
+    "start": "00:18:46",
+    "end": "00:18:50"
+  },
+  {
+    "text": "We have like a guide and we're like, \"Hey, this is what has worked well for others, and these apps or these videos have performed well, but you know your audience the best.",
+    "start": "00:18:50",
+    "end": "00:18:56"
+  },
+  {
+    "text": "We trust you guys and we want you to come up with what you think is best.",
+    "start": "00:18:56",
+    "end": "00:19:00"
+  },
+  {
+    "text": "\" So, we just really let them do what they want.",
+    "start": "00:19:00",
+    "end": "00:19:02"
+  },
+  {
+    "text": "It works because um they understand what works for their accounts.",
+    "start": "00:19:02",
+    "end": "00:19:06"
+  },
+  {
+    "text": ">> I mean, I guess that this there's like a snowball effect.",
+    "start": "00:19:04",
+    "end": "00:19:08"
+  },
+  {
+    "text": "Like once you have winning videos, then you can just show those as the brief to your new creators.",
+    "start": "00:19:08",
+    "end": "00:19:15"
+  },
+  {
+    "text": "But in the very beginning, did you did you just come up with the formats yourself?",
+    "start": "00:19:12",
+    "end": "00:19:18"
+  },
+  {
+    "text": ">> Yes and no.",
+    "start": "00:19:16",
+    "end": "00:19:18"
+  },
+  {
+    "text": "I had made a couple of my own videos.",
+    "start": "00:19:18",
+    "end": "00:19:20"
+  },
+  {
+    "text": "Um I had watched some interviews from other apps and just kind of got ideas.",
+    "start": "00:19:20",
+    "end": "00:19:23"
+  },
+  {
+    "text": "And they did all right.",
+    "start": "00:19:23",
+    "end": "00:19:25"
+  },
+  {
+    "text": "I mean, they didn't really do much.",
+    "start": "00:19:25",
+    "end": "00:19:26"
+  },
+  {
+    "text": "So then I just started, you know, once you start working with these influencers, like they already know what works well for them.",
+    "start": "00:19:26",
+    "end": "00:19:30"
+  },
+  {
+    "text": "So they were like, \"Oh, this would be easy to promote cuz people want something like this.",
+    "start": "00:19:30",
+    "end": "00:19:34"
+  },
+  {
+    "text": "So we'll just throw it in at the end of the videos.",
+    "start": "00:19:34",
+    "end": "00:19:37"
+  },
+  {
+    "text": "\" So some of the videos are like specifically about the app.",
+    "start": "00:19:37",
+    "end": "00:19:39"
+  },
+  {
+    "text": "Some of them are about a GLP-1 peptide and then they mention the app at the end for tracking.",
+    "start": "00:19:39",
+    "end": "00:19:43"
+  },
+  {
+    "text": "Yeah, we just kind of let them do their thing and it works.",
+    "start": "00:19:43",
+    "end": "00:19:46"
+  },
+  {
+    "text": ">> Is that like how do you do that?",
+    "start": "00:19:45",
+    "end": "00:19:47"
+  },
+  {
+    "text": "Is that like on a brainstorming call where you're like, \"Here's here's the challenge.",
+    "start": "00:19:47",
+    "end": "00:19:50"
+  },
+  {
+    "text": "Like we need to get downloads on this app, but you can't just like hard shill it in a video.",
+    "start": "00:19:50",
+    "end": "00:19:56"
+  },
+  {
+    "text": "So like tell me some ideas.",
+    "start": "00:19:56",
+    "end": "00:19:57"
+  },
+  {
+    "text": "\" Like are you like live coming up with these ideas like with them?",
+    "start": "00:19:57",
+    "end": "00:19:59"
+  },
+  {
+    "text": "Or are they just are you just like \"Oh, just do whatever you want.",
+    "start": "00:19:59",
+    "end": "00:20:03"
+  },
+  {
+    "text": "\" and then they come up with stuff?",
+    "start": "00:20:03",
+    "end": "00:20:06"
+  },
+  {
+    "text": ">> So how how we do it is like well, when we get them on get their number, we like we have a big outreach team.",
+    "start": "00:20:04",
+    "end": "00:20:11"
+  },
+  {
+    "text": "So we are sending over 100 DMs every single day to creators.",
+    "start": "00:20:11",
+    "end": "00:20:16"
+  },
+  {
+    "text": "Um we would do over 1,000 messages for outreach every week.",
+    "start": "00:20:16",
+    "end": "00:20:18"
+  },
+  {
+    "text": "We're always hopping on calls with these guys.",
+    "start": "00:20:18",
+    "end": "00:20:21"
+  },
+  {
+    "text": "So we get their number, we get them on WhatsApp, and then we'll call them.",
+    "start": "00:20:21",
+    "end": "00:20:24"
+  },
+  {
+    "text": "Um and then usually we'll, you know, we'll come up with a deal that works for everyone.",
+    "start": "00:20:24",
+    "end": "00:20:29"
+  },
+  {
+    "text": "And then after that, we, you know, we get up their code active and their links so we can track everything.",
+    "start": "00:20:29",
+    "end": "00:20:33"
+  },
+  {
+    "text": "And then after that, it's when we explain like, \"Hey, here's a marketing guide.",
+    "start": "00:20:33",
+    "end": "00:20:36"
+  },
+  {
+    "text": "\" It's like a it's just a Google Doc with our best performing videos.",
+    "start": "00:20:36",
+    "end": "00:20:39"
+  },
+  {
+    "text": "And we're like, \"Feel free to look through these.",
+    "start": "00:20:39",
+    "end": "00:20:41"
+  },
+  {
+    "text": "You know, these videos have performed really well for us.",
+    "start": "00:20:41",
+    "end": "00:20:43"
+  },
+  {
+    "text": "If you want to recreate something like this.",
+    "start": "00:20:43",
+    "end": "00:20:46"
+  },
+  {
+    "text": "If not, you know, creative freedom.",
+    "start": "00:20:46",
+    "end": "00:20:47"
+  },
+  {
+    "text": "Do what you want because you know your audience the best.",
+    "start": "00:20:47",
+    "end": "00:20:49"
+  },
+  {
+    "text": "\" And that that's pretty much how it goes.",
+    "start": "00:20:49",
+    "end": "00:20:54"
+  },
+  {
+    "text": ">> That's super unrestrictive.",
+    "start": "00:20:51",
+    "end": "00:20:54"
+  },
+  {
+    "text": "But I guess like if you have the human touch, you kind of like you're preventing the just the laziness, I guess.",
+    "start": "00:20:54",
+    "end": "00:21:00"
+  },
+  {
+    "text": "Is that what people are I think are afraid of sometimes when they're like working with creators where they're going to tell them, \"Okay, here's your structure.",
+    "start": "00:21:00",
+    "end": "00:21:09"
+  },
+  {
+    "text": "I'll give you this many this much CPM, like this much performance bonus.",
+    "start": "00:21:09",
+    "end": "00:21:12"
+  },
+  {
+    "text": "Just make whatever you want.",
+    "start": "00:21:12",
+    "end": "00:21:15"
+  },
+  {
+    "text": "\" And then they're just going to end up like going viral with some random videos that don't actually promote the app.",
+    "start": "00:21:15",
+    "end": "00:21:20"
+  },
+  {
+    "text": "But if you get on a call with every single creator, you're like they're they're going to be bought in.",
+    "start": "00:21:20",
+    "end": "00:21:25"
+  },
+  {
+    "text": "Like they they actually trust you, you trust them, and they understand that okay, we're at we're we're actually trying to drive down those.",
+    "start": "00:21:25",
+    "end": "00:21:31"
+  },
+  {
+    "text": "Plus, they have the link in bio.",
+    "start": "00:21:31",
+    "end": "00:21:32"
+  },
+  {
+    "text": "So you give them a percentage of the revenue that they generate, right?",
+    "start": "00:21:32",
+    "end": "00:21:37"
+  },
+  {
+    "text": "Or is it just for tracking?",
+    "start": "00:21:37",
+    "end": "00:21:39"
+  },
+  {
+    "text": ">> It's different for everyone.",
+    "start": "00:21:37",
+    "end": "00:21:40"
+  },
+  {
+    "text": "You know, we do do affiliate deals with some of them where they can make a percentage of subscription sales.",
+    "start": "00:21:40",
+    "end": "00:21:45"
+  },
+  {
+    "text": "And since we can see all that, which this has worked really well because they care a lot more.",
+    "start": "00:21:45",
+    "end": "00:21:52"
+  },
+  {
+    "text": "Almost every creator, I would say, has a deal like that.",
+    "start": "00:21:50",
+    "end": "00:21:53"
+  },
+  {
+    "text": "And the percentage is kind of vary for everyone.",
+    "start": "00:21:53",
+    "end": "00:21:56"
+  },
+  {
+    "text": "But it's usually 20% commission.",
+    "start": "00:21:56",
+    "end": "00:21:57"
+  },
+  {
+    "text": "And it's just one time.",
+    "start": "00:21:57",
+    "end": "00:21:58"
+  },
+  {
+    "text": "It's not like reoccurring every month.",
+    "start": "00:21:58",
+    "end": "00:21:59"
+  },
+  {
+    "text": "It's just like a one-time thing.",
+    "start": "00:21:59",
+    "end": "00:22:00"
+  },
+  {
+    "text": "But it gives them a little extra and something to work for.",
+    "start": "00:22:00",
+    "end": "00:22:04"
+  },
+  {
+    "text": "So a lot of these guys will post more than we are even asking them to.",
+    "start": "00:22:04",
+    "end": "00:22:07"
+  },
+  {
+    "text": "And they put more effort into the videos because they're getting something out of it.",
+    "start": "00:22:07",
+    "end": "00:22:12"
+  },
+  {
+    "text": ">> That's great.",
+    "start": "00:22:10",
+    "end": "00:22:12"
+  },
+  {
+    "text": "I feel like attribution is always kind of hard in these UGC campaigns.",
+    "start": "00:22:12",
+    "end": "00:22:15"
+  },
+  {
+    "text": "And so you it's like hard to do affiliate revenue.",
+    "start": "00:22:15",
+    "end": "00:22:19"
+  },
+  {
+    "text": "And that's the strength the huge strength of of TikTok Shop cuz you just it's like built into the platform.",
+    "start": "00:22:19",
+    "end": "00:22:25"
+  },
+  {
+    "text": "People just sell physical products through TikTok on on pure commission.",
+    "start": "00:22:25",
+    "end": "00:22:29"
+  },
+  {
+    "text": "And for apps, it's like kind of hard to do that.",
+    "start": "00:22:29",
+    "end": "00:22:33"
+  },
+  {
+    "text": "But like the AppsFlyer thing seems like a great I think with like pure fresh account organic UGC, it's a little bit harder cuz the there's less trust to put like link in bio and stuff.",
+    "start": "00:22:33",
+    "end": "00:22:44"
+  },
+  {
+    "text": "But for influencer, it it makes sense that you could still do like sort of TikTok Shop style strategies where you're like really incentivizing people to to to do revenue or to drive revenue.",
+    "start": "00:22:44",
+    "end": "00:22:57"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:22:55",
+    "end": "00:22:56"
+  },
+  {
+    "text": "Can we look at the the actual app now?",
+    "start": "00:22:56",
+    "end": "00:22:58"
+  },
+  {
+    "text": "So let's look at the like Yeah, how how do you do your onboarding paywall?",
+    "start": "00:22:58",
+    "end": "00:23:04"
+  },
+  {
+    "text": ">> So this is our paywall.",
+    "start": "00:23:01",
+    "end": "00:23:05"
+  },
+  {
+    "text": "You know, it's very simple.",
+    "start": "00:23:05",
+    "end": "00:23:05"
+  },
+  {
+    "text": "Um you can kind of users are able to scroll through here and see all the features we offer.",
+    "start": "00:23:05",
+    "end": "00:23:10"
+  },
+  {
+    "text": "So, there's the yearly option or the monthly option.",
+    "start": "00:23:10",
+    "end": "00:23:13"
+  },
+  {
+    "text": "For the yearly, they get a 3-day free trial.",
+    "start": "00:23:11",
+    "end": "00:23:13"
+  },
+  {
+    "text": "So, we have a couple slides before where we're like, we want you to try Peptide for free so that there's not this big commitment that they feel like they're going at.",
+    "start": "00:23:13",
+    "end": "00:23:21"
+  },
+  {
+    "text": "And And we're also always testing with different prices, as well.",
+    "start": "00:23:21",
+    "end": "00:23:23"
+  },
+  {
+    "text": "So, like right now we're doing 40 for the year, 10 a month, but I'm working on making our prices even cheaper, if possible.",
+    "start": "00:23:23",
+    "end": "00:23:30"
+  },
+  {
+    "text": "This is our main home screen right here.",
+    "start": "00:23:30",
+    "end": "00:23:32"
+  },
+  {
+    "text": "Very simple.",
+    "start": "00:23:32",
+    "end": "00:23:34"
+  },
+  {
+    "text": "We have like whatever your last dose was, when your next dose is, uh medication level, application site, um there's like AI insights where it can just be like, \"Hey, like we've noticed, you know, you haven't been tracking a lot of water.",
+    "start": "00:23:34",
+    "end": "00:23:48"
+  },
+  {
+    "text": "\" Or something like that.",
+    "start": "00:23:48",
+    "end": "00:23:49"
+  },
+  {
+    "text": "Or like, \"You're not tracking a lot of food.",
+    "start": "00:23:49",
+    "end": "00:23:50"
+  },
+  {
+    "text": "\" You know, \"Make sure you're keeping up-to-date on that.",
+    "start": "00:23:50",
+    "end": "00:23:52"
+  },
+  {
+    "text": "\" Uh one thing that we're really, really big about, and I didn't clarify, I guess, good enough on my video with Starter Story, was that all of this information is user-inputted and it's just like a tracking tool.",
+    "start": "00:23:52",
+    "end": "00:24:06"
+  },
+  {
+    "text": "And there's no medical advice or telling people what to do and stuff.",
+    "start": "00:24:06",
+    "end": "00:24:08"
+  },
+  {
+    "text": "So, a lot of people were scared that it was like, \"Oh, this sounds like a lawsuit.",
+    "start": "00:24:08",
+    "end": "00:24:12"
+  },
+  {
+    "text": "\" It is It's a really nice tool tool because it's just for users to track their own information and that everything they put in themselves.",
+    "start": "00:24:12",
+    "end": "00:24:17"
+  },
+  {
+    "text": "And then here we have our tracker screen, where they can add their bottles or, you know, vials of what they're taking.",
+    "start": "00:24:17",
+    "end": "00:24:24"
+  },
+  {
+    "text": "And then they can come up with, you know, schedules if they want to take it once a week, or if they're doing cycles where they're going to be on it for a week, for a week.",
+    "start": "00:24:24",
+    "end": "00:24:33"
+  },
+  {
+    "text": "Um so, then this little calendar just shows when when they set their schedule for.",
+    "start": "00:24:33",
+    "end": "00:24:38"
+  },
+  {
+    "text": "And then it also shows like when your vial's going to be running out, so you know when to reorder more.",
+    "start": "00:24:36",
+    "end": "00:24:42"
+  },
+  {
+    "text": "And yeah, so that's that's the tracker screen.",
+    "start": "00:24:42",
+    "end": "00:24:45"
+  },
+  {
+    "text": "And then the lifestyle screen has been very popular.",
+    "start": "00:24:43",
+    "end": "00:24:46"
+  },
+  {
+    "text": "It's pretty much just like a calorie counting app.",
+    "start": "00:24:46",
+    "end": "00:24:48"
+  },
+  {
+    "text": "The big thing is getting your protein in, your calories, your water.",
+    "start": "00:24:48",
+    "end": "00:24:51"
+  },
+  {
+    "text": "And so, they're able to track all that here.",
+    "start": "00:24:51",
+    "end": "00:24:54"
+  },
+  {
+    "text": "If they click it, they can can all their macros, fiber, carbs, fats as well.",
+    "start": "00:24:54",
+    "end": "00:25:01"
+  },
+  {
+    "text": "And then we of course have a meal scan where they can just take a picture of the food and track it.",
+    "start": "00:24:59",
+    "end": "00:25:04"
+  },
+  {
+    "text": "Then there's weight tracking which users can manually input or, you know, they can use Apple Health.",
+    "start": "00:25:04",
+    "end": "00:25:09"
+  },
+  {
+    "text": "Uh we have that connected as well, so it can just track all that and in uh manually put it in for you.",
+    "start": "00:25:09",
+    "end": "00:25:15"
+  },
+  {
+    "text": "Then yeah, there's a workout tracker as well where users can like track their workouts, track their runs.",
+    "start": "00:25:15",
+    "end": "00:25:19"
+  },
+  {
+    "text": "So there's a lot of features in here.",
+    "start": "00:25:19",
+    "end": "00:25:23"
+  },
+  {
+    "text": "And then lastly, our little button in the middle opens to this where they can, you know, add their vial, create schedules, log a dose, log weight.",
+    "start": "00:25:21",
+    "end": "00:25:31"
+  },
+  {
+    "text": "Then there's like daily check-ins and side effects.",
+    "start": "00:25:31",
+    "end": "00:25:35"
+  },
+  {
+    "text": "And then, you know, calculators for nutrition and vials and then meal scanning.",
+    "start": "00:25:35",
+    "end": "00:25:39"
+  },
+  {
+    "text": "So kind of a lot, but that is what sums up the app.",
+    "start": "00:25:39",
+    "end": "00:25:43"
+  },
+  {
+    "text": "I guess one last thing, this little uh button up here, which is uh like an AI chat box where they can go in there and like ask questions like, \"Oh, can I travel with my GLP?",
+    "start": "00:25:43",
+    "end": "00:25:52"
+  },
+  {
+    "text": "\" It can't give medical advice, but it can answer like simple questions like that.",
+    "start": "00:25:52",
+    "end": "00:25:58"
+  },
+  {
+    "text": ">> The most profitable app founders I know have been using Superwall to AB test their paywalls because yes, they have the basics like building and deploying paywalls super quickly without coding, targeting users with different paywalls based on behavior and demographics.",
+    "start": "00:25:56",
+    "end": "00:26:10"
+  },
+  {
+    "text": "But now, Superwall AI actually predicts who will subscribe before they see a paywall.",
+    "start": "00:26:10",
+    "end": "00:26:13"
+  },
+  {
+    "text": "The AI can do this because Superwall analyzes over 1 billion paywall interactions to score user intent and then recommends optimal pricing in real time.",
+    "start": "00:26:13",
+    "end": "00:26:22"
+  },
+  {
+    "text": "A good way to start is paywallexperiments.",
+    "start": "00:26:22",
+    "end": "00:26:25"
+  },
+  {
+    "text": "com.",
+    "start": "00:26:25",
+    "end": "00:26:25"
+  },
+  {
+    "text": "It's a free tool that gives you data-backed paywall experiment ideas to increase your app's revenue.",
+    "start": "00:26:25",
+    "end": "00:26:31"
+  },
+  {
+    "text": "Like what do you think is getting people to pay for the app?",
+    "start": "00:26:31",
+    "end": "00:26:33"
+  },
+  {
+    "text": "Like why are people willing to pay from a, I guess like pain point and solution pers- perspective?",
+    "start": "00:26:33",
+    "end": "00:26:41"
+  },
+  {
+    "text": "Like are they is it just pure convenience out of like, \"Oh, tracking my stuff is is it's overwhelming or it's a headache and there's just a lot to track so I just need something or is there like some kind of emotional aspect that you think people are, you know, willing to pay to solve some sort of like painkiller problem?",
+    "start": "00:26:41",
+    "end": "00:27:03"
+  },
+  {
+    "text": ">> I think it could be a little bit of both but here's what I do know.",
+    "start": "00:27:02",
+    "end": "00:27:07"
+  },
+  {
+    "text": "I've had friends that have taken GLP's, peptides and a big thing is tracking what you took and when.",
+    "start": "00:27:07",
+    "end": "00:27:13"
+  },
+  {
+    "text": "And the reasoning is um you want to remember what your last dose was.",
+    "start": "00:27:13",
+    "end": "00:27:16"
+  },
+  {
+    "text": "You know, sometimes you only take them once a week and having a little reminder where it's like, oh it's Friday morning I need to take my shot.",
+    "start": "00:27:16",
+    "end": "00:27:25"
+  },
+  {
+    "text": "Um having that's really nice.",
+    "start": "00:27:25",
+    "end": "00:27:26"
+  },
+  {
+    "text": "On top of it, the injection site history is really important.",
+    "start": "00:27:26",
+    "end": "00:27:28"
+  },
+  {
+    "text": "I you know, I've read that like you don't want to inject the same spot over and over and over again.",
+    "start": "00:27:28",
+    "end": "00:27:35"
+  },
+  {
+    "text": "Knowing where you did it last time without having to put in your notes, it's just a much cleaner look and I think you know, if you were if these people are really going to be injecting these these drugs into their body and spending a bunch of money on them, going and spending 30 to 40 dollars to have something for the year that just is going to make it cleaner and easier for them, it's a no-brainer.",
+    "start": "00:27:33",
+    "end": "00:27:54"
+  },
+  {
+    "text": ">> That makes sense.",
+    "start": "00:27:52",
+    "end": "00:27:54"
+  },
+  {
+    "text": "It's so it's kind of like safety.",
+    "start": "00:27:54",
+    "end": "00:27:56"
+  },
+  {
+    "text": "Like if you're going to be doing this stuff, you want to know when you're doing it, how how much are the doses, uh the injection sites.",
+    "start": "00:27:56",
+    "end": "00:28:04"
+  },
+  {
+    "text": "You don't want to repeat injection sites too much and it seems like the problem sort of sells itself in a way.",
+    "start": "00:28:04",
+    "end": "00:28:10"
+  },
+  {
+    "text": "Like people know it's there could be potential issues if they don't track these things properly which the creators probably are talking about on TikTok.",
+    "start": "00:28:10",
+    "end": "00:28:19"
+  },
+  {
+    "text": "Um and you don't really need to resell that to them.",
+    "start": "00:28:19",
+    "end": "00:28:22"
+  },
+  {
+    "text": "Like in your onboarding are you like kind of digging into some of these pain points to like make people aware of, oh yeah I do I do need like this thing.",
+    "start": "00:28:22",
+    "end": "00:28:31"
+  },
+  {
+    "text": "Or is it like a pretty easy sell?",
+    "start": "00:28:31",
+    "end": "00:28:33"
+  },
+  {
+    "text": "Do you feel like there's not like a ton of like persuasion or like convincing?",
+    "start": "00:28:33",
+    "end": "00:28:38"
+  },
+  {
+    "text": ">> It's a pretty easy sell.",
+    "start": "00:28:36",
+    "end": "00:28:38"
+  },
+  {
+    "text": "But also the the thing that is really interesting is I would say like for onboarding it it varies for for the ages.",
+    "start": "00:28:38",
+    "end": "00:28:45"
+  },
+  {
+    "text": "So over 50% of our users more like 60% are over the age of 25.",
+    "start": "00:28:45",
+    "end": "00:28:48"
+  },
+  {
+    "text": "What we have noticed is that people under the age of 25 are less likely to purchase and they're more more likely to stop the onboarding if it's really long cuz they're just bored of it and they just want to get through it all.",
+    "start": "00:28:48",
+    "end": "00:28:58"
+  },
+  {
+    "text": "So, what we've done is set up our onboarding specifically where like if you're under the age of 25, the onboarding is really short.",
+    "start": "00:28:58",
+    "end": "00:29:05"
+  },
+  {
+    "text": "We just show you the key points of the app, quick things you need to know, you know, disclaimers, things you need to accept, and then gets you in there as fast as we can.",
+    "start": "00:29:05",
+    "end": "00:29:11"
+  },
+  {
+    "text": "For the people older, we give them a longer onboarding and really talk about nutrition and tracking, you know, your food and your water and your sleep and things like that that are really important.",
+    "start": "00:29:11",
+    "end": "00:29:21"
+  },
+  {
+    "text": "And we've noticed that works really well for people over the age of 25.",
+    "start": "00:29:21",
+    "end": "00:29:24"
+  },
+  {
+    "text": "And so, it's kind of it's different for for everyone.",
+    "start": "00:29:24",
+    "end": "00:29:28"
+  },
+  {
+    "text": "But, I think there is that point where like people know when they're taking them like, \"Oh, nutrition and stuff is important.",
+    "start": "00:29:28",
+    "end": "00:29:35"
+  },
+  {
+    "text": "\" But, then when we're in their face kind of like, \"This is really important.",
+    "start": "00:29:35",
+    "end": "00:29:38"
+  },
+  {
+    "text": "We're going to make you a full nutrition plan where you put in your like, you know, your height, your weight, all this stuff, and then this is our recommended recommended, you know, calories you should be eating, protein, and all this.",
+    "start": "00:29:38",
+    "end": "00:29:48"
+  },
+  {
+    "text": "\" And it I think it kind of makes them think like, \"Oh, this is really important and I really do need to be tracking this if I'm, you know, taking this drug.",
+    "start": "00:29:48",
+    "end": "00:29:55"
+  },
+  {
+    "text": "\" And so, I think there's a little bit of convincing them into needing this app.",
+    "start": "00:29:55",
+    "end": "00:29:59"
+  },
+  {
+    "text": "So, it's not even about the features necessarily.",
+    "start": "00:29:59",
+    "end": "00:30:04"
+  },
+  {
+    "text": "It's more about all of their behaviors surrounding the core value of the app, which is the peptide tracking, but it's just all the other stuff like your diet, like more about you, and um your you're not It sounds like you're not really promising the the tracker as the outcome.",
+    "start": "00:30:04",
+    "end": "00:30:21"
+  },
+  {
+    "text": "You're kind of promising these other things like, \"Oh, we'll build you like a a diet plan and like these some of these other features.",
+    "start": "00:30:21",
+    "end": "00:30:28"
+  },
+  {
+    "text": "That's not just like the tracker.",
+    "start": "00:30:28",
+    "end": "00:30:30"
+  },
+  {
+    "text": "\" Is that Is that accurate?",
+    "start": "00:30:30",
+    "end": "00:30:34"
+  },
+  {
+    "text": ">> Yeah, definitely.",
+    "start": "00:30:32",
+    "end": "00:30:33"
+  },
+  {
+    "text": "I mean, we started our app, it was a lot simpler and just like tracking your your dose or whatever.",
+    "start": "00:30:33",
+    "end": "00:30:40"
+  },
+  {
+    "text": "And then cuz a a of apps I feel like they say like you want to keep it really simple and not overwhelm the user with a ton of stuff.",
+    "start": "00:30:39",
+    "end": "00:30:45"
+  },
+  {
+    "text": "But for for something as uh something like this that is like pretty serious, you know, your your people are taking these drugs for extended periods of times and there's a lot of stuff that needs to be tracked.",
+    "start": "00:30:45",
+    "end": "00:30:56"
+  },
+  {
+    "text": "And so, we've done a lot of user feedback and we just keep adding stuff every time they really want something.",
+    "start": "00:30:54",
+    "end": "00:31:01"
+  },
+  {
+    "text": "Of course though, like I was saying earlier, we have to be really really careful with what we add because it is that that fine line where we don't want to give medical advice.",
+    "start": "00:31:00",
+    "end": "00:31:09"
+  },
+  {
+    "text": "We we don't recommend anything to them.",
+    "start": "00:31:09",
+    "end": "00:31:11"
+  },
+  {
+    "text": "It's just like, \"Hey, here's a feature.",
+    "start": "00:31:11",
+    "end": "00:31:14"
+  },
+  {
+    "text": "You can put this in if you want, but it's it's all user input.",
+    "start": "00:31:14",
+    "end": "00:31:17"
+  },
+  {
+    "text": "\" >> I'm really curious, like what are some of those insights?",
+    "start": "00:31:17",
+    "end": "00:31:19"
+  },
+  {
+    "text": "Like initially you launched it as simple as possible, but then through the feedback it seems like people resonate with certain things, which gives you clues to what people are more willing to pay for.",
+    "start": "00:31:19",
+    "end": "00:31:31"
+  },
+  {
+    "text": "So, you can like reshape the onboarding and paywall through those insights.",
+    "start": "00:31:29",
+    "end": "00:31:34"
+  },
+  {
+    "text": "Like what what were some of those like bigger insights for you guys?",
+    "start": "00:31:34",
+    "end": "00:31:38"
+  },
+  {
+    "text": ">> Yeah, a lot of it I would say one of the big ones that we got a lot of like people recommending for us to add was cycles.",
+    "start": "00:31:37",
+    "end": "00:31:42"
+  },
+  {
+    "text": "Instead of just having a schedule of like, \"Oh, you take this once a week.",
+    "start": "00:31:42",
+    "end": "00:31:46"
+  },
+  {
+    "text": "\" cycling where they can be on it for a week, off it for a week, back on it.",
+    "start": "00:31:46",
+    "end": "00:31:49"
+  },
+  {
+    "text": "That was a really big one.",
+    "start": "00:31:49",
+    "end": "00:31:53"
+  },
+  {
+    "text": "The calculator was a really big one.",
+    "start": "00:31:51",
+    "end": "00:31:54"
+  },
+  {
+    "text": "I was scared to add this at first because it it almost seems like medical advice, but after we did a ton of research and talked to attorneys and stuff, it's not.",
+    "start": "00:31:54",
+    "end": "00:32:00"
+  },
+  {
+    "text": "But it's a calculator where they can put in their vial amount, how much backwater they added, and then how much of their doses they're taking, and then it shows like on like a syringe the units to pull to.",
+    "start": "00:31:59",
+    "end": "00:32:09"
+  },
+  {
+    "text": "That was a feature I didn't want to add for a long time cuz I was like, \"This just sounds really scary.",
+    "start": "00:32:09",
+    "end": "00:32:14"
+  },
+  {
+    "text": "\" But it is something people really really wanted and that drove a ton of traffic once we were able to add that.",
+    "start": "00:32:14",
+    "end": "00:32:20"
+  },
+  {
+    "text": "Um but we definitely had to just had to justify that it was safe for us to do.",
+    "start": "00:32:19",
+    "end": "00:32:24"
+  },
+  {
+    "text": ">> Can you tell me those features that you removed?",
+    "start": "00:32:22",
+    "end": "00:32:26"
+  },
+  {
+    "text": ">> First one was a body scan.",
+    "start": "00:32:24",
+    "end": "00:32:27"
+  },
+  {
+    "text": "It was like an AI body scan that just kind of tracked like it it it just gave you insights and stuff on like your body and then like as you like take more pictures down the line, but like no one was using it.",
+    "start": "00:32:27",
+    "end": "00:32:35"
+  },
+  {
+    "text": "Okay, we have achievements, but no one uses them.",
+    "start": "00:32:35",
+    "end": "00:32:39"
+  },
+  {
+    "text": "So, I didn't actually remove this, but I made it way less advanced.",
+    "start": "00:32:39",
+    "end": "00:32:42"
+  },
+  {
+    "text": "It was just much simpler, just like, \"Oh, you have a one-day streak now.",
+    "start": "00:32:42",
+    "end": "00:32:44"
+  },
+  {
+    "text": "\" Changed that a little bit.",
+    "start": "00:32:44",
+    "end": "00:32:48"
+  },
+  {
+    "text": "And then, another thing we removed was we did have like a a bloodwork thing where users could put their bloodwork in there if they wanted, but no one used it.",
+    "start": "00:32:48",
+    "end": "00:32:55"
+  },
+  {
+    "text": "So, we just were like, \"All right, we'll get rid of it.",
+    "start": "00:32:55",
+    "end": "00:32:56"
+  },
+  {
+    "text": "\" We're We're constantly removing stuff and adding things and just testing what works best.",
+    "start": "00:32:56",
+    "end": "00:33:01"
+  },
+  {
+    "text": ">> That's really cool.",
+    "start": "00:32:59",
+    "end": "00:33:02"
+  },
+  {
+    "text": "That is It sounds very iterative, and you're actually It seems like it helps the marketing, too.",
+    "start": "00:33:02",
+    "end": "00:33:07"
+  },
+  {
+    "text": "It's not just like providing a more useful product.",
+    "start": "00:33:05",
+    "end": "00:33:08"
+  },
+  {
+    "text": "It's like Like with the example where you would uh input the amounts and then give the the dose amounts uh feature like that.",
+    "start": "00:33:08",
+    "end": "00:33:16"
+  },
+  {
+    "text": "Would Did that help the marketing by you basically like tell your creators, like, \"Hey, we're launching this feature.",
+    "start": "00:33:16",
+    "end": "00:33:22"
+  },
+  {
+    "text": "We We know that people resonate with it because we just listened to them, and that's why we built it.",
+    "start": "00:33:22",
+    "end": "00:33:25"
+  },
+  {
+    "text": "\" And then, they like talk about it in the videos.",
+    "start": "00:33:25",
+    "end": "00:33:29"
+  },
+  {
+    "text": ">> If we add a new feature or something like that that's like really cool, um you know, people will like, we just kind of tell everyone and we're like, \"Hey, this is going to be We'll just This is how we say it.",
+    "start": "00:33:27",
+    "end": "00:33:37"
+  },
+  {
+    "text": "This is going to be really really um big for the app.",
+    "start": "00:33:37",
+    "end": "00:33:40"
+  },
+  {
+    "text": "People are going to really like it, and if you promote it, you're going to get more sales for your code, which is going to be more money for them with the affiliate deals.",
+    "start": "00:33:40",
+    "end": "00:33:46"
+  },
+  {
+    "text": "\" So, whenever there's something like this, they all want to post about it.",
+    "start": "00:33:46",
+    "end": "00:33:50"
+  },
+  {
+    "text": ">> This is a very thorough operation.",
+    "start": "00:33:48",
+    "end": "00:33:51"
+  },
+  {
+    "text": "Are you doing like Is there like some kind of process for collecting user feedback?",
+    "start": "00:33:51",
+    "end": "00:33:55"
+  },
+  {
+    "text": "Like are Is it just like an automated thing inside the app?",
+    "start": "00:33:54",
+    "end": "00:33:57"
+  },
+  {
+    "text": "Are you like literally talking to your customers?",
+    "start": "00:33:57",
+    "end": "00:34:02"
+  },
+  {
+    "text": ">> Both and more.",
+    "start": "00:33:59",
+    "end": "00:34:01"
+  },
+  {
+    "text": "Uh there's a thing in the app, you know, where they can do that.",
+    "start": "00:34:01",
+    "end": "00:34:06"
+  },
+  {
+    "text": "We get emails.",
+    "start": "00:34:04",
+    "end": "00:34:06"
+  },
+  {
+    "text": "We go through all our reviews.",
+    "start": "00:34:06",
+    "end": "00:34:06"
+  },
+  {
+    "text": "We get Instagram messages, TikTok DMs.",
+    "start": "00:34:06",
+    "end": "00:34:12"
+  },
+  {
+    "text": "Um we talk to all our creators.",
+    "start": "00:34:10",
+    "end": "00:34:14"
+  },
+  {
+    "text": "I mean, they know a ton about peptides and GLPs.",
+    "start": "00:34:14",
+    "end": "00:34:16"
+  },
+  {
+    "text": "So, we'll be like, \"Hey, can you hop on a quick call?",
+    "start": "00:34:14",
+    "end": "00:34:17"
+  },
+  {
+    "text": "\" We'll walk through the app with them, see what they like, what they don't like, what they think could be better, and then we'll take that feedback and, you know, add to the app.",
+    "start": "00:34:17",
+    "end": "00:34:27"
+  },
+  {
+    "text": "I would say we have to be doing of all peptide and GLP apps, there's no one releasing more updates than us.",
+    "start": "00:34:25",
+    "end": "00:34:32"
+  },
+  {
+    "text": "We're Like every single week, we probably drop two to three updates a week.",
+    "start": "00:34:32",
+    "end": "00:34:36"
+  },
+  {
+    "text": "We have a big team though.",
+    "start": "00:34:36",
+    "end": "00:34:36"
+  },
+  {
+    "text": "I have two developers who literally just wake up and do this until they go to sleep.",
+    "start": "00:34:36",
+    "end": "00:34:42"
+  },
+  {
+    "text": "It's their life.",
+    "start": "00:34:42",
+    "end": "00:34:44"
+  },
+  {
+    "text": "For me, you know, I'm I'm the CEO so I'm running all this and so I'm doing a little bit of everything all day, but it's the same same thing for me wake up and work.",
+    "start": "00:34:41",
+    "end": "00:34:50"
+  },
+  {
+    "text": "But we have a big team.",
+    "start": "00:34:50",
+    "end": "00:34:53"
+  },
+  {
+    "text": "We got two marketing managers, CFO, we've got a product guy, a bunch of people that help with outreach.",
+    "start": "00:34:53",
+    "end": "00:34:57"
+  },
+  {
+    "text": "So it it's a big operation.",
+    "start": "00:34:57",
+    "end": "00:35:01"
+  },
+  {
+    "text": ">> Okay, I want to ask about the marketing managers.",
+    "start": "00:34:59",
+    "end": "00:35:02"
+  },
+  {
+    "text": "So where did you find the marketing managers and like what do they what's their role?",
+    "start": "00:35:02",
+    "end": "00:35:07"
+  },
+  {
+    "text": "Everyone we work with is has been a friend of mine that I taught how to do it.",
+    "start": "00:35:07",
+    "end": "00:35:12"
+  },
+  {
+    "text": "So my marketing managers are just my friends and I was like, this is what I've been doing, but it's a lot of work for me to run all this by myself.",
+    "start": "00:35:12",
+    "end": "00:35:19"
+  },
+  {
+    "text": "So here's what you're going to do and then I would just teach them.",
+    "start": "00:35:19",
+    "end": "00:35:21"
+  },
+  {
+    "text": "Uh for them what they're doing is just like responding to these messages on TikTok when we after they get a response from our outreach, then they get their number, bring them to WhatsApp, they get on a call with them, come up with a deal, get a contract signed, pay them, and then that's when we show them the video ideas, get their code set up, and then that's when everything starts rolling.",
+    "start": "00:35:21",
+    "end": "00:35:41"
+  },
+  {
+    "text": "And so they're just doing that all day.",
+    "start": "00:35:41",
+    "end": "00:35:44"
+  },
+  {
+    "text": ">> So they're they're managing basically the the influencer marketing end to end.",
+    "start": "00:35:42",
+    "end": "00:35:49"
+  },
+  {
+    "text": "Like outreach to negotiation to onboarding them, telling them what videos to make.",
+    "start": "00:35:46",
+    "end": "00:35:52"
+  },
+  {
+    "text": "And then are they also like iterating on like telling people like kind of evaluating the video performance and like which creators are driving results?",
+    "start": "00:35:52",
+    "end": "00:36:02"
+  },
+  {
+    "text": ">> Yeah, and and I'm in those like up with all these group shots as well.",
+    "start": "00:36:01",
+    "end": "00:36:05"
+  },
+  {
+    "text": "So it's like all three of us at the same time.",
+    "start": "00:36:05",
+    "end": "00:36:07"
+  },
+  {
+    "text": "And then yeah, like when we sign a creator we'll be like for your first video, send it in the in the group chat before you post it so we can like make sure it's good.",
+    "start": "00:36:06",
+    "end": "00:36:14"
+  },
+  {
+    "text": "So like for the most part every video has been great, but there has been some where we're like yeah, you know, this doesn't really show any value to the app.",
+    "start": "00:36:14",
+    "end": "00:36:21"
+  },
+  {
+    "text": "This is just about your transformation.",
+    "start": "00:36:21",
+    "end": "00:36:23"
+  },
+  {
+    "text": "Like there's nothing about this that like talks about the app.",
+    "start": "00:36:23",
+    "end": "00:36:24"
+  },
+  {
+    "text": "So like there's been a couple where we're like, we need you to redo it.",
+    "start": "00:36:24",
+    "end": "00:36:27"
+  },
+  {
+    "text": "\" and then they'll redo it and it's great.",
+    "start": "00:36:27",
+    "end": "00:36:31"
+  },
+  {
+    "text": ">> Okay, so the the key thing that I heard from that is like you are the one who came up with all the marketing process and you just you're just outsourcing individual parts of it to people and they're not like inventing the process.",
+    "start": "00:36:29",
+    "end": "00:36:42"
+  },
+  {
+    "text": "Like, you did it all before you hired them and then you just teach them, \"Okay, here's the standard procedure for uh these like operations.",
+    "start": "00:36:40",
+    "end": "00:36:49"
+  },
+  {
+    "text": "\" So, then Okay, so then that like leaves the open question, what is your background?",
+    "start": "00:36:49",
+    "end": "00:36:53"
+  },
+  {
+    "text": "How did you learn how to do this marketing stuff?",
+    "start": "00:36:53",
+    "end": "00:36:56"
+  },
+  {
+    "text": ">> I mean, I'm self-taught.",
+    "start": "00:36:54",
+    "end": "00:36:56"
+  },
+  {
+    "text": "I mean, it's this is really my first app that I've really taken seriously, but I really started learning about marketing in high school.",
+    "start": "00:36:56",
+    "end": "00:37:02"
+  },
+  {
+    "text": "I uh ran a e-sports Fortnite team with a bunch of buddies back in the day and we had hundreds of thousands of followers on all platforms.",
+    "start": "00:37:02",
+    "end": "00:37:11"
+  },
+  {
+    "text": "I really under started to understand marketing there and we had all these guys on our e-sports team that were posting about us every week.",
+    "start": "00:37:11",
+    "end": "00:37:17"
+  },
+  {
+    "text": "And so, I really understood the structure of like, get these guys to post and talk about our team here.",
+    "start": "00:37:17",
+    "end": "00:37:24"
+  },
+  {
+    "text": "When I started working on the app, I noticed how it could translate really, really easily.",
+    "start": "00:37:24",
+    "end": "00:37:27"
+  },
+  {
+    "text": "I did a ton of research into like Zach King, Lele Pons, King Bach, all these other apps and just watched what they were doing for their influencer marketing and once I had this idea for the app, it just kind of redid that same system and it it worked from day one.",
+    "start": "00:37:27",
+    "end": "00:37:41"
+  },
+  {
+    "text": ">> Yeah, wow.",
+    "start": "00:37:40",
+    "end": "00:37:41"
+  },
+  {
+    "text": "So, it's just like self-taught and then you but you also like have pretty good experience with like the e-sports management and like there's a lot of gaming influencers involved with that.",
+    "start": "00:37:41",
+    "end": "00:37:50"
+  },
+  {
+    "text": "So, you know how to like talk to creators.",
+    "start": "00:37:50",
+    "end": "00:37:53"
+  },
+  {
+    "text": "Um so, when you're watching these like app marketing videos and like learning the process of how people do marketing specifically for apps, were there any points where you decided like, \"Okay, when I do it, I'm going to do it slightly different um from like these big case studies?",
+    "start": "00:37:53",
+    "end": "00:38:11"
+  },
+  {
+    "text": "\" >> Yes and no.",
+    "start": "00:38:11",
+    "end": "00:38:10"
+  },
+  {
+    "text": "Um a lot of this for this app, it's been like learning as I go.",
+    "start": "00:38:10",
+    "end": "00:38:14"
+  },
+  {
+    "text": "I never planned on doing like an affiliate deal thing and then it just kind of came to me and I was like, \"Oh, this would work.",
+    "start": "00:38:14",
+    "end": "00:38:18"
+  },
+  {
+    "text": "\" I'm always coming up with ideas how how can market, but I'm always trying to think of ways and things like that that I can like do that's different than other apps.",
+    "start": "00:38:18",
+    "end": "00:38:25"
+  },
+  {
+    "text": "But when I was watching those interviews, I tried to watch as many as I can.",
+    "start": "00:38:25",
+    "end": "00:38:28"
+  },
+  {
+    "text": "I was watching interviews on Superwall, everywhere I could, and just like got as much information as I could and saw what worked and what didn't.",
+    "start": "00:38:28",
+    "end": "00:38:34"
+  },
+  {
+    "text": "And then when it came to my app, I just tested a lot of things at the beginning, but it pretty quickly figured out just the influencer marketing affiliate deals worked really well.",
+    "start": "00:38:34",
+    "end": "00:38:44"
+  },
+  {
+    "text": ">> And the team seems like it grew really fast.",
+    "start": "00:38:42",
+    "end": "00:38:44"
+  },
+  {
+    "text": "Like if this is only the third month, 100k in revenue around you said 80k in revenue for this past month or still around 2x.",
+    "start": "00:38:44",
+    "end": "00:38:53"
+  },
+  {
+    "text": "Um and then you're starting to get into ads.",
+    "start": "00:38:53",
+    "end": "00:38:55"
+  },
+  {
+    "text": "So in the beginning, how did you bootstrap this?",
+    "start": "00:38:55",
+    "end": "00:38:56"
+  },
+  {
+    "text": "Was it just you or did you have like people helping from the very beginning?",
+    "start": "00:38:56",
+    "end": "00:39:01"
+  },
+  {
+    "text": ">> I knew that we needed money to grow fast and succeed fast.",
+    "start": "00:38:59",
+    "end": "00:39:04"
+  },
+  {
+    "text": "So I knew how I was going to do it.",
+    "start": "00:39:04",
+    "end": "00:39:06"
+  },
+  {
+    "text": "I had no money though.",
+    "start": "00:39:06",
+    "end": "00:39:09"
+  },
+  {
+    "text": "Like enough to live, but nothing to like put a ton of money into it.",
+    "start": "00:39:06",
+    "end": "00:39:11"
+  },
+  {
+    "text": "Um and so one of my best friends lives right next to me in this fraternity.",
+    "start": "00:39:11",
+    "end": "00:39:14"
+  },
+  {
+    "text": "And one of the guys in there has been doing like drop shipping for years.",
+    "start": "00:39:14",
+    "end": "00:39:18"
+  },
+  {
+    "text": "And I knew he had a lot of money.",
+    "start": "00:39:18",
+    "end": "00:39:19"
+  },
+  {
+    "text": "I didn't really know him, but I was just like, I wonder if he'd be interested in investing into this.",
+    "start": "00:39:19",
+    "end": "00:39:24"
+  },
+  {
+    "text": "So I got him on a call and we just like talked for a while and I was like, this is my idea.",
+    "start": "00:39:24",
+    "end": "00:39:27"
+  },
+  {
+    "text": "I know it's going to work.",
+    "start": "00:39:27",
+    "end": "00:39:30"
+  },
+  {
+    "text": "Whether it's you or someone else, I'm I'm going to find someone to invest in this cuz I know how I'm going to do this.",
+    "start": "00:39:28",
+    "end": "00:39:32"
+  },
+  {
+    "text": "And he was like, I'm down.",
+    "start": "00:39:32",
+    "end": "00:39:35"
+  },
+  {
+    "text": "He put money into it.",
+    "start": "00:39:35",
+    "end": "00:39:35"
+  },
+  {
+    "text": "That's how we started and then slowly the team grew.",
+    "start": "00:39:35",
+    "end": "00:39:40"
+  },
+  {
+    "text": ">> So that initial investment, what did you use that for?",
+    "start": "00:39:38",
+    "end": "00:39:41"
+  },
+  {
+    "text": "Was it just influencer salaries or did you also like hire developers or anything like that?",
+    "start": "00:39:41",
+    "end": "00:39:47"
+  },
+  {
+    "text": ">> All marketing.",
+    "start": "00:39:46",
+    "end": "00:39:49"
+  },
+  {
+    "text": ">> All marketing.",
+    "start": "00:39:47",
+    "end": "00:39:48"
+  },
+  {
+    "text": "So you just built the app yourself then?",
+    "start": "00:39:48",
+    "end": "00:39:51"
+  },
+  {
+    "text": ">> I did it first and then I was in this like founders club at the university for like people building things.",
+    "start": "00:39:49",
+    "end": "00:39:56"
+  },
+  {
+    "text": "And there's these two just developers that are just insane insane in what they do.",
+    "start": "00:39:56",
+    "end": "00:39:59"
+  },
+  {
+    "text": "And I was like, do you guys want to come work on this project?",
+    "start": "00:39:59",
+    "end": "00:40:01"
+  },
+  {
+    "text": "We're already at like This was like we're once we were we were like a month in.",
+    "start": "00:40:01",
+    "end": "00:40:04"
+  },
+  {
+    "text": "If you guys want to come work on this and run the development side, you know, I've got to focus on marketing.",
+    "start": "00:40:04",
+    "end": "00:40:08"
+  },
+  {
+    "text": "And I was like, we'll give you guys like you know, give you some of the like percentage of the company and stuff.",
+    "start": "00:40:08",
+    "end": "00:40:13"
+  },
+  {
+    "text": "And so they they're a part of this now, too.",
+    "start": "00:40:13",
+    "end": "00:40:15"
+  },
+  {
+    "text": "But they just run the full development side so that I can focus on, you know, marketing, product, pricing, ads, all that stuff.",
+    "start": "00:40:15",
+    "end": "00:40:23"
+  },
+  {
+    "text": ">> This is just like such a classic background though.",
+    "start": "00:40:21",
+    "end": "00:40:25"
+  },
+  {
+    "text": "I feel like a lot of people who finds like on the surface it looks like a complete overnight success on apps, they usually come from some sort of like internet marketing background, whether it's like just making content or media or newsletters or being a YouTuber or something like that.",
+    "start": "00:40:25",
+    "end": "00:40:41"
+  },
+  {
+    "text": "Like I feel like you just kind of like train, even if you make zero money, like you just kind of understand how algorithms work and how you know, the whole creator economy works.",
+    "start": "00:40:41",
+    "end": "00:40:50"
+  },
+  {
+    "text": "I think that's like a key part that people don't always see.",
+    "start": "00:40:50",
+    "end": "00:40:54"
+  },
+  {
+    "text": "What what What do you think are the biggest lessons you learned from your like e-sports management days?",
+    "start": "00:40:54",
+    "end": "00:41:01"
+  },
+  {
+    "text": ">> Probably like 30 30 to 50 guys, hop on Discord with all of them all the time, come up with video ideas.",
+    "start": "00:40:59",
+    "end": "00:41:05"
+  },
+  {
+    "text": "Then we I would always go through and like collect all their like best clips that they had from Fortnite, send them to our editor, get these like really nice videos made, we post them on YouTube and get hundreds of thousands of views.",
+    "start": "00:41:05",
+    "end": "00:41:14"
+  },
+  {
+    "text": "And so, I was just really in the mark really running all of our video marketing side.",
+    "start": "00:41:14",
+    "end": "00:41:19"
+  },
+  {
+    "text": ">> Okay, so one thing that I that I keep thinking about is like the outreach part cuz it seems like a big part of this is just the volume and like the volume that you do with everything.",
+    "start": "00:41:17",
+    "end": "00:41:31"
+  },
+  {
+    "text": "Like how many creators you reach out to and then just like doing calls with all of them and just like all these It seems that at every touch point you don't like half-ass it.",
+    "start": "00:41:31",
+    "end": "00:41:43"
+  },
+  {
+    "text": "You're like actually like thousand like more than a thousand or up to a thousand creator outreaches per week is a lot.",
+    "start": "00:41:42",
+    "end": "00:41:53"
+  },
+  {
+    "text": "Is there like an automated system for a lot of these processes that you're that you're doing week to week?",
+    "start": "00:41:53",
+    "end": "00:41:59"
+  },
+  {
+    "text": ">> Yeah, we've got I mean, myself, everyone on the team, we've got we have people we hired specifically just for outreach.",
+    "start": "00:41:56",
+    "end": "00:42:05"
+  },
+  {
+    "text": "So, we have so many people and it's the same message we send everyone.",
+    "start": "00:42:03",
+    "end": "00:42:07"
+  },
+  {
+    "text": "Our first sentence in it is very important where it's like paid promo {slash} affiliate deal, question mark.",
+    "start": "00:42:07",
+    "end": "00:42:12"
+  },
+  {
+    "text": "Cuz they see that first message and then people are more interested to open it and see what we're saying.",
+    "start": "00:42:12",
+    "end": "00:42:15"
+  },
+  {
+    "text": "Then we explain the app and like how it's it's this peptide GLP tracking app.",
+    "start": "00:42:15",
+    "end": "00:42:20"
+  },
+  {
+    "text": "It's It really aligns well with the content they make, blah blah blah.",
+    "start": "00:42:20",
+    "end": "00:42:24"
+  },
+  {
+    "text": "We get their number, get them on a call.",
+    "start": "00:42:24",
+    "end": "00:42:26"
+  },
+  {
+    "text": "But because we have so many of us sending this message out on TikTok DMs, Instagram, we're literally looking at every platform we can and sending as much outreach as possible.",
+    "start": "00:42:25",
+    "end": "00:42:35"
+  },
+  {
+    "text": "And with the size of our team and how much we're able to send, it's just we're able to get so many creators every single week.",
+    "start": "00:42:35",
+    "end": "00:42:42"
+  },
+  {
+    "text": ">> That's great.",
+    "start": "00:42:40",
+    "end": "00:42:42"
+  },
+  {
+    "text": "So it's just like people on the team are all doing it manually?",
+    "start": "00:42:42",
+    "end": "00:42:47"
+  },
+  {
+    "text": "Like reaching out on all channels, I guess, like email, Instagram DMs, TikTok DMs, YouTube DMs.",
+    "start": "00:42:45",
+    "end": "00:42:52"
+  },
+  {
+    "text": "Or are do you have like specialized roles that is just like for outreach?",
+    "start": "00:42:52",
+    "end": "00:42:56"
+  },
+  {
+    "text": ">> Yeah, we have people that are hired literally just for outreach.",
+    "start": "00:42:55",
+    "end": "00:42:58"
+  },
+  {
+    "text": "And then we do it ourselves, but you know, I'm really I'm really picky with who we reach out to.",
+    "start": "00:42:58",
+    "end": "00:43:02"
+  },
+  {
+    "text": "I mean, I don't want to reach out to someone with like 200 followers and gets no views.",
+    "start": "00:43:02",
+    "end": "00:43:07"
+  },
+  {
+    "text": "And their content if it's like they've only made like a couple GLP or peptide videos, you know, we don't want to work with them that bad.",
+    "start": "00:43:07",
+    "end": "00:43:11"
+  },
+  {
+    "text": "So I'm really picky about it, but like we have this system where they know these the people that do this for us, they know exactly what I'm looking for and they just they find them.",
+    "start": "00:43:11",
+    "end": "00:43:21"
+  },
+  {
+    "text": "I mean, that's what they do.",
+    "start": "00:43:21",
+    "end": "00:43:22"
+  },
+  {
+    "text": "They wake up and just do it.",
+    "start": "00:43:22",
+    "end": "00:43:22"
+  },
+  {
+    "text": "They having a team of them, which there's four of them, it has made it way easier for us.",
+    "start": "00:43:22",
+    "end": "00:43:28"
+  },
+  {
+    "text": ">> So you have four dedicated people just for outreach, is what you said.",
+    "start": "00:43:26",
+    "end": "00:43:31"
+  },
+  {
+    "text": "And then you have the two marketing managers.",
+    "start": "00:43:31",
+    "end": "00:43:34"
+  },
+  {
+    "text": "So it sounds like the first message is super broad and general, where it's just like if they reply back, then the marketing manager can go in and then like actually pay attention to it.",
+    "start": "00:43:34",
+    "end": "00:43:45"
+  },
+  {
+    "text": "But in the first message, it's just like super broad, like paid promo, here's about the app, we're open to paying you retainer, but also these bonus structures, it just depends on what we figure out.",
+    "start": "00:43:45",
+    "end": "00:43:54"
+  },
+  {
+    "text": "Is that the gist of it?",
+    "start": "00:43:54",
+    "end": "00:43:56"
+  },
+  {
+    "text": "Like you're like super general in the first one and then you just evaluate like once you get the reply back.",
+    "start": "00:43:56",
+    "end": "00:44:01"
+  },
+  {
+    "text": ">> Once they respond, it's like, \"Yeah, I'm interested.",
+    "start": "00:44:00",
+    "end": "00:44:02"
+  },
+  {
+    "text": "Can I hear more?",
+    "start": "00:44:02",
+    "end": "00:44:03"
+  },
+  {
+    "text": "\" And it's like, \"Amazing.",
+    "start": "00:44:03",
+    "end": "00:44:03"
+  },
+  {
+    "text": "Send over your number and we'll connect you with our marketing team on WhatsApp.",
+    "start": "00:44:03",
+    "end": "00:44:07"
+  },
+  {
+    "text": "\" And then boom, get them on a call instantly.",
+    "start": "00:44:07",
+    "end": "00:44:10"
+  },
+  {
+    "text": "It's one message, then it's get them on WhatsApp or iMessage, and then just go straight to call, and then the marketing manager handles the call.",
+    "start": "00:44:10",
+    "end": "00:44:17"
+  },
+  {
+    "text": "Yeah, marketing managers or myself, you know, depends who it is.",
+    "start": "00:44:17",
+    "end": "00:44:20"
+  },
+  {
+    "text": "If if it's someone bigger, I'm hopping on that call.",
+    "start": "00:44:20",
+    "end": "00:44:24"
+  },
+  {
+    "text": "If it's anyone else, you know, one of the two marketing guys can hop on the call.",
+    "start": "00:44:24",
+    "end": "00:44:30"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:44:28",
+    "end": "00:44:29"
+  },
+  {
+    "text": "Wow.",
+    "start": "00:44:29",
+    "end": "00:44:30"
+  },
+  {
+    "text": "What what's the range of like engagement that you're willing to pay for?",
+    "start": "00:44:30",
+    "end": "00:44:36"
+  },
+  {
+    "text": ">> Views and engagement.",
+    "start": "00:44:33",
+    "end": "00:44:36"
+  },
+  {
+    "text": "I look a lot at comments and views.",
+    "start": "00:44:36",
+    "end": "00:44:38"
+  },
+  {
+    "text": "There's been some people that we've signed where I didn't really pay close attention enough to like comments and stuff.",
+    "start": "00:44:38",
+    "end": "00:44:44"
+  },
+  {
+    "text": "Come to find out they just like paid for views, and it's like we got no sign-ups.",
+    "start": "00:44:44",
+    "end": "00:44:47"
+  },
+  {
+    "text": "And I'm thinking, how the hell did this person get 120,000 views in in an hour and no sign-ups and no comments.",
+    "start": "00:44:47",
+    "end": "00:44:54"
+  },
+  {
+    "text": "So, like I'm really picky and like have to like look into all these things cuz there's some people that do that.",
+    "start": "00:44:54",
+    "end": "00:44:59"
+  },
+  {
+    "text": "But, yeah, I'd say the biggest thing is looking for real engagement, um especially comments.",
+    "start": "00:44:59",
+    "end": "00:45:04"
+  },
+  {
+    "text": ">> Are you doing like a view bonuses?",
+    "start": "00:45:03",
+    "end": "00:45:06"
+  },
+  {
+    "text": ">> There's nothing like specifically says they'll get a view bonus, but if they do perform really well, we we make sure to take care of them.",
+    "start": "00:45:04",
+    "end": "00:45:11"
+  },
+  {
+    "text": "Having good relationships with these guys is really really important to me.",
+    "start": "00:45:11",
+    "end": "00:45:15"
+  },
+  {
+    "text": "You know, I will call them, see how they're doing, constantly text them.",
+    "start": "00:45:15",
+    "end": "00:45:19"
+  },
+  {
+    "text": "We text every single one of our creators almost every day.",
+    "start": "00:45:19",
+    "end": "00:45:21"
+  },
+  {
+    "text": "We're always talking to them, whether if it's about the app or just checking up on them, letting them know how they're doing for sign-ups.",
+    "start": "00:45:21",
+    "end": "00:45:28"
+  },
+  {
+    "text": "We just try to have a really really good relationships with them because they at the end of the day, like they're the backbone to our success.",
+    "start": "00:45:28",
+    "end": "00:45:35"
+  },
+  {
+    "text": ">> That's a lot of thought and attention and care to the to creators.",
+    "start": "00:45:33",
+    "end": "00:45:39"
+  },
+  {
+    "text": "It sounds like you're not skipping any any of those like human elements cuz that's rare to see apps these days not doing view bonuses.",
+    "start": "00:45:39",
+    "end": "00:45:46"
+  },
+  {
+    "text": "But, I feel like the whole point of view bonuses is to just to get people motivated to make the videos.",
+    "start": "00:45:46",
+    "end": "00:45:52"
+  },
+  {
+    "text": "But, if they're already motivated because they're just they feel like they have a relationship and they're a part of the team and they like they're actually embedded into the culture and they like they like the app, they want the app to succeed, then you don't uh need to rely as much on like the financial in- incentive, I guess, of like few bonuses.",
+    "start": "00:45:50",
+    "end": "00:46:11"
+  },
+  {
+    "text": ">> And like I said, I mean, we still do it if they do perform well, but yeah, you know, and they and we really want them to like the app.",
+    "start": "00:46:10",
+    "end": "00:46:15"
+  },
+  {
+    "text": "Like, we get on a call with them and come up with a deal, but sometimes we're like even before that, we'll be like, \"Download our app first.",
+    "start": "00:46:15",
+    "end": "00:46:22"
+  },
+  {
+    "text": "Let us know what email you use.",
+    "start": "00:46:22",
+    "end": "00:46:23"
+  },
+  {
+    "text": "We'll give you lifetime access.",
+    "start": "00:46:23",
+    "end": "00:46:24"
+  },
+  {
+    "text": "\" Like, make sure you like this and it aligns well with what you do.",
+    "start": "00:46:24",
+    "end": "00:46:26"
+  },
+  {
+    "text": "Like, we really really try and have just have really good relationships with them.",
+    "start": "00:46:26",
+    "end": "00:46:30"
+  },
+  {
+    "text": "They care a lot more.",
+    "start": "00:46:30",
+    "end": "00:46:33"
+  },
+  {
+    "text": "Like, we've had creators that like they go out of their way to respond to all of their messages when people ask them about peptides or GLPs and be like, \"This is uh all this information.",
+    "start": "00:46:33",
+    "end": "00:46:41"
+  },
+  {
+    "text": "\" They'll go on like TikTok live and promote about it.",
+    "start": "00:46:41",
+    "end": "00:46:44"
+  },
+  {
+    "text": "Like, they'll go above and beyond because, you know, we just have these good relationships with them and I I think it's really really important.",
+    "start": "00:46:42",
+    "end": "00:46:50"
+  },
+  {
+    "text": ">> So, we talked a lot about about the influencer program.",
+    "start": "00:46:49",
+    "end": "00:46:52"
+  },
+  {
+    "text": "You're You're saying that now you're spending a few hundred dollars a day on Meta ads.",
+    "start": "00:46:52",
+    "end": "00:46:58"
+  },
+  {
+    "text": "And in the beginning, you just like put the most successful influencer videos onto Meta and you just like boost them basically.",
+    "start": "00:46:58",
+    "end": "00:47:06"
+  },
+  {
+    "text": "And those were already like ROI positive, but then did you say you're also making ad creative specifically like for like to be paid ads?",
+    "start": "00:47:04",
+    "end": "00:47:16"
+  },
+  {
+    "text": ">> This one right here, specifically, has a under a $2 uh what's it called download cost or whatever.",
+    "start": "00:47:13",
+    "end": "00:47:21"
+  },
+  {
+    "text": "We just cooked this up on ChatGPT in like 2 minutes and it's performing super super well.",
+    "start": "00:47:21",
+    "end": "00:47:28"
+  },
+  {
+    "text": "We also have this one, which is just like the first one's more catered to men.",
+    "start": "00:47:26",
+    "end": "00:47:30"
+  },
+  {
+    "text": "This one's more catered to women.",
+    "start": "00:47:30",
+    "end": "00:47:34"
+  },
+  {
+    "text": ">> This is a crazy ad.",
+    "start": "00:47:32",
+    "end": "00:47:35"
+  },
+  {
+    "text": "So, this is like uh a square static ad and there's like I feel like there's like eight different pieces of key information on this graphic.",
+    "start": "00:47:35",
+    "end": "00:47:42"
+  },
+  {
+    "text": "What like what is the logic behind this static ad?",
+    "start": "00:47:42",
+    "end": "00:47:47"
+  },
+  {
+    "text": ">> I don't know because this is the only one I didn't make.",
+    "start": "00:47:45",
+    "end": "00:47:49"
+  },
+  {
+    "text": "Like, when our ads guy made this and just was like, \"Hey, I'm going to try this.",
+    "start": "00:47:49",
+    "end": "00:47:53"
+  },
+  {
+    "text": "\" And I was like, \"Yeah, go for it.",
+    "start": "00:47:53",
+    "end": "00:47:54"
+  },
+  {
+    "text": "\" And now it's our best performing ad.",
+    "start": "00:47:54",
+    "end": "00:47:56"
+  },
+  {
+    "text": "I It It It makes no sense to me.",
+    "start": "00:47:56",
+    "end": "00:47:58"
+  },
+  {
+    "text": "I don't understand why.",
+    "start": "00:47:58",
+    "end": "00:48:00"
+  },
+  {
+    "text": "I think it's way too cluttered and it's overwhelming, but it's performing extremely well.",
+    "start": "00:48:00",
+    "end": "00:48:07"
+  },
+  {
+    "text": ">> Wow.",
+    "start": "00:48:04",
+    "end": "00:48:05"
+  },
+  {
+    "text": "Wait, so what is your average a or what's the what's the age range of your paid paid users?",
+    "start": "00:48:05",
+    "end": "00:48:14"
+  },
+  {
+    "text": ">> Uh it's mostly over the age of 25.",
+    "start": "00:48:10",
+    "end": "00:48:15"
+  },
+  {
+    "text": "I think it's like 25.",
+    "start": "00:48:15",
+    "end": "00:48:18"
+  },
+  {
+    "text": ">> It's like young like, you know, over 25 with some disposable income who um are like biohacking basically.",
+    "start": "00:48:15",
+    "end": "00:48:24"
+  },
+  {
+    "text": "Like people are like I I guess there's not like as many older people doing uh peptides like this.",
+    "start": "00:48:24",
+    "end": "00:48:30"
+  },
+  {
+    "text": "That's more on the like GLP-1 side, I would assume.",
+    "start": "00:48:30",
+    "end": "00:48:34"
+  },
+  {
+    "text": ">> Yeah, exactly.",
+    "start": "00:48:32",
+    "end": "00:48:35"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:48:34",
+    "end": "00:48:35"
+  },
+  {
+    "text": "Cuz I I don't know.",
+    "start": "00:48:35",
+    "end": "00:48:36"
+  },
+  {
+    "text": "That was my first instinct when I saw the ad.",
+    "start": "00:48:36",
+    "end": "00:48:38"
+  },
+  {
+    "text": "I was like, okay, maybe it's like older audience that likes that style of uh ad, but it seems like it is like just like a pretty young audience.",
+    "start": "00:48:37",
+    "end": "00:48:47"
+  },
+  {
+    "text": ">> It is, yeah.",
+    "start": "00:48:46",
+    "end": "00:48:47"
+  },
+  {
+    "text": "It's it's interesting.",
+    "start": "00:48:47",
+    "end": "00:48:49"
+  },
+  {
+    "text": "I mean, we do have people We really do have people of all ages, but I would say those are our That's like our really good numbers.",
+    "start": "00:48:49",
+    "end": "00:48:54"
+  },
+  {
+    "text": "Anywhere from 25 to like 40 is where we get the most traffic.",
+    "start": "00:48:54",
+    "end": "00:48:56"
+  },
+  {
+    "text": ">> Mhm.",
+    "start": "00:48:56",
+    "end": "00:48:58"
+  },
+  {
+    "text": ">> And then these are These are some other ads I just like made this morning.",
+    "start": "00:48:56",
+    "end": "00:49:01"
+  },
+  {
+    "text": "We're going to test out today and tomorrow and just kind of see how these ones do.",
+    "start": "00:49:01",
+    "end": "00:49:04"
+  },
+  {
+    "text": "They're like a little different.",
+    "start": "00:49:03",
+    "end": "00:49:05"
+  },
+  {
+    "text": "I personally think these ones are a little nicer, but that's where we'll find out if they're if they're good.",
+    "start": "00:49:05",
+    "end": "00:49:13"
+  },
+  {
+    "text": ">> This one is more like speaking to the to the users.",
+    "start": "00:49:10",
+    "end": "00:49:14"
+  },
+  {
+    "text": "Like if you started a GLP-1 and your doctor gave you zero instructions, you're not alone.",
+    "start": "00:49:14",
+    "end": "00:49:20"
+  },
+  {
+    "text": "And then there's like three small paragraphs.",
+    "start": "00:49:20",
+    "end": "00:49:25"
+  },
+  {
+    "text": "That seems like more of a like sales pitch rather than the the first one, which was just like straight up showing the features and like listing them out.",
+    "start": "00:49:21",
+    "end": "00:49:32"
+  },
+  {
+    "text": ">> Yeah, I made these ones uh like I said this morning.",
+    "start": "00:49:31",
+    "end": "00:49:33"
+  },
+  {
+    "text": "I think they're going to perform better.",
+    "start": "00:49:33",
+    "end": "00:49:35"
+  },
+  {
+    "text": "They're much much cleaner, much simpler.",
+    "start": "00:49:35",
+    "end": "00:49:39"
+  },
+  {
+    "text": "Um and we also have a bunch of like ads from like our creators as well that are I think are way better.",
+    "start": "00:49:37",
+    "end": "00:49:43"
+  },
+  {
+    "text": "But for some reason these static ones are uh they're doing pretty well.",
+    "start": "00:49:43",
+    "end": "00:49:46"
+  },
+  {
+    "text": "So we're about to about to try out a bunch more and see how these do.",
+    "start": "00:49:46",
+    "end": "00:49:49"
+  },
+  {
+    "text": "But yeah, it's super interesting.",
+    "start": "00:49:49",
+    "end": "00:49:51"
+  },
+  {
+    "text": "Like I would never expect this to be our number one ad creative.",
+    "start": "00:49:51",
+    "end": "00:49:57"
+  },
+  {
+    "text": ">> $2 per install.",
+    "start": "00:49:54",
+    "end": "00:49:57"
+  },
+  {
+    "text": "That's That's And that's like less than the than the than the 250 that you're going for earlier.",
+    "start": "00:49:57",
+    "end": "00:50:02"
+  },
+  {
+    "text": "Are you just doing static ads or are you doing like video ads, too?",
+    "start": "00:50:02",
+    "end": "00:50:08"
+  },
+  {
+    "text": ">> We do a lot of video ads, too.",
+    "start": "00:50:06",
+    "end": "00:50:10"
+  },
+  {
+    "text": "Like I said, we take our top-performing videos and and and do those video ads.",
+    "start": "00:50:08",
+    "end": "00:50:13"
+  },
+  {
+    "text": "Yeah, we just want to try static ad and so like I said, our ads guy, it wasn't even my idea.",
+    "start": "00:50:12",
+    "end": "00:50:16"
+  },
+  {
+    "text": "He He was just like, \"I want to try this.",
+    "start": "00:50:16",
+    "end": "00:50:18"
+  },
+  {
+    "text": "\" And I was like, \"All right, cool.",
+    "start": "00:50:18",
+    "end": "00:50:18"
+  },
+  {
+    "text": "\" And now that it worked, I was like, \"Oh my god.",
+    "start": "00:50:18",
+    "end": "00:50:21"
+  },
+  {
+    "text": "All right, I'm going to make a bunch of these.",
+    "start": "00:50:21",
+    "end": "00:50:24"
+  },
+  {
+    "text": "\" So >> So when you do the video ads, is it Is it like partnership ads through the influencer's account?",
+    "start": "00:50:24",
+    "end": "00:50:30"
+  },
+  {
+    "text": ">> Uh no.",
+    "start": "00:50:27",
+    "end": "00:50:28"
+  },
+  {
+    "text": "We just We just take them and and then just post them.",
+    "start": "00:50:28",
+    "end": "00:50:33"
+  },
+  {
+    "text": ">> Oh, okay.",
+    "start": "00:50:31",
+    "end": "00:50:32"
+  },
+  {
+    "text": "Interesting.",
+    "start": "00:50:32",
+    "end": "00:50:33"
+  },
+  {
+    "text": "Same with TikTok, you don't do like Spark ads?",
+    "start": "00:50:33",
+    "end": "00:50:36"
+  },
+  {
+    "text": ">> So Spark ads we're setting up.",
+    "start": "00:50:34",
+    "end": "00:50:38"
+  },
+  {
+    "text": "The thing about Spark ads that's really tricky is TikTok keeps rejecting them because it is like peptides, you know, like some of those videos get taken down.",
+    "start": "00:50:38",
+    "end": "00:50:46"
+  },
+  {
+    "text": "It comes off as too much like giving people medical advice or or influencing the use of something like that.",
+    "start": "00:50:46",
+    "end": "00:50:52"
+  },
+  {
+    "text": "So like it is really like a gray area.",
+    "start": "00:50:52",
+    "end": "00:50:54"
+  },
+  {
+    "text": "And so we've tried like doing that with some of those videos and TikTok just doesn't like it.",
+    "start": "00:50:54",
+    "end": "00:50:58"
+  },
+  {
+    "text": "So at this point, I'm just doing Meta cuz Meta is I don't It It seems to be performing better and they don't they don't care as much.",
+    "start": "00:50:57",
+    "end": "00:51:04"
+  },
+  {
+    "text": "And it's it's performing really well for these other GLP apps that are doing really, really well.",
+    "start": "00:51:04",
+    "end": "00:51:08"
+  },
+  {
+    "text": "Like there's a couple that are ranked in like the top 100 top 100 like rankings for health and fitness category on the App Store.",
+    "start": "00:51:08",
+    "end": "00:51:17"
+  },
+  {
+    "text": "And all they do is Meta ads.",
+    "start": "00:51:17",
+    "end": "00:51:18"
+  },
+  {
+    "text": "And once we got ours kind of going and then top of our influencer marketing, we're ranked at like 250 right now.",
+    "start": "00:51:18",
+    "end": "00:51:26"
+  },
+  {
+    "text": "But I think once we get all these going, I think we can push up into the top 100 as well.",
+    "start": "00:51:25",
+    "end": "00:51:31"
+  },
+  {
+    "text": ">> This is awesome.",
+    "start": "00:51:29",
+    "end": "00:51:31"
+  },
+  {
+    "text": "Thanks so much for giving me the rundown of this whole app.",
+    "start": "00:51:31",
+    "end": "00:51:35"
+  },
+  {
+    "text": "I I learned a ton.",
+    "start": "00:51:33",
+    "end": "00:51:35"
+  },
+  {
+    "text": "And yeah, and is there anything that you want to plug on the pod?",
+    "start": "00:51:35",
+    "end": "00:51:38"
+  },
+  {
+    "text": "There's like people watching who are founders, there's probably developers, there's marketers.",
+    "start": "00:51:38",
+    "end": "00:51:43"
+  },
+  {
+    "text": "Maybe you're hiring.",
+    "start": "00:51:43",
+    "end": "00:51:46"
+  },
+  {
+    "text": ">> I started posting on X and I've gotten so many DMs and messages of people asking these type of questions, and I just can't respond to everyone.",
+    "start": "00:51:44",
+    "end": "00:51:53"
+  },
+  {
+    "text": "So, I'm really hoping that this video I can just share to everyone.",
+    "start": "00:51:53",
+    "end": "00:51:56"
+  },
+  {
+    "text": "But yeah, no jobs being hired quite yet.",
+    "start": "00:51:56",
+    "end": "00:51:58"
+  },
+  {
+    "text": "I do want to bring on some more marketing uh managers and another developer within the next month or two.",
+    "start": "00:51:58",
+    "end": "00:52:03"
+  },
+  {
+    "text": "So, if people follow me on my X, they will see when I post about that.",
+    "start": "00:52:03",
+    "end": "00:52:07"
+  },
+  {
+    "text": ">> Awesome.",
+    "start": "00:52:06",
+    "end": "00:52:06"
+  },
+  {
+    "text": "Thanks for being on the pod.",
+    "start": "00:52:06",
+    "end": "00:52:08"
+  },
+  {
+    "text": ">> Yeah, thanks for having me.",
+    "start": "00:52:07",
+    "end": "00:52:09"
+  },
+  {
+    "text": "Hopefully, we can do it again sometime.",
+    "start": "00:52:09",
+    "end": "00:52:11"
+  },
+  {
+    "text": ">> Something you might not know, most of the founders I cover on this podcast are hanging out right now in the Consumer Club Discord, sharing with each other what's working now for consumer apps.",
+    "start": "00:52:10",
+    "end": "00:52:20"
+  },
+  {
+    "text": "So, you can apply to join Consumer Club if that sounds interesting to you.",
+    "start": "00:52:18",
+    "end": "00:52:23"
+  },
+  {
+    "text": "And this is the Superwall podcast.",
+    "start": "00:52:23",
+    "end": "00:52:24"
+  },
+  {
+    "text": "Of course, you got to check out superwall.",
+    "start": "00:52:24",
+    "end": "00:52:25"
+  },
+  {
+    "text": "com.",
+    "start": "00:52:25",
+    "end": "00:52:25"
+  },
+  {
+    "text": "We have more videos on the channel, so dig into those to learn from app founders who are willing to share super tactical stuff about app growth.",
+    "start": "00:52:25",
+    "end": "00:52:34"
+  }
+]

@@ -1,0 +1,388 @@
+---
+title: Meet The 18y/o Who Solved UGC Marketing (100M Views in 2 Weeks)
+channel: Superwall
+date: 2026-03-01
+url: "https://www.youtube.com/watch?v=szgT-8gXd3s"
+cover: imgs/cover.jpg
+description: "Start building & deploying paywalls in 10 minutes flat: https://superwall.com/"
+language: en
+---
+
+# Meet The 18y/o Who Solved UGC Marketing (100M Views in 2 Weeks)
+
+Start building & deploying paywalls in 10 minutes flat: https://superwall.com/
+
+## Table of Contents
+
+* [00:00:00] – Intro
+* [00:00:19] – Building a 100M view UGC machine
+* [00:00:55] – Why most UGC programs fail
+* [00:01:45] – Gamifying content creation: The $40 first-video hook
+* [00:03:26] – Scaling to $1.2M ARR in 7 days through "Instinct" sales calls
+* [00:05:46] – Behind the scenes: Dris’s role and creative strategy
+* [00:07:42] – Conversion vs. Virality: Why UGC beats cinematic launch videos
+* [00:09:02] – Framing: How "Make Money Online" triggered explosive growth
+* [00:12:15] – Solving the cold start problem in creator marketplaces
+* [00:14:44] – Psychology of content: Overcoming the "lizard brain" fear of flopping
+* [00:16:21] – Backstory: Drop shipping fake AirPods and building viral intuition
+* [00:21:09] – Relearning platforms: Why viral sense must be constantly regained
+* [00:23:12] – Scaling creators: Why 20 consistent creators beat 2,000 unmanaged ones
+* [00:25:51] – The "Method" for ideation: Stealing and iterating on winning formats
+* [00:31:16] – The Application Layer: Why framing is more important than AI technology
+* [00:34:01] – UX and Abstraction: Making apps feel "performative" and simple
+* [00:37:44] – Ignoring noise: Why founders shouldn't follow established handbooks
+* [00:42:09] – Post-AGI vision: How humans will work in the future
+* [00:48:21] – Prediction: The next mainstream AI photo/video social giant
+* [00:51:43] – Advice for founders: Record your own content to gain intuition
+
+
+![cover](imgs/cover.jpg)
+
+## [00:00:00] – Intro
+
+This is Driss. He's an 18-year-old kid, and recently he left Clewly, which you probably know as the most viral startup of 2025. But, what you probably don't know is that this kid, Driss, was the actual guy behind their UGC program. At Clewly, he built a UGC program that generated 100 million views in 2 weeks. Absolutely insane. [00:00:00 → 00:00:19]
+
+
+## [00:00:19] – Building a 100M view UGC machine
+
+I wanted to understand the roots of this Clewly virality, so I dug into his backstory. >> I have built my viral sense over many years. Every time, like I try a new platform, I have to regain my instinct on what people enjoy watching. >> Before Clewly, Driss started out on TikTok drop-shipping fake AirPods Maxes. He had no product, no experience, just a phone and a Shopify store. [00:00:19 → 00:00:39]
+
+Then, one morning, he woke up to 200,000 views and his phone blowing up with orders. Those views and revenue were nice, but he also came away from this drop-shipping experience with a very sharpened internet marketing sense, refined by the hyper-competitive marketing environment of drop-shippers, since they have no differentiated product. [00:00:39 → 00:00:56]
+
+
+## [00:00:55] – Why most UGC programs fail
+
+Now, fast-forward to Clewly, Driss noticed something about UGC programs. Almost all of them struggle for a few reasons. One, [music] because they find one content format and stick with it instead of experimenting. A lot of the reasons that a UGC program [music] fails is because they are not experimenting enough, and they find one format, and they stick with that, even if it is not the most converting or most viral it can be. And two, it gets really hard to manage creators at scale. [00:00:56 → 00:01:19]
+
+So, after running up Clewly to hundreds of millions of views, he left and built a platform for other founders to replicate his methods at Clewly. He calls the platform Methods. It's his new platform where creators [music] can make money posting short-form videos. In 7 days, he blew up Methods to 1. 2 million ARR. [00:01:19 → 00:01:35]
+
+But, what's unique with Methods is that he's doing something completely different than most of the dozens of UGC programs that I've seen. He actually pays creators $40 just to make their very first video, no matter how little experience they have. [00:01:35 → 00:01:48]
+
+
+## [00:01:45] – Gamifying content creation: The $40 first-video hook
+
+[music] And then, he gamifies the entire process of content creation, instead of just managing creators who treat it like a job. >> Humans [music] are instinctively hive-minded. They want reward immediately. They are not interested [music] in delayed gratification. We pay people on Methods $40 their first video. [00:01:46 → 00:02:01]
+
+They're hella happy. They start making more videos. I think this is the new way to do distribution. The time you're seeing this, Methods has paid out more than $500,000 [music] to creators with a little over 50K creators on the platform. Everyone wants to make money and everyone can make money. [00:02:00 → 00:02:14]
+
+They just don't know the methods. >> And when users join our app, we actually give them $40 their first post and they are instantly hooked. >> In this episode, you're going to watch Drew break down how he built the viral machine at Cluelee, how he understands creators better than anyone else, how he gamifies content creation to make people feel like they can actually make money. This is a masterclass in creator psychology and mass distribution. Let's get into it. [00:02:14 → 00:02:36]
+
+This is the Superwall podcast and I'm Joseph Choi, founder of Consumer Club. The members in the Consumer Club Discord and the founders I interview on the pod build apps at a median of 1 million ARR. A lot of these apps that make the most money run AB tests on their paywalls to make more revenue with the same number of users. Superwall has a lot of data on the thousands of apps that use their paywalls. So, recently they put together a free AI tool trained on 422 profitable paywall experiments. [00:02:36 → 00:03:01]
+
+It lets you upload a screenshot of your own paywall and gives you an experiment idea to increase your revenue. You can use it for free at paywallexperiments. com. Also, if you're building a mobile app doing at least 100K a month in revenue, Superwall hosts dinners in San Francisco and New York. They keep [music] each gathering small, thoughtful, genuinely useful for everyone. [00:03:01 → 00:03:19]
+
+If you meet this criteria of 100K a month in revenue and want to invite, apply using the typeform in the description. Let's get into the pod. I want to ask you about this tweet. [00:03:19 → 00:03:29]
+
+
+## [00:03:26] – Scaling to $1.2M ARR in 7 days through "Instinct" sales calls
+
+So, you said, "Life update, left Cluelee to start our own thing. Already at 1. 2 million ARR 7 days in stealth. Had no idea making money was this easy. Announcement soon. [00:03:27 → 00:03:40]
+
+" And this was September of 2025. >> Yes. This is uh less than I don't know, 5 months ago. Yeah. Okay, so what is this what is this company? [00:03:40 → 00:03:49]
+
+Like how did you make 1. 2 million ARR? Instinct. [music] Yes. So, uh the first week um when we we left Clearly, we're like, "Okay, low-key, how do we make money? [00:03:49 → 00:04:00]
+
+" [music] And we realized like even like at at the start of Clearly when we started Instinct that the one thing every company desperately needs is distribution. Like with the AI and the the amount of slapping noise on the internet, it is harder than ever to get people to actually care about something. And companies understand this, and they are willing to pay a lot of money to get distribution. So, yeah, I was just talking to a bunch of companies and one of the I was just going on sales calls. We had no product. [00:04:00 → 00:04:26]
+
+We had nothing like tangible that we could sell them on. And I would tell them, "We're going to get you a lot of views. We're going to get you users, and we're going to make you money. " And obviously every company likes to hear that. And yeah, we the first week we signed contracts worth I guess 1. [00:04:26 → 00:04:40]
+
+2 million annualized with a bunch of a few companies. And yeah, one of the the first companies we worked with Deckard, they were this billion-dollar AI lab. They had like 60 people on their engineering team, two people on their marketing team, and they were trying to push this new AI photo video consumer app. So, we talked to them. We told them about UGC, and we ended up getting them 100 million views in 2 weeks at sub-30 cent CPM. [00:04:40 → 00:05:02]
+
+They were top 30 in the App Store. The program's still [music] killing it. I think lifetime 400 plus million views. Yeah, we just talked to companies. We're like, "Here's what we're going to do for you. [00:05:02 → 00:05:12]
+
+" And they they give us money. And then we we execute it, and they were happy. We're happy. And every company we work with is happy because the principle at Instinct is we work with winners and make them even bigger winners. Like I don't want to work with losers. [00:05:12 → 00:05:23]
+
+No company wants to work with a loser. Yeah, winners work with winners, and we we help them win even more. It's a motto. Win. >> That's awesome. [00:05:23 → 00:05:30]
+
+I love it. Like the fact that you're able to get so many like high-value contracts within 7 days is pretty insane, but I think your run at Clearly probably had something to do with it. I feel like you really built your brand or just like continued to build your brand with Clearly. [00:05:30 → 00:05:46]
+
+
+## [00:05:46] – Behind the scenes: Dris’s role and creative strategy
+
+What did you do at Clearly? Yes, I will not take all of the credit for for being I don't know if you create a person behind a lot of things we had a a very talented team at Cleary and I can I can only take credit for for a portion of that. But starting out at Cleary I guess I originally applied to be an engineer. I've been coding for like the the past 10 years. But I started doing like the video editing and then I moved to more of the the video like the cinematics and I worked with Ben starting out to I guess scale UGC program in the the first few weeks from zero to 100 million views at sub $1 CPM. [00:05:46 → 00:06:24]
+
+And yeah, just like a bunch of the creative stuff and content and yeah, over time we I don't know grew that and scaled that. Like over the summer Cleary was probably like you said one of the most if not the most talked about startups and it was a great time and I love Cleary. But yes, like mostly the I guess the creative the cinematics on Twitter and other socials and and planning those and filming, editing, recording like like you see on the the Instinct website. Yeah, that's the really interesting thing that I see about like the whole Cleary discourse is a lot of people have focused on the the product launch videos and like the cinematics >> [music] >> on Twitter because I think just if if you're in the tech industry you have a Twitter account and you watch the launch videos. But you might not be like brain rot scrolling Tik Tok and like seeing all of the viral UGC that you also did. [00:06:21 → 00:07:19]
+
+But the UGC is actually what drives more of the users is seems like what is what you're saying. Like the the product launch for example it was sort of rage bait a little bit and it it got a lot of investors and potential employees talking but it wasn't like you know it it wasn't really targeted at users at like as much. Like would you agree with that? And it seems like you You that Instinct you you pivoted to mostly just doing UGC now instead of the cinematic. [00:07:16 → 00:07:46]
+
+
+## [00:07:42] – Conversion vs. Virality: Why UGC beats cinematic launch videos
+
+I think for content you can have content that is extremely high converting or there is content that is extremely viral and it's very difficult to found find a middle ground. I think for the like the Cluly or like the product launch specifically, that was something that was intended to go viral while also being like a great product demo showcasing I don't know what what the product actually does cuz lots of people on the Twitter at the time had no idea even what what Cluly is. >> [music] >> Um so I think that that is in part a reason it went viral. But for UGC, the main focus for lots of companies is conversions and for companies we've worked with it's four times higher converting, 10 to 20 times cheaper on average than any other paid user acquisition source. And yes, like I think product videos or launch videos on Twitter are like by the the highest top of funnel thing you can do for tech specifically, but for like sustainable >> [music] >> growth at scale for that converts, I think UGC is the method. [00:07:44 → 00:08:40]
+
+Um you can do I don't know anything else you can do. Even paid ads, UGC performs much better. UGC is the method. Um hence the hence the name methods. Okay, so let's let's look at this for a little bit. [00:08:40 → 00:08:54]
+
+So did cinematics and UGC at Cluly. You realize UGC is like how you actually get scale and downloads. And then it seems like you actually use methods [music] to get more users for methods. [00:08:54 → 00:09:05]
+
+
+## [00:09:02] – Framing: How "Make Money Online" triggered explosive growth
+
+Is that true? Yeah, let me let me put you on game. Here's the method. We realized early on like that the number one most important thing to company building is framing. And when we started we were like methods is the UGC marketplace app. [00:09:05 → 00:09:19]
+
+And when we did it no one really wanted to join. They were like what is UGC? When we framed it as the new way to make money, make money online everyone started joining. That's when we saw like very explosive growth. Our user count is doubling every two weeks. [00:09:18 → 00:09:30]
+
+I think if you search make money online we're like the first search result. Yeah, basically someone joins TikTok or Instagram and they see a Methods video, they go on our platform, and then they create even more Methods video. It's like a uh infinite user method. And then from there, they join other programs. And for companies, like they see us as kind of the way to get more creators uh for their internal UGC programs. [00:09:30 → 00:09:53]
+
+And we handle uh like all of the I don't know, acquisition side of sourcing creators. Uh which is a a problem lots of companies struggle with, and they don't even know where to start. But on the more of the company side, um like sourcing creators is just like a single aspect of sourcing uh uh start like running UGC programs. And there a bunch of other things we realized early on, like handling payments and making scripts and uh reviewing posts. And early on, uh we were using like a bunch of different software to manage these programs. [00:09:53 → 00:10:21]
+
+And we realized it would it would be much more, I don't know, consolidated into a single [music] platform, the headquarters for running UGC. Um which is we recently launched a self-service platform to run scalable UGC programs on our app, Methods. Even on the company side, uh you you tell them we're going to run your UGC program, they usually are are, I don't know, maybe confused depending on their on how tapped in they are. But if you tell them we're going to make you money, we're going to get you conversions, we're going to make you viral online, they are obviously willing to pay a lot more more uh for that. Like Methods, like we want to frame every gig, every side hustle, like drop shipping, crypto, uh UGC as not like a a gig or a or a side hustle or any other term. [00:10:21 → 00:10:58]
+
+We want it to be a method. Like Methods are the new way to make money. Not just online, not just with AI, but like in the future, uh the only way to make money will be through Methods. There will be no jobs, there will be no McDonald's workers or uh even like like growth at startups or or podcasters, unfortunately, or even founders. Like everyone will just be on the Methods app making money. [00:10:58 → 00:11:16]
+
+Makes sense. It's like gig economy. Uh Not gig, it's method economy. Method economy. Yes. [00:11:16 → 00:11:22]
+
+Exactly. Um is this number updated? 500K claims on Methods, 50K creators? Yeah, th- these are slightly outdated. We we to update it every few weeks, but it is is much or slightly higher than that. [00:11:22 → 00:11:36]
+
+Yeah, it's still a lot, like $500,000 paid out to creators and 50,000 creators. So, how do you get 50,000 creators on an app? Cuz I feel like a lot of people think of creators as like people who have a bunch of followers, have experience making content, but it seems like this approach is like you start with the hook, which is make money online. So, it's literally anyone can do it and you just teach them the method and then they do it and then they get paid only if they get results for the brand. So, is there is it hard to like educate people on how to do these methods? [00:11:36 → 00:12:13]
+
+It is extremely difficult and in several ways, which is why I feel like no one has done an incredibly good job. [00:12:13 → 00:12:19]
+
+
+## [00:12:15] – Solving the cold start problem in creator marketplaces
+
+There are a bunch of other platforms which like in terms of creative quality and scale are are nowhere near us, even though we are a much, I guess, newer company. Um but yeah, like in marketplaces, there is notoriously the cold start problem where you cannot get companies to sign up on the app if you don't have creators and you can't get creators if you don't have companies. And we realized the the easiest thing to do would get comp- would be to get companies and then we could probably get creators later. We're like, "Uh we'll pay you $30 to make a video because our thesis is everyone wants to make money and everyone can make money, they just don't know the methods. " And when users join or creators join our app, uh we go through a a full onboarding where we actually give them $40 their first post and they're instantly hooked. [00:12:19 → 00:12:58]
+
+They're like, "Okay, wait, it's this easy to make money. " Um and from there we provide like the exact scripts and example videos to use for UGC content, um all the resources and how to warm up accounts, uh warm up an an account, how to post like a trial videos, how to actually make a good UGC, how to like do lighting, like pretty much everything. Um cuz anyone has a phone, anyone can record videos. The difference between it going viral versus it getting like 100 views is very minimal. And yeah, we strongly believe that anyone has the potential to go viral and make money if they they know methods, they know game. [00:12:58 → 00:13:33]
+
+Uh and content is is something that can be easily trained. And if you ask any content creator or any I don't person who is extremely successful in what they do, you ask them, "So, what what books did did you read? " Or "What what courses did you watch? " They'll probably not They'll probably say, "I just did it and I learned from there. " And I think that's the best way to do it. [00:13:33 → 00:13:49]
+
+And over time, uh if you just post more content, you will naturally get better. And the one issue we're facing right now is if users do not see immediate results. They they think their first video like their second video gets like a 100 views, they just quit. And we want to reinforce the fact that if you keep trying, it is impossible to fail. Um and this kind of goes to the goes into the startup philosophy where uh startups is kind of a game of surviving as long as possible. [00:13:49 → 00:14:13]
+
+And if you can survive longer than any of your competitors, you will just win. Uh it is a game of sur- Even in life, like if you can outlive all of your friends by a 100 years, you will be be the winner. [music] You can take all of their wives. Even in startups, like uh every other company dies and you survive, you can take their employees, you can take their I- you can get like a larger share of the market. Um in UGC, the uh creators that have stuck around since the beginning are the the highest paid creators on the platform. [00:14:13 → 00:14:37]
+
+This is not like a coincidence. Um just doing things more makes you better and helps you make uh more money. Yeah, I feel like making content that does well in the algorithm is actually not that hard. [00:14:37 → 00:14:48]
+
+
+## [00:14:44] – Psychology of content: Overcoming the "lizard brain" fear of flopping
+
+It's just more of a psychological thing. Cuz if you make a piece of content that flops, part of your like lizard brain is just like, "Oh, no. Like nobody liked that. It's so embarrassing. I'm literally going to die. [00:14:48 → 00:14:59]
+
+" And then you just don't try again. So, I think something really interesting to do is like you give people $40 for the first video that they make. It reminds me of like uh casino apps or like gambling apps where they just like they give you these big rewards in the beginning to kind of hook you. And then it makes that psychological scariness just a little bit less of a burden. and it just kind of encourages you to go put in the reps. [00:14:59 → 00:15:28]
+
+Yes, I agree. I think humans are >> [music] >> instinctive instinctively like incredibly high mind and they will only look at what other people are doing or not willing to take risks and they want rewards immediately. They are not interested in delayed gratification. I think most people are unwilling to take the risk and they need the upfront incentive which is why we pay people on methods for you dollars first video they're hella happy they start making more videos. And I feel like you're just really good like as I'm talking to you you are so Gen Z. [00:15:25 → 00:15:55]
+
+Like I feel like you just you're just very fluent in like how Gen Z thinks and the problems that they have their pitfalls or motivations a lot of like it's like very internet culture kind of like hustly and it seems like you got exposed to that mindset just through doing the reps yourself and like doing internet money stuff. Like I saw that on your website you did a 50k a month e-com store selling fake airpod Maxes. [00:15:55 → 00:16:25]
+
+
+## [00:16:21] – Backstory: Drop shipping fake AirPods and building viral intuition
+
+Do you want to tell that story? Yeah, of course. I mean like I I grew up on the internet. I'm a I'm a young buck. Um I'm not sure how old you are but I'm a maybe younger. [00:16:25 → 00:16:34]
+
+[music] Um How old are you? I am I'm 18. Amazing. Amazing. >> Yes. [00:16:34 → 00:16:39]
+
+Yeah, um so this was I think my my freshman or sophomore year in high school. I just sold my Minecraft YouTube channel and I was looking for the next method and if you would tell me about drop shipping and at the time I was like oh this is super saturated. This is probably not going to work but I started to think okay well let's say it did and I would go on AliExpress. I would look for products I thought were very interesting and I would try selling them and the first one I tried were these fake airpod Maxes. They were like extremely low quality and I tried selling it before I even got the product. [00:16:39 → 00:17:12]
+
+It took like three weeks to ship at the time cuz it was hella slow and in between I think I tried like 10 plus products. I tried selling Apple Watch bands. I tried selling I don't know like these fidget toys. Nothing really worked. Um and I remember when I I think I put in like a dollar or $7 for the like the domain, a dollar for the 30-day free trial for Amazon, and I spent $20 buying maybe headphones. [00:17:12 → 00:17:35]
+
+And what I would do is I would take at the start I was like using my own content, but it was actually pretty bad. And I realized I could take other people's videos of like recordings of like unboxing like real AirPod Maxes or uh like yeah different videos like showing the the real product. I would cut it up. I would pay someone like five or five dollars to do a voiceover. I would I would add captions. [00:17:35 → 00:17:57]
+
+I would then post it on TikTok. And I remember like this was for like the first month and a half I barely broke even. I uh was in a hackathon at my high school. And in two days I made $750. I think I got like second or third place. [00:17:57 → 00:18:11]
+
+And I was questioning like I just spent two days making more money than I did like this whole like past two months trying to do the drop shipping thing. Why am I even doing this? And I remember I went home that night. I made one more video. I made two more videos. [00:18:11 → 00:18:23]
+
+I think I posted them. And the next morning I woke up I was in my my school bathroom. I checked my phone. And like 200,000 views and my phone was blowing up with the other Shopify notifications. I was like yo this is hella crazy. [00:18:23 → 00:18:35]
+
+Um so yeah I started doubling down. I made like content in that same format. I had like a series where people would comment like do you ship to this country? And our like like our thing was we shipped every country. And like five international shipping, free shipping domestic, and we had like promotions like enter this code you get free shipping. [00:18:35 → 00:18:51]
+
+We had free shipping for the next week for the New Year's whatever. Which is also like a psychology thing. People do not want to pay for shipping. People want to pay for the product and nothing else. They don't want to pay for output results not the the the BS or abstractions in between. [00:18:51 → 00:19:04]
+
+[music] And I remember I had like 25,000 followers like 18 million views plus organic. My account got banned. I was like damn that that really sucks. " And then I made another account, scaled it to 20k followers, several million views as well. And I think around Christmas Eve I got banned off Shopify. [00:19:04 → 00:19:25]
+
+And I was I had like 10k locked up cuz I I like did not type in my my bank account last four digits correctly. I like flipped two digits. So yeah, I was I was hella stressed. I was like, "Wow, I I just did all this work for nothing. My 10k is gone. [00:19:25 → 00:19:38]
+
+My my life This was my life's work at the time. I thought this was my uh the the peak of my existence. " And I realized that I feel like what really defines very successful people is not what they do when they are successful, is what they do when they are at the very bottom and have nothing. And the only thing that they can do is work and improve. And there's no point in coping or thinking why does why did this happen to me? [00:19:38 → 00:20:00]
+
+You just have to push forward and and be the best version of yourself. And and just do more things, honestly. Um so I spent the night, there were a bunch of sites that were copying me. Like I I recreated my site from someone else who copied my site, I guess. And I I I took their images, whatever. [00:20:00 → 00:20:14]
+
+We made the site in like a night. And after that, like even without running having any natural content, I was still making like 2k a day. I restarted the TikTok account, got more followers. And then I ended up getting banned on Shopify twice. Banned on Wix, got banned by my payment processor Stripe. [00:20:14 → 00:20:29]
+
+I got a cease and desist from from Apple cuz it was super popular. Yes, and then I shut down from there. That's kind of a long story. But yes, it's hustle. You you have to hustle. [00:20:29 → 00:20:39]
+
+Like lots of people are unsuccessful because they're they're un serious about what they do. I I try to be the most serious possible about everything. Like it is life or death. And some people, I don't know, they do not understand it. They're like, "Yo, this is just Like even my parents. [00:20:37 → 00:20:50]
+
+" I told them. It's like they did not understand like this was this was my life selling fake headphones, unfortunately. Um I was like >> about viral content from that? Cuz it seems like you were trying over and over to make a viral TikTok. And then eventually that one day you got all the Shopify notifications from a viral video. [00:20:50 → 00:21:08]
+
+Did you like Did you like build your viral sense from this experience? [00:21:08 → 00:21:10]
+
+
+## [00:21:09] – Relearning platforms: Why viral sense must be constantly regained
+
+I have built my viral sense over over many years. And I I think it's kind of like a misconception that you learn to go viral once you can go viral 100 more times. Every time like I try a new platform or I try like restarting in a new niche or platform after a few years, I have to kind of relearn I I have to regain my instinct on what people enjoy watching, what formats are going viral. And like I said, the main thing with content is scale and that you have to keep posting until something hits. And once something does, you just copy that format. [00:21:10 → 00:21:38]
+
+And if a format can go viral once, um which is a a similar idea we apply to our UGC programs, it can go viral 100 or 1,000 more times um with different companies in different niches and and different creators. So yeah, you just need one format to work to make up for all of the 100 other videos that got 100,000 views. And yeah, I I think the actual like concept of videos changes over time, but the the idea of scale uh is persistent. Even when I was making Minecraft YouTube shorts, I I think I spent [music] 6 months with um like zero subscribers, zero views, and out of nowhere uh my posts were blowing up and I realized what was actually working, I doubled down on that and and made uh I don't know. Like the whole thing with content is kind of like finding a format [music] and and scaling that. [00:21:38 → 00:22:18]
+
+Uh which can be you apply to, I don't know, startups. I'm curious about the Clue Lee UGC program now. So you you had a lot of like you had a a YouTube channel also. What You said it was like a gaming channel, right? It was Minecraft YouTube shorts channel that I I sold like 4 years ago. [00:22:18 → 00:22:34]
+
+Um but yeah, I got 200,000 subscribers in 9 months, 180 million views. It was top 500 fast growing channels at the time. Uh PS, pretty [music] sick. Okay, so you have a lot of like algo experience. You have the >> [music] >> the algo instinct. [00:22:34 → 00:22:51]
+
+And so when you're designing the Clue Lee UGC program, it seems like this was at a scale that was bigger than like your drop shipping or like your YouTube channel even. Like this this was you know 200 million views. Can you just explain like what was the Clearly UGC program? Cuz I feel like there's a lot of misconceptions around this, too. [00:22:51 → 00:23:12]
+
+
+## [00:23:12] – Scaling creators: Why 20 consistent creators beat 2,000 unmanaged ones
+
+Like people A lot of people just don't even know that this was a thing. Early on Ben and I we we struggled with like finding viral formats and and sourcing creators. And yeah, we immediately found a format that started to work. It was kind of the Snapchat format. And then we once like a format like the same thing with formats once it works you just send it to other creators. [00:23:12 → 00:23:33]
+
+See what works. And a lot of the reasons that a UGC program fails is because they are not experimenting enough and they find one format and they they stick with that even if it is not like the most converting or most viral can be. Um so after that we kind of killed the format and we expanded to other things. And another team member took over like scaling UGC from 100 to a million. But yeah, like like the Clearly UGC I believe it was it was very successful and very converting um for anyone who's not on TikTok or Twitter. [00:23:33 → 00:24:02]
+
+And that was the main way that people heard about Clearly. Like the average person average student not just because they thought the videos were entertaining but because they thought Clearly might have been a useful product and download [music] it and pay for it which is the main goal of most companies. So how many creators did you have in the UGC program? Uh actually I believe like not very many. Like I think less than 20 consistently posting. [00:24:02 → 00:24:26]
+
+And that's another misconception about UGC like you do not need or like want or need scale immediately. It is always best to have a solid foundation start with a few creators that are able to consistently get you views. And after that you can I don't know scale to to many more creators. But managing like I was talking to another company. They were telling me about their UGC program. [00:24:26 → 00:24:47]
+
+And I asked how many creators do you have? How many views do they have? And in the last month they got 500,000 views. And they told me they had they had 2,000 creators which is pretty crazy. Like you do not need a lot of creators. [00:24:47 → 00:24:58]
+
+Like ideally, you have one creator generating like I I don't know, a million, 10 million views a day and those like top like 1% or 0. 1% of of creators are like 90% of the views and everything else is kind of like the the experimentation. Yeah, but like scale in terms of content, but in terms of creators, it's slightly more difficult and it is much easier to make someone a a better creator or have better output versus I like 10x or 100x in your your number of creators. Yeah. Yeah, what you said about finding new formats instead of kind of just uh resting once you find a good format is key. [00:24:58 → 00:25:35]
+
+How do you actually continuously come up with new ideas? Is it centralized or are you getting ideas from everyone else? Is everyone just scrolling an hour a day? Like how do you actually come up with new ideas consistently? Uh yeah, here here's kind of a method. [00:25:35 → 00:25:52]
+
+
+## [00:25:51] – The "Method" for ideation: Stealing and iterating on winning formats
+
+Um like it does for UGC uh like content scales um in terms of like one video can go viral several times in like different ways. Uh it does not make sense to to innovate on entirely new formats when you have something that is working for other companies. Um so what we do, a lot of our most successful formats are uh formats that have been taken from other companies in similar niches or completely different or other like standalone creators and we've adapted it for uh our own product Methods or other companies' products >> [music] >> and yeah, we we just keep doing this at scale. We we get more uh we we find more Reels or TikToks that we think would be interesting for this company or this product or or for Methods and we we adapt and send it out to creators [music] and that's how we're able to have like a a constant influx because people are always making content. Like I I don't think that's anything [music] that's going away um anytime soon. [00:25:52 → 00:26:43]
+
+So it's just like finding formats um but then also iterating on existing formats. Um Um yeah, just mostly like iteration on what is working. Like it does not make sense to reinvent the wheel. And if something goes viral once, it can go viral many more times. [music] Interesting. [00:26:43 → 00:26:58]
+
+So, you you don't believe in like coming up with completely original concepts without referencing something that's already working. I think all new ideas in a sense are references of existing works. And you take two unique ideas and you combine them into something new, and that is where as where innovation comes from. We don't innovate in the sense of we are creating two different like unique bases. We are combining [music] two new ideas where there's an existing format, an existing product, and we're swapping one or the other and creating like in a sense like a new format for a new new niche, a new market. [00:26:58 → 00:27:30]
+
+Um but I would not call it like entirely [music] innovation. It's just that if you have like foundations that are working, why would you why would you adapt on that? So, when you reach out to creators and you're about to invest into organic social and maybe boosting those videos with paid ads, you don't want to just let the creators do whatever they want. Most of the app founders I talked to on this channel basically have the same content philosophy. The videos need to go viral, but also convert and promote an app. [00:27:30 → 00:27:55]
+
+And ideally are also repeatable. And [music] those formats are like gems and really hard to find. That's why TikTok can sometimes feel like a lottery system. So, what a lot of Consumer Club members do is they use this tool called Spytalk, which brain rot scrolls hundreds of thousands of TikToks and just finds the most viral ones that promote apps. So, here I search for fitness, gym, workouts. [00:27:55 → 00:28:17]
+
+Let's say you like run a fitness app. I'm going to sort by most viral. And here's this 106X outlier video that promotes a fitness app. And it shows the text hook, it shows the image in the background. And then on the second slide, it has this CTA in a really creative way. [00:28:17 → 00:28:34]
+
+And Spytalk has been the secret weapon for growth strategy for 11 Labs and Amo and Voodoo, which is the app studio that owns Be Real. So, I recommend Spytalk. It really is the only other tool I explicitly recommend on this channel other than Superwall. What was like your first ever experience with business? Cuz you did the YouTube channel, you did Clearly, you did the e-com, but looks like you did all that stuff before. [00:28:34 → 00:28:58]
+
+Yeah, and I I think I've I've tried basically every way to make money in person and online. I tried selling a a speaker company in fifth grade. I tried selling shirts. I tried selling calculator games, did design, website design, video editing, um pretty much everything. I in summer of fifth grade, I taught myself how to code. [00:28:56 → 00:29:17]
+
+I became the youngest winner of the Congressional App Challenge. I I made an app where like every school is almost asleep. Like they're trying to fundraise, they're trying to make more money. And uh it was an app where a student could create a lemonade stand >> [music] >> or any other like physical goods and they would be able to process transactions through their device, their iPad, their iPhone, and these funds would be sent back to school for for fundraising and they can redeem rewards like I mean just t-shirt or something. I actually think it's a pretty interesting concept. [00:29:17 → 00:29:47]
+
+I I'm always looking for bigger [music] things to work on and I felt at the time um there were bigger things I could be doing. So, I want to bring back to Methods. It's like so interesting that this is kind of the thesis for you right now because I feel like for the past 5 to 10 years, people have been trying to figure out this basically. Like what is the next iteration of influencer marketing? This is not influencer marketing, but what is the next iteration of like creators and content and stuff like that? [00:29:47 → 00:30:20]
+
+So, what do you think? Like what is the insight kind of at the base of your differentiated take? Cuz there's there's been like clipping platforms for example or you know, mass AI generated content or like people have been doing UGC training programs all forever. Like there's all these like UGC creators on Instagram reels and TikTok and they're teaching other people how to do creator like how to make money with UGC and they have these like courses and stuff like that, but no one has really put it together in a way that today like people think of methods, people think of you guys, but there isn't like one main big name and like oh, this is the thing that is, you know, the forefront of UGC. So, my question is just like what's your thesis and yeah, what's the insight underneath it? [00:30:20 → 00:31:14]
+
+Uh like I said earlier, I think the main insight is framing where we started off calling this a UGC platform or a content creation platform and people were not extremely interested in that, but like I said as we said this is the the new way to make money online. [00:31:14 → 00:31:29]
+
+
+## [00:31:16] – The Application Layer: Why framing is more important than AI technology
+
+Anyone can make money on methods, uh that's when we started seeing uh lots of growth and people actually being retentive on the platform. And on the company side, uh like every company wants to make more money and get more users and some companies also want to go extremely viral. Um if we just told them we're running UGC or influencer marketing or I don't know, we're going to run your socials, it sounds extremely kind of lame and and uninteresting. And that's not something like I would pay for. And I I think we're still in the very early stage where people have not fully understood that the value is always created in the application layer and never in the actual technology. [00:31:27 → 00:32:06]
+
+Like if you look at who invented like people probably don't know who invented the internet and which companies were most successful. They were not the companies that invented the internet. I believe it was I don't know, some guy who invented the the HTTP protocol. Like Google, Amazon, Netflix, those are the companies that were extremely successful. And I think a lot of it comes down to framing and we have not found the actual great use cases or abstraction for AI. [00:32:06 → 00:32:29]
+
+Like we we call the internet today the the web or the internet. We don't call it by the actual protocols [music] used to transfer data or save data. You look at data centers, uh we call them the cloud. I think we're in the the extremely early stages of AI where our bet is in like the next 3 to 5 years. People will not call it AI or artificial intelligence as like the term artificial already has a very bad I don't know stigma around it. [00:32:29 → 00:32:54]
+
+I think it will be completely different and people are still incredibly exposed to the technology which is why things like I think AI is not fully mainstream yet. Like if we take open AI's billion monthly active users at face value, that's still like 7 billion people in the world who are have likely have not heard of AI or chat GPT and there's a massive delta in selling things to people who are completely technologically adapt or not understanding of AI or any other technology. Framing is everything and that is the only way you will be successful if you can take the same product and frame it in a different way where it has massive appeal and I think for lots of things UGC, content creation, even AI, we have not found that framing or we're starting to. For UGC it's methods and in the future methods is the way to make money with AI [music] online. It's very thoughtful thesis actually and there's couple things you said like the the things that will actually matter are distribution and just like how the like the application layer at the distribution of the application and then the application itself. [00:32:52 → 00:33:55]
+
+So it seems like design is also really like distribution and design are very important. Do you does your team have like a really cracked like designer as well? [00:33:55 → 00:34:04]
+
+
+## [00:34:01] – UX and Abstraction: Making apps feel "performative" and simple
+
+Like is that you? >> It's me. I've been designing for many years and I think more than design like people look at design as UI or the the actual visual interface but I think like the arguably the more important part is the user experience and experience in apps and anything application like consumer facing is the the most essential part aside from distribution. And people want to feel performative. They want to feel like something is working and even in terms of like functionality if something is is less I don't know functional than something else. [00:34:04 → 00:34:32]
+
+If they feel like it is working better, they will still use that. Like, I don't know a single person that has learned a language off of Duolingo. There are much better ways to learn language. You can hire a tutor. You could, I don't know, read books, watch movies. [00:34:32 → 00:34:42]
+
+But, Duolingo still has many, hundreds of millions of users because people feel like they're learning even though if it doesn't it doesn't actually work. Uh which is like another reason why these standalone like calorie tracker apps or Bible quote apps or any other consumer apps are extremely successful because people want to feel like something is working. And if you have a a standalone app for a single task, I will trust that much better than any other, I don't know, abstraction or interface where I ask ChatGPT uh count my calories or look at the subscriptions that I have not uh paid for or still paying for. Uh people want to feel performative. And that that is part of the see thesis where experience is extremely important to the average user. [00:34:42 → 00:35:21]
+
+And it should be as abstracted and as simple as possible um mainly because people are very [music] uh unintuitive on how things work. Um abstraction is important. Framing is important. And then this all goes into the the concept of, I don't know, framing, experience, distribution. Uh they're all I don't know. [00:35:19 → 00:35:37]
+
+It's semantics. They're all they're all the similar uh idea. Yeah, exactly. Uh what was the example? Like a calorie tracking app. [00:35:37 → 00:35:45]
+
+Like you can use ChatGPT to just take a picture and then say "How many calories does this have? " and use some kind of prompt, and it's probably going to give you the same result as a custom, you know, wrapper app. But, the experience of using the wrapper app is easier to understand. It's more straightforward. It's a little bit a little bit less work depending on who you are. [00:35:45 → 00:36:08]
+
+And that actually matters a lot more than the actual There you go. model underneath. That's like a lesson that a lot of app builders can learn depending on which side you're on cuz I think I feel like a lot of people are really obsessed with the distribution side, and they just kind of want to make money as fast as possible. And then you know, the app has to feel good, like you said, but then actually has to well, hopefully it also like is actually useful. Like, if Duolingo was actually useful and super addictive, then it would be like double the size it is right now according to your assessment of Duolingo. [00:36:08 → 00:36:45]
+
+But, same could be said with any other app. Like, you want your app to be genuinely useful and solve a problem, but you also have to make it feel useful to the and like feel good and entertaining and stimulating and kind of hack people's minds a little bit. Is there a way that you train both of those sides of your brain? I I guess not. I I just do it. [00:36:45 → 00:37:07]
+
+I just do things. And like, back to what you said, I actually think utility for the average person is less important. Like, Duolingo I I think objectively does not work out at all. A lot of these standalone consumer apps are not like insanely functional, but people think they work, so it works. Like, your mindset is or the consumer's mindset is so important, which is why I think framing and experience and distribution are I kind of like all the same thing. [00:37:07 → 00:37:30]
+
+And people think they're like segmented, like different parts. And this is how we're going to do this on on uh like our social media. Here Here's how the content's going to look. Here's how the app's going to look. Here's how our user's going to feel. [00:37:30 → 00:37:40]
+
+This is like the the There's a single experience. And you you don't like, to be successful, you don't like read a book. [00:37:40 → 00:37:46]
+
+
+## [00:37:44] – Ignoring noise: Why founders shouldn't follow established handbooks
+
+You don't uh listen to to talks or or mentors. And I prefer to not listen to anyone for any advice. I think it's all noise. And even if everyone in the world is telling me I'm doing something wrong, I will completely cut that out because no one like, the reality is no one has no idea what they're doing. The people who have sold billion-dollar companies, uh people who work in venture, uh even several startup founders, they are only sharing what has worked best for them. [00:37:46 → 00:38:11]
+
+And rarely this is what works best for everyone else. And [music] the reason that things are the way they are, most things are the way they are in the world, even though there's no handbook for 99. 9% of things, is because it is it is the way that it has worked for people before and people before and people look back and follow that instead of trying to actually question why is this happening? Why is this the way that things are? And that that's like the fatal misunderstanding with most people in in startups and even starting out where they are trying to look after the greats and copy exactly what they did. [00:38:11 → 00:38:42]
+
+You will not be extremely successful in anything copying anyone else. You have to find a way to innovate or go to a new market or differentiate your product. And always question your ideas. Question why you were doing this. Question why other companies are doing this or other people and never take anything for face value because that is how you fail. [00:38:39 → 00:38:58]
+
+Did you have that pushback as you were creating methods from anyone? Everyone. Everyone is why would you not do an agency? Why would you not just do launch videos or do marketing consulting or business or whatever, computer science. Like I think I would be extremely skilled in any area of of startups. [00:38:58 → 00:39:13]
+
+I would be in I think I'm a great designer. I'm a great engineer. I'm great at social media. I think I'm pretty good at sales. But I think the the best use of my skills is uh >> [music] >> like building a company and doing uh many different things. [00:39:13 → 00:39:26]
+
+And [music] people who are just have less ambition and think they are more intelligent or more successful than you will try and and push back and tell you this is what you should be doing or here's what I would do if I were you. And I like to completely disregard any fundamental, I don't know, thesis or or startup ideology or or even like in company building. I think a lot of it is like completely like 180 um on how it would actually be. Like I said, these are the way things are because it is [music] what has worked for people before and people before. Yeah, I always get pushback on everything I do. [00:39:26 → 00:39:59]
+
+Like even people I I don't know. They're like, "What the hell are you doing? This is uh insanely stupid. " Um I talked to lots of people. They question why I'm doing certain things or why this is the direction we're taking the company. [00:39:59 → 00:40:11]
+
+Like I think UGC isn't an incredibly uh like I think it has a lot of potential, but it is not the future of what Methods is. Methods is the like I said, the way to make money and there are lots of decisions that have been made every part of the process and a lot of them have not worked out. I've made a lot of mistakes and the the expectation is that we failed several times and we make mistakes, but it should never be because we are careless. It should be because we are I don't know, stupid or naive. And yeah, like I I think what people say are noise and they never have the full context on what should be happening or how your company should be operating. [00:40:11 → 00:40:46]
+
+The way that you get a conviction is through direct experience. You just do stuff and then you get feedback from the market. >> way to get conviction and understand what is actually working. And so what has been the the biggest signal for you besides the the million ARR in 7 days? The biggest signal is uh several more million ARRs after more than 7 days. [00:40:43 → 00:41:11]
+
+Um but I honestly like I don't do the things I do for for money. I don't do it for for fame. I don't I don't know if you know this. Like I stopped posting on or as frequently on Twitter socials because like I have not needed to. I think it's it's I like you are a jester sometimes if you are you are frequently posting for unless you have like a real intention. [00:41:09 → 00:41:26]
+
+Like lots of the times I I I tweet or post on social media or be because like I I want people to see like what I am doing or I'm interested in selling. [music] Today I guess is one of the reasons I'm on the the podcast. I want people companies to watch this and I go to hq. methods. app and sign up for the the Methods self-serve platform we can run scalable campaigns. [00:41:26 → 00:41:45]
+
+Um but I I do it for the love of the game and early on when I was younger I thought I was doing it to make money, but I realized what I actually love doing is solving more challenging problems and anytime I felt like I was less ambitious, it was not from a lack of passion. It was realizing that what I was doing was extremely easy and if I extrapolate I will be extremely successful. I want to always be solving the most challenging problems uh in the world and when we started Instinct or when we started moving more towards Methods, the two questions we have are [music] what is the future of how people interact with technology and in the future how will people work? [00:41:45 → 00:42:21]
+
+
+## [00:42:09] – Post-AGI vision: How humans will work in the future
+
+And I think they're very important questions where every other company and AI lab is focused on the the 1% of people who are who already know about AI or tech adjacent where the more interesting problem is giving like distributing wealth and and like a product to the other 99% of the world. And even on like the AGI perspective, it's like extremely interesting to think about what AGI would look look like, but the the more interesting problem in my mind is what happens after AGI? How will people work? Will there there be like a permanent slave underclass where we will be working for AI overlords and there will be like a thousand or ten thousand people who control all the wealth and have all the the power in the world. Um and yeah, and no one no one is focused on that and that is the problem we want to solve with methods. [00:42:21 → 00:43:07]
+
+What what does this work look like in a post-AGI world? How will we interact with technology? And that's a question we every day we look and solve. So if anyone's watching and wants to escape the permanent underclass That's exactly there's slavery [music] consumer you said you had this tweet that says it's insanely easy to to build viral consumer products. If you can build apps and post content that are guaranteed to go viral, strongly expect most companies will pivot to consumer in 2026. [00:43:07 → 00:43:36]
+
+What are some of the new ways that you feel uh that you've seen consumers interacting with technology lately that you feel will be bigger in the future? Yes. I am extremely interested in the AI hardware and AI like wearable space. I think it's it's kind of the wild west like consumer apps and Loki B2B seem like very easy and hardware is just like such an interesting and competitive space and you have these Chinese startups uh cloning viral like hundreds of Chinese startups cloning viral products in three four weeks trying to like mass distribute it the same way that companies and or small like app builders are trying to clone viral apps and make like a few bucks off of it. I think it's it's super interesting and there are so many things that I think are are very intuitive or natural in hardware that people just completely get wrong. [00:43:36 → 00:44:22]
+
+Like one of them >> [music] >> is I believe that the hardware should enhance the software and not the other way around and lots of AI hardware and wearable companies are going software first and going hardware first and using software to enhance the product but the actual retention and use case [music] is in the software, not the hardware. And if you have good software, you will give people a reason to enhance it with a hardware device. Yeah, that's that's like the the main problem or I think >> [music] >> thing that people get wrong. Like the most successful AI hardware product I've seen, I believe it's called Plaud. It's like this thing that sticks to the back of your phone. [00:44:22 → 00:44:56]
+
+It's a $130 hardware product for professionals. Basically, it's always recording, it listens to your sales calls and there's software that's able to generate transcripts, generate summary notes, pretty much everything. And I believe in 2024 they made like 250 mil ARR. They have $130 product, $20 a month software. And it is such a good example because it has one, a very good use case, two, it has a very specific niche, and three, the software is extremely good. [00:44:56 → 00:45:23]
+
+And in this way, the hardware enhances the software because you do not have to have the app open or always be recording. You just have a small device that sticks to the back of your phone. It's incredibly intuitive and I think like everyone in hardware, especially AI wearables, is getting that wrong. Yeah, I'm very interested in that space. Maybe Methods pivots to [music] an AI wearable. [00:45:23 → 00:45:40]
+
+We'll see. That is very interesting, yeah. I yeah, cuz I feel like a lot of people think of there's like the generalized like AI companion hardware take that feels like a lot of people are trying and then there's the note-taking one, which is a little bit more specific, which seems I mean, yeah, this makes sense. I I feel like this Plaud this is actually pretty cool. >> the actual use case for most of these AI wearable wearable devices or hardware devices? [00:45:40 → 00:46:08]
+
+And I don't think there is really a clear one. Which is why a lot of them have not reached mainstream appeal. And also like the abstraction part they like they're still calling them AI wearables. Like it is very surprising outside of tech and startups most people like don't like AI. Like I was at I was in Minnesota for for Christmas Eve and I was at my friend's house and they were all like around the dinner table they were talking about how they hate AI how if they see that AI is using a product they will like not support the company. [00:46:06 → 00:46:36]
+
+And I actually think this is the general consensus outside of like tech and startups. It's actually crazy. Like people need to be abstracted from the technology or the actual I don't know functionality as much as possible. If it is too complex they will not understand and go on to I don't know different conceptions of how technology or processes actually work. But if you make it simple and very I don't know direct [music] on on what this product is they will be much more understanding and and interested in your product. [00:46:34 → 00:47:05]
+
+I don't think anyone not too many people mainstream are interested in another AI hardware AI wearable device. But if you're able to find a very specific use case and are able to once again abstract it from the actual technology it will be incredibly successful. And I think no one's done that yet. And maybe we will. We'll see. [00:47:05 → 00:47:22]
+
+This is a random tangent but I feel like drop shipping really prepares you for this mindset of specific use case and a specific application of technology. With drop shipping like your your edge is marketing cuz everyone is drop shipping the same exact product. So the only thing you can do to stand out is just positioning it towards specific audiences or specific demographics or specific use cases. And this is basically just a piece of metal that has a button on it that has an app and the app is like the same as granola or any other like AI note taker but it's so specific and it like solves a specific thing. Exactly, yes. [00:47:20 → 00:47:59]
+
+So, this is this is I love this product. Yeah, it makes a a ton of sense. Is there anything in the in the pure software world that where you're kind of like oh, that's actually interesting. Um I can see people using that more. Yes. [00:47:59 → 00:48:13]
+
+[music] Um this also goes to the abstraction thing and like I I think it is extremely easy to sell things online and make money. Like I I think things are only difficult because people [music] like in their mind they overcomplicated it or I don't know. [00:48:13 → 00:48:26]
+
+
+## [00:48:21] – Prediction: The next mainstream AI photo/video social giant
+
+Like once you do like some things you realize maybe this was not actually as hard as I I first thought and I know like [music] several companies doing AI photo video generation consumer apps that are extremely successful and just actually printing money. But the interface and the application like the actual experience I I feel like it is not there yet for consumers. Like it is still extremely overcomplicated and it still positioned in like it's an AI image editor editor. It's like an AI like whatever. There's not like a real like good use [music] case and the mainstream consumer it would just not be very appealing. [00:48:26 → 00:49:02]
+
+I think there is a way to make these like AI like video image editing apps. [music] Like I think in the next year we will see an extremely mainstream AI photo video editor app and that will be extremely intuitive and everyone will love using it. Like it will be the next Instagram, the next Snapchat because no one has actually figured out what makes an AI I don't know consumer product actually good and accessible to the average user because lots of people have like the SF tech bro mindset of oh, I'm going to add this feature and users want to see this newest like AI open source Chinese model on my platform. Usually the average person does not care. The average person does not even I feel like a lot of people don't even know what I don't know China is or like open source models are or even what a like people who are interested in AI know what the model is. [00:49:02 → 00:49:45]
+
+Everyone else doesn't and it is still like very confusing. Like I keep saying this the average person in the world is like extremely unintelligent and unintuitive and they need to be told exactly what something is and exactly how to use it for any value to be provided to them. And then this is like once again the experience part. Um yeah, I feel like no one is doing like a very good job and I realize like distribution is not the hottest thing in the world. But AI AI image and video generation, that makes a lot of sense actually. [00:49:45 → 00:50:12]
+
+I feel like some of the best ones I've seen have very specific use cases like headshot generation for example. It makes it really easy to understand okay, like here's what but you still can't name like a single one [music] that is the dominant one. Exactly. If If you have to think about like oh, what's the best image generation tool right now, you probably like you probably think or what's the biggest one? You probably think Midjourney, but Midjourney was on Discord for like a really long time. [00:50:12 → 00:50:40]
+
+It only recently got an interface and still like most like general population does not know about Midjourney. It's [music] like maybe their first interaction with AI generation was probably through ChatGPT. Um so there's probably there's definitely still a lot um of apps you could make with image generation. Are there any like specific categories you feel bullish on? Uh I am bullish on one specifically for content creation. [00:50:40 → 00:51:08]
+
+Obviously I would know slightly more about that, but I I think like the AI for productivity or getting work done is ChatGPT, but there's no clear winner for AI for like fun for for pleasure for enjoyment. Uh like one of the the Snapchat or Instagram or YouTube or or TikTok for AI and I feel like there's not been any viral like mainstream consumer AI app yet. That's what that's what we're waiting for. Maybe they are going to launch on Methods. Maybe it is Methods. [00:51:08 → 00:51:34]
+
+For founders watching this actually, maybe they should actually just get on Methods and make $4. Like is that a good idea? Do you think founders should just like be making content just to learn because I feel like a lot of people are trying to figure out the strategy of how do you hire creators? [00:51:34 → 00:51:47]
+
+
+## [00:51:43] – Advice for founders: Record your own content to gain intuition
+
+How you manage content, but it's never going to work if you don't kind of intuitively have the feeling of like what it actually takes to go viral. So, do you think that more founders should be making content themselves like with their phone? 100% like I I think the best way to learn or run UGC programs or scale content is obviously going to be through Methods through our our enterprise product and also making videos on on our app. But, if you are trying to do something like if you're trying to just scale something like as a founder specifically, I think you should not hire for things that you are inexperienced in or would not be able to do. Like I'm talking very early stage. [00:51:47 → 00:52:23]
+
+Like of course if you're I don't know CEO of Target or a larger company like you would not be in the the manufacturing plant working like two bucks an hour like with child slaves. I I think for lots of founders who are who are trying to grow a company and they don't understand distribution, just make content. Like how hard is it to record one 30-second video every day? Uh even for other companies, you're able to learn much quickly what is going viral, what companies expect, um even hopping on Methods making content. I I think every founder watching this should go on the Methods app, download it, get your first $40, maybe use that seed pre-seed funding, uh and then continue making posts and understanding what is going viral, uh what content should they make cuz in the the app we give like personalized like AI feedback on every post and why something might go viral or why it might not or how you should hold your phone or change the lighting or add captions. [00:52:23 → 00:53:07]
+
+There's lots of insights. There's lots of delta everywhere. Um lots of people do not understand things and the best way is just doing it. No one's stopping you. Well, I think that's a good call to action to end with. [00:53:07 → 00:53:19]
+
+People watching actually get I I mean it makes perfect sense to me. I think people should definitely get on Methods as a founder and learn to make content. [music] Try to earn your first $40, get the feedback, go through a couple iterations. Thanks for being on the pod. This is really This is really fun. [00:53:16 → 00:53:34]
+
+I enjoyed hearing your story and I think people should actually do this. Of course, anytime. Awesome. Something you might not know, most of the founders I cover on this podcast are hanging out right now in the Consumer Club Discord sharing with each other what's working now for consumer apps. So, you can apply to join Consumer Club if that sounds interesting to you. [00:53:34 → 00:53:52]
+
+And this is the Superwall podcast, of course you got to check out superwall. com. We have more videos on the channel, so dig into those to learn from app founders who are willing to share super tactical stuff about app growth. [00:53:51 → 00:54:03]

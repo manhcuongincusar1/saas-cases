@@ -1,0 +1,38 @@
+{
+ "f": "2025-02-26_the-underdog-from-200k-in-debt-to-1m-app-maker",
+ "vid": "h9R6ZeNruuI",
+ "segments": [
+  {"s":"04:34","e":"05:21","nut":["1.B3","?"],"moi":"Mô hình dịch vụ bị công cụ tự phục vụ ăn mất giá",
+   "tom":"Agency web của Adam đỉnh điểm lãi ~$300.000/năm rồi sập gần như qua đêm: không ai trả $10.000 làm website khi Wix/Squarespace chỉ $10/tháng; phản ứng của anh là hạ giá và cày nhiều giờ hơn, kết quả là burnout và bắt đầu vỡ nợ",
+   "kq":"sập, còn lại $200K nợ không bảo đảm"},
+  {"s":"06:24","e":"07:46","nut":["2.1","2.9"],
+   "tom":"Trắng tay, anh mua máy cắt cỏ và nhận việc $20-30/bãi trên Airtasker; đi làm mới thấy vấn đề thật: phải tự chấm nhà khách lên Google Maps để xếp tuyến; hỏi mấy người cùng nghề thì họ dùng giấy — mặt này tuần 1, lật mặt kia tuần 2 — và một người nói thẳng 'chưa có app nào cả, ai đó nên làm đi'"},
+  {"s":"07:46","e":"08:19","nut":["3.6","?"],"moi":"Nhu cầu rõ ràng vẫn chưa đủ để app bán được",
+   "tom":"Anh bỏ 6 tháng build app cho thợ cắt cỏ, phát hành và gần như không ai dùng — dù use case rõ, ý định rõ và nhu cầu có thật; anh không lý giải nổi vì sao hỏng",
+   "kq":"thất bại sau 6 tháng build"},
+  {"s":"08:19","e":"08:49","nut":["3.8"],
+   "tom":"Cách học duy nhất anh biết là lao vào làm, nên tự đặt thử thách: mỗi tháng ra một app — chính thử thách 'một app mỗi tháng' này là bước ngoặt vì buộc phải ship nhanh và validate nhanh"},
+  {"s":"09:37","e":"10:07","nut":["4.14"],
+   "tom":"Lịch thật của giai đoạn này: cắt cỏ từ 6 giờ sáng tới 6 giờ tối, tối về ngồi build app, vừa làm vừa học"},
+  {"s":"10:07","e":"11:30","nut":["1.5"],
+   "tom":"Một khách agency cũ kiện đòi hoàn tiền, có phán quyết là phá sản; đúng lúc đó một trong những app đầu của thử thách đạt ~$11.000/tháng và có người hỏi mua với giá 2 lần doanh thu năm — $224.000, đủ trả nợ trước khi ra toà",
+   "kq":"bán app $224K = 2x doanh thu năm"},
+  {"s":"11:45","e":"12:16","nut":["1.5","?"],"moi":"Bán app lấy runway để làm app tiếp",
+   "tom":"Mô hình lật ngược: mỗi app không còn là thú vui sáng tạo mà là 2 năm doanh thu lấy trước một lần; anh coi đó là runway — bán một app, kéo dài runway, kịp ra app kế tiếp trước khi runway cạn, và chạy vòng đó suốt 2 năm"},
+  {"s":"12:34","e":"13:20","nut":["1.B3"],
+   "tom":"Bước ngoặt là lúc vào quán ăn mà không đủ tiền gọi một lon Pepsi Max: mỗi lần bán app chỉ mua thêm vài tháng, nợ vẫn treo — mô hình build-để-bán không tạo ra dòng tiền sống được",
+   "kq":"vẫn nợ sau 2 năm bán app"},
+  {"s":"13:20","e":"14:22","nut":["?"],"moi":"Danh mục nhiều app nhỏ thay cho một app lớn",
+   "tom":"Chiến lược mới: build thật nhiều app, mỗi cái chỉ $200-500/tháng nhưng cộng lại đủ trả nợ và nuôi gia đình; đúng lúc ChatGPT ra với câu đùa 'biến bạn thành lập trình viên 10x', anh thử ship 10 app trong một tháng và ra được 9 — từ đó có doanh thu đều hàng tháng, không phải bán app để nuôi vòng lặp nữa",
+   "kq":"9 app trong 1 tháng, tổng cộng hơn 50 app"},
+  {"s":"14:22","e":"15:10","nut":["4.12","4.13"],
+   "tom":"Tháng 7 anh mở kênh YouTube để test app và chia sẻ kết quả; chỉ hai thay đổi — paywall mới và luồng onboarding mới — đã kéo doanh thu từ $10.000/tháng lên $50.000/tháng gần như qua đêm, mấy tháng sau ổn định $50-60K",
+   "kq":"$10K → $50-60K/tháng, trả hết nợ $200K"},
+  {"s":"15:10","e":"16:29","nut":["2.8","2.7"],
+   "tom":"Lời khuyên về ý tưởng: 9/10 người hỏi anh chỉ muốn build thứ ra tiền, nhưng không có đam mê thì bị xích vào thứ mình không muốn làm; cách tìm ý tưởng của anh là cứ sống bình thường rồi để ý chỗ nào cần một app, hoặc chỗ nào đã có app nhưng làm chưa đủ tốt"}
+ ],
+ "bo_qua": [
+  {"s":"08:49","e":"09:37","ly_do":"quảng cáo Hostinger AI website builder"},
+  {"s":"17:15","e":"18:01","ly_do":"quảng bá report 50 ý tưởng solo developer của Starter Story"}
+ ]
+}

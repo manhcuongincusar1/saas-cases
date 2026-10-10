@@ -1,0 +1,2937 @@
+[
+  {
+    "text": "What if the secret to organically growing an app wasn't making content, but making comments instead?",
+    "start": "00:00:00",
+    "end": "00:00:07"
+  },
+  {
+    "text": "And what if you could do it at a scale that seems virtually impossible?",
+    "start": "00:00:07",
+    "end": "00:00:11"
+  },
+  {
+    "text": "You got 7,000 clicks on the campaign.",
+    "start": "00:00:11",
+    "end": "00:00:14"
+  },
+  {
+    "text": "And how many comments did that did that take?",
+    "start": "00:00:14",
+    "end": "00:00:19"
+  },
+  {
+    "text": ">> I believe around 300,000 maybe.",
+    "start": "00:00:15",
+    "end": "00:00:19"
+  },
+  {
+    "text": "Yeah, I I guess around that.",
+    "start": "00:00:19",
+    "end": "00:00:22"
+  },
+  {
+    "text": ">> You did not hear that wrong.",
+    "start": "00:00:20",
+    "end": "00:00:24"
+  },
+  {
+    "text": "300,000 Instagram comments from one campaign.",
+    "start": "00:00:24",
+    "end": "00:00:27"
+  },
+  {
+    "text": "The crazy thing is this isn't a team of 100 virtual assistants.",
+    "start": "00:00:25",
+    "end": "00:00:30"
+  },
+  {
+    "text": "This is two guys, Nick and Ivan, and an army of automated phones.",
+    "start": "00:00:30",
+    "end": "00:00:34"
+  },
+  {
+    "text": ">> We automated a bunch of physical devices, and we did our own version of Android that can load and unload the ROM of the whole device.",
+    "start": "00:00:32",
+    "end": "00:00:43"
+  },
+  {
+    "text": "So, each account will have basically its own unique phone.",
+    "start": "00:00:43",
+    "end": "00:00:48"
+  },
+  {
+    "text": ">> After 8 years of working together, from running Minecraft servers to building a consumer app for flights, they stumbled upon a new way to grow.",
+    "start": "00:00:46",
+    "end": "00:00:54"
+  },
+  {
+    "text": "and they realize that getting app users on social media is a lot like B2B sales.",
+    "start": "00:00:54",
+    "end": "00:00:59"
+  },
+  {
+    "text": "This this kind of reminds me of cold email a little bit where people are warming up these inboxes and if you want to send, you know, 50,000 cold emails, you have to set up dozens of inboxes and spread the emails across all of these inboxes.",
+    "start": "00:00:59",
+    "end": "00:01:14"
+  },
+  {
+    "text": "They're literally applying the science of cold email to the art of Instagram comments.",
+    "start": "00:01:12",
+    "end": "00:01:17"
+  },
+  {
+    "text": "But the part that blew my mind is that the comments that work best aren't spammy or super subversive or anything like that.",
+    "start": "00:01:17",
+    "end": "00:01:24"
+  },
+  {
+    "text": "They're just straight up transparent.",
+    "start": "00:01:24",
+    "end": "00:01:26"
+  },
+  {
+    "text": "[music] >> When you test these things, you find things that work surprisingly good.",
+    "start": "00:01:26",
+    "end": "00:01:31"
+  },
+  {
+    "text": "So, you might think that being upfront about this being your own app, your own company, and so on would, you know, harm your engagement, but it does the opposite often.",
+    "start": "00:01:31",
+    "end": "00:01:40"
+  },
+  {
+    "text": "So, people like it.",
+    "start": "00:01:40",
+    "end": "00:01:42"
+  },
+  {
+    "text": ">> And with just 60 phones, they're already generating massive results, but they're not stopping.",
+    "start": "00:01:40",
+    "end": "00:01:45"
+  },
+  {
+    "text": "They're scaling to a,000 devices which would be able to post 21 million comments a month.",
+    "start": "00:01:45",
+    "end": "00:01:52"
+  },
+  {
+    "text": ">> What we can do with 1,000 devices.",
+    "start": "00:01:50",
+    "end": "00:01:54"
+  },
+  {
+    "text": "So in one month that's almost 1.",
+    "start": "00:01:54",
+    "end": "00:01:56"
+  },
+  {
+    "text": "5 million videos and 21 million comments.",
+    "start": "00:01:56",
+    "end": "00:01:59"
+  },
+  {
+    "text": "So just just as a you know scale perspective that's like replying to every single person on Mr.",
+    "start": "00:01:59",
+    "end": "00:02:03"
+  },
+  {
+    "text": "Beast reels on Instagram within like a month.",
+    "start": "00:02:03",
+    "end": "00:02:07"
+  },
+  {
+    "text": ">> In this episode, Nick and Ivan pull back the curtain on the future of distribution.",
+    "start": "00:02:05",
+    "end": "00:02:10"
+  },
+  {
+    "text": "The arts of building a technical moat that your competitors can't copy.",
+    "start": "00:02:10",
+    "end": "00:02:13"
+  },
+  {
+    "text": "how to write comments that actually convert with a 15% click-through rate from profile to link and how they're turning this underground agency into a platform to let anyone command an army of automated social media agents.",
+    "start": "00:02:13",
+    "end": "00:02:25"
+  },
+  {
+    "text": "This is the playbook for distribution using a channel you might not have thought of before at a scale you've definitely never seen before.",
+    "start": "00:02:25",
+    "end": "00:02:33"
+  },
+  {
+    "text": "Let's get into it.",
+    "start": "00:02:31",
+    "end": "00:02:33"
+  },
+  {
+    "text": "This is the Superall podcast and I'm Joseph Choy, founder of Consumer [music] Club.",
+    "start": "00:02:33",
+    "end": "00:02:37"
+  },
+  {
+    "text": "the members in the consumer club Discord and the founders I interview on the pod build apps at a median of about a million dollars ARR.",
+    "start": "00:02:37",
+    "end": "00:02:43"
+  },
+  {
+    "text": "In my conversations with dozens of these founders every week, one thing I've noticed is most of them AB test their payw walls to increase their conversion rates and make more money.",
+    "start": "00:02:43",
+    "end": "00:02:52"
+  },
+  {
+    "text": "Now, most people know that one of the best ways to AB test payw walls is Superwall.",
+    "start": "00:02:50",
+    "end": "00:02:55"
+  },
+  {
+    "text": "But one thing you might not know is Superwal has a lot of data on the thousands of apps that use their payw walls.",
+    "start": "00:02:55",
+    "end": "00:03:01"
+  },
+  {
+    "text": "So recently they actually put together a tool that takes 422 profitable paywall experiments and put those into a paywall experiment generator where you can upload a screenshot of your own payw wall and it'll give you an experiment idea to increase your revenue.",
+    "start": "00:03:01",
+    "end": "00:03:14"
+  },
+  {
+    "text": "You can use it for free at paywallexperiments.",
+    "start": "00:03:14",
+    "end": "00:03:17"
+  },
+  {
+    "text": "com.",
+    "start": "00:03:17",
+    "end": "00:03:17"
+  },
+  {
+    "text": "All right, let's get into the podcast.",
+    "start": "00:03:16",
+    "end": "00:03:20"
+  },
+  {
+    "text": "Most people think of app growth through either organic or ads.",
+    "start": "00:03:17",
+    "end": "00:03:22"
+  },
+  {
+    "text": "You're either posting content or you're putting content in ads and people see the content in the ads.",
+    "start": "00:03:22",
+    "end": "00:03:29"
+  },
+  {
+    "text": "But for you guys, you're posting comments on other people's content.",
+    "start": "00:03:29",
+    "end": "00:03:35"
+  },
+  {
+    "text": "So there's other content that's going viral or is relevant to a niche and then you're posting comments and getting users through that.",
+    "start": "00:03:35",
+    "end": "00:03:41"
+  },
+  {
+    "text": "Can you just explain how that works and how you got started figuring this out?",
+    "start": "00:03:41",
+    "end": "00:03:47"
+  },
+  {
+    "text": ">> Yes.",
+    "start": "00:03:45",
+    "end": "00:03:45"
+  },
+  {
+    "text": "So the way it works is uh we create accounts uh we brand them uh we set them up configure them uh and uh the goal is to make the real speed uh of their of these accounts show the trending content in the niche that we want to target.",
+    "start": "00:03:45",
+    "end": "00:04:01"
+  },
+  {
+    "text": "So we don't want to target random content.",
+    "start": "00:04:01",
+    "end": "00:04:03"
+  },
+  {
+    "text": "We want to specifically find like trending viral videos uh or videos that have potential to go viral.",
+    "start": "00:04:02",
+    "end": "00:04:09"
+  },
+  {
+    "text": "So that's why we can't just rely on search.",
+    "start": "00:04:09",
+    "end": "00:04:13"
+  },
+  {
+    "text": "we need to specifically set up the for you page feed in a right way.",
+    "start": "00:04:13",
+    "end": "00:04:17"
+  },
+  {
+    "text": "And uh the way it works is uh we we warm up the accounts using AI filters.",
+    "start": "00:04:17",
+    "end": "00:04:23"
+  },
+  {
+    "text": "So uh we basically set up this uh prompts the system that analyzes the videos what's going on in them and uh it uh finds the videos that are the right fit and we engage with these videos.",
+    "start": "00:04:23",
+    "end": "00:04:33"
+  },
+  {
+    "text": "We skip the videos that we want don't want to engage with.",
+    "start": "00:04:33",
+    "end": "00:04:34"
+  },
+  {
+    "text": "Uh the accounts you can see they are u branded to look like official sub pages for interns of the company that we promote.",
+    "start": "00:04:34",
+    "end": "00:04:42"
+  },
+  {
+    "text": "So if it's an app then that's uh just an account that represents this app and uh yeah the bio fits and uh the link and bio is just the app store.",
+    "start": "00:04:42",
+    "end": "00:04:53"
+  },
+  {
+    "text": "So simple uh on this side.",
+    "start": "00:04:53",
+    "end": "00:04:53"
+  },
+  {
+    "text": "So like I said if if the content is the right fit we engage with it.",
+    "start": "00:04:53",
+    "end": "00:04:57"
+  },
+  {
+    "text": "If it's not we skip it.",
+    "start": "00:04:57",
+    "end": "00:04:59"
+  },
+  {
+    "text": "uh the comments are analyzed to fi 2 so that we see if there's the potential to reply to people and if there's the potential potential to comment on the video if there are tons and tons of uh comments that are like irrelevant then people won't read the comment section so we need to skip it and uh if people are already highly engaged in this comment section then it's probably can be a good idea to also reply there so we see the comments that are a fit and those that are and obviously we skip those that are not relevant and we focus on those that are so comments can look in a lot of ways.",
+    "start": "00:04:57",
+    "end": "00:05:31"
+  },
+  {
+    "text": "There's always multiple sub campaigns to test what works best.",
+    "start": "00:05:31",
+    "end": "00:05:35"
+  },
+  {
+    "text": "There are a ton of approaches that you can take.",
+    "start": "00:05:35",
+    "end": "00:05:36"
+  },
+  {
+    "text": "So, uh one of them for example is we can answer the specific question that people ask in the comment section.",
+    "start": "00:05:36",
+    "end": "00:05:44"
+  },
+  {
+    "text": "The questions are related to the video that is that we target and uh yeah we just target to this uh we just answer this uh questions and then only at the end of the comment we add some sort of CDA to you know check out our page.",
+    "start": "00:05:44",
+    "end": "00:05:57"
+  },
+  {
+    "text": "Uh other option could be instead to ask a question.",
+    "start": "00:05:57",
+    "end": "00:05:59"
+  },
+  {
+    "text": "So our accounts also want to engage in a conversation.",
+    "start": "00:05:59",
+    "end": "00:06:03"
+  },
+  {
+    "text": "So we ask questions to people and then we for example name drop the app.",
+    "start": "00:06:03",
+    "end": "00:06:06"
+  },
+  {
+    "text": "So yeah can be a lot of ways that it can look like uh the third option is for example the story and doesn't even include any kind of call to action but has some sort of engagement starter like mentioning something that is going on on some certain app or even our pages everywhere but like doesn't ask for anything.",
+    "start": "00:06:06",
+    "end": "00:06:24"
+  },
+  {
+    "text": "It just makes people wonder uh and wants to check out our page.",
+    "start": "00:06:24",
+    "end": "00:06:28"
+  },
+  {
+    "text": "Uh so yeah, we see we don't we don't reply to everyone.",
+    "start": "00:06:28",
+    "end": "00:06:32"
+  },
+  {
+    "text": "We don't want to target people who just say thank you, thanks for the video and so on.",
+    "start": "00:06:32",
+    "end": "00:06:34"
+  },
+  {
+    "text": "We only target people who actively engage, who ask questions or state their opinions and so on.",
+    "start": "00:06:34",
+    "end": "00:06:40"
+  },
+  {
+    "text": "So yeah, and comments and replies are basically UGC and text form.",
+    "start": "00:06:40",
+    "end": "00:06:43"
+  },
+  {
+    "text": "So the same principles that apply to UGC videos, they apply to comments and replies.",
+    "start": "00:06:43",
+    "end": "00:06:48"
+  },
+  {
+    "text": "For example, in this uh in this uh comment, we specifically say that uh you know some sort of story and that we use this specific app for uh our exercises.",
+    "start": "00:06:48",
+    "end": "00:06:58"
+  },
+  {
+    "text": "And this naturally makes people wonder what what kind of app are you talking about like what what's this app?",
+    "start": "00:06:58",
+    "end": "00:07:02"
+  },
+  {
+    "text": "And some people will ask it inside our replies and some people will just go straight to profile and go from there.",
+    "start": "00:07:02",
+    "end": "00:07:09"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:07:09",
+    "end": "00:07:09"
+  },
+  {
+    "text": "Another example is like I said uh positioning our accounts as you know uh workers of this brand, workers of this app or friends of founders.",
+    "start": "00:07:09",
+    "end": "00:07:18"
+  },
+  {
+    "text": "of like founders themselves and so we provide some sort of value first and then mention something about the app.",
+    "start": "00:07:18",
+    "end": "00:07:25"
+  },
+  {
+    "text": "Another option is also like UGC type thing where it's some kind of buddy that recommended the app and so our accounts are going to try it out too.",
+    "start": "00:07:25",
+    "end": "00:07:35"
+  },
+  {
+    "text": ">> So can you go back go back to that first screenshot example in the slide seven?",
+    "start": "00:07:32",
+    "end": "00:07:38"
+  },
+  {
+    "text": ">> Yep.",
+    "start": "00:07:38",
+    "end": "00:07:40"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:07:38",
+    "end": "00:07:39"
+  },
+  {
+    "text": "So can you explain why are these good comments like what are these doing?",
+    "start": "00:07:39",
+    "end": "00:07:44"
+  },
+  {
+    "text": ">> I think it comes down to two things.",
+    "start": "00:07:42",
+    "end": "00:07:47"
+  },
+  {
+    "text": "So obviously the comment must be context dependent.",
+    "start": "00:07:47",
+    "end": "00:07:48"
+  },
+  {
+    "text": "It cannot be copy paste uh you know random thing uh the straight promotion uh it needs to be context dependent.",
+    "start": "00:07:48",
+    "end": "00:07:55"
+  },
+  {
+    "text": "It needs to talk about what's going on in the video and what people already talking about in the comments.",
+    "start": "00:07:55",
+    "end": "00:08:00"
+  },
+  {
+    "text": "So the comment itself has to be of good quality.",
+    "start": "00:07:59",
+    "end": "00:08:01"
+  },
+  {
+    "text": "Uh for example it it starts with a story which already makes people you know it's like a hook inside the videos but the same thing applies to text.",
+    "start": "00:08:01",
+    "end": "00:08:08"
+  },
+  {
+    "text": "Uh and yeah in it ends with a very soft like it's not even a call to action.",
+    "start": "00:08:08",
+    "end": "00:08:14"
+  },
+  {
+    "text": "It's just a mention like you know saying a fact and uh yeah that that makes people engage with this content.",
+    "start": "00:08:14",
+    "end": "00:08:22"
+  },
+  {
+    "text": "The second part of it is not just the the comment itself is the video under which it's posted and the timing of the video.",
+    "start": "00:08:20",
+    "end": "00:08:27"
+  },
+  {
+    "text": "So uh if we find the videos that have viral potential and we one of the f first people to post under it uh then our comment will be on the top and it will have much more potential to you know go kind of go viral inside the comment section and if the video is already too old then there's basically no point to you know uh leave a comment there because they won't go viral.",
+    "start": "00:08:27",
+    "end": "00:08:51"
+  },
+  {
+    "text": "It's interesting like yeah so basically the scripts for these comments uh this one says like once I tried working out by myself thinking I was an expert just because I watched a few videos.",
+    "start": "00:08:51",
+    "end": "00:09:02"
+  },
+  {
+    "text": "Let's just say I ended up with all my muscles sore and spent a week in bed laughing emoji.",
+    "start": "00:09:02",
+    "end": "00:09:06"
+  },
+  {
+    "text": "It's wild how much I learned though.",
+    "start": "00:09:06",
+    "end": "00:09:09"
+  },
+  {
+    "text": "Now I use an app for my exercises.",
+    "start": "00:09:09",
+    "end": "00:09:11"
+  },
+  {
+    "text": "So it's like that's the soft CTA you're talking about.",
+    "start": "00:09:11",
+    "end": "00:09:16"
+  },
+  {
+    "text": "And so then how does that actually work?",
+    "start": "00:09:16",
+    "end": "00:09:20"
+  },
+  {
+    "text": "Do people then wonder like, oh, what I wonder what app they're they're using and then they ask in the reply and then you follow up again with the name of the app or are they going and clicking the profile and seeing a link in bio?",
+    "start": "00:09:20",
+    "end": "00:09:35"
+  },
+  {
+    "text": ">> We actually do both.",
+    "start": "00:09:33",
+    "end": "00:09:35"
+  },
+  {
+    "text": "Uh so sometimes people can uh just reply and we will follow up on them.",
+    "start": "00:09:35",
+    "end": "00:09:39"
+  },
+  {
+    "text": "It's actually something that we developed somewhat recently.",
+    "start": "00:09:39",
+    "end": "00:09:42"
+  },
+  {
+    "text": "And also uh all of our accounts have either a mention uh of our client in the bio or uh just a website link to the client's app.",
+    "start": "00:09:42",
+    "end": "00:09:56"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:09:53",
+    "end": "00:09:55"
+  },
+  {
+    "text": "And these are like this is multiple comments on a single on a single post then.",
+    "start": "00:09:55",
+    "end": "00:10:00"
+  },
+  {
+    "text": ">> Yep.",
+    "start": "00:10:00",
+    "end": "00:10:02"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:10:00",
+    "end": "00:10:01"
+  },
+  {
+    "text": "It depends on the algorithm.",
+    "start": "00:10:01",
+    "end": "00:10:04"
+  },
+  {
+    "text": "Sometimes we just post multiple comments and sometimes we do a lot of replies depending on the video itself.",
+    "start": "00:10:02",
+    "end": "00:10:10"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:10:09",
+    "end": "00:10:11"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:10:10",
+    "end": "00:10:11"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:10:11",
+    "end": "00:10:11"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:10:11",
+    "end": "00:10:12"
+  },
+  {
+    "text": "So, this is like the story format.",
+    "start": "00:10:12",
+    "end": "00:10:14"
+  },
+  {
+    "text": "And then could you go to slide eight again?",
+    "start": "00:10:14",
+    "end": "00:10:17"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:10:17",
+    "end": "00:10:18"
+  },
+  {
+    "text": "And then these are Let's see.",
+    "start": "00:10:18",
+    "end": "00:10:20"
+  },
+  {
+    "text": "This says, \"Calories can vary so much based on what you use.",
+    "start": "00:10:20",
+    "end": "00:10:22"
+  },
+  {
+    "text": "Instead of counting them, focus on how these pancakes can fuel your day with nutrients.",
+    "start": "00:10:22",
+    "end": "00:10:26"
+  },
+  {
+    "text": "If you're curious about smart eating habits, check out the health app co-ounded by my friends and me.",
+    "start": "00:10:26",
+    "end": "00:10:31"
+  },
+  {
+    "text": "It has tips just like this.",
+    "start": "00:10:31",
+    "end": "00:10:35"
+  },
+  {
+    "text": "\" So, that was more of a hard CTA.",
+    "start": "00:10:35",
+    "end": "00:10:37"
+  },
+  {
+    "text": "Um, still not naming the app, right?",
+    "start": "00:10:37",
+    "end": "00:10:40"
+  },
+  {
+    "text": "but >> a little bit more of a like, hey, I'm actually a founder of this app.",
+    "start": "00:10:40",
+    "end": "00:10:46"
+  },
+  {
+    "text": "I'm providing like a useful comment about uh calories.",
+    "start": "00:10:46",
+    "end": "00:10:48"
+  },
+  {
+    "text": "It's like an educational comment, but also I'm being very transparent up front that hey, I am I'm talking about my company here, but I imagine at scale if you post like, you know, [music] if you post this on every video about calories, it starts to add up.",
+    "start": "00:10:48",
+    "end": "00:11:03"
+  },
+  {
+    "text": "Like this comment has 800 likes.",
+    "start": "00:11:03",
+    "end": "00:11:07"
+  },
+  {
+    "text": "So, how many like how many uh people should you expect to click on the profile on a comment that has something like 800 likes?",
+    "start": "00:11:07",
+    "end": "00:11:15"
+  },
+  {
+    "text": ">> Uh oh, yeah.",
+    "start": "00:11:13",
+    "end": "00:11:14"
+  },
+  {
+    "text": "It heavily depends on the call to action.",
+    "start": "00:11:14",
+    "end": "00:11:16"
+  },
+  {
+    "text": "Uh in this case, and yeah, it's it's not trackable to be clear, but um based on this one, it's like it it can usually be like thousands of profile visits surprisingly.",
+    "start": "00:11:16",
+    "end": "00:11:28"
+  },
+  {
+    "text": "So, some people don't even press like, they just go straight to profile.",
+    "start": "00:11:28",
+    "end": "00:11:31"
+  },
+  {
+    "text": "And uh yeah, then the question is how many of them will click uh on the link?",
+    "start": "00:11:31",
+    "end": "00:11:36"
+  },
+  {
+    "text": "And that's why the profile branding is also very important because we want to optimize for people who not just click on our profile and and leave but to either engage with our profiles which would feature for example the uh content about the app and obviously click on the link in bio to you know install the app.",
+    "start": "00:11:36",
+    "end": "00:11:53"
+  },
+  {
+    "text": "The interesting thing is that this kind of confounder angle uh that you know me and my friends created this app it worked like surprisingly well.",
+    "start": "00:11:53",
+    "end": "00:12:01"
+  },
+  {
+    "text": "So we didn't expect that but yeah when you test these things you uh find things that work surprisingly good.",
+    "start": "00:12:01",
+    "end": "00:12:06"
+  },
+  {
+    "text": "So uh yeah you might think that you know being upfront about you know this being your own app your own company and so on would uh you know harm your engagement but it does the opposite often.",
+    "start": "00:12:06",
+    "end": "00:12:17"
+  },
+  {
+    "text": "So people like it people like you being upfront and this is not something that they usually encounter.",
+    "start": "00:12:17",
+    "end": "00:12:24"
+  },
+  {
+    "text": "Yeah, I feel like you see that same it's almost like an anti- pattern where the established normal pattern is everyone trying to be covert and trying to be like hidden advertising, but I feel like people value authenticity and like things just stand out when you go against the grain.",
+    "start": "00:12:22",
+    "end": "00:12:40"
+  },
+  {
+    "text": "Um, kind of reminds me of Reddit posts where like uh these artist posts that go viral where it's like the person with their face like holding up their piece of art and it's like those get a lot more engagement than just the art itself because like I don't know people just people like that oh this person's like building a company and they're passionate about enough to you know share it with random people in Instagram comments.",
+    "start": "00:12:40",
+    "end": "00:13:06"
+  },
+  {
+    "text": "It's like a um it's a way to like create the connection.",
+    "start": "00:13:06",
+    "end": "00:13:10"
+  },
+  {
+    "text": "And then you said the second step of that connection is actually when the people go to the profile and then you see the profile.",
+    "start": "00:13:10",
+    "end": "00:13:16"
+  },
+  {
+    "text": "So could you go back up to the where you where you showed me that first profile?",
+    "start": "00:13:16",
+    "end": "00:13:20"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:13:20",
+    "end": "00:13:20"
+  },
+  {
+    "text": "So this is like um Lena the wellness girl.",
+    "start": "00:13:20",
+    "end": "00:13:24"
+  },
+  {
+    "text": "So this is not an example of one of the founder profiles or would you use this also for >> it's it's sim it's similar.",
+    "start": "00:13:24",
+    "end": "00:13:32"
+  },
+  {
+    "text": "So it it says representing and then the app name.",
+    "start": "00:13:32",
+    "end": "00:13:35"
+  },
+  {
+    "text": "So yeah for example for example within this bundle of like social agents as we call them uh you would have certain you know angles to see which one of them for example convert better from profile to actual click right and very important part of it is bio and the name of the account uh and and the content on the account so that's why for example it can it can go like on this screenshot saying like uh fitness and tech but it also can start with saying that you know I founded this app and the name of the app, for example.",
+    "start": "00:13:33",
+    "end": "00:14:05"
+  },
+  {
+    "text": "So, and then we'll see which one of them will work better.",
+    "start": "00:14:05",
+    "end": "00:14:09"
+  },
+  {
+    "text": ">> Yeah, I feel like founder stories generally do pretty well on Tik Tok and Instagram.",
+    "start": "00:14:08",
+    "end": "00:14:14"
+  },
+  {
+    "text": "Like I've I've heard of a lot of app founders doing uh pretty good like founder content for UGC.",
+    "start": "00:14:14",
+    "end": "00:14:21"
+  },
+  {
+    "text": "So, I guess it makes sense that it would also work in comments.",
+    "start": "00:14:21",
+    "end": "00:14:26"
+  },
+  {
+    "text": ">> Yeah, in this one the kind of again it's it's not necessarily call to actions in you know as they usually are.",
+    "start": "00:14:24",
+    "end": "00:14:32"
+  },
+  {
+    "text": "It just says that, you know, my buddy recommended some kind of app and I'm going to try it out.",
+    "start": "00:14:32",
+    "end": "00:14:37"
+  },
+  {
+    "text": "So, it's also kind of this soft approach, but it but it again at least it includes something at the end of the comment, right?",
+    "start": "00:14:37",
+    "end": "00:14:44"
+  },
+  {
+    "text": "To point the people into to our direction because usually if you have nothing uh at the end of the comment, then like you're kind of expecting people to just visit your profile on their own like curiosity.",
+    "start": "00:14:44",
+    "end": "00:14:55"
+  },
+  {
+    "text": "And there are things and there are hacks that you can uh use to also use that to your advantage of course.",
+    "start": "00:14:55",
+    "end": "00:15:00"
+  },
+  {
+    "text": "Uh but yeah, usually you want at least something inside the comment to you know point people in the right direction.",
+    "start": "00:15:00",
+    "end": "00:15:07"
+  },
+  {
+    "text": "Yeah, this one on the left just says that about the app that uh you know our uh page loves uh and that it offers some kind of tips.",
+    "start": "00:15:07",
+    "end": "00:15:15"
+  },
+  {
+    "text": "Now this one surprisingly also got like a lot of engagement uh from people uh I guess because it's it's very specific especially at the beginning of the comment like it specifically talks about the condition that is uh you know the video is about so and that it affects daily life.",
+    "start": "00:15:15",
+    "end": "00:15:30"
+  },
+  {
+    "text": "So yeah, uh this one might look like something more on the more hard pitch side, but it still works sometimes.",
+    "start": "00:15:30",
+    "end": "00:15:36"
+  },
+  {
+    "text": "The right one is also interesting because it doesn't say about the app, it talks about the clip about the app.",
+    "start": "00:15:36",
+    "end": "00:15:42"
+  },
+  {
+    "text": "So it's like uh it's like they it directs people to our profile to check the video.",
+    "start": "00:15:42",
+    "end": "00:15:48"
+  },
+  {
+    "text": "And we are using something like this a lot right now for example.",
+    "start": "00:15:48",
+    "end": "00:15:51"
+  },
+  {
+    "text": "So we'll do even more uh approach like that because it also it also makes people like wonder like uh talking about the app it's kind of more direct and not not everyone is ready to install another app but watching another video while they are on Instagram that's a an interesting thing.",
+    "start": "00:15:51",
+    "end": "00:16:08"
+  },
+  {
+    "text": "So that makes them visit the profile and engage from there.",
+    "start": "00:16:08",
+    "end": "00:16:10"
+  },
+  {
+    "text": "As I'm reading all these examples of different angles for the comments, it makes me think that there must have been a pretty long iteration process for you guys to figure out what types of content are in the meta right now and start to saturate and start to feel like AI comments >> and lead which like leads you to pivot and [music] continue to try to stand out.",
+    "start": "00:16:10",
+    "end": "00:16:36"
+  },
+  {
+    "text": "Is that accurate?",
+    "start": "00:16:36",
+    "end": "00:16:38"
+  },
+  {
+    "text": "Do you feel like you always have to get ahead of like what consumers are used to and then changing up the content?",
+    "start": "00:16:38",
+    "end": "00:16:47"
+  },
+  {
+    "text": ">> Yeah, even even more than that they change with time.",
+    "start": "00:16:45",
+    "end": "00:16:48"
+  },
+  {
+    "text": "Yes, we we don't only want to stay ahead for the consumer behavior but also to algorithms.",
+    "start": "00:16:48",
+    "end": "00:16:55"
+  },
+  {
+    "text": "For example, uh there was a situation when u uh one of our angles for one of our clients uh it worked for two two weeks and then it just stopped working without any changes on our site.",
+    "start": "00:16:55",
+    "end": "00:17:05"
+  },
+  {
+    "text": "it just Instagram would start detecting it and uh just wouldn't even let it through.",
+    "start": "00:17:05",
+    "end": "00:17:10"
+  },
+  {
+    "text": "And we fixed that by changing it.",
+    "start": "00:17:08",
+    "end": "00:17:12"
+  },
+  {
+    "text": "Even within the same angle, we still use different like prompts uh to you know different examples, different context for AI to generate them better.",
+    "start": "00:17:12",
+    "end": "00:17:22"
+  },
+  {
+    "text": ">> I'm curious.",
+    "start": "00:17:19",
+    "end": "00:17:21"
+  },
+  {
+    "text": "Let me let's like zoom out and I want to learn about your guys like founding story.",
+    "start": "00:17:21",
+    "end": "00:17:26"
+  },
+  {
+    "text": "Like how did you get into >> this Instagram?",
+    "start": "00:17:26",
+    "end": "00:17:29"
+  },
+  {
+    "text": "Did it start with Instagram comments or was there something before?",
+    "start": "00:17:29",
+    "end": "00:17:35"
+  },
+  {
+    "text": "Yeah, we've worked together for like the last eight years as a team and uh we've started uh as a Minecraft modeling team.",
+    "start": "00:17:32",
+    "end": "00:17:45"
+  },
+  {
+    "text": "So, we had a Minecraft server and uh went tech heavy on it.",
+    "start": "00:17:41",
+    "end": "00:17:48"
+  },
+  {
+    "text": "We did a bunch of custom uh games and uh like uh modes and uh uh eventually it was very fun.",
+    "start": "00:17:48",
+    "end": "00:17:57"
+  },
+  {
+    "text": "We learned like a lot of development stuff and a lot of how to talk to people, how to get uh customers, how to get uh more money out of our customers and stuff like this was very funny.",
+    "start": "00:17:57",
+    "end": "00:18:10"
+  },
+  {
+    "text": "Um eventually it got acquired and we uh pivoted at the time to even more uh tech heavy private blockchain development and uh after uh that uh we decided to develop a AI uh native uh plane ticket search basically.",
+    "start": "00:18:10",
+    "end": "00:18:30"
+  },
+  {
+    "text": "Uh so that was a B2C app and uh we had to reinvent basically we had to find the way to find uh clients and uh one of our buddies at the time recommended us trying Tik Tok UGC style videos.",
+    "start": "00:18:26",
+    "end": "00:18:43"
+  },
+  {
+    "text": "Uh they were just uh on the horizon back then.",
+    "start": "00:18:43",
+    "end": "00:18:47"
+  },
+  {
+    "text": "So with our technical background we've uh decided to just uh automate Tik Tok instead of just recording these videos.",
+    "start": "00:18:44",
+    "end": "00:18:57"
+  },
+  {
+    "text": "So uh yeah [clears throat] we got uh 100 million views out of it.",
+    "start": "00:18:52",
+    "end": "00:19:01"
+  },
+  {
+    "text": "Uh we uh mostly we just promoted our clients music.",
+    "start": "00:19:01",
+    "end": "00:19:06"
+  },
+  {
+    "text": "Then we switched to Instagram uh because of the Tik Tok ban.",
+    "start": "00:19:06",
+    "end": "00:19:08"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:19:08",
+    "end": "00:19:09"
+  },
+  {
+    "text": "So that's our story.",
+    "start": "00:19:09",
+    "end": "00:19:12"
+  },
+  {
+    "text": ">> So you were building your your own flights app, a consumer app, and you were trying to promote it through Tik Tok.",
+    "start": "00:19:10",
+    "end": "00:19:17"
+  },
+  {
+    "text": "So you did Tik Tok content automation.",
+    "start": "00:19:17",
+    "end": "00:19:20"
+  },
+  {
+    "text": "What?",
+    "start": "00:19:20",
+    "end": "00:19:20"
+  },
+  {
+    "text": "you got hundreds of millions of views on Tik Tok.",
+    "start": "00:19:20",
+    "end": "00:19:23"
+  },
+  {
+    "text": "What were those what was that content about?",
+    "start": "00:19:23",
+    "end": "00:19:27"
+  },
+  {
+    "text": ">> Yeah, mostly mostly it was memes and uh sometimes it was videos made by our clients.",
+    "start": "00:19:24",
+    "end": "00:19:30"
+  },
+  {
+    "text": "So, UGC type videos, videos that are requested from their uh main accounts, uh videos with some edits.",
+    "start": "00:19:30",
+    "end": "00:19:38"
+  },
+  {
+    "text": "Uh and yeah, mostly it was like pure entertainment.",
+    "start": "00:19:38",
+    "end": "00:19:41"
+  },
+  {
+    "text": ">> I see.",
+    "start": "00:19:39",
+    "end": "00:19:40"
+  },
+  {
+    "text": "So, it wasn't promoting anything.",
+    "start": "00:19:40",
+    "end": "00:19:44"
+  },
+  {
+    "text": ">> Some of them are promotional uh and some of them are not.",
+    "start": "00:19:41",
+    "end": "00:19:46"
+  },
+  {
+    "text": "But uh yeah, some of them were just uh more on the uh again soft pitch side and uh yeah we we did the same thing for example with watermarks.",
+    "start": "00:19:46",
+    "end": "00:19:55"
+  },
+  {
+    "text": "So we test a lot of things.",
+    "start": "00:19:55",
+    "end": "00:19:58"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:19:56",
+    "end": "00:19:58"
+  },
+  {
+    "text": "What was the most interesting result that you got from the the Tik Tok views?",
+    "start": "00:19:58",
+    "end": "00:20:03"
+  },
+  {
+    "text": "uh in terms of views like I would say the most there were crazy results all the time like uh some accounts they perform amazingly well like since day one and you just you just don't expect this type of results but they uh but you get them so like 200,000 views on the sec on the first video and uh one one time I believe we even had like 900,000 views on the first video that was crazy times uh the highest we got per one video was around 2 million views and it it was also very surprising Because yeah, the video it was actually an image and it just showed some kind of random thing without any kind of text without anything like we had we had promotion in the description but we the video itself is is just a static image and people just went crazy like 2 million views and I don't remember like tens of thousands of comments I think.",
+    "start": "00:20:03",
+    "end": "00:20:53"
+  },
+  {
+    "text": "So it's it's like crazy.",
+    "start": "00:20:52",
+    "end": "00:20:56"
+  },
+  {
+    "text": ">> So all of these like viral Tik Toks were mostly just >> Was it kind of like a proof of concept for you guys?",
+    "start": "00:20:53",
+    "end": "00:21:01"
+  },
+  {
+    "text": "let's just try to go viral on Tik Tok.",
+    "start": "00:21:01",
+    "end": "00:21:03"
+  },
+  {
+    "text": "There was no like business behind it necessarily.",
+    "start": "00:21:03",
+    "end": "00:21:09"
+  },
+  {
+    "text": ">> I would say uh it was part of the business to just prove the concept that our uh automation uh system can uh run Tik Tok accounts and they can get a lot of views and also we did promotion for the like we included uh the music of our clients in these Tik Toks and uh they made for uh 1 million views.",
+    "start": "00:21:07",
+    "end": "00:21:27"
+  },
+  {
+    "text": "Yeah, one of the goals that we wanted to reach at at that time was to make people film their own videos uh by you know first so we use the client's music inside our video and people just uh click on the sound and click use this sound and record their own videos and so for example when we included call to actions about this specific action.",
+    "start": "00:21:27",
+    "end": "00:21:48"
+  },
+  {
+    "text": "So go and film out your own video uh we had like we had results from this but yeah on the business side uh it wasn't like it wasn't the best thing ever.",
+    "start": "00:21:48",
+    "end": "00:21:56"
+  },
+  {
+    "text": "It was more of a proof of concept than proof of the technical detail because we are not we ourselves are not a content creation team and uh this type of thing requires client to you know provide their own content or provide concepts for the content uh and so on and yeah we had to do everything our most of the things ourselves and uh yeah this this is too difficult.",
+    "start": "00:21:56",
+    "end": "00:22:17"
+  },
+  {
+    "text": "So that's one of the biggest reasons why we switched to comments because comments are much easier to iterate and we can just focus on you know coming up with creative ideas and developing tech.",
+    "start": "00:22:17",
+    "end": "00:22:28"
+  },
+  {
+    "text": ">> So that's that's an interesting nuance that I don't think many people like are going to catch.",
+    "start": "00:22:26",
+    "end": "00:22:32"
+  },
+  {
+    "text": "So what you just said is that you don't make the content.",
+    "start": "00:22:32",
+    "end": "00:22:36"
+  },
+  {
+    "text": "So when you were making Tik Toks all you did was automate the posting of the content.",
+    "start": "00:22:36",
+    "end": "00:22:41"
+  },
+  {
+    "text": "So can you just explain why is that necessary?",
+    "start": "00:22:41",
+    "end": "00:22:43"
+  },
+  {
+    "text": "Why?",
+    "start": "00:22:43",
+    "end": "00:22:43"
+  },
+  {
+    "text": "Like that's you said that that's your that was almost your whole business just the automation of the posting while your clients would actually make the content.",
+    "start": "00:22:43",
+    "end": "00:22:54"
+  },
+  {
+    "text": "So why why was that so valuable?",
+    "start": "00:22:54",
+    "end": "00:22:56"
+  },
+  {
+    "text": "Um or why is that so valuable to businesses?",
+    "start": "00:22:56",
+    "end": "00:23:00"
+  },
+  {
+    "text": ">> I would start with the fact that beside besides the uploading itself, it's also account engagement and account warm-up.",
+    "start": "00:22:58",
+    "end": "00:23:07"
+  },
+  {
+    "text": "So you want your accounts to not just uh post videos and leave the app.",
+    "start": "00:23:05",
+    "end": "00:23:10"
+  },
+  {
+    "text": "You want them to engage with the app.",
+    "start": "00:23:10",
+    "end": "00:23:12"
+  },
+  {
+    "text": "We want them to engage with other people and so on.",
+    "start": "00:23:12",
+    "end": "00:23:13"
+  },
+  {
+    "text": "And this is a lot of work like uh why why companies wouldn't do it themselves?",
+    "start": "00:23:13",
+    "end": "00:23:18"
+  },
+  {
+    "text": "Well, they do, but this requires hiring VAS, hiring clippers, hiring people that you need to manage most of the time.",
+    "start": "00:23:18",
+    "end": "00:23:25"
+  },
+  {
+    "text": "And uh these people uh even then if you were able to manage all of them, they are still people and they can't do a thousand things at once.",
+    "start": "00:23:25",
+    "end": "00:23:34"
+  },
+  {
+    "text": "They can't automate.",
+    "start": "00:23:34",
+    "end": "00:23:34"
+  },
+  {
+    "text": "They can't uh use 1,000 phones at once, most of them at least.",
+    "start": "00:23:34",
+    "end": "00:23:40"
+  },
+  {
+    "text": "And so yeah, this is a question of scale.",
+    "start": "00:23:37",
+    "end": "00:23:41"
+  },
+  {
+    "text": "This is the question of uh practicality and the question of do you want to manage a ton of people uh who often don't want to be managed and do want to do their own thing or do you want like the system that works just 24/7 uh like with very little moderation on your side.",
+    "start": "00:23:41",
+    "end": "00:23:59"
+  },
+  {
+    "text": ">> Okay.",
+    "start": "00:23:56",
+    "end": "00:23:57"
+  },
+  {
+    "text": "So it's a question of scale.",
+    "start": "00:23:57",
+    "end": "00:24:00"
+  },
+  {
+    "text": "When companies like when businesses like post content, they're not just posting on a single account.",
+    "start": "00:24:00",
+    "end": "00:24:04"
+  },
+  {
+    "text": "They're posting on how many accounts would they post on?",
+    "start": "00:24:04",
+    "end": "00:24:09"
+  },
+  {
+    "text": ">> Yep.",
+    "start": "00:24:07",
+    "end": "00:24:07"
+  },
+  {
+    "text": "I I think a lot of businesses want to do as as much as possible >> and uh the more accounts you have on one device uh the less trust you will have from the social media.",
+    "start": "00:24:07",
+    "end": "00:24:19"
+  },
+  {
+    "text": "I think on Tik Tok you can add somewhat close to 10 accounts per one device and the more you have the less trust you get the less views you get the less engagement you get.",
+    "start": "00:24:19",
+    "end": "00:24:28"
+  },
+  {
+    "text": "Basically algorithm detects that you are uh abusing it and that's it.",
+    "start": "00:24:28",
+    "end": "00:24:35"
+  },
+  {
+    "text": ">> So normal people can't run too many accounts.",
+    "start": "00:24:33",
+    "end": "00:24:37"
+  },
+  {
+    "text": "So what you're saying is the there there's there's kind of like a value chain in this whole like organic content economy where it starts with the content creation.",
+    "start": "00:24:37",
+    "end": "00:24:52"
+  },
+  {
+    "text": "So you make the content and then you well even before that it's like figuring out what what content to make in the first place.",
+    "start": "00:24:52",
+    "end": "00:25:01"
+  },
+  {
+    "text": "So content strategy and like creative research.",
+    "start": "00:25:01",
+    "end": "00:25:03"
+  },
+  {
+    "text": "Um then it's okay now how do I take these concepts and strategy and make a bunch of content.",
+    "start": "00:25:03",
+    "end": "00:25:12"
+  },
+  {
+    "text": "So that's like generative AI platforms.",
+    "start": "00:25:12",
+    "end": "00:25:14"
+  },
+  {
+    "text": "And then third is how do we actually post the content?",
+    "start": "00:25:14",
+    "end": "00:25:18"
+  },
+  {
+    "text": "Because like you just said, Tik [music] Tok and Instagram have, you know, anti-botting algorithms and they don't want you to have too many accounts on a single phone.",
+    "start": "00:25:16",
+    "end": "00:25:28"
+  },
+  {
+    "text": "And they definitely don't want you to have, you know, 100 accounts all posting um, you know, content all the time, every day.",
+    "start": "00:25:28",
+    "end": "00:25:41"
+  },
+  {
+    "text": ">> But you guys do that.",
+    "start": "00:25:38",
+    "end": "00:25:41"
+  },
+  {
+    "text": "Um, so what does it take to be able to do that?",
+    "start": "00:25:41",
+    "end": "00:25:43"
+  },
+  {
+    "text": ">> [music] >> We automated a bunch of physical devices and uh uh we did uh our own version of Android uh that can load and unload the ROM of the whole device.",
+    "start": "00:25:43",
+    "end": "00:25:57"
+  },
+  {
+    "text": "So each account uh will have basically its own unique phone.",
+    "start": "00:25:57",
+    "end": "00:26:00"
+  },
+  {
+    "text": "By this design, we can just change account uh by demand uh giving us like I like 20 accounts on Instagram and around like I think 100 or 200 accounts on Tik Tok per day per device.",
+    "start": "00:26:00",
+    "end": "00:26:18"
+  },
+  {
+    "text": "And uh with uh with all of that we also have our own system how to uh press buttons uh to be undetected by the algorithm.",
+    "start": "00:26:18",
+    "end": "00:26:28"
+  },
+  {
+    "text": "how to will basically how to interact with the phone in a way that ith will think that we are actual real humans.",
+    "start": "00:26:25",
+    "end": "00:26:35"
+  },
+  {
+    "text": ">> It's pretty insane.",
+    "start": "00:26:33",
+    "end": "00:26:35"
+  },
+  {
+    "text": "That's like the that's kind of like the core like secret sauce of this whole thing.",
+    "start": "00:26:35",
+    "end": "00:26:40"
+  },
+  {
+    "text": "And it's it is a real bottleneck for certain scale.",
+    "start": "00:26:40",
+    "end": "00:26:44"
+  },
+  {
+    "text": "Like once you crack an organic format, imagine what you do next.",
+    "start": "00:26:41",
+    "end": "00:26:46"
+  },
+  {
+    "text": "Well, you want to multiply it.",
+    "start": "00:26:46",
+    "end": "00:26:47"
+  },
+  {
+    "text": "You want to post it like five more times.",
+    "start": "00:26:47",
+    "end": "00:26:50"
+  },
+  {
+    "text": ">> What are you going to do?",
+    "start": "00:26:49",
+    "end": "00:26:51"
+  },
+  {
+    "text": "Post it five more times on like one single account?",
+    "start": "00:26:51",
+    "end": "00:26:54"
+  },
+  {
+    "text": "Probably not.",
+    "start": "00:26:53",
+    "end": "00:26:54"
+  },
+  {
+    "text": "Like if you're going to post a hundred times, you know, and it's a format that works really well, then you're probably going to need more accounts, more phones.",
+    "start": "00:26:54",
+    "end": "00:27:04"
+  },
+  {
+    "text": "So you guys like have that infrastructure.",
+    "start": "00:27:04",
+    "end": "00:27:07"
+  },
+  {
+    "text": "So um >> yeah.",
+    "start": "00:27:07",
+    "end": "00:27:10"
+  },
+  {
+    "text": ">> Yeah, that's really interesting.",
+    "start": "00:27:08",
+    "end": "00:27:12"
+  },
+  {
+    "text": "What do you think is the limitation?",
+    "start": "00:27:10",
+    "end": "00:27:15"
+  },
+  {
+    "text": "Like why are why are more people not doing this?",
+    "start": "00:27:12",
+    "end": "00:27:17"
+  },
+  {
+    "text": ">> Well, at first a lot of companies are starting to do that actually.",
+    "start": "00:27:15",
+    "end": "00:27:22"
+  },
+  {
+    "text": "I think UGC uh stuff is just uh starting to show up on our radars.",
+    "start": "00:27:22",
+    "end": "00:27:26"
+  },
+  {
+    "text": "Just a couple of years ago, there was like a few companies that did that and right now we have uh VCs investing in uh phone uh infrastructure startups and uh yeah uh quite a bunch of them actually.",
+    "start": "00:27:26",
+    "end": "00:27:40"
+  },
+  {
+    "text": "So I think it will be the future of content distribution in the very short uh period of time.",
+    "start": "00:27:40",
+    "end": "00:27:48"
+  },
+  {
+    "text": "It feels like this is a very like almost controversial topic in the I guess like app or creator economy or UGC space.",
+    "start": "00:27:48",
+    "end": "00:27:58"
+  },
+  {
+    "text": "And if you think about it like right now all the platforms Tik Tok, Instagram, Meta like they have all of the leverage.",
+    "start": "00:27:58",
+    "end": "00:28:07"
+  },
+  {
+    "text": "They have literally infinite like power.",
+    "start": "00:28:07",
+    "end": "00:28:09"
+  },
+  {
+    "text": "They have all the distribution, right?",
+    "start": "00:28:09",
+    "end": "00:28:12"
+  },
+  {
+    "text": "Like what else are you going to spend like 6 hours a day on like there's no apps that really contest like Tik Tok, Tik Tok, Instagram, YouTube and startups seem like they're kind of fighting back and and like you said VCs are almost like funding this idea that let's just you know like these platforms have their rules because they want to protect their platforms against like people taking distribution into their own hands.",
+    "start": "00:28:12",
+    "end": "00:28:39"
+  },
+  {
+    "text": "And it seems like you guys are like part of that like that startup wave of like let's try to like sidestep their game almost.",
+    "start": "00:28:39",
+    "end": "00:28:45"
+  },
+  {
+    "text": "It's a completely new world.",
+    "start": "00:28:45",
+    "end": "00:28:48"
+  },
+  {
+    "text": "I think normally I on this channel I I talk to a lot of um founders that are doing UGC sort of by the book, but something something that not a lot of people think about is UGC organic is inherently competitive to to Tik Tok's interest.",
+    "start": "00:28:48",
+    "end": "00:29:05"
+  },
+  {
+    "text": "like they don't want you to go viral with UGC [music] and make money from it because they would rather have you spend money on ads, right?",
+    "start": "00:29:05",
+    "end": "00:29:14"
+  },
+  {
+    "text": "Like if you're just paying creators, Tik Tok gets none of that on a big picture.",
+    "start": "00:29:14",
+    "end": "00:29:20"
+  },
+  {
+    "text": "Like they're incentivized for masscaled UGC operations, they're incentivized for those to just not work, which is why they fight so hard to like uh shut down these kinds of things.",
+    "start": "00:29:20",
+    "end": "00:29:29"
+  },
+  {
+    "text": "So does that ever scare you guys?",
+    "start": "00:29:29",
+    "end": "00:29:31"
+  },
+  {
+    "text": "Like do you feel like you're up against kind of this like huge machine that's always trying to like shut you down?",
+    "start": "00:29:31",
+    "end": "00:29:39"
+  },
+  {
+    "text": ">> Not at all actually.",
+    "start": "00:29:37",
+    "end": "00:29:40"
+  },
+  {
+    "text": "It's quite uh the opposite on Instagram.",
+    "start": "00:29:40",
+    "end": "00:29:42"
+  },
+  {
+    "text": "Uh like only like the smallest percentage of people are creating the content.",
+    "start": "00:29:42",
+    "end": "00:29:47"
+  },
+  {
+    "text": "Most of the people are consuming the content.",
+    "start": "00:29:47",
+    "end": "00:29:50"
+  },
+  {
+    "text": "So there is uh like a giant gap between uh content creators and content consumers.",
+    "start": "00:29:50",
+    "end": "00:29:59"
+  },
+  {
+    "text": "So we with uh with any content that performs which is the only content that works in terms of uh advertisement in terms of UGC uh that does perform you are helping the social media app actually you're uh filling this endless well you're filling the void uh of uh missing content for people to consume.",
+    "start": "00:29:59",
+    "end": "00:30:21"
+  },
+  {
+    "text": "Social media apps are craving people that create content, great content.",
+    "start": "00:30:21",
+    "end": "00:30:26"
+  },
+  {
+    "text": "And uh if we distribute content that doesn't perform, that doesn't doesn't get any views, doesn't get any engagement, then well, nobody's afraid of that.",
+    "start": "00:30:26",
+    "end": "00:30:36"
+  },
+  {
+    "text": "Why would you be?",
+    "start": "00:30:36",
+    "end": "00:30:39"
+  },
+  {
+    "text": "Uh nobody's going to see it.",
+    "start": "00:30:39",
+    "end": "00:30:41"
+  },
+  {
+    "text": "Uh it doesn't harm anyone.",
+    "start": "00:30:41",
+    "end": "00:30:41"
+  },
+  {
+    "text": "So yeah, only the content that doesn't that does perform shows up on the feed.",
+    "start": "00:30:41",
+    "end": "00:30:47"
+  },
+  {
+    "text": "And if it if it shows up in the feed, it uh gets social media engagement up uh therefore we are helping the social medias.",
+    "start": "00:30:47",
+    "end": "00:30:55"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:30:54",
+    "end": "00:30:57"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:30:55",
+    "end": "00:30:55"
+  },
+  {
+    "text": "Uh I would also add to it that it it's really even more relevant in like underserved niches like there are categories of content that not that many people create but people want to consume.",
+    "start": "00:30:55",
+    "end": "00:31:06"
+  },
+  {
+    "text": "And so if like Instagram and Facebook, they want to like have everyone on their platform that they would need to serve their interests.",
+    "start": "00:31:06",
+    "end": "00:31:16"
+  },
+  {
+    "text": "And then again uh for their own ads, they need to be able to target people who express interests in certain things.",
+    "start": "00:31:16",
+    "end": "00:31:23"
+  },
+  {
+    "text": "And why wouldn't they would like to do it from within their platform?",
+    "start": "00:31:23",
+    "end": "00:31:26"
+  },
+  {
+    "text": "when people consume like things inside the categories that they want to consume, uh the meta would be able to target them and show them ads in this specific niche.",
+    "start": "00:31:26",
+    "end": "00:31:36"
+  },
+  {
+    "text": "So, that's a win-win.",
+    "start": "00:31:36",
+    "end": "00:31:39"
+  },
+  {
+    "text": ">> So, when you reach out to creators and you're about to invest into organic social and maybe boosting those videos with paid ads, you don't want to just let the creators do whatever they want.",
+    "start": "00:31:37",
+    "end": "00:31:47"
+  },
+  {
+    "text": "Most of the app founders I talked to on this channel basically have the same content philosophy.",
+    "start": "00:31:45",
+    "end": "00:31:51"
+  },
+  {
+    "text": "The videos need to go viral but also convert and promote an app and ideally are also repeatable.",
+    "start": "00:31:51",
+    "end": "00:31:58"
+  },
+  {
+    "text": "And those formats are like gems and really hard to find.",
+    "start": "00:31:58",
+    "end": "00:32:00"
+  },
+  {
+    "text": "That's why Tik Tok can sometimes feel like a lottery system.",
+    "start": "00:32:00",
+    "end": "00:32:04"
+  },
+  {
+    "text": "So what a lot of consumer club members do is they use this tool called spy talk which brain rot scrolls hundreds of thousands of Tik Toks and just finds the most viral ones that promote apps.",
+    "start": "00:32:04",
+    "end": "00:32:15"
+  },
+  {
+    "text": "So here I search for fitness, gym, workouts.",
+    "start": "00:32:15",
+    "end": "00:32:17"
+  },
+  {
+    "text": "Let's say you like run a fitness app.",
+    "start": "00:32:17",
+    "end": "00:32:20"
+  },
+  {
+    "text": "I'm gonna sort by most viral.",
+    "start": "00:32:20",
+    "end": "00:32:21"
+  },
+  {
+    "text": "And here's this 106x outlier video that promotes a fitness app.",
+    "start": "00:32:21",
+    "end": "00:32:27"
+  },
+  {
+    "text": "And it shows a text hook.",
+    "start": "00:32:27",
+    "end": "00:32:27"
+  },
+  {
+    "text": "It shows the image in the background.",
+    "start": "00:32:27",
+    "end": "00:32:30"
+  },
+  {
+    "text": "And then on the second slide, it has this CTA in a really creative way.",
+    "start": "00:32:30",
+    "end": "00:32:33"
+  },
+  {
+    "text": "And spy talk has been the secret weapon for growth strategy for 11 Labs and AMO and Voodoo, which is the app studio that owns Bereal.",
+    "start": "00:32:33",
+    "end": "00:32:41"
+  },
+  {
+    "text": "So I recommend Spy Talk.",
+    "start": "00:32:41",
+    "end": "00:32:44"
+  },
+  {
+    "text": "It really is the only other tool I explicitly recommend on this channel other than Superwall.",
+    "start": "00:32:44",
+    "end": "00:32:49"
+  },
+  {
+    "text": "Yeah, >> that's that's a really interesting take and I feel like that actually is that take is has evidence to back it up because if you look at um like the meta AI or Sora, they're completely leaning into the idea that yeah, there's underserved um content needs and like there's big audiences that want certain types of content.",
+    "start": "00:32:49",
+    "end": "00:33:12"
+  },
+  {
+    "text": "Let's not wait for other people to make it.",
+    "start": "00:33:12",
+    "end": "00:33:15"
+  },
+  {
+    "text": "We'll just make it ourselves.",
+    "start": "00:33:15",
+    "end": "00:33:16"
+  },
+  {
+    "text": "So now they have full feeds of just pure AI content.",
+    "start": "00:33:16",
+    "end": "00:33:21"
+  },
+  {
+    "text": "Some people say that's dystopian, but from the platforms perspectives, >> they see that people want certain types of content, so they're supplying it.",
+    "start": "00:33:21",
+    "end": "00:33:30"
+  },
+  {
+    "text": "Um, what what was in the rest of this um of these slides and we we can keep going.",
+    "start": "00:33:30",
+    "end": "00:33:35"
+  },
+  {
+    "text": ">> Yeah, this is just the overview of the funnel.",
+    "start": "00:33:33",
+    "end": "00:33:35"
+  },
+  {
+    "text": "Yeah, if you want that.",
+    "start": "00:33:35",
+    "end": "00:33:37"
+  },
+  {
+    "text": "I'm not sure that.",
+    "start": "00:33:37",
+    "end": "00:33:40"
+  },
+  {
+    "text": ">> Yeah, this is interesting.",
+    "start": "00:33:38",
+    "end": "00:33:42"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:33:42",
+    "end": "00:33:43"
+  },
+  {
+    "text": "So yeah, explain this funnel.",
+    "start": "00:33:43",
+    "end": "00:33:45"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:33:45",
+    "end": "00:33:46"
+  },
+  {
+    "text": "So the commenting uh funnel is very simple.",
+    "start": "00:33:46",
+    "end": "00:33:49"
+  },
+  {
+    "text": "Uh basically uh once we found people to reply to or once we found videos to comment on uh we obviously post our things and people see the comment that they like they uh if if the comment doesn't mention the specific app then the only option for the person is to either uh reply to us and ask about the app that we promote or visit our profile.",
+    "start": "00:33:49",
+    "end": "00:34:07"
+  },
+  {
+    "text": "uh once we visit once they visit our profile they engage with content that we have and the goal is for them to click on a link and bio and once they do that they obviously get to the app store or uh the website that we promote or the main uh IG page of the brand that we promote.",
+    "start": "00:34:07",
+    "end": "00:34:24"
+  },
+  {
+    "text": "So some some accounts don't even have links in bio they just have mentions in bio and mention leads to the main brand page which obviously is full of content and social proof and so on and yeah from there they just convert.",
+    "start": "00:34:24",
+    "end": "00:34:38"
+  },
+  {
+    "text": "So it's uh installs, signups, email optins, follows uh on socials and so on.",
+    "start": "00:34:38",
+    "end": "00:34:43"
+  },
+  {
+    "text": "This is just the results for one of the campaigns and uh yeah the next slide will show even like you know more concrete details.",
+    "start": "00:34:43",
+    "end": "00:34:52"
+  },
+  {
+    "text": "So the campaign is the campaign that we run is uh USA based healthcare app.",
+    "start": "00:34:52",
+    "end": "00:34:57"
+  },
+  {
+    "text": "So it's about uh fitness, it's about nutrition, it's about sleep quality and yeah the campaign is still ongoing and so far we did like almost a half of the campaign and based on the metrics that we have we project like this campaign to bring like 4x to return.",
+    "start": "00:34:57",
+    "end": "00:35:11"
+  },
+  {
+    "text": "The numbers are here.",
+    "start": "00:35:11",
+    "end": "00:35:14"
+  },
+  {
+    "text": ">> So the the main thing that's interesting here is the clicks.",
+    "start": "00:35:12",
+    "end": "00:35:17"
+  },
+  {
+    "text": "So, you got 7,000 clicks um on the campaign.",
+    "start": "00:35:17",
+    "end": "00:35:20"
+  },
+  {
+    "text": "And how many comments did that did that take?",
+    "start": "00:35:20",
+    "end": "00:35:26"
+  },
+  {
+    "text": ">> I believe around 300,000 maybe.",
+    "start": "00:35:22",
+    "end": "00:35:26"
+  },
+  {
+    "text": "Yeah, I I guess around that.",
+    "start": "00:35:26",
+    "end": "00:35:30"
+  },
+  {
+    "text": ">> 300,000 comment 300,000 Instagram comments and you got 7,000 clicks on that.",
+    "start": "00:35:27",
+    "end": "00:35:32"
+  },
+  {
+    "text": "So, like how many of those comments are actually getting a decent number of likes and kind of like hitting the algo so to speak within the comment section?",
+    "start": "00:35:32",
+    "end": "00:35:42"
+  },
+  {
+    "text": "smallest percentage of uh comments are getting enough exposure to generate the results.",
+    "start": "00:35:42",
+    "end": "00:35:49"
+  },
+  {
+    "text": "So like with uh the UGC videos you get like uh 100 videos now of them like 10 are performing great and others are kind of low and so you generate your almost entire results with uh [music] just a small percentage of the >> right cont.",
+    "start": "00:35:49",
+    "end": "00:36:07"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:36:05",
+    "end": "00:36:06"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:36:06",
+    "end": "00:36:06"
+  },
+  {
+    "text": "The important part is that in the beginning we have a lot of problems with this uh campaign.",
+    "start": "00:36:06",
+    "end": "00:36:12"
+  },
+  {
+    "text": "So in the beginning you basically like you post comments and you get nowhere and so you have to iterate you have to change angles completely not just you know slight changes but significant changes and so it took some time for us to figure out that you know these angles that we showed before like co-founder angles and friend made this with me uh angle that this angles actually work and then again like I said it's an ongoing process so within the within the sub campaigns that we run we also need to do this tweaks and changes like changing the whole account identities uh like the way that they look.",
+    "start": "00:36:12",
+    "end": "00:36:44"
+  },
+  {
+    "text": "Uh so that's also very important.",
+    "start": "00:36:44",
+    "end": "00:36:46"
+  },
+  {
+    "text": "Uh some a lot of comments are just like experimental ones.",
+    "start": "00:36:46",
+    "end": "00:36:51"
+  },
+  {
+    "text": ">> How many comments are you posting on each phone per day?",
+    "start": "00:36:48",
+    "end": "00:36:55"
+  },
+  {
+    "text": "You know, 3,000 300,000 comments in total.",
+    "start": "00:36:55",
+    "end": "00:36:58"
+  },
+  {
+    "text": "That I'd imagine that's got to be a lot of phones and a lot of comments per account.",
+    "start": "00:36:58",
+    "end": "00:37:04"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:37:02",
+    "end": "00:37:03"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:37:03",
+    "end": "00:37:03"
+  },
+  {
+    "text": "I would say actually not.",
+    "start": "00:37:03",
+    "end": "00:37:06"
+  },
+  {
+    "text": "So our current like size of our intra is pretty small and so we are able to achieve even this results with a very small amount of devices and u uh the the numbers are basically the phones uh on Instagram we run from 12 to 24 account accounts per day per each phone and uh each account posts uh up to 60 comments.",
+    "start": "00:37:06",
+    "end": "00:37:30"
+  },
+  {
+    "text": "So that's it.",
+    "start": "00:37:27",
+    "end": "00:37:30"
+  },
+  {
+    "text": "Yeah, >> 60 comments a day.",
+    "start": "00:37:30",
+    "end": "00:37:32"
+  },
+  {
+    "text": "That's that's pretty crazy.",
+    "start": "00:37:32",
+    "end": "00:37:33"
+  },
+  {
+    "text": "So, it's like, you know, 10 to 20 accounts per phone.",
+    "start": "00:37:33",
+    "end": "00:37:37"
+  },
+  {
+    "text": "And then, um, that's a lot of accounts per phones.",
+    "start": "00:37:37",
+    "end": "00:37:42"
+  },
+  {
+    "text": "And that's I guess that's because of some of the, you know, remote uh I don't know exactly how you guys do it, but you know, the the tech stuff that you're that you're doing.",
+    "start": "00:37:42",
+    "end": "00:37:50"
+  },
+  {
+    "text": "Um, and then 60 accounts.",
+    "start": "00:37:50",
+    "end": "00:37:54"
+  },
+  {
+    "text": "This is kind of reminds me of cold email a little bit where people are warming up these inboxes.",
+    "start": "00:37:54",
+    "end": "00:37:59"
+  },
+  {
+    "text": "And I think the standard nowadays is like, you know, you can only send like 15 emails per day and you have to spread that across like a 100 different mailboxes.",
+    "start": "00:37:59",
+    "end": "00:38:10"
+  },
+  {
+    "text": "So if you want to send, >> you know, 50,000 cold emails, you have to set up, you know, dozens of inboxes and spread the emails across all of these inboxes.",
+    "start": "00:38:10",
+    "end": "00:38:19"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:38:19",
+    "end": "00:38:19"
+  },
+  {
+    "text": "Do you feel like this has parallels to the cold email?",
+    "start": "00:38:19",
+    "end": "00:38:22"
+  },
+  {
+    "text": "Do you guys talk to like cold email people at all?",
+    "start": "00:38:22",
+    "end": "00:38:25"
+  },
+  {
+    "text": ">> Uh, we didn't talk much to cold email people.",
+    "start": "00:38:23",
+    "end": "00:38:26"
+  },
+  {
+    "text": "just I remember can I can only remember one person but uh it's really an awesome analogy because even with like uh cold email with instantly you have this uh automatic uh warm-up where you would literally send the emails that are less uh like you know have less potential to go to spam than like your normal uh you know sales emails right and we do basically the same thing like some of our comments are so harmless like they have no call to actions at all they have no mentions of anything just to show that, you know, this is an uh this is a good account.",
+    "start": "00:38:26",
+    "end": "00:38:59"
+  },
+  {
+    "text": "This is an account that engage like a normal person.",
+    "start": "00:38:59",
+    "end": "00:39:01"
+  },
+  {
+    "text": "So sometimes they would mention something that they did with their friends and sometimes they would just talk about what's going on in the video and that's it.",
+    "start": "00:39:01",
+    "end": "00:39:08"
+  },
+  {
+    "text": "So yeah, same thing as in cold email.",
+    "start": "00:39:08",
+    "end": "00:39:10"
+  },
+  {
+    "text": "That's really wild.",
+    "start": "00:39:10",
+    "end": "00:39:14"
+  },
+  {
+    "text": "It's like uh that's so crazy to think about.",
+    "start": "00:39:14",
+    "end": "00:39:16"
+  },
+  {
+    "text": "And a lot of people don't even realize that that's how all of these B2B SAS companies that raise, you know, hundreds of millions of dollars, they're all they all run on cold email.",
+    "start": "00:39:14",
+    "end": "00:39:26"
+  },
+  {
+    "text": "They all run on sending what some people would think of as like spammy content, but that's how you do outbound.",
+    "start": "00:39:26",
+    "end": "00:39:33"
+  },
+  {
+    "text": "It's like you just have to uh reach a ton of eyeballs and a certain percentage of those people will be interested and send a reply or you know visit your website and yeah it seems like this idea is like coming into into B toc and I guess it's kind of always been here but you guys are kind of >> leading like a pretty interesting angle on it.",
+    "start": "00:39:33",
+    "end": "00:39:52"
+  },
+  {
+    "text": "Cool.",
+    "start": "00:39:52",
+    "end": "00:39:53"
+  },
+  {
+    "text": "Is what was the next slide?",
+    "start": "00:39:53",
+    "end": "00:39:56"
+  },
+  {
+    "text": ">> Yep.",
+    "start": "00:39:54",
+    "end": "00:39:55"
+  },
+  {
+    "text": "That's a bit about like scaling potential.",
+    "start": "00:39:55",
+    "end": "00:39:57"
+  },
+  {
+    "text": "So you ask us how many devices uh we have and this is kind of a small uh math thing about like what we can do with 1,000 devices.",
+    "start": "00:39:57",
+    "end": "00:40:07"
+  },
+  {
+    "text": "So 1,000 devices is let's say on average is 60,000 active accounts.",
+    "start": "00:40:07",
+    "end": "00:40:11"
+  },
+  {
+    "text": "So 60 accounts per phone.",
+    "start": "00:40:11",
+    "end": "00:40:11"
+  },
+  {
+    "text": "Kind of small number.",
+    "start": "00:40:11",
+    "end": "00:40:14"
+  },
+  {
+    "text": "We can go higher but let's settle on this uh number.",
+    "start": "00:40:14",
+    "end": "00:40:15"
+  },
+  {
+    "text": "So each each one of them posts three videos a day and 45 comments a day like not even 60 which is also possible.",
+    "start": "00:40:15",
+    "end": "00:40:22"
+  },
+  {
+    "text": "And so in one month that's almost [music] 1.",
+    "start": "00:40:21",
+    "end": "00:40:24"
+  },
+  {
+    "text": "5 million uh videos and 21 million comments.",
+    "start": "00:40:24",
+    "end": "00:40:28"
+  },
+  {
+    "text": "So just just as a you know scale perspective that's like replying to every single person on Mr.",
+    "start": "00:40:28",
+    "end": "00:40:35"
+  },
+  {
+    "text": "Beast reels on Instagram within like a month.",
+    "start": "00:40:33",
+    "end": "00:40:35"
+  },
+  {
+    "text": "So that's a crazy amount of exposure that you can get.",
+    "start": "00:40:35",
+    "end": "00:40:39"
+  },
+  {
+    "text": "And obviously like with campaign of this size people will start talking about this like posting about it on Twitter, posting about it on uh like Reddit, posting articles like you know discussing this and this basically makes the company go viral.",
+    "start": "00:40:39",
+    "end": "00:40:51"
+  },
+  {
+    "text": "So that's and that's with one month of posting.",
+    "start": "00:40:51",
+    "end": "00:40:57"
+  },
+  {
+    "text": ">> How many devices do you have right now?",
+    "start": "00:40:55",
+    "end": "00:40:58"
+  },
+  {
+    "text": "Is it a thousand?",
+    "start": "00:40:57",
+    "end": "00:41:01"
+  },
+  {
+    "text": ">> Right now we only have 60 because of the optimizations that we can do on the phones.",
+    "start": "00:40:58",
+    "end": "00:41:04"
+  },
+  {
+    "text": "It's enough to provide uh valuable results.",
+    "start": "00:41:04",
+    "end": "00:41:10"
+  },
+  {
+    "text": "Yeah, but it's thousand is not big by the way.",
+    "start": "00:41:08",
+    "end": "00:41:11"
+  },
+  {
+    "text": "So like thousand is the first step and then like it's it's thousands from there.",
+    "start": "00:41:11",
+    "end": "00:41:18"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:41:16",
+    "end": "00:41:17"
+  },
+  {
+    "text": "So you guys want to scale this more.",
+    "start": "00:41:17",
+    "end": "00:41:18"
+  },
+  {
+    "text": "So you have 60 phones right now.",
+    "start": "00:41:18",
+    "end": "00:41:24"
+  },
+  {
+    "text": "You want to have you know a,000 um which could create 21 million comments per month.",
+    "start": "00:41:20",
+    "end": "00:41:29"
+  },
+  {
+    "text": "Thousand is just the beginning.",
+    "start": "00:41:29",
+    "end": "00:41:31"
+  },
+  {
+    "text": "Like you could do >> more and create you know hundreds of millions of comments a day.",
+    "start": "00:41:31",
+    "end": "00:41:36"
+  },
+  {
+    "text": ">> Exactly.",
+    "start": "00:41:35",
+    "end": "00:41:37"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:41:36",
+    "end": "00:41:37"
+  },
+  {
+    "text": "Yeah, >> that's our plan.",
+    "start": "00:41:37",
+    "end": "00:41:40"
+  },
+  {
+    "text": ">> Interesting thing that you said was like there's a gap in the market where there's audiences that want content and there isn't enough there aren't enough people to make that content.",
+    "start": "00:41:38",
+    "end": "00:41:49"
+  },
+  {
+    "text": "So, what you're saying is if you if you have thousands of devices making all this content, will all the will the majority of the content in the feed including the comments be like completely AI in the future?",
+    "start": "00:41:49",
+    "end": "00:42:01"
+  },
+  {
+    "text": "I actually believe this will be the future because most of the time uh like 99% of the time uh ress that you see in your feed aren't from your friends, they're from some big creators that uh do this uh all the time.",
+    "start": "00:42:01",
+    "end": "00:42:19"
+  },
+  {
+    "text": "So uh social aspect of of uh social media is actually not creating the content or consuming the content that your friends uh produced but uh is sharing this content between your friends.",
+    "start": "00:42:19",
+    "end": "00:42:32"
+  },
+  {
+    "text": "So most of the time people just uh share uh memes and uh well useful videos like tips and advices and stuff like this between themselves and the group or between individuals.",
+    "start": "00:42:32",
+    "end": "00:42:42"
+  },
+  {
+    "text": "So that's the actual social aspect of the social media.",
+    "start": "00:42:42",
+    "end": "00:42:49"
+  },
+  {
+    "text": ">> That makes sense.",
+    "start": "00:42:46",
+    "end": "00:42:48"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:42:48",
+    "end": "00:42:48"
+  },
+  {
+    "text": "And I guess what you're doing is you're basically just replacing these big content teams like these production teams where you're saying that the content out there already is automated.",
+    "start": "00:42:48",
+    "end": "00:43:00"
+  },
+  {
+    "text": "It's just not completely AI generated, but it's still automated in a way because there's a huge team with tons of money behind it to create super high volumes of content like the Mr.",
+    "start": "00:43:00",
+    "end": "00:43:11"
+  },
+  {
+    "text": "Beast channel and the dozens of other channels that that company has.",
+    "start": "00:43:11",
+    "end": "00:43:16"
+  },
+  {
+    "text": "Um, and now you can automate maybe [music] Mr.",
+    "start": "00:43:16",
+    "end": "00:43:21"
+  },
+  {
+    "text": "Beast is not going to AI, you know, all his videos, but if a team that is smaller than Mr.",
+    "start": "00:43:21",
+    "end": "00:43:28"
+  },
+  {
+    "text": "doesn't have that production capacity, wants to create more content, they're probably going to need to leverage AI in some way to, you know, get the volume up.",
+    "start": "00:43:26",
+    "end": "00:43:36"
+  },
+  {
+    "text": "It's almost the case.",
+    "start": "00:43:36",
+    "end": "00:43:39"
+  },
+  {
+    "text": "Uh, but I don't feel like we are replacing them.",
+    "start": "00:43:39",
+    "end": "00:43:43"
+  },
+  {
+    "text": "I feel like we are creating ways to work with them.",
+    "start": "00:43:43",
+    "end": "00:43:44"
+  },
+  {
+    "text": "Like there are guys that uh will provide you a ton of uh UGC videos for money.",
+    "start": "00:43:44",
+    "end": "00:43:50"
+  },
+  {
+    "text": "they will uh hire a bunch of students and they will just pay them for the content that they create.",
+    "start": "00:43:50",
+    "end": "00:43:57"
+  },
+  {
+    "text": "So we can just redistribute this content uh instead of these uh students they can just focus on the video creation and not the account warm-ups and stuff like this and uh huge teams uh I don't think we are going to kill them because they put so much effort and uh well care into their content.",
+    "start": "00:43:57",
+    "end": "00:44:20"
+  },
+  {
+    "text": "I think uh like they will be evergreen and uh again with some of them we can just work together to create more of their cont content and distribute it uh quicker.",
+    "start": "00:44:20",
+    "end": "00:44:33"
+  },
+  {
+    "text": ">> Yeah, you're like arming the rebels uh in a way but you know there's >> I'm sure there's cert certain amounts of AI that all that like teams of any size could could implement.",
+    "start": "00:44:30",
+    "end": "00:44:45"
+  },
+  {
+    "text": ">> Ivan, would you tell more about uh the AI thing?",
+    "start": "00:44:43",
+    "end": "00:44:46"
+  },
+  {
+    "text": "I think we have a friend in the niche.",
+    "start": "00:44:46",
+    "end": "00:44:49"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:44:49",
+    "end": "00:44:50"
+  },
+  {
+    "text": "So I would say that it works uh positively for both like AI and uh like purely uh human humanmade uh like content because uh again for humans it will allow you to just you know you just create videos and every single part about social media works on autopilot.",
+    "start": "00:44:50",
+    "end": "00:45:07"
+  },
+  {
+    "text": "So you don't need to manage any accounts.",
+    "start": "00:45:05",
+    "end": "00:45:08"
+  },
+  {
+    "text": "You don't need to manage like anything.",
+    "start": "00:45:08",
+    "end": "00:45:10"
+  },
+  {
+    "text": "You just create videos one click and everything is working.",
+    "start": "00:45:10",
+    "end": "00:45:14"
+  },
+  {
+    "text": "So I I think that's like the and that's the near future that will be possible soon.",
+    "start": "00:45:14",
+    "end": "00:45:19"
+  },
+  {
+    "text": "So even if you don't use a lot of AI, you would still get so much more productive by removing this like boring tasks that it's already a lot of value.",
+    "start": "00:45:17",
+    "end": "00:45:30"
+  },
+  {
+    "text": "And for AI like AI as of now the AI videos uh especially especially videos they aren't that good yet.",
+    "start": "00:45:27",
+    "end": "00:45:36"
+  },
+  {
+    "text": "uh but able to but like pretty soon they will become better and better like we already noticed it like every month there's looks like some kind of advancement in video genai and so we have a friend uh in the Higsfield team one of the biggest video genis out there and we have also we also know people from other like startups in the space so and we'll get like we'll know even more of them because we want to work together we want to basically amplify both of our systems like uh they they help create the videos and we help distribute them.",
+    "start": "00:45:36",
+    "end": "00:46:07"
+  },
+  {
+    "text": "So that's a win-win for both parties, right?",
+    "start": "00:46:07",
+    "end": "00:46:11"
+  },
+  {
+    "text": "With time uh I believe like even outside of like fully AI made videos, the AI will help to you know create human uh videos even more productively.",
+    "start": "00:46:11",
+    "end": "00:46:21"
+  },
+  {
+    "text": "So you know fixing some small mistakes, fixing fixing things that are very tedious to edit.",
+    "start": "00:46:21",
+    "end": "00:46:26"
+  },
+  {
+    "text": "So a lot of video editing AI is also starting to uh be created that is professional that is not just you know a one-click uh you know video repurposing that's simple uh but actually fixing the specific problems that video editors and video production teams have and so AI plays like a giant role in like making this whole industry even more efficient I believe and even more like being able to come up with more creative ideas which is the key point at the end of the day like people want this controversial, new, unique, uh, interesting ideas, uh, and they want to see them in like across all sorts of mediums, including videos and images, too.",
+    "start": "00:46:26",
+    "end": "00:47:04"
+  },
+  {
+    "text": ">> Makes sense.",
+    "start": "00:47:04",
+    "end": "00:47:07"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:47:04",
+    "end": "00:47:06"
+  },
+  {
+    "text": "This just an example counts.",
+    "start": "00:47:06",
+    "end": "00:47:11"
+  },
+  {
+    "text": ">> I see.",
+    "start": "00:47:07",
+    "end": "00:47:09"
+  },
+  {
+    "text": "So, this is 5,690 profile activity.",
+    "start": "00:47:09",
+    "end": "00:47:14"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:47:14",
+    "end": "00:47:15"
+  },
+  {
+    "text": "So, that's like 4,900 visits, profile visits, and 700 of those like 5,000 people are clicking the link in bio.",
+    "start": "00:47:15",
+    "end": "00:47:26"
+  },
+  {
+    "text": "Yep.",
+    "start": "00:47:26",
+    "end": "00:47:28"
+  },
+  {
+    "text": ">> Um, so that's that's decent.",
+    "start": "00:47:25",
+    "end": "00:47:31"
+  },
+  {
+    "text": "That's what what's that?",
+    "start": "00:47:31",
+    "end": "00:47:31"
+  },
+  {
+    "text": "7 750 divided by 5K.",
+    "start": "00:47:31",
+    "end": "00:47:35"
+  },
+  {
+    "text": "That's like 15%.",
+    "start": "00:47:35",
+    "end": "00:47:34"
+  },
+  {
+    "text": "That's actually like a decent clickthrough rate.",
+    "start": "00:47:34",
+    "end": "00:47:39"
+  },
+  {
+    "text": "Is that like a a good um benchmark that you guys go for?",
+    "start": "00:47:39",
+    "end": "00:47:44"
+  },
+  {
+    "text": "15%.",
+    "start": "00:47:44",
+    "end": "00:47:45"
+  },
+  {
+    "text": ">> It varies.",
+    "start": "00:47:43",
+    "end": "00:47:44"
+  },
+  {
+    "text": "Depends on the campaign.",
+    "start": "00:47:44",
+    "end": "00:47:48"
+  },
+  {
+    "text": "I think it's from like uh it can be 3% in some bad cases.",
+    "start": "00:47:48",
+    "end": "00:47:51"
+  },
+  {
+    "text": "uh it it can be like up to I think our best was about 50 or 60% when the content was engaging and the profile uh was uh set up in the right way.",
+    "start": "00:47:51",
+    "end": "00:48:04"
+  },
+  {
+    "text": ">> But I'd say 15% is a good benchmark.",
+    "start": "00:48:01",
+    "end": "00:48:05"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:48:04",
+    "end": "00:48:08"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:48:05",
+    "end": "00:48:06"
+  },
+  {
+    "text": "So I wanted to talk about like how people can access this.",
+    "start": "00:48:06",
+    "end": "00:48:11"
+  },
+  {
+    "text": "Like you said that you serve clients right now and you'll do like the the mass commenting as a service.",
+    "start": "00:48:11",
+    "end": "00:48:17"
+  },
+  {
+    "text": "So I understand that you guys kind of like have a agency service around that but then you when we were talking earlier you said that you're working on a platform as well.",
+    "start": "00:48:17",
+    "end": "00:48:27"
+  },
+  {
+    "text": ">> So we'll build an MVP like within a week.",
+    "start": "00:48:25",
+    "end": "00:48:28"
+  },
+  {
+    "text": "So it's it's very you know it it's our highest priority right now basically.",
+    "start": "00:48:28",
+    "end": "00:48:32"
+  },
+  {
+    "text": "So we want to we wanted to provide this as a platform for quite a long time now.",
+    "start": "00:48:32",
+    "end": "00:48:37"
+  },
+  {
+    "text": "Uh and uh yeah the way it will work is as you can see you'll be able to manage your whole like fleet of uh social agents.",
+    "start": "00:48:37",
+    "end": "00:48:44"
+  },
+  {
+    "text": "So for example the the main platforms is uh the main platforms are Tik Tok and Instagram right and so across each of the networks you have this uh dashboard when we can see which one which every single account is doing so what are they doing at this exact moment and uh yeah you can see like even the specific uh you know flows that they go through.",
+    "start": "00:48:44",
+    "end": "00:49:06"
+  },
+  {
+    "text": "Dominic, if you can scroll down, uh yeah, you'll see detailed stats that will show like your uh total um engagement and total results and total volume of content and uh comments and other things.",
+    "start": "00:49:06",
+    "end": "00:49:19"
+  },
+  {
+    "text": "And you'll also be able to break them down by each agent uh and export them in like beautiful format.",
+    "start": "00:49:19",
+    "end": "00:49:26"
+  },
+  {
+    "text": "And the way that you'll create this automations is you basically you'll be able to just type it in plain English and you'll get this whole flow built for you.",
+    "start": "00:49:24",
+    "end": "00:49:32"
+  },
+  {
+    "text": "You can then customize it the way you want or you can ask AI to customize it.",
+    "start": "00:49:32",
+    "end": "00:49:36"
+  },
+  {
+    "text": "Uh the second option is to select one of the community templates.",
+    "start": "00:49:36",
+    "end": "00:49:42"
+  },
+  {
+    "text": "So since this will be a platform where like everyone can use it, uh we'll know which uh approaches work the best and so you'll be able to customize them again for your specific use case and just use one of those and we'll give you a few of our own templates.",
+    "start": "00:49:42",
+    "end": "00:49:55"
+  },
+  {
+    "text": "Like the right now, like you said, we provide the comments uh as a as a service, but you won't need us for this.",
+    "start": "00:49:55",
+    "end": "00:50:02"
+  },
+  {
+    "text": "you'll just be able to click uh one click uh within this uh uh dashboard and you'll get your own like service.",
+    "start": "00:50:02",
+    "end": "00:50:08"
+  },
+  {
+    "text": "So basically that's the same thing that we use right now on our back end.",
+    "start": "00:50:08",
+    "end": "00:50:11"
+  },
+  {
+    "text": "You'll have access to it directly and you can do whatever you want with them.",
+    "start": "00:50:11",
+    "end": "00:50:15"
+  },
+  {
+    "text": "You can test different approaches uh at scale uh and so on.",
+    "start": "00:50:15",
+    "end": "00:50:20"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:50:20",
+    "end": "00:50:20"
+  },
+  {
+    "text": "The last one is just you'll be able to obviously also control the branding for uh each agent.",
+    "start": "00:50:20",
+    "end": "00:50:25"
+  },
+  {
+    "text": "So can change their names, can change their bios, every everything that is available from within the apps.",
+    "start": "00:50:25",
+    "end": "00:50:32"
+  },
+  {
+    "text": "You can do like the same goes for even Instagram stories and highlights.",
+    "start": "00:50:32",
+    "end": "00:50:37"
+  },
+  {
+    "text": "So they would never look like bots that people usually do and talk about.",
+    "start": "00:50:37",
+    "end": "00:50:41"
+  },
+  {
+    "text": "This will look like purely like humanmade accounts.",
+    "start": "00:50:41",
+    "end": "00:50:46"
+  },
+  {
+    "text": ">> Mhm.",
+    "start": "00:50:43",
+    "end": "00:50:43"
+  },
+  {
+    "text": "Yeah, this is really fascinating.",
+    "start": "00:50:43",
+    "end": "00:50:48"
+  },
+  {
+    "text": "I think one thing that comes to mind whenever a niche way of doing distribution becomes productized into a platform like this is it makes me think um there's not that many people who know the art of doing that service.",
+    "start": "00:50:48",
+    "end": "00:51:05"
+  },
+  {
+    "text": "So for example, if you do viral Tik Tok UGC with just regular humans and you try to turn that and that's an agency and someone do does that as as a service where they, you know, manage each creator, they come up with the hooks, they do 30 minutes a day of scrolling and finding winning formats.",
+    "start": "00:51:05",
+    "end": "00:51:23"
+  },
+  {
+    "text": "That's like that's the art of it.",
+    "start": "00:51:23",
+    "end": "00:51:25"
+  },
+  {
+    "text": "And then the science of it is how do you scale that across like a bunch of different people um and build a process around it.",
+    "start": "00:51:25",
+    "end": "00:51:31"
+  },
+  {
+    "text": "And what you guys are doing here is kind of like building a process around IG commenting.",
+    "start": "00:51:31",
+    "end": "00:51:35"
+  },
+  {
+    "text": "But I would I would think that if people are signing up to do this, you still have to have the art side of it.",
+    "start": "00:51:35",
+    "end": "00:51:41"
+  },
+  {
+    "text": "Like you can't just click a couple buttons and then your startup blows up, you know, like there's there has to be strategy and not everyone who uses, you know, a platform and automates the logistics of the thing is necessarily going to win.",
+    "start": "00:51:41",
+    "end": "00:51:58"
+  },
+  {
+    "text": "So what do you think is that core thing that people need to be thinking about?",
+    "start": "00:51:58",
+    "end": "00:52:03"
+  },
+  {
+    "text": "If all the of the logistics is automated away and they want to do mass commenting, how can someone get really good at figuring out how to actually manage this the creativity side?",
+    "start": "00:52:03",
+    "end": "00:52:13"
+  },
+  {
+    "text": ">> That's a good question and I think it applies to any kind of platform like the same thing goes for Facebook ads for example or Google ads for any kind of ads.",
+    "start": "00:52:11",
+    "end": "00:52:18"
+  },
+  {
+    "text": "Uh like if you if you want good results you need to work on it right you can't just expect the platform to do everything for you.",
+    "start": "00:52:18",
+    "end": "00:52:25"
+  },
+  {
+    "text": "So yeah, the good options I mean they are quite obvious.",
+    "start": "00:52:25",
+    "end": "00:52:29"
+  },
+  {
+    "text": "You need like like they always say copyrightiting and storytelling.",
+    "start": "00:52:27",
+    "end": "00:52:32"
+  },
+  {
+    "text": "So like we said in the like we showed in the examples before uh the comments cannot be strictly promotional.",
+    "start": "00:52:32",
+    "end": "00:52:38"
+  },
+  {
+    "text": "You can't just spam one thing and expect results from this.",
+    "start": "00:52:38",
+    "end": "00:52:40"
+  },
+  {
+    "text": "No the platform and nor the audience are going to like it.",
+    "start": "00:52:40",
+    "end": "00:52:45"
+  },
+  {
+    "text": "So you need to you need to came up with the structure of the of each comment uh so that it will capture people's attention and then convert them right.",
+    "start": "00:52:45",
+    "end": "00:52:54"
+  },
+  {
+    "text": "So make them curious to visit your profile or make them curious to go to the app store and type in your app name.",
+    "start": "00:52:54",
+    "end": "00:52:59"
+  },
+  {
+    "text": "Uh whatever you're trying to achieve, you would need like these basic principles like the a framework or any kind of other copyrightiting framework that there are.",
+    "start": "00:52:59",
+    "end": "00:53:08"
+  },
+  {
+    "text": "And we'll I guess we'll show uh some like simple guides from within the platform to like direct people into the right way.",
+    "start": "00:53:06",
+    "end": "00:53:13"
+  },
+  {
+    "text": "Uh but yeah, it's h the people who already know how to do it will just be able to scale their skills um infinitely with this.",
+    "start": "00:53:13",
+    "end": "00:53:21"
+  },
+  {
+    "text": "Uh, and yeah, people who are just starting out, they'll have to learn a little bit.",
+    "start": "00:53:21",
+    "end": "00:53:25"
+  },
+  {
+    "text": ">> How did you guys get good at copywriting?",
+    "start": "00:53:24",
+    "end": "00:53:26"
+  },
+  {
+    "text": "Because you've done it for a few clients and it seems like you you've gotten pretty good results.",
+    "start": "00:53:26",
+    "end": "00:53:32"
+  },
+  {
+    "text": "So, curious how you guys like got good at copyrightiting.",
+    "start": "00:53:32",
+    "end": "00:53:36"
+  },
+  {
+    "text": ">> Just a ton of iterations actually.",
+    "start": "00:53:34",
+    "end": "00:53:38"
+  },
+  {
+    "text": "Sometimes you just uh sit and watch a video and uh and then go come up in your head because you just uh heard uh something in the video.",
+    "start": "00:53:36",
+    "end": "00:53:49"
+  },
+  {
+    "text": "Uh so sometimes we just brainstorm uh any uh angles uh and then we just come up with a few examples and sometimes well AI can suggest a few well I wouldn't say suggest a few ideas but the directions of ideas that's just a creative process I guess.",
+    "start": "00:53:49",
+    "end": "00:54:06"
+  },
+  {
+    "text": "Yeah, I think I think I would add that a lot of YouTube videos.",
+    "start": "00:54:06",
+    "end": "00:54:11"
+  },
+  {
+    "text": "So like I personally watched a ton of them.",
+    "start": "00:54:11",
+    "end": "00:54:15"
+  },
+  {
+    "text": "Uh and audio books too like uh influence uh one of the best like books about practical psychology and so it the same things applies to copyrightiting to video creation to to anything like to any sort of communication between uh people.",
+    "start": "00:54:12",
+    "end": "00:54:26"
+  },
+  {
+    "text": "So um yeah I guess that's what people should also consume if they want to you know do it and then it it comes to practice.",
+    "start": "00:54:26",
+    "end": "00:54:32"
+  },
+  {
+    "text": "So you start with some principles.",
+    "start": "00:54:32",
+    "end": "00:54:34"
+  },
+  {
+    "text": "Uh the YouTube is full full of videos that you know talk about it and then you just go and practice it in a while and you get better with editing.",
+    "start": "00:54:34",
+    "end": "00:54:45"
+  },
+  {
+    "text": ">> Last question to you guys.",
+    "start": "00:54:42",
+    "end": "00:54:45"
+  },
+  {
+    "text": "Is there any Yeah.",
+    "start": "00:54:45",
+    "end": "00:54:45"
+  },
+  {
+    "text": "What's next for you guys?",
+    "start": "00:54:45",
+    "end": "00:54:47"
+  },
+  {
+    "text": "What are you excited about?",
+    "start": "00:54:47",
+    "end": "00:54:48"
+  },
+  {
+    "text": "And yeah, what's next?",
+    "start": "00:54:48",
+    "end": "00:54:49"
+  },
+  {
+    "text": "What are what are you guys excited about?",
+    "start": "00:54:49",
+    "end": "00:54:52"
+  },
+  {
+    "text": ">> Right now we are developing our platform.",
+    "start": "00:54:50",
+    "end": "00:54:53"
+  },
+  {
+    "text": "We are getting the MVP.",
+    "start": "00:54:53",
+    "end": "00:54:57"
+  },
+  {
+    "text": "We are getting our first uh design partners and uh also we are doing all the paperwork right now to get uh to get to USF in a couple of months.",
+    "start": "00:54:57",
+    "end": "00:55:06"
+  },
+  {
+    "text": "Uh uh we have uh a few friends there that uh want to talk with us and uh yeah uh working on this stuff.",
+    "start": "00:55:06",
+    "end": "00:55:16"
+  },
+  {
+    "text": ">> Awesome.",
+    "start": "00:55:14",
+    "end": "00:55:15"
+  },
+  {
+    "text": "Well, yeah, I'll I'll leave your your links and everything in the description so people can check you out.",
+    "start": "00:55:15",
+    "end": "00:55:23"
+  },
+  {
+    "text": "And yeah, thanks so much for the talk.",
+    "start": "00:55:21",
+    "end": "00:55:24"
+  },
+  {
+    "text": "This is like a little more unconventional than uh what I normally put on the channel, but I'm someone who always loves learning about what is on the absolute edge of distribution.",
+    "start": "00:55:23",
+    "end": "00:55:39"
+  },
+  {
+    "text": "I was calling things like clipping or UGC like a year or two ago.",
+    "start": "00:55:39",
+    "end": "00:55:42"
+  },
+  {
+    "text": "I was like every consumer app should be doing this and people were like no like this is ridiculous.",
+    "start": "00:55:42",
+    "end": "00:55:47"
+  },
+  {
+    "text": "Like ads, >> you know, influencers are better or ads are better.",
+    "start": "00:55:47",
+    "end": "00:55:49"
+  },
+  {
+    "text": "And there's a lot of other things that I also called that were wrong.",
+    "start": "00:55:49",
+    "end": "00:55:52"
+  },
+  {
+    "text": "So, I'm not saying I'm like a crystal ball, but if if you want to innovate and be at the edge of distribution, like you kind of I think it's helpful to look at like new things and this is like definitely really interesting and you can take away things uh like a lot of learnings from it.",
+    "start": "00:55:52",
+    "end": "00:56:10"
+  },
+  {
+    "text": ">> One more thing that I wanted to say is uh we actually got uh a couple of our first uh design partners from your uh consumer club.",
+    "start": "00:56:08",
+    "end": "00:56:20"
+  },
+  {
+    "text": "It's uh actually pretty interesting because we had a friend that uh was a longtime member of your club and he suggested that he would post like a little post about our work uh I I think about a year ago and uh we yeah we got our uh I guess best performing clients out of your club.",
+    "start": "00:56:20",
+    "end": "00:56:42"
+  },
+  {
+    "text": "So thanks for that and I uh well I suggest everyone to join it.",
+    "start": "00:56:42",
+    "end": "00:56:47"
+  },
+  {
+    "text": "[laughter] >> That's awesome.",
+    "start": "00:56:47",
+    "end": "00:56:49"
+  },
+  {
+    "text": "I did not prompt this uh consumer club pitch, but I appreciate the testimonial.",
+    "start": "00:56:49",
+    "end": "00:56:53"
+  },
+  {
+    "text": "It's great to hear that you found like really good talent uh from the group.",
+    "start": "00:56:53",
+    "end": "00:56:57"
+  },
+  {
+    "text": "That's that's great to hear.",
+    "start": "00:56:57",
+    "end": "00:56:58"
+  },
+  {
+    "text": "Thanks for being on the pod, guys.",
+    "start": "00:56:58",
+    "end": "00:57:02"
+  },
+  {
+    "text": ">> Thank you so much for the opportunity.",
+    "start": "00:57:00",
+    "end": "00:57:03"
+  },
+  {
+    "text": ">> Yeah, thanks a lot.",
+    "start": "00:57:02",
+    "end": "00:57:05"
+  },
+  {
+    "text": ">> Something you might not know, most of the founders I cover on this podcast are hanging out right now in the Consumer Club Discord, sharing with each other what's working now for consumer apps.",
+    "start": "00:57:03",
+    "end": "00:57:14"
+  },
+  {
+    "text": "So, you can apply to join consumer club if that sounds interesting to you.",
+    "start": "00:57:12",
+    "end": "00:57:17"
+  },
+  {
+    "text": "And this is the Superwall podcast.",
+    "start": "00:57:17",
+    "end": "00:57:17"
+  },
+  {
+    "text": "Of course, you got to check out superwhile.",
+    "start": "00:57:17",
+    "end": "00:57:20"
+  },
+  {
+    "text": "com.",
+    "start": "00:57:20",
+    "end": "00:57:21"
+  }
+]

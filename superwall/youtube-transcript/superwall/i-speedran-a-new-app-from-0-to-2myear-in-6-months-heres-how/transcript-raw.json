@@ -1,0 +1,7967 @@
+[
+  {
+    "text": "This is Daniel. He took a dating profile",
+    "start": 0,
+    "duration": 6
+  },
+  {
+    "text": "analyzer app from zero to $2 million ARR",
+    "start": 2.76,
+    "duration": 5.12
+  },
+  {
+    "text": "in 6 months. But here's what's",
+    "start": 6,
+    "duration": 3.88
+  },
+  {
+    "text": "interesting. He built his distribution",
+    "start": 7.88,
+    "duration": 4.12
+  },
+  {
+    "text": "before he wrote even a single line of",
+    "start": 9.88,
+    "duration": 3.64
+  },
+  {
+    "text": "code. And by the time he actually",
+    "start": 12,
+    "duration": 3.16
+  },
+  {
+    "text": "shipped the app, he already had",
+    "start": 13.52,
+    "duration": 3.32
+  },
+  {
+    "text": "thousands of paying customers. Today,",
+    "start": 15.16,
+    "duration": 3.36
+  },
+  {
+    "text": "he's running his distribution playbook",
+    "start": 16.84,
+    "duration": 3.64
+  },
+  {
+    "text": "at Cow AI, one of the fastest growing",
+    "start": 18.52,
+    "duration": 3.92
+  },
+  {
+    "text": "consumer apps on the planet, which just",
+    "start": 20.48,
+    "duration": 4.04
+  },
+  {
+    "text": "got acquired by MyFitnessPal. So in this",
+    "start": 22.44,
+    "duration": 3.92
+  },
+  {
+    "text": "video, I convinced him to show you",
+    "start": 24.52,
+    "duration": 4.04
+  },
+  {
+    "text": "exactly how he pulled it off. We'll go",
+    "start": 26.36,
+    "duration": 4.52
+  },
+  {
+    "text": "over the exact pre- launch playbook he",
+    "start": 28.56,
+    "duration": 4.32
+  },
+  {
+    "text": "ran on Instagram that had strangers",
+    "start": 30.88,
+    "duration": 4.52
+  },
+  {
+    "text": "paying him $15 before there was even an",
+    "start": 32.88,
+    "duration": 4.68
+  },
+  {
+    "text": "app. The TikTok system that batches an",
+    "start": 35.4,
+    "duration": 4.76
+  },
+  {
+    "text": "entire month of viral posts in under 2",
+    "start": 37.56,
+    "duration": 4.56
+  },
+  {
+    "text": "hours, and the paywall structure that",
+    "start": 40.16,
+    "duration": 4
+  },
+  {
+    "text": "doubled his revenue per user overnight.",
+    "start": 42.12,
+    "duration": 3.52
+  },
+  {
+    "text": "Let's get into it. This is the Superwall",
+    "start": 44.16,
+    "duration": 3.48
+  },
+  {
+    "text": "podcast. I'm Joseph Choi, founder of",
+    "start": 45.64,
+    "duration": 3.72
+  },
+  {
+    "text": "Consumer Club, a Discord where top",
+    "start": 47.64,
+    "duration": 3.24
+  },
+  {
+    "text": "consumer app founders trade alpha on",
+    "start": 49.36,
+    "duration": 2.96
+  },
+  {
+    "text": "what's working now in growth. I've been",
+    "start": 50.88,
+    "duration": 3.36
+  },
+  {
+    "text": "talking to members doing a million ARR,",
+    "start": 52.32,
+    "duration": 3.12
+  },
+  {
+    "text": "and they tell me they've been using",
+    "start": 54.24,
+    "duration": 3.08
+  },
+  {
+    "text": "these two tools. Superwall has this free",
+    "start": 55.44,
+    "duration": 4.72
+  },
+  {
+    "text": "AI tool trained on 422 profit- able",
+    "start": 57.32,
+    "duration": 4.56
+  },
+  {
+    "text": "paywall experiments across thousands of",
+    "start": 60.16,
+    "duration": 3.48
+  },
+  {
+    "text": "successful apps. You upload a screenshot",
+    "start": 61.88,
+    "duration": 3.16
+  },
+  {
+    "text": "of your paywall, and it gives you an",
+    "start": 63.64,
+    "duration": 3.12
+  },
+  {
+    "text": "experiment idea to make more revenue",
+    "start": 65.04,
+    "duration": 3.24
+  },
+  {
+    "text": "with the same number of users at",
+    "start": 66.76,
+    "duration": 3.44
+  },
+  {
+    "text": "paywallexperiment.com. And if your app's",
+    "start": 68.28,
+    "duration": 4.08
+  },
+  {
+    "text": "doing at least 100K MRR, we host vetted",
+    "start": 70.2,
+    "duration": 4.16
+  },
+  {
+    "text": "dinners in SF and New York to hang out",
+    "start": 72.36,
+    "duration": 3.92
+  },
+  {
+    "text": "and network with other top app founders.",
+    "start": 74.36,
+    "duration": 3.44
+  },
+  {
+    "text": "You can apply with the type form in the",
+    "start": 76.28,
+    "duration": 3.28
+  },
+  {
+    "text": "description. Also, these app founders",
+    "start": 77.8,
+    "duration": 3.4
+  },
+  {
+    "text": "have been telling me they use Rorke. I",
+    "start": 79.56,
+    "duration": 3.4
+  },
+  {
+    "text": "met Daniel, the founder of Rorke, at a",
+    "start": 81.2,
+    "duration": 3.24
+  },
+  {
+    "text": "dinner, and I got genuinely really",
+    "start": 82.96,
+    "duration": 3.48
+  },
+  {
+    "text": "excited when he told me about Rorke Max,",
+    "start": 84.44,
+    "duration": 3.28
+  },
+  {
+    "text": "which is out now and has honestly",
+    "start": 86.44,
+    "duration": 3.4
+  },
+  {
+    "text": "changed the game for coding mobile apps.",
+    "start": 87.72,
+    "duration": 4.84
+  },
+  {
+    "text": "It's AI that one-shots full native iOS",
+    "start": 89.84,
+    "duration": 5.24
+  },
+  {
+    "text": "apps with Swift code, camera sensors,",
+    "start": 92.56,
+    "duration": 4.44
+  },
+  {
+    "text": "haptics, payments, the whole stack. And",
+    "start": 95.08,
+    "duration": 3.4
+  },
+  {
+    "text": "as you vibe code with Rorke, you can",
+    "start": 97,
+    "duration": 3.2
+  },
+  {
+    "text": "install prototypes directly onto your",
+    "start": 98.48,
+    "duration": 3.24
+  },
+  {
+    "text": "iPhone with one click, and then publish",
+    "start": 100.2,
+    "duration": 2.88
+  },
+  {
+    "text": "to the App Store in two clicks. If",
+    "start": 101.72,
+    "duration": 2.96
+  },
+  {
+    "text": "you've been waiting for AI coding that",
+    "start": 103.08,
+    "duration": 3.44
+  },
+  {
+    "text": "actually does native iOS apps well, this",
+    "start": 104.68,
+    "duration": 3.4
+  },
+  {
+    "text": "is it. I got you guys a discount. You",
+    "start": 106.52,
+    "duration": 3.4
+  },
+  {
+    "text": "can use the code Superwall or use the",
+    "start": 108.08,
+    "duration": 4.64
+  },
+  {
+    "text": "link below. Co-founder Sway AI,",
+    "start": 109.92,
+    "duration": 5.4
+  },
+  {
+    "text": "uh you boosted to $2 million ARR in 6",
+    "start": 112.72,
+    "duration": 4.56
+  },
+  {
+    "text": "months. It's pretty insane. Tell me",
+    "start": 115.32,
+    "duration": 3.12
+  },
+  {
+    "text": "about Sway.",
+    "start": 117.28,
+    "duration": 2.68
+  },
+  {
+    "text": ">> Yeah, Sway is uh",
+    "start": 118.44,
+    "duration": 4.4
+  },
+  {
+    "text": "so it was like in summer of 2024, I",
+    "start": 119.96,
+    "duration": 5.72
+  },
+  {
+    "text": "launched Sway with two co-founders and",
+    "start": 122.84,
+    "duration": 5.199
+  },
+  {
+    "text": "basically the idea is it's an app that",
+    "start": 125.68,
+    "duration": 4.92
+  },
+  {
+    "text": "analyzes your dating profile and like",
+    "start": 128.039,
+    "duration": 4.321
+  },
+  {
+    "text": "gives you feedback. I think the idea for",
+    "start": 130.6,
+    "duration": 4.2
+  },
+  {
+    "text": "that was like based off of I guess one",
+    "start": 132.36,
+    "duration": 4
+  },
+  {
+    "text": "like seeing other apps in this niche",
+    "start": 134.8,
+    "duration": 3.159
+  },
+  {
+    "text": "growing pretty quickly. Like I know that",
+    "start": 136.36,
+    "duration": 2.88
+  },
+  {
+    "text": "you're probably familiar with like Riz",
+    "start": 137.959,
+    "duration": 4.401
+  },
+  {
+    "text": "GPT and Umax. I'd say like this idea is",
+    "start": 139.24,
+    "duration": 4.719
+  },
+  {
+    "text": "kind of a mixture of the two. It's a",
+    "start": 142.36,
+    "duration": 3.88
+  },
+  {
+    "text": "combination of both ideas where it's in",
+    "start": 143.959,
+    "duration": 4.161
+  },
+  {
+    "text": "the dating niche but also like gives you",
+    "start": 146.24,
+    "duration": 4.6
+  },
+  {
+    "text": "an analysis of your like current profile",
+    "start": 148.12,
+    "duration": 4.32
+  },
+  {
+    "text": "or in your appearance. We were trying",
+    "start": 150.84,
+    "duration": 3.6
+  },
+  {
+    "text": "out a lot of different ideas like me and",
+    "start": 152.44,
+    "duration": 4.64
+  },
+  {
+    "text": "one of my co-founders before this idea",
+    "start": 154.44,
+    "duration": 4.4
+  },
+  {
+    "text": "and one of the ideas that we were",
+    "start": 157.08,
+    "duration": 3.76
+  },
+  {
+    "text": "exploring was like an AI personal fi-",
+    "start": 158.84,
+    "duration": 4.6
+  },
+  {
+    "text": "financial advisor but we learned that uh",
+    "start": 160.84,
+    "duration": 5.2
+  },
+  {
+    "text": "personal finance apps are a little bit",
+    "start": 163.44,
+    "duration": 4.2
+  },
+  {
+    "text": "hard to monetize and so we were thinking",
+    "start": 166.04,
+    "duration": 3.48
+  },
+  {
+    "text": "of like what are some apps that do",
+    "start": 167.64,
+    "duration": 3.72
+  },
+  {
+    "text": "really good at monetization and then we",
+    "start": 169.52,
+    "duration": 4.32
+  },
+  {
+    "text": "stumbled upon like the dating niche as",
+    "start": 171.36,
+    "duration": 3.8
+  },
+  {
+    "text": "being like they have like some of the",
+    "start": 173.84,
+    "duration": 3.72
+  },
+  {
+    "text": "most highest monetizing apps like Tinder",
+    "start": 175.16,
+    "duration": 2.84
+  },
+  {
+    "text": "and",
+    "start": 177.56,
+    "duration": 1.56
+  },
+  {
+    "text": ">> That's an interesting point on the",
+    "start": 178,
+    "duration": 3.239
+  },
+  {
+    "text": "niche. Like yeah, personal finance of",
+    "start": 179.12,
+    "duration": 3.52
+  },
+  {
+    "text": "course you would you know, it's",
+    "start": 181.239,
+    "duration": 3.561
+  },
+  {
+    "text": "associated with money so you you know,",
+    "start": 182.64,
+    "duration": 3.48
+  },
+  {
+    "text": "there's probably a lot of money in the",
+    "start": 184.8,
+    "duration": 3.4
+  },
+  {
+    "text": "niche itself. But then for dating, yeah,",
+    "start": 186.12,
+    "duration": 4.2
+  },
+  {
+    "text": "I mean people pay so much for Tinder and",
+    "start": 188.2,
+    "duration": 3.88
+  },
+  {
+    "text": "Hinge and these like dating apps. And",
+    "start": 190.32,
+    "duration": 4.44
+  },
+  {
+    "text": "this is interesting cuz with Riz GPT it",
+    "start": 192.08,
+    "duration": 7
+  },
+  {
+    "text": "was sort of like how like what to say on",
+    "start": 194.76,
+    "duration": 6.32
+  },
+  {
+    "text": "in the conversations.",
+    "start": 199.08,
+    "duration": 4.28
+  },
+  {
+    "text": "But then this seems like it's like get",
+    "start": 201.08,
+    "duration": 4.32
+  },
+  {
+    "text": "more matches which is a little bit of a",
+    "start": 203.36,
+    "duration": 3.72
+  },
+  {
+    "text": "different value prop.",
+    "start": 205.4,
+    "duration": 3
+  },
+  {
+    "text": ">> By the time we had started working on",
+    "start": 207.08,
+    "duration": 3.08
+  },
+  {
+    "text": "this, there was already so many clones.",
+    "start": 208.4,
+    "duration": 2.92
+  },
+  {
+    "text": "I think we didn't want to do something",
+    "start": 210.16,
+    "duration": 2.68
+  },
+  {
+    "text": "exactly like what they were doing but",
+    "start": 211.32,
+    "duration": 2.8
+  },
+  {
+    "text": "try and like come up with something",
+    "start": 212.84,
+    "duration": 3.8
+  },
+  {
+    "text": "novel and like a new unique idea. As far",
+    "start": 214.12,
+    "duration": 3.88
+  },
+  {
+    "text": "as I know, there wasn't any other apps",
+    "start": 216.64,
+    "duration": 3.64
+  },
+  {
+    "text": "that were doing like profile analysis.",
+    "start": 218,
+    "duration": 3.959
+  },
+  {
+    "text": "And the idea actually came from I could",
+    "start": 220.28,
+    "duration": 3.12
+  },
+  {
+    "text": "share my screen. If you just look up",
+    "start": 221.959,
+    "duration": 4.441
+  },
+  {
+    "text": "like the Hinge Reddit and you see like",
+    "start": 223.4,
+    "duration": 4.48
+  },
+  {
+    "text": "what people are searching on there,",
+    "start": 226.4,
+    "duration": 2.52
+  },
+  {
+    "text": "you'll notice that people are just",
+    "start": 227.88,
+    "duration": 2.8
+  },
+  {
+    "text": "uploading pictures of themselves and",
+    "start": 228.92,
+    "duration": 3.92
+  },
+  {
+    "text": "their profile and people are like asking",
+    "start": 230.68,
+    "duration": 3.4
+  },
+  {
+    "text": "for feedback on how that they can",
+    "start": 232.84,
+    "duration": 3.08
+  },
+  {
+    "text": "improve their profile. Like my",
+    "start": 234.08,
+    "duration": 3.96
+  },
+  {
+    "text": "co-founders and I like we saw that and",
+    "start": 235.92,
+    "duration": 3.88
+  },
+  {
+    "text": "we're like, okay, what if we could",
+    "start": 238.04,
+    "duration": 4.72
+  },
+  {
+    "text": "productize this? It takes a lot to want",
+    "start": 239.8,
+    "duration": 4.6
+  },
+  {
+    "text": "to share something publicly online like",
+    "start": 242.76,
+    "duration": 3.44
+  },
+  {
+    "text": "this. There might be like even a bigger",
+    "start": 244.4,
+    "duration": 3.72
+  },
+  {
+    "text": "audience that's more willing to get",
+    "start": 246.2,
+    "duration": 3.44
+  },
+  {
+    "text": "feedback in a more private way through",
+    "start": 248.12,
+    "duration": 3.839
+  },
+  {
+    "text": "an app. And so yeah, that was the basis",
+    "start": 249.64,
+    "duration": 3.36
+  },
+  {
+    "text": "of that that idea.",
+    "start": 251.959,
+    "duration": 4.041
+  },
+  {
+    "text": ">> I also feel like the just like getting",
+    "start": 253,
+    "duration": 4.6
+  },
+  {
+    "text": "matches",
+    "start": 256,
+    "duration": 4.04
+  },
+  {
+    "text": "is like a it's like a different problem",
+    "start": 257.6,
+    "duration": 4.44
+  },
+  {
+    "text": "that you're solving compared to like you",
+    "start": 260.04,
+    "duration": 4.28
+  },
+  {
+    "text": "already have the match and then you're",
+    "start": 262.04,
+    "duration": 4.96
+  },
+  {
+    "text": "trying to figure out what to say to your",
+    "start": 264.32,
+    "duration": 4.4
+  },
+  {
+    "text": "match. Do you feel like this is a harder",
+    "start": 267,
+    "duration": 3.64
+  },
+  {
+    "text": "problem that people are dealing with on",
+    "start": 268.72,
+    "duration": 2.8
+  },
+  {
+    "text": "on dating apps?",
+    "start": 270.64,
+    "duration": 2.4
+  },
+  {
+    "text": ">> What we've learned is that if you have a",
+    "start": 271.52,
+    "duration": 3.32
+  },
+  {
+    "text": "great profile,",
+    "start": 273.04,
+    "duration": 4.44
+  },
+  {
+    "text": "texting is like the secondary part. It's",
+    "start": 274.84,
+    "duration": 4.2
+  },
+  {
+    "text": "like not as important, but the most",
+    "start": 277.48,
+    "duration": 4.04
+  },
+  {
+    "text": "important piece is the profile because",
+    "start": 279.04,
+    "duration": 3.76
+  },
+  {
+    "text": "if you got a pro have a good profile",
+    "start": 281.52,
+    "duration": 3.2
+  },
+  {
+    "text": "like the texting is it'll flow a lot",
+    "start": 282.8,
+    "duration": 2.56
+  },
+  {
+    "text": "easier.",
+    "start": 284.72,
+    "duration": 3.92
+  },
+  {
+    "text": ">> At the time you were this was like",
+    "start": 285.36,
+    "duration": 5.76
+  },
+  {
+    "text": "December 2023. So it's like a couple of",
+    "start": 288.64,
+    "duration": 4.279
+  },
+  {
+    "text": "years ago. Yeah, and then what what did",
+    "start": 291.12,
+    "duration": 4.08
+  },
+  {
+    "text": "you do for distribution?",
+    "start": 292.919,
+    "duration": 3.961
+  },
+  {
+    "text": ">> We tested a few different things. So I",
+    "start": 295.2,
+    "duration": 4
+  },
+  {
+    "text": "think what's interesting is we actually",
+    "start": 296.88,
+    "duration": 4.08
+  },
+  {
+    "text": "had distribution before we launched the",
+    "start": 299.2,
+    "duration": 3.64
+  },
+  {
+    "text": "product. One of my co-founders started",
+    "start": 300.96,
+    "duration": 3.88
+  },
+  {
+    "text": "like an Instagram account and started",
+    "start": 302.84,
+    "duration": 4.16
+  },
+  {
+    "text": "posting like these videos. Basically the",
+    "start": 304.84,
+    "duration": 4.96
+  },
+  {
+    "text": "concept is like how I cook on Hinge and",
+    "start": 307,
+    "duration": 4.24
+  },
+  {
+    "text": "basically it gives you like prompts on",
+    "start": 309.8,
+    "duration": 3.56
+  },
+  {
+    "text": "things you can say like on your profile.",
+    "start": 311.24,
+    "duration": 3.56
+  },
+  {
+    "text": "And so it was like very actionable",
+    "start": 313.36,
+    "duration": 2.559
+  },
+  {
+    "text": "things that people can add to their",
+    "start": 314.8,
+    "duration": 3.8
+  },
+  {
+    "text": "profile, but some of them were like more",
+    "start": 315.919,
+    "duration": 5.041
+  },
+  {
+    "text": "kind of funny and humorous. So some of",
+    "start": 318.6,
+    "duration": 3.84
+  },
+  {
+    "text": "them like did quite well on the",
+    "start": 320.96,
+    "duration": 3.44
+  },
+  {
+    "text": "algorithm after only like a couple weeks",
+    "start": 322.44,
+    "duration": 3.96
+  },
+  {
+    "text": "of posting. And so we added like a link",
+    "start": 324.4,
+    "duration": 5.2
+  },
+  {
+    "text": "on our bio to join the pre-order of our",
+    "start": 326.4,
+    "duration": 5.16
+  },
+  {
+    "text": "app. And then the other piece which was",
+    "start": 329.6,
+    "duration": 4.76
+  },
+  {
+    "text": "I think kind of smart as well, which I",
+    "start": 331.56,
+    "duration": 5.6
+  },
+  {
+    "text": "recommend doing is we had like proof of",
+    "start": 334.36,
+    "duration": 4.6
+  },
+  {
+    "text": "willingness to pay from our audience.",
+    "start": 337.16,
+    "duration": 3.72
+  },
+  {
+    "text": "And so what we did was",
+    "start": 338.96,
+    "duration": 4.08
+  },
+  {
+    "text": "in the first couple weeks of posting on",
+    "start": 340.88,
+    "duration": 3.48
+  },
+  {
+    "text": "Instagram,",
+    "start": 343.04,
+    "duration": 4.16
+  },
+  {
+    "text": "we asked our followers to DM us for a",
+    "start": 344.36,
+    "duration": 4.92
+  },
+  {
+    "text": "profile review and then we'd ask them",
+    "start": 347.2,
+    "duration": 3.6
+  },
+  {
+    "text": "like for payment. So like I think we was",
+    "start": 349.28,
+    "duration": 4.16
+  },
+  {
+    "text": "like asking for like $15 and if you send",
+    "start": 350.8,
+    "duration": 4.24
+  },
+  {
+    "text": "us screenshots of your profile, we'll",
+    "start": 353.44,
+    "duration": 3.32
+  },
+  {
+    "text": "give you like feedback manually. People",
+    "start": 355.04,
+    "duration": 3.2
+  },
+  {
+    "text": "were actually paying us before we built",
+    "start": 356.76,
+    "duration": 2.96
+  },
+  {
+    "text": "the app to get feedback on their",
+    "start": 358.24,
+    "duration": 3.84
+  },
+  {
+    "text": "profile, um just based off of like the",
+    "start": 359.72,
+    "duration": 3.64
+  },
+  {
+    "text": "traction we have been getting on our",
+    "start": 362.08,
+    "duration": 3.08
+  },
+  {
+    "text": "social media and our on our Instagram",
+    "start": 363.36,
+    "duration": 3.44
+  },
+  {
+    "text": "specifically. And so I think that was",
+    "start": 365.16,
+    "duration": 3.92
+  },
+  {
+    "text": "like a good way to get like a proof of",
+    "start": 366.8,
+    "duration": 5.04
+  },
+  {
+    "text": "concept out in terms of like",
+    "start": 369.08,
+    "duration": 4.08
+  },
+  {
+    "text": "um that this was actually an idea that",
+    "start": 371.84,
+    "duration": 2.64
+  },
+  {
+    "text": "people are willing to pay for.",
+    "start": 373.16,
+    "duration": 3.84
+  },
+  {
+    "text": ">> So would you make like dedicated videos",
+    "start": 374.48,
+    "duration": 6.36
+  },
+  {
+    "text": "just about like hey, does anyone like",
+    "start": 377,
+    "duration": 5.84
+  },
+  {
+    "text": "send send us money and we'll give and",
+    "start": 380.84,
+    "duration": 4.64
+  },
+  {
+    "text": "you'll like review your profile or is it",
+    "start": 382.84,
+    "duration": 4.44
+  },
+  {
+    "text": "more of like a small call to action at",
+    "start": 385.48,
+    "duration": 4.08
+  },
+  {
+    "text": "the end of the normal the normal videos",
+    "start": 387.28,
+    "duration": 3
+  },
+  {
+    "text": "from the page?",
+    "start": 389.56,
+    "duration": 2.68
+  },
+  {
+    "text": ">> Yeah, it was more just like in the",
+    "start": 390.28,
+    "duration": 3.68
+  },
+  {
+    "text": "caption of the video.",
+    "start": 392.24,
+    "duration": 3.04
+  },
+  {
+    "text": "But the main video itself was like",
+    "start": 393.96,
+    "duration": 2.92
+  },
+  {
+    "text": "designed for virality. I actually",
+    "start": 395.28,
+    "duration": 3.28
+  },
+  {
+    "text": "started posting on like TikTok for the",
+    "start": 396.88,
+    "duration": 3.36
+  },
+  {
+    "text": "first time ever. It was like my first",
+    "start": 398.56,
+    "duration": 4.04
+  },
+  {
+    "text": "like month ever posting on TikTok. I saw",
+    "start": 400.24,
+    "duration": 4.16
+  },
+  {
+    "text": "what was like what people were doing",
+    "start": 402.6,
+    "duration": 4.92
+  },
+  {
+    "text": "well on other TikTok slideshow apps and",
+    "start": 404.4,
+    "duration": 4.48
+  },
+  {
+    "text": "thought about like how we can adapt it",
+    "start": 407.52,
+    "duration": 3.12
+  },
+  {
+    "text": "for our own audience. So I actually made",
+    "start": 408.88,
+    "duration": 3.96
+  },
+  {
+    "text": "all these designs in Figma, but all the",
+    "start": 410.64,
+    "duration": 3.92
+  },
+  {
+    "text": "text I didn't even come up with. The",
+    "start": 412.84,
+    "duration": 4
+  },
+  {
+    "text": "text is like based off of another page",
+    "start": 414.56,
+    "duration": 4.64
+  },
+  {
+    "text": "that I saw that was doing quite well. I",
+    "start": 416.84,
+    "duration": 4.12
+  },
+  {
+    "text": "think the TikTok was called TikTok",
+    "start": 419.2,
+    "duration": 2.719
+  },
+  {
+    "text": "account was called like men's",
+    "start": 420.96,
+    "duration": 2.52
+  },
+  {
+    "text": "improvement or something like that.",
+    "start": 421.919,
+    "duration": 2.361
+  },
+  {
+    "text": ">> Mhm.",
+    "start": 423.48,
+    "duration": 3.52
+  },
+  {
+    "text": ">> And so I took like the most viral videos",
+    "start": 424.28,
+    "duration": 5.12
+  },
+  {
+    "text": "um and slideshows from that TikTok page",
+    "start": 427,
+    "duration": 5.56
+  },
+  {
+    "text": "and repurposed them for our account.",
+    "start": 429.4,
+    "duration": 4.84
+  },
+  {
+    "text": ">> Did you use like some kind of automation",
+    "start": 432.56,
+    "duration": 4.32
+  },
+  {
+    "text": "to make make all these slides like",
+    "start": 434.24,
+    "duration": 3.32
+  },
+  {
+    "text": "faster?",
+    "start": 436.88,
+    "duration": 2.44
+  },
+  {
+    "text": ">> Yeah, we did like a mixture of like",
+    "start": 437.56,
+    "duration": 4.72
+  },
+  {
+    "text": "Canva as well as um Figma. So we like",
+    "start": 439.32,
+    "duration": 4.88
+  },
+  {
+    "text": "designed the background in Figma and",
+    "start": 442.28,
+    "duration": 3.68
+  },
+  {
+    "text": "then we did like an Excel sheet where",
+    "start": 444.2,
+    "duration": 4.08
+  },
+  {
+    "text": "like it auto populated all the all the",
+    "start": 445.96,
+    "duration": 4.44
+  },
+  {
+    "text": "slides. So it would take like seconds to",
+    "start": 448.28,
+    "duration": 4.56
+  },
+  {
+    "text": "create each one. And so like only within",
+    "start": 450.4,
+    "duration": 4
+  },
+  {
+    "text": "like an hour or two you can like batch",
+    "start": 452.84,
+    "duration": 3.76
+  },
+  {
+    "text": "up a month's worth of content. And so it",
+    "start": 454.4,
+    "duration": 4.16
+  },
+  {
+    "text": "made creating these videos uh really",
+    "start": 456.6,
+    "duration": 2.52
+  },
+  {
+    "text": "easy.",
+    "start": 458.56,
+    "duration": 2.28
+  },
+  {
+    "text": ">> This these these videos are all getting",
+    "start": 459.12,
+    "duration": 4.92
+  },
+  {
+    "text": "a lot of views. It's like 18K, like 10",
+    "start": 460.84,
+    "duration": 6.88
+  },
+  {
+    "text": "to like 50K views on every video.",
+    "start": 464.04,
+    "duration": 5.68
+  },
+  {
+    "text": "And they're all It's all simple. It's",
+    "start": 467.72,
+    "duration": 3.84
+  },
+  {
+    "text": "like, \"Oh, five mistakes when flirting",
+    "start": 469.72,
+    "duration": 4.08
+  },
+  {
+    "text": "over tech.\" Dating advice from Sway AI",
+    "start": 471.56,
+    "duration": 4.56
+  },
+  {
+    "text": "app. And then you kind of you CTA in",
+    "start": 473.8,
+    "duration": 4.16
+  },
+  {
+    "text": "every single slide.",
+    "start": 476.12,
+    "duration": 3.2
+  },
+  {
+    "text": "Which is pretty",
+    "start": 477.96,
+    "duration": 3
+  },
+  {
+    "text": "pretty good. I feel like a lot of these",
+    "start": 479.32,
+    "duration": 3.28
+  },
+  {
+    "text": "slideshows are like",
+    "start": 480.96,
+    "duration": 3.28
+  },
+  {
+    "text": "I imagine they're kind of low converting",
+    "start": 482.6,
+    "duration": 3.64
+  },
+  {
+    "text": "cuz they don't actually plug the app,",
+    "start": 484.24,
+    "duration": 3.68
+  },
+  {
+    "text": "but yours actually plugs the app in",
+    "start": 486.24,
+    "duration": 3.52
+  },
+  {
+    "text": "every slide, not just like the last",
+    "start": 487.92,
+    "duration": 2.64
+  },
+  {
+    "text": "slide or anything.",
+    "start": 489.76,
+    "duration": 2.16
+  },
+  {
+    "text": ">> I think what's the interesting note",
+    "start": 490.56,
+    "duration": 3.4
+  },
+  {
+    "text": "though is if you scroll to the bottom of",
+    "start": 491.92,
+    "duration": 4.4
+  },
+  {
+    "text": "that page, you'll notice that I actually",
+    "start": 493.96,
+    "duration": 4.44
+  },
+  {
+    "text": "started off with doing",
+    "start": 496.32,
+    "duration": 4.44
+  },
+  {
+    "text": "the these like aesthetic carousels where",
+    "start": 498.4,
+    "duration": 5.04
+  },
+  {
+    "text": "it was like more of like these pictures",
+    "start": 500.76,
+    "duration": 3.96
+  },
+  {
+    "text": "in the background, which were fully",
+    "start": 503.44,
+    "duration": 2.92
+  },
+  {
+    "text": "unbranded. If you're starting a brand",
+    "start": 504.72,
+    "duration": 4.64
+  },
+  {
+    "text": "new account and it's like fully branded,",
+    "start": 506.36,
+    "duration": 4.76
+  },
+  {
+    "text": "I almost feel like it wouldn't have gone",
+    "start": 509.36,
+    "duration": 3.88
+  },
+  {
+    "text": "as viral initially. I think initially in",
+    "start": 511.12,
+    "duration": 3.799
+  },
+  {
+    "text": "the first like couple weeks, the whole",
+    "start": 513.24,
+    "duration": 4.16
+  },
+  {
+    "text": "goal was to get the account warmed up",
+    "start": 514.919,
+    "duration": 4.201
+  },
+  {
+    "text": "and start getting traction. And then",
+    "start": 517.4,
+    "duration": 3.319
+  },
+  {
+    "text": "once we started getting traction and a",
+    "start": 519.12,
+    "duration": 4.28
+  },
+  {
+    "text": "few videos started popping off, then",
+    "start": 520.719,
+    "duration": 4.361
+  },
+  {
+    "text": "um like I had the idea of like adding",
+    "start": 523.4,
+    "duration": 2.68
+  },
+  {
+    "text": "the branding to it.",
+    "start": 525.08,
+    "duration": 2.96
+  },
+  {
+    "text": ">> So in order to like, you know, not",
+    "start": 526.08,
+    "duration": 6.44
+  },
+  {
+    "text": "appear too spammy and like brand",
+    "start": 528.04,
+    "duration": 6.56
+  },
+  {
+    "text": "um associated, you just",
+    "start": 532.52,
+    "duration": 4.8
+  },
+  {
+    "text": "it was mostly uh no CTA except on the",
+    "start": 534.6,
+    "duration": 5.36
+  },
+  {
+    "text": "last slide. So you would put the CTA",
+    "start": 537.32,
+    "duration": 4.88
+  },
+  {
+    "text": "on the last slide, which which is more",
+    "start": 539.96,
+    "duration": 4.56
+  },
+  {
+    "text": "of a hard sell actually. And and then",
+    "start": 542.2,
+    "duration": 3.6
+  },
+  {
+    "text": "actually it looks like some of them you",
+    "start": 544.52,
+    "duration": 3.319
+  },
+  {
+    "text": "you put no call to action at all.",
+    "start": 545.8,
+    "duration": 3.68
+  },
+  {
+    "text": ">> Yeah, there's it did it like a mixture.",
+    "start": 547.839,
+    "duration": 2.961
+  },
+  {
+    "text": "I was like testing out like different",
+    "start": 549.48,
+    "duration": 2.92
+  },
+  {
+    "text": "ideas like whether we should add it,",
+    "start": 550.8,
+    "duration": 3.2
+  },
+  {
+    "text": "whether we shouldn't.",
+    "start": 552.4,
+    "duration": 2.84
+  },
+  {
+    "text": "And then once we like started getting",
+    "start": 554,
+    "duration": 2.56
+  },
+  {
+    "text": "traction and it was like guaranteed",
+    "start": 555.24,
+    "duration": 3.12
+  },
+  {
+    "text": "views, then we just",
+    "start": 556.56,
+    "duration": 3.32
+  },
+  {
+    "text": "made the whole branding like, you know,",
+    "start": 558.36,
+    "duration": 3.76
+  },
+  {
+    "text": "the orange theme and all that.",
+    "start": 559.88,
+    "duration": 4.76
+  },
+  {
+    "text": ">> This seems like a really good one. Do Do",
+    "start": 562.12,
+    "duration": 4.76
+  },
+  {
+    "text": "you remember this like doing well and",
+    "start": 564.64,
+    "duration": 4.56
+  },
+  {
+    "text": "how many like how how many downloads",
+    "start": 566.88,
+    "duration": 4.8
+  },
+  {
+    "text": "this got you? Cuz this is like 600,000",
+    "start": 569.2,
+    "duration": 4.76
+  },
+  {
+    "text": "views and there was a call to action at",
+    "start": 571.68,
+    "duration": 4.04
+  },
+  {
+    "text": "the end. And then in the comments people",
+    "start": 573.96,
+    "duration": 2.92
+  },
+  {
+    "text": "are saying like, \"Have you tried this",
+    "start": 575.72,
+    "duration": 2.96
+  },
+  {
+    "text": "app? What's the link for the app?\"",
+    "start": 576.88,
+    "duration": 3.36
+  },
+  {
+    "text": ">> Yeah, I think those early ones like they",
+    "start": 578.68,
+    "duration": 3.36
+  },
+  {
+    "text": "had some traction, but I'd say the",
+    "start": 580.24,
+    "duration": 4.16
+  },
+  {
+    "text": "downloads weren't like insane.",
+    "start": 582.04,
+    "duration": 4.44
+  },
+  {
+    "text": "But if you go I still remember the day",
+    "start": 584.4,
+    "duration": 3.52
+  },
+  {
+    "text": "if you go all the way to the top, the",
+    "start": 586.48,
+    "duration": 3.08
+  },
+  {
+    "text": "one that's pinned. I remember it was",
+    "start": 587.92,
+    "duration": 4.28
+  },
+  {
+    "text": "Christmas day actually, and I just put",
+    "start": 589.56,
+    "duration": 5.48
+  },
+  {
+    "text": "up this post and actually like",
+    "start": 592.2,
+    "duration": 5.08
+  },
+  {
+    "text": "had logged out of the account and like",
+    "start": 595.04,
+    "duration": 4.24
+  },
+  {
+    "text": "completely forgot about it. I came back",
+    "start": 597.28,
+    "duration": 3.32
+  },
+  {
+    "text": "a couple days later and it was already",
+    "start": 599.28,
+    "duration": 2.8
+  },
+  {
+    "text": "at like",
+    "start": 600.6,
+    "duration": 3.72
+  },
+  {
+    "text": "um like couple million views, but we had",
+    "start": 602.08,
+    "duration": 4
+  },
+  {
+    "text": "started seeing that",
+    "start": 604.32,
+    "duration": 3.04
+  },
+  {
+    "text": "I think that was like one of our highest",
+    "start": 606.08,
+    "duration": 2.68
+  },
+  {
+    "text": "days ever.",
+    "start": 607.36,
+    "duration": 3.48
+  },
+  {
+    "text": "Um just I guess because people were at",
+    "start": 608.76,
+    "duration": 4.08
+  },
+  {
+    "text": "home on Christmas Day as well as it just",
+    "start": 610.84,
+    "duration": 3.56
+  },
+  {
+    "text": "caught the algorithm, but I think that",
+    "start": 612.84,
+    "duration": 4.52
+  },
+  {
+    "text": "day specifically we did like 5 or 6K in",
+    "start": 614.4,
+    "duration": 5.36
+  },
+  {
+    "text": "like revenue just off that one day,",
+    "start": 617.36,
+    "duration": 4
+  },
+  {
+    "text": "which is kind of crazy. I think that was",
+    "start": 619.76,
+    "duration": 3.16
+  },
+  {
+    "text": "like our biggest day at that point.",
+    "start": 621.36,
+    "duration": 4.48
+  },
+  {
+    "text": ">> 5 or 6K from one single TikTok. And it",
+    "start": 622.92,
+    "duration": 4.56
+  },
+  {
+    "text": "was like 4 million views.",
+    "start": 625.84,
+    "duration": 2.64
+  },
+  {
+    "text": ">> Yeah, I mean it helps that it was",
+    "start": 627.48,
+    "duration": 2.56
+  },
+  {
+    "text": "heavily branded, too. So.",
+    "start": 628.48,
+    "duration": 3
+  },
+  {
+    "text": ">> Yeah, no definitely.",
+    "start": 630.04,
+    "duration": 2.84
+  },
+  {
+    "text": ">> But this is also during the time when we",
+    "start": 631.48,
+    "duration": 3.12
+  },
+  {
+    "text": "started running ads as well. If you",
+    "start": 632.88,
+    "duration": 3.76
+  },
+  {
+    "text": "started doing these like UGC tactics, I",
+    "start": 634.6,
+    "duration": 3.8
+  },
+  {
+    "text": "think it only gets you so far, right?",
+    "start": 636.64,
+    "duration": 4.52
+  },
+  {
+    "text": ">> What was that like revenue number that",
+    "start": 638.4,
+    "duration": 5.2
+  },
+  {
+    "text": "you got to before you were able to",
+    "start": 641.16,
+    "duration": 3.92
+  },
+  {
+    "text": "like scale further with ads?",
+    "start": 643.6,
+    "duration": 3.84
+  },
+  {
+    "text": ">> Um I'd say probably like 30 to 40K a",
+    "start": 645.08,
+    "duration": 3.72
+  },
+  {
+    "text": "month, and then once we started that",
+    "start": 647.44,
+    "duration": 4.48
+  },
+  {
+    "text": "doing ads, it became a lot a lot easier.",
+    "start": 648.8,
+    "duration": 4.68
+  },
+  {
+    "text": ">> 30-40K a month.",
+    "start": 651.92,
+    "duration": 3.16
+  },
+  {
+    "text": "That makes sense. And then when you run",
+    "start": 653.48,
+    "duration": 3.8
+  },
+  {
+    "text": "ads, were you just like did you just",
+    "start": 655.08,
+    "duration": 5.759
+  },
+  {
+    "text": "repeat like use the same organic slides",
+    "start": 657.28,
+    "duration": 5.36
+  },
+  {
+    "text": "or videos and then put those into the",
+    "start": 660.839,
+    "duration": 3.721
+  },
+  {
+    "text": "ads and just like run them as ads or",
+    "start": 662.64,
+    "duration": 2.52
+  },
+  {
+    "text": "boost them?",
+    "start": 664.56,
+    "duration": 3.2
+  },
+  {
+    "text": ">> We didn't do that. We actually uh",
+    "start": 665.16,
+    "duration": 4.08
+  },
+  {
+    "text": "what we had what we had did was we got",
+    "start": 667.76,
+    "duration": 3.88
+  },
+  {
+    "text": "this one influencer, his name was",
+    "start": 669.24,
+    "duration": 3.96
+  },
+  {
+    "text": "Defunct Sibling.",
+    "start": 671.64,
+    "duration": 2.84
+  },
+  {
+    "text": "Um we were working with a few different",
+    "start": 673.2,
+    "duration": 3.32
+  },
+  {
+    "text": "influencers, but he was one that we",
+    "start": 674.48,
+    "duration": 3.64
+  },
+  {
+    "text": "really enjoyed working with.",
+    "start": 676.52,
+    "duration": 2.72
+  },
+  {
+    "text": "And",
+    "start": 678.12,
+    "duration": 1.92
+  },
+  {
+    "text": "um",
+    "start": 679.24,
+    "duration": 2.8
+  },
+  {
+    "text": "we got him to create some videos and um",
+    "start": 680.04,
+    "duration": 4
+  },
+  {
+    "text": "create some ads for us.",
+    "start": 682.04,
+    "duration": 4.56
+  },
+  {
+    "text": "And the ads ran on his page, and so it",
+    "start": 684.04,
+    "duration": 4.48
+  },
+  {
+    "text": "was like running to his audience, and so",
+    "start": 686.6,
+    "duration": 3.8
+  },
+  {
+    "text": "he has a big following, right? So all",
+    "start": 688.52,
+    "duration": 3.36
+  },
+  {
+    "text": "these people",
+    "start": 690.4,
+    "duration": 3
+  },
+  {
+    "text": "that were to see our ads, they are",
+    "start": 691.88,
+    "duration": 3.36
+  },
+  {
+    "text": "familiar with his content. It worked",
+    "start": 693.4,
+    "duration": 3.48
+  },
+  {
+    "text": "quite well for them quite well for us.",
+    "start": 695.24,
+    "duration": 3.16
+  },
+  {
+    "text": ">> You would have him make a video",
+    "start": 696.88,
+    "duration": 4.64
+  },
+  {
+    "text": "exclusively for an ad creative, not like",
+    "start": 698.4,
+    "duration": 5.44
+  },
+  {
+    "text": "make an organic video and then boost it",
+    "start": 701.52,
+    "duration": 3
+  },
+  {
+    "text": "later.",
+    "start": 703.84,
+    "duration": 2.28
+  },
+  {
+    "text": ">> Yeah, I mean, this is before the time",
+    "start": 704.52,
+    "duration": 2.88
+  },
+  {
+    "text": "when we like",
+    "start": 706.12,
+    "duration": 3.04
+  },
+  {
+    "text": "really like understood how to like",
+    "start": 707.4,
+    "duration": 4.28
+  },
+  {
+    "text": "create a video for ads versus creating",
+    "start": 709.16,
+    "duration": 5.28
+  },
+  {
+    "text": "an ad for organic. And so, he was like",
+    "start": 711.68,
+    "duration": 5.48
+  },
+  {
+    "text": "really promoting the the app quite hard",
+    "start": 714.44,
+    "duration": 4.56
+  },
+  {
+    "text": "in his organic videos, which I mean,",
+    "start": 717.16,
+    "duration": 3.68
+  },
+  {
+    "text": "sometimes they did quite well",
+    "start": 719,
+    "duration": 4
+  },
+  {
+    "text": "even on on the organic videos, but when",
+    "start": 720.84,
+    "duration": 4.4
+  },
+  {
+    "text": "we started repurposing those videos for",
+    "start": 723,
+    "duration": 3.72
+  },
+  {
+    "text": "ads, it worked a lot better.",
+    "start": 725.24,
+    "duration": 4.76
+  },
+  {
+    "text": ">> You got to like 30, say like 30, 40k",
+    "start": 726.72,
+    "duration": 6.88
+  },
+  {
+    "text": "MRR just from organic, from slides, from",
+    "start": 730,
+    "duration": 5.76
+  },
+  {
+    "text": "from him, the influencer,",
+    "start": 733.6,
+    "duration": 4.44
+  },
+  {
+    "text": "um and then like posting on TikTok and",
+    "start": 735.76,
+    "duration": 5.6
+  },
+  {
+    "text": "Instagram. And then you got to 2 million",
+    "start": 738.04,
+    "duration": 5.32
+  },
+  {
+    "text": "ARR. So, that's about like",
+    "start": 741.36,
+    "duration": 4.96
+  },
+  {
+    "text": "four to five times the just organic",
+    "start": 743.36,
+    "duration": 4.84
+  },
+  {
+    "text": "revenue. So, you you scaled pretty",
+    "start": 746.32,
+    "duration": 5.12
+  },
+  {
+    "text": "significantly like from starting paid.",
+    "start": 748.2,
+    "duration": 5.16
+  },
+  {
+    "text": ">> What what were your like biggest",
+    "start": 751.44,
+    "duration": 4.36
+  },
+  {
+    "text": "takeaways or learnings from from running",
+    "start": 753.36,
+    "duration": 4.28
+  },
+  {
+    "text": "paid to 2 mil ARR?",
+    "start": 755.8,
+    "duration": 3.6
+  },
+  {
+    "text": ">> Yeah, I think the videos that we had saw",
+    "start": 757.64,
+    "duration": 3.56
+  },
+  {
+    "text": "that when you post them as an ad, they",
+    "start": 759.4,
+    "duration": 2.92
+  },
+  {
+    "text": "were they would still get a lot of",
+    "start": 761.2,
+    "duration": 3.28
+  },
+  {
+    "text": "engagement and people commenting on the",
+    "start": 762.32,
+    "duration": 3.24
+  },
+  {
+    "text": "ad.",
+    "start": 764.48,
+    "duration": 2.48
+  },
+  {
+    "text": "And so, there are some videos that were",
+    "start": 765.56,
+    "duration": 2.92
+  },
+  {
+    "text": "I guess like a bit controversial that we",
+    "start": 766.96,
+    "duration": 3.52
+  },
+  {
+    "text": "had posted as an ad and then there were",
+    "start": 768.48,
+    "duration": 3.4
+  },
+  {
+    "text": "people like commenting in the comment",
+    "start": 770.48,
+    "duration": 3.16
+  },
+  {
+    "text": "section. I think those ads performed",
+    "start": 771.88,
+    "duration": 3.4
+  },
+  {
+    "text": "quite well for us. And I think the other",
+    "start": 773.64,
+    "duration": 2.64
+  },
+  {
+    "text": "piece",
+    "start": 775.28,
+    "duration": 3.4
+  },
+  {
+    "text": "is when we started scaling, we ran into",
+    "start": 776.28,
+    "duration": 4.16
+  },
+  {
+    "text": "like issues of not having enough",
+    "start": 778.68,
+    "duration": 3.64
+  },
+  {
+    "text": "creative. So, I think that's another",
+    "start": 780.44,
+    "duration": 4.28
+  },
+  {
+    "text": "piece is making sure that you have",
+    "start": 782.32,
+    "duration": 3.92
+  },
+  {
+    "text": "an easy way to scale the number of",
+    "start": 784.72,
+    "duration": 3.16
+  },
+  {
+    "text": "videos that you create. Since we're only",
+    "start": 786.24,
+    "duration": 3.24
+  },
+  {
+    "text": "relying on like one influencer to create",
+    "start": 787.88,
+    "duration": 4.2
+  },
+  {
+    "text": "videos for us, it was hard to like get a",
+    "start": 789.48,
+    "duration": 5.52
+  },
+  {
+    "text": "a big variety of creative. And I think",
+    "start": 792.08,
+    "duration": 4.52
+  },
+  {
+    "text": "the niche, like the dating niche in",
+    "start": 795,
+    "duration": 3.36
+  },
+  {
+    "text": "general, is a bit tough because I think",
+    "start": 796.6,
+    "duration": 3.08
+  },
+  {
+    "text": "there's not a lot of like big",
+    "start": 798.36,
+    "duration": 2.8
+  },
+  {
+    "text": "influencers that are willing to work",
+    "start": 799.68,
+    "duration": 3.56
+  },
+  {
+    "text": "with apps cuz they're selling their own",
+    "start": 801.16,
+    "duration": 3
+  },
+  {
+    "text": "program, right?",
+    "start": 803.24,
+    "duration": 3.04
+  },
+  {
+    "text": ">> So, you feel like with dating creators,",
+    "start": 804.16,
+    "duration": 4.6
+  },
+  {
+    "text": "they're making a lot of money already,",
+    "start": 806.28,
+    "duration": 4.72
+  },
+  {
+    "text": "like selling dating coaching basically",
+    "start": 808.76,
+    "duration": 4.48
+  },
+  {
+    "text": "or courses. And then for fitness",
+    "start": 811,
+    "duration": 4.32
+  },
+  {
+    "text": "influencers, they just like I guess you",
+    "start": 813.24,
+    "duration": 4.24
+  },
+  {
+    "text": "could sell fitness training, but from in",
+    "start": 815.32,
+    "duration": 4.36
+  },
+  {
+    "text": "your experience, they just the most",
+    "start": 817.48,
+    "duration": 4.4
+  },
+  {
+    "text": "fitness creators are just not like",
+    "start": 819.68,
+    "duration": 3.24
+  },
+  {
+    "text": "making that much money.",
+    "start": 821.88,
+    "duration": 3.24
+  },
+  {
+    "text": ">> Yeah, I'd say it's that, but also it",
+    "start": 822.92,
+    "duration": 3.96
+  },
+  {
+    "text": "doesn't conflict with their business.",
+    "start": 825.12,
+    "duration": 2.84
+  },
+  {
+    "text": "So,",
+    "start": 826.88,
+    "duration": 3.2
+  },
+  {
+    "text": "for CalA I, it's a calorie tracking app",
+    "start": 827.96,
+    "duration": 3.88
+  },
+  {
+    "text": "where you're like tracking your your",
+    "start": 830.08,
+    "duration": 4.44
+  },
+  {
+    "text": "meals, whereas what they're selling as a",
+    "start": 831.84,
+    "duration": 4.48
+  },
+  {
+    "text": "product themselves is the fitness",
+    "start": 834.52,
+    "duration": 3.8
+  },
+  {
+    "text": "coaching. And so, it doesn't conflict,",
+    "start": 836.32,
+    "duration": 4.52
+  },
+  {
+    "text": "right? With our app with Sway, the",
+    "start": 838.32,
+    "duration": 4.68
+  },
+  {
+    "text": "product kind of conflicts with their",
+    "start": 840.84,
+    "duration": 5.04
+  },
+  {
+    "text": "offerings because they offer what they",
+    "start": 843,
+    "duration": 4.44
+  },
+  {
+    "text": "offer is like giving feedback on your",
+    "start": 845.88,
+    "duration": 4.32
+  },
+  {
+    "text": "profile and photos. And that's basically",
+    "start": 847.44,
+    "duration": 4.56
+  },
+  {
+    "text": "what we provide, but in an AI form. And",
+    "start": 850.2,
+    "duration": 3.24
+  },
+  {
+    "text": "so, if they're promoting the app, it",
+    "start": 852,
+    "duration": 3.64
+  },
+  {
+    "text": "kind of cannibalizes their own product.",
+    "start": 853.44,
+    "duration": 4.28
+  },
+  {
+    "text": ">> I see. Yeah, yeah. That's a good",
+    "start": 855.64,
+    "duration": 4.12
+  },
+  {
+    "text": "insight. It has to work with the with",
+    "start": 857.72,
+    "duration": 4.12
+  },
+  {
+    "text": "the creator's existing business model.",
+    "start": 859.76,
+    "duration": 4
+  },
+  {
+    "text": "That is that is a big advantage that",
+    "start": 861.84,
+    "duration": 4.12
+  },
+  {
+    "text": "CalA I seems to have. So, I want to talk",
+    "start": 863.76,
+    "duration": 5.08
+  },
+  {
+    "text": "about the the product also. So, like you",
+    "start": 865.96,
+    "duration": 6.96
+  },
+  {
+    "text": "are the head of product at CalA I. You",
+    "start": 868.84,
+    "duration": 6.999
+  },
+  {
+    "text": "co-founded Sway. Did you have a team",
+    "start": 872.92,
+    "duration": 4.96
+  },
+  {
+    "text": "with you building Sway? You said you had",
+    "start": 875.839,
+    "duration": 3.801
+  },
+  {
+    "text": "a couple of co-founders. Were you like",
+    "start": 877.88,
+    "duration": 4.32
+  },
+  {
+    "text": "what was your role in in Sway?",
+    "start": 879.64,
+    "duration": 4.64
+  },
+  {
+    "text": ">> Yeah, two co-founders, Luis and Charles.",
+    "start": 882.2,
+    "duration": 4.44
+  },
+  {
+    "text": "And Charles is more like a iOS engineer,",
+    "start": 884.28,
+    "duration": 4.88
+  },
+  {
+    "text": "so he built the app. And Luis helped",
+    "start": 886.64,
+    "duration": 4.16
+  },
+  {
+    "text": "like helped with marketing and more like",
+    "start": 889.16,
+    "duration": 3.52
+  },
+  {
+    "text": "operations with the app. And so, I was",
+    "start": 890.8,
+    "duration": 3.8
+  },
+  {
+    "text": "like doing design and like product.",
+    "start": 892.68,
+    "duration": 4.2
+  },
+  {
+    "text": ">> I feel like there's a lot of teams that",
+    "start": 894.6,
+    "duration": 4.239
+  },
+  {
+    "text": "kind of have the engineering and then",
+    "start": 896.88,
+    "duration": 4.84
+  },
+  {
+    "text": "the marketing, but then to actually",
+    "start": 898.839,
+    "duration": 5.521
+  },
+  {
+    "text": "build like a good product, you need",
+    "start": 901.72,
+    "duration": 4.88
+  },
+  {
+    "text": "someone It could be a third person or it",
+    "start": 904.36,
+    "duration": 4.64
+  },
+  {
+    "text": "could be like one one or the other of,",
+    "start": 906.6,
+    "duration": 3.68
+  },
+  {
+    "text": "you know, the marketing or the coding",
+    "start": 909,
+    "duration": 3.76
+  },
+  {
+    "text": "person, but someone needs to like worry",
+    "start": 910.28,
+    "duration": 4.559
+  },
+  {
+    "text": "about, okay, what is the user experience",
+    "start": 912.76,
+    "duration": 3.48
+  },
+  {
+    "text": "actually going to be like? Like what are",
+    "start": 914.839,
+    "duration": 2.961
+  },
+  {
+    "text": "the screens?",
+    "start": 916.24,
+    "duration": 3.44
+  },
+  {
+    "text": "Um how do how do you make it easy for",
+    "start": 917.8,
+    "duration": 3.32
+  },
+  {
+    "text": "the for people to understand the",
+    "start": 919.68,
+    "duration": 4.52
+  },
+  {
+    "text": "product? Were there certain decisions",
+    "start": 921.12,
+    "duration": 5.32
+  },
+  {
+    "text": "that went into Sway that you feel like",
+    "start": 924.2,
+    "duration": 5.56
+  },
+  {
+    "text": "made a big impact on the monetization,",
+    "start": 926.44,
+    "duration": 5.04
+  },
+  {
+    "text": "like how much money it made, and also",
+    "start": 929.76,
+    "duration": 3.64
+  },
+  {
+    "text": "just like the usefulness of the product,",
+    "start": 931.48,
+    "duration": 3.8
+  },
+  {
+    "text": "and that got people willing to, you",
+    "start": 933.4,
+    "duration": 4.6
+  },
+  {
+    "text": "know, pay and retain as users?",
+    "start": 935.28,
+    "duration": 4.6
+  },
+  {
+    "text": ">> Yeah, I'd say that I mean the LTV of",
+    "start": 938,
+    "duration": 4.8
+  },
+  {
+    "text": "this app is very high as opposed to any",
+    "start": 939.88,
+    "duration": 4.88
+  },
+  {
+    "text": "other app I've worked like I've seen.",
+    "start": 942.8,
+    "duration": 3.36
+  },
+  {
+    "text": "But yeah, I can walk through that. I",
+    "start": 944.76,
+    "duration": 3.24
+  },
+  {
+    "text": "actually like I can share like some like",
+    "start": 946.16,
+    "duration": 3.24
+  },
+  {
+    "text": "the onboarding flow as well as like the",
+    "start": 948,
+    "duration": 3.04
+  },
+  {
+    "text": "paywall design maybe. Yeah, this is like",
+    "start": 949.4,
+    "duration": 2.96
+  },
+  {
+    "text": "the onboarding. The way I think about",
+    "start": 951.04,
+    "duration": 2.8
+  },
+  {
+    "text": "onboarding is like it needs to like the",
+    "start": 952.36,
+    "duration": 4.24
+  },
+  {
+    "text": "goal of onboarding before paywall is to",
+    "start": 953.84,
+    "duration": 5.08
+  },
+  {
+    "text": "like raise your motivation",
+    "start": 956.6,
+    "duration": 4.56
+  },
+  {
+    "text": "and increase like your intention to",
+    "start": 958.92,
+    "duration": 4.16
+  },
+  {
+    "text": "purchase the app. There's like a lot of",
+    "start": 961.16,
+    "duration": 4
+  },
+  {
+    "text": "visuals explaining what the app does and",
+    "start": 963.08,
+    "duration": 4.08
+  },
+  {
+    "text": "then questions to personalize the app",
+    "start": 965.16,
+    "duration": 4.04
+  },
+  {
+    "text": "experience. Started by like clarifying",
+    "start": 967.16,
+    "duration": 3.92
+  },
+  {
+    "text": "like why the user is there. It's I feel",
+    "start": 969.2,
+    "duration": 3.56
+  },
+  {
+    "text": "like it's very similar to like a sales",
+    "start": 971.08,
+    "duration": 3.8
+  },
+  {
+    "text": "funnel where like you clarify like why",
+    "start": 972.76,
+    "duration": 3.52
+  },
+  {
+    "text": "they're there,",
+    "start": 974.88,
+    "duration": 4.04
+  },
+  {
+    "text": "explain and label their problem,",
+    "start": 976.28,
+    "duration": 5.56
+  },
+  {
+    "text": "and then sell the dream result. Like",
+    "start": 978.92,
+    "duration": 4.64
+  },
+  {
+    "text": "you'll see like the dream result of like",
+    "start": 981.84,
+    "duration": 3.96
+  },
+  {
+    "text": "what other members are experiencing.",
+    "start": 983.56,
+    "duration": 4.64
+  },
+  {
+    "text": "Um personalizing through the questions,",
+    "start": 985.8,
+    "duration": 4.76
+  },
+  {
+    "text": "and then like as well as explaining why",
+    "start": 988.2,
+    "duration": 4.44
+  },
+  {
+    "text": "this app is for them.",
+    "start": 990.56,
+    "duration": 3.92
+  },
+  {
+    "text": "And then we show them the dream result",
+    "start": 992.64,
+    "duration": 3.76
+  },
+  {
+    "text": "also on the paywall. So this was like",
+    "start": 994.48,
+    "duration": 3.56
+  },
+  {
+    "text": "the first version of the paywall where",
+    "start": 996.4,
+    "duration": 2.76
+  },
+  {
+    "text": "you can",
+    "start": 998.04,
+    "duration": 3.4
+  },
+  {
+    "text": "after you go through that onboarding,",
+    "start": 999.16,
+    "duration": 4.36
+  },
+  {
+    "text": "you would be able to see your action",
+    "start": 1001.44,
+    "duration": 4.64
+  },
+  {
+    "text": "plan now. And if you like tap continue,",
+    "start": 1003.52,
+    "duration": 5.2
+  },
+  {
+    "text": "you get to unlock the entire app. And",
+    "start": 1006.08,
+    "duration": 4
+  },
+  {
+    "text": "that was like the first version of the",
+    "start": 1008.72,
+    "duration": 3.4
+  },
+  {
+    "text": "paywall, and I just wanted like to",
+    "start": 1010.08,
+    "duration": 3.64
+  },
+  {
+    "text": "convey the feeling that you get a lot of",
+    "start": 1012.12,
+    "duration": 3.8
+  },
+  {
+    "text": "value from the subscription. So you see",
+    "start": 1013.72,
+    "duration": 3.6
+  },
+  {
+    "text": "it's like a carousel of like eight",
+    "start": 1015.92,
+    "duration": 3.84
+  },
+  {
+    "text": "slides of all the things you get as part",
+    "start": 1017.32,
+    "duration": 4.12
+  },
+  {
+    "text": "of your subscription. And so that was",
+    "start": 1019.76,
+    "duration": 3.36
+  },
+  {
+    "text": "one thing that we had did with the",
+    "start": 1021.44,
+    "duration": 3.759
+  },
+  {
+    "text": "paywall. I think the other unique thing",
+    "start": 1023.12,
+    "duration": 4.4
+  },
+  {
+    "text": "that I think is similar to the way like",
+    "start": 1025.199,
+    "duration": 4.801
+  },
+  {
+    "text": "Calia thinks about it is the onboarding",
+    "start": 1027.52,
+    "duration": 4
+  },
+  {
+    "text": "is like very",
+    "start": 1030,
+    "duration": 4.48
+  },
+  {
+    "text": "sequential and like a one-flow process",
+    "start": 1031.52,
+    "duration": 4.559
+  },
+  {
+    "text": "where the user doesn't really need to",
+    "start": 1034.48,
+    "duration": 3.28
+  },
+  {
+    "text": "think, but they're like guided on this",
+    "start": 1036.079,
+    "duration": 3.76
+  },
+  {
+    "text": "like one-path journey towards the",
+    "start": 1037.76,
+    "duration": 4.04
+  },
+  {
+    "text": "paywall, and then after the paywall, you",
+    "start": 1039.839,
+    "duration": 3.521
+  },
+  {
+    "text": "show them like the aha moment of the",
+    "start": 1041.8,
+    "duration": 3.72
+  },
+  {
+    "text": "app. And so, like we're just getting the",
+    "start": 1043.36,
+    "duration": 3.959
+  },
+  {
+    "text": "profile rated. And so, they would go",
+    "start": 1045.52,
+    "duration": 3.52
+  },
+  {
+    "text": "through this process of like uploading",
+    "start": 1047.319,
+    "duration": 3.881
+  },
+  {
+    "text": "screenshots of the profile, and then it",
+    "start": 1049.04,
+    "duration": 4.4
+  },
+  {
+    "text": "would analyze it, and then",
+    "start": 1051.2,
+    "duration": 4.28
+  },
+  {
+    "text": "similar to like to like UMAX, it would",
+    "start": 1053.44,
+    "duration": 4.8
+  },
+  {
+    "text": "give you like a rating and feedback on",
+    "start": 1055.48,
+    "duration": 4.52
+  },
+  {
+    "text": "your on the images that are on your",
+    "start": 1058.24,
+    "duration": 3.6
+  },
+  {
+    "text": "profile, as well as feedback on your",
+    "start": 1060,
+    "duration": 3.64
+  },
+  {
+    "text": "prompts. Because the prompts were",
+    "start": 1061.84,
+    "duration": 3.6
+  },
+  {
+    "text": "actually something that we were going",
+    "start": 1063.64,
+    "duration": 4.2
+  },
+  {
+    "text": "viral for on Instagram, and so that's",
+    "start": 1065.44,
+    "duration": 3.68
+  },
+  {
+    "text": "the other reason why I wanted to add",
+    "start": 1067.84,
+    "duration": 2.08
+  },
+  {
+    "text": "that here.",
+    "start": 1069.12,
+    "duration": 3.44
+  },
+  {
+    "text": ">> Did you see that uh people actually did",
+    "start": 1069.92,
+    "duration": 5.36
+  },
+  {
+    "text": "the the share actions? Like were your",
+    "start": 1072.56,
+    "duration": 4.28
+  },
+  {
+    "text": "your users using those?",
+    "start": 1075.28,
+    "duration": 3.72
+  },
+  {
+    "text": ">> I'd say prob- probably not as we had",
+    "start": 1076.84,
+    "duration": 3.72
+  },
+  {
+    "text": "thought, and I think it makes a lot of",
+    "start": 1079,
+    "duration": 3.76
+  },
+  {
+    "text": "sense cuz I think it's the type of thing",
+    "start": 1080.56,
+    "duration": 3.72
+  },
+  {
+    "text": "that you would want like private",
+    "start": 1082.76,
+    "duration": 3.28
+  },
+  {
+    "text": "feedback on. And I mean, that was the",
+    "start": 1084.28,
+    "duration": 3.72
+  },
+  {
+    "text": "whole hypothesis of this product was",
+    "start": 1086.04,
+    "duration": 2.6
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 1088,
+    "duration": 3.52
+  },
+  {
+    "text": ">> Um the idea is people don't want to ask",
+    "start": 1088.64,
+    "duration": 4.92
+  },
+  {
+    "text": "like their friend or like people that",
+    "start": 1091.52,
+    "duration": 3.68
+  },
+  {
+    "text": "they know, and so like using a product",
+    "start": 1093.56,
+    "duration": 3.56
+  },
+  {
+    "text": "to get feedback in a more private way",
+    "start": 1095.2,
+    "duration": 3.36
+  },
+  {
+    "text": "made more sense. And I think that's",
+    "start": 1097.12,
+    "duration": 3.92
+  },
+  {
+    "text": "actually the reason why we like",
+    "start": 1098.56,
+    "duration": 5.44
+  },
+  {
+    "text": "monetized so heavily or like we focused",
+    "start": 1101.04,
+    "duration": 4.72
+  },
+  {
+    "text": "on monetization as opposed to like",
+    "start": 1104,
+    "duration": 4.56
+  },
+  {
+    "text": "keeping the prices lower to fuel growth,",
+    "start": 1105.76,
+    "duration": 4.4
+  },
+  {
+    "text": "which is like the opposite of CaliAI",
+    "start": 1108.56,
+    "duration": 3.32
+  },
+  {
+    "text": "because I think with CaliAI, the prices",
+    "start": 1110.16,
+    "duration": 3.84
+  },
+  {
+    "text": "are intentionally a lot lower as opposed",
+    "start": 1111.88,
+    "duration": 3.56
+  },
+  {
+    "text": "to everyone else on the market.",
+    "start": 1114,
+    "duration": 3.88
+  },
+  {
+    "text": ">> Uh so, you do um additional in-app",
+    "start": 1115.44,
+    "duration": 4.2
+  },
+  {
+    "text": "purchases for credits?",
+    "start": 1117.88,
+    "duration": 3.52
+  },
+  {
+    "text": ">> Yeah. I mean, we started",
+    "start": 1119.64,
+    "duration": 3.32
+  },
+  {
+    "text": "Once we after we launched, we noticed",
+    "start": 1121.4,
+    "duration": 2.92
+  },
+  {
+    "text": "that people were going through this flow",
+    "start": 1122.96,
+    "duration": 3.56
+  },
+  {
+    "text": "like multiple times, more than we had",
+    "start": 1124.32,
+    "duration": 5.36
+  },
+  {
+    "text": "anticipated. And so, we added this as a",
+    "start": 1126.52,
+    "duration": 5.4
+  },
+  {
+    "text": "way to like like further monetize the",
+    "start": 1129.68,
+    "duration": 4.2
+  },
+  {
+    "text": "power users. And I think this paywall",
+    "start": 1131.92,
+    "duration": 4.6
+  },
+  {
+    "text": "itself, I think like contributes to like",
+    "start": 1133.88,
+    "duration": 4.76
+  },
+  {
+    "text": "over 10%. I think like 11% of revenue",
+    "start": 1136.52,
+    "duration": 3.56
+  },
+  {
+    "text": "like comes from like the additional",
+    "start": 1138.64,
+    "duration": 3.44
+  },
+  {
+    "text": "upsell here. The biggest upsell of this",
+    "start": 1140.08,
+    "duration": 4.52
+  },
+  {
+    "text": "app actually is we added these photo",
+    "start": 1142.08,
+    "duration": 5.28
+  },
+  {
+    "text": "packs, which is AI optimized photos",
+    "start": 1144.6,
+    "duration": 4.32
+  },
+  {
+    "text": "where you can like look at these AI",
+    "start": 1147.36,
+    "duration": 3.64
+  },
+  {
+    "text": "photos, and then we'll you upload",
+    "start": 1148.92,
+    "duration": 4.16
+  },
+  {
+    "text": "pictures of your face and then we'll",
+    "start": 1151,
+    "duration": 4.92
+  },
+  {
+    "text": "create pictures based off of the look",
+    "start": 1153.08,
+    "duration": 4.48
+  },
+  {
+    "text": "here. We go through this flow, you would",
+    "start": 1155.92,
+    "duration": 3.92
+  },
+  {
+    "text": "purchase these photo packs and then",
+    "start": 1157.56,
+    "duration": 3.92
+  },
+  {
+    "text": "upload pictures of yourself and then",
+    "start": 1159.84,
+    "duration": 3.84
+  },
+  {
+    "text": "we'll email you you in that photo pack",
+    "start": 1161.48,
+    "duration": 3.08
+  },
+  {
+    "text": "if that makes sense.",
+    "start": 1163.68,
+    "duration": 2.48
+  },
+  {
+    "text": ">> And how what were what was the pricing",
+    "start": 1164.56,
+    "duration": 2.72
+  },
+  {
+    "text": "on each of the packs?",
+    "start": 1166.16,
+    "duration": 2.28
+  },
+  {
+    "text": ">> We did like a 10-pack and then a",
+    "start": 1167.28,
+    "duration": 3.2
+  },
+  {
+    "text": "one-pack and the pricing was like that.",
+    "start": 1168.44,
+    "duration": 5.08
+  },
+  {
+    "text": "It's like $14.99 and $49.99 for the",
+    "start": 1170.48,
+    "duration": 5.2
+  },
+  {
+    "text": "10-photo pack. I think what is unique",
+    "start": 1173.52,
+    "duration": 3.84
+  },
+  {
+    "text": "about this is something that I had saw",
+    "start": 1175.68,
+    "duration": 4
+  },
+  {
+    "text": "from other apps is ones that were",
+    "start": 1177.36,
+    "duration": 4.08
+  },
+  {
+    "text": "offering and defaulting to an annual",
+    "start": 1179.68,
+    "duration": 3.96
+  },
+  {
+    "text": "plan are the ones that like had a pretty",
+    "start": 1181.44,
+    "duration": 4.24
+  },
+  {
+    "text": "good like LTV. We default to the annual",
+    "start": 1183.64,
+    "duration": 4.4
+  },
+  {
+    "text": "plan in order to like collect more",
+    "start": 1185.68,
+    "duration": 4.28
+  },
+  {
+    "text": "revenue up front to fuel the growth. We",
+    "start": 1188.04,
+    "duration": 3.8
+  },
+  {
+    "text": "also tried out weekly plan, but that's",
+    "start": 1189.96,
+    "duration": 3.4
+  },
+  {
+    "text": "like a lot slower growth, right?",
+    "start": 1191.84,
+    "duration": 3.28
+  },
+  {
+    "text": ">> That's crazy. Yeah, I didn't know that",
+    "start": 1193.36,
+    "duration": 4.04
+  },
+  {
+    "text": "this is one of the most highly monetized",
+    "start": 1195.12,
+    "duration": 3.92
+  },
+  {
+    "text": "niches on the App Store, but it makes",
+    "start": 1197.4,
+    "duration": 3.8
+  },
+  {
+    "text": "sense. I mean, people just want people",
+    "start": 1199.04,
+    "duration": 3.36
+  },
+  {
+    "text": "love",
+    "start": 1201.2,
+    "duration": 3.72
+  },
+  {
+    "text": "looking at their own face and making",
+    "start": 1202.4,
+    "duration": 4.76
+  },
+  {
+    "text": "themselves look better.",
+    "start": 1204.92,
+    "duration": 3.96
+  },
+  {
+    "text": "And AI is very good at doing that and",
+    "start": 1207.16,
+    "duration": 4.16
+  },
+  {
+    "text": "there's like a wow effect um with that.",
+    "start": 1208.88,
+    "duration": 4.96
+  },
+  {
+    "text": ">> I think the other reason why it does so",
+    "start": 1211.32,
+    "duration": 5.4
+  },
+  {
+    "text": "well is the photo packs for us. Like",
+    "start": 1213.84,
+    "duration": 4.12
+  },
+  {
+    "text": "there's no cap to how much you can",
+    "start": 1216.72,
+    "duration": 3.4
+  },
+  {
+    "text": "spend. And so, I think that's another",
+    "start": 1217.96,
+    "duration": 4.48
+  },
+  {
+    "text": "insight from the App Store is there's",
+    "start": 1220.12,
+    "duration": 5.8
+  },
+  {
+    "text": "this topic of whales on the App Store",
+    "start": 1222.44,
+    "duration": 6.16
+  },
+  {
+    "text": "of people There's like certain people",
+    "start": 1225.92,
+    "duration": 4.68
+  },
+  {
+    "text": "that will download an app and spend like",
+    "start": 1228.6,
+    "duration": 4.08
+  },
+  {
+    "text": "thousands of dollars on an app.",
+    "start": 1230.6,
+    "duration": 4.36
+  },
+  {
+    "text": "And I think that's a a lot of how the",
+    "start": 1232.68,
+    "duration": 4.8
+  },
+  {
+    "text": "big apps like Tinder, Hinge, Bumble make",
+    "start": 1234.96,
+    "duration": 3.72
+  },
+  {
+    "text": "a lot of money",
+    "start": 1237.48,
+    "duration": 3.52
+  },
+  {
+    "text": "is the people that There are a few",
+    "start": 1238.68,
+    "duration": 5.04
+  },
+  {
+    "text": "people that like the top 1% are spending",
+    "start": 1241,
+    "duration": 4.72
+  },
+  {
+    "text": "like the majority of they make up the",
+    "start": 1243.72,
+    "duration": 3.36
+  },
+  {
+    "text": "majority of the revenue.",
+    "start": 1245.72,
+    "duration": 2.56
+  },
+  {
+    "text": ">> Yeah, actually yeah, that makes sense.",
+    "start": 1247.08,
+    "duration": 2.96
+  },
+  {
+    "text": "So, if you give the people opportunity",
+    "start": 1248.28,
+    "duration": 4.24
+  },
+  {
+    "text": "to buy consumables, there you'll",
+    "start": 1250.04,
+    "duration": 4.72
+  },
+  {
+    "text": "naturally have whales, right? That",
+    "start": 1252.52,
+    "duration": 3.16
+  },
+  {
+    "text": ">> Yeah, I mean, the same thing with",
+    "start": 1254.76,
+    "duration": 1.72
+  },
+  {
+    "text": "gaming, right?",
+    "start": 1255.68,
+    "duration": 2.68
+  },
+  {
+    "text": ">> Clash of Clans. I remember I probably",
+    "start": 1256.48,
+    "duration": 4.24
+  },
+  {
+    "text": "spent like $200 as a teenager on this",
+    "start": 1258.36,
+    "duration": 4.08
+  },
+  {
+    "text": "game. That was like a lot of money for",
+    "start": 1260.72,
+    "duration": 2.84
+  },
+  {
+    "text": "me.",
+    "start": 1262.44,
+    "duration": 2.48
+  },
+  {
+    "text": "But there's people that are spending",
+    "start": 1263.56,
+    "duration": 2.88
+  },
+  {
+    "text": "like tens of thousands of dollars on",
+    "start": 1264.92,
+    "duration": 2
+  },
+  {
+    "text": "this.",
+    "start": 1266.44,
+    "duration": 1.68
+  },
+  {
+    "text": ">> That was the insight actually came from",
+    "start": 1266.92,
+    "duration": 2.96
+  },
+  {
+    "text": "one of my co-founders. He built his own",
+    "start": 1268.12,
+    "duration": 3.56
+  },
+  {
+    "text": "game and he noticed that it monetized",
+    "start": 1269.88,
+    "duration": 3.32
+  },
+  {
+    "text": "really well and it's the same sort of",
+    "start": 1271.68,
+    "duration": 3.84
+  },
+  {
+    "text": "insight that like he he had the insight",
+    "start": 1273.2,
+    "duration": 4.4
+  },
+  {
+    "text": "of that there are whales on the App",
+    "start": 1275.52,
+    "duration": 2.56
+  },
+  {
+    "text": "Store.",
+    "start": 1277.6,
+    "duration": 3.36
+  },
+  {
+    "text": ">> I was curious to ask you you you said",
+    "start": 1278.08,
+    "duration": 6.16
+  },
+  {
+    "text": "you would you put the aha moment after",
+    "start": 1280.96,
+    "duration": 5.52
+  },
+  {
+    "text": "the paywall or would you put it before?",
+    "start": 1284.24,
+    "duration": 4.4
+  },
+  {
+    "text": "Like would you let people upload their",
+    "start": 1286.48,
+    "duration": 4.48
+  },
+  {
+    "text": "pictures and then make them pay or would",
+    "start": 1288.64,
+    "duration": 4.36
+  },
+  {
+    "text": "you like make them pay after the like",
+    "start": 1290.96,
+    "duration": 3.76
+  },
+  {
+    "text": "the question and answer and like the the",
+    "start": 1293,
+    "duration": 3.8
+  },
+  {
+    "text": "pictures and then like let them upload",
+    "start": 1294.72,
+    "duration": 2.88
+  },
+  {
+    "text": "the pictures?",
+    "start": 1296.8,
+    "duration": 2.76
+  },
+  {
+    "text": ">> Yeah, it's a good question. We actually",
+    "start": 1297.6,
+    "duration": 4.2
+  },
+  {
+    "text": "explored both. If you let people upload",
+    "start": 1299.56,
+    "duration": 4.4
+  },
+  {
+    "text": "photos before the paywall,",
+    "start": 1301.8,
+    "duration": 4.04
+  },
+  {
+    "text": "you risk them leaving the app and not",
+    "start": 1303.96,
+    "duration": 3.72
+  },
+  {
+    "text": "not never coming back again because they",
+    "start": 1305.84,
+    "duration": 4.4
+  },
+  {
+    "text": "would have to go like to their other app",
+    "start": 1307.68,
+    "duration": 4.44
+  },
+  {
+    "text": "and then upload screenshots. We explored",
+    "start": 1310.24,
+    "duration": 5.04
+  },
+  {
+    "text": "that, but what we had saw was just the",
+    "start": 1312.12,
+    "duration": 5.12
+  },
+  {
+    "text": "simplicity of like going through the",
+    "start": 1315.28,
+    "duration": 3.6
+  },
+  {
+    "text": "onboarding and not asking people to do",
+    "start": 1317.24,
+    "duration": 2.84
+  },
+  {
+    "text": "too much.",
+    "start": 1318.88,
+    "duration": 2.76
+  },
+  {
+    "text": "So, they don't have to think before they",
+    "start": 1320.08,
+    "duration": 3.32
+  },
+  {
+    "text": "hit the paywall. Like just performed a",
+    "start": 1321.64,
+    "duration": 3.32
+  },
+  {
+    "text": "lot better. But, I think if there's a",
+    "start": 1323.4,
+    "duration": 4.04
+  },
+  {
+    "text": "way to show the insight and like the aha",
+    "start": 1324.96,
+    "duration": 4.08
+  },
+  {
+    "text": "moment or like lead up to the aha",
+    "start": 1327.44,
+    "duration": 2.6
+  },
+  {
+    "text": "moment, I think it would have been",
+    "start": 1329.04,
+    "duration": 2.76
+  },
+  {
+    "text": "better if they could do it before the",
+    "start": 1330.04,
+    "duration": 2.44
+  },
+  {
+    "text": "paywall.",
+    "start": 1331.8,
+    "duration": 2.36
+  },
+  {
+    "text": ">> So, let me show you this. A lot of app",
+    "start": 1332.48,
+    "duration": 3.32
+  },
+  {
+    "text": "founders I talk to you have a feeling",
+    "start": 1334.16,
+    "duration": 3.96
+  },
+  {
+    "text": "their app has viral potential, but don't",
+    "start": 1335.8,
+    "duration": 3.6
+  },
+  {
+    "text": "want to be the person brain rot",
+    "start": 1338.12,
+    "duration": 2.84
+  },
+  {
+    "text": "scrolling an hour a day hunting for",
+    "start": 1339.4,
+    "duration": 4.04
+  },
+  {
+    "text": "formats or worse burning thousands on",
+    "start": 1340.96,
+    "duration": 4.52
+  },
+  {
+    "text": "creators shooting videos that just flop.",
+    "start": 1343.44,
+    "duration": 3.24
+  },
+  {
+    "text": "Recently, I've been telling every",
+    "start": 1345.48,
+    "duration": 3.32
+  },
+  {
+    "text": "founder I meet about SpyTalk. It's",
+    "start": 1346.68,
+    "duration": 4.52
+  },
+  {
+    "text": "basically an AI TikTok viral marketer",
+    "start": 1348.8,
+    "duration": 4.08
+  },
+  {
+    "text": "that I've seen a lot of top app growth",
+    "start": 1351.2,
+    "duration": 3.32
+  },
+  {
+    "text": "teams using. You just paste a link to",
+    "start": 1352.88,
+    "duration": 2.48
+  },
+  {
+    "text": "your app",
+    "start": 1354.52,
+    "duration": 2.68
+  },
+  {
+    "text": ">> agent scrolls hundreds of thousands of",
+    "start": 1355.36,
+    "duration": 3.68
+  },
+  {
+    "text": "TikToks for you, finds the outlier",
+    "start": 1357.2,
+    "duration": 3.68
+  },
+  {
+    "text": "videos from competitors who've already",
+    "start": 1359.04,
+    "duration": 3.04
+  },
+  {
+    "text": "cracked the best formats that are",
+    "start": 1360.88,
+    "duration": 2.88
+  },
+  {
+    "text": "driving installs in the niche of your",
+    "start": 1362.08,
+    "duration": 3.4
+  },
+  {
+    "text": "app and then it remixes the hooks, the",
+    "start": 1363.76,
+    "duration": 3.52
+  },
+  {
+    "text": "angles and then it makes playbooks so",
+    "start": 1365.48,
+    "duration": 3.72
+  },
+  {
+    "text": "you can pretty much copy-paste virality.",
+    "start": 1367.28,
+    "duration": 3.6
+  },
+  {
+    "text": "And then it alerts you when it detects",
+    "start": 1369.2,
+    "duration": 3.44
+  },
+  {
+    "text": "new breakout formats that would also",
+    "start": 1370.88,
+    "duration": 3.08
+  },
+  {
+    "text": "work for your app. This is the only",
+    "start": 1372.64,
+    "duration": 3.48
+  },
+  {
+    "text": "growth tool I 100% vouch for on this",
+    "start": 1373.96,
+    "duration": 4.4
+  },
+  {
+    "text": "channel because there's a ton of gen AI",
+    "start": 1376.12,
+    "duration": 3.72
+  },
+  {
+    "text": "content tools out there, but none of",
+    "start": 1378.36,
+    "duration": 3.52
+  },
+  {
+    "text": "them tell you what to make. SpyTalk",
+    "start": 1379.84,
+    "duration": 3.52
+  },
+  {
+    "text": "makes sure you're never in the dark",
+    "start": 1381.88,
+    "duration": 3.12
+  },
+  {
+    "text": "about what's actually working now. I'll",
+    "start": 1383.36,
+    "duration": 3.48
+  },
+  {
+    "text": "put the link in the description. Can we",
+    "start": 1385,
+    "duration": 3.2
+  },
+  {
+    "text": "go through the psychology a little bit",
+    "start": 1386.84,
+    "duration": 2.88
+  },
+  {
+    "text": "again? It was really interesting to hear",
+    "start": 1388.2,
+    "duration": 3.08
+  },
+  {
+    "text": "you kind of",
+    "start": 1389.72,
+    "duration": 4.24
+  },
+  {
+    "text": "describe the journey of like, you know,",
+    "start": 1391.28,
+    "duration": 4.24
+  },
+  {
+    "text": "showing the dream outcome, like",
+    "start": 1393.96,
+    "duration": 4.32
+  },
+  {
+    "text": "explaining what the app is, and that",
+    "start": 1395.52,
+    "duration": 4.36
+  },
+  {
+    "text": "whole sequence of questions. Like, is",
+    "start": 1398.28,
+    "duration": 3.84
+  },
+  {
+    "text": "there some sort of method to the way",
+    "start": 1399.88,
+    "duration": 4.08
+  },
+  {
+    "text": "that you order the screens? Like, it",
+    "start": 1402.12,
+    "duration": 3.32
+  },
+  {
+    "text": "looks like right here there's like you",
+    "start": 1403.96,
+    "duration": 5.16
+  },
+  {
+    "text": "just describe the app with really clear",
+    "start": 1405.44,
+    "duration": 5.96
+  },
+  {
+    "text": "images. Is there a a method to kind of",
+    "start": 1409.12,
+    "duration": 3.48
+  },
+  {
+    "text": "like the ordering of this?",
+    "start": 1411.4,
+    "duration": 3.6
+  },
+  {
+    "text": ">> Yeah, I think this is a something that I",
+    "start": 1412.6,
+    "duration": 4.52
+  },
+  {
+    "text": "learned a lot when it comes to like we",
+    "start": 1415,
+    "duration": 4.28
+  },
+  {
+    "text": "got a lot of feedback in written emails",
+    "start": 1417.12,
+    "duration": 3.64
+  },
+  {
+    "text": "of people. We didn't have this",
+    "start": 1419.28,
+    "duration": 3.04
+  },
+  {
+    "text": "initially, so initially we'd just go",
+    "start": 1420.76,
+    "duration": 3.6
+  },
+  {
+    "text": "straight into the questions.",
+    "start": 1422.32,
+    "duration": 3.68
+  },
+  {
+    "text": "And so I think this is a lot a lot of",
+    "start": 1424.36,
+    "duration": 4.24
+  },
+  {
+    "text": "what I see on other apps doing is they",
+    "start": 1426,
+    "duration": 4.4
+  },
+  {
+    "text": "they just look at I think like Calion",
+    "start": 1428.6,
+    "duration": 3.76
+  },
+  {
+    "text": "just go straight into the questions, but",
+    "start": 1430.4,
+    "duration": 4.24
+  },
+  {
+    "text": "I think it misses the whole point. And",
+    "start": 1432.36,
+    "duration": 3.6
+  },
+  {
+    "text": "what we would get a lot of questions",
+    "start": 1434.64,
+    "duration": 3.28
+  },
+  {
+    "text": "about is like what does this app even",
+    "start": 1435.96,
+    "duration": 2.88
+  },
+  {
+    "text": "do?",
+    "start": 1437.92,
+    "duration": 2.64
+  },
+  {
+    "text": "Like, what am I even subscribing for?",
+    "start": 1438.84,
+    "duration": 2.88
+  },
+  {
+    "text": "These are actually videos, but they're",
+    "start": 1440.56,
+    "duration": 2.68
+  },
+  {
+    "text": "not playing right now, but they're",
+    "start": 1441.72,
+    "duration": 4.04
+  },
+  {
+    "text": "videos that explain the problem as well",
+    "start": 1443.24,
+    "duration": 4.96
+  },
+  {
+    "text": "as explaining how the app solves that",
+    "start": 1445.76,
+    "duration": 4.32
+  },
+  {
+    "text": "problem. And then once people are like",
+    "start": 1448.2,
+    "duration": 4.68
+  },
+  {
+    "text": "have that context, then asking questions",
+    "start": 1450.08,
+    "duration": 4.68
+  },
+  {
+    "text": "makes sense, right? It's like because",
+    "start": 1452.88,
+    "duration": 3.2
+  },
+  {
+    "text": "otherwise you're just you're asking",
+    "start": 1454.76,
+    "duration": 2.4
+  },
+  {
+    "text": "someone questions and they have no",
+    "start": 1456.08,
+    "duration": 2.4
+  },
+  {
+    "text": "context why they're giving you this",
+    "start": 1457.16,
+    "duration": 2.12
+  },
+  {
+    "text": "information.",
+    "start": 1458.48,
+    "duration": 1.92
+  },
+  {
+    "text": ">> You're you're giving a lot of",
+    "start": 1459.28,
+    "duration": 4.24
+  },
+  {
+    "text": "information and value even before they",
+    "start": 1460.4,
+    "duration": 5.88
+  },
+  {
+    "text": "have to ask answer any questions. And",
+    "start": 1463.52,
+    "duration": 4.4
+  },
+  {
+    "text": "then in between your questions you're",
+    "start": 1466.28,
+    "duration": 3.68
+  },
+  {
+    "text": "also giving continuously giving more",
+    "start": 1467.92,
+    "duration": 4.08
+  },
+  {
+    "text": "value as well. Is there a is there an",
+    "start": 1469.96,
+    "duration": 3.64
+  },
+  {
+    "text": "ordering to the to the types of",
+    "start": 1472,
+    "duration": 3.48
+  },
+  {
+    "text": "questions that you ask? Is it basically",
+    "start": 1473.6,
+    "duration": 4.68
+  },
+  {
+    "text": "just problem problem questions and then",
+    "start": 1475.48,
+    "duration": 4
+  },
+  {
+    "text": "solution questions?",
+    "start": 1478.28,
+    "duration": 2.52
+  },
+  {
+    "text": ">> I think less about the ordering and more",
+    "start": 1479.48,
+    "duration": 3.36
+  },
+  {
+    "text": "about the simplicity of how easy it is",
+    "start": 1480.8,
+    "duration": 3.72
+  },
+  {
+    "text": "to come up with an answer. So I think",
+    "start": 1482.84,
+    "duration": 3.24
+  },
+  {
+    "text": "that's why a lot of these",
+    "start": 1484.52,
+    "duration": 4.28
+  },
+  {
+    "text": "companies like will offer a",
+    "start": 1486.08,
+    "duration": 4.36
+  },
+  {
+    "text": "like multiple choice just being that so",
+    "start": 1488.8,
+    "duration": 4.88
+  },
+  {
+    "text": "easy to for the user to like quickly tap",
+    "start": 1490.44,
+    "duration": 5.2
+  },
+  {
+    "text": "one and give an answer. Because I had",
+    "start": 1493.68,
+    "duration": 3.68
+  },
+  {
+    "text": "seen other apps where like they ask us",
+    "start": 1495.64,
+    "duration": 3.28
+  },
+  {
+    "text": "these questions that like are actually",
+    "start": 1497.36,
+    "duration": 3.04
+  },
+  {
+    "text": "like kind of hard for you to come up",
+    "start": 1498.92,
+    "duration": 3.28
+  },
+  {
+    "text": "with an answer for. The whole point of",
+    "start": 1500.4,
+    "duration": 2.72
+  },
+  {
+    "text": "onboarding is they don't want to slow",
+    "start": 1502.2,
+    "duration": 2.28
+  },
+  {
+    "text": "people down. You want to get them ramped",
+    "start": 1503.12,
+    "duration": 3.2
+  },
+  {
+    "text": "up, get them going before the paywall.",
+    "start": 1504.48,
+    "duration": 3.32
+  },
+  {
+    "text": ">> This is really helpful to to see the",
+    "start": 1506.32,
+    "duration": 4
+  },
+  {
+    "text": "whole onboarding and everything. It is I",
+    "start": 1507.8,
+    "duration": 5.12
+  },
+  {
+    "text": "can I can see how a lot of this",
+    "start": 1510.32,
+    "duration": 5.76
+  },
+  {
+    "text": "translates to Calorie Ai too with like",
+    "start": 1512.92,
+    "duration": 5.72
+  },
+  {
+    "text": "making the the onboarding smooth and",
+    "start": 1516.08,
+    "duration": 5.64
+  },
+  {
+    "text": "making it high converting. Um but then I",
+    "start": 1518.64,
+    "duration": 4.48
+  },
+  {
+    "text": "want to like dig into that story now.",
+    "start": 1521.72,
+    "duration": 3.6
+  },
+  {
+    "text": "Like how did you how did you get into",
+    "start": 1523.12,
+    "duration": 3.56
+  },
+  {
+    "text": "Calorie Ai? Like how did you meet the",
+    "start": 1525.32,
+    "duration": 2.56
+  },
+  {
+    "text": "team and",
+    "start": 1526.68,
+    "duration": 2.96
+  },
+  {
+    "text": "um and get started working with them?",
+    "start": 1527.88,
+    "duration": 3.84
+  },
+  {
+    "text": ">> We came across the apps that Blake was",
+    "start": 1529.64,
+    "duration": 4.12
+  },
+  {
+    "text": "working on. And so and then we had",
+    "start": 1531.72,
+    "duration": 3.84
+  },
+  {
+    "text": "noticed like early on that he was",
+    "start": 1533.76,
+    "duration": 3.36
+  },
+  {
+    "text": "working on this new app and we had saw",
+    "start": 1535.56,
+    "duration": 3.56
+  },
+  {
+    "text": "that um like I had seen that it was",
+    "start": 1537.12,
+    "duration": 3.92
+  },
+  {
+    "text": "growing quite quickly. And so we reached",
+    "start": 1539.12,
+    "duration": 4.32
+  },
+  {
+    "text": "out. Was talking to Zach initially. And",
+    "start": 1541.04,
+    "duration": 4.52
+  },
+  {
+    "text": "yeah, I ended up joining the team last",
+    "start": 1543.44,
+    "duration": 4.2
+  },
+  {
+    "text": "year. Since then, been working on like a",
+    "start": 1545.56,
+    "duration": 3.44
+  },
+  {
+    "text": "number of different things. When I",
+    "start": 1547.64,
+    "duration": 2.96
+  },
+  {
+    "text": "joined like the app was actually already",
+    "start": 1549,
+    "duration": 3.16
+  },
+  {
+    "text": "already in a pretty good state. Like I",
+    "start": 1550.6,
+    "duration": 3.24
+  },
+  {
+    "text": "mean, they were already doing like a",
+    "start": 1552.16,
+    "duration": 3.44
+  },
+  {
+    "text": "couple million a month but when I I by",
+    "start": 1553.84,
+    "duration": 3.72
+  },
+  {
+    "text": "the time I joined. Everything from the",
+    "start": 1555.6,
+    "duration": 4.08
+  },
+  {
+    "text": "onboarding to paywall conversion rate",
+    "start": 1557.56,
+    "duration": 3.4
+  },
+  {
+    "text": "like was quite high. They were like",
+    "start": 1559.68,
+    "duration": 3.32
+  },
+  {
+    "text": "above industry standard. And so a lot of",
+    "start": 1560.96,
+    "duration": 4.16
+  },
+  {
+    "text": "my focus like when I joined the team was",
+    "start": 1563,
+    "duration": 4.04
+  },
+  {
+    "text": "focusing on features that would improve",
+    "start": 1565.12,
+    "duration": 4.64
+  },
+  {
+    "text": "retention and get people to",
+    "start": 1567.04,
+    "duration": 5.12
+  },
+  {
+    "text": "stay subscribed through the trial period",
+    "start": 1569.76,
+    "duration": 3.44
+  },
+  {
+    "text": "because they would you know it is a",
+    "start": 1572.16,
+    "duration": 2.72
+  },
+  {
+    "text": "three-day trial period. Ensuring that",
+    "start": 1573.2,
+    "duration": 3.32
+  },
+  {
+    "text": "people have like enough of value that",
+    "start": 1574.88,
+    "duration": 3.12
+  },
+  {
+    "text": "they get throughout that three-day",
+    "start": 1576.52,
+    "duration": 3.44
+  },
+  {
+    "text": "period in order to stay subscribed.",
+    "start": 1578,
+    "duration": 3.68
+  },
+  {
+    "text": ">> Yeah, like you said earlier like the the",
+    "start": 1579.96,
+    "duration": 4.96
+  },
+  {
+    "text": "free trials can give people a chance to",
+    "start": 1581.68,
+    "duration": 4.72
+  },
+  {
+    "text": "try out the app and it's probably higher",
+    "start": 1584.92,
+    "duration": 4.2
+  },
+  {
+    "text": "converting than just a pure paywall, but",
+    "start": 1586.4,
+    "duration": 4.48
+  },
+  {
+    "text": "you're going to lose a lot of people to",
+    "start": 1589.12,
+    "duration": 4.6
+  },
+  {
+    "text": "just trial cancellations unless you show",
+    "start": 1590.88,
+    "duration": 5.6
+  },
+  {
+    "text": "them a ton of value. Overall, it like",
+    "start": 1593.72,
+    "duration": 4.56
+  },
+  {
+    "text": "what is the philosophy for that? Like I",
+    "start": 1596.48,
+    "duration": 3.92
+  },
+  {
+    "text": "imagine if you give too much value, then",
+    "start": 1598.28,
+    "duration": 3.6
+  },
+  {
+    "text": "they just cancel cuz they feel like they",
+    "start": 1600.4,
+    "duration": 3.08
+  },
+  {
+    "text": "got they got everything. But I guess",
+    "start": 1601.88,
+    "duration": 3.4
+  },
+  {
+    "text": "with a app like Calorie Ai, you're",
+    "start": 1603.48,
+    "duration": 4.44
+  },
+  {
+    "text": "supposed to like the the the real value",
+    "start": 1605.28,
+    "duration": 5.6
+  },
+  {
+    "text": "is um you know logging your food every",
+    "start": 1607.92,
+    "duration": 5.28
+  },
+  {
+    "text": "day or you know consistently.",
+    "start": 1610.88,
+    "duration": 5.08
+  },
+  {
+    "text": ">> What what was your like like main,",
+    "start": 1613.2,
+    "duration": 5.64
+  },
+  {
+    "text": "I guess like North Star goal for what to",
+    "start": 1615.96,
+    "duration": 5.04
+  },
+  {
+    "text": "do with the user in those 3 days?",
+    "start": 1618.84,
+    "duration": 4.52
+  },
+  {
+    "text": ">> Yeah, a lot of it was",
+    "start": 1621,
+    "duration": 3.92
+  },
+  {
+    "text": "like classic things that other apps",
+    "start": 1623.36,
+    "duration": 4.04
+  },
+  {
+    "text": "think about when it comes to retention.",
+    "start": 1624.92,
+    "duration": 4.72
+  },
+  {
+    "text": "So, like making the app like less buggy",
+    "start": 1627.4,
+    "duration": 4.52
+  },
+  {
+    "text": "is clearly one of them, but I think",
+    "start": 1629.64,
+    "duration": 3.84
+  },
+  {
+    "text": "improving the core logging experience,",
+    "start": 1631.92,
+    "duration": 3.72
+  },
+  {
+    "text": "like we did like a redesign of like the",
+    "start": 1633.48,
+    "duration": 4.08
+  },
+  {
+    "text": "core screens in the app",
+    "start": 1635.64,
+    "duration": 4.52
+  },
+  {
+    "text": "when it comes to like logging a meal, we",
+    "start": 1637.56,
+    "duration": 4.92
+  },
+  {
+    "text": "redesigned like the food database,",
+    "start": 1640.16,
+    "duration": 5.12
+  },
+  {
+    "text": "um the camera, the food detail page,",
+    "start": 1642.48,
+    "duration": 4.12
+  },
+  {
+    "text": "things that people experience like all",
+    "start": 1645.28,
+    "duration": 3.68
+  },
+  {
+    "text": "the time. Was also thinking about We had",
+    "start": 1646.6,
+    "duration": 4.2
+  },
+  {
+    "text": "saw that there was a lot of clones of",
+    "start": 1648.96,
+    "duration": 4.2
+  },
+  {
+    "text": "Calorie Ai, and so",
+    "start": 1650.8,
+    "duration": 4.08
+  },
+  {
+    "text": "I guess the question is like how do you",
+    "start": 1653.16,
+    "duration": 3.52
+  },
+  {
+    "text": "like create features that",
+    "start": 1654.88,
+    "duration": 3.48
+  },
+  {
+    "text": "would work on Calorie Ai that wouldn't",
+    "start": 1656.68,
+    "duration": 3.84
+  },
+  {
+    "text": "work on any other these clones, as well",
+    "start": 1658.36,
+    "duration": 4.08
+  },
+  {
+    "text": "as like over retention feature. So, like",
+    "start": 1660.52,
+    "duration": 3.4
+  },
+  {
+    "text": "one of the ideas that we had had, which",
+    "start": 1662.44,
+    "duration": 3.52
+  },
+  {
+    "text": "we had shipped um like earlier on when I",
+    "start": 1663.92,
+    "duration": 4.64
+  },
+  {
+    "text": "was when I joined Calorie Ai was a",
+    "start": 1665.96,
+    "duration": 4.6
+  },
+  {
+    "text": "groups feature, like a community feed,",
+    "start": 1668.56,
+    "duration": 4.16
+  },
+  {
+    "text": "where people can join their friends, and",
+    "start": 1670.56,
+    "duration": 4.44
+  },
+  {
+    "text": "then like stay accountable together, and",
+    "start": 1672.72,
+    "duration": 4.84
+  },
+  {
+    "text": "log foods together. So, that was one.",
+    "start": 1675,
+    "duration": 5.08
+  },
+  {
+    "text": "Another one was like streaks. So, making",
+    "start": 1677.56,
+    "duration": 4
+  },
+  {
+    "text": "sure that people would come back on a",
+    "start": 1680.08,
+    "duration": 3.88
+  },
+  {
+    "text": "daily basis to log their meals. Things",
+    "start": 1681.56,
+    "duration": 4.4
+  },
+  {
+    "text": "like from the most retentive apps like",
+    "start": 1683.96,
+    "duration": 4.2
+  },
+  {
+    "text": "Duolingo, the insight for groups was",
+    "start": 1685.96,
+    "duration": 4.36
+  },
+  {
+    "text": "like Strava, and trying to build like a",
+    "start": 1688.16,
+    "duration": 4.08
+  },
+  {
+    "text": "network effect within the app.",
+    "start": 1690.32,
+    "duration": 3.84
+  },
+  {
+    "text": ">> Does Does Calorie Ai have leaderboards?",
+    "start": 1692.24,
+    "duration": 3.84
+  },
+  {
+    "text": ">> Yeah, we have leaderboards on groups.",
+    "start": 1694.16,
+    "duration": 3.6
+  },
+  {
+    "text": "So, you can see like who has the longest",
+    "start": 1696.08,
+    "duration": 3.32
+  },
+  {
+    "text": "streak and things like that.",
+    "start": 1697.76,
+    "duration": 4.64
+  },
+  {
+    "text": ">> Interesting. And do people just get auto",
+    "start": 1699.4,
+    "duration": 4.68
+  },
+  {
+    "text": "added to a group? Are they just always",
+    "start": 1702.4,
+    "duration": 4
+  },
+  {
+    "text": "in a group? Or do you like join specific",
+    "start": 1704.08,
+    "duration": 3.6
+  },
+  {
+    "text": "groups with your friends?",
+    "start": 1706.4,
+    "duration": 3
+  },
+  {
+    "text": ">> Yeah, we started off with specific fruit",
+    "start": 1707.68,
+    "duration": 4.84
+  },
+  {
+    "text": "groups for your friends, and then we",
+    "start": 1709.4,
+    "duration": 5.24
+  },
+  {
+    "text": "later added public groups where you can",
+    "start": 1712.52,
+    "duration": 3.76
+  },
+  {
+    "text": "like see others on the community and",
+    "start": 1714.64,
+    "duration": 2.32
+  },
+  {
+    "text": "what they're doing.",
+    "start": 1716.28,
+    "duration": 3.16
+  },
+  {
+    "text": ">> What What are the groups like based on?",
+    "start": 1716.96,
+    "duration": 4.88
+  },
+  {
+    "text": "Is it like for the public ones? Is it um",
+    "start": 1719.44,
+    "duration": 5.32
+  },
+  {
+    "text": "like around shared interests or",
+    "start": 1721.84,
+    "duration": 4.96
+  },
+  {
+    "text": "demographics or anything? Or is it kind",
+    "start": 1724.76,
+    "duration": 4.52
+  },
+  {
+    "text": "of just the goal is to just get everyone",
+    "start": 1726.8,
+    "duration": 5.12
+  },
+  {
+    "text": "in a group in general so that they have",
+    "start": 1729.28,
+    "duration": 3.84
+  },
+  {
+    "text": "that community feeling?",
+    "start": 1731.92,
+    "duration": 3.04
+  },
+  {
+    "text": ">> Yeah, there's another app like Ladder is",
+    "start": 1733.12,
+    "duration": 3.8
+  },
+  {
+    "text": "another great example of this of an app",
+    "start": 1734.96,
+    "duration": 4.72
+  },
+  {
+    "text": "that has groups. Is we like I had seen",
+    "start": 1736.92,
+    "duration": 3.96
+  },
+  {
+    "text": "that like a lot of people will ask",
+    "start": 1739.68,
+    "duration": 2.92
+  },
+  {
+    "text": "questions related to like specific",
+    "start": 1740.88,
+    "duration": 5.24
+  },
+  {
+    "text": "topics. So, say for example on Calia you",
+    "start": 1742.6,
+    "duration": 6.2
+  },
+  {
+    "text": "can ask questions for with other people",
+    "start": 1746.12,
+    "duration": 5.2
+  },
+  {
+    "text": "who are wanting to lose weight. And then",
+    "start": 1748.8,
+    "duration": 3.76
+  },
+  {
+    "text": "you can join a group that are people",
+    "start": 1751.32,
+    "duration": 3.36
+  },
+  {
+    "text": "that are wanting to bulk up and gain",
+    "start": 1752.56,
+    "duration": 3.48
+  },
+  {
+    "text": "muscle. There's different groups for",
+    "start": 1754.68,
+    "duration": 3.24
+  },
+  {
+    "text": "that. Also like groups that where you",
+    "start": 1756.04,
+    "duration": 3.92
+  },
+  {
+    "text": "can share recipes and meal prep, things",
+    "start": 1757.92,
+    "duration": 2.8
+  },
+  {
+    "text": "like that.",
+    "start": 1759.96,
+    "duration": 2.08
+  },
+  {
+    "text": ">> So, that that's a you're you're sort of",
+    "start": 1760.72,
+    "duration": 2.72
+  },
+  {
+    "text": "like building a social network a little",
+    "start": 1762.04,
+    "duration": 4.32
+  },
+  {
+    "text": "bit. It's this that seems like a a a big",
+    "start": 1763.44,
+    "duration": 3.96
+  },
+  {
+    "text": "product challenge.",
+    "start": 1766.36,
+    "duration": 2.6
+  },
+  {
+    "text": ">> Yeah, I think it's a mixture of like",
+    "start": 1767.4,
+    "duration": 3.28
+  },
+  {
+    "text": "trying to get retention working, but",
+    "start": 1768.96,
+    "duration": 2.96
+  },
+  {
+    "text": "also",
+    "start": 1770.68,
+    "duration": 2.68
+  },
+  {
+    "text": "like product led growth. And so, you'll",
+    "start": 1771.92,
+    "duration": 2.76
+  },
+  {
+    "text": "see like in the other screenshot on the",
+    "start": 1773.36,
+    "duration": 3
+  },
+  {
+    "text": "right there was like up being up the",
+    "start": 1774.68,
+    "duration": 3.72
+  },
+  {
+    "text": "upload progress photos. Not only do we",
+    "start": 1776.36,
+    "duration": 3.88
+  },
+  {
+    "text": "get people we get people like to take",
+    "start": 1778.4,
+    "duration": 3.76
+  },
+  {
+    "text": "pictures and they can upload it to like",
+    "start": 1780.24,
+    "duration": 3.8
+  },
+  {
+    "text": "Instagram their Instagram story and show",
+    "start": 1782.16,
+    "duration": 3.6
+  },
+  {
+    "text": "off like how many how much weight did",
+    "start": 1784.04,
+    "duration": 2.84
+  },
+  {
+    "text": "they lose or how much weight did they",
+    "start": 1785.76,
+    "duration": 2.48
+  },
+  {
+    "text": "gain.",
+    "start": 1786.88,
+    "duration": 3.32
+  },
+  {
+    "text": "And so, we get a lot of people like",
+    "start": 1788.24,
+    "duration": 3.92
+  },
+  {
+    "text": "uploading that to social media. We also",
+    "start": 1790.2,
+    "duration": 3.8
+  },
+  {
+    "text": "get a lot of people uploading",
+    "start": 1792.16,
+    "duration": 4.36
+  },
+  {
+    "text": "their actual meals and the calories and",
+    "start": 1794,
+    "duration": 4.24
+  },
+  {
+    "text": "like showing that they tracked it with",
+    "start": 1796.52,
+    "duration": 4.52
+  },
+  {
+    "text": "Calia. Another like product led feature",
+    "start": 1798.24,
+    "duration": 4.72
+  },
+  {
+    "text": "for growth was",
+    "start": 1801.04,
+    "duration": 3.92
+  },
+  {
+    "text": "like milestones where you can like get",
+    "start": 1802.96,
+    "duration": 3.64
+  },
+  {
+    "text": "badges for like the number of days you",
+    "start": 1804.96,
+    "duration": 4.16
+  },
+  {
+    "text": "logged in a row. So, say you log like a",
+    "start": 1806.6,
+    "duration": 4.52
+  },
+  {
+    "text": "full year of days",
+    "start": 1809.12,
+    "duration": 3.64
+  },
+  {
+    "text": "every single day, then you can like post",
+    "start": 1811.12,
+    "duration": 2.56
+  },
+  {
+    "text": "that on your story.",
+    "start": 1812.76,
+    "duration": 2.16
+  },
+  {
+    "text": ">> That's cool. So, you're you're you're",
+    "start": 1813.68,
+    "duration": 3.44
+  },
+  {
+    "text": "hoping that people will post that on",
+    "start": 1814.92,
+    "duration": 3.52
+  },
+  {
+    "text": "their Instagram story.",
+    "start": 1817.12,
+    "duration": 2.88
+  },
+  {
+    "text": ">> So, these are like all the all different",
+    "start": 1818.44,
+    "duration": 3.08
+  },
+  {
+    "text": "ideas we've tried. Yeah.",
+    "start": 1820,
+    "duration": 3
+  },
+  {
+    "text": ">> What what is it like working with a",
+    "start": 1821.52,
+    "duration": 3.2
+  },
+  {
+    "text": "team? Like uh",
+    "start": 1823,
+    "duration": 3.04
+  },
+  {
+    "text": "I mean, you've you've done a bunch of",
+    "start": 1824.72,
+    "duration": 2.64
+  },
+  {
+    "text": "different things. Like you've been at",
+    "start": 1826.04,
+    "duration": 3.16
+  },
+  {
+    "text": "your own startup, you've been at pretty",
+    "start": 1827.36,
+    "duration": 3.48
+  },
+  {
+    "text": "large companies,",
+    "start": 1829.2,
+    "duration": 4.2
+  },
+  {
+    "text": "um other entrepreneurial things. What is",
+    "start": 1830.84,
+    "duration": 5.64
+  },
+  {
+    "text": "it like like being at a a scrappy like",
+    "start": 1833.4,
+    "duration": 6.36
+  },
+  {
+    "text": "fast-growing startup like Calia. But I",
+    "start": 1836.48,
+    "duration": 5.48
+  },
+  {
+    "text": "say startup, but it's like I don't even",
+    "start": 1839.76,
+    "duration": 3.44
+  },
+  {
+    "text": "know if you would call it a startup.",
+    "start": 1841.96,
+    "duration": 3.16
+  },
+  {
+    "text": "It's like you know, like it's like a you",
+    "start": 1843.2,
+    "duration": 5.56
+  },
+  {
+    "text": "guys are bootstrapped. Um but you seems",
+    "start": 1845.12,
+    "duration": 5.36
+  },
+  {
+    "text": "like you kind of operate like a startup.",
+    "start": 1848.76,
+    "duration": 3.28
+  },
+  {
+    "text": ">> I think that that's what probably the",
+    "start": 1850.48,
+    "duration": 3.76
+  },
+  {
+    "text": "biggest takeaway from Cal-I is the",
+    "start": 1852.04,
+    "duration": 5.28
+  },
+  {
+    "text": "co-founders. They they all talk about",
+    "start": 1854.24,
+    "duration": 4.88
+  },
+  {
+    "text": "like moving with speed and being very",
+    "start": 1857.32,
+    "duration": 3.48
+  },
+  {
+    "text": "fast. It's actually like a lesson I've",
+    "start": 1859.12,
+    "duration": 3.8
+  },
+  {
+    "text": "learned from",
+    "start": 1860.8,
+    "duration": 3.76
+  },
+  {
+    "text": "other teams I've been a part of. I think",
+    "start": 1862.92,
+    "duration": 3.2
+  },
+  {
+    "text": "he said something about how human",
+    "start": 1864.56,
+    "duration": 4.12
+  },
+  {
+    "text": "motivation only lasts like about 2",
+    "start": 1866.12,
+    "duration": 3.76
+  },
+  {
+    "text": "weeks.",
+    "start": 1868.68,
+    "duration": 2.56
+  },
+  {
+    "text": "So, like if you have like this insight",
+    "start": 1869.88,
+    "duration": 3.12
+  },
+  {
+    "text": "to work on this like new feature, human",
+    "start": 1871.24,
+    "duration": 3.36
+  },
+  {
+    "text": "motivation only lasts for like 2 weeks",
+    "start": 1873,
+    "duration": 3.36
+  },
+  {
+    "text": "to work on it and like really full it",
+    "start": 1874.6,
+    "duration": 3.12
+  },
+  {
+    "text": "like finish it. That's another thing I",
+    "start": 1876.36,
+    "duration": 3.6
+  },
+  {
+    "text": "saw like at Robinhood too is like",
+    "start": 1877.72,
+    "duration": 4.24
+  },
+  {
+    "text": "we launched Robinhood Crypto, which like",
+    "start": 1879.96,
+    "duration": 4.08
+  },
+  {
+    "text": "got went really viral when I was there.",
+    "start": 1881.96,
+    "duration": 6
+  },
+  {
+    "text": "And that product went from idea to being",
+    "start": 1884.04,
+    "duration": 5.8
+  },
+  {
+    "text": "launched within a matter of a month,",
+    "start": 1887.96,
+    "duration": 4.24
+  },
+  {
+    "text": "which was pretty fast in comparison to",
+    "start": 1889.84,
+    "duration": 4.6
+  },
+  {
+    "text": "like most big companies. And so, I think",
+    "start": 1892.2,
+    "duration": 3.88
+  },
+  {
+    "text": "that's like probably the biggest",
+    "start": 1894.44,
+    "duration": 3.96
+  },
+  {
+    "text": "takeaway is like once you have like a",
+    "start": 1896.08,
+    "duration": 3.64
+  },
+  {
+    "text": "big project where you can get like the",
+    "start": 1898.4,
+    "duration": 2.88
+  },
+  {
+    "text": "whole company to rally behind, I think",
+    "start": 1899.72,
+    "duration": 3.56
+  },
+  {
+    "text": "being able to move fast is",
+    "start": 1901.28,
+    "duration": 3.12
+  },
+  {
+    "text": "a key differentiator.",
+    "start": 1903.28,
+    "duration": 3
+  },
+  {
+    "text": ">> I'm curious, what did you do? What was",
+    "start": 1904.4,
+    "duration": 3.36
+  },
+  {
+    "text": "your role in the",
+    "start": 1906.28,
+    "duration": 2.8
+  },
+  {
+    "text": "crypto rollout?",
+    "start": 1907.76,
+    "duration": 3.36
+  },
+  {
+    "text": ">> Yeah, I worked on like the trade flow",
+    "start": 1909.08,
+    "duration": 3.84
+  },
+  {
+    "text": "experience. But like other designers",
+    "start": 1911.12,
+    "duration": 3.28
+  },
+  {
+    "text": "like worked on like the branding here",
+    "start": 1912.92,
+    "duration": 2.52
+  },
+  {
+    "text": "and things like that.",
+    "start": 1914.4,
+    "duration": 3.08
+  },
+  {
+    "text": ">> I I'm curious about Snap, too, cuz I've",
+    "start": 1915.44,
+    "duration": 3.56
+  },
+  {
+    "text": "I've met some",
+    "start": 1917.48,
+    "duration": 4.44
+  },
+  {
+    "text": "designers from Snap, and they're always",
+    "start": 1919,
+    "duration": 4.52
+  },
+  {
+    "text": "it's always interesting to meet a",
+    "start": 1921.92,
+    "duration": 4.64
+  },
+  {
+    "text": "designer from Snap. I feel like the the",
+    "start": 1923.52,
+    "duration": 4.08
+  },
+  {
+    "text": "like",
+    "start": 1926.56,
+    "duration": 3.56
+  },
+  {
+    "text": "design org",
+    "start": 1927.6,
+    "duration": 4.04
+  },
+  {
+    "text": "at various parts of Snap is very",
+    "start": 1930.12,
+    "duration": 3.56
+  },
+  {
+    "text": "interesting. And it seems like you were",
+    "start": 1931.64,
+    "duration": 3.64
+  },
+  {
+    "text": "at a pretty interesting role, too, where",
+    "start": 1933.68,
+    "duration": 3.64
+  },
+  {
+    "text": "you building like new platforms and like",
+    "start": 1935.28,
+    "duration": 3.68
+  },
+  {
+    "text": "new things.",
+    "start": 1937.32,
+    "duration": 4.08
+  },
+  {
+    "text": "Did you learn a lot about design from",
+    "start": 1938.96,
+    "duration": 3.16
+  },
+  {
+    "text": "Snap?",
+    "start": 1941.4,
+    "duration": 3.6
+  },
+  {
+    "text": ">> Yeah, I'd say Snapchat is the complete",
+    "start": 1942.12,
+    "duration": 4.92
+  },
+  {
+    "text": "opposite from when I",
+    "start": 1945,
+    "duration": 4.64
+  },
+  {
+    "text": "uh spent time at Meta. So, Meta is like",
+    "start": 1947.04,
+    "duration": 5.04
+  },
+  {
+    "text": "very data-driven. Um people think about",
+    "start": 1949.64,
+    "duration": 3.8
+  },
+  {
+    "text": "a lot of AB testing. I mean, I was on",
+    "start": 1952.08,
+    "duration": 3.2
+  },
+  {
+    "text": "the growth team, so it made sense. But",
+    "start": 1953.44,
+    "duration": 4.16
+  },
+  {
+    "text": "at Snap, I'd say",
+    "start": 1955.28,
+    "duration": 4.56
+  },
+  {
+    "text": "it was different being that I think the",
+    "start": 1957.6,
+    "duration": 3.92
+  },
+  {
+    "text": "the company leans a lot more towards",
+    "start": 1959.84,
+    "duration": 4.72
+  },
+  {
+    "text": "like an intuitive feeling on features.",
+    "start": 1961.52,
+    "duration": 4.64
+  },
+  {
+    "text": "So, I mean, they were the team that came",
+    "start": 1964.56,
+    "duration": 3.48
+  },
+  {
+    "text": "up with stories. And so, they think",
+    "start": 1966.16,
+    "duration": 3.2
+  },
+  {
+    "text": "about like the psychology behind",
+    "start": 1968.04,
+    "duration": 3.16
+  },
+  {
+    "text": "features a lot more and like a lot we",
+    "start": 1969.36,
+    "duration": 3.8
+  },
+  {
+    "text": "have like discussions and things like",
+    "start": 1971.2,
+    "duration": 3.96
+  },
+  {
+    "text": "that when working on new features. And",
+    "start": 1973.16,
+    "duration": 4.08
+  },
+  {
+    "text": "the design team at Snap is quite small",
+    "start": 1975.16,
+    "duration": 3.52
+  },
+  {
+    "text": "as well, I think. Even though there's",
+    "start": 1977.24,
+    "duration": 3.4
+  },
+  {
+    "text": "like thousands of employees, I think the",
+    "start": 1978.68,
+    "duration": 4.16
+  },
+  {
+    "text": "core product design team was like only",
+    "start": 1980.64,
+    "duration": 4
+  },
+  {
+    "text": "like like 10 or 15 people.",
+    "start": 1982.84,
+    "duration": 3.24
+  },
+  {
+    "text": ">> I feel like that",
+    "start": 1984.64,
+    "duration": 3.6
+  },
+  {
+    "text": "like when people see a really",
+    "start": 1986.08,
+    "duration": 4.12
+  },
+  {
+    "text": "well-designed app, it's just sort of",
+    "start": 1988.24,
+    "duration": 3.76
+  },
+  {
+    "text": "like a I don't know. It's just like this",
+    "start": 1990.2,
+    "duration": 4.96
+  },
+  {
+    "text": "gut feeling where you just know oh, this",
+    "start": 1992,
+    "duration": 5.16
+  },
+  {
+    "text": "is like this is well-designed. It just",
+    "start": 1995.16,
+    "duration": 4.6
+  },
+  {
+    "text": "feels good. And I can't Personally, I",
+    "start": 1997.16,
+    "duration": 5.04
+  },
+  {
+    "text": "can't always pinpoint like exactly like",
+    "start": 1999.76,
+    "duration": 4.32
+  },
+  {
+    "text": "what it is it about the app that makes",
+    "start": 2002.2,
+    "duration": 3.92
+  },
+  {
+    "text": "it like well-designed. Sway is",
+    "start": 2004.08,
+    "duration": 4.08
+  },
+  {
+    "text": "definitely one of those apps for me",
+    "start": 2006.12,
+    "duration": 4.16
+  },
+  {
+    "text": "personally. Like I just it just feels",
+    "start": 2008.16,
+    "duration": 4.92
+  },
+  {
+    "text": "well-designed. And then Caly AI, of",
+    "start": 2010.28,
+    "duration": 5.52
+  },
+  {
+    "text": "course, is also well-designed. But, I",
+    "start": 2013.08,
+    "duration": 4.28
+  },
+  {
+    "text": "mean, you can see it in your background.",
+    "start": 2015.8,
+    "duration": 3.8
+  },
+  {
+    "text": "Like Snap, Robinhood, like these are all",
+    "start": 2017.36,
+    "duration": 4.52
+  },
+  {
+    "text": "very like very tasteful like",
+    "start": 2019.6,
+    "duration": 4.88
+  },
+  {
+    "text": "mobile experiences. I want to figure out",
+    "start": 2021.88,
+    "duration": 4.48
+  },
+  {
+    "text": "like what is what's in your brain? Like",
+    "start": 2024.48,
+    "duration": 4.68
+  },
+  {
+    "text": "how do you get like your design taste?",
+    "start": 2026.36,
+    "duration": 4.76
+  },
+  {
+    "text": "Is there And I guess like is there I",
+    "start": 2029.16,
+    "duration": 3.76
+  },
+  {
+    "text": "mean, obviously like it it's just like",
+    "start": 2031.12,
+    "duration": 4.72
+  },
+  {
+    "text": "partly it's like the experience of",
+    "start": 2032.92,
+    "duration": 6
+  },
+  {
+    "text": "just spending time with these",
+    "start": 2035.84,
+    "duration": 5.48
+  },
+  {
+    "text": "uh with these companies",
+    "start": 2038.92,
+    "duration": 3.16
+  },
+  {
+    "text": "um",
+    "start": 2041.32,
+    "duration": 2.44
+  },
+  {
+    "text": "and working with them. But, I'm also",
+    "start": 2042.08,
+    "duration": 3.52
+  },
+  {
+    "text": "just curious about like your day-to-day",
+    "start": 2043.76,
+    "duration": 4.56
+  },
+  {
+    "text": "and your like personal philosophy or",
+    "start": 2045.6,
+    "duration": 6
+  },
+  {
+    "text": "routines um for spending time with like",
+    "start": 2048.32,
+    "duration": 5.72
+  },
+  {
+    "text": "great design and curating that taste.",
+    "start": 2051.6,
+    "duration": 3.96
+  },
+  {
+    "text": ">> I think trying to have like building",
+    "start": 2054.04,
+    "duration": 3.76
+  },
+  {
+    "text": "like a mood board of things that you",
+    "start": 2055.56,
+    "duration": 4.359
+  },
+  {
+    "text": "think are like great designs. So, like I",
+    "start": 2057.8,
+    "duration": 3.96
+  },
+  {
+    "text": "have I save like all the apps that I",
+    "start": 2059.919,
+    "duration": 4.041
+  },
+  {
+    "text": "think are like really well-designed",
+    "start": 2061.76,
+    "duration": 4.8
+  },
+  {
+    "text": "and will constantly like go back to them",
+    "start": 2063.96,
+    "duration": 4.48
+  },
+  {
+    "text": "and look at them and",
+    "start": 2066.56,
+    "duration": 3.72
+  },
+  {
+    "text": "think about like what makes them much",
+    "start": 2068.44,
+    "duration": 3.8
+  },
+  {
+    "text": "better. And like see how I can like get",
+    "start": 2070.28,
+    "duration": 3.599
+  },
+  {
+    "text": "inspiration from them, but I think like",
+    "start": 2072.24,
+    "duration": 3.159
+  },
+  {
+    "text": "one lesson I actually got from Robinhood",
+    "start": 2073.879,
+    "duration": 2.601
+  },
+  {
+    "text": "when we're working on the Robinhood",
+    "start": 2075.399,
+    "duration": 3.201
+  },
+  {
+    "text": "crypto feature, which is like so long so",
+    "start": 2076.48,
+    "duration": 4.04
+  },
+  {
+    "text": "long ago, but I think still sits with me",
+    "start": 2078.6,
+    "duration": 4.84
+  },
+  {
+    "text": "is how much the team thought about like",
+    "start": 2080.52,
+    "duration": 4.24
+  },
+  {
+    "text": "branding",
+    "start": 2083.44,
+    "duration": 2.92
+  },
+  {
+    "text": "and",
+    "start": 2084.76,
+    "duration": 2.96
+  },
+  {
+    "text": "I mean, I don't think I'm like the like",
+    "start": 2086.36,
+    "duration": 3.2
+  },
+  {
+    "text": "great at branding, but I think like the",
+    "start": 2087.72,
+    "duration": 4.8
+  },
+  {
+    "text": "idea of like being very intentional with",
+    "start": 2089.56,
+    "duration": 4.28
+  },
+  {
+    "text": "coming up with like lots of different",
+    "start": 2092.52,
+    "duration": 2.879
+  },
+  {
+    "text": "variations",
+    "start": 2093.84,
+    "duration": 2.839
+  },
+  {
+    "text": "and",
+    "start": 2095.399,
+    "duration": 4.281
+  },
+  {
+    "text": "I think it helps with growth a lot if",
+    "start": 2096.679,
+    "duration": 5.041
+  },
+  {
+    "text": "you can have a product that",
+    "start": 2099.68,
+    "duration": 3.96
+  },
+  {
+    "text": "looks unique from anything else that",
+    "start": 2101.72,
+    "duration": 3.88
+  },
+  {
+    "text": "exists on the market.",
+    "start": 2103.64,
+    "duration": 4.24
+  },
+  {
+    "text": "P It'll stand out and people will be",
+    "start": 2105.6,
+    "duration": 3.96
+  },
+  {
+    "text": "more curious to try it out. And I think",
+    "start": 2107.88,
+    "duration": 2.76
+  },
+  {
+    "text": "that's what happened with Robinhood",
+    "start": 2109.56,
+    "duration": 2.76
+  },
+  {
+    "text": "crypto is cuz there was a lot of other",
+    "start": 2110.64,
+    "duration": 4.28
+  },
+  {
+    "text": "crypto apps that had existed at the time",
+    "start": 2112.32,
+    "duration": 4.36
+  },
+  {
+    "text": "but nothing had looked quite like this.",
+    "start": 2114.92,
+    "duration": 3.56
+  },
+  {
+    "text": "They were a lot They looked a lot more",
+    "start": 2116.68,
+    "duration": 4.28
+  },
+  {
+    "text": "like, you know, Coinbase is one example",
+    "start": 2118.48,
+    "duration": 3.92
+  },
+  {
+    "text": "or is more of like a banking product,",
+    "start": 2120.96,
+    "duration": 3.56
+  },
+  {
+    "text": "whereas this looks more like a looks",
+    "start": 2122.4,
+    "duration": 3.88
+  },
+  {
+    "text": "like a video game almost. I think being",
+    "start": 2124.52,
+    "duration": 2.88
+  },
+  {
+    "text": "able to think of it like that, like",
+    "start": 2126.28,
+    "duration": 2.6
+  },
+  {
+    "text": "what's going to catch people's attention",
+    "start": 2127.4,
+    "duration": 2.64
+  },
+  {
+    "text": "is a good way to",
+    "start": 2128.88,
+    "duration": 2.4
+  },
+  {
+    "text": ">> thinking about it when it comes to",
+    "start": 2130.04,
+    "duration": 1.76
+  },
+  {
+    "text": "branding.",
+    "start": 2131.28,
+    "duration": 2.68
+  },
+  {
+    "text": ">> Do you use that at all with Calorie Ai?",
+    "start": 2131.8,
+    "duration": 3.84
+  },
+  {
+    "text": "Like There There's some aspects of it",
+    "start": 2133.96,
+    "duration": 2.72
+  },
+  {
+    "text": "where it like doesn't feel like a",
+    "start": 2135.64,
+    "duration": 2.96
+  },
+  {
+    "text": "calorie tracker, you know? It like feels",
+    "start": 2136.68,
+    "duration": 4.76
+  },
+  {
+    "text": "very sleek. The scanner itself you know,",
+    "start": 2138.6,
+    "duration": 6.2
+  },
+  {
+    "text": "is a a a novel feature compared to uh",
+    "start": 2141.44,
+    "duration": 5.32
+  },
+  {
+    "text": "the existing calorie trackers that were",
+    "start": 2144.8,
+    "duration": 4.36
+  },
+  {
+    "text": "out before Calorie Ai existed. But are",
+    "start": 2146.76,
+    "duration": 4.24
+  },
+  {
+    "text": "you are you trying to be like on the",
+    "start": 2149.16,
+    "duration": 4.48
+  },
+  {
+    "text": "edge in in the in the way that you",
+    "start": 2151,
+    "duration": 4.96
+  },
+  {
+    "text": "described with Robinhood crypto or are",
+    "start": 2153.64,
+    "duration": 7.16
+  },
+  {
+    "text": "you trying to be more like minimal and",
+    "start": 2155.96,
+    "duration": 7.12
+  },
+  {
+    "text": "not stand out like too much?",
+    "start": 2160.8,
+    "duration": 3.88
+  },
+  {
+    "text": ">> Yeah, I think the way the main thing I'm",
+    "start": 2163.08,
+    "duration": 3.48
+  },
+  {
+    "text": "thinking about like for Calorie Ai is",
+    "start": 2164.68,
+    "duration": 3.64
+  },
+  {
+    "text": "like making sure it's like really simple",
+    "start": 2166.56,
+    "duration": 4.48
+  },
+  {
+    "text": "to understand because the main way that",
+    "start": 2168.32,
+    "duration": 4.88
+  },
+  {
+    "text": "Calorie Ai grows as you know, is like",
+    "start": 2171.04,
+    "duration": 4.2
+  },
+  {
+    "text": "through influencer marketing. And so,",
+    "start": 2173.2,
+    "duration": 3.68
+  },
+  {
+    "text": "the app needs to be like really clear",
+    "start": 2175.24,
+    "duration": 3.48
+  },
+  {
+    "text": "like what's happening. We every single",
+    "start": 2176.88,
+    "duration": 4.36
+  },
+  {
+    "text": "video that influencers post, they show",
+    "start": 2178.72,
+    "duration": 4.64
+  },
+  {
+    "text": "three core screens, which is like the",
+    "start": 2181.24,
+    "duration": 5.4
+  },
+  {
+    "text": "the camera, the loading screen, and the",
+    "start": 2183.36,
+    "duration": 5.2
+  },
+  {
+    "text": "food detail page. If you look at those",
+    "start": 2186.64,
+    "duration": 4
+  },
+  {
+    "text": "videos, it needs to be pretty clear like",
+    "start": 2188.56,
+    "duration": 4.04
+  },
+  {
+    "text": "what is the app doing",
+    "start": 2190.64,
+    "duration": 3.8
+  },
+  {
+    "text": "and like how it works. And I think",
+    "start": 2192.6,
+    "duration": 2.72
+  },
+  {
+    "text": "that's like something that we have",
+    "start": 2194.44,
+    "duration": 2.48
+  },
+  {
+    "text": "worked on a lot as well, which is like",
+    "start": 2195.32,
+    "duration": 3.96
+  },
+  {
+    "text": "how do we make that like those three",
+    "start": 2196.92,
+    "duration": 4.56
+  },
+  {
+    "text": "three screens as like easy to understand",
+    "start": 2199.28,
+    "duration": 3.08
+  },
+  {
+    "text": "as possible.",
+    "start": 2201.48,
+    "duration": 2.92
+  },
+  {
+    "text": ">> So, is this the three screens? It's like",
+    "start": 2202.36,
+    "duration": 5
+  },
+  {
+    "text": "the scan and then the home page where",
+    "start": 2204.4,
+    "duration": 4.72
+  },
+  {
+    "text": "you see all the calories and then the",
+    "start": 2207.36,
+    "duration": 3.8
+  },
+  {
+    "text": "the logging where you adjust the the",
+    "start": 2209.12,
+    "duration": 2.64
+  },
+  {
+    "text": "numbers.",
+    "start": 2211.16,
+    "duration": 1.96
+  },
+  {
+    "text": ">> Yeah, exactly. Yeah.",
+    "start": 2211.76,
+    "duration": 2.84
+  },
+  {
+    "text": ">> Yeah, it is very clear. Is that",
+    "start": 2213.12,
+    "duration": 3.4
+  },
+  {
+    "text": "different than how you approach Sway",
+    "start": 2214.6,
+    "duration": 2.56
+  },
+  {
+    "text": "design?",
+    "start": 2216.52,
+    "duration": 2.12
+  },
+  {
+    "text": ">> Yeah, I mean Sway was different being",
+    "start": 2217.16,
+    "duration": 3.8
+  },
+  {
+    "text": "that we didn't really try and grow with",
+    "start": 2218.64,
+    "duration": 4.68
+  },
+  {
+    "text": "influencers where of them using the app",
+    "start": 2220.96,
+    "duration": 3.24
+  },
+  {
+    "text": "because it just didn't really make",
+    "start": 2223.32,
+    "duration": 2.24
+  },
+  {
+    "text": "sense.",
+    "start": 2224.2,
+    "duration": 3.4
+  },
+  {
+    "text": "But with Calorie Ai, it was people need",
+    "start": 2225.56,
+    "duration": 4.56
+  },
+  {
+    "text": "to show themselves using using the app.",
+    "start": 2227.6,
+    "duration": 3.84
+  },
+  {
+    "text": "It's actually like if I were to like",
+    "start": 2230.12,
+    "duration": 3.28
+  },
+  {
+    "text": "work on like a new app idea, it's kind",
+    "start": 2231.44,
+    "duration": 4
+  },
+  {
+    "text": "of how I would think about it as well is",
+    "start": 2233.4,
+    "duration": 3.76
+  },
+  {
+    "text": "the app idea needs to be really easy to",
+    "start": 2235.44,
+    "duration": 3.52
+  },
+  {
+    "text": "understand on social media. I know",
+    "start": 2237.16,
+    "duration": 3.36
+  },
+  {
+    "text": "there's like a few things that makes up",
+    "start": 2238.96,
+    "duration": 3.6
+  },
+  {
+    "text": "a good app idea which I've been like",
+    "start": 2240.52,
+    "duration": 4.32
+  },
+  {
+    "text": "trying to like piece together from",
+    "start": 2242.56,
+    "duration": 4
+  },
+  {
+    "text": "looking at Calorie Ai, I think from the",
+    "start": 2244.84,
+    "duration": 3.32
+  },
+  {
+    "text": "product side, I think it comes down to",
+    "start": 2246.56,
+    "duration": 3.44
+  },
+  {
+    "text": "being like simple and easy to understand",
+    "start": 2248.16,
+    "duration": 3.88
+  },
+  {
+    "text": "in marketing videos. Then another piece",
+    "start": 2250,
+    "duration": 4.84
+  },
+  {
+    "text": "is working on a novel app idea.",
+    "start": 2252.04,
+    "duration": 4.76
+  },
+  {
+    "text": "So, I think like with Calorie Ai, it was",
+    "start": 2254.84,
+    "duration": 3.2
+  },
+  {
+    "text": "taking a picture and counting the",
+    "start": 2256.8,
+    "duration": 2.88
+  },
+  {
+    "text": "calories. It's like very unique and",
+    "start": 2258.04,
+    "duration": 3.12
+  },
+  {
+    "text": "there's no other app at that at that",
+    "start": 2259.68,
+    "duration": 3.2
+  },
+  {
+    "text": "time that was really doing that at a",
+    "start": 2261.16,
+    "duration": 3.36
+  },
+  {
+    "text": "large scale. And I think that helps with",
+    "start": 2262.88,
+    "duration": 3.64
+  },
+  {
+    "text": "like fast growth is like these novel",
+    "start": 2264.52,
+    "duration": 4.72
+  },
+  {
+    "text": "ideas. And then I think the apps that",
+    "start": 2266.52,
+    "duration": 4.4
+  },
+  {
+    "text": "will sustain and have durable growth",
+    "start": 2269.24,
+    "duration": 3.56
+  },
+  {
+    "text": "over time like, you know, the scale that",
+    "start": 2270.92,
+    "duration": 3.56
+  },
+  {
+    "text": "Calorie Ai is at now",
+    "start": 2272.8,
+    "duration": 4.16
+  },
+  {
+    "text": "is if it's in a big market. And so,",
+    "start": 2274.48,
+    "duration": 4.2
+  },
+  {
+    "text": "calorie tracking's in such a big market",
+    "start": 2276.96,
+    "duration": 3.6
+  },
+  {
+    "text": "now. Like calorie tracking like",
+    "start": 2278.68,
+    "duration": 3.96
+  },
+  {
+    "text": "MyFitnessPal is a massive company and",
+    "start": 2280.56,
+    "duration": 4
+  },
+  {
+    "text": "so, I think if you can come up with an",
+    "start": 2282.64,
+    "duration": 5.4
+  },
+  {
+    "text": "idea that has those aspects of being a",
+    "start": 2284.56,
+    "duration": 6.52
+  },
+  {
+    "text": "novel idea, like easy to understand, and",
+    "start": 2288.04,
+    "duration": 4.92
+  },
+  {
+    "text": "in a big market, I think those are like",
+    "start": 2291.08,
+    "duration": 3.16
+  },
+  {
+    "text": "good ways of thinking about it.",
+    "start": 2292.96,
+    "duration": 2.92
+  },
+  {
+    "text": ">> Do you think as like",
+    "start": 2294.24,
+    "duration": 3.32
+  },
+  {
+    "text": "for for new apps, do you think it's",
+    "start": 2295.88,
+    "duration": 5.08
+  },
+  {
+    "text": "better to look in categories that don't",
+    "start": 2297.56,
+    "duration": 5.92
+  },
+  {
+    "text": "have as much innovation or go for",
+    "start": 2300.96,
+    "duration": 5.24
+  },
+  {
+    "text": "categories that already have a bunch of",
+    "start": 2303.48,
+    "duration": 4.92
+  },
+  {
+    "text": "new startups trying to tackle like the",
+    "start": 2306.2,
+    "duration": 4.04
+  },
+  {
+    "text": "same innovation. Like for example, like",
+    "start": 2308.4,
+    "duration": 3.44
+  },
+  {
+    "text": "you know, calorie tracking was a pretty",
+    "start": 2310.24,
+    "duration": 4.04
+  },
+  {
+    "text": "old space. Like nobody was really in it",
+    "start": 2311.84,
+    "duration": 4.72
+  },
+  {
+    "text": "or like no new people were really in it",
+    "start": 2314.28,
+    "duration": 5.16
+  },
+  {
+    "text": "until Calia. Versus something like AI",
+    "start": 2316.56,
+    "duration": 5.8
+  },
+  {
+    "text": "therapy is like everyone's just like",
+    "start": 2319.44,
+    "duration": 4.6
+  },
+  {
+    "text": "buzzing an app for AI therapy and like",
+    "start": 2322.36,
+    "duration": 2.88
+  },
+  {
+    "text": "trying to",
+    "start": 2324.04,
+    "duration": 2.8
+  },
+  {
+    "text": "tackle that because it's just inherently",
+    "start": 2325.24,
+    "duration": 3.52
+  },
+  {
+    "text": "like a novel experience. Do you have a",
+    "start": 2326.84,
+    "duration": 4.32
+  },
+  {
+    "text": "preference for what types of markets you",
+    "start": 2328.76,
+    "duration": 3.52
+  },
+  {
+    "text": "would want to enter?",
+    "start": 2331.16,
+    "duration": 2.8
+  },
+  {
+    "text": ">> Yeah, that's a good question. I think",
+    "start": 2332.28,
+    "duration": 3.96
+  },
+  {
+    "text": "the benefit of going with a",
+    "start": 2333.96,
+    "duration": 4.56
+  },
+  {
+    "text": "a market that's already established is",
+    "start": 2336.24,
+    "duration": 3.92
+  },
+  {
+    "text": "you know it's a problem that people want",
+    "start": 2338.52,
+    "duration": 3.84
+  },
+  {
+    "text": "solved. Whereas if you go into AI like",
+    "start": 2340.16,
+    "duration": 4.04
+  },
+  {
+    "text": "AI therapy idea, like you don't know",
+    "start": 2342.36,
+    "duration": 2.8
+  },
+  {
+    "text": "whether people are actually going to",
+    "start": 2344.2,
+    "duration": 3.28
+  },
+  {
+    "text": "want this problem solved. But if you",
+    "start": 2345.16,
+    "duration": 4.28
+  },
+  {
+    "text": "have anecdotal evidence of like another",
+    "start": 2347.48,
+    "duration": 4.2
+  },
+  {
+    "text": "big app, I think that's a helpful",
+    "start": 2349.44,
+    "duration": 4.36
+  },
+  {
+    "text": "indicator that this is something that",
+    "start": 2351.68,
+    "duration": 3.96
+  },
+  {
+    "text": "people will want. And then applying a",
+    "start": 2353.8,
+    "duration": 4.52
+  },
+  {
+    "text": "novel idea in that existing niche that's",
+    "start": 2355.64,
+    "duration": 4.44
+  },
+  {
+    "text": "already really popular, I think that's",
+    "start": 2358.32,
+    "duration": 3.16
+  },
+  {
+    "text": "probably like the better way of testing",
+    "start": 2360.08,
+    "duration": 3.64
+  },
+  {
+    "text": "new ideas as opposed to completely doing",
+    "start": 2361.48,
+    "duration": 4.12
+  },
+  {
+    "text": "like blank slate, like having no idea",
+    "start": 2363.72,
+    "duration": 2.92
+  },
+  {
+    "text": "whether",
+    "start": 2365.6,
+    "duration": 3.48
+  },
+  {
+    "text": "one, the novel solution is correct and",
+    "start": 2366.64,
+    "duration": 4
+  },
+  {
+    "text": "two, whether people actually want that",
+    "start": 2369.08,
+    "duration": 3.24
+  },
+  {
+    "text": "problem solved. It's like you're solving",
+    "start": 2370.64,
+    "duration": 3.16
+  },
+  {
+    "text": "too many variables at that point.",
+    "start": 2372.32,
+    "duration": 3.48
+  },
+  {
+    "text": ">> I mean, I I want to do a thought",
+    "start": 2373.8,
+    "duration": 4.08
+  },
+  {
+    "text": "exercise based on what you just said",
+    "start": 2375.8,
+    "duration": 4
+  },
+  {
+    "text": "about or what you would say a little bit",
+    "start": 2377.88,
+    "duration": 5.28
+  },
+  {
+    "text": "earlier about how to think about",
+    "start": 2379.8,
+    "duration": 5.12
+  },
+  {
+    "text": "like your your framework for novelty,",
+    "start": 2383.16,
+    "duration": 3.92
+  },
+  {
+    "text": "which is you look at the biggest apps in",
+    "start": 2384.92,
+    "duration": 4.04
+  },
+  {
+    "text": "a certain category and then you think",
+    "start": 2387.08,
+    "duration": 3.4
+  },
+  {
+    "text": "about what is the thing that people",
+    "start": 2388.96,
+    "duration": 3.96
+  },
+  {
+    "text": "dislike about it the most and then just",
+    "start": 2390.48,
+    "duration": 5.04
+  },
+  {
+    "text": "make that your idea. And let's just use",
+    "start": 2392.92,
+    "duration": 5.4
+  },
+  {
+    "text": "like the therapy example. Like this is I",
+    "start": 2395.52,
+    "duration": 4.4
+  },
+  {
+    "text": "found this recently. They're running a",
+    "start": 2398.32,
+    "duration": 4.04
+  },
+  {
+    "text": "ton of Facebook ads and they're",
+    "start": 2399.92,
+    "duration": 4.96
+  },
+  {
+    "text": "absolutely printing on",
+    "start": 2402.36,
+    "duration": 6.6
+  },
+  {
+    "text": "Sensor Tower, they're making",
+    "start": 2404.88,
+    "duration": 6.84
+  },
+  {
+    "text": "800k a month plus 200k a month from",
+    "start": 2408.96,
+    "duration": 4.32
+  },
+  {
+    "text": "Android. It's like a mill a month. I",
+    "start": 2411.72,
+    "duration": 3.8
+  },
+  {
+    "text": "don't know what the margin is, but",
+    "start": 2413.28,
+    "duration": 2.88
+  },
+  {
+    "text": "I mean, they're running a lot of",
+    "start": 2415.52,
+    "duration": 1.84
+  },
+  {
+    "text": "Facebook ads.",
+    "start": 2416.16,
+    "duration": 3.48
+  },
+  {
+    "text": "But, anyway, I think the the kind of",
+    "start": 2417.36,
+    "duration": 5.44
+  },
+  {
+    "text": "like mood tracking / kind of like",
+    "start": 2419.64,
+    "duration": 5.08
+  },
+  {
+    "text": "introspection and therapy",
+    "start": 2422.8,
+    "duration": 4.12
+  },
+  {
+    "text": "self-development space",
+    "start": 2424.72,
+    "duration": 5.2
+  },
+  {
+    "text": "is seems to be growing and there's a a",
+    "start": 2426.92,
+    "duration": 4.84
+  },
+  {
+    "text": "couple of apps and like",
+    "start": 2429.92,
+    "duration": 4.6
+  },
+  {
+    "text": "I don't know, ask any person in your",
+    "start": 2431.76,
+    "duration": 4.4
+  },
+  {
+    "text": "real life, like have you heard of this",
+    "start": 2434.52,
+    "duration": 3.84
+  },
+  {
+    "text": "app? They probably will say no. So, it's",
+    "start": 2436.16,
+    "duration": 3.92
+  },
+  {
+    "text": "not quite it hasn't reached like full",
+    "start": 2438.36,
+    "duration": 3
+  },
+  {
+    "text": "mainstream yet, but I feel like it's",
+    "start": 2440.08,
+    "duration": 2.36
+  },
+  {
+    "text": "growing",
+    "start": 2441.36,
+    "duration": 2.88
+  },
+  {
+    "text": "pretty fast. Do you have any intuition",
+    "start": 2442.44,
+    "duration": 3.04
+  },
+  {
+    "text": "around",
+    "start": 2444.24,
+    "duration": 4.68
+  },
+  {
+    "text": "what you think could be like the the",
+    "start": 2445.48,
+    "duration": 5.84
+  },
+  {
+    "text": "problems with the space or like what",
+    "start": 2448.92,
+    "duration": 4.4
+  },
+  {
+    "text": "people would dislike the most about it?",
+    "start": 2451.32,
+    "duration": 3.32
+  },
+  {
+    "text": ">> Yeah, I think I mean, the way I think",
+    "start": 2453.32,
+    "duration": 2.8
+  },
+  {
+    "text": "about it is I feel like it's probably",
+    "start": 2454.64,
+    "duration": 4.36
+  },
+  {
+    "text": "less about the idea here specifically",
+    "start": 2456.12,
+    "duration": 4.56
+  },
+  {
+    "text": "and more about what they're doing with",
+    "start": 2459,
+    "duration": 3.36
+  },
+  {
+    "text": "marketing. There actually might like if",
+    "start": 2460.68,
+    "duration": 2.76
+  },
+  {
+    "text": "you think if you look into their",
+    "start": 2462.36,
+    "duration": 2.16
+  },
+  {
+    "text": "marketing,",
+    "start": 2463.44,
+    "duration": 3.64
+  },
+  {
+    "text": "I'd assume there's probably uh a niche",
+    "start": 2464.52,
+    "duration": 4.72
+  },
+  {
+    "text": "on social media that they're tapping",
+    "start": 2467.08,
+    "duration": 3.96
+  },
+  {
+    "text": "into that's like really big. So, say",
+    "start": 2469.24,
+    "duration": 3.56
+  },
+  {
+    "text": "like for Calia, like there's so many",
+    "start": 2471.04,
+    "duration": 3.32
+  },
+  {
+    "text": "fitness influencers that are posting",
+    "start": 2472.8,
+    "duration": 3.48
+  },
+  {
+    "text": "videos. Another popular niche on social",
+    "start": 2474.36,
+    "duration": 4.28
+  },
+  {
+    "text": "media is like motivation niche. So, I",
+    "start": 2476.28,
+    "duration": 4.56
+  },
+  {
+    "text": "could see like apps being built there. A",
+    "start": 2478.64,
+    "duration": 4.64
+  },
+  {
+    "text": "lot of them like inspirational videos",
+    "start": 2480.84,
+    "duration": 4.24
+  },
+  {
+    "text": "that I see going viral online. I don't",
+    "start": 2483.28,
+    "duration": 2.64
+  },
+  {
+    "text": "know, things like that. I think if you",
+    "start": 2485.08,
+    "duration": 2.24
+  },
+  {
+    "text": "can find like a content niche that's",
+    "start": 2485.92,
+    "duration": 3.36
+  },
+  {
+    "text": "very viral online and you can plug the",
+    "start": 2487.32,
+    "duration": 4.04
+  },
+  {
+    "text": "app into it, I think those are also good",
+    "start": 2489.28,
+    "duration": 3.6
+  },
+  {
+    "text": "ideas that you don't need like an",
+    "start": 2491.36,
+    "duration": 3.4
+  },
+  {
+    "text": "existing apps to",
+    "start": 2492.88,
+    "duration": 3.36
+  },
+  {
+    "text": "validate it, right? As long as it's like",
+    "start": 2494.76,
+    "duration": 3.32
+  },
+  {
+    "text": "a big content niche on social media.",
+    "start": 2496.24,
+    "duration": 4.32
+  },
+  {
+    "text": ">> You suspect that this app is doing",
+    "start": 2498.08,
+    "duration": 5.4
+  },
+  {
+    "text": "really well not because of the app idea,",
+    "start": 2500.56,
+    "duration": 4.44
+  },
+  {
+    "text": "but because",
+    "start": 2503.48,
+    "duration": 4.36
+  },
+  {
+    "text": "there there's a there's like a cultural",
+    "start": 2505,
+    "duration": 6.04
+  },
+  {
+    "text": "movement or like a a trend content-wise",
+    "start": 2507.84,
+    "duration": 4.72
+  },
+  {
+    "text": "that they're tapping into and this just",
+    "start": 2511.04,
+    "duration": 3.4
+  },
+  {
+    "text": "happens to be the solution.",
+    "start": 2512.56,
+    "duration": 4.28
+  },
+  {
+    "text": ">> Another app is Astra that this app kind",
+    "start": 2514.44,
+    "duration": 4.04
+  },
+  {
+    "text": "of reminds me of. If you look on social",
+    "start": 2516.84,
+    "duration": 3.68
+  },
+  {
+    "text": "media, like people talking about their",
+    "start": 2518.48,
+    "duration": 3.52
+  },
+  {
+    "text": "horoscopes",
+    "start": 2520.52,
+    "duration": 3.52
+  },
+  {
+    "text": "is such a popular content niche on at",
+    "start": 2522,
+    "duration": 3.56
+  },
+  {
+    "text": "least on TikTok",
+    "start": 2524.04,
+    "duration": 4.24
+  },
+  {
+    "text": "and they tapped into that even though I",
+    "start": 2525.56,
+    "duration": 3.92
+  },
+  {
+    "text": "don't think there's like a ton of apps",
+    "start": 2528.28,
+    "duration": 3.44
+  },
+  {
+    "text": "that do well in this category, but these",
+    "start": 2529.48,
+    "duration": 4.28
+  },
+  {
+    "text": "guys were like doing quite well at least",
+    "start": 2531.72,
+    "duration": 3.68
+  },
+  {
+    "text": "last year. So, I mean the way they did",
+    "start": 2533.76,
+    "duration": 3.88
+  },
+  {
+    "text": "here is like the soulmate idea",
+    "start": 2535.4,
+    "duration": 3.4
+  },
+  {
+    "text": "where you can see like a picture of your",
+    "start": 2537.64,
+    "duration": 3.04
+  },
+  {
+    "text": "soulmate in the background. And that was",
+    "start": 2538.8,
+    "duration": 3.64
+  },
+  {
+    "text": "like their And the soulmate's something",
+    "start": 2540.68,
+    "duration": 2.84
+  },
+  {
+    "text": "that's like",
+    "start": 2542.44,
+    "duration": 2.72
+  },
+  {
+    "text": "gone viral multiple times with different",
+    "start": 2543.52,
+    "duration": 3.16
+  },
+  {
+    "text": "apps before. And so, it's like it's not",
+    "start": 2545.16,
+    "duration": 2.84
+  },
+  {
+    "text": "really a new idea, but they're like",
+    "start": 2546.68,
+    "duration": 3
+  },
+  {
+    "text": "framing it as one. So.",
+    "start": 2548,
+    "duration": 3.6
+  },
+  {
+    "text": ">> This doesn't quite apply to",
+    "start": 2549.68,
+    "duration": 3.8
+  },
+  {
+    "text": "Cal AI. I mean, it does apply to Cal AI",
+    "start": 2551.6,
+    "duration": 3.68
+  },
+  {
+    "text": "actually. But the thing is with Cal AI",
+    "start": 2553.48,
+    "duration": 3.88
+  },
+  {
+    "text": "it's just such a broad solution that it",
+    "start": 2555.28,
+    "duration": 3.36
+  },
+  {
+    "text": "can solve a lot of different problems.",
+    "start": 2557.36,
+    "duration": 3
+  },
+  {
+    "text": "So, like there might be a a problem",
+    "start": 2558.64,
+    "duration": 3.24
+  },
+  {
+    "text": "that's really popular on social media",
+    "start": 2560.36,
+    "duration": 4.6
+  },
+  {
+    "text": "like a very specific type of strength",
+    "start": 2561.88,
+    "duration": 5.28
+  },
+  {
+    "text": "training or whatever like science-based",
+    "start": 2564.96,
+    "duration": 3.92
+  },
+  {
+    "text": "lifting or whatever. And then it's going",
+    "start": 2567.16,
+    "duration": 3.08
+  },
+  {
+    "text": "viral on social media and then you can",
+    "start": 2568.88,
+    "duration": 4.04
+  },
+  {
+    "text": "plug Cal AI into that",
+    "start": 2570.24,
+    "duration": 5.76
+  },
+  {
+    "text": "content niche as a solution. And it's",
+    "start": 2572.92,
+    "duration": 4.72
+  },
+  {
+    "text": "not it's not so much that you're like",
+    "start": 2576,
+    "duration": 3.68
+  },
+  {
+    "text": "creating a product around the niche, but",
+    "start": 2577.64,
+    "duration": 4
+  },
+  {
+    "text": "you're just like if you have a broad",
+    "start": 2579.68,
+    "duration": 4.24
+  },
+  {
+    "text": "enough niche, you can you can tap into",
+    "start": 2581.64,
+    "duration": 3.52
+  },
+  {
+    "text": "different demographics or",
+    "start": 2583.92,
+    "duration": 2.48
+  },
+  {
+    "text": "psychographics, I guess.",
+    "start": 2585.16,
+    "duration": 2.68
+  },
+  {
+    "text": ">> I I think the other way that Cal AI",
+    "start": 2586.4,
+    "duration": 3
+  },
+  {
+    "text": "thinks about it is like how many",
+    "start": 2587.84,
+    "duration": 3.2
+  },
+  {
+    "text": "influencers are there in the niche that",
+    "start": 2589.4,
+    "duration": 3.28
+  },
+  {
+    "text": "can promote the video",
+    "start": 2591.04,
+    "duration": 3.04
+  },
+  {
+    "text": "or that can promote the product in their",
+    "start": 2592.68,
+    "duration": 2.48
+  },
+  {
+    "text": "videos.",
+    "start": 2594.08,
+    "duration": 2.56
+  },
+  {
+    "text": "And then how expensive are those",
+    "start": 2595.16,
+    "duration": 3.36
+  },
+  {
+    "text": "influencers? With Cal AI there's just so",
+    "start": 2596.64,
+    "duration": 4.08
+  },
+  {
+    "text": "many fitness influencers and they're",
+    "start": 2598.52,
+    "duration": 4.24
+  },
+  {
+    "text": "also like not super they're like",
+    "start": 2600.72,
+    "duration": 3.96
+  },
+  {
+    "text": "reasonably priced as opposed to like say",
+    "start": 2602.76,
+    "duration": 3.6
+  },
+  {
+    "text": "you go into like the beauty niche where",
+    "start": 2604.68,
+    "duration": 2.92
+  },
+  {
+    "text": "they're getting brand deals from these",
+    "start": 2606.36,
+    "duration": 2.92
+  },
+  {
+    "text": "makeup companies. I think that's like a",
+    "start": 2607.6,
+    "duration": 3.64
+  },
+  {
+    "text": "tough niche to like come up with like a",
+    "start": 2609.28,
+    "duration": 3.24
+  },
+  {
+    "text": "female",
+    "start": 2611.24,
+    "duration": 2.96
+  },
+  {
+    "text": "looks maxing app and you're trying to",
+    "start": 2612.52,
+    "duration": 3.28
+  },
+  {
+    "text": "promote it through",
+    "start": 2614.2,
+    "duration": 3.08
+  },
+  {
+    "text": "these people who are getting brand deals",
+    "start": 2615.8,
+    "duration": 3.36
+  },
+  {
+    "text": "from like makeup companies because they",
+    "start": 2617.28,
+    "duration": 3.52
+  },
+  {
+    "text": "have such big margins, but yeah, trying",
+    "start": 2619.16,
+    "duration": 3.72
+  },
+  {
+    "text": "to find those niches where you can like",
+    "start": 2620.8,
+    "duration": 4.12
+  },
+  {
+    "text": "distribute on social media where the",
+    "start": 2622.88,
+    "duration": 3.28
+  },
+  {
+    "text": "people are creating the videos like",
+    "start": 2624.92,
+    "duration": 2.8
+  },
+  {
+    "text": "aren't so expensive and there's a lot of",
+    "start": 2626.16,
+    "duration": 1.92
+  },
+  {
+    "text": "them.",
+    "start": 2627.72,
+    "duration": 2.92
+  },
+  {
+    "text": ">> On on the topic of like new you know,",
+    "start": 2628.08,
+    "duration": 5.08
+  },
+  {
+    "text": "new app founders um",
+    "start": 2630.64,
+    "duration": 4.56
+  },
+  {
+    "text": "and ideas, are there any interesting",
+    "start": 2633.16,
+    "duration": 5.16
+  },
+  {
+    "text": "niches in general today that you're that",
+    "start": 2635.2,
+    "duration": 4.4
+  },
+  {
+    "text": "you've been looking at that you feel",
+    "start": 2638.32,
+    "duration": 3.92
+  },
+  {
+    "text": "like are there there could be a",
+    "start": 2639.6,
+    "duration": 4.56
+  },
+  {
+    "text": "some interesting ideas that live within",
+    "start": 2642.24,
+    "duration": 2.72
+  },
+  {
+    "text": "those niches?",
+    "start": 2644.16,
+    "duration": 2.6
+  },
+  {
+    "text": ">> Yeah, I think there's so many it's hard",
+    "start": 2644.96,
+    "duration": 3.68
+  },
+  {
+    "text": "to like just pick one. Before I join",
+    "start": 2646.76,
+    "duration": 3.6
+  },
+  {
+    "text": "Cali AI, I can even show you like some",
+    "start": 2648.64,
+    "duration": 3.88
+  },
+  {
+    "text": "designs of like apps that I was",
+    "start": 2650.36,
+    "duration": 3.92
+  },
+  {
+    "text": "exploring. There's ways you could do it",
+    "start": 2652.52,
+    "duration": 4.04
+  },
+  {
+    "text": "where it's like you do the influencer",
+    "start": 2654.28,
+    "duration": 5.8
+  },
+  {
+    "text": "route where you do what Cali AI did is",
+    "start": 2656.56,
+    "duration": 5.96
+  },
+  {
+    "text": "just find like a big niche and a big",
+    "start": 2660.08,
+    "duration": 4.44
+  },
+  {
+    "text": "product and then try and get all the",
+    "start": 2662.52,
+    "duration": 3.8
+  },
+  {
+    "text": "influencers to promote it.",
+    "start": 2664.52,
+    "duration": 4.92
+  },
+  {
+    "text": "Or I think what's a more interesting",
+    "start": 2666.32,
+    "duration": 4.88
+  },
+  {
+    "text": "like thought experiment which I haven't",
+    "start": 2669.44,
+    "duration": 3.64
+  },
+  {
+    "text": "seen many other company or many other",
+    "start": 2671.2,
+    "duration": 3.4
+  },
+  {
+    "text": "app founders do",
+    "start": 2673.08,
+    "duration": 3.28
+  },
+  {
+    "text": "is kind of like do the opposite where",
+    "start": 2674.6,
+    "duration": 3.4
+  },
+  {
+    "text": "you build a lot of apps, but then you",
+    "start": 2676.36,
+    "duration": 4.04
+  },
+  {
+    "text": "also like work with like individual",
+    "start": 2678,
+    "duration": 4.16
+  },
+  {
+    "text": "influencers who are really big promote",
+    "start": 2680.4,
+    "duration": 3.24
+  },
+  {
+    "text": "their app. And so that's something that",
+    "start": 2682.16,
+    "duration": 2.56
+  },
+  {
+    "text": "like I was",
+    "start": 2683.64,
+    "duration": 3.76
+  },
+  {
+    "text": "like working on exploring as well before",
+    "start": 2684.72,
+    "duration": 4.44
+  },
+  {
+    "text": "joining Cali AI is like what if you",
+    "start": 2687.4,
+    "duration": 4
+  },
+  {
+    "text": "approach like the biggest YouTubers and",
+    "start": 2689.16,
+    "duration": 4.52
+  },
+  {
+    "text": "the biggest people on Instagram and give",
+    "start": 2691.4,
+    "duration": 3.96
+  },
+  {
+    "text": "them equity in your company. But",
+    "start": 2693.68,
+    "duration": 3.08
+  },
+  {
+    "text": "nowadays with like five coding you can",
+    "start": 2695.36,
+    "duration": 3.8
+  },
+  {
+    "text": "build an app and so quickly now. And so",
+    "start": 2696.76,
+    "duration": 4.08
+  },
+  {
+    "text": "you can just turn out apps and then work",
+    "start": 2699.16,
+    "duration": 3.52
+  },
+  {
+    "text": "with these big influencers who who can",
+    "start": 2700.84,
+    "duration": 3.44
+  },
+  {
+    "text": "promote it themselves and feel like they",
+    "start": 2702.68,
+    "duration": 3
+  },
+  {
+    "text": "have ownership in it. And so that's",
+    "start": 2704.28,
+    "duration": 3.6
+  },
+  {
+    "text": "another strategy of doing it. So I can",
+    "start": 2705.68,
+    "duration": 3.84
+  },
+  {
+    "text": "share some like of the apps I was",
+    "start": 2707.88,
+    "duration": 3.88
+  },
+  {
+    "text": "exploring previously. So this is one I",
+    "start": 2709.52,
+    "duration": 5.12
+  },
+  {
+    "text": "was was exploring recently. It was like",
+    "start": 2711.76,
+    "duration": 5.92
+  },
+  {
+    "text": "a sleep tracking app. Um there's a lot",
+    "start": 2714.64,
+    "duration": 5.12
+  },
+  {
+    "text": "of apps on the App Store that do sleep",
+    "start": 2717.68,
+    "duration": 4.96
+  },
+  {
+    "text": "sounds as well as like sleep alarms and",
+    "start": 2719.76,
+    "duration": 5.16
+  },
+  {
+    "text": "there's apps like Opal that will block",
+    "start": 2722.64,
+    "duration": 3.24
+  },
+  {
+    "text": "your",
+    "start": 2724.92,
+    "duration": 3.44
+  },
+  {
+    "text": "apps at bedtime. There's that I mean",
+    "start": 2725.88,
+    "duration": 4.8
+  },
+  {
+    "text": "this is at the time when I wasn't really",
+    "start": 2728.36,
+    "duration": 3.72
+  },
+  {
+    "text": "thinking about like",
+    "start": 2730.68,
+    "duration": 3.84
+  },
+  {
+    "text": "coming up with a novel idea. I think if",
+    "start": 2732.08,
+    "duration": 4.72
+  },
+  {
+    "text": "you have the right distribution network,",
+    "start": 2734.52,
+    "duration": 4.08
+  },
+  {
+    "text": "I think like any of any of these ideas",
+    "start": 2736.8,
+    "duration": 3.92
+  },
+  {
+    "text": "could work. Um like language learning",
+    "start": 2738.6,
+    "duration": 3.68
+  },
+  {
+    "text": "where you're like going after Duolingo",
+    "start": 2740.72,
+    "duration": 3.88
+  },
+  {
+    "text": "could be interesting. Like a workout app",
+    "start": 2742.28,
+    "duration": 4.04
+  },
+  {
+    "text": "could be interesting. I was exploring a",
+    "start": 2744.6,
+    "duration": 5.12
+  },
+  {
+    "text": "lot of different app niches before this.",
+    "start": 2746.32,
+    "duration": 5.16
+  },
+  {
+    "text": "Um like the plant identifier app.",
+    "start": 2749.72,
+    "duration": 3.08
+  },
+  {
+    "text": ">> many niches. Wow.",
+    "start": 2751.48,
+    "duration": 3.32
+  },
+  {
+    "text": ">> Yeah, we're exploring like a lot of them",
+    "start": 2752.8,
+    "duration": 5.24
+  },
+  {
+    "text": "and the idea was if you just turn out a",
+    "start": 2754.8,
+    "duration": 5
+  },
+  {
+    "text": "ton of different apps and get",
+    "start": 2758.04,
+    "duration": 3.64
+  },
+  {
+    "text": "influencers to promote it themselves and",
+    "start": 2759.8,
+    "duration": 3.52
+  },
+  {
+    "text": "feel like they have ownership on it.",
+    "start": 2761.68,
+    "duration": 3.56
+  },
+  {
+    "text": "Individually, you can just build so many",
+    "start": 2763.32,
+    "duration": 4.44
+  },
+  {
+    "text": "of these different apps and get people",
+    "start": 2765.24,
+    "duration": 5.44
+  },
+  {
+    "text": "to promote it and you just work on the",
+    "start": 2767.76,
+    "duration": 5
+  },
+  {
+    "text": "next app as they're promoting it if that",
+    "start": 2770.68,
+    "duration": 2.76
+  },
+  {
+    "text": "makes sense.",
+    "start": 2772.76,
+    "duration": 2.52
+  },
+  {
+    "text": ">> What would What would your approach be",
+    "start": 2773.44,
+    "duration": 4.64
+  },
+  {
+    "text": "in approaching these influencers? Like",
+    "start": 2775.28,
+    "duration": 4.16
+  },
+  {
+    "text": "the big ones and you want to give them",
+    "start": 2778.08,
+    "duration": 3.76
+  },
+  {
+    "text": "equity. Is it just like spray and pray",
+    "start": 2779.44,
+    "duration": 3.72
+  },
+  {
+    "text": "or would you just like hunt them down",
+    "start": 2781.84,
+    "duration": 4.16
+  },
+  {
+    "text": "until they respond to you? Like how What",
+    "start": 2783.16,
+    "duration": 4.28
+  },
+  {
+    "text": "would your",
+    "start": 2786,
+    "duration": 2.84
+  },
+  {
+    "text": "Would you Would you have a strategy in",
+    "start": 2787.44,
+    "duration": 2.76
+  },
+  {
+    "text": "like trying to close a deal with one of",
+    "start": 2788.84,
+    "duration": 3.32
+  },
+  {
+    "text": "these bigger influencers?",
+    "start": 2790.2,
+    "duration": 3.2
+  },
+  {
+    "text": ">> Well, the guys that I was working with",
+    "start": 2792.16,
+    "duration": 3.08
+  },
+  {
+    "text": "before, they had like a connection with",
+    "start": 2793.4,
+    "duration": 3.6
+  },
+  {
+    "text": "a talent agency and so they had",
+    "start": 2795.24,
+    "duration": 3.84
+  },
+  {
+    "text": "connections with these influencers who",
+    "start": 2797,
+    "duration": 3.08
+  },
+  {
+    "text": "could",
+    "start": 2799.08,
+    "duration": 4.04
+  },
+  {
+    "text": "connect us with those like big guys that",
+    "start": 2800.08,
+    "duration": 4.76
+  },
+  {
+    "text": "have like millions of followers.",
+    "start": 2803.12,
+    "duration": 3.32
+  },
+  {
+    "text": "And then that talent agency would get a",
+    "start": 2804.84,
+    "duration": 4.2
+  },
+  {
+    "text": "cut of the equity as well. And another",
+    "start": 2806.44,
+    "duration": 4.52
+  },
+  {
+    "text": "probably just as good option is just do",
+    "start": 2809.04,
+    "duration": 2.84
+  },
+  {
+    "text": "the spray and pray.",
+    "start": 2810.96,
+    "duration": 2.12
+  },
+  {
+    "text": ">> What do you think about distribution",
+    "start": 2811.88,
+    "duration": 2.96
+  },
+  {
+    "text": "these days? I know you're on the product",
+    "start": 2813.08,
+    "duration": 3.6
+  },
+  {
+    "text": "side, but I'm sure you've like you've",
+    "start": 2814.84,
+    "duration": 3.68
+  },
+  {
+    "text": "been like super embedded in these teams.",
+    "start": 2816.68,
+    "duration": 3.72
+  },
+  {
+    "text": "Like do you think that is there certain",
+    "start": 2818.52,
+    "duration": 4.16
+  },
+  {
+    "text": "growth strategies that are dying out?",
+    "start": 2820.4,
+    "duration": 4
+  },
+  {
+    "text": "Are there any ones that are that you're",
+    "start": 2822.68,
+    "duration": 4.04
+  },
+  {
+    "text": "paying attention to that are coming up?",
+    "start": 2824.4,
+    "duration": 3.96
+  },
+  {
+    "text": ">> I think influencers is a pretty cool",
+    "start": 2826.72,
+    "duration": 3.48
+  },
+  {
+    "text": "niche. I mean, Cali AI has proven that",
+    "start": 2828.36,
+    "duration": 3.72
+  },
+  {
+    "text": "out. What you'll notice if you look at",
+    "start": 2830.2,
+    "duration": 4
+  },
+  {
+    "text": "other apps on the App Store is all the",
+    "start": 2832.08,
+    "duration": 4.96
+  },
+  {
+    "text": "apps that have done just primarily UGC",
+    "start": 2834.2,
+    "duration": 4.92
+  },
+  {
+    "text": "or primarily done what we did with Sway,",
+    "start": 2837.04,
+    "duration": 4.52
+  },
+  {
+    "text": "which is like the slideshows or the",
+    "start": 2839.12,
+    "duration": 4.12
+  },
+  {
+    "text": "create your own content, it's harder to",
+    "start": 2841.56,
+    "duration": 3.32
+  },
+  {
+    "text": "scale, right? You can only create as",
+    "start": 2843.24,
+    "duration": 4.16
+  },
+  {
+    "text": "much content as you can push out",
+    "start": 2844.88,
+    "duration": 4.04
+  },
+  {
+    "text": "yourself as opposed to doing",
+    "start": 2847.4,
+    "duration": 3.28
+  },
+  {
+    "text": "influencers, you can just keep stacking",
+    "start": 2848.92,
+    "duration": 4.2
+  },
+  {
+    "text": "up influencers to create posting videos",
+    "start": 2850.68,
+    "duration": 4.12
+  },
+  {
+    "text": "and then you're also The key with",
+    "start": 2853.12,
+    "duration": 3.68
+  },
+  {
+    "text": "influencers you have a guaranteed views.",
+    "start": 2854.8,
+    "duration": 4.2
+  },
+  {
+    "text": "As opposed to doing UGC, you're hoping",
+    "start": 2856.8,
+    "duration": 3.88
+  },
+  {
+    "text": "and praying that you get a month where",
+    "start": 2859,
+    "duration": 3.32
+  },
+  {
+    "text": "you go viral. And so it's less",
+    "start": 2860.68,
+    "duration": 3.4
+  },
+  {
+    "text": "consistent. I think I mean, paid ads",
+    "start": 2862.32,
+    "duration": 4.24
+  },
+  {
+    "text": "also is when Cali AI took had it like a",
+    "start": 2864.08,
+    "duration": 4.28
+  },
+  {
+    "text": "big inflection point is when we started",
+    "start": 2866.56,
+    "duration": 3.52
+  },
+  {
+    "text": "like really ramping up on paid ads. The",
+    "start": 2868.36,
+    "duration": 3.56
+  },
+  {
+    "text": "same as the app I was working on before.",
+    "start": 2870.08,
+    "duration": 3.36
+  },
+  {
+    "text": "It's like once we started doing paid ads",
+    "start": 2871.92,
+    "duration": 3.16
+  },
+  {
+    "text": "is when it really started scaling. And",
+    "start": 2873.44,
+    "duration": 3
+  },
+  {
+    "text": "so I mean, if you can get paid ads to",
+    "start": 2875.08,
+    "duration": 3.6
+  },
+  {
+    "text": "work, it's the best option, but it's",
+    "start": 2876.44,
+    "duration": 3.68
+  },
+  {
+    "text": "also kind of hard to do, right?",
+    "start": 2878.68,
+    "duration": 3.08
+  },
+  {
+    "text": ">> I get your point about organic. Like,",
+    "start": 2880.12,
+    "duration": 3.96
+  },
+  {
+    "text": "you if you're if you're the one posting",
+    "start": 2881.76,
+    "duration": 5.08
+  },
+  {
+    "text": "your own videos, you're limited by how",
+    "start": 2884.08,
+    "duration": 4.32
+  },
+  {
+    "text": "much you can post and how many accounts",
+    "start": 2886.84,
+    "duration": 2.52
+  },
+  {
+    "text": "you can create. And that's why people",
+    "start": 2888.4,
+    "duration": 2
+  },
+  {
+    "text": "will create like all these other",
+    "start": 2889.36,
+    "duration": 2.32
+  },
+  {
+    "text": "accounts.",
+    "start": 2890.4,
+    "duration": 1.92
+  },
+  {
+    "text": "Um",
+    "start": 2891.68,
+    "duration": 3.64
+  },
+  {
+    "text": "but if your content strategy is is not",
+    "start": 2892.32,
+    "duration": 5.92
+  },
+  {
+    "text": "fresh across every account, then",
+    "start": 2895.32,
+    "duration": 5.48
+  },
+  {
+    "text": "you're you saturate your your own format",
+    "start": 2898.24,
+    "duration": 4.52
+  },
+  {
+    "text": "like pretty quickly compared to like",
+    "start": 2900.8,
+    "duration": 3.24
+  },
+  {
+    "text": "influencers. They have all these",
+    "start": 2902.76,
+    "duration": 3.04
+  },
+  {
+    "text": "built-in audiences.",
+    "start": 2904.04,
+    "duration": 3.36
+  },
+  {
+    "text": "Um so if you're building a a new app",
+    "start": 2905.8,
+    "duration": 2.92
+  },
+  {
+    "text": "today, would you just go straight to",
+    "start": 2907.4,
+    "duration": 2.28
+  },
+  {
+    "text": "influencers?",
+    "start": 2908.72,
+    "duration": 2.12
+  },
+  {
+    "text": ">> I think influencers are a great way of",
+    "start": 2909.68,
+    "duration": 3.72
+  },
+  {
+    "text": "testing the idea really quickly.",
+    "start": 2910.84,
+    "duration": 5.04
+  },
+  {
+    "text": "Cuz with influencers, you're testing one",
+    "start": 2913.4,
+    "duration": 4.44
+  },
+  {
+    "text": "variable is whether you're getting",
+    "start": 2915.88,
+    "duration": 3.32
+  },
+  {
+    "text": "downloads and whether you can like",
+    "start": 2917.84,
+    "duration": 2.72
+  },
+  {
+    "text": "people are going to pay for it. Whereas",
+    "start": 2919.2,
+    "duration": 3.28
+  },
+  {
+    "text": "with UGC, you're testing whether you can",
+    "start": 2920.56,
+    "duration": 4
+  },
+  {
+    "text": "go viral and whether people are going to",
+    "start": 2922.48,
+    "duration": 3.68
+  },
+  {
+    "text": "pay for it. You're testing multiple",
+    "start": 2924.56,
+    "duration": 3.44
+  },
+  {
+    "text": "variables at a time. It also takes more",
+    "start": 2926.16,
+    "duration": 3.6
+  },
+  {
+    "text": "time to go viral, right? You have to",
+    "start": 2928,
+    "duration": 3.32
+  },
+  {
+    "text": "keep posting until you start getting",
+    "start": 2929.76,
+    "duration": 2.96
+  },
+  {
+    "text": "views. I think influencers are a great",
+    "start": 2931.32,
+    "duration": 3.24
+  },
+  {
+    "text": "way of testing out an idea nowadays, but",
+    "start": 2932.72,
+    "duration": 3.08
+  },
+  {
+    "text": "there's only a certain Like, I don't",
+    "start": 2934.56,
+    "duration": 3.08
+  },
+  {
+    "text": "think all ideas work with influencers.",
+    "start": 2935.8,
+    "duration": 3.16
+  },
+  {
+    "text": ">> Yeah, last thing I wanted to ask you",
+    "start": 2937.64,
+    "duration": 3.44
+  },
+  {
+    "text": "about is just Cal-A I acquisition. So",
+    "start": 2938.96,
+    "duration": 5.92
+  },
+  {
+    "text": "you guys got acquired by MyFitnessPal",
+    "start": 2941.08,
+    "duration": 6.24
+  },
+  {
+    "text": "in the past week or so. What what was",
+    "start": 2944.88,
+    "duration": 4.4
+  },
+  {
+    "text": "that like internally for you?",
+    "start": 2947.32,
+    "duration": 4.12
+  },
+  {
+    "text": ">> We're we're staying the same pretty much",
+    "start": 2949.28,
+    "duration": 4.36
+  },
+  {
+    "text": "at this point. The teams are",
+    "start": 2951.44,
+    "duration": 4.96
+  },
+  {
+    "text": "um still working as usual. Um the apps",
+    "start": 2953.64,
+    "duration": 4.04
+  },
+  {
+    "text": "are going to be living as like separate",
+    "start": 2956.4,
+    "duration": 2.68
+  },
+  {
+    "text": "products, and so I don't think much will",
+    "start": 2957.68,
+    "duration": 1.92
+  },
+  {
+    "text": "change.",
+    "start": 2959.08,
+    "duration": 2.16
+  },
+  {
+    "text": ">> Was it like a big moment for you guys",
+    "start": 2959.6,
+    "duration": 3.52
+  },
+  {
+    "text": "like um within the team? I know it's",
+    "start": 2961.24,
+    "duration": 3.6
+  },
+  {
+    "text": "probably been at like a a couple months",
+    "start": 2963.12,
+    "duration": 4.08
+  },
+  {
+    "text": "cuz you were not allowed like able to",
+    "start": 2964.84,
+    "duration": 4.48
+  },
+  {
+    "text": "announce it until a couple months later,",
+    "start": 2967.2,
+    "duration": 4.48
+  },
+  {
+    "text": "right? I think Zach said the the the",
+    "start": 2969.32,
+    "duration": 4.76
+  },
+  {
+    "text": "sale actually closed in December or or",
+    "start": 2971.68,
+    "duration": 5.8
+  },
+  {
+    "text": "so. Um but was that like a milestone",
+    "start": 2974.08,
+    "duration": 5.48
+  },
+  {
+    "text": "feeling for you? Cuz also like in your",
+    "start": 2977.48,
+    "duration": 5.64
+  },
+  {
+    "text": "career, you've done a lot of like you've",
+    "start": 2979.56,
+    "duration": 5.04
+  },
+  {
+    "text": "worked at a lot of companies, and then",
+    "start": 2983.12,
+    "duration": 3.4
+  },
+  {
+    "text": "you started your own, and then, you",
+    "start": 2984.6,
+    "duration": 3.88
+  },
+  {
+    "text": "know, you join a team. I guess that How",
+    "start": 2986.52,
+    "duration": 4.4
+  },
+  {
+    "text": "did How did it feel to like be be inside",
+    "start": 2988.48,
+    "duration": 4.16
+  },
+  {
+    "text": "Cal-A I as it's getting acquired?",
+    "start": 2990.92,
+    "duration": 3.72
+  },
+  {
+    "text": ">> Yeah, I think it was crazy for the fact",
+    "start": 2992.64,
+    "duration": 4.56
+  },
+  {
+    "text": "that I think we as a team had looked at",
+    "start": 2994.64,
+    "duration": 4.76
+  },
+  {
+    "text": "MyFitnessPal as being like untouchable",
+    "start": 2997.2,
+    "duration": 4.68
+  },
+  {
+    "text": "and like being this app that is so big,",
+    "start": 2999.4,
+    "duration": 4.12
+  },
+  {
+    "text": "there's no way we can get to that point.",
+    "start": 3001.88,
+    "duration": 3.52
+  },
+  {
+    "text": "I think it was cool validation for the",
+    "start": 3003.52,
+    "duration": 4.04
+  },
+  {
+    "text": "co-founders just to like see that what",
+    "start": 3005.4,
+    "duration": 3.72
+  },
+  {
+    "text": "they were able to create in a short",
+    "start": 3007.56,
+    "duration": 3.2
+  },
+  {
+    "text": "period of time. I think they they had",
+    "start": 3009.12,
+    "duration": 3.72
+  },
+  {
+    "text": "they started the company only",
+    "start": 3010.76,
+    "duration": 3.48
+  },
+  {
+    "text": "like 2 years ago or a little bit less",
+    "start": 3012.84,
+    "duration": 1.96
+  },
+  {
+    "text": "than that.",
+    "start": 3014.24,
+    "duration": 2.8
+  },
+  {
+    "text": ">> It is pretty insane. I remember Zach",
+    "start": 3014.8,
+    "duration": 4.88
+  },
+  {
+    "text": "talking about MyFitnessPal as the big",
+    "start": 3017.04,
+    "duration": 6.28
+  },
+  {
+    "text": "giant beast and Cali's eyes kind of like",
+    "start": 3019.68,
+    "duration": 5.76
+  },
+  {
+    "text": "going up against them and yeah, it's a",
+    "start": 3023.32,
+    "duration": 3.68
+  },
+  {
+    "text": "it is it's a pretty crazy moment for",
+    "start": 3025.44,
+    "duration": 4.64
+  },
+  {
+    "text": "this whole industry seeing that fully",
+    "start": 3027,
+    "duration": 5.6
+  },
+  {
+    "text": "bootstrapped team just started by",
+    "start": 3030.08,
+    "duration": 5.28
+  },
+  {
+    "text": "17-year-old kids getting acquired by",
+    "start": 3032.6,
+    "duration": 4.32
+  },
+  {
+    "text": "this huge app.",
+    "start": 3035.36,
+    "duration": 2.84
+  },
+  {
+    "text": ">> You know, it was only a few months ago",
+    "start": 3036.92,
+    "duration": 2.96
+  },
+  {
+    "text": "when people were",
+    "start": 3038.2,
+    "duration": 3.96
+  },
+  {
+    "text": "dogging on AI rappers. Like I think this",
+    "start": 3039.88,
+    "duration": 3.96
+  },
+  {
+    "text": "is only like a couple months ago, right?",
+    "start": 3042.16,
+    "duration": 2.64
+  },
+  {
+    "text": "Like",
+    "start": 3043.84,
+    "duration": 2.92
+  },
+  {
+    "text": "probably 2025. People were talking about",
+    "start": 3044.8,
+    "duration": 3.92
+  },
+  {
+    "text": "how AI rappers are there's no value in",
+    "start": 3046.76,
+    "duration": 2.28
+  },
+  {
+    "text": "it.",
+    "start": 3048.72,
+    "duration": 2.28
+  },
+  {
+    "text": ">> That's so funny.",
+    "start": 3049.04,
+    "duration": 3.88
+  },
+  {
+    "text": "Yeah, I feel like the biggest Yeah, like",
+    "start": 3051,
+    "duration": 3.56
+  },
+  {
+    "text": "the biggest uh companies and",
+    "start": 3052.92,
+    "duration": 3.72
+  },
+  {
+    "text": "acquisitions right now are are like what",
+    "start": 3054.56,
+    "duration": 3.8
+  },
+  {
+    "text": "you would call AI rappers like us.",
+    "start": 3056.64,
+    "duration": 4.48
+  },
+  {
+    "text": "What's what's next for you? Um I mean,",
+    "start": 3058.36,
+    "duration": 5.4
+  },
+  {
+    "text": "you're still at Cali.ai. Um but yeah,",
+    "start": 3061.12,
+    "duration": 4.32
+  },
+  {
+    "text": "what's next for you and I guess like",
+    "start": 3063.76,
+    "duration": 3.4
+  },
+  {
+    "text": "where where can people find you?",
+    "start": 3065.44,
+    "duration": 4.24
+  },
+  {
+    "text": ">> Yeah, at Cali.ai. Um I think there's a",
+    "start": 3067.16,
+    "duration": 4.12
+  },
+  {
+    "text": "long way to go with Cali.ai in terms of",
+    "start": 3069.68,
+    "duration": 3.32
+  },
+  {
+    "text": "growth. But yeah, also always interested",
+    "start": 3071.28,
+    "duration": 4.8
+  },
+  {
+    "text": "in like new app ideas or new apps. Down",
+    "start": 3073,
+    "duration": 4.6
+  },
+  {
+    "text": "to chat with anyone if they want to",
+    "start": 3076.08,
+    "duration": 3.88
+  },
+  {
+    "text": "reach out. There's LinkedIn or X.",
+    "start": 3077.6,
+    "duration": 2.96
+  },
+  {
+    "text": ">> You want?",
+    "start": 3079.96,
+    "duration": 2.08
+  },
+  {
+    "text": ">> Thanks so much, Daniel. It was great to",
+    "start": 3080.56,
+    "duration": 2.32
+  },
+  {
+    "text": "hear your story.",
+    "start": 3082.04,
+    "duration": 2.92
+  },
+  {
+    "text": ">> Cool, man. Yeah, I appreciate it. It was",
+    "start": 3082.88,
+    "duration": 2.44
+  },
+  {
+    "text": "awesome.",
+    "start": 3084.96,
+    "duration": 2.04
+  },
+  {
+    "text": ">> Something you might not know, most of",
+    "start": 3085.32,
+    "duration": 3.6
+  },
+  {
+    "text": "the founders I cover on this podcast are",
+    "start": 3087,
+    "duration": 3.68
+  },
+  {
+    "text": "hanging out right now in the Consumer",
+    "start": 3088.92,
+    "duration": 3.6
+  },
+  {
+    "text": "Club Discord sharing with each other",
+    "start": 3090.68,
+    "duration": 3.56
+  },
+  {
+    "text": "what's working now for consumer apps. So",
+    "start": 3092.52,
+    "duration": 3.4
+  },
+  {
+    "text": "you can apply to join Consumer Club if",
+    "start": 3094.24,
+    "duration": 3.64
+  },
+  {
+    "text": "that sounds interesting to you. And this",
+    "start": 3095.92,
+    "duration": 3.4
+  },
+  {
+    "text": "is the Superwall podcast. Of course, you",
+    "start": 3097.88,
+    "duration": 3.08
+  },
+  {
+    "text": "got to check out superwall.com. We have",
+    "start": 3099.32,
+    "duration": 3.64
+  },
+  {
+    "text": "more videos on the channel. So dig into",
+    "start": 3100.96,
+    "duration": 3.64
+  },
+  {
+    "text": "those to learn from app founders who are",
+    "start": 3102.96,
+    "duration": 3.92
+  },
+  {
+    "text": "willing to share super tactical stuff",
+    "start": 3104.6,
+    "duration": 5.28
+  },
+  {
+    "text": "about app growth.",
+    "start": 3106.88,
+    "duration": 3
+  }
+]

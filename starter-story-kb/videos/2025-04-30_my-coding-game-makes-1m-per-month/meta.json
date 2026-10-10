@@ -1,0 +1,515 @@
+{
+  "id": "tMkpiFIW8Xg",
+  "title": "My Coding Game Makes $1M Per Month",
+  "upload_date": "20250430",
+  "duration": 1035,
+  "view_count": 195375,
+  "like_count": 6471,
+  "comment_count": 224,
+  "description": "This is how Lane Wagner went from working 9-5 as a developer to building his own $1M/month learning platform.\n\nCheck out Posthog (and tell them I sent you!) 👉🏽 https://go.starterstory.com/posthoglane\n\n📚 52+ Micro SaaS Ideas → https://www.starterstory.com/micro?utm_campaign=lane&utm_source=youtube\n\nFollow Lane's Journey\n🏠 https://x.com/wagslane\n\n🔔 The Second Channel: @StarterStoryBuild \n🏁 We're hiring: starterstory.com/jobs\n\nChapters:\n0:00 - Intro\n1:36 - Boot dev business breakdown\n2:07 - The secret sauce to his business\n3:01 - Background\n4:15 - The idea\n4:50 - Building the product\n6:10 - Using posthog for analytics\n8:00 - Growing the business\n9:34 - Collaborating with influencers\n10:22 - Building products people love\n11:06 - Monetizing the business\n12:03 - Tools and tech stack \n12:50 - Costs to run the business\n13:34 - Day in the life\n14:33 - Advice to new founders\n15:59 - Micro saas ideas\n\nThis video is an educational case study of one founder’s experience. It is not financial advice and does not guarantee any income or results. Every business is different and your results may vary.",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 96,
+      "title": "Intro"
+    },
+    {
+      "start": 96,
+      "end": 127,
+      "title": "Boot dev business breakdown"
+    },
+    {
+      "start": 127,
+      "end": 181,
+      "title": "The secret sauce to his business"
+    },
+    {
+      "start": 181,
+      "end": 255,
+      "title": "Background"
+    },
+    {
+      "start": 255,
+      "end": 290,
+      "title": "The idea"
+    },
+    {
+      "start": 290,
+      "end": 370,
+      "title": "Building the product"
+    },
+    {
+      "start": 370,
+      "end": 480,
+      "title": "Using posthog for analytics"
+    },
+    {
+      "start": 480,
+      "end": 574,
+      "title": "Growing the business"
+    },
+    {
+      "start": 574,
+      "end": 622,
+      "title": "Collaborating with influencers"
+    },
+    {
+      "start": 622,
+      "end": 666,
+      "title": "Building products people love"
+    },
+    {
+      "start": 666,
+      "end": 723,
+      "title": "Monetizing the business"
+    },
+    {
+      "start": 723,
+      "end": 770,
+      "title": "Tools and tech stack"
+    },
+    {
+      "start": 770,
+      "end": 814,
+      "title": "Costs to run the business"
+    },
+    {
+      "start": 814,
+      "end": 873,
+      "title": "Day in the life"
+    },
+    {
+      "start": 873,
+      "end": 959,
+      "title": "Advice to new founders"
+    },
+    {
+      "start": 959,
+      "end": 1035,
+      "title": "Micro saas ideas"
+    }
+  ],
+  "heatmap": [
+    {
+      "s": 0,
+      "v": 0.23756381138342078
+    },
+    {
+      "s": 10,
+      "v": 0.09751962985729835
+    },
+    {
+      "s": 20,
+      "v": 0.10035071508630501
+    },
+    {
+      "s": 31,
+      "v": 0.04745198687621968
+    },
+    {
+      "s": 41,
+      "v": 0.06098687566969811
+    },
+    {
+      "s": 51,
+      "v": 0.058749571949876456
+    },
+    {
+      "s": 62,
+      "v": 0.6602166572173124
+    },
+    {
+      "s": 72,
+      "v": 0.16149370118665976
+    },
+    {
+      "s": 82,
+      "v": 0.13467307004002213
+    },
+    {
+      "s": 93,
+      "v": 0.2318364954040226
+    },
+    {
+      "s": 103,
+      "v": 0.28454837864822535
+    },
+    {
+      "s": 113,
+      "v": 0.2725832055787279
+    },
+    {
+      "s": 124,
+      "v": 0.13177307365255633
+    },
+    {
+      "s": 134,
+      "v": 0.120958520719816
+    },
+    {
+      "s": 145,
+      "v": 0.17613174327061704
+    },
+    {
+      "s": 155,
+      "v": 0.23011125886887426
+    },
+    {
+      "s": 165,
+      "v": 0.19262985151612402
+    },
+    {
+      "s": 176,
+      "v": 0.20045090134710167
+    },
+    {
+      "s": 186,
+      "v": 0.26674789509186814
+    },
+    {
+      "s": 196,
+      "v": 0.2775548374738899
+    },
+    {
+      "s": 207,
+      "v": 0.25336466237677036
+    },
+    {
+      "s": 217,
+      "v": 0.2738576160795161
+    },
+    {
+      "s": 227,
+      "v": 0.23562991891607285
+    },
+    {
+      "s": 238,
+      "v": 0.10989200702852196
+    },
+    {
+      "s": 248,
+      "v": 0.22316213239287275
+    },
+    {
+      "s": 259,
+      "v": 0.0675709434504916
+    },
+    {
+      "s": 269,
+      "v": 0.08035098056371874
+    },
+    {
+      "s": 279,
+      "v": 0.12328524841058033
+    },
+    {
+      "s": 290,
+      "v": 0.17156868299801334
+    },
+    {
+      "s": 300,
+      "v": 0.34665071034110684
+    },
+    {
+      "s": 310,
+      "v": 0.37597055517565287
+    },
+    {
+      "s": 321,
+      "v": 0.2444568496861582
+    },
+    {
+      "s": 331,
+      "v": 0.13800324091536711
+    },
+    {
+      "s": 341,
+      "v": 0.10126576489535277
+    },
+    {
+      "s": 352,
+      "v": 0.2808134612448238
+    },
+    {
+      "s": 362,
+      "v": 0.1048718975108143
+    },
+    {
+      "s": 372,
+      "v": 0.074911805187501
+    },
+    {
+      "s": 383,
+      "v": 0.07996144522752795
+    },
+    {
+      "s": 393,
+      "v": 0.12638230653188545
+    },
+    {
+      "s": 404,
+      "v": 0.20500405204845726
+    },
+    {
+      "s": 414,
+      "v": 0.14782142609739793
+    },
+    {
+      "s": 424,
+      "v": 0.0857105424445294
+    },
+    {
+      "s": 435,
+      "v": 0.0752848311779925
+    },
+    {
+      "s": 445,
+      "v": 0.08434925473260932
+    },
+    {
+      "s": 455,
+      "v": 0.046928751604749776
+    },
+    {
+      "s": 466,
+      "v": 0.0353040813129076
+    },
+    {
+      "s": 476,
+      "v": 0.2947283622765236
+    },
+    {
+      "s": 486,
+      "v": 0.2385994210362727
+    },
+    {
+      "s": 497,
+      "v": 0.13527095411170384
+    },
+    {
+      "s": 507,
+      "v": 0.12158494435669216
+    },
+    {
+      "s": 518,
+      "v": 0.15340154530547712
+    },
+    {
+      "s": 528,
+      "v": 0.23212090009884254
+    },
+    {
+      "s": 538,
+      "v": 0.23866787635445444
+    },
+    {
+      "s": 549,
+      "v": 0.14569621944753455
+    },
+    {
+      "s": 559,
+      "v": 0.09755673129205117
+    },
+    {
+      "s": 569,
+      "v": 0.1657786790708998
+    },
+    {
+      "s": 580,
+      "v": 0.1368080277079936
+    },
+    {
+      "s": 590,
+      "v": 0.11988644384477115
+    },
+    {
+      "s": 600,
+      "v": 0.18504215226889617
+    },
+    {
+      "s": 611,
+      "v": 0.16155264331644334
+    },
+    {
+      "s": 621,
+      "v": 0.1119982863973015
+    },
+    {
+      "s": 631,
+      "v": 0.061183669845113746
+    },
+    {
+      "s": 642,
+      "v": 0.061444301478509517
+    },
+    {
+      "s": 652,
+      "v": 0.055540169019331835
+    },
+    {
+      "s": 663,
+      "v": 0.11167751357600113
+    },
+    {
+      "s": 673,
+      "v": 0.07154809041348127
+    },
+    {
+      "s": 683,
+      "v": 0.10585240994752688
+    },
+    {
+      "s": 694,
+      "v": 0.09692650237981575
+    },
+    {
+      "s": 704,
+      "v": 0.10013662870906147
+    },
+    {
+      "s": 714,
+      "v": 0.2674205567881879
+    },
+    {
+      "s": 725,
+      "v": 0.49257846196606714
+    },
+    {
+      "s": 735,
+      "v": 1.0
+    },
+    {
+      "s": 745,
+      "v": 0.7826120707228857
+    },
+    {
+      "s": 756,
+      "v": 0.4208696333521564
+    },
+    {
+      "s": 766,
+      "v": 0.27095823408546765
+    },
+    {
+      "s": 777,
+      "v": 0.18721151596824098
+    },
+    {
+      "s": 787,
+      "v": 0.17598858960436725
+    },
+    {
+      "s": 797,
+      "v": 0.22879286969088714
+    },
+    {
+      "s": 808,
+      "v": 0.21355016538851448
+    },
+    {
+      "s": 818,
+      "v": 0.06151750348131909
+    },
+    {
+      "s": 828,
+      "v": 0.07387646309307279
+    },
+    {
+      "s": 839,
+      "v": 0.08082630305820418
+    },
+    {
+      "s": 849,
+      "v": 0.06077980526889822
+    },
+    {
+      "s": 859,
+      "v": 0.07075323379410148
+    },
+    {
+      "s": 870,
+      "v": 0.1153711675247257
+    },
+    {
+      "s": 880,
+      "v": 0.22105145317445907
+    },
+    {
+      "s": 890,
+      "v": 0.20569813823781533
+    },
+    {
+      "s": 901,
+      "v": 0.22716956300559654
+    },
+    {
+      "s": 911,
+      "v": 0.22774195966002816
+    },
+    {
+      "s": 922,
+      "v": 0.18385999987642765
+    },
+    {
+      "s": 932,
+      "v": 0.1415259943983473
+    },
+    {
+      "s": 942,
+      "v": 0.05794471657310735
+    },
+    {
+      "s": 953,
+      "v": 0.08283295159765551
+    },
+    {
+      "s": 963,
+      "v": 0.04160203004305525
+    },
+    {
+      "s": 973,
+      "v": 0.07416044167632904
+    },
+    {
+      "s": 984,
+      "v": 0.039167654679823014
+    },
+    {
+      "s": 994,
+      "v": 0.06170082063983733
+    },
+    {
+      "s": 1004,
+      "v": 0.06718820608017698
+    },
+    {
+      "s": 1015,
+      "v": 0.027326638628492744
+    },
+    {
+      "s": 1025,
+      "v": 0.0
+    }
+  ],
+  "thumbnail": "https://i.ytimg.com/vi_webp/tMkpiFIW8Xg/maxresdefault.webp",
+  "webpage_url": "https://www.youtube.com/watch?v=tMkpiFIW8Xg",
+  "tags": [
+    "starterstory",
+    "starters story",
+    "starter story",
+    "starter stories",
+    "starter story ideas",
+    "how i built it",
+    "micro-saas ideas",
+    "micro saas ideas",
+    "indie hackers",
+    "saas ideas",
+    "saas",
+    "business ideas",
+    "how i built it: ai apps",
+    "ai app business",
+    "lane wagner",
+    "boot.dev",
+    "boot dev"
+  ]
+}

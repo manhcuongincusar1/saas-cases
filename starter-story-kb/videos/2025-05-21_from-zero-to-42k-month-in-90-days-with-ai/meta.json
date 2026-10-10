@@ -1,0 +1,519 @@
+{
+  "id": "0T55DRYqeeA",
+  "title": "From Zero to $42K/Month in 90 Days with AI",
+  "upload_date": "20250521",
+  "duration": 1136,
+  "view_count": 174282,
+  "like_count": 4305,
+  "comment_count": 107,
+  "description": "This is how CJ Zafir built an AI tool to $42,000 MRR in just 90 days.\n\n🛠️ Want to start building with AI? Check out Starter Story Build → https://build.starterstory.com/build/ai-build-accelerator?utm_source=youtube&utm_campaign=cj\n\nFollow CJ's Journey: https://x.com/cjzafir\n\n🔔 Follow the Second Channel: ‪@StarterStoryBuild‬ \n🏁 We're hiring: starterstory.com/jobs\n\nChapters:\n0:00 - Intro\n1:35 - CJ's story\n2:12 - What issue does CodeGuide solve\n3:00 - The opportunity in AI apps\n3:47 - CJ's backstory\n5:05 - How to find a successful idea\n5:51 - How to validate an idea\n7:17 - How to build a product\n8:32 - The best way to build with AI\n10:24 - CJ's marketing strategy\n12:09 - Converting users into paying customers\n12:40 - CJ's business model & pricing\n13:27 - CJ's tech stack\n14:59 - Day in the life of CJ\n15:53 - CJ's experience with Starter Story\n16:55 - CJ's advice to entrepreneurs\n18:01 - Outro\n\nThis video is an educational case study of one founder’s experience. It is not financial advice and does not guarantee any income or results. Every business is different and your results may vary.",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 95,
+      "title": "Intro"
+    },
+    {
+      "start": 95,
+      "end": 132,
+      "title": "CJ's story"
+    },
+    {
+      "start": 132,
+      "end": 180,
+      "title": "What issue does CodeGuide solve"
+    },
+    {
+      "start": 180,
+      "end": 227,
+      "title": "The opportunity in AI apps"
+    },
+    {
+      "start": 227,
+      "end": 305,
+      "title": "CJ's backstory"
+    },
+    {
+      "start": 305,
+      "end": 351,
+      "title": "How to find a successful idea"
+    },
+    {
+      "start": 351,
+      "end": 437,
+      "title": "How to validate an idea"
+    },
+    {
+      "start": 437,
+      "end": 512,
+      "title": "How to build a product"
+    },
+    {
+      "start": 512,
+      "end": 624,
+      "title": "The best way to build with AI"
+    },
+    {
+      "start": 624,
+      "end": 729,
+      "title": "CJ's marketing strategy"
+    },
+    {
+      "start": 729,
+      "end": 760,
+      "title": "Converting users into paying customers"
+    },
+    {
+      "start": 760,
+      "end": 807,
+      "title": "CJ's business model & pricing"
+    },
+    {
+      "start": 807,
+      "end": 899,
+      "title": "CJ's tech stack"
+    },
+    {
+      "start": 899,
+      "end": 953,
+      "title": "Day in the life of CJ"
+    },
+    {
+      "start": 953,
+      "end": 1015,
+      "title": "CJ's experience with Starter Story"
+    },
+    {
+      "start": 1015,
+      "end": 1081,
+      "title": "CJ's advice to entrepreneurs"
+    },
+    {
+      "start": 1081,
+      "end": 1136,
+      "title": "Outro"
+    }
+  ],
+  "heatmap": [
+    {
+      "s": 0,
+      "v": 0.21886859474528525
+    },
+    {
+      "s": 11,
+      "v": 0.178709651986532
+    },
+    {
+      "s": 22,
+      "v": 0.28775804436479085
+    },
+    {
+      "s": 34,
+      "v": 0.24508885362310381
+    },
+    {
+      "s": 45,
+      "v": 0.16753831858584733
+    },
+    {
+      "s": 56,
+      "v": 0.10322598686418041
+    },
+    {
+      "s": 68,
+      "v": 0.05435701549752951
+    },
+    {
+      "s": 79,
+      "v": 0.15386678713860397
+    },
+    {
+      "s": 90,
+      "v": 0.40640422648064267
+    },
+    {
+      "s": 102,
+      "v": 0.4819442717460586
+    },
+    {
+      "s": 113,
+      "v": 0.21398626027973444
+    },
+    {
+      "s": 124,
+      "v": 0.23568759039132617
+    },
+    {
+      "s": 136,
+      "v": 0.25798473098091623
+    },
+    {
+      "s": 147,
+      "v": 0.3544246490568499
+    },
+    {
+      "s": 159,
+      "v": 0.26250860934080783
+    },
+    {
+      "s": 170,
+      "v": 0.18378720646616925
+    },
+    {
+      "s": 181,
+      "v": 0.21880708913466956
+    },
+    {
+      "s": 193,
+      "v": 0.2744084877541651
+    },
+    {
+      "s": 204,
+      "v": 0.12888875064643074
+    },
+    {
+      "s": 215,
+      "v": 0.16741015677222373
+    },
+    {
+      "s": 227,
+      "v": 0.26208678838630356
+    },
+    {
+      "s": 238,
+      "v": 0.36745921553663885
+    },
+    {
+      "s": 249,
+      "v": 0.303278889729259
+    },
+    {
+      "s": 261,
+      "v": 0.24533864479170717
+    },
+    {
+      "s": 272,
+      "v": 0.2521421250947238
+    },
+    {
+      "s": 284,
+      "v": 0.19598257813379566
+    },
+    {
+      "s": 295,
+      "v": 0.27626265076569084
+    },
+    {
+      "s": 306,
+      "v": 0.4088332961025065
+    },
+    {
+      "s": 318,
+      "v": 0.7156577028855402
+    },
+    {
+      "s": 329,
+      "v": 1.0
+    },
+    {
+      "s": 340,
+      "v": 0.924520153853471
+    },
+    {
+      "s": 352,
+      "v": 0.6702781196780091
+    },
+    {
+      "s": 363,
+      "v": 0.780866865804481
+    },
+    {
+      "s": 374,
+      "v": 0.7053246598027444
+    },
+    {
+      "s": 386,
+      "v": 0.49060500541603635
+    },
+    {
+      "s": 397,
+      "v": 0.37546368836132193
+    },
+    {
+      "s": 408,
+      "v": 0.23099741070926746
+    },
+    {
+      "s": 420,
+      "v": 0.20956147429250144
+    },
+    {
+      "s": 431,
+      "v": 0.3140101364160776
+    },
+    {
+      "s": 443,
+      "v": 0.383605041319434
+    },
+    {
+      "s": 454,
+      "v": 0.304657715875083
+    },
+    {
+      "s": 465,
+      "v": 0.36935684452298695
+    },
+    {
+      "s": 477,
+      "v": 0.15688445640911702
+    },
+    {
+      "s": 488,
+      "v": 0.14347831865669938
+    },
+    {
+      "s": 499,
+      "v": 0.21306307312431694
+    },
+    {
+      "s": 511,
+      "v": 0.22681698892499524
+    },
+    {
+      "s": 522,
+      "v": 0.16060238012140676
+    },
+    {
+      "s": 533,
+      "v": 0.150401317828057
+    },
+    {
+      "s": 545,
+      "v": 0.16671975126809468
+    },
+    {
+      "s": 556,
+      "v": 0.22068640211197402
+    },
+    {
+      "s": 568,
+      "v": 0.22661885442935997
+    },
+    {
+      "s": 579,
+      "v": 0.1522730179785573
+    },
+    {
+      "s": 590,
+      "v": 0.060765885048777495
+    },
+    {
+      "s": 602,
+      "v": 0.10206876181542754
+    },
+    {
+      "s": 613,
+      "v": 0.45149472326834383
+    },
+    {
+      "s": 624,
+      "v": 0.4881035762522717
+    },
+    {
+      "s": 636,
+      "v": 0.45463216265560724
+    },
+    {
+      "s": 647,
+      "v": 0.5101121831685324
+    },
+    {
+      "s": 658,
+      "v": 0.4100245653107301
+    },
+    {
+      "s": 670,
+      "v": 0.5155645249004385
+    },
+    {
+      "s": 681,
+      "v": 0.5916522916982978
+    },
+    {
+      "s": 692,
+      "v": 0.5420749003165655
+    },
+    {
+      "s": 704,
+      "v": 0.5088347860055742
+    },
+    {
+      "s": 715,
+      "v": 0.21610993745999968
+    },
+    {
+      "s": 727,
+      "v": 0.2879119340155347
+    },
+    {
+      "s": 738,
+      "v": 0.3241095184781522
+    },
+    {
+      "s": 749,
+      "v": 0.2733891980821606
+    },
+    {
+      "s": 761,
+      "v": 0.21624541060233615
+    },
+    {
+      "s": 772,
+      "v": 0.368653449476093
+    },
+    {
+      "s": 783,
+      "v": 0.5026582961081596
+    },
+    {
+      "s": 795,
+      "v": 0.34210041208005365
+    },
+    {
+      "s": 806,
+      "v": 0.5552096646620143
+    },
+    {
+      "s": 817,
+      "v": 0.6093437474459029
+    },
+    {
+      "s": 829,
+      "v": 0.689293202295898
+    },
+    {
+      "s": 840,
+      "v": 0.7605838329638265
+    },
+    {
+      "s": 852,
+      "v": 0.9395503361992653
+    },
+    {
+      "s": 863,
+      "v": 0.7993395533562051
+    },
+    {
+      "s": 874,
+      "v": 0.4351401603070376
+    },
+    {
+      "s": 886,
+      "v": 0.1854472047069279
+    },
+    {
+      "s": 897,
+      "v": 0.3891857207388502
+    },
+    {
+      "s": 908,
+      "v": 0.36490376796485796
+    },
+    {
+      "s": 920,
+      "v": 0.24246403636549377
+    },
+    {
+      "s": 931,
+      "v": 0.11103001370786196
+    },
+    {
+      "s": 942,
+      "v": 0.08652499003360373
+    },
+    {
+      "s": 954,
+      "v": 0.18803981191845573
+    },
+    {
+      "s": 965,
+      "v": 0.11028237381607667
+    },
+    {
+      "s": 976,
+      "v": 0.03942234523456011
+    },
+    {
+      "s": 988,
+      "v": 0.1471328523953031
+    },
+    {
+      "s": 999,
+      "v": 0.021695513710914636
+    },
+    {
+      "s": 1011,
+      "v": 0.1912589824132897
+    },
+    {
+      "s": 1022,
+      "v": 0.16855635201580493
+    },
+    {
+      "s": 1033,
+      "v": 0.1858969896093959
+    },
+    {
+      "s": 1045,
+      "v": 0.223213935985473
+    },
+    {
+      "s": 1056,
+      "v": 0.246044476948172
+    },
+    {
+      "s": 1067,
+      "v": 0.14976538297908104
+    },
+    {
+      "s": 1079,
+      "v": 0.07317084813950679
+    },
+    {
+      "s": 1090,
+      "v": 0.12548522663121586
+    },
+    {
+      "s": 1101,
+      "v": 0.07156519492969655
+    },
+    {
+      "s": 1113,
+      "v": 0.04621268524576629
+    },
+    {
+      "s": 1124,
+      "v": 0.0
+    }
+  ],
+  "thumbnail": "https://i.ytimg.com/vi_webp/0T55DRYqeeA/maxresdefault.webp",
+  "webpage_url": "https://www.youtube.com/watch?v=0T55DRYqeeA",
+  "tags": [
+    "starterstory",
+    "starters story",
+    "starter story",
+    "starter stories",
+    "starter story ideas",
+    "how i built it",
+    "micro-saas ideas",
+    "micro saas ideas",
+    "indie hackers",
+    "saas ideas",
+    "saas",
+    "business ideas",
+    "how i built it: ai apps",
+    "ai app business",
+    "cj zafir",
+    "codeguide"
+  ]
+}

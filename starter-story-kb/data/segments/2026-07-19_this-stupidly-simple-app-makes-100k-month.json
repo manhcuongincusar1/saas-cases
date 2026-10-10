@@ -1,0 +1,103 @@
+{
+ "f": "2026-07-19_this-stupidly-simple-app-makes-100k-month",
+ "vid": "EQfZCe3MkTU",
+ "segments": [
+  {
+   "s": "01:34",
+   "e": "02:23",
+   "nut": ["?"],
+   "moi": "Gói tuần giá thấp bán cho khách teen",
+   "tom": "Go Tall dự đoán chiều cao cho teen rồi gợi ý thói quen để chạm ngưỡng chiều cao tối đa; bán $35/năm hoặc $5/tuần, ai không trả vẫn dùng được vài tính năng.",
+   "kq": "~$100K/tháng, ~700K lượt tải iOS + vài trăm nghìn Android"
+  },
+  {
+   "s": "02:38",
+   "e": "03:24",
+   "nut": ["?"],
+   "moi": "Chọn dự án để học marketing, chấp nhận nó có thể chết",
+   "tom": "Michael học tài chính ở NYU, bị từ chối hết các job mơ ước; anh thấy startup cất cánh nhờ marketing giỏi, còn mình biết code từ hồi teen mà dở marketing — nên làm bất kỳ ý tưởng nào, app chết thì vẫn lời kỹ năng."
+  },
+  {
+   "s": "04:40",
+   "e": "05:26",
+   "nut": ["2.4"],
+   "tom": "Anh lùng acquire.com để tìm ý tưởng đã có người trả tiền, thấy một app cùng dạng rao bán khoảng $20.000; không mua, tự build vì nhớ hồi 13 tuổi chính mình từng google 'height calculator'.",
+   "kq": "đơn đầu tiên sau 2 ngày ra mắt, khi còn gần như không có view"
+  },
+  {
+   "s": "05:26",
+   "e": "05:56",
+   "nut": ["2.5"],
+   "tom": "Dưới mọi video TikTok về chiều cao, người lạ tự khai 'em cao 1m83, 15 tuổi, mẹ em cao chừng này, bố em chừng này' mà chẳng ai hỏi — format viral đầu tiên của anh chỉ là reply từng comment đó và đoán chiều cao."
+  },
+  {
+   "s": "06:26",
+   "e": "07:12",
+   "nut": ["2.B1"],
+   "tom": "Lời khuyên tìm ý tưởng: đừng dừng vì 'có người làm rồi'. Ngay lúc này vẫn còn app đếm calo kiếm $30K/tháng dù đã có Cal AI — làm lại đúng ý tưởng người khác với vài chỉnh sửa riêng vẫn thắng được."
+  },
+  {
+   "s": "07:12",
+   "e": "08:00",
+   "nut": ["?"],
+   "moi": "Soi ý tưởng qua tháp nhu cầu Maslow, càng chạm nhiều tầng càng tốt",
+   "tom": "Anh nhận 10–20 DM mỗi ngày xin đoán chiều cao. Khung anh dùng để chấm ý tưởng là tháp Maslow: app này chạm esteem (muốn được tôn trọng) và love/belonging (nghĩ cao mới có bạn gái), tức 2 trên 5 tầng."
+  },
+  {
+   "s": "08:14",
+   "e": "08:44",
+   "nut": ["3.6"],
+   "tom": "Pat chốt tín hiệu quan trọng nhất: người ta quan tâm tới mức chủ động nhắn DM. Phần lớn startup build xong không nhận nổi một cái DM nào — có DM tự đến nghĩa là nhu cầu có thật."
+  },
+  {
+   "s": "08:44",
+   "e": "09:14",
+   "nut": ["4.1", "4.2"],
+   "tom": "Một tháng đầu anh tự làm 10 TikTok mỗi ngày thuần thử nghiệm cho tới khi ra format thắng; vì chỉ chạy đúng một kênh nên attribution sạch, biết chính xác 100.000 view đổi ra bao nhiêu lượt tải, từ đó biết trả creator được bao nhiêu."
+  },
+  {
+   "s": "09:14",
+   "e": "09:46",
+   "nut": ["4.6", "4.4"],
+   "tom": "Anh nhân bản format trên hai account khác của mình, cả account bạn gái cũng nổ — chứng minh format dạy được cho bất kỳ ai; sau đó DM 50 người mỗi ngày mời quay đúng format đó với giá rất rẻ."
+  },
+  {
+   "s": "09:46",
+   "e": "10:17",
+   "nut": ["4.2", "4.3"],
+   "tom": "Thang doanh thu: tự làm cộng vài UGC creator ra ~$3K/tháng, tối ưu paywall lên ~$10K, tháng thứ 5 chạm ~$30K nhờ mở thêm format, qua mốc đó mới đổ paid ads để đẩy lên trên $100K.",
+   "kq": "$3K → $10K → $30K → $100K/tháng"
+  },
+  {
+   "s": "10:17",
+   "e": "10:48",
+   "nut": ["?"],
+   "moi": "Ứng tiền doanh thu app để không kẹt vốn chờ Apple trả",
+   "tom": "Stack rất rẻ: Expo để một codebase ra cả iOS lẫn Android, Superwall cho paywall, Adapty để ứng tiền trước vì chu kỳ thanh toán của Apple quá dài, và MMP Singular giá 3 cent mỗi install."
+  },
+  {
+   "s": "10:48",
+   "e": "11:52",
+   "nut": ["4.12"],
+   "tom": "Onboarding dài có lý do: người dùng tự nguyện khai thêm để dự đoán chính xác hơn. App lấy dữ liệu CDC làm gốc rồi điều chỉnh bằng loạt câu hỏi có dẫn nghiên cứu, gồm cả quiz dậy thì.",
+   "kq": "paywall show rate ~91% dù onboarding rất dài"
+  },
+  {
+   "s": "11:52",
+   "e": "12:40",
+   "nut": ["?"],
+   "moi": "Dự đoán tự thay đổi theo dữ liệu log để giữ subscription",
+   "tom": "Muốn xem con số dự đoán cuối thì phải trả tiền; giữ chân bằng bài giãn cơ, scan bữa ăn và log giấc ngủ — càng log đều thì dự đoán chiều cao càng đổi theo từng tuần nên người dùng có lý do quay lại."
+  },
+  {
+   "s": "13:10",
+   "e": "14:12",
+   "nut": ["2.B2"],
+   "tom": "Anh lớn lên trong môi trường chỉ có hai đường: job corporate danh giá hoặc startup gọi vốn tỷ đô. Vứt ego để làm app đoán chiều cao thì zero social status, ai nghe cũng đáp 'ừ, chúc may mắn' — nhưng ngọc nằm đúng chỗ đó."
+  }
+ ],
+ "bo_qua": [
+  {"s": "03:24", "e": "04:14", "ly_do": "quảng cáo database 50+ ý tưởng app health/wealth/self-improvement"},
+  {"s": "17:02", "e": "17:22", "ly_do": "nhắc lại quảng cáo database ý tưởng ở cuối video"}
+ ]
+}

@@ -1,0 +1,4872 @@
+[
+  {
+    "text": "In the last 30 days, Mori's app got almost 400 million views.",
+    "start": "00:00:00",
+    "end": "00:00:05"
+  },
+  {
+    "text": "One app, one month, and they're approaching 500k revenue a month 14 months after launching from his college dorm.",
+    "start": "00:00:05",
+    "end": "00:00:13"
+  },
+  {
+    "text": "Ballpark between 350 and 370 million, I want to say.",
+    "start": "00:00:10",
+    "end": "00:00:14"
+  },
+  {
+    "text": "That's a conservative like There's a part of me that wants to say 400 million, but I don't know yet.",
+    "start": "00:00:14",
+    "end": "00:00:20"
+  },
+  {
+    "text": ">> Most founders would call this luck.",
+    "start": "00:00:18",
+    "end": "00:00:22"
+  },
+  {
+    "text": "Maybe he just rode an AI trend at the right moment, but the thing is it's not like Pingo just went viral once and had its 15 minutes of fame.",
+    "start": "00:00:20",
+    "end": "00:00:28"
+  },
+  {
+    "text": "This language learning app is consistently going viral in Korean, German, French, Arabic, Japanese every month with multiple formats with the same conversion rate baked in.",
+    "start": "00:00:28",
+    "end": "00:00:37"
+  },
+  {
+    "text": "Mori calls this going meaningfully viral.",
+    "start": "00:00:37",
+    "end": "00:00:40"
+  },
+  {
+    "text": "Every single video his 100 creators post has to show the product.",
+    "start": "00:00:40",
+    "end": "00:00:43"
+  },
+  {
+    "text": "No gimmicks or cheap views.",
+    "start": "00:00:43",
+    "end": "00:00:46"
+  },
+  {
+    "text": ">> I want us to go viral because of the product, not necessarily any gimmicks.",
+    "start": "00:00:44",
+    "end": "00:00:50"
+  },
+  {
+    "text": "And that way when we do go viral, it converts well.",
+    "start": "00:00:48",
+    "end": "00:00:51"
+  },
+  {
+    "text": "And the video format that finally cracked the code, the one video that hit 52 million views, is Pingo roasting a user so hard they start crying on camera.",
+    "start": "00:00:51",
+    "end": "00:00:59"
+  },
+  {
+    "text": "And here's what nobody expected.",
+    "start": "00:00:59",
+    "end": "00:01:03"
+  },
+  {
+    "text": ">> Did you do any product development work to actually sort of make the the roasting concept more viral?",
+    "start": "00:01:00",
+    "end": "00:01:09"
+  },
+  {
+    "text": "No, actually.",
+    "start": "00:01:09",
+    "end": "00:01:09"
+  },
+  {
+    "text": "What we've had in the product since day one is sort of the ability to make what we call custom scenarios.",
+    "start": "00:01:09",
+    "end": "00:01:15"
+  },
+  {
+    "text": "And so what the creators will do is they'll go into custom scenario.",
+    "start": "00:01:15",
+    "end": "00:01:18"
+  },
+  {
+    "text": "That realization that the best marketing insight didn't come from Mori or his team at all reshaped how he built everything that came after.",
+    "start": "00:01:18",
+    "end": "00:01:25"
+  },
+  {
+    "text": "He stopped trying to engineer virality in-house and started building infrastructure to let creators repeatedly find virality themselves.",
+    "start": "00:01:25",
+    "end": "00:01:32"
+  },
+  {
+    "text": ">> Everything that's has gone viral for us since August only has used Pingo.",
+    "start": "00:01:30",
+    "end": "00:01:35"
+  },
+  {
+    "text": "We have one creator who tries videos not doing that, and they'll go viral but they don't convert.",
+    "start": "00:01:35",
+    "end": "00:01:39"
+  },
+  {
+    "text": ">> He now runs his creator program like a VC portfolio.",
+    "start": "00:01:38",
+    "end": "00:01:41"
+  },
+  {
+    "text": "The top 20% carry the views, the rest get cut.",
+    "start": "00:01:41",
+    "end": "00:01:44"
+  },
+  {
+    "text": "He's coaching the mid-range, scaling the winners on CPM-based platforms, and running weekly format experiments across languages.",
+    "start": "00:01:44",
+    "end": "00:01:51"
+  },
+  {
+    "text": "But scaling to 20 languages comes with its own set of problems.",
+    "start": "00:01:51",
+    "end": "00:01:54"
+  },
+  {
+    "text": "We got about in February 200 something thousand Russian users who couldn't pay us anything.",
+    "start": "00:01:54",
+    "end": "00:01:59"
+  },
+  {
+    "text": "Russia is completely unmonetizable because of sanctions.",
+    "start": "00:01:58",
+    "end": "00:02:01"
+  },
+  {
+    "text": "These were like kind of like dead users.",
+    "start": "00:02:01",
+    "end": "00:02:05"
+  },
+  {
+    "text": ">> 200,000 users, zero dollars.",
+    "start": "00:02:02",
+    "end": "00:02:05"
+  },
+  {
+    "text": "The content went viral in the wrong country.",
+    "start": "00:02:05",
+    "end": "00:02:08"
+  },
+  {
+    "text": "So he rebuilt his entire distribution strategy, not just tracking which videos go viral, but which country they go viral in and whether those users can actually convert.",
+    "start": "00:02:08",
+    "end": "00:02:17"
+  },
+  {
+    "text": ">> And he's doing all this while scaling to $500,000 a month.",
+    "start": "00:02:15",
+    "end": "00:02:19"
+  },
+  {
+    "text": "We're at around like 500k a month, like 450 February K a month.",
+    "start": "00:02:19",
+    "end": "00:02:24"
+  },
+  {
+    "text": ">> In this episode, Mori breaks down the full playbook.",
+    "start": "00:02:22",
+    "end": "00:02:26"
+  },
+  {
+    "text": "How creators found the mean Pingo format inside a feature that was never designed for marketing, and what that taught him about product-led virality.",
+    "start": "00:02:26",
+    "end": "00:02:33"
+  },
+  {
+    "text": "His creator VC model, how to recruit, rank, coach, and cut 100 creators across 20 languages.",
+    "start": "00:02:33",
+    "end": "00:02:40"
+  },
+  {
+    "text": "Why going viral in the wrong country can be more damaging than not going viral at all, and how to build geo-targeted distribution before it costs you.",
+    "start": "00:02:40",
+    "end": "00:02:47"
+  },
+  {
+    "text": "And the paywall experiments, three-day versus seven-day trials, transaction abandoned flows, country-level price localization that took Pingo to half a million a month.",
+    "start": "00:02:47",
+    "end": "00:02:55"
+  },
+  {
+    "text": "This is how you build a distribution machine that compounds across languages, cultures, and formats.",
+    "start": "00:02:55",
+    "end": "00:03:01"
+  },
+  {
+    "text": "Let's get into it.",
+    "start": "00:02:59",
+    "end": "00:03:01"
+  },
+  {
+    "text": "This is the Superwall podcast, and I'm Joseph Choi, founder of Consumer Club.",
+    "start": "00:03:01",
+    "end": "00:03:04"
+  },
+  {
+    "text": "The members in the Consumer Club Discord and the founders I interview on the pod build apps at a median of 1 million ARR.",
+    "start": "00:03:04",
+    "end": "00:03:11"
+  },
+  {
+    "text": "A lot of these apps that make the most money run AB tests on their paywalls to make more revenue with the same number of users.",
+    "start": "00:03:11",
+    "end": "00:03:18"
+  },
+  {
+    "text": "Superwall has a lot of data on the thousands of apps that use paywalls.",
+    "start": "00:03:16",
+    "end": "00:03:22"
+  },
+  {
+    "text": "So recently they put together a free AI tool trained on 422 profitable paywall experiments.",
+    "start": "00:03:22",
+    "end": "00:03:26"
+  },
+  {
+    "text": "It lets you upload a screenshot of your own paywall and gives you an experiment idea to increase your revenue.",
+    "start": "00:03:26",
+    "end": "00:03:31"
+  },
+  {
+    "text": "You can use it for free at paywallexperiments.",
+    "start": "00:03:31",
+    "end": "00:03:35"
+  },
+  {
+    "text": "com.",
+    "start": "00:03:35",
+    "end": "00:03:35"
+  },
+  {
+    "text": "Also, if you're building a mobile app doing at least 100k a month in revenue, Superwall hosts dinners in San Francisco and New York.",
+    "start": "00:03:34",
+    "end": "00:03:40"
+  },
+  {
+    "text": "They keep each gathering small, thoughtful, genuinely useful for everyone.",
+    "start": "00:03:40",
+    "end": "00:03:43"
+  },
+  {
+    "text": "If you meet this criteria of 100k a month in revenue and want an invite, apply using the typeform in the description.",
+    "start": "00:03:43",
+    "end": "00:03:49"
+  },
+  {
+    "text": "Let's get into the pod.",
+    "start": "00:03:49",
+    "end": "00:03:51"
+  },
+  {
+    "text": "How many views did you get for your app this past month?",
+    "start": "00:03:51",
+    "end": "00:03:54"
+  },
+  {
+    "text": "Ballpark between 350 and 370 million, I want to say.",
+    "start": "00:03:54",
+    "end": "00:03:58"
+  },
+  {
+    "text": "I'd probably err like that's a conservative like There's a part of me that wants to say 400 million, but I don't know yet.",
+    "start": "00:03:58",
+    "end": "00:04:04"
+  },
+  {
+    "text": "We still got We still got a few days, but like at least 350 million so far.",
+    "start": "00:04:04",
+    "end": "00:04:09"
+  },
+  {
+    "text": "That is so crazy.",
+    "start": "00:04:09",
+    "end": "00:04:09"
+  },
+  {
+    "text": "And your So your app Pingo, you guys only started like a like a year ago, right?",
+    "start": "00:04:09",
+    "end": "00:04:14"
+  },
+  {
+    "text": "Yeah, a year and two months back in I guess January 25th was like what we call launch.",
+    "start": "00:04:14",
+    "end": "00:04:20"
+  },
+  {
+    "text": "It was really like the last week of December.",
+    "start": "00:04:20",
+    "end": "00:04:23"
+  },
+  {
+    "text": "Tell me about your app first, and then we'll get into the distribution stuff.",
+    "start": "00:04:23",
+    "end": "00:04:28"
+  },
+  {
+    "text": ">> Yeah, so Pingo started The background is like I've been learning Chinese for like 7 8 years, not fluent.",
+    "start": "00:04:25",
+    "end": "00:04:32"
+  },
+  {
+    "text": "My freshman year roommate Michael, his parents are from China, he speaks Chinese.",
+    "start": "00:04:32",
+    "end": "00:04:36"
+  },
+  {
+    "text": "He would say he's not fluent, but he is fluent.",
+    "start": "00:04:36",
+    "end": "00:04:39"
+  },
+  {
+    "text": "Um and we were random roommates freshman year, and we'd practice speaking Chinese.",
+    "start": "00:04:39",
+    "end": "00:04:41"
+  },
+  {
+    "text": "And he's been an entrepreneur building apps forever.",
+    "start": "00:04:41",
+    "end": "00:04:44"
+  },
+  {
+    "text": "Um and I think he's like the smartest guy.",
+    "start": "00:04:44",
+    "end": "00:04:46"
+  },
+  {
+    "text": "And sophomore year comes to me and goes, \"Hey, like I have this app idea.",
+    "start": "00:04:46",
+    "end": "00:04:49"
+  },
+  {
+    "text": "Like I'm working on Pingo, and like here's what it is.",
+    "start": "00:04:49",
+    "end": "00:04:51"
+  },
+  {
+    "text": "\" And he kind of brought me on, and from there it's became what it is today.",
+    "start": "00:04:51",
+    "end": "00:04:55"
+  },
+  {
+    "text": "And what Pingo is is from that kind of problem of us speaking Chinese freshman year it's like an AI companion to help you learn languages.",
+    "start": "00:04:55",
+    "end": "00:05:03"
+  },
+  {
+    "text": "Our whole philosophy is like There's a lot of apps like Duolingo that don't actually help you get conversationally fluent.",
+    "start": "00:05:03",
+    "end": "00:05:09"
+  },
+  {
+    "text": "Most people want is to be conversationally fluent.",
+    "start": "00:05:09",
+    "end": "00:05:10"
+  },
+  {
+    "text": "You want to go to China?",
+    "start": "00:05:10",
+    "end": "00:05:12"
+  },
+  {
+    "text": "Like you really want to be able to talk to a local and get around.",
+    "start": "00:05:12",
+    "end": "00:05:14"
+  },
+  {
+    "text": "You anywhere you visit, people are going to like speak and connect.",
+    "start": "00:05:14",
+    "end": "00:05:17"
+  },
+  {
+    "text": "And not everyone has like a Michael, which is what I had.",
+    "start": "00:05:17",
+    "end": "00:05:20"
+  },
+  {
+    "text": "Not everyone has someone who's a native speaker to practice with.",
+    "start": "00:05:20",
+    "end": "00:05:25"
+  },
+  {
+    "text": "So which is why we built Pingo.",
+    "start": "00:05:25",
+    "end": "00:05:26"
+  },
+  {
+    "text": "It's evolved over time.",
+    "start": "00:05:26",
+    "end": "00:05:28"
+  },
+  {
+    "text": "It started just in like what we call like the role-play scenarios, which is literally like it'd be like what you and I are doing right now, but in Chinese, German, insert any other of like 20 languages.",
+    "start": "00:05:28",
+    "end": "00:05:37"
+  },
+  {
+    "text": "And then we plan to evolve the product a lot more to be more focused towards beginners, more of a guided and structured lessons, more of a plan, more memory, like all these things to really enhance the experience and like index on conversation quality and like new learner experience.",
+    "start": "00:05:37",
+    "end": "00:05:52"
+  },
+  {
+    "text": "And so what it is now is like a full AI companion to help you learn and help you speak and get really conversationally >> a year ago.",
+    "start": "00:05:52",
+    "end": "00:05:59"
+  },
+  {
+    "text": "The AI component's interesting too, cuz yeah, Duolingo already exists, is huge, but then huge >> uh they don't like they're starting to use more AI in like conversational stuff, but they've always been a little bit more like multiple choice.",
+    "start": "00:05:59",
+    "end": "00:06:12"
+  },
+  {
+    "text": "When you're in the ideation stage, were you already thinking about like, okay, what kind of AI app can I build?",
+    "start": "00:06:12",
+    "end": "00:06:18"
+  },
+  {
+    "text": "How much was like AI a a driver in your ideation?",
+    "start": "00:06:18",
+    "end": "00:06:22"
+  },
+  {
+    "text": ">> A lot.",
+    "start": "00:06:20",
+    "end": "00:06:20"
+  },
+  {
+    "text": "So My Michael really ideated it, um my co-founder.",
+    "start": "00:06:20",
+    "end": "00:06:23"
+  },
+  {
+    "text": "I don't know if I had mentioned he's the co-founder.",
+    "start": "00:06:23",
+    "end": "00:06:27"
+  },
+  {
+    "text": "That's what Michael is.",
+    "start": "00:06:27",
+    "end": "00:06:27"
+  },
+  {
+    "text": "And he was kind of like in the whole viral app space.",
+    "start": "00:06:27",
+    "end": "00:06:31"
+  },
+  {
+    "text": "He'd built an app for a bit, like a food app.",
+    "start": "00:06:31",
+    "end": "00:06:33"
+  },
+  {
+    "text": "Wasn't doing super well.",
+    "start": "00:06:32",
+    "end": "00:06:34"
+  },
+  {
+    "text": "And he was like, \"I'm only I don't want to build an app that's not going to go viral.",
+    "start": "00:06:34",
+    "end": "00:06:39"
+  },
+  {
+    "text": "\" Like right now virality is like just such like by far the best growth lever.",
+    "start": "00:06:39",
+    "end": "00:06:43"
+  },
+  {
+    "text": "And so there's kind of not a point in building a consumer app that won't go viral.",
+    "start": "00:06:43",
+    "end": "00:06:45"
+  },
+  {
+    "text": "And between our problem root of the speaking, the philosophy on virality, looking at other viral apps, and AI being the big thing, it was like, \"What AI feature like seems like it would be inherently viral?",
+    "start": "00:06:45",
+    "end": "00:06:58"
+  },
+  {
+    "text": "\" It's like, \"Well, like talking to an AI is kind of really interesting.",
+    "start": "00:06:58",
+    "end": "00:07:00"
+  },
+  {
+    "text": "\" Like that's like It's been around, but it's getting better and better.",
+    "start": "00:07:00",
+    "end": "00:07:03"
+  },
+  {
+    "text": "So the thought of having like a really good conversation with an AI, that could be an interesting hook.",
+    "start": "00:07:03",
+    "end": "00:07:07"
+  },
+  {
+    "text": "Like we could try that out and see what happens.",
+    "start": "00:07:07",
+    "end": "00:07:10"
+  },
+  {
+    "text": "Which was kind of the root of all like our early UGC.",
+    "start": "00:07:10",
+    "end": "00:07:14"
+  },
+  {
+    "text": "So yeah, like AI and the virality within using AI and that in itself being interesting to people was kind of a big core component of like the early idea.",
+    "start": "00:07:14",
+    "end": "00:07:23"
+  },
+  {
+    "text": "That makes sense.",
+    "start": "00:07:23",
+    "end": "00:07:23"
+  },
+  {
+    "text": "Yeah, starting with the actual product development with the distribution in mind seems to be what a lot of like viral app founders are doing these days.",
+    "start": "00:07:23",
+    "end": "00:07:32"
+  },
+  {
+    "text": "Is this the main thing that is sort of like the viral feature, like talking to the AI, or is there other things?",
+    "start": "00:07:32",
+    "end": "00:07:37"
+  },
+  {
+    "text": "Talking to the AI is the main thing.",
+    "start": "00:07:37",
+    "end": "00:07:39"
+  },
+  {
+    "text": "Like that screen right there is like a little vocab practice.",
+    "start": "00:07:39",
+    "end": "00:07:43"
+  },
+  {
+    "text": "That's like a really small feature in the app that like we don't really use in marketing all that much.",
+    "start": "00:07:43",
+    "end": "00:07:48"
+  },
+  {
+    "text": "There've been some creators who like use the vocab and go viral with it, which has been interesting, but it's mainly like if you look at that second screen, like the whole Sorry, the third one there.",
+    "start": "00:07:48",
+    "end": "00:07:57"
+  },
+  {
+    "text": "Yeah, the whole to speak.",
+    "start": "00:07:57",
+    "end": "00:07:56"
+  },
+  {
+    "text": "Like that is kind of like the main screen we use in marketing.",
+    "start": "00:07:56",
+    "end": "00:07:59"
+  },
+  {
+    "text": "People holding that and talking to Pingo.",
+    "start": "00:07:59",
+    "end": "00:08:02"
+  },
+  {
+    "text": "Or the flip side of it, which is when you're not speaking, it'll show Pingo.",
+    "start": "00:08:02",
+    "end": "00:08:06"
+  },
+  {
+    "text": "Pingo's like kind of like the character in a way.",
+    "start": "00:08:06",
+    "end": "00:08:09"
+  },
+  {
+    "text": "Like you're talking to Pingo, which is just the sort of like sound waves of different colors.",
+    "start": "00:08:09",
+    "end": "00:08:14"
+  },
+  {
+    "text": "And so when Pingo's talking, that plus the user holding the screen are the two things we use mainly in marketing.",
+    "start": "00:08:12",
+    "end": "00:08:18"
+  },
+  {
+    "text": "Pingo is like >> Yeah.",
+    "start": "00:08:18",
+    "end": "00:08:19"
+  },
+  {
+    "text": "This char- That's interesting that like a character can just be like four colored lines.",
+    "start": "00:08:19",
+    "end": "00:08:24"
+  },
+  {
+    "text": "Like >> Yeah.",
+    "start": "00:08:24",
+    "end": "00:08:25"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:08:25",
+    "end": "00:08:27"
+  },
+  {
+    "text": ">> That's our whole thing.",
+    "start": "00:08:25",
+    "end": "00:08:27"
+  },
+  {
+    "text": "We don't really like the whole like AI characters people do with with voice AI.",
+    "start": "00:08:27",
+    "end": "00:08:32"
+  },
+  {
+    "text": "Like the super like ChatGPT like fake Disney avatar thing.",
+    "start": "00:08:32",
+    "end": "00:08:34"
+  },
+  {
+    "text": "We don't really like the avatars.",
+    "start": "00:08:34",
+    "end": "00:08:37"
+  },
+  {
+    "text": "And so our whole thought is we want Pingo Like this is Pingo.",
+    "start": "00:08:36",
+    "end": "00:08:39"
+  },
+  {
+    "text": "And we're do working a lot right now to make Pingo more dynamic and more interesting kind of evolve and morph shape.",
+    "start": "00:08:39",
+    "end": "00:08:44"
+  },
+  {
+    "text": "We have a lot of cool ideas in the pipeline for how Pingo can be expressive as just four lines.",
+    "start": "00:08:44",
+    "end": "00:08:48"
+  },
+  {
+    "text": "But we really want to stay away from like the avatar route for for lack of better word, and really like index on like creating Pingo to be as expressive as you can.",
+    "start": "00:08:48",
+    "end": "00:08:57"
+  },
+  {
+    "text": "Though we'll still be like really minimal and simple.",
+    "start": "00:08:57",
+    "end": "00:09:01"
+  },
+  {
+    "text": ">> Do you feel like that's a contrarian take?",
+    "start": "00:08:59",
+    "end": "00:09:01"
+  },
+  {
+    "text": "Is that Cuz I feel like there's so many apps these days that start out with a character because they feel like it builds a personal connection with the user.",
+    "start": "00:09:01",
+    "end": "00:09:08"
+  },
+  {
+    "text": "It might be.",
+    "start": "00:09:08",
+    "end": "00:09:10"
+  },
+  {
+    "text": "I'm not really sure.",
+    "start": "00:09:10",
+    "end": "00:09:12"
+  },
+  {
+    "text": "Like our our philosophy is like building like we totally are with building a connection with the user, right?",
+    "start": "00:09:10",
+    "end": "00:09:16"
+  },
+  {
+    "text": "Like we we think of ourselves like an AI companion to learn languages before like just an AI language learning app, which maybe is like on paper sounds kind of similar.",
+    "start": "00:09:16",
+    "end": "00:09:23"
+  },
+  {
+    "text": "But we think like we build connection with the user through conversation, like through the way Pingo learns about the user and like their their wants, their needs, like their experience learning language, where they currently are, where they want to go.",
+    "start": "00:09:23",
+    "end": "00:09:38"
+  },
+  {
+    "text": "And like we've seen like even without having like an avatar, like we can build that connection between the user.",
+    "start": "00:09:36",
+    "end": "00:09:43"
+  },
+  {
+    "text": "Like it doesn't matter that Pingo's have this like inanimate object in a way.",
+    "start": "00:09:43",
+    "end": "00:09:47"
+  },
+  {
+    "text": "It still works really well.",
+    "start": "00:09:47",
+    "end": "00:09:47"
+  },
+  {
+    "text": "And I just don't like the look of it as much.",
+    "start": "00:09:47",
+    "end": "00:09:49"
+  },
+  {
+    "text": "Michael doesn't either.",
+    "start": "00:09:49",
+    "end": "00:09:49"
+  },
+  {
+    "text": "Like we want to have like a really clean, minimal app.",
+    "start": "00:09:49",
+    "end": "00:09:53"
+  },
+  {
+    "text": "Like we really want to be like uncluttered.",
+    "start": "00:09:53",
+    "end": "00:09:56"
+  },
+  {
+    "text": "And so part of that was was Pingo this Yeah, Pingo.",
+    "start": "00:09:56",
+    "end": "00:09:57"
+  },
+  {
+    "text": "Maybe it's just just like a trend thing.",
+    "start": "00:09:57",
+    "end": "00:09:59"
+  },
+  {
+    "text": "There's like so many um minimal apps to start out with, then people started building characters, and then now there's like too many characters, and now minimal is like you know, stands out more actually.",
+    "start": "00:09:59",
+    "end": "00:10:13"
+  },
+  {
+    "text": "Yeah, we'll see where it goes.",
+    "start": "00:10:13",
+    "end": "00:10:14"
+  },
+  {
+    "text": "Um I'm curious to see how many characters stay around like in the long run.",
+    "start": "00:10:14",
+    "end": "00:10:17"
+  },
+  {
+    "text": "Okay, so let's look at some TikToks.",
+    "start": "00:10:17",
+    "end": "00:10:19"
+  },
+  {
+    "text": "So, this is the viral feature.",
+    "start": "00:10:19",
+    "end": "00:10:19"
+  },
+  {
+    "text": "Did Did you have like some things you could uh screen share?",
+    "start": "00:10:19",
+    "end": "00:10:23"
+  },
+  {
+    "text": "Let's look at some of the most viral ones first.",
+    "start": "00:10:23",
+    "end": "00:10:26"
+  },
+  {
+    "text": "So, this is the video that got 52 million views, and that scaled I don't remember the number for like how many views we had that month.",
+    "start": "00:10:26",
+    "end": "00:10:32"
+  },
+  {
+    "text": "And then even so much as like mid-October, this one, so like same concept went super viral again.",
+    "start": "00:10:32",
+    "end": "00:10:40"
+  },
+  {
+    "text": "This one at a lower scale, but it's kept going viral.",
+    "start": "00:10:40",
+    "end": "00:10:41"
+  },
+  {
+    "text": "Here's one in Russian from this month or last month.",
+    "start": "00:10:41",
+    "end": "00:10:45"
+  },
+  {
+    "text": "Oh, this is December.",
+    "start": "00:10:45",
+    "end": "00:10:45"
+  },
+  {
+    "text": "Like, it's just in every language.",
+    "start": "00:10:45",
+    "end": "00:10:48"
+  },
+  {
+    "text": "Here's Arabic.",
+    "start": "00:10:48",
+    "end": "00:10:52"
+  },
+  {
+    "text": "So, like there's a few variations on it, which kind of evolved over time, but like that is like our most viral format by far.",
+    "start": "00:10:49",
+    "end": "00:10:56"
+  },
+  {
+    "text": "So, it started mainly with this this crying format.",
+    "start": "00:10:56",
+    "end": "00:11:00"
+  },
+  {
+    "text": "Like, you mispronounce a word, right?",
+    "start": "00:11:00",
+    "end": "00:11:02"
+  },
+  {
+    "text": "Like, it reads as one thing in one language, it's totally like something else if you pronounce it like as an English word that's easy to mispronounce, and then Pingo just kind of roasts the user a bit.",
+    "start": "00:11:02",
+    "end": "00:11:10"
+  },
+  {
+    "text": "And you have the Snapchat hook, you have the crying.",
+    "start": "00:11:10",
+    "end": "00:11:12"
+  },
+  {
+    "text": "And then over time like there's been a bunch of those.",
+    "start": "00:11:12",
+    "end": "00:11:15"
+  },
+  {
+    "text": "It's evolved a bit, and it's not always necessarily crying.",
+    "start": "00:11:15",
+    "end": "00:11:18"
+  },
+  {
+    "text": "Sometimes Pingo's just mean to you, and you're not crying.",
+    "start": "00:11:18",
+    "end": "00:11:21"
+  },
+  {
+    "text": "Sometimes you're crying, you're not mispronouncing, you're just kind of or like if you're not mispronouncing as like some, you know, inappropriate word, you're just bad at speaking the language.",
+    "start": "00:11:20",
+    "end": "00:11:30"
+  },
+  {
+    "text": "And so, it's taking a few modalities, but the root of it all is like Pingo's mean to you, the creator has some sort of emotion, and then sometimes there's other hooks.",
+    "start": "00:11:30",
+    "end": "00:11:39"
+  },
+  {
+    "text": "Like, people have gotten like more creative with props.",
+    "start": "00:11:39",
+    "end": "00:11:41"
+  },
+  {
+    "text": "This one in Russian, he's writing.",
+    "start": "00:11:41",
+    "end": "00:11:43"
+  },
+  {
+    "text": "Same like kind of mean.",
+    "start": "00:11:43",
+    "end": "00:11:45"
+  },
+  {
+    "text": "So, I don't know what Russian means, so I couldn't say exactly what that is, but like some in Japanese also like knitting.",
+    "start": "00:11:45",
+    "end": "00:11:52"
+  },
+  {
+    "text": "So, like it kind of varies on like the exact modality, but like the through line through the way it's evolved over time is like Pingo's not just saying great job or say it like this or do it like that or you could pronounce it a little better.",
+    "start": "00:11:52",
+    "end": "00:12:07"
+  },
+  {
+    "text": "Pingo's just like insulting the user, and that kind of hook like wait, why why is an AI behaving like that?",
+    "start": "00:12:07",
+    "end": "00:12:12"
+  },
+  {
+    "text": "That's kind of weird.",
+    "start": "00:12:12",
+    "end": "00:12:12"
+  },
+  {
+    "text": "Works really well for going viral and also conversion.",
+    "start": "00:12:12",
+    "end": "00:12:16"
+  },
+  {
+    "text": "It's kind of like I would say one of our better middle grounds we found for virality and conversion.",
+    "start": "00:12:16",
+    "end": "00:12:21"
+  },
+  {
+    "text": "That's like the biggest There's like these are some other types of viral concept, but like this kind of mean crying format to just mean Pingo is like definitely our most viral format.",
+    "start": "00:12:21",
+    "end": "00:12:32"
+  },
+  {
+    "text": "Did you do any product development work to actually make the the roasting concept more viral?",
+    "start": "00:12:29",
+    "end": "00:12:38"
+  },
+  {
+    "text": "Like, is is Pingo actually mean to you all the time like this?",
+    "start": "00:12:38",
+    "end": "00:12:42"
+  },
+  {
+    "text": "No, so what we've had in the product since day one is sort of the ability to make what we call custom scenarios.",
+    "start": "00:12:42",
+    "end": "00:12:48"
+  },
+  {
+    "text": "So, the like V1 of Pingo is just what we call roleplay mode.",
+    "start": "00:12:48",
+    "end": "00:12:52"
+  },
+  {
+    "text": "Again, it's just talking like you and I are doing right now, but in a certain language.",
+    "start": "00:12:52",
+    "end": "00:12:54"
+  },
+  {
+    "text": "And in the first iteration of that, all you could do was input your own scenario.",
+    "start": "00:12:54",
+    "end": "00:13:00"
+  },
+  {
+    "text": "Like, I am blank, you are blank, we are doing blank, go.",
+    "start": "00:13:00",
+    "end": "00:13:04"
+  },
+  {
+    "text": "And we've kept that custom scenario in the product like since day one.",
+    "start": "00:13:04",
+    "end": "00:13:07"
+  },
+  {
+    "text": "And so, what the creators will do is they'll go into custom scenario in roleplay mode.",
+    "start": "00:13:07",
+    "end": "00:13:11"
+  },
+  {
+    "text": "We have other modes now, but we'll go into roleplay mode in a custom scenario, and they'll prompt Pingo and say like, you know, sometimes with like models you have to like do a little creative prompting to get around it like saying we're actors in a play or like this is a script, but like you can prompt Pingo and say like, be mean to me, say this to me, act like this.",
+    "start": "00:13:11",
+    "end": "00:13:28"
+  },
+  {
+    "text": "Creators can sometimes like give scripts or give lines and be like, once I say X, you say Y, and say it in this tone.",
+    "start": "00:13:28",
+    "end": "00:13:36"
+  },
+  {
+    "text": "And so, we've always had that feature built in, which has been really useful for making creators, you know, prompt Pingo to be mean, prompt Pingo to be nice, and really just get Pingo to do whatever they want to make content they believe will go viral, and it gives us a lot of flexibility for thinking of content ideas cuz the possibilities are a bit endless.",
+    "start": "00:13:36",
+    "end": "00:13:53"
+  },
+  {
+    "text": "And now, the funny thing is users really want a dedicated feature toggle to like learn with Pingo in that way.",
+    "start": "00:13:53",
+    "end": "00:13:59"
+  },
+  {
+    "text": "So, people don't always use custom scenarios, we give them like a a sort of lesson path, and they'll follow it, but they still want to be like in that lesson path like, hey, I want to learn how to order a coffee in French, but I want Pingo to be mean to me like in the videos.",
+    "start": "00:13:59",
+    "end": "00:14:11"
+  },
+  {
+    "text": "How do I do it?",
+    "start": "00:14:11",
+    "end": "00:14:12"
+  },
+  {
+    "text": "And so, we'll tell them to go to custom scenarios, but people still kind of want like a little toggle that's like Pingo like, you know, 18+ or Pingo like mean.",
+    "start": "00:14:12",
+    "end": "00:14:20"
+  },
+  {
+    "text": "So, that's been interesting.",
+    "start": "00:14:20",
+    "end": "00:14:21"
+  },
+  {
+    "text": "We haven't built that in yet, but it's somewhere on the road map as like we should add this for people.",
+    "start": "00:14:21",
+    "end": "00:14:27"
+  },
+  {
+    "text": "That's really interesting.",
+    "start": "00:14:25",
+    "end": "00:14:28"
+  },
+  {
+    "text": "I feel like there's not that many apps that figure out how to make their app easier to use for creators.",
+    "start": "00:14:28",
+    "end": "00:14:33"
+  },
+  {
+    "text": "Like, creator marketing is just so important.",
+    "start": "00:14:33",
+    "end": "00:14:35"
+  },
+  {
+    "text": "Like, you got 400 million views in a month.",
+    "start": "00:14:35",
+    "end": "00:14:40"
+  },
+  {
+    "text": "So, it obviously it works, and like to make it as easy as possible for a creator to make viral content on their own, it seems like that's a big part of your strategy cuz I feel like coming up with really viral ideas that are repeatable and like high converting is that's the whole game.",
+    "start": "00:14:37",
+    "end": "00:14:55"
+  },
+  {
+    "text": "It's like it's really hard to do that repeatedly, and if you do that if you like enable the creators to just kind of come up with their own ideas using the app itself, that's really interesting.",
+    "start": "00:14:55",
+    "end": "00:15:06"
+  },
+  {
+    "text": "Did you start out with that custom scenarios thing just for the creators?",
+    "start": "00:15:06",
+    "end": "00:15:10"
+  },
+  {
+    "text": "No, that was just like literally like product V1 like day one.",
+    "start": "00:15:10",
+    "end": "00:15:15"
+  },
+  {
+    "text": "It was like just the whole product of custom scenarios.",
+    "start": "00:15:13",
+    "end": "00:15:17"
+  },
+  {
+    "text": "It was like it was like practice like practice speaking whatever you want whatever language you want like in the same way like have like a language partner.",
+    "start": "00:15:17",
+    "end": "00:15:24"
+  },
+  {
+    "text": "Like, here's a language partner you can talk with anything.",
+    "start": "00:15:24",
+    "end": "00:15:26"
+  },
+  {
+    "text": "And then it evolved to be like users want more than that.",
+    "start": "00:15:26",
+    "end": "00:15:29"
+  },
+  {
+    "text": "Let's build on top of it.",
+    "start": "00:15:29",
+    "end": "00:15:33"
+  },
+  {
+    "text": "Um our early marketing wasn't even using that.",
+    "start": "00:15:30",
+    "end": "00:15:33"
+  },
+  {
+    "text": "Early marketing like that's been really useful for the more like humor-oriented content.",
+    "start": "00:15:33",
+    "end": "00:15:39"
+  },
+  {
+    "text": "The early marketing, which I can I can pull up in a bit, is like all just purely learning-based.",
+    "start": "00:15:39",
+    "end": "00:15:44"
+  },
+  {
+    "text": "Like, the very first stuff wasn't necessarily like trying to make Pingo be funny.",
+    "start": "00:15:44",
+    "end": "00:15:49"
+  },
+  {
+    "text": "It was just like basically showing product value.",
+    "start": "00:15:49",
+    "end": "00:15:52"
+  },
+  {
+    "text": "And we'd still use that custom scenario mode, but not to its full potential.",
+    "start": "00:15:52",
+    "end": "00:15:56"
+  },
+  {
+    "text": "It'd be like, you know, I'm learning this is my first day of learning Chinese, teach me the basics versus roast me, be mean to me, say this, say that.",
+    "start": "00:15:54",
+    "end": "00:16:03"
+  },
+  {
+    "text": "So, people have really like taken that feature and kind of evolved it to be really useful for marketing, which wasn't how it was originally intended, but it's worked really well.",
+    "start": "00:16:03",
+    "end": "00:16:13"
+  },
+  {
+    "text": "So, how has the content strategy evolved from the beginning cuz it sounds like in the beginning it was just show the product value, and then now it's like show the product value with some humor in like embedded into it.",
+    "start": "00:16:13",
+    "end": "00:16:25"
+  },
+  {
+    "text": "And then is the modern, you know, is the like today's strategy basically that?",
+    "start": "00:16:25",
+    "end": "00:16:32"
+  },
+  {
+    "text": "Just show product value, add humor in the videos, or are there like other nuances?",
+    "start": "00:16:32",
+    "end": "00:16:37"
+  },
+  {
+    "text": "It's definitely evolved over time, but the core thesis has kind of stayed the same.",
+    "start": "00:16:37",
+    "end": "00:16:43"
+  },
+  {
+    "text": "So, like our belief like from day one, we always want Pingo to be the focus of the videos.",
+    "start": "00:16:40",
+    "end": "00:16:45"
+  },
+  {
+    "text": "Like, our belief was that to get meaningful conversion, we have to show the product.",
+    "start": "00:16:45",
+    "end": "00:16:50"
+  },
+  {
+    "text": "Like, show don't tell.",
+    "start": "00:16:50",
+    "end": "00:16:52"
+  },
+  {
+    "text": "And that's something that I've at least my personal belief on virality like virality that converts shows and doesn't tell.",
+    "start": "00:16:50",
+    "end": "00:16:56"
+  },
+  {
+    "text": "And that's what we've done since day one.",
+    "start": "00:16:56",
+    "end": "00:16:57"
+  },
+  {
+    "text": "So, there's a few things we tried that didn't work.",
+    "start": "00:16:57",
+    "end": "00:17:00"
+  },
+  {
+    "text": "Like, kind of all similar concept, they all use Pingo, but the hooks weren't quite it.",
+    "start": "00:17:00",
+    "end": "00:17:05"
+  },
+  {
+    "text": "So, like this is one of the first videos that we made.",
+    "start": "00:17:05",
+    "end": "00:17:06"
+  },
+  {
+    "text": "Yeah, this was I think the first day Pingo went live, maybe the sixth the 17th or 16th of like December.",
+    "start": "00:17:06",
+    "end": "00:17:13"
+  },
+  {
+    "text": "And all these videos like I have four pulled up that were kind of early ones.",
+    "start": "00:17:13",
+    "end": "00:17:16"
+  },
+  {
+    "text": "Um they all used different hooks, they all ended up using Pingo, but they didn't all go viral.",
+    "start": "00:17:16",
+    "end": "00:17:19"
+  },
+  {
+    "text": "We didn't really know much about virality then.",
+    "start": "00:17:19",
+    "end": "00:17:21"
+  },
+  {
+    "text": "So, this one for example, I remember when we made this, I was like, this is really good.",
+    "start": "00:17:21",
+    "end": "00:17:26"
+  },
+  {
+    "text": "Like, I really like this.",
+    "start": "00:17:26",
+    "end": "00:17:27"
+  },
+  {
+    "text": "How did it not go viral?",
+    "start": "00:17:27",
+    "end": "00:17:28"
+  },
+  {
+    "text": "And like looking back, we learned a lot more about what works on the platform and specifically what works for Pingo.",
+    "start": "00:17:28",
+    "end": "00:17:33"
+  },
+  {
+    "text": "And these other videos are kind of similar.",
+    "start": "00:17:33",
+    "end": "00:17:36"
+  },
+  {
+    "text": "We have different hooks about language learning that aren't using Pingo.",
+    "start": "00:17:36",
+    "end": "00:17:40"
+  },
+  {
+    "text": "Some of them are talking.",
+    "start": "00:17:40",
+    "end": "00:17:42"
+  },
+  {
+    "text": "This one's about talking about people on TikTok talking about languages.",
+    "start": "00:17:40",
+    "end": "00:17:45"
+  },
+  {
+    "text": "This one, I speak a little Chinese and do a product demo.",
+    "start": "00:17:45",
+    "end": "00:17:47"
+  },
+  {
+    "text": "This one here, we're talking about learning.",
+    "start": "00:17:47",
+    "end": "00:17:50"
+  },
+  {
+    "text": "So, like we tried all of those, and none of them went viral.",
+    "start": "00:17:50",
+    "end": "00:17:52"
+  },
+  {
+    "text": "But, the first one that did go viral was like this one.",
+    "start": "00:17:52",
+    "end": "00:17:57"
+  },
+  {
+    "text": "So, like that original one that we show like this like little feedback screen, but like this was the first one that really went viral.",
+    "start": "00:17:57",
+    "end": "00:18:02"
+  },
+  {
+    "text": "That got like 100k views, and we were like, okay, we have something here.",
+    "start": "00:18:02",
+    "end": "00:18:07"
+  },
+  {
+    "text": "And so then, we kind of were like, what We looked at it like, what at the time did we think made this go viral?",
+    "start": "00:18:07",
+    "end": "00:18:12"
+  },
+  {
+    "text": "And like the hook was like, POV your Chinese teacher on Sundays used to hit you, so now you seek validation from an AI.",
+    "start": "00:18:12",
+    "end": "00:18:18"
+  },
+  {
+    "text": "We added English captions and the Chinese captions for like accessibility.",
+    "start": "00:18:18",
+    "end": "00:18:22"
+  },
+  {
+    "text": "If you didn't know Chinese, you could still watch it.",
+    "start": "00:18:22",
+    "end": "00:18:25"
+  },
+  {
+    "text": "And it was talking with Pingo.",
+    "start": "00:18:25",
+    "end": "00:18:27"
+  },
+  {
+    "text": "So then, we were like, okay, and it converted pretty well.",
+    "start": "00:18:25",
+    "end": "00:18:29"
+  },
+  {
+    "text": "At the time, you know, when you know creators and you're the only creators, um and that's the only thing you're doing for distribution, it's really easy to measure conversion because when your one video gets some virality and you get a spike in users, like there's not really anything else we can attribute it to.",
+    "start": "00:18:29",
+    "end": "00:18:44"
+  },
+  {
+    "text": "So then, we kind of improved upon this and tested different hooks geared towards different language audiences starting with Chinese and Korean.",
+    "start": "00:18:44",
+    "end": "00:18:50"
+  },
+  {
+    "text": "And then over time, we learned like speaking with Pingo just worked really well for views, and it was basically an app demo, so it converted really well.",
+    "start": "00:18:50",
+    "end": "00:18:57"
+  },
+  {
+    "text": "And we kind of took that and we ran with it.",
+    "start": "00:18:57",
+    "end": "00:19:01"
+  },
+  {
+    "text": "And that for the first 3 months, we had like one or two actual influencers we tried, but it was mainly just Michael and I making videos till like 20k MRR, just the two of us.",
+    "start": "00:19:01",
+    "end": "00:19:09"
+  },
+  {
+    "text": "And he did the Korean account learning Korean from scratch.",
+    "start": "00:19:09",
+    "end": "00:19:13"
+  },
+  {
+    "text": "I did the Chinese account, and every video is just talking with Pingo.",
+    "start": "00:19:13",
+    "end": "00:19:15"
+  },
+  {
+    "text": "Like, it's me and in my college dorm room and Michael like in my dorm room.",
+    "start": "00:19:15",
+    "end": "00:19:19"
+  },
+  {
+    "text": "Like, we're just like holding the iPad and like talking to Pingo every time.",
+    "start": "00:19:19",
+    "end": "00:19:23"
+  },
+  {
+    "text": "And trying different things.",
+    "start": "00:19:23",
+    "end": "00:19:24"
+  },
+  {
+    "text": "The Korean account did a lot better, but like it's again, just like holding the iPad talking to Pingo at like a random room at Northwestern where we were in school at the time.",
+    "start": "00:19:24",
+    "end": "00:19:34"
+  },
+  {
+    "text": "Every video is talking with Pingo, and we're trying different hooks, and we kind of found that like a few things worked.",
+    "start": "00:19:34",
+    "end": "00:19:41"
+  },
+  {
+    "text": "One thing was basic conversation like really geared towards learners.",
+    "start": "00:19:41",
+    "end": "00:19:45"
+  },
+  {
+    "text": "Like, basic Korean quiz.",
+    "start": "00:19:45",
+    "end": "00:19:45"
+  },
+  {
+    "text": "This one got 77,000 views.",
+    "start": "00:19:45",
+    "end": "00:19:49"
+  },
+  {
+    "text": "Things like learning blank in blank language.",
+    "start": "00:19:47",
+    "end": "00:19:50"
+  },
+  {
+    "text": "And like really gearing those towards beginners.",
+    "start": "00:19:50",
+    "end": "00:19:52"
+  },
+  {
+    "text": "We also have been like cultural hooks that work pretty well.",
+    "start": "00:19:52",
+    "end": "00:19:54"
+  },
+  {
+    "text": "Like talk about K-drama, talking about cultural events going on.",
+    "start": "00:19:54",
+    "end": "00:19:59"
+  },
+  {
+    "text": "I had one that went really viral in Chinese.",
+    "start": "00:19:59",
+    "end": "00:20:03"
+  },
+  {
+    "text": "I think this one got a million views.",
+    "start": "00:20:03",
+    "end": "00:20:05"
+  },
+  {
+    "text": "So this was like when TikTok was getting banned and the whole Red Note thing.",
+    "start": "00:20:05",
+    "end": "00:20:08"
+  },
+  {
+    "text": "So like we ran with that and that worked really well.",
+    "start": "00:20:08",
+    "end": "00:20:09"
+  },
+  {
+    "text": "Any like cultural thing we'd run with and it would work really well.",
+    "start": "00:20:09",
+    "end": "00:20:12"
+  },
+  {
+    "text": "And that was kind of one of the first things we did that was kind of a little more humor oriented and also culture oriented.",
+    "start": "00:20:12",
+    "end": "00:20:18"
+  },
+  {
+    "text": "So right, we started with like basic learning and culture.",
+    "start": "00:20:18",
+    "end": "00:20:21"
+  },
+  {
+    "text": "And those worked well, both talking with Pingo.",
+    "start": "00:20:20",
+    "end": "00:20:22"
+  },
+  {
+    "text": "And then we kind of shifted towards the humor stuff and it went even more viral.",
+    "start": "00:20:22",
+    "end": "00:20:26"
+  },
+  {
+    "text": "And so like in Chinese that worked.",
+    "start": "00:20:26",
+    "end": "00:20:28"
+  },
+  {
+    "text": "So we tried other things.",
+    "start": "00:20:28",
+    "end": "00:20:30"
+  },
+  {
+    "text": "This one of Michael, he's not going to he's maybe funny that I'm feeling it.",
+    "start": "00:20:30",
+    "end": "00:20:34"
+  },
+  {
+    "text": "So like have to embarrass him a bit.",
+    "start": "00:20:34",
+    "end": "00:20:35"
+  },
+  {
+    "text": "But like that worked really well.",
+    "start": "00:20:35",
+    "end": "00:20:37"
+  },
+  {
+    "text": "It converted well, it went viral.",
+    "start": "00:20:37",
+    "end": "00:20:38"
+  },
+  {
+    "text": "Um in French, like this one.",
+    "start": "00:20:38",
+    "end": "00:20:40"
+  },
+  {
+    "text": "This one's a little more recent but same concept.",
+    "start": "00:20:40",
+    "end": "00:20:43"
+  },
+  {
+    "text": "So like that was my friend who's fluent in French.",
+    "start": "00:20:43",
+    "end": "00:20:47"
+  },
+  {
+    "text": "So he would make French content for us.",
+    "start": "00:20:47",
+    "end": "00:20:50"
+  },
+  {
+    "text": "But it kind of was always like that sort of starting with talking with Pingo.",
+    "start": "00:20:50",
+    "end": "00:20:53"
+  },
+  {
+    "text": "Then we're like, all right, we're a language app.",
+    "start": "00:20:53",
+    "end": "00:20:53"
+  },
+  {
+    "text": "We want to target people learning the language.",
+    "start": "00:20:53",
+    "end": "00:20:56"
+  },
+  {
+    "text": "So let's do basic things.",
+    "start": "00:20:56",
+    "end": "00:20:58"
+  },
+  {
+    "text": "Like let's appeal to what they're interested in.",
+    "start": "00:20:56",
+    "end": "00:20:59"
+  },
+  {
+    "text": "And the humor stuff evolved.",
+    "start": "00:20:59",
+    "end": "00:21:00"
+  },
+  {
+    "text": "We're like, okay, this kind of goes viral.",
+    "start": "00:21:00",
+    "end": "00:21:03"
+  },
+  {
+    "text": "And then between that realization of like the funny goes viral, we first connected more with culture.",
+    "start": "00:21:03",
+    "end": "00:21:08"
+  },
+  {
+    "text": "So like with Chinese videos it was kind of like the whole TikTok ban and Red Note and Chinese government stuff.",
+    "start": "00:21:08",
+    "end": "00:21:13"
+  },
+  {
+    "text": "And then Korean we do culture things.",
+    "start": "00:21:13",
+    "end": "00:21:14"
+  },
+  {
+    "text": "We tried different audios, right?",
+    "start": "00:21:14",
+    "end": "00:21:15"
+  },
+  {
+    "text": "Like Squid Game's audio on Korean stuff.",
+    "start": "00:21:15",
+    "end": "00:21:18"
+  },
+  {
+    "text": "Like, you know, random French music on French videos and like the audio we don't really care about as much anymore.",
+    "start": "00:21:18",
+    "end": "00:21:23"
+  },
+  {
+    "text": "But at the time it like worked.",
+    "start": "00:21:23",
+    "end": "00:21:26"
+  },
+  {
+    "text": "And from there we're like, all right, this cultural, this humor, this blend like learning and culture and funny works really well.",
+    "start": "00:21:24",
+    "end": "00:21:31"
+  },
+  {
+    "text": "And then we tried different things.",
+    "start": "00:21:31",
+    "end": "00:21:33"
+  },
+  {
+    "text": "Tried slideshows.",
+    "start": "00:21:33",
+    "end": "00:21:35"
+  },
+  {
+    "text": "Tried not using Pingo.",
+    "start": "00:21:35",
+    "end": "00:21:35"
+  },
+  {
+    "text": "And the slideshow stuff with a really good CTA could work.",
+    "start": "00:21:35",
+    "end": "00:21:39"
+  },
+  {
+    "text": "It could go viral.",
+    "start": "00:21:39",
+    "end": "00:21:40"
+  },
+  {
+    "text": "We had some that got a million views.",
+    "start": "00:21:40",
+    "end": "00:21:41"
+  },
+  {
+    "text": "But I found at least for for Pingo and they don't know if this is necessarily the case for all other apps.",
+    "start": "00:21:41",
+    "end": "00:21:47"
+  },
+  {
+    "text": "But with Pingo they burned out pretty quick.",
+    "start": "00:21:46",
+    "end": "00:21:48"
+  },
+  {
+    "text": "An account would go up, they go really viral on slideshows and then they kind of crash.",
+    "start": "00:21:48",
+    "end": "00:21:52"
+  },
+  {
+    "text": "And so they worked well for a bit and they converted well.",
+    "start": "00:21:52",
+    "end": "00:21:56"
+  },
+  {
+    "text": "But like we haven't seen them work as well since.",
+    "start": "00:21:56",
+    "end": "00:21:57"
+  },
+  {
+    "text": "And it really had to be a strong call to action.",
+    "start": "00:21:57",
+    "end": "00:22:00"
+  },
+  {
+    "text": "We had a lot of slideshow videos that really didn't like where people would be like top five phrases to get fluent in Japanese and it'd be five slides of phrases and the last slide would be something something something I learned it on Pingo.",
+    "start": "00:22:00",
+    "end": "00:22:12"
+  },
+  {
+    "text": "And like the conversion difference between that and the strong call to action slides, but let alone the conversion difference between those slideshows and our videos using Pingo was like night and day.",
+    "start": "00:22:12",
+    "end": "00:22:19"
+  },
+  {
+    "text": "And so there's a few variables you mentioned there.",
+    "start": "00:22:19",
+    "end": "00:22:24"
+  },
+  {
+    "text": "There's the virality of the video.",
+    "start": "00:22:24",
+    "end": "00:22:26"
+  },
+  {
+    "text": "There's how high converting you think it will be, which is basically like how much do you show the actual app in the video.",
+    "start": "00:22:26",
+    "end": "00:22:34"
+  },
+  {
+    "text": "And then the there's a third variable that you didn't mention but is sort of like baked in, which is cost.",
+    "start": "00:22:34",
+    "end": "00:22:39"
+  },
+  {
+    "text": "Like when you're mentioning like slideshows, slideshows with AI nowadays are like completely automatable, right?",
+    "start": "00:22:39",
+    "end": "00:22:47"
+  },
+  {
+    "text": "Like you can just generate the images and then generate the text to put on top of it.",
+    "start": "00:22:47",
+    "end": "00:22:53"
+  },
+  {
+    "text": "And then you can mass generate like a thousand combinations and then post it across thousands of accounts.",
+    "start": "00:22:51",
+    "end": "00:22:58"
+  },
+  {
+    "text": "Like how much is cost a factor?",
+    "start": "00:22:58",
+    "end": "00:23:00"
+  },
+  {
+    "text": "Maybe not cost but just I guess efficiency of automating.",
+    "start": "00:23:00",
+    "end": "00:23:03"
+  },
+  {
+    "text": "Like how much is that a factor in how you choose to do distribution?",
+    "start": "00:23:03",
+    "end": "00:23:07"
+  },
+  {
+    "text": "Yeah, at the moment we're not.",
+    "start": "00:23:07",
+    "end": "00:23:08"
+  },
+  {
+    "text": "Like it's honestly just what we have works so well that like we're just going to keep pulling that lever.",
+    "start": "00:23:08",
+    "end": "00:23:14"
+  },
+  {
+    "text": "I think we'll obviously experiment with it at some point.",
+    "start": "00:23:14",
+    "end": "00:23:15"
+  },
+  {
+    "text": "I just haven't gotten around to it yet.",
+    "start": "00:23:15",
+    "end": "00:23:18"
+  },
+  {
+    "text": "Like it hasn't been the highest ROI on time for me and my my content higher right now.",
+    "start": "00:23:18",
+    "end": "00:23:22"
+  },
+  {
+    "text": "But when it comes to finding creators that can use Pingo to the fullest to go viral, we recently started content coaching like a week ago.",
+    "start": "00:23:22",
+    "end": "00:23:28"
+  },
+  {
+    "text": "And the goal with that is to get more people using the app to the full potential, coming up with the right ideas, like understanding what works, how to make content.",
+    "start": "00:23:28",
+    "end": "00:23:36"
+  },
+  {
+    "text": "Cuz we have some creators who have like really great ideas but bad execution.",
+    "start": "00:23:36",
+    "end": "00:23:40"
+  },
+  {
+    "text": "We're working on fixing that.",
+    "start": "00:23:40",
+    "end": "00:23:41"
+  },
+  {
+    "text": "But in terms of sourcing like not everyone has it.",
+    "start": "00:23:41",
+    "end": "00:23:44"
+  },
+  {
+    "text": "To be fair, like we definitely go through a good amount of creators.",
+    "start": "00:23:44",
+    "end": "00:23:46"
+  },
+  {
+    "text": "We have our VAs who like do the outreach.",
+    "start": "00:23:46",
+    "end": "00:23:48"
+  },
+  {
+    "text": "I did outreach for the longest time and then it just took up too much time.",
+    "start": "00:23:48",
+    "end": "00:23:51"
+  },
+  {
+    "text": "So now we have VAs who do it.",
+    "start": "00:23:51",
+    "end": "00:23:51"
+  },
+  {
+    "text": "We give them guidelines.",
+    "start": "00:23:51",
+    "end": "00:23:54"
+  },
+  {
+    "text": "Creators get in and we kind of have an internal clock on like how long we want to give a creator before making a decision on cutting or keeping them.",
+    "start": "00:23:54",
+    "end": "00:24:00"
+  },
+  {
+    "text": "We just make sure like obviously the more creative creators get better views.",
+    "start": "00:24:00",
+    "end": "00:24:03"
+  },
+  {
+    "text": "The creators who can execute well and follow those other creators get pretty good views.",
+    "start": "00:24:03",
+    "end": "00:24:08"
+  },
+  {
+    "text": "And we have a Discord so people share and like it's pretty engaging.",
+    "start": "00:24:07",
+    "end": "00:24:11"
+  },
+  {
+    "text": "There are some people who just don't get content as well and they don't make as good content.",
+    "start": "00:24:11",
+    "end": "00:24:14"
+  },
+  {
+    "text": "And you know, that leads to them not being creators with us anymore.",
+    "start": "00:24:14",
+    "end": "00:24:21"
+  },
+  {
+    "text": "But at the point that we're at, we use the VAs to get a really high influx of creator volume and we keep the best ones.",
+    "start": "00:24:18",
+    "end": "00:24:25"
+  },
+  {
+    "text": "And the goal with our content coaching is that we don't have to churn through as many.",
+    "start": "00:24:25",
+    "end": "00:24:29"
+  },
+  {
+    "text": "Like we want to make sure we give them we just don't have the bandwidth to give everyone all the tools they need to succeed.",
+    "start": "00:24:29",
+    "end": "00:24:34"
+  },
+  {
+    "text": "So for a long time it was like scale mode.",
+    "start": "00:24:34",
+    "end": "00:24:36"
+  },
+  {
+    "text": "Like we're just going to get as many creators as we can doing as many high converting forms as we can to get as many views to installs to conversions.",
+    "start": "00:24:36",
+    "end": "00:24:42"
+  },
+  {
+    "text": "And now we're at a point where like we have a really good volume.",
+    "start": "00:24:42",
+    "end": "00:24:46"
+  },
+  {
+    "text": "Let's kind of like slim it down a bit.",
+    "start": "00:24:44",
+    "end": "00:24:49"
+  },
+  {
+    "text": "Let's be really deliberate now about who we have creating for us and how we get new creators and how we make sure they're working at their fullest potential.",
+    "start": "00:24:46",
+    "end": "00:24:55"
+  },
+  {
+    "text": "Cuz at least with us it's kind of like a VC model.",
+    "start": "00:24:55",
+    "end": "00:24:58"
+  },
+  {
+    "text": "The top 20-30% of creators are doing most of the views.",
+    "start": "00:24:58",
+    "end": "00:25:01"
+  },
+  {
+    "text": "The bottom percent are doing none of them and they're kind of dead spend.",
+    "start": "00:25:00",
+    "end": "00:25:05"
+  },
+  {
+    "text": "And so we kind of like took our VC model.",
+    "start": "00:25:05",
+    "end": "00:25:07"
+  },
+  {
+    "text": "We cut the bottom of the portfolio.",
+    "start": "00:25:07",
+    "end": "00:25:08"
+  },
+  {
+    "text": "Kept the top, working on the mid-range.",
+    "start": "00:25:08",
+    "end": "00:25:09"
+  },
+  {
+    "text": "And then we're just going to work on bringing in more creators and making them better.",
+    "start": "00:25:09",
+    "end": "00:25:13"
+  },
+  {
+    "text": "But AI stuff like is to come and experiment with.",
+    "start": "00:25:13",
+    "end": "00:25:16"
+  },
+  {
+    "text": "But again, it's just like what we've been doing with using the app has been working so well.",
+    "start": "00:25:16",
+    "end": "00:25:19"
+  },
+  {
+    "text": "Like if it ain't broke, don't fix it.",
+    "start": "00:25:19",
+    "end": "00:25:20"
+  },
+  {
+    "text": "Yeah, I want to break that down a little bit.",
+    "start": "00:25:20",
+    "end": "00:25:23"
+  },
+  {
+    "text": "So the there's the outreach part with the VAs.",
+    "start": "00:25:23",
+    "end": "00:25:26"
+  },
+  {
+    "text": "So there's like top of funnel and then there's the coaching.",
+    "start": "00:25:26",
+    "end": "00:25:30"
+  },
+  {
+    "text": "I'm curious about both of those.",
+    "start": "00:25:28",
+    "end": "00:25:31"
+  },
+  {
+    "text": "So for first of all, like the the the top of funnel, what are you looking for when you're like mass outreaching to creators?",
+    "start": "00:25:31",
+    "end": "00:25:37"
+  },
+  {
+    "text": "With Pingo it's a little interesting cuz I kind of want some like we're looking for someone with a tangible skill.",
+    "start": "00:25:37",
+    "end": "00:25:42"
+  },
+  {
+    "text": "If you want to market Japanese, obviously people can fake it.",
+    "start": "00:25:42",
+    "end": "00:25:46"
+  },
+  {
+    "text": "I don't know French.",
+    "start": "00:25:45",
+    "end": "00:25:46"
+  },
+  {
+    "text": "I made French videos for us for a bit.",
+    "start": "00:25:46",
+    "end": "00:25:48"
+  },
+  {
+    "text": "I faked it.",
+    "start": "00:25:48",
+    "end": "00:25:50"
+  },
+  {
+    "text": "But like it's a lot easier if you actually to market Japanese if you know Japanese.",
+    "start": "00:25:50",
+    "end": "00:25:54"
+  },
+  {
+    "text": "Cuz you know how to do the language.",
+    "start": "00:25:52",
+    "end": "00:25:55"
+  },
+  {
+    "text": "Like that's not an issue.",
+    "start": "00:25:54",
+    "end": "00:25:56"
+  },
+  {
+    "text": "You can go quicker.",
+    "start": "00:25:56",
+    "end": "00:25:56"
+  },
+  {
+    "text": "You're likely at least a little more clued in to cultural nuances or like language learning like pain points and can make that content better.",
+    "start": "00:25:56",
+    "end": "00:26:04"
+  },
+  {
+    "text": "And so when looking for like that, we need someone with that skill.",
+    "start": "00:26:04",
+    "end": "00:26:06"
+  },
+  {
+    "text": "And so what we kind of have them look for is like definitely micro creators.",
+    "start": "00:26:06",
+    "end": "00:26:09"
+  },
+  {
+    "text": "Like under 10,000 followers in the Japanese learning niche.",
+    "start": "00:26:09",
+    "end": "00:26:12"
+  },
+  {
+    "text": "I kind of want them to see have at least one breakout video.",
+    "start": "00:26:12",
+    "end": "00:26:15"
+  },
+  {
+    "text": "It shows that they've gone viral before.",
+    "start": "00:26:15",
+    "end": "00:26:17"
+  },
+  {
+    "text": "They know what it looks like.",
+    "start": "00:26:16",
+    "end": "00:26:17"
+  },
+  {
+    "text": "They know what it feels like.",
+    "start": "00:26:17",
+    "end": "00:26:18"
+  },
+  {
+    "text": "It's not this foreign concept to them.",
+    "start": "00:26:18",
+    "end": "00:26:20"
+  },
+  {
+    "text": "It's not intimidating.",
+    "start": "00:26:20",
+    "end": "00:26:20"
+  },
+  {
+    "text": "We pay creators a base pay plus a bonus.",
+    "start": "00:26:20",
+    "end": "00:26:22"
+  },
+  {
+    "text": "And so creators need to be able to think and believe that they can hit that bonus.",
+    "start": "00:26:22",
+    "end": "00:26:26"
+  },
+  {
+    "text": "You know, if they execute the content we give them to the fullest, like they can.",
+    "start": "00:26:26",
+    "end": "00:26:29"
+  },
+  {
+    "text": "And so if they've had that viral experience before, I just see that they're a lot more inclined to like work with us and try and get that virality versus if they've never gone viral, they're like, wow, like getting like 50,000 views is like crazy.",
+    "start": "00:26:29",
+    "end": "00:26:41"
+  },
+  {
+    "text": "Like I I don't know.",
+    "start": "00:26:41",
+    "end": "00:26:43"
+  },
+  {
+    "text": "Like I'm not going to hit that.",
+    "start": "00:26:43",
+    "end": "00:26:44"
+  },
+  {
+    "text": "And we want people who are like driven and like incentivize them.",
+    "start": "00:26:44",
+    "end": "00:26:47"
+  },
+  {
+    "text": "So we look for like low followers relatively.",
+    "start": "00:26:47",
+    "end": "00:26:50"
+  },
+  {
+    "text": "Like if they have mid-range followers, like on the low end, they're between like 10 and 30,000.",
+    "start": "00:26:50",
+    "end": "00:26:54"
+  },
+  {
+    "text": "They don't always want to do UGC.",
+    "start": "00:26:54",
+    "end": "00:26:55"
+  },
+  {
+    "text": "But if they do, they tend to be better creators.",
+    "start": "00:26:55",
+    "end": "00:26:58"
+  },
+  {
+    "text": "They have more experience.",
+    "start": "00:26:58",
+    "end": "00:26:58"
+  },
+  {
+    "text": "So when looking for creators now, I look at like the language they're making content for and where they're based and kind of trying to like guess their geo target as best as possible.",
+    "start": "00:26:58",
+    "end": "00:27:10"
+  },
+  {
+    "text": "So this is our new users this month.",
+    "start": "00:27:10",
+    "end": "00:27:12"
+  },
+  {
+    "text": "This is iOS on the top.",
+    "start": "00:27:12",
+    "end": "00:27:12"
+  },
+  {
+    "text": "This is Android on the bottom.",
+    "start": "00:27:12",
+    "end": "00:27:14"
+  },
+  {
+    "text": "Pretty like healthy.",
+    "start": "00:27:14",
+    "end": "00:27:16"
+  },
+  {
+    "text": "Like the big spike here, we went really viral around here.",
+    "start": "00:27:16",
+    "end": "00:27:18"
+  },
+  {
+    "text": "These videos kind of died off around here.",
+    "start": "00:27:18",
+    "end": "00:27:21"
+  },
+  {
+    "text": "But if we look at the breakdown, so this is Android on the bottom here.",
+    "start": "00:27:21",
+    "end": "00:27:24"
+  },
+  {
+    "text": "Look at the breakdown of Russian users, it's like half Russian.",
+    "start": "00:27:24",
+    "end": "00:27:30"
+  },
+  {
+    "text": "So like, you know, 10 a little over like 12,000 users.",
+    "start": "00:27:28",
+    "end": "00:27:32"
+  },
+  {
+    "text": "That's like 23,000 users.",
+    "start": "00:27:32",
+    "end": "00:27:37"
+  },
+  {
+    "text": "There's 12 and a half of those 23,000 users are from Russia.",
+    "start": "00:27:34",
+    "end": "00:27:40"
+  },
+  {
+    "text": "5,000 of those 12,000 users are from Russia.",
+    "start": "00:27:38",
+    "end": "00:27:41"
+  },
+  {
+    "text": "And it tapered off a bit cuz we killed our Russian content here.",
+    "start": "00:27:41",
+    "end": "00:27:45"
+  },
+  {
+    "text": "But our Russian content was working really well and so we got half our user base from Russia.",
+    "start": "00:27:45",
+    "end": "00:27:49"
+  },
+  {
+    "text": "It's a huge spike in Russian users.",
+    "start": "00:27:49",
+    "end": "00:27:50"
+  },
+  {
+    "text": "A lot of virality.",
+    "start": "00:27:50",
+    "end": "00:27:52"
+  },
+  {
+    "text": "They converted well.",
+    "start": "00:27:52",
+    "end": "00:27:52"
+  },
+  {
+    "text": "Like we got a lot of users.",
+    "start": "00:27:52",
+    "end": "00:27:56"
+  },
+  {
+    "text": "It was like really exciting.",
+    "start": "00:27:56",
+    "end": "00:27:56"
+  },
+  {
+    "text": "Until then we kind of realized, oh wait, like they're not converting well.",
+    "start": "00:27:56",
+    "end": "00:28:00"
+  },
+  {
+    "text": "And we completely forgot that you can't transact in Russia.",
+    "start": "00:28:00",
+    "end": "00:28:03"
+  },
+  {
+    "text": "Google Play blocks it.",
+    "start": "00:28:03",
+    "end": "00:28:05"
+  },
+  {
+    "text": "Apple blocks it.",
+    "start": "00:28:05",
+    "end": "00:28:05"
+  },
+  {
+    "text": "You know, all they let you do is web payments.",
+    "start": "00:28:05",
+    "end": "00:28:07"
+  },
+  {
+    "text": "Like you're not allowed to do business in Russia.",
+    "start": "00:28:07",
+    "end": "00:28:10"
+  },
+  {
+    "text": "And so these were like kind of like dead users.",
+    "start": "00:28:10",
+    "end": "00:28:13"
+  },
+  {
+    "text": "Like it was just a lot of spend on views that did not monetize at all.",
+    "start": "00:28:13",
+    "end": "00:28:18"
+  },
+  {
+    "text": ">> Are you able to control that just through the content itself or is it something about the location that they post from?",
+    "start": "00:28:16",
+    "end": "00:28:23"
+  },
+  {
+    "text": "It's not even the location that they post from.",
+    "start": "00:28:23",
+    "end": "00:28:26"
+  },
+  {
+    "text": "Like I think there's probably some way to not figure it out yet.",
+    "start": "00:28:26",
+    "end": "00:28:28"
+  },
+  {
+    "text": "And that's something I want to work on like in March.",
+    "start": "00:28:28",
+    "end": "00:28:31"
+  },
+  {
+    "text": "But like we'll have US creators making a video for Spanish and half the viewership will be from LATAM or Spain or Mexico.",
+    "start": "00:28:31",
+    "end": "00:28:38"
+  },
+  {
+    "text": "And like it just happens.",
+    "start": "00:28:38",
+    "end": "00:28:38"
+  },
+  {
+    "text": "Like some of these Russian creators aren't, you know, one of them's in the UK.",
+    "start": "00:28:38",
+    "end": "00:28:42"
+  },
+  {
+    "text": "And her she has 90-something percent Russian viewership.",
+    "start": "00:28:42",
+    "end": "00:28:45"
+  },
+  {
+    "text": "Which is kind of interesting.",
+    "start": "00:28:44",
+    "end": "00:28:46"
+  },
+  {
+    "text": "I always thought at first I thought it was geo-based and then we got other analytics and it's not.",
+    "start": "00:28:46",
+    "end": "00:28:50"
+  },
+  {
+    "text": "And my hunch, like I haven't looked like this is like a discovery of like a week ago.",
+    "start": "00:28:50",
+    "end": "00:28:54"
+  },
+  {
+    "text": "I was like, we really need like look into the why.",
+    "start": "00:28:54",
+    "end": "00:28:55"
+  },
+  {
+    "text": "My guess is that in the same way if I saw something funny in English, I think it's funny, Russians will also think it's funny.",
+    "start": "00:28:55",
+    "end": "00:29:02"
+  },
+  {
+    "text": "And maybe like in fact more funny than someone learning Russian cuz they get it more.",
+    "start": "00:29:02",
+    "end": "00:29:06"
+  },
+  {
+    "text": "And so it's going viral amongst Russians.",
+    "start": "00:29:06",
+    "end": "00:29:08"
+  },
+  {
+    "text": "And so that's like a big problem for me to figure out is like how do I make sure that we go viral amongst the target audience that's learning language and not just the native speakers.",
+    "start": "00:29:08",
+    "end": "00:29:17"
+  },
+  {
+    "text": "This is interesting cuz I think a lot of people if they are international, they're trying to reach the US market.",
+    "start": "00:29:17",
+    "end": "00:29:23"
+  },
+  {
+    "text": "If the entire video is in German, like the creator is speaking German because they're American and they're trying to learn German.",
+    "start": "00:29:23",
+    "end": "00:29:32"
+  },
+  {
+    "text": "But then that video goes viral in Germany.",
+    "start": "00:29:32",
+    "end": "00:29:33"
+  },
+  {
+    "text": "That's not ideal for you guys, right?",
+    "start": "00:29:33",
+    "end": "00:29:36"
+  },
+  {
+    "text": "Cuz you want US users trying to learn German.",
+    "start": "00:29:36",
+    "end": "00:29:39"
+  },
+  {
+    "text": "Or do you do you see like conversions from that anyway where German people are watching this American like learning German and then they kind of just put two and two together.",
+    "start": "00:29:39",
+    "end": "00:29:47"
+  },
+  {
+    "text": "It's like, oh, it's a language learning app.",
+    "start": "00:29:47",
+    "end": "00:29:49"
+  },
+  {
+    "text": "I could probably use this to like learn some other language.",
+    "start": "00:29:49",
+    "end": "00:29:51"
+  },
+  {
+    "text": "\" Like, is that Yeah.",
+    "start": "00:29:51",
+    "end": "00:29:53"
+  },
+  {
+    "text": "Is that what happens?",
+    "start": "00:29:53",
+    "end": "00:29:54"
+  },
+  {
+    "text": "It totally still works.",
+    "start": "00:29:54",
+    "end": "00:29:55"
+  },
+  {
+    "text": "Like, we haven't marketed English deliberately ever.",
+    "start": "00:29:55",
+    "end": "00:29:59"
+  },
+  {
+    "text": "Um just cuz the app's base language is only English.",
+    "start": "00:29:59",
+    "end": "00:30:03"
+  },
+  {
+    "text": "Like, you could only learn English to one of 25 languages until like this month.",
+    "start": "00:30:03",
+    "end": "00:30:07"
+  },
+  {
+    "text": "And now you can be any cross language combo, which is a unique thing we have.",
+    "start": "00:30:07",
+    "end": "00:30:11"
+  },
+  {
+    "text": "But, yeah.",
+    "start": "00:30:11",
+    "end": "00:30:10"
+  },
+  {
+    "text": "So, we didn't market English at all, but we were still seeing a really high amount of English learners join the app.",
+    "start": "00:30:10",
+    "end": "00:30:16"
+  },
+  {
+    "text": ">> It's because of that.",
+    "start": "00:30:15",
+    "end": "00:30:16"
+  },
+  {
+    "text": "Like, someone in Germany would still put two and two together.",
+    "start": "00:30:16",
+    "end": "00:30:19"
+  },
+  {
+    "text": "It's a language app.",
+    "start": "00:30:19",
+    "end": "00:30:21"
+  },
+  {
+    "text": "Okay, like cool, and download it.",
+    "start": "00:30:21",
+    "end": "00:30:22"
+  },
+  {
+    "text": "And so, like English is kind of in this catch-all bucket for our marketing.",
+    "start": "00:30:22",
+    "end": "00:30:26"
+  },
+  {
+    "text": "Like, if something goes viral, it's going to go viral in the target language or like amongst people learning the target language or people learning English.",
+    "start": "00:30:26",
+    "end": "00:30:34"
+  },
+  {
+    "text": "And so, it still works well, but only in countries that are higher converting by default.",
+    "start": "00:30:34",
+    "end": "00:30:37"
+  },
+  {
+    "text": "So, going back to the creator outreach, that you you're going for people that actually speak the language who have, you know, 10 to 30k followers, um ideally if if you want them to have some like UGC viral experience.",
+    "start": "00:30:37",
+    "end": "00:30:52"
+  },
+  {
+    "text": "Is there anything else?",
+    "start": "00:30:52",
+    "end": "00:30:52"
+  },
+  {
+    "text": "Like, are there keywords or like types of creators that you're looking for?",
+    "start": "00:30:52",
+    "end": "00:30:56"
+  },
+  {
+    "text": "Or is it literally just anyone who speaks that language natively and has, you know, a few thousand followers?",
+    "start": "00:30:56",
+    "end": "00:31:02"
+  },
+  {
+    "text": "Yeah, good question.",
+    "start": "00:31:02",
+    "end": "00:31:04"
+  },
+  {
+    "text": "It is a totally like side tangent from that.",
+    "start": "00:31:04",
+    "end": "00:31:07"
+  },
+  {
+    "text": "But, yeah, we look for like certain keywords.",
+    "start": "00:31:05",
+    "end": "00:31:08"
+  },
+  {
+    "text": "Like, I normally start with looking for learners versus just native speakers.",
+    "start": "00:31:08",
+    "end": "00:31:12"
+  },
+  {
+    "text": "Like, so let's call it let's say German, right?",
+    "start": "00:31:12",
+    "end": "00:31:15"
+  },
+  {
+    "text": "Like, learning German, practicing German, speaking German, like kind of any of those basic keywords.",
+    "start": "00:31:15",
+    "end": "00:31:20"
+  },
+  {
+    "text": "Sometimes we'll go like, if the well runs dry, like look at college students, like German major, like German minor, like German class, things like that.",
+    "start": "00:31:20",
+    "end": "00:31:29"
+  },
+  {
+    "text": "Native speakers do work, too.",
+    "start": "00:31:29",
+    "end": "00:31:32"
+  },
+  {
+    "text": "But, I search for them a little less.",
+    "start": "00:31:32",
+    "end": "00:31:34"
+  },
+  {
+    "text": "Like, that's kind of like the last step.",
+    "start": "00:31:34",
+    "end": "00:31:36"
+  },
+  {
+    "text": "And like 10 to 30k is like a healthy range, but we have most creators like we have a lot of good ones who are like under 10k.",
+    "start": "00:31:36",
+    "end": "00:31:42"
+  },
+  {
+    "text": "Like, 5 to 10k is also a really nice range.",
+    "start": "00:31:40",
+    "end": "00:31:43"
+  },
+  {
+    "text": "Like, we had some diamond in the roughs um that were like under 2k who blew up.",
+    "start": "00:31:43",
+    "end": "00:31:47"
+  },
+  {
+    "text": "So, it's like the follower count doesn't really predict the success.",
+    "start": "00:31:47",
+    "end": "00:31:51"
+  },
+  {
+    "text": "It's just like I find at least like they tend to have a little more exposure with making content and like their base quality, like their content quality is a bit higher, which is kind of proved useful.",
+    "start": "00:31:51",
+    "end": "00:32:01"
+  },
+  {
+    "text": "That's the main keywords I would say.",
+    "start": "00:32:01",
+    "end": "00:32:03"
+  },
+  {
+    "text": "Logistics-wise, are you reaching out on just TikTok DMs or you also doing Instagram DMs or emails?",
+    "start": "00:32:03",
+    "end": "00:32:08"
+  },
+  {
+    "text": "Mainly just TikTok.",
+    "start": "00:32:08",
+    "end": "00:32:10"
+  },
+  {
+    "text": "Yeah, TikTok and Instagram.",
+    "start": "00:32:10",
+    "end": "00:32:11"
+  },
+  {
+    "text": "Like, we'll convert to email if they have an email.",
+    "start": "00:32:11",
+    "end": "00:32:14"
+  },
+  {
+    "text": "Like, just gets a little easier to organize.",
+    "start": "00:32:14",
+    "end": "00:32:16"
+  },
+  {
+    "text": "But, normally like we'll message them on TikTok.",
+    "start": "00:32:16",
+    "end": "00:32:17"
+  },
+  {
+    "text": "If they seem like they want to make content for us, we'll then move to email just so it's separated and like kind of step two.",
+    "start": "00:32:17",
+    "end": "00:32:23"
+  },
+  {
+    "text": "Like, we're already onboarding them.",
+    "start": "00:32:23",
+    "end": "00:32:25"
+  },
+  {
+    "text": "We can keep track of like the CRM, like what creators are in the funnel, where are they in the funnel, like you know, we can know like, \"Okay, like this person hasn't responded in a few days.",
+    "start": "00:32:25",
+    "end": "00:32:32"
+  },
+  {
+    "text": "Like, we need to bump this.",
+    "start": "00:32:32",
+    "end": "00:32:33"
+  },
+  {
+    "text": "\" Whereas, the TikTok DMs get messy with like the volume.",
+    "start": "00:32:33",
+    "end": "00:32:36"
+  },
+  {
+    "text": "It's like um we need to cut down our volume a bit to make sure we're getting higher quality versus quantity at this point cuz we have a high quantity.",
+    "start": "00:32:36",
+    "end": "00:32:44"
+  },
+  {
+    "text": "But, yeah, it's kind of on TikTok and Instagram.",
+    "start": "00:32:44",
+    "end": "00:32:47"
+  },
+  {
+    "text": "Like, it makes follow-ups hard, I will say.",
+    "start": "00:32:47",
+    "end": "00:32:49"
+  },
+  {
+    "text": "Like, following up at the volume we do on TikTok gets kind of messy.",
+    "start": "00:32:47",
+    "end": "00:32:53"
+  },
+  {
+    "text": "And it's doable, but the TikTok at least I found like when I was doing all the outreach myself, at a certain scale, like after every shout to like a few thousand creators, like my TikTok DMs would be super slow cuz it'd load all those message histories.",
+    "start": "00:32:53",
+    "end": "00:33:04"
+  },
+  {
+    "text": "Like, that got kind of annoying for me.",
+    "start": "00:33:04",
+    "end": "00:33:06"
+  },
+  {
+    "text": "Are there any changes that you made to your your first DM over time that increased our reply rates?",
+    "start": "00:33:06",
+    "end": "00:33:11"
+  },
+  {
+    "text": "That's a good question.",
+    "start": "00:33:11",
+    "end": "00:33:13"
+  },
+  {
+    "text": "I think it's stayed relatively similar.",
+    "start": "00:33:13",
+    "end": "00:33:15"
+  },
+  {
+    "text": "We just kind of update stats.",
+    "start": "00:33:15",
+    "end": "00:33:16"
+  },
+  {
+    "text": "It'll be like, \"Hey blank, I love your insert language content.",
+    "start": "00:33:16",
+    "end": "00:33:19"
+  },
+  {
+    "text": "I'm with Pingo.",
+    "start": "00:33:19",
+    "end": "00:33:21"
+  },
+  {
+    "text": "We're a language app with X million users,\" which has changed from like a few hundred like tens of thousands to few hundred thousand to one to two to three million.",
+    "start": "00:33:21",
+    "end": "00:33:28"
+  },
+  {
+    "text": "Um so, now it's like we have three million users.",
+    "start": "00:33:28",
+    "end": "00:33:30"
+  },
+  {
+    "text": "Like, we'd love to make content with you.",
+    "start": "00:33:30",
+    "end": "00:33:32"
+  },
+  {
+    "text": "Like, if you we love your content, if you're interested, like let us know.",
+    "start": "00:33:32",
+    "end": "00:33:35"
+  },
+  {
+    "text": "\" And then people reply, \"Yeah, sounds awesome.",
+    "start": "00:33:35",
+    "end": "00:33:37"
+  },
+  {
+    "text": "Like, love to hear more.",
+    "start": "00:33:37",
+    "end": "00:33:38"
+  },
+  {
+    "text": "\" And then go, \"Great.",
+    "start": "00:33:38",
+    "end": "00:33:40"
+  },
+  {
+    "text": "Like, here's how it would look like.",
+    "start": "00:33:38",
+    "end": "00:33:42"
+  },
+  {
+    "text": "You make a new account.",
+    "start": "00:33:42",
+    "end": "00:33:42"
+  },
+  {
+    "text": "You'd warm up your account.",
+    "start": "00:33:42",
+    "end": "00:33:43"
+  },
+  {
+    "text": "We pay you this rate per video and bonuses.",
+    "start": "00:33:43",
+    "end": "00:33:45"
+  },
+  {
+    "text": "Like, we give you app access.",
+    "start": "00:33:45",
+    "end": "00:33:46"
+  },
+  {
+    "text": "Any questions?",
+    "start": "00:33:46",
+    "end": "00:33:48"
+  },
+  {
+    "text": "\" And then from there, if they go, \"No, that sounds great.",
+    "start": "00:33:48",
+    "end": "00:33:50"
+  },
+  {
+    "text": "\" Then we'll be like, \"Great.",
+    "start": "00:33:50",
+    "end": "00:33:53"
+  },
+  {
+    "text": "Here's some next steps.",
+    "start": "00:33:51",
+    "end": "00:33:53"
+  },
+  {
+    "text": "Like, let's move to email.",
+    "start": "00:33:53",
+    "end": "00:33:53"
+  },
+  {
+    "text": "\" And that's the general flow.",
+    "start": "00:33:53",
+    "end": "00:33:56"
+  },
+  {
+    "text": "So, let me show you this.",
+    "start": "00:33:55",
+    "end": "00:33:57"
+  },
+  {
+    "text": "A lot of app founders I talk to have a feeling their app has viral potential, but don't want to be the person brain rot scrolling an hour a day hunting for formats or worse burning thousands on creators shooting videos that just flop.",
+    "start": "00:33:57",
+    "end": "00:34:08"
+  },
+  {
+    "text": "Recently, I've been telling every founder I meet about SpyTok.",
+    "start": "00:34:08",
+    "end": "00:34:11"
+  },
+  {
+    "text": "It's basically an AI TikTok viral marketer that I've seen a lot of top app growth teams using.",
+    "start": "00:34:11",
+    "end": "00:34:17"
+  },
+  {
+    "text": "You just paste a link to your app, and this agent scrolls hundreds of thousands of TikToks for you, finds the outlier videos from competitors who've already cracked the best formats that are driving installs in the niche of your app.",
+    "start": "00:34:17",
+    "end": "00:34:27"
+  },
+  {
+    "text": "And then it remixes the hooks, the angles, and then it makes playbooks so you can pretty much copy-paste virality.",
+    "start": "00:34:27",
+    "end": "00:34:33"
+  },
+  {
+    "text": "And then it alerts you when it detects new breakout formats that would also work for your app.",
+    "start": "00:34:33",
+    "end": "00:34:35"
+  },
+  {
+    "text": "This is the only growth tool I 100% vouch for on this channel because there's a ton of gen AI content tools out there, but none of them tell you what to make.",
+    "start": "00:34:35",
+    "end": "00:34:44"
+  },
+  {
+    "text": "SpyTok makes sure you're never in the dark about what's actually working now.",
+    "start": "00:34:44",
+    "end": "00:34:47"
+  },
+  {
+    "text": "I'll put the link in the description.",
+    "start": "00:34:47",
+    "end": "00:34:49"
+  },
+  {
+    "text": "So, what does that deal structure look like initially?",
+    "start": "00:34:49",
+    "end": "00:34:53"
+  },
+  {
+    "text": "Yeah, so we set them a base pay per video because we want the creators to know that like we value their time.",
+    "start": "00:34:53",
+    "end": "00:34:58"
+  },
+  {
+    "text": "But, really like the money's in the bonuses.",
+    "start": "00:34:58",
+    "end": "00:35:01"
+  },
+  {
+    "text": "So, like the numbers are like 50,000, 100,000, 200,000, 500,000, and million views.",
+    "start": "00:35:01",
+    "end": "00:35:06"
+  },
+  {
+    "text": "So, we actually set milestones.",
+    "start": "00:35:06",
+    "end": "00:35:08"
+  },
+  {
+    "text": "They're not stacking.",
+    "start": "00:35:08",
+    "end": "00:35:08"
+  },
+  {
+    "text": "So, if a creator gets $100 at 100,000 views on $50 at 50,000 views, they don't get 150 when they get 200,000 views.",
+    "start": "00:35:08",
+    "end": "00:35:16"
+  },
+  {
+    "text": "They get 100.",
+    "start": "00:35:16",
+    "end": "00:35:18"
+  },
+  {
+    "text": "So, it's kind of like you earn the highest tier.",
+    "start": "00:35:18",
+    "end": "00:35:20"
+  },
+  {
+    "text": "They don't stack, if that kind of makes sense, plus the base pay.",
+    "start": "00:35:20",
+    "end": "00:35:23"
+  },
+  {
+    "text": "And then that way creators are motivated to make the content cuz they're getting paid for their time and motivated to go viral.",
+    "start": "00:35:23",
+    "end": "00:35:30"
+  },
+  {
+    "text": "And then on something like Noise that you mentioned, like we talked about this earlier.",
+    "start": "00:35:29",
+    "end": "00:35:32"
+  },
+  {
+    "text": "So, we we use Noise for a lot of distribution to scale what really works and also really quickly test ideas.",
+    "start": "00:35:32",
+    "end": "00:35:36"
+  },
+  {
+    "text": "That's on a CPM model with a cap.",
+    "start": "00:35:36",
+    "end": "00:35:40"
+  },
+  {
+    "text": "So, you kind of have these two different spend buckets.",
+    "start": "00:35:38",
+    "end": "00:35:42"
+  },
+  {
+    "text": "We have in-house program with base pay, fixed tier bonuses that we manage.",
+    "start": "00:35:42",
+    "end": "00:35:46"
+  },
+  {
+    "text": "And we have Noise with their creators, which is CPM post cap.",
+    "start": "00:35:46",
+    "end": "00:35:50"
+  },
+  {
+    "text": "And it makes spending interesting cuz it can really easily change our Noise budget, whereas our in-house spend is a lot more fixed because of the way we do it and our creator base.",
+    "start": "00:35:50",
+    "end": "00:35:58"
+  },
+  {
+    "text": "We can't just like turn it off.",
+    "start": "00:35:58",
+    "end": "00:35:59"
+  },
+  {
+    "text": "And then we use Noise for kind of like scaling what works and really quickly testing.",
+    "start": "00:35:59",
+    "end": "00:36:03"
+  },
+  {
+    "text": "And then with our creators, you have a cohort of creators that we use to test ideas that we know are really good.",
+    "start": "00:36:03",
+    "end": "00:36:08"
+  },
+  {
+    "text": "We know how they make content.",
+    "start": "00:36:08",
+    "end": "00:36:09"
+  },
+  {
+    "text": "Like, kind of call them our core creators.",
+    "start": "00:36:09",
+    "end": "00:36:11"
+  },
+  {
+    "text": "And our core creators are like our our testing cohort.",
+    "start": "00:36:11",
+    "end": "00:36:13"
+  },
+  {
+    "text": "Like, we say, \"All right, we have this idea.",
+    "start": "00:36:13",
+    "end": "00:36:15"
+  },
+  {
+    "text": "We think it's going to work.",
+    "start": "00:36:15",
+    "end": "00:36:15"
+  },
+  {
+    "text": "Like, make it like this.",
+    "start": "00:36:15",
+    "end": "00:36:17"
+  },
+  {
+    "text": "Give it a try.",
+    "start": "00:36:17",
+    "end": "00:36:17"
+  },
+  {
+    "text": "Post it next week, and we'll see how it does.",
+    "start": "00:36:17",
+    "end": "00:36:19"
+  },
+  {
+    "text": "\" Have you ever thought of this random idea, but have you ever have you thought of like asking people post conversion, like \"Which TikTok creator do you remember seeing like before you downloaded the app?",
+    "start": "00:36:19",
+    "end": "00:36:29"
+  },
+  {
+    "text": "\" We can just assume where they what video they came from based on the language.",
+    "start": "00:36:29",
+    "end": "00:36:32"
+  },
+  {
+    "text": "If they're like learning Russian and said they came from TikTok and they sign up on this day, like we probably know what video they came from.",
+    "start": "00:36:32",
+    "end": "00:36:38"
+  },
+  {
+    "text": "Or at least like what set of videos.",
+    "start": "00:36:38",
+    "end": "00:36:40"
+  },
+  {
+    "text": "Like, the thing I want to try that I don't know if it would work at all is like if we have all these core creators of ours testing a new idea.",
+    "start": "00:36:40",
+    "end": "00:36:48"
+  },
+  {
+    "text": "You have 20 people the same format that we've never tried.",
+    "start": "00:36:48",
+    "end": "00:36:50"
+  },
+  {
+    "text": "We want to see if it goes viral.",
+    "start": "00:36:50",
+    "end": "00:36:51"
+  },
+  {
+    "text": "If they all post it on the same day, so like let's imagine this is like a the best video format ever and it never went viral before and like we struck gold.",
+    "start": "00:36:51",
+    "end": "00:36:59"
+  },
+  {
+    "text": "Then we get a really huge view spike from those creators on that day, give or take a day, right?",
+    "start": "00:36:59",
+    "end": "00:37:05"
+  },
+  {
+    "text": "Maybe one takes off sooner.",
+    "start": "00:37:05",
+    "end": "00:37:06"
+  },
+  {
+    "text": "But, like versus \"Hey core creators, here's a format.",
+    "start": "00:37:06",
+    "end": "00:37:10"
+  },
+  {
+    "text": "Post it sometime next week.",
+    "start": "00:37:08",
+    "end": "00:37:11"
+  },
+  {
+    "text": "\" And then they're spread out.",
+    "start": "00:37:11",
+    "end": "00:37:12"
+  },
+  {
+    "text": "And so, something I'm we might try is like can we try and engineer near those mass spikes like we kind of used to see easier?",
+    "start": "00:37:12",
+    "end": "00:37:20"
+  },
+  {
+    "text": "Like, you know, if before if we had 10 creators and two went viral on the same day, you know, all right, we have 20% of our creators going viral at once, and that's all the view boost and whatever.",
+    "start": "00:37:20",
+    "end": "00:37:29"
+  },
+  {
+    "text": "Can we like re-engineer that proportion and be like, \"Let's have Let's see if we can have 20 of our creators go viral on the same day with the same thing.",
+    "start": "00:37:29",
+    "end": "00:37:36"
+  },
+  {
+    "text": "\" And if they all do the same format and like all goes viral on the same day, and attribution follows via conversions or downloads or revenue, then like, \"Okay, like that tells us something.",
+    "start": "00:37:36",
+    "end": "00:37:45"
+  },
+  {
+    "text": "\" And I have no idea if it would work.",
+    "start": "00:37:45",
+    "end": "00:37:46"
+  },
+  {
+    "text": "It's like it's like a shower thought I had the other day.",
+    "start": "00:37:46",
+    "end": "00:37:48"
+  },
+  {
+    "text": "By the way, how what what's your revenue at right now?",
+    "start": "00:37:48",
+    "end": "00:37:51"
+  },
+  {
+    "text": "Right around like 500k a month.",
+    "start": "00:37:51",
+    "end": "00:37:53"
+  },
+  {
+    "text": "Like, 450-500k a month.",
+    "start": "00:37:53",
+    "end": "00:37:53"
+  },
+  {
+    "text": "Okay, nice.",
+    "start": "00:37:53",
+    "end": "00:37:54"
+  },
+  {
+    "text": "We'll see we'll see what this month closes in on.",
+    "start": "00:37:54",
+    "end": "00:37:58"
+  },
+  {
+    "text": "Today's been a good day, so I'm not sure where We have 3 days left in February, so we'll see where it lands.",
+    "start": "00:37:58",
+    "end": "00:38:03"
+  },
+  {
+    "text": "But, >> Yeah.",
+    "start": "00:38:03",
+    "end": "00:38:02"
+  },
+  {
+    "text": "Going back to the testing phase, I thought that was pretty interesting.",
+    "start": "00:38:02",
+    "end": "00:38:08"
+  },
+  {
+    "text": "Like, you said that you use Noise and in-house for testing.",
+    "start": "00:38:06",
+    "end": "00:38:11"
+  },
+  {
+    "text": "Noise for CPM-based creators, and in-house for your like retainer creators.",
+    "start": "00:38:11",
+    "end": "00:38:15"
+  },
+  {
+    "text": "Do you basically just give a brief and then tell everyone to just, \"Hey, try this.",
+    "start": "00:38:15",
+    "end": "00:38:21"
+  },
+  {
+    "text": "\" Or are you more granular and like ABCD test, you know, different variables for each creator?",
+    "start": "00:38:21",
+    "end": "00:38:26"
+  },
+  {
+    "text": "Like, how do you approach uh testing new formats?",
+    "start": "00:38:26",
+    "end": "00:38:29"
+  },
+  {
+    "text": "We're not as granular.",
+    "start": "00:38:29",
+    "end": "00:38:29"
+  },
+  {
+    "text": "I think one day probably.",
+    "start": "00:38:29",
+    "end": "00:38:32"
+  },
+  {
+    "text": "Like, I like getting really granular about testing.",
+    "start": "00:38:31",
+    "end": "00:38:33"
+  },
+  {
+    "text": "Like, we've gotten really deep into paywall testing recently.",
+    "start": "00:38:33",
+    "end": "00:38:36"
+  },
+  {
+    "text": "I've gotten granular.",
+    "start": "00:38:36",
+    "end": "00:38:36"
+  },
+  {
+    "text": "But, when it comes to content, we'll give them like a brief.",
+    "start": "00:38:36",
+    "end": "00:38:39"
+  },
+  {
+    "text": "We'll say, \"All right, here's like an example video.",
+    "start": "00:38:38",
+    "end": "00:38:40"
+  },
+  {
+    "text": "\" If it's something one creator's made before, like we had a video a format that we sent recently.",
+    "start": "00:38:40",
+    "end": "00:38:46"
+  },
+  {
+    "text": "It was like sort of like a modulation of like the meme crying Pingo, but a bit different.",
+    "start": "00:38:46",
+    "end": "00:38:49"
+  },
+  {
+    "text": "One creator did it.",
+    "start": "00:38:49",
+    "end": "00:38:51"
+  },
+  {
+    "text": "It went really viral.",
+    "start": "00:38:51",
+    "end": "00:38:51"
+  },
+  {
+    "text": "And we took that and scaled it.",
+    "start": "00:38:51",
+    "end": "00:38:52"
+  },
+  {
+    "text": "And so, we said, \"All right, here's an example.",
+    "start": "00:38:52",
+    "end": "00:38:54"
+  },
+  {
+    "text": "And here's why we think it went viral.",
+    "start": "00:38:54",
+    "end": "00:38:56"
+  },
+  {
+    "text": "\" Kind of like what Noise likes to do.",
+    "start": "00:38:56",
+    "end": "00:38:57"
+  },
+  {
+    "text": "Like, here's why it went viral.",
+    "start": "00:38:57",
+    "end": "00:38:58"
+  },
+  {
+    "text": "Here's the key steps to recreate.",
+    "start": "00:38:58",
+    "end": "00:39:00"
+  },
+  {
+    "text": "But, recreate this as close as possible in your target language.",
+    "start": "00:39:00",
+    "end": "00:39:04"
+  },
+  {
+    "text": "Like, go.",
+    "start": "00:39:04",
+    "end": "00:39:03"
+  },
+  {
+    "text": "That's kind of what we do both in-house and on Noise.",
+    "start": "00:39:03",
+    "end": "00:39:06"
+  },
+  {
+    "text": "And if it's a format that we haven't ever made before, right?",
+    "start": "00:39:06",
+    "end": "00:39:08"
+  },
+  {
+    "text": "We think of like, \"Okay, this is a really cool idea, but no one's done it.",
+    "start": "00:39:08",
+    "end": "00:39:11"
+  },
+  {
+    "text": "\" Then we'll make an example.",
+    "start": "00:39:11",
+    "end": "00:39:13"
+  },
+  {
+    "text": "Like, \"All right, here's like an example.",
+    "start": "00:39:13",
+    "end": "00:39:17"
+  },
+  {
+    "text": "Here's what we're looking for.",
+    "start": "00:39:14",
+    "end": "00:39:18"
+  },
+  {
+    "text": "\" That is unique.",
+    "start": "00:39:18",
+    "end": "00:39:17"
+  },
+  {
+    "text": "I think there's not that many founders who are willing to get that in the weeds and like literally make the videos before their own creators.",
+    "start": "00:39:17",
+    "end": "00:39:26"
+  },
+  {
+    "text": "I've talked to like successful founders who do UGC, and a lot of them actually do say this.",
+    "start": "00:39:26",
+    "end": "00:39:29"
+  },
+  {
+    "text": "It does seem like this is the way to do it.",
+    "start": "00:39:29",
+    "end": "00:39:32"
+  },
+  {
+    "text": "Like, are most of the ideas sourced from you?",
+    "start": "00:39:32",
+    "end": "00:39:36"
+  },
+  {
+    "text": "Or do your creators come up with ideas and then you actually execute them?",
+    "start": "00:39:36",
+    "end": "00:39:41"
+  },
+  {
+    "text": "And then if it goes well, then you give it back.",
+    "start": "00:39:41",
+    "end": "00:39:44"
+  },
+  {
+    "text": "Yeah, I think it's changing now.",
+    "start": "00:39:44",
+    "end": "00:39:45"
+  },
+  {
+    "text": "So, it's been a lot of creator oriented.",
+    "start": "00:39:45",
+    "end": "00:39:48"
+  },
+  {
+    "text": "I think what's been really unique with us, like I've talked to other viral founders who like we have this thing going viral and it goes viral for a week and then it dies.",
+    "start": "00:39:48",
+    "end": "00:39:54"
+  },
+  {
+    "text": "And we have to find a new thing or a month.",
+    "start": "00:39:54",
+    "end": "00:39:56"
+  },
+  {
+    "text": "Our virality like lasts a really long time, which I took for granted for a while.",
+    "start": "00:39:56",
+    "end": "00:40:01"
+  },
+  {
+    "text": "Like the first format we did when we were just talking with Pingo, learning without any humor or anything.",
+    "start": "00:40:01",
+    "end": "00:40:06"
+  },
+  {
+    "text": "That lasted for like four or five months.",
+    "start": "00:40:06",
+    "end": "00:40:08"
+  },
+  {
+    "text": "And then crying format has still it's working.",
+    "start": "00:40:08",
+    "end": "00:40:11"
+  },
+  {
+    "text": "That's been since September and it's still working.",
+    "start": "00:40:11",
+    "end": "00:40:14"
+  },
+  {
+    "text": "Like there hasn't been like a burning like need to ideate and ideate and ideate.",
+    "start": "00:40:12",
+    "end": "00:40:17"
+  },
+  {
+    "text": "Because like, you know, it was just two of us until mid-October.",
+    "start": "00:40:17",
+    "end": "00:40:23"
+  },
+  {
+    "text": "Now there's four of us.",
+    "start": "00:40:23",
+    "end": "00:40:23"
+  },
+  {
+    "text": "So, one content hire and one engineer.",
+    "start": "00:40:23",
+    "end": "00:40:25"
+  },
+  {
+    "text": "But when it was just me, like I didn't have the time to fully like spend 100% of time on content versus anything else I needed to do.",
+    "start": "00:40:25",
+    "end": "00:40:33"
+  },
+  {
+    "text": "So, I wasn't as experimentation oriented as I'd like.",
+    "start": "00:40:33",
+    "end": "00:40:34"
+  },
+  {
+    "text": "So, how many creators would you say you have now who are like really good and and creative and kind of come up with their own ideas?",
+    "start": "00:40:34",
+    "end": "00:40:43"
+  },
+  {
+    "text": "Maybe like 20 to 30 are like really good at coming up with their own ideas.",
+    "start": "00:40:43",
+    "end": "00:40:47"
+  },
+  {
+    "text": "Yeah, so here's a ton.",
+    "start": "00:40:47",
+    "end": "00:40:47"
+  },
+  {
+    "text": "Some of these guys are from noise, some are ours, but it definitely varies.",
+    "start": "00:40:47",
+    "end": "00:40:53"
+  },
+  {
+    "text": "I would say like there's like 30 that tend to come up with ideas.",
+    "start": "00:40:51",
+    "end": "00:40:56"
+  },
+  {
+    "text": "There's 20 of those who are pretty good and there's 10 who are like goated.",
+    "start": "00:40:56",
+    "end": "00:40:59"
+  },
+  {
+    "text": "And then the rest of our creators, there's a large section that like are really good at learning and like, you know, we have some like active creators who will talk about like, oh like they'll share what went viral.",
+    "start": "00:40:59",
+    "end": "00:41:09"
+  },
+  {
+    "text": "People ask like god, like how do I do this?",
+    "start": "00:41:09",
+    "end": "00:41:11"
+  },
+  {
+    "text": "And they'll teach each other and like we have a large section of creators who will follow that virality.",
+    "start": "00:41:11",
+    "end": "00:41:15"
+  },
+  {
+    "text": "And then we have some creators who we really need like improve and work on getting them up to speed.",
+    "start": "00:41:15",
+    "end": "00:41:20"
+  },
+  {
+    "text": "But we probably have about like 100 creators right now.",
+    "start": "00:41:20",
+    "end": "00:41:21"
+  },
+  {
+    "text": "We just cut like, you know, 30 to 50.",
+    "start": "00:41:21",
+    "end": "00:41:23"
+  },
+  {
+    "text": "Um but we're probably sitting at about 100 right now.",
+    "start": "00:41:23",
+    "end": "00:41:26"
+  },
+  {
+    "text": "So, again, like the top 20 30% lead a lot of that creator led growth.",
+    "start": "00:41:26",
+    "end": "00:41:29"
+  },
+  {
+    "text": "And then the middle pack kind of follows their lead.",
+    "start": "00:41:29",
+    "end": "00:41:34"
+  },
+  {
+    "text": "So, what does it take to get a person from decent creator to like that top 20%?",
+    "start": "00:41:34",
+    "end": "00:41:40"
+  },
+  {
+    "text": "What is that coaching process?",
+    "start": "00:41:37",
+    "end": "00:41:40"
+  },
+  {
+    "text": "And maybe like one part of the question I also have is like you said that a lot of creators, there's a disconnect between coming up with really good ideas versus execution of those ideas.",
+    "start": "00:41:40",
+    "end": "00:41:50"
+  },
+  {
+    "text": "Like what why is there that difference and how do you get someone to be good at execution?",
+    "start": "00:41:50",
+    "end": "00:41:56"
+  },
+  {
+    "text": "We just started coaching.",
+    "start": "00:41:56",
+    "end": "00:41:57"
+  },
+  {
+    "text": "So, it's kind of TBD like exactly like the percent improvement.",
+    "start": "00:41:57",
+    "end": "00:42:00"
+  },
+  {
+    "text": "But to start with like the idea to that execution, sometimes people have like a really great idea.",
+    "start": "00:42:00",
+    "end": "00:42:05"
+  },
+  {
+    "text": "Like I'll look at this and go, \"This is a really funny video.",
+    "start": "00:42:05",
+    "end": "00:42:07"
+  },
+  {
+    "text": "\" And it flops.",
+    "start": "00:42:07",
+    "end": "00:42:08"
+  },
+  {
+    "text": "And it can be as simple as like their lighting was bad.",
+    "start": "00:42:08",
+    "end": "00:42:10"
+  },
+  {
+    "text": "They held their camera at a weird angle.",
+    "start": "00:42:10",
+    "end": "00:42:12"
+  },
+  {
+    "text": "Like they weren't doing anything interesting.",
+    "start": "00:42:12",
+    "end": "00:42:15"
+  },
+  {
+    "text": "Like, you know, a lot of people do like the cutting fruit, right?",
+    "start": "00:42:15",
+    "end": "00:42:18"
+  },
+  {
+    "text": "Have some people We have some creators who use slime.",
+    "start": "00:42:17",
+    "end": "00:42:19"
+  },
+  {
+    "text": "Some creators like do knitting or like drawing and writing while they talk.",
+    "start": "00:42:19",
+    "end": "00:42:23"
+  },
+  {
+    "text": "And so, it's sometimes as simple as just like, \"Hey, like really great idea.",
+    "start": "00:42:23",
+    "end": "00:42:27"
+  },
+  {
+    "text": "But just like let's change your lighting.",
+    "start": "00:42:27",
+    "end": "00:42:29"
+  },
+  {
+    "text": "Let's change your camera angle.",
+    "start": "00:42:29",
+    "end": "00:42:30"
+  },
+  {
+    "text": "Like maybe you should be doing something.",
+    "start": "00:42:30",
+    "end": "00:42:32"
+  },
+  {
+    "text": "Um let's make sure like your audio quality's good.",
+    "start": "00:42:32",
+    "end": "00:42:35"
+  },
+  {
+    "text": "Your framing is good.",
+    "start": "00:42:35",
+    "end": "00:42:35"
+  },
+  {
+    "text": "\" Sometimes people frame themselves awkwardly.",
+    "start": "00:42:35",
+    "end": "00:42:39"
+  },
+  {
+    "text": "And what we tend to see is like at least amongst the good creators who are already good, when we point out these little nuances like, \"Hey, like you did really good.",
+    "start": "00:42:39",
+    "end": "00:42:46"
+  },
+  {
+    "text": "This recent video could be a bit better.",
+    "start": "00:42:46",
+    "end": "00:42:48"
+  },
+  {
+    "text": "So, like let's just tweak this small thing.",
+    "start": "00:42:48",
+    "end": "00:42:49"
+  },
+  {
+    "text": "\" That tweak tends to help.",
+    "start": "00:42:49",
+    "end": "00:42:52"
+  },
+  {
+    "text": ">> How's like coaching just has a lot to do with like building a good community, tweaking like small things in execution, like the basics.",
+    "start": "00:42:49",
+    "end": "00:42:58"
+  },
+  {
+    "text": "But then like a lot of the ideas are kind of just community based, like crowd sourced from each other.",
+    "start": "00:42:58",
+    "end": "00:43:02"
+  },
+  {
+    "text": "Yeah, is there any central planning of creativity?",
+    "start": "00:43:02",
+    "end": "00:43:06"
+  },
+  {
+    "text": "Like you're looking out for certain cultural things?",
+    "start": "00:43:06",
+    "end": "00:43:10"
+  },
+  {
+    "text": "Like for example, with the TikTok ban, like if a couple years ago, were were you thinking about like are you personally on the lookout for things these days for okay, how can we like think about these like different cultural nuances or trends within each language and then giving those to creators?",
+    "start": "00:43:08",
+    "end": "00:43:26"
+  },
+  {
+    "text": "A bit.",
+    "start": "00:43:26",
+    "end": "00:43:26"
+  },
+  {
+    "text": "Like not as much as you should be.",
+    "start": "00:43:26",
+    "end": "00:43:28"
+  },
+  {
+    "text": "We definitely we talk about it a lot.",
+    "start": "00:43:28",
+    "end": "00:43:29"
+  },
+  {
+    "text": "Like it's something we want to do, but it can be a little hard.",
+    "start": "00:43:29",
+    "end": "00:43:33"
+  },
+  {
+    "text": "What happens is we'll see something and then go retroactively, oh this would be really good.",
+    "start": "00:43:33",
+    "end": "00:43:37"
+  },
+  {
+    "text": "Like heated rivalry.",
+    "start": "00:43:37",
+    "end": "00:43:39"
+  },
+  {
+    "text": "If we wanted to market Russian in the US, we do oh my god, we can market heated rivalry to Americans like by learning Russian.",
+    "start": "00:43:39",
+    "end": "00:43:44"
+  },
+  {
+    "text": "We aren't doing it anymore cuz we just had to kill all Russian marketing, but like that would have been something good.",
+    "start": "00:43:44",
+    "end": "00:43:50"
+  },
+  {
+    "text": "My content lead, like she lived in Germany.",
+    "start": "00:43:50",
+    "end": "00:43:52"
+  },
+  {
+    "text": "She gets a lot of German culture.",
+    "start": "00:43:51",
+    "end": "00:43:53"
+  },
+  {
+    "text": "So, like she's coaching our German creators on like cultural things they can do well.",
+    "start": "00:43:53",
+    "end": "00:43:55"
+  },
+  {
+    "text": "Um when we were doing like Korean, we were looking out for like K-pop, demon hunters, and other cultural things.",
+    "start": "00:43:55",
+    "end": "00:44:00"
+  },
+  {
+    "text": "I think my grand vision, like I want to try and get like a really diverse range of coaches from language niches such that we have these people in a bit more of like an elevated position above a regular creator that can do that sort of cultural outsourcing per language.",
+    "start": "00:44:00",
+    "end": "00:44:18"
+  },
+  {
+    "text": ">> It sounds like it just all starts in the recruiting itself.",
+    "start": "00:44:15",
+    "end": "00:44:20"
+  },
+  {
+    "text": "So, you're just finding a person who knows a language, who is actually learning the language and because they're learning the language actively, they actually know the pain points and the quirks and what's funny and what's culturally relevant for that niche.",
+    "start": "00:44:20",
+    "end": "00:44:37"
+  },
+  {
+    "text": "And as as long as you find that person, they're probably going to have just inherently the creativity that you're looking for.",
+    "start": "00:44:37",
+    "end": "00:44:44"
+  },
+  {
+    "text": "Yeah, exactly.",
+    "start": "00:44:42",
+    "end": "00:44:43"
+  },
+  {
+    "text": "Even if they're fluent, too.",
+    "start": "00:44:43",
+    "end": "00:44:44"
+  },
+  {
+    "text": "Like they also still know that maybe from even a different perspective that's equally good.",
+    "start": "00:44:44",
+    "end": "00:44:51"
+  },
+  {
+    "text": "Do you have any paywall testing insights?",
+    "start": "00:44:51",
+    "end": "00:44:53"
+  },
+  {
+    "text": "Yeah, I think I've gotten really into the weeds of this recently.",
+    "start": "00:44:53",
+    "end": "00:44:56"
+  },
+  {
+    "text": "I think for a really long time they like tested like a few things and found something that worked kind of well and like set it and forget it.",
+    "start": "00:44:56",
+    "end": "00:45:03"
+  },
+  {
+    "text": "And then now that we have more people, more bandwidth, it's like, all right, now I have like the time like really get into this and like I want to optimize as much as we can.",
+    "start": "00:45:03",
+    "end": "00:45:09"
+  },
+  {
+    "text": "Like on the content side, we try and build it as many systems as we can.",
+    "start": "00:45:09",
+    "end": "00:45:12"
+  },
+  {
+    "text": "Like we built an internal tool for paying creators cuz it took too much time.",
+    "start": "00:45:12",
+    "end": "00:45:15"
+  },
+  {
+    "text": "We have a really meticulous organization for coaching.",
+    "start": "00:45:15",
+    "end": "00:45:18"
+  },
+  {
+    "text": "Like we want to be as organized and efficient as possible on all aspects of creators.",
+    "start": "00:45:18",
+    "end": "00:45:23"
+  },
+  {
+    "text": "And that same thing applies for paywalls.",
+    "start": "00:45:23",
+    "end": "00:45:25"
+  },
+  {
+    "text": "So, now Lunatic I've tried to get really meticulous in like paywall testing.",
+    "start": "00:45:23",
+    "end": "00:45:28"
+  },
+  {
+    "text": "Like the first thing we tested was like designs.",
+    "start": "00:45:28",
+    "end": "00:45:29"
+  },
+  {
+    "text": "Like we had the same paywall design for like a year.",
+    "start": "00:45:29",
+    "end": "00:45:32"
+  },
+  {
+    "text": "We're like, okay, we need to like we need to step this up.",
+    "start": "00:45:32",
+    "end": "00:45:33"
+  },
+  {
+    "text": "This was like the OG paywall right here.",
+    "start": "00:45:33",
+    "end": "00:45:36"
+  },
+  {
+    "text": "So, it was just this for like a really long time.",
+    "start": "00:45:36",
+    "end": "00:45:39"
+  },
+  {
+    "text": "That's it.",
+    "start": "00:45:39",
+    "end": "00:45:41"
+  },
+  {
+    "text": "Um this and we tried like other copy, right?",
+    "start": "00:45:41",
+    "end": "00:45:42"
+  },
+  {
+    "text": "We do like show the full annual price, annual with like the monthly equivalent.",
+    "start": "00:45:42",
+    "end": "00:45:46"
+  },
+  {
+    "text": "Like this is the overall design.",
+    "start": "00:45:46",
+    "end": "00:45:47"
+  },
+  {
+    "text": "We just changed the copy on these buttons.",
+    "start": "00:45:47",
+    "end": "00:45:49"
+  },
+  {
+    "text": "And we tested like a few of those.",
+    "start": "00:45:49",
+    "end": "00:45:51"
+  },
+  {
+    "text": "That was the OG one page.",
+    "start": "00:45:51",
+    "end": "00:45:54"
+  },
+  {
+    "text": "Then we added our our 7-day free trial.",
+    "start": "00:45:54",
+    "end": "00:45:56"
+  },
+  {
+    "text": "So, then we added our our multi-page paywall.",
+    "start": "00:45:56",
+    "end": "00:45:57"
+  },
+  {
+    "text": "And that looked like a few different things.",
+    "start": "00:45:57",
+    "end": "00:45:59"
+  },
+  {
+    "text": "So, the front page was this.",
+    "start": "00:45:59",
+    "end": "00:46:00"
+  },
+  {
+    "text": "Learn to speak any language with Pingo.",
+    "start": "00:46:00",
+    "end": "00:46:01"
+  },
+  {
+    "text": "You are reminded 2 days before trial ends.",
+    "start": "00:46:01",
+    "end": "00:46:06"
+  },
+  {
+    "text": "And then here's a timeline.",
+    "start": "00:46:04",
+    "end": "00:46:07"
+  },
+  {
+    "text": "This is not the OG.",
+    "start": "00:46:07",
+    "end": "00:46:07"
+  },
+  {
+    "text": "This is what has worked best so far.",
+    "start": "00:46:07",
+    "end": "00:46:09"
+  },
+  {
+    "text": "So, we keep these two pages constant when we're testing so far.",
+    "start": "00:46:09",
+    "end": "00:46:13"
+  },
+  {
+    "text": "We'll test them again at some point.",
+    "start": "00:46:12",
+    "end": "00:46:14"
+  },
+  {
+    "text": "But right now like our biggest impact is here.",
+    "start": "00:46:14",
+    "end": "00:46:15"
+  },
+  {
+    "text": "And so, we'll test this copy.",
+    "start": "00:46:15",
+    "end": "00:46:19"
+  },
+  {
+    "text": "So, this is the newest one that works best.",
+    "start": "00:46:19",
+    "end": "00:46:21"
+  },
+  {
+    "text": "I actually took this I think from a Super Bowl podcast.",
+    "start": "00:46:19",
+    "end": "00:46:24"
+  },
+  {
+    "text": "But it was like today you unlock Pingo in 5 days just a variable, you set reminder and you'll be charged, and try it free.",
+    "start": "00:46:24",
+    "end": "00:46:30"
+  },
+  {
+    "text": "You get the annual and then like a weekly equivalent.",
+    "start": "00:46:30",
+    "end": "00:46:33"
+  },
+  {
+    "text": "Cuz like, all you know, 100 years like daunting.",
+    "start": "00:46:33",
+    "end": "00:46:35"
+  },
+  {
+    "text": "We really push the annual plan.",
+    "start": "00:46:35",
+    "end": "00:46:36"
+  },
+  {
+    "text": "Like you just higher LTV, higher ARPU.",
+    "start": "00:46:36",
+    "end": "00:46:38"
+  },
+  {
+    "text": "Like we incentivize the annual plan.",
+    "start": "00:46:38",
+    "end": "00:46:39"
+  },
+  {
+    "text": "You don't get a trial on the monthly plan.",
+    "start": "00:46:39",
+    "end": "00:46:41"
+  },
+  {
+    "text": "And we don't even show it.",
+    "start": "00:46:41",
+    "end": "00:46:41"
+  },
+  {
+    "text": "We hide it behind another page.",
+    "start": "00:46:41",
+    "end": "00:46:45"
+  },
+  {
+    "text": "If you go down here, if you were to click on view all plans, then you get to this like monthly area.",
+    "start": "00:46:45",
+    "end": "00:46:50"
+  },
+  {
+    "text": "Where you can see 12 months or 1 month.",
+    "start": "00:46:50",
+    "end": "00:46:52"
+  },
+  {
+    "text": "But you get no trial.",
+    "start": "00:46:52",
+    "end": "00:46:54"
+  },
+  {
+    "text": "So, we really push annual.",
+    "start": "00:46:53",
+    "end": "00:46:55"
+  },
+  {
+    "text": "But like $99.",
+    "start": "00:46:55",
+    "end": "00:46:55"
+  },
+  {
+    "text": "99 a year is like daunting to people.",
+    "start": "00:46:55",
+    "end": "00:46:57"
+  },
+  {
+    "text": "So, we've tried a few different ways.",
+    "start": "00:46:57",
+    "end": "00:46:59"
+  },
+  {
+    "text": "We show like the monthly, we'll show the weekly.",
+    "start": "00:46:59",
+    "end": "00:47:01"
+  },
+  {
+    "text": "So, like one thing that you do is like, okay, this worked really well.",
+    "start": "00:47:01",
+    "end": "00:47:04"
+  },
+  {
+    "text": "Let's break it down.",
+    "start": "00:47:04",
+    "end": "00:47:06"
+  },
+  {
+    "text": "Like let's try it without this copy.",
+    "start": "00:47:06",
+    "end": "00:47:07"
+  },
+  {
+    "text": "Change this to monthly copy.",
+    "start": "00:47:07",
+    "end": "00:47:08"
+  },
+  {
+    "text": "How does that work?",
+    "start": "00:47:08",
+    "end": "00:47:10"
+  },
+  {
+    "text": "Some other things we've tested that also work well are so, like yearly monthly comparison.",
+    "start": "00:47:10",
+    "end": "00:47:15"
+  },
+  {
+    "text": "So, again, like this is the same first two pages as before.",
+    "start": "00:47:15",
+    "end": "00:47:20"
+  },
+  {
+    "text": "And then this page is different.",
+    "start": "00:47:20",
+    "end": "00:47:22"
+  },
+  {
+    "text": "The format here is a little messed up on this example.",
+    "start": "00:47:22",
+    "end": "00:47:26"
+  },
+  {
+    "text": "This one's not live.",
+    "start": "00:47:23",
+    "end": "00:47:26"
+  },
+  {
+    "text": "But we'll show the monthly and then the yearly equivalent with the monthly equivalent like side by side to try and show that the yearly plan's better.",
+    "start": "00:47:26",
+    "end": "00:47:34"
+  },
+  {
+    "text": "The other main one that we've tested recently, so this is the first one we tested when we were doing a multi-page.",
+    "start": "00:47:34",
+    "end": "00:47:39"
+  },
+  {
+    "text": "Again, same first two pages and then like just join over 3 million learners.",
+    "start": "00:47:39",
+    "end": "00:47:43"
+  },
+  {
+    "text": "Like we kind of anchor like there's a lot of people using this app.",
+    "start": "00:47:43",
+    "end": "00:47:48"
+  },
+  {
+    "text": "Here's a real review.",
+    "start": "00:47:46",
+    "end": "00:47:48"
+  },
+  {
+    "text": "We have this many ratings, this many stars.",
+    "start": "00:47:48",
+    "end": "00:47:51"
+  },
+  {
+    "text": "Like little accolades people like.",
+    "start": "00:47:51",
+    "end": "00:47:52"
+  },
+  {
+    "text": "And you again, like you reinforce like it's like user psychology.",
+    "start": "00:47:52",
+    "end": "00:47:55"
+  },
+  {
+    "text": "Like no commitment, cancel any time.",
+    "start": "00:47:55",
+    "end": "00:47:56"
+  },
+  {
+    "text": "Like this is this is really a nothing for you to do.",
+    "start": "00:47:56",
+    "end": "00:48:00"
+  },
+  {
+    "text": "And like here's proof that you should do this.",
+    "start": "00:48:00",
+    "end": "00:48:03"
+  },
+  {
+    "text": "What we found, um I know a little bit disjointed in like the organization here, is like that trial timeline one has worked best.",
+    "start": "00:48:03",
+    "end": "00:48:11"
+  },
+  {
+    "text": "And then we've segmented by the US and other countries.",
+    "start": "00:48:08",
+    "end": "00:48:12"
+  },
+  {
+    "text": "The main reason we started with that is cuz we wanted to use Stripe web checkout in the US cuz the margins are a lot better.",
+    "start": "00:48:12",
+    "end": "00:48:18"
+  },
+  {
+    "text": "Like that's been a new thing that Super will add and we've been trying.",
+    "start": "00:48:18",
+    "end": "00:48:21"
+  },
+  {
+    "text": "So, right now we're slowly shifting our whole US billing to Stripe.",
+    "start": "00:48:21",
+    "end": "00:48:23"
+  },
+  {
+    "text": "But you can't do that internationally.",
+    "start": "00:48:23",
+    "end": "00:48:25"
+  },
+  {
+    "text": "So, we were forced to segment by the US and international users.",
+    "start": "00:48:25",
+    "end": "00:48:27"
+  },
+  {
+    "text": "One thing that stood out to me was the trial notification being really like a a big lift in conversion.",
+    "start": "00:48:27",
+    "end": "00:48:35"
+  },
+  {
+    "text": "That's interesting.",
+    "start": "00:48:35",
+    "end": "00:48:38"
+  },
+  {
+    "text": "Like I wonder if people generally just have subscription anxiety or like trial anxiety where they don't want to forget and that outperforms just testing, you know, different value propositions or different ways of communicating the product.",
+    "start": "00:48:38",
+    "end": "00:48:51"
+  },
+  {
+    "text": "Like did you also try out different ways of communicating the value of the product as on the paywall, but the trial timeline just outperforms those, too?",
+    "start": "00:48:51",
+    "end": "00:49:02"
+  },
+  {
+    "text": "Yeah, exactly.",
+    "start": "00:49:02",
+    "end": "00:49:04"
+  },
+  {
+    "text": "So, like on the notification end, I recently like tested out like a 3-day versus 7-day free trial.",
+    "start": "00:49:04",
+    "end": "00:49:08"
+  },
+  {
+    "text": "What we still have to do, like the data's still coming in.",
+    "start": "00:49:08",
+    "end": "00:49:11"
+  },
+  {
+    "text": "There's still like 2 days left of data to sat from that.",
+    "start": "00:49:11",
+    "end": "00:49:12"
+  },
+  {
+    "text": "But in that, one thing I tested is like, okay, like what if we change like the trial notification?",
+    "start": "00:49:12",
+    "end": "00:49:18"
+  },
+  {
+    "text": "Like you get notified 2 days before your trial ends versus 1 day before your trial ends.",
+    "start": "00:49:18",
+    "end": "00:49:21"
+  },
+  {
+    "text": "And like that leads to a different in conversion.",
+    "start": "00:49:21",
+    "end": "00:49:24"
+  },
+  {
+    "text": "Like people like perform differently depending on when they think they're going to be notified.",
+    "start": "00:49:24",
+    "end": "00:49:27"
+  },
+  {
+    "text": "Cuz again, like I think people generally like I know I do.",
+    "start": "00:49:27",
+    "end": "00:49:31"
+  },
+  {
+    "text": "Like there'll be times someone shows me free trial.",
+    "start": "00:49:31",
+    "end": "00:49:32"
+  },
+  {
+    "text": "I'm like, \"I don't want to do this.",
+    "start": "00:49:32",
+    "end": "00:49:33"
+  },
+  {
+    "text": "Like I'm going to forget.",
+    "start": "00:49:33",
+    "end": "00:49:35"
+  },
+  {
+    "text": "\" Like or like I don't really care enough.",
+    "start": "00:49:35",
+    "end": "00:49:36"
+  },
+  {
+    "text": "I just want to try it out.",
+    "start": "00:49:36",
+    "end": "00:49:37"
+  },
+  {
+    "text": "But if they reinforce like we really try and reinforce like this is really low cost to you.",
+    "start": "00:49:37",
+    "end": "00:49:41"
+  },
+  {
+    "text": "Like you will be reminded that your trial is going to end.",
+    "start": "00:49:41",
+    "end": "00:49:44"
+  },
+  {
+    "text": "Like you can cancel this anytime.",
+    "start": "00:49:44",
+    "end": "00:49:45"
+  },
+  {
+    "text": "Like pressing the start trial button does nothing to you.",
+    "start": "00:49:45",
+    "end": "00:49:49"
+  },
+  {
+    "text": "Like you're good.",
+    "start": "00:49:47",
+    "end": "00:49:49"
+  },
+  {
+    "text": "Like if you don't like it, cancel it.",
+    "start": "00:49:49",
+    "end": "00:49:50"
+  },
+  {
+    "text": "You forget, we'll remind you.",
+    "start": "00:49:50",
+    "end": "00:49:51"
+  },
+  {
+    "text": "Like you're really low risk here.",
+    "start": "00:49:51",
+    "end": "00:49:55"
+  },
+  {
+    "text": "I think as much as like the the kind of showing like app value and testimonial experience like makes sense.",
+    "start": "00:49:55",
+    "end": "00:50:00"
+  },
+  {
+    "text": "I think it just boiled down to at least with our users and it like different with every app is what I've seen too.",
+    "start": "00:50:00",
+    "end": "00:50:06"
+  },
+  {
+    "text": "Like reinforcing the low risk nature of this trial like really helped with conversion.",
+    "start": "00:50:06",
+    "end": "00:50:10"
+  },
+  {
+    "text": "Like we really reinforce like here's exactly what you can expect.",
+    "start": "00:50:10",
+    "end": "00:50:14"
+  },
+  {
+    "text": "Like that timeline was like today you're going to get Pingo and you here's in 5 days you're going to do this and 7 days you're going to be billed.",
+    "start": "00:50:13",
+    "end": "00:50:21"
+  },
+  {
+    "text": "We're going to remind you 2 days before that 7 days and you can cancel anytime.",
+    "start": "00:50:21",
+    "end": "00:50:24"
+  },
+  {
+    "text": "We're just throwing all this info to them without over cluttering it that like rest assured like here you know exactly what you're getting into.",
+    "start": "00:50:24",
+    "end": "00:50:30"
+  },
+  {
+    "text": "You know exactly what you have to do.",
+    "start": "00:50:30",
+    "end": "00:50:32"
+  },
+  {
+    "text": "Like you don't have to worry.",
+    "start": "00:50:32",
+    "end": "00:50:32"
+  },
+  {
+    "text": "So like our OG what we ran forever was basically this paywall.",
+    "start": "00:50:32",
+    "end": "00:50:38"
+  },
+  {
+    "text": "This was it.",
+    "start": "00:50:38",
+    "end": "00:50:37"
+  },
+  {
+    "text": "Like one time offer like start your it wasn't trial and it had one but like this much a month billed this much a year claim your offer now.",
+    "start": "00:50:37",
+    "end": "00:50:45"
+  },
+  {
+    "text": "What we then tried is with the success of that timeline paywall used the timeline.",
+    "start": "00:50:45",
+    "end": "00:50:50"
+  },
+  {
+    "text": "It changed.",
+    "start": "00:50:50",
+    "end": "00:50:49"
+  },
+  {
+    "text": "So this is without intro offer.",
+    "start": "00:50:49",
+    "end": "00:50:52"
+  },
+  {
+    "text": "If you have an intro offer it looks like this.",
+    "start": "00:50:50",
+    "end": "00:50:53"
+  },
+  {
+    "text": "Here's your one time offer for 55% off and again here you can expect in terms of your like trial end like your your trial experience.",
+    "start": "00:50:53",
+    "end": "00:51:03"
+  },
+  {
+    "text": "And then here's like the monthly price billed annually.",
+    "start": "00:51:03",
+    "end": "00:51:06"
+  },
+  {
+    "text": "And like this performs better.",
+    "start": "00:51:05",
+    "end": "00:51:08"
+  },
+  {
+    "text": "It de-risks it for them.",
+    "start": "00:51:08",
+    "end": "00:51:09"
+  },
+  {
+    "text": "Something else interesting I found so our 3-day trial it performs maybe equal in the US but like internationally worse.",
+    "start": "00:51:09",
+    "end": "00:51:18"
+  },
+  {
+    "text": "People want a 7-day trial.",
+    "start": "00:51:18",
+    "end": "00:51:18"
+  },
+  {
+    "text": "But when they have a 3-day trial and their transaction abandoned is a 7-day trial that convert higher.",
+    "start": "00:51:18",
+    "end": "00:51:25"
+  },
+  {
+    "text": "So like an experiment on the docket is like all right, what if we offer like a 10-day or 14-day trial to people who get a 7-day trial um but turn away.",
+    "start": "00:51:25",
+    "end": "00:51:32"
+  },
+  {
+    "text": "Like that will improve conversion but like I wonder how they convert after the trial.",
+    "start": "00:51:32",
+    "end": "00:51:37"
+  },
+  {
+    "text": "Like that's the experiment we have to run.",
+    "start": "00:51:35",
+    "end": "00:51:37"
+  },
+  {
+    "text": "Superwall I know like talks about like this like choose your trial model that we want to run which is like you can have like a no trial or a short trial or spend five bucks for like a 30-day trial.",
+    "start": "00:51:37",
+    "end": "00:51:47"
+  },
+  {
+    "text": "Like there's a lot of things to experiment and I think it's been kind of fun for me learning like they all play into each other.",
+    "start": "00:51:47",
+    "end": "00:51:53"
+  },
+  {
+    "text": "Like if you especially if you have multiple paywalls like transaction abandoned and main like maybe we add more.",
+    "start": "00:51:53",
+    "end": "00:51:58"
+  },
+  {
+    "text": "But like whatever you show on one like will impact the conversion on the other and vice versa which has been a cool finding.",
+    "start": "00:51:58",
+    "end": "00:52:03"
+  },
+  {
+    "text": "Which makes sense but like I didn't really think about until I saw it.",
+    "start": "00:52:03",
+    "end": "00:52:05"
+  },
+  {
+    "text": "And then I was like oh wait that yeah if you offer someone 3 days and then they say no and you say here's cheaper and 7 days for free they go oh that's a good deal.",
+    "start": "00:52:05",
+    "end": "00:52:13"
+  },
+  {
+    "text": "Like yeah that that kind of is a little intuitive.",
+    "start": "00:52:13",
+    "end": "00:52:16"
+  },
+  {
+    "text": "Like cool like we should do more of that.",
+    "start": "00:52:16",
+    "end": "00:52:19"
+  },
+  {
+    "text": "Like give people like layer your messaging so that they get a real they feel good about the deal they're seeing in the price and whatever they're being offered that they really want to take it.",
+    "start": "00:52:19",
+    "end": "00:52:27"
+  },
+  {
+    "text": ">> Really good insights.",
+    "start": "00:52:24",
+    "end": "00:52:27"
+  },
+  {
+    "text": "I appreciate the in-depth analysis.",
+    "start": "00:52:27",
+    "end": "00:52:29"
+  },
+  {
+    "text": "Is the 3 versus 7-day like a big difference?",
+    "start": "00:52:29",
+    "end": "00:52:32"
+  },
+  {
+    "text": "Do you are there tradeoffs between doing 3 and 7-day trials as the first option that people cuz I know like you said you present the 7-day after they've abandoned the 3-day um or said no to it.",
+    "start": "00:52:32",
+    "end": "00:52:46"
+  },
+  {
+    "text": ">> It's pretty interesting.",
+    "start": "00:52:44",
+    "end": "00:52:47"
+  },
+  {
+    "text": "So like so far conversion like really mildly different in the United States on 7 versus 3.",
+    "start": "00:52:47",
+    "end": "00:52:51"
+  },
+  {
+    "text": "Like point .",
+    "start": "00:52:51",
+    "end": "00:52:52"
+  },
+  {
+    "text": "7 to .",
+    "start": "00:52:52",
+    "end": "00:52:53"
+  },
+  {
+    "text": "3% difference.",
+    "start": "00:52:53",
+    "end": "00:52:55"
+  },
+  {
+    "text": "ARPU is like a 20 cent difference and trial conversion rate is marginally different.",
+    "start": "00:52:55",
+    "end": "00:53:01"
+  },
+  {
+    "text": "The cancel rates may be like 5 to like 7% higher.",
+    "start": "00:53:01",
+    "end": "00:53:06"
+  },
+  {
+    "text": "The cancel rate is higher in 7 or 3?",
+    "start": "00:53:03",
+    "end": "00:53:08"
+  },
+  {
+    "text": "Higher on the 3-day.",
+    "start": "00:53:06",
+    "end": "00:53:07"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:53:07",
+    "end": "00:53:08"
+  },
+  {
+    "text": "Cuz I think it's because people are getting notified.",
+    "start": "00:53:08",
+    "end": "00:53:09"
+  },
+  {
+    "text": "Like you subscribe today and you get notified tomorrow like it's really fresh on your mind.",
+    "start": "00:53:09",
+    "end": "00:53:14"
+  },
+  {
+    "text": "Internationally if you look at 3-day versus 7-day conversion rate was a lot different.",
+    "start": "00:53:13",
+    "end": "00:53:18"
+  },
+  {
+    "text": "It was like 2% difference.",
+    "start": "00:53:18",
+    "end": "00:53:22"
+  },
+  {
+    "text": "7-day was 2% higher.",
+    "start": "00:53:19",
+    "end": "00:53:22"
+  },
+  {
+    "text": "But like again like the ARPU was like a few cents higher on one of the 3 days but like the conversion rate was a little higher.",
+    "start": "00:53:22",
+    "end": "00:53:30"
+  },
+  {
+    "text": "Like oh it's kind of interesting.",
+    "start": "00:53:28",
+    "end": "00:53:31"
+  },
+  {
+    "text": "The variables have been really different in different categories.",
+    "start": "00:53:31",
+    "end": "00:53:33"
+  },
+  {
+    "text": "Like I have to do a deep dive and see like this experiment technically like I closed the experiment but like the data polling stops on like Monday.",
+    "start": "00:53:33",
+    "end": "00:53:40"
+  },
+  {
+    "text": "And so then I need to go and see like exactly like what's the best.",
+    "start": "00:53:40",
+    "end": "00:53:44"
+  },
+  {
+    "text": "Cuz for us too the other consideration is like I need to see how much people use Pingo in the first 3 days of their 7-day trial because if what we learn is that like okay people on the 7-day trial they use it all 7 days pretty equally which I don't think is the case.",
+    "start": "00:53:44",
+    "end": "00:53:57"
+  },
+  {
+    "text": "Let's say they did, right?",
+    "start": "00:53:57",
+    "end": "00:53:58"
+  },
+  {
+    "text": "People use it a lot all throughout but the conversion and ARPU are pretty similar to the 3-day.",
+    "start": "00:53:58",
+    "end": "00:54:03"
+  },
+  {
+    "text": "Then our net revenue is a little higher we save a lot on costs.",
+    "start": "00:54:03",
+    "end": "00:54:06"
+  },
+  {
+    "text": "What we find is that people are always using Pingo a lot the first 3 days of their trial and days 4 through 7 they use it a little bit.",
+    "start": "00:54:06",
+    "end": "00:54:14"
+  },
+  {
+    "text": "Then like our costs aren't saved that much and if the ARPU is a little bit higher and the conversion rate is a little bit better than like net net maybe it's better off.",
+    "start": "00:54:12",
+    "end": "00:54:19"
+  },
+  {
+    "text": "Like we really got to go into like the CAC of it all.",
+    "start": "00:54:19",
+    "end": "00:54:22"
+  },
+  {
+    "text": "But all that said all that data is like iOS.",
+    "start": "00:54:20",
+    "end": "00:54:22"
+  },
+  {
+    "text": "Android's a little more drastic.",
+    "start": "00:54:22",
+    "end": "00:54:26"
+  },
+  {
+    "text": "Like people are a lot more susceptible.",
+    "start": "00:54:24",
+    "end": "00:54:27"
+  },
+  {
+    "text": "Awesome.",
+    "start": "00:54:26",
+    "end": "00:54:26"
+  },
+  {
+    "text": "You know basically covered everything that I was really interested in to learn about about the app.",
+    "start": "00:54:26",
+    "end": "00:54:34"
+  },
+  {
+    "text": "Um I guess one last question is you guys did Y Combinator uh for this app, right?",
+    "start": "00:54:34",
+    "end": "00:54:40"
+  },
+  {
+    "text": "So what do you recommend for young people that are building companies?",
+    "start": "00:54:40",
+    "end": "00:54:43"
+  },
+  {
+    "text": "Do you think the venture route is is a good idea?",
+    "start": "00:54:43",
+    "end": "00:54:44"
+  },
+  {
+    "text": "Yeah, it's a good question cuz I know like a lot of viral consumer founders go the bootstrapped route.",
+    "start": "00:54:44",
+    "end": "00:54:50"
+  },
+  {
+    "text": "I personally thought it was the right move for us.",
+    "start": "00:54:50",
+    "end": "00:54:51"
+  },
+  {
+    "text": "Like YC delivered a lot of value for us.",
+    "start": "00:54:51",
+    "end": "00:54:53"
+  },
+  {
+    "text": "Like the common like you know if you had debate you see online is like the cash value for the equity versus like the value of like the experience.",
+    "start": "00:54:53",
+    "end": "00:55:03"
+  },
+  {
+    "text": "And like I kind of going into it everyone's drinking the Kool-Aid of like the experience and the network of YC and all the investors you get and I was like wow everyone's drinking the Kool-Aid.",
+    "start": "00:55:01",
+    "end": "00:55:13"
+  },
+  {
+    "text": "Like this is crazy.",
+    "start": "00:55:11",
+    "end": "00:55:12"
+  },
+  {
+    "text": "And then I get there and I'm like people are drinking the Kool-Aid.",
+    "start": "00:55:12",
+    "end": "00:55:15"
+  },
+  {
+    "text": "And then I get through it and I go they're all right because at least what I found like the connect like it's so easy to fundraise after YC.",
+    "start": "00:55:15",
+    "end": "00:55:22"
+  },
+  {
+    "text": "Granted the big asterisk there is we had really good metrics.",
+    "start": "00:55:22",
+    "end": "00:55:25"
+  },
+  {
+    "text": "Like our revenue is high.",
+    "start": "00:55:25",
+    "end": "00:55:27"
+  },
+  {
+    "text": "Our CAC LTV is good.",
+    "start": "00:55:25",
+    "end": "00:55:27"
+  },
+  {
+    "text": "Like we were like doing really well.",
+    "start": "00:55:27",
+    "end": "00:55:29"
+  },
+  {
+    "text": "But like everyone just sought us out.",
+    "start": "00:55:29",
+    "end": "00:55:31"
+  },
+  {
+    "text": "Like we had like hundred like at least like a hundred meetings scheduled and canceled most of them because we closed around in like 3 days.",
+    "start": "00:55:31",
+    "end": "00:55:36"
+  },
+  {
+    "text": "Like it's really easy to raise and the value of the advice you get in the community you build is great.",
+    "start": "00:55:36",
+    "end": "00:55:43"
+  },
+  {
+    "text": "Like the partners are really direct.",
+    "start": "00:55:43",
+    "end": "00:55:45"
+  },
+  {
+    "text": "They've literally seen like 5,000 companies.",
+    "start": "00:55:45",
+    "end": "00:55:48"
+  },
+  {
+    "text": "Like they give it to you straight.",
+    "start": "00:55:46",
+    "end": "00:55:49"
+  },
+  {
+    "text": "They kind of point us in the right direction.",
+    "start": "00:55:49",
+    "end": "00:55:51"
+  },
+  {
+    "text": "And I think for us like you know having not built an app at this scale before.",
+    "start": "00:55:49",
+    "end": "00:55:54"
+  },
+  {
+    "text": "For me being the first app ever like I've never done anything before Pingo.",
+    "start": "00:55:53",
+    "end": "00:55:58"
+  },
+  {
+    "text": "Like this is the first thing I've ever grown.",
+    "start": "00:55:56",
+    "end": "00:55:58"
+  },
+  {
+    "text": "Um Michael's built some other apps before but like at least for me on like the growth side like it was just really nice to have these like guys who've been around the block and seen everything to tell me like what I'm doing like what's stupid or not.",
+    "start": "00:55:58",
+    "end": "00:56:11"
+  },
+  {
+    "text": "I remember there's a time I went in and I'm like all right we're doing this UGC it's working really well.",
+    "start": "00:56:11",
+    "end": "00:56:14"
+  },
+  {
+    "text": "Like what else do we need to do?",
+    "start": "00:56:14",
+    "end": "00:56:15"
+  },
+  {
+    "text": "Like you know growing an app there's like so many things you can do and they're like yeah you have this lever that's working like just keep doing that.",
+    "start": "00:56:15",
+    "end": "00:56:21"
+  },
+  {
+    "text": "Like index on this and like some of it's like really obvious advice but like it's kind of hard to think of on your own and then when someone tells you like oh that makes sense.",
+    "start": "00:56:21",
+    "end": "00:56:30"
+  },
+  {
+    "text": "But I think the real value in like at least YC versus general venture was like the community the fundraising and the connections like the network and the advice you get.",
+    "start": "00:56:30",
+    "end": "00:56:38"
+  },
+  {
+    "text": "In terms of venture in general for an app like us like again like at least what I've found is like we had negative cash flow for a while and that was just due to like the timing of costs and like revenue kind of like receive back from the App Store Play Store.",
+    "start": "00:56:38",
+    "end": "00:56:51"
+  },
+  {
+    "text": "That the venture route made that a lot easier.",
+    "start": "00:56:51",
+    "end": "00:56:53"
+  },
+  {
+    "text": "Like we we had funding.",
+    "start": "00:56:53",
+    "end": "00:56:55"
+  },
+  {
+    "text": "If we had a negative cash flow it didn't matter.",
+    "start": "00:56:55",
+    "end": "00:56:55"
+  },
+  {
+    "text": "Like we weren't going to go bankrupt.",
+    "start": "00:56:55",
+    "end": "00:56:57"
+  },
+  {
+    "text": "We were fine.",
+    "start": "00:56:57",
+    "end": "00:56:58"
+  },
+  {
+    "text": "Not everyone has like as high costs like a a voice app.",
+    "start": "00:56:58",
+    "end": "00:57:02"
+  },
+  {
+    "text": "But I personally like it.",
+    "start": "00:57:00",
+    "end": "00:57:02"
+  },
+  {
+    "text": "Like I totally see the value in both.",
+    "start": "00:57:02",
+    "end": "00:57:04"
+  },
+  {
+    "text": "It kind of just depends on what you want your lifestyle to be.",
+    "start": "00:57:04",
+    "end": "00:57:06"
+  },
+  {
+    "text": "Like if you go to the venture route you drop out of school.",
+    "start": "00:57:06",
+    "end": "00:57:09"
+  },
+  {
+    "text": "If someone's giving you like YC half a million dollars investors other millions of dollars.",
+    "start": "00:57:09",
+    "end": "00:57:12"
+  },
+  {
+    "text": "Like if people are giving you money like they want to know that that's your full that's what your full time is.",
+    "start": "00:57:12",
+    "end": "00:57:16"
+  },
+  {
+    "text": "So you got to be really like commit to that.",
+    "start": "00:57:16",
+    "end": "00:57:18"
+  },
+  {
+    "text": "If you're not then like still bootstrapping school like there's kind of like pros and cons to both and like depends on what you want and like I understand both sides of it.",
+    "start": "00:57:18",
+    "end": "00:57:25"
+  },
+  {
+    "text": "But I personally enjoyed the venture route.",
+    "start": "00:57:25",
+    "end": "00:57:27"
+  },
+  {
+    "text": "It's been like a really fun experience.",
+    "start": "00:57:26",
+    "end": "00:57:29"
+  },
+  {
+    "text": "Like we have an office.",
+    "start": "00:57:27",
+    "end": "00:57:29"
+  },
+  {
+    "text": "We have a team.",
+    "start": "00:57:29",
+    "end": "00:57:31"
+  },
+  {
+    "text": "Like you don't need venture funding to do that but it made that a little easier and less stressful.",
+    "start": "00:57:29",
+    "end": "00:57:34"
+  },
+  {
+    "text": "That's great.",
+    "start": "00:57:34",
+    "end": "00:57:36"
+  },
+  {
+    "text": "Where can people find you?",
+    "start": "00:57:36",
+    "end": "00:57:36"
+  },
+  {
+    "text": "Uh LinkedIn?",
+    "start": "00:57:36",
+    "end": "00:57:37"
+  },
+  {
+    "text": "Are you are you guys hiring too?",
+    "start": "00:57:37",
+    "end": "00:57:38"
+  },
+  {
+    "text": "Is there any uh Um yeah we're hiring.",
+    "start": "00:57:38",
+    "end": "00:57:41"
+  },
+  {
+    "text": "We're hiring some engineers right now.",
+    "start": "00:57:41",
+    "end": "00:57:43"
+  },
+  {
+    "text": "We're on LinkedIn.",
+    "start": "00:57:43",
+    "end": "00:57:43"
+  },
+  {
+    "text": "We're on X.",
+    "start": "00:57:43",
+    "end": "00:57:44"
+  },
+  {
+    "text": "We're not super active on X but we're there.",
+    "start": "00:57:44",
+    "end": "00:57:47"
+  },
+  {
+    "text": "But yeah LinkedIn X just Pingo.",
+    "start": "00:57:47",
+    "end": "00:57:48"
+  },
+  {
+    "text": "We'll be hiring for growth in a bit.",
+    "start": "00:57:48",
+    "end": "00:57:50"
+  },
+  {
+    "text": "We just hired which has been great.",
+    "start": "00:57:50",
+    "end": "00:57:52"
+  },
+  {
+    "text": "LinkedIn and X and TikTok.",
+    "start": "00:57:52",
+    "end": "00:57:53"
+  },
+  {
+    "text": "Hey if you look at Pingo on TikTok you'll find us.",
+    "start": "00:57:53",
+    "end": "00:57:55"
+  },
+  {
+    "text": "Thanks Murray.",
+    "start": "00:57:55",
+    "end": "00:57:57"
+  },
+  {
+    "text": "Yeah of course.",
+    "start": "00:57:55",
+    "end": "00:57:56"
+  },
+  {
+    "text": "Really nice talking to meeting you.",
+    "start": "00:57:56",
+    "end": "00:57:58"
+  },
+  {
+    "text": "Something you might not know most of the founders I cover on this podcast are hanging out right now in the Consumer Club Discord sharing with each other what's working now for consumer apps.",
+    "start": "00:57:58",
+    "end": "00:58:07"
+  },
+  {
+    "text": "So you can apply to join Consumer Club if that sounds interesting to you.",
+    "start": "00:58:07",
+    "end": "00:58:09"
+  },
+  {
+    "text": "And this is the Superwall podcast.",
+    "start": "00:58:09",
+    "end": "00:58:11"
+  },
+  {
+    "text": "Of course you got to check out superwall.",
+    "start": "00:58:11",
+    "end": "00:58:13"
+  },
+  {
+    "text": "com.",
+    "start": "00:58:13",
+    "end": "00:58:13"
+  },
+  {
+    "text": "We have more videos on the channel.",
+    "start": "00:58:13",
+    "end": "00:58:15"
+  },
+  {
+    "text": "So dig into those to learn from app founders who are willing to share super tactical stuff about app growth.",
+    "start": "00:58:15",
+    "end": "00:58:22"
+  }
+]

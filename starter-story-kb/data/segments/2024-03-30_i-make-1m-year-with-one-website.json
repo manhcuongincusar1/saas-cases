@@ -1,0 +1,37 @@
+{
+ "f": "2024-03-30_i-make-1m-year-with-one-website",
+ "vid": "7LZ0MTkNr34",
+ "segments": [
+  {"s":"01:26","e":"02:21","nut":["?"],"moi":"Chọn việc làm thuê nhàn hơn để có sức làm side hustle",
+   "tom":"Aha moment không nằm ở ý tưởng mà ở chỗ chọn việc: làm marketer cho các công ty early-stage thì không có 9-5, phải mang tâm thế founder suốt ngày nên hết sức. Anh chủ động chuyển sang công ty lớn để có một công việc 9-5 thật, đóng laptop lúc 5h chiều và dồn phần còn lại cho dự án riêng"},
+  {"s":"02:21","e":"02:51","nut":["?"],"moi":"Săn ngách vừa được rót vốn lớn mà chưa ai viết nội dung",
+   "tom":"Bản đầu là site so sánh các công ty fintech (từ đó ra cái tên Fin vs Fin). Rồi thấy hàng loạt vòng Series A cỡ $100 triệu đổ vào các công ty telemedicine trong khi trên mạng chưa hề có nội dung nào về chúng — mà đây lại là loại mua cần cân nhắc kỹ: mua sản phẩm y tế thì người ta tự quyết kiểu gì, tin ai"},
+  {"s":"02:51","e":"03:18","nut":["4.5","4.14"],
+   "tom":"Tự viết 60 bài đầu tiên, không thuê ai, vừa viết vừa học WordPress; traffic ban đầu hoàn toàn từ organic SEO bằng cách đoán trước chuỗi sản phẩm và truy vấn mà người mua sẽ gõ, rồi lấy nội dung đáp đúng cầu đó","kq":"60 bài tự viết"},
+  {"s":"03:18","e":"03:45","nut":["?"],"moi":"Bắt tay trực tiếp với brand thay vì qua affiliate network",
+   "tom":"Mất khoảng 6 tháng mới có lượng organic traffic đủ để anh tự tin liên hệ thẳng các brand mình đang đẩy khách tới. Pitch rất đơn giản: 'tôi khá chắc mình đang tạo ra đơn cho anh, tôi không nhìn được con số bên anh, nhưng nếu hợp tác thì sẽ còn nhiều hơn' — và chính brand là bên tự ra giá cho mỗi khách hàng họ muốn"},
+  {"s":"03:45","e":"04:38","nut":["?"],"moi":"Ngưỡng nghỉ việc: side project trả đúng bằng lương hiện tại",
+   "tom":"Khoảng một năm thì thu nhập từ site đã đủ thay thế lương, nhưng vì sợ 'cái này có thật không, có bền không' nên anh tự đặt hạn thêm một năm — nếu đèn vẫn sáng sau một năm thì nghỉ hẳn. Con số cụ thể để anh thấy an toàn là site trả bằng đúng mức lương $150.000/năm anh đang nhận","kq":"$150K/năm từ site trước khi nghỉ việc"},
+  {"s":"05:31","e":"06:26","nut":["4.5","?"],"moi":"Bộ ba tiêu chí chọn ngách nội dung: mới, biên cao, có đà",
+   "tom":"Bí quyết thật là chọn ngách chưa đông: họ nằm trong nhóm đầu tiên trên thế giới review các nền tảng telehealth/telemedicine giờ đã lên sàn và thành tên quen thuộc. Site còn mới và chưa có thẩm quyền thì không thắng nổi không gian đông, nhưng thắng được những truy vấn chưa từng có ai viết. Ba tiêu chí săn ngách: phải mới, nhóm sản phẩm phải có biên lợi nhuận cao, và phải có nhiều hoạt động/đà để không chết yểu"},
+  {"s":"06:26","e":"07:22","nut":["4.5","2.0"],
+   "tom":"Quy trình keyword: giai đoạn đầu chỉ nhắm long-tail cạnh tranh thấp, và nếu chính mình thuộc nhóm khán giả thì các truy vấn đó gần như trực giác. Nhận diện các 'query pattern' có ý định mua cao rồi lắp sản phẩm/brand vào khuôn ('best X cho Y'). Cách chọn brand để viết: xác định không gian mình muốn ở hoặc đã có traction → ai là player → ai còn sống sau 3 năm → rồi viết thứ tốt nhất internet về brand đó, có khi là sâu hơn bài đang top 1, có khi lại ngắn gọn hơn — cốt khớp đúng ý định thật sau truy vấn. Nguyên tắc: có mặt đầu tiên, viết cái đầu tiên và viết cái tốt nhất"},
+  {"s":"07:22","e":"08:17","nut":["?"],"moi":"Test co-founder bằng vài dự án nhỏ trước khi cam kết",
+   "tom":"Sau khoảng 2 năm anh full-time, nhưng co-founder muốn giữ nguyên đây là side hustle và không bỏ sự nghiệp — cách xử lý duy nhất là mua lại phần của anh ta. Bài học chọn partner cho lần sau: người khớp cường độ làm việc, chung tầm nhìn, và kỹ năng không trùng với mình; cách kiểm tra là làm chung vài dự án nhỏ để cảm nhận trước, thấy hợp mới double down","kq":"phải buy out co-founder"},
+  {"s":"08:17","e":"09:12","nut":["?"],"moi":"Nhân danh mục site để dùng chung một hợp đồng đối tác",
+   "tom":"Danh mục hiện có 6 site, mỗi site hẹp hơn hẳn so với site gốc về health & wellness. Lý do nhân site không phải để đa dạng nội dung mà để lấy economies of scale trong quan hệ đối tác: ký được một brand thì đặt họ lên được cả năm site","kq":"6 site trong danh mục"},
+  {"s":"09:12","e":"09:39","nut":["4.5","?"],"moi":"Chống xói mòn thứ hạng bằng nội dung mới trong đúng lane",
+   "tom":"Đừng kỳ vọng giữ được top Google mãi mãi — sẽ phải đấu với chuyên gia trong ngách, các site có thẩm quyền, và các publisher lớn kiểu Forbes hay Healthline vốn ôm mọi chủ đề. Cách sống sót: liên tục đưa cho partner nội dung mới hoàn toàn ngay cả khi nội dung kiếm tiền cũ đang mất dần thứ hạng, vì nội dung cũ kỹ thì không thắng được Google; và bám đúng lane chuyên môn của mình để giữ topical authority"},
+  {"s":"09:39","e":"10:33","nut":["4.3","?"],"moi":"Xin partner tài trợ khoản test ads vài nghìn đô",
+   "tom":"Cách đa dạng hoá traffic ngoài SEO: đi thẳng tới partner với đề nghị 'anh muốn tăng trưởng, tôi có một hướng ngoài phạm vi thường làm, tốn khoảng vài nghìn đô để test, rất có thể thất bại nhưng ta sẽ học được điều gì đó — còn nếu chạy thì scale được vô hạn'. Đa số brand trả lời 'tháng này chưa, tháng sau'. Đã test nhiều ngách và nhóm sản phẩm, phần lớn không ăn, nhưng khi trúng thì là mỏ vàng và kiểm soát được theo cách SEO hay bất kỳ thuật toán organic nào không cho phép"},
+  {"s":"10:33","e":"11:29","nut":["?"],"moi":"Tự chế cảm giác cấp bách cho side project",
+   "tom":"Điều kiện tiên quyết là đang giỏi ở công việc chính — nếu đây là việc đầu tiên và còn đang học mọi thứ từ đầu thì chưa phải lúc làm side hustle. Khó nhất của side project là không có sếp, không có deadline, tiền và traction chưa đủ để làm động lực, nên phải tự chế ra sự cấp bách: hôm nay không làm phần việc này thì giấc mơ bị đẩy ra xa thêm, vì không ai làm thay"},
+  {"s":"11:29","e":"11:58","nut":["?"],"moi":"Thứ tự thuê người trong một site affiliate",
+   "tom":"Thứ tự outsource thật: đầu tiên là viết bài, kế đến là một virtual assistant gánh các việc publish, rồi quyết định lớn nhất là thuê editor full-time để gỡ hẳn khâu biên tập khỏi tay mình, sau đó thêm designer và web developer — nhờ vậy anh chỉ còn tập trung vào partnerships, chỗ có đòn bẩy doanh thu lớn nhất"},
+  {"s":"12:53","e":"13:45","nut":["1.5"],
+   "tom":"Đang trong quá trình bán business, và bài học là phải xác định mục đích của nó ngay từ đầu: chỉ để có lifestyle và không quan tâm kiếm bao nhiêu, hay là thứ mình làm cả đời, hay là thứ mình chỉ định chạy một quãng rồi exit — vì câu trả lời đó quyết định chọn cấu trúc pháp nhân nào, việc nào tự ôm và việc nào outsource"}
+ ],
+ "bo_qua": [
+  {"s":"04:38","e":"05:31","ly_do":"Pat quảng bá workshop miễn phí 'xây business triệu đô với 2 tiếng/ngày' của Starter Story"}
+ ]
+}

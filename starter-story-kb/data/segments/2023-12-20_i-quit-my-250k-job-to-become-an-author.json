@@ -1,0 +1,96 @@
+{
+ "f": "2023-12-20_i-quit-my-250k-job-to-become-an-author",
+ "vid": "lWwZ-fsD8gM",
+ "segments": [
+  {
+   "s": "01:29",
+   "e": "02:21",
+   "nut": ["1.3"],
+   "tom": "Bóc thu nhập thật của một tác giả tự xuất bản: năm đầu cuốn sách mang về khoảng $50.000 từ ~10.000 bản, tức ~$5/bản; 5 tháng đầu năm thứ hai đã bán ~15.000 bản và thu ~$75.000 royalty. Tổng doanh thu topline (chưa trừ chi phí và thuế) đi từ $100.000 lên $249.000, và đây là năm đầu tiên tiền sách chiếm từ một nửa thu nhập trở lên",
+   "kq": "$249K topline; sách ~$75K royalty chỉ trong 5 tháng"
+  },
+  {
+   "s": "02:21",
+   "e": "02:50",
+   "nut": ["?"],
+   "moi": "Tập viết công khai 100 ngày liên tục trong lúc còn đi làm",
+   "tom": "Khoảng một năm trước khi nghỉ việc, anh tự đặt luật: mỗi sáng tới công ty là viết một bài trên Quora trước khi bắt đầu làm việc, làm liên tục 100 ngày — từ khoảnh khắc đó anh coi mình là người viết. Lúc mắc bệnh Lyme thì lập blog tên 'Lyme Sucks' rồi gửi thẳng cho người quen. Sau khi nghỉ việc, tần suất tăng dần từ 3 tháng một bài → 2 tháng → 1 tháng → mỗi tuần → viết liên tục"
+  },
+  {
+   "s": "02:50",
+   "e": "03:49",
+   "nut": ["?"],
+   "moi": "Đệm tiết kiệm thật khi nghỉ việc và chi phí ẩn phải trả lại công ty",
+   "tom": "Anh nghỉ việc năm 2017 sau khi nộp đơn chỗ khác không xong (một nơi trả thấp hơn hẳn, số còn lại từ chối) rồi cứ thế nghỉ. Vài tháng sau rất nặng: vừa lập công ty freelance thì công ty cũ báo anh chưa làm đủ 3 năm nên phải hoàn lại $24.000 tiền thưởng ký hợp đồng và chi phí chuyển nhà — anh gọi đó là phải mua lại tự do của chính mình. Thứ cho phép anh lang thang là khoản tiết kiệm $50.000–60.000",
+   "kq": "phải hoàn $24.000 signing bonus; đệm tiết kiệm $50–60K"
+  },
+  {
+   "s": "03:49",
+   "e": "04:40",
+   "nut": ["1.1", "1.3"],
+   "tom": "Anh từ chối lời mời của Penguin Random House để tự xuất bản, vì hai lý do rất cụ thể: một, không chịu đánh đổi quyền kiểm soát sáng tạo kể cả khi bán được ít sách hơn; hai, nhà xuất bản trả 10% giá bìa cho bản bìa cứng, tức khoảng $2/cuốn, trong khi tự xuất bản anh giữ khoảng $7/cuốn paperback và $8/cuốn bìa cứng",
+   "kq": "tự xuất bản $7–8/cuốn so với ~$2/cuốn nếu qua nhà xuất bản lớn"
+  },
+  {
+   "s": "04:40",
+   "e": "05:10",
+   "nut": ["?"],
+   "moi": "Quy trình viết sách: viết dồn 1–2 tháng ↔ lùi lại chỉnh cấu trúc",
+   "tom": "Anh nhận ra sớm rằng câu chuyện cá nhân là lợi thế mạnh nhất nên đào riêng nó vài tháng. Quy trình là hai chế độ luân phiên: viết cật lực 1–2 tháng, rồi lùi lại sắp xếp cấu trúc, xong quay lại viết. Kết thúc thì chỉ cần xuất PDF, upload lên Amazon và khoảng 3 ngày sau là in và gửi sách được"
+  },
+  {
+   "s": "07:03",
+   "e": "07:57",
+   "nut": ["?"],
+   "moi": "Nghỉ sabbatical 1–3 tháng để tạo khoảng trống tìm việc đáng làm",
+   "tom": "Cách anh khuyên đi tìm công việc đáng làm: gạt tiền ra khỏi phương trình càng lâu càng tốt, và phần lớn công việc thật ra là BỎ BỚT — thứ gì không làm mình sáng lên thì tối giản, tự động hoá, uỷ quyền hoặc bỏ hẳn. Khuyến nghị cụ thể là kiếm một khối 1–3 tháng trong đời trưởng thành để nghỉ hẳn, ngắt chế độ làm việc, nối lại sở thích bị bỏ quên; anh gọi cái giá phải trả là 'thuế địa vị' và sẵn sàng nghèo đi để giữ việc có ý nghĩa"
+  },
+  {
+   "s": "07:57",
+   "e": "08:45",
+   "nut": ["?"],
+   "moi": "Checklist tự xuất bản một cuốn sách trông chuyên nghiệp",
+   "tom": "Muốn cuốn sách tự xuất bản trông ngang sách nhà xuất bản lớn thì cần: đầu tư một developmental editor để ghép các mảnh và làm mạch chảy trôi (đây là khoản chi lớn nhất), thiết kế bìa qua 99designs (anh chọn designer theo các mẫu cũ mình thích), format bằng công cụ của Amazon hoặc Reedsy (anh dùng Reedsy với tuỳ chọn mặc định), và thuê người proofread ở cuối. Chi tiết anh thấy buồn cười nhất: ô 'nhà xuất bản của bạn là ai' thì cứ điền tên mình"
+  },
+  {
+   "s": "08:45",
+   "e": "09:10",
+   "nut": ["4.9"],
+   "tom": "Cách marketing sách của anh là chỉ dùng kênh mình thật sự thích: đi nói chuyện trên podcast về các ý tưởng trong sách, và tặng sách — tự xuất bản nên gửi đi bất kỳ đâu trong Mỹ chỉ tốn $4,50 đã gồm phí ship"
+  },
+  {
+   "s": "09:10",
+   "e": "10:04",
+   "nut": ["1.1"],
+   "tom": "Toàn bộ số liệu đơn vị: royalty $8,24/bìa cứng và $7,45/paperback qua Amazon, $3,98/audiobook, $4,28/Kindle; cơ cấu bán là 50% ebook, 29% bản in, 21% audio. Chi phí làm ra cuốn sách: biên tập và coaching ~$3.900, bìa $742, phí xuất bản $250 trả IngramSpark (anh nghĩ giờ đã miễn phí), audiobook $1.280",
+   "kq": "royalty tới nay $125.000–130.000, gần như toàn bộ là lợi nhuận"
+  },
+  {
+   "s": "10:04",
+   "e": "10:47",
+   "nut": ["?"],
+   "moi": "Danh mục thu nhập của người viết: freelance → khoá học → workshop",
+   "tom": "Nguyên tắc của anh là kiếm vừa đủ để có không gian và thời gian tiếp tục viết. Đường đi: đầu tiên freelance, rồi lấy chính kinh nghiệm freelance làm thành khoá học (dự án riêng tên Strategy U), rồi dựng dần một mảng workshop kiểu 'tôi dạy đúng nội dung này với giá này'; coaching và freelance được giữ ở mức tối thiểu. Mãi tới gần đây viết lách và podcast mới bắt đầu ra tiền"
+  },
+  {
+   "s": "10:47",
+   "e": "11:44",
+   "nut": ["?"],
+   "moi": "Tích rep viết công khai — giai đoạn đầu không ai đọc nên không đáng sợ",
+   "tom": "Cách trở thành người viết tự tin theo anh là brute force: tích đủ số lần viết để chịu được nỗi sợ người khác nói gì, và sẽ nhanh chóng nhận ra lúc mới bắt đầu chẳng ai nói gì cả vì mình chưa có độc giả nào. Dài hạn thì phải tự tìm nhịp riêng — anh không thuộc kiểu dậy viết 4 tiếng mỗi sáng, mà dành nhiều ngày lang thang, đọc và nghe podcast để ý tưởng lên men, viết chỉ là lúc rót nó ra"
+  },
+  {
+   "s": "11:44",
+   "e": "12:37",
+   "nut": ["?"],
+   "moi": "Nhịp sống solopreneur: vài tiếng/ngày, không hẹn họp trước 11h sáng",
+   "tom": "Một ngày điển hình: sáng dành cho con gái sơ sinh; anh vẫn làm vài tiếng hầu hết các ngày suốt mấy năm qua nhưng luôn giữ được quyền dừng và xoá sạch lịch bất cứ lúc nào — đúng mục đích của con đường anh chọn. Không có morning routine, và không bao giờ đặt cuộc họp nào trước 11h sáng"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:29", "ly_do": "intro/hook của kênh"},
+  {"s": "05:10", "e": "06:20", "ly_do": "quảng cáo Starter Story case studies"},
+  {"s": "06:20", "e": "07:03", "ly_do": "phần triết lý chung về 'pathless path', không có bước làm cụ thể"},
+  {"s": "12:37", "e": "13:16", "ly_do": "lời khuyên chung chung 'hãy tin bản thân' và chào kết"}
+ ]
+}

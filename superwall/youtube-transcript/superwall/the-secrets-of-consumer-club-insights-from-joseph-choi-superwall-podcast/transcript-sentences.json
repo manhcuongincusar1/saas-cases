@@ -1,0 +1,4757 @@
+[
+  {
+    "text": "All right.",
+    "start": "00:00:00",
+    "end": "00:00:01"
+  },
+  {
+    "text": "We're back with another Superwall podcast today.",
+    "start": "00:00:01",
+    "end": "00:00:05"
+  },
+  {
+    "text": "I have Joseph, who is the founder of the esteemed consumer club.",
+    "start": "00:00:05",
+    "end": "00:00:08"
+  },
+  {
+    "text": "Joseph is the guy that everyone wants to go to if they want to know how to blow up their consumer app.",
+    "start": "00:00:08",
+    "end": "00:00:15"
+  },
+  {
+    "text": "And I think we have a lot of interesting stuff to get into today.",
+    "start": "00:00:14",
+    "end": "00:00:20"
+  },
+  {
+    "text": "So, let's start with introductions, Joseph.",
+    "start": "00:00:20",
+    "end": "00:00:22"
+  },
+  {
+    "text": "As I said, founder of consumer club, would love to hear a little bit more sort of about your background and what led to you starting consumer club and then we can actually dive into what consumer club is and why so many people are in it and talking about it.",
+    "start": "00:00:20",
+    "end": "00:00:35"
+  },
+  {
+    "text": "For sure.",
+    "start": "00:00:33",
+    "end": "00:00:35"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:00:35",
+    "end": "00:00:36"
+  },
+  {
+    "text": "Yeah, I actually just kind of accidentally found myself in this like app space.",
+    "start": "00:00:35",
+    "end": "00:00:39"
+  },
+  {
+    "text": "I'm kind of just a an internet marketer.",
+    "start": "00:00:39",
+    "end": "00:00:42"
+  },
+  {
+    "text": "Like I've always just been interested in how to make money online and that is weird like I I think I I've always thought about distribution and growth hacks and finding underpriced channels and stuff like that cuz I started out in drop shipping and e-commerce.",
+    "start": "00:00:42",
+    "end": "00:00:58"
+  },
+  {
+    "text": "I just went on YouTube when I was in college and I was like, how to make money online?",
+    "start": "00:00:58",
+    "end": "00:01:03"
+  },
+  {
+    "text": "And I found like these videos, how to start a drop shipping store on Shopify and do like Facebook ads and stuff cuz in 2018 I think you know, Facebook ads was still somewhat underpriced.",
+    "start": "00:01:03",
+    "end": "00:01:15"
+  },
+  {
+    "text": "I did like Instagram meme pages, but anyway, I I worked in tech like worked at Google for a while as well.",
+    "start": "00:01:13",
+    "end": "00:01:21"
+  },
+  {
+    "text": "Did startup consulting, but Consumer club basically is just the place on the internet that I always wish existed, which is combining the kind of the scrappy growth hack people with the really smart like product minded just scalable like people who think in scale.",
+    "start": "00:01:21",
+    "end": "00:01:42"
+  },
+  {
+    "text": "Like how how do you build a tech company out of these uh uh growth hacks instead of just doing you know, drop shipping.",
+    "start": "00:01:42",
+    "end": "00:01:51"
+  },
+  {
+    "text": "Not that drop shipping is bad.",
+    "start": "00:01:51",
+    "end": "00:01:52"
+  },
+  {
+    "text": "I think drop shipping taught me a lot about business and marketing, but so consumer club is a place where app founders come to learn from each other about just chasing the current distribution edge and trying to find how to how to go viral on TikTok.",
+    "start": "00:01:52",
+    "end": "00:02:10"
+  },
+  {
+    "text": "Going viral on TikTok is kind of the the thing right now, but who knows what it is in like a year or two.",
+    "start": "00:02:08",
+    "end": "00:02:14"
+  },
+  {
+    "text": "Maybe TikTok doesn't exist and is something else, but it's really about how do you how do you find an edge in this business?",
+    "start": "00:02:14",
+    "end": "00:02:24"
+  },
+  {
+    "text": "Awesome.",
+    "start": "00:02:22",
+    "end": "00:02:23"
+  },
+  {
+    "text": "Okay, so it sounds like you had sort of a background in tech, grew up on the internet as a lot of these sort of like internet money marketers or or product builders do and you were looking for a place to sort of collect like a community of of people like yourself who are who are good at what they do and who are able to make money online.",
+    "start": "00:02:23",
+    "end": "00:02:41"
+  },
+  {
+    "text": "Is that right?",
+    "start": "00:02:41",
+    "end": "00:02:42"
+  },
+  {
+    "text": "And that's sort of what the genesis was for consumer club.",
+    "start": "00:02:42",
+    "end": "00:02:46"
+  },
+  {
+    "text": "Totally.",
+    "start": "00:02:44",
+    "end": "00:02:45"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:02:45",
+    "end": "00:02:45"
+  },
+  {
+    "text": "Got it.",
+    "start": "00:02:45",
+    "end": "00:02:46"
+  },
+  {
+    "text": "Awesome.",
+    "start": "00:02:46",
+    "end": "00:02:47"
+  },
+  {
+    "text": "Okay, so cool.",
+    "start": "00:02:47",
+    "end": "00:02:48"
+  },
+  {
+    "text": "So, consumer club for those who don't know, it's a it's a Discord community, right?",
+    "start": "00:02:48",
+    "end": "00:02:53"
+  },
+  {
+    "text": "And there are founders who range from, you know, indie solo indie devs making, you know, upwards of millions of dollars in ARR all the way to venture backed founders who are taking, you know, these really big swings at like billion dollar markets, right?",
+    "start": "00:02:51",
+    "end": "00:03:08"
+  },
+  {
+    "text": "And I think the thing that's really interesting to me about this sort of group of people is while, you know, the sort of swings that they're taking might be different, right?",
+    "start": "00:03:08",
+    "end": "00:03:17"
+  },
+  {
+    "text": "Like an indie dev, you know, like a solo founder versus like you know, a venture backed founder who who might have raised millions of dollars, it sounds like everyone sort of collected in this community because everyone sort of seeking that same thing, which is like this edge in distribution, right?",
+    "start": "00:03:17",
+    "end": "00:03:31"
+  },
+  {
+    "text": "And you kind of referenced it a little bit at at the beginning there, but I'd love to hear a little bit more just from like you know, you sort of your own perspective.",
+    "start": "00:03:30",
+    "end": "00:03:37"
+  },
+  {
+    "text": "Like is that right?",
+    "start": "00:03:37",
+    "end": "00:03:39"
+  },
+  {
+    "text": "Like these despite these founders, you know, being seemingly different, everyone's kind of seeking the same thing.",
+    "start": "00:03:39",
+    "end": "00:03:45"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:03:43",
+    "end": "00:03:44"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:03:44",
+    "end": "00:03:45"
+  },
+  {
+    "text": "I mean I mean I think that's I mean, isn't that what business is about?",
+    "start": "00:03:45",
+    "end": "00:03:49"
+  },
+  {
+    "text": "Like you're trying to find some sort of edge and like fill a gap in the market.",
+    "start": "00:03:49",
+    "end": "00:03:53"
+  },
+  {
+    "text": "And whether your goal is to make 10 million dollars and then like go like sit on a beach or if it's like to change the world and like build this like VC backed company, either way like you want to figure out what consumers want and like solve a problem with a product.",
+    "start": "00:03:53",
+    "end": "00:04:12"
+  },
+  {
+    "text": "So, if you want to do that like starting with I think people say like, oh, start with distribution.",
+    "start": "00:04:12",
+    "end": "00:04:19"
+  },
+  {
+    "text": "It's really just like start with the market.",
+    "start": "00:04:19",
+    "end": "00:04:21"
+  },
+  {
+    "text": "Like understand what does the market want?",
+    "start": "00:04:20",
+    "end": "00:04:22"
+  },
+  {
+    "text": "And one way to do that is to look at TikTok and see what people are like what content are people consuming cuz that's an insight into like what are the pain points, what do people talk about?",
+    "start": "00:04:22",
+    "end": "00:04:32"
+  },
+  {
+    "text": "So, TikTok is like I think people it's like this weird mystical thing and people have different takes about, but one way that I like to see it is it's just it's basically like talking to millions of people at the same time and like doing research and understanding like what the world cares about.",
+    "start": "00:04:31",
+    "end": "00:04:52"
+  },
+  {
+    "text": "And so, whether you're like a venture backed founder or you just want to make a few million dollars, like you're you have to like understand humans.",
+    "start": "00:04:52",
+    "end": "00:05:02"
+  },
+  {
+    "text": "Absolutely.",
+    "start": "00:05:00",
+    "end": "00:05:01"
+  },
+  {
+    "text": "Yeah, no, I I appreciate that a lot.",
+    "start": "00:05:01",
+    "end": "00:05:04"
+  },
+  {
+    "text": "So, I think something that's really interesting is a tweet that you actually tweeted a while back when you're sort of introducing like the thesis of consumer club.",
+    "start": "00:05:04",
+    "end": "00:05:12"
+  },
+  {
+    "text": "And the tweet, you know, in it you basically said like, hey, for consumer club, this is really for founders who, you know, are trying to or who rather who recognize that distribution can beat product in many cases.",
+    "start": "00:05:12",
+    "end": "00:05:26"
+  },
+  {
+    "text": "And for those who see that business to B2B founders often learn from consumer and consumer founders often learn from e-com and e-com often learns from affiliate.",
+    "start": "00:05:26",
+    "end": "00:05:38"
+  },
+  {
+    "text": "There's a few more things that you you said in that tweet, but I want to break those two down just a little bit.",
+    "start": "00:05:38",
+    "end": "00:05:43"
+  },
+  {
+    "text": "Can you tell me a little bit more about sort of what you mean by those two things?",
+    "start": "00:05:43",
+    "end": "00:05:49"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:05:46",
+    "end": "00:05:47"
+  },
+  {
+    "text": "I mean I saw it first when I was when I came from e-com cuz um I I'm going to sound like a broken record, but I always talk about Oliver Brocato and Tabs Chocolate.",
+    "start": "00:05:47",
+    "end": "00:05:57"
+  },
+  {
+    "text": "So, Tabs Chocolate is this e-com brands that went from zero to 10 million in 1 year with purely TikTok organic, no ads.",
+    "start": "00:05:57",
+    "end": "00:06:05"
+  },
+  {
+    "text": "And it's really interesting cuz they just like they they didn't do influencer marketing and they kind of broke the TikTok game by realizing that, oh, you don't need people to have audiences to talk about your product.",
+    "start": "00:06:05",
+    "end": "00:06:20"
+  },
+  {
+    "text": "You can just hire a bunch of kids or a bunch of teenagers and just like have them talk about your product like very organically.",
+    "start": "00:06:20",
+    "end": "00:06:30"
+  },
+  {
+    "text": "On brand new accounts with zero followers and if it's good as long as it's good content and you show the product in the video, then it'll it'll get views.",
+    "start": "00:06:30",
+    "end": "00:06:41"
+  },
+  {
+    "text": "And it worked very well, but then this guy he moved on from Tabs Chocolate and now he he did Study Buddy, which is a a software company.",
+    "start": "00:06:39",
+    "end": "00:06:48"
+  },
+  {
+    "text": "So, and in public I remember like the day he tweeted this, he was like, I'm going to now go into consumer SaaS instead of e-com because sure, this works in e-com, but like we could just do run back the same exact strategy, but then do it on uh for a product that has better exit multiples, better margins, less headache of like fulfillment and manufacturing all that.",
+    "start": "00:06:48",
+    "end": "00:07:11"
+  },
+  {
+    "text": "And yeah, there's some barrier to entry of like building a tech product, but if you know how to code a little bit or you know AI code now in 2025, like yeah, like you can use the same tactics, but I think why why do tactics start in e-commerce and then they kind of go up to uh tech?",
+    "start": "00:07:11",
+    "end": "00:07:35"
+  },
+  {
+    "text": "I think it's like it's basically just like how much of a commodity is the product.",
+    "start": "00:07:35",
+    "end": "00:07:41"
+  },
+  {
+    "text": "So, like you mentioned affiliate.",
+    "start": "00:07:41",
+    "end": "00:07:42"
+  },
+  {
+    "text": "So, you know, think about like these affiliate marketers that earn 10% of revenue that they drive to a gambling site.",
+    "start": "00:07:42",
+    "end": "00:07:51"
+  },
+  {
+    "text": "All these gambling sites are like basically similar and then all the affiliates, they're just promoting the same offer.",
+    "start": "00:07:51",
+    "end": "00:08:00"
+  },
+  {
+    "text": "So, they're all competing with each other on the same exact product.",
+    "start": "00:07:58",
+    "end": "00:08:04"
+  },
+  {
+    "text": "So, of course they have to find different ways to compete with each other and make their marketing better and better.",
+    "start": "00:08:04",
+    "end": "00:08:10"
+  },
+  {
+    "text": "So, affiliates I think are the best consumer marketers.",
+    "start": "00:08:10",
+    "end": "00:08:15"
+  },
+  {
+    "text": "And then you go up one level to e-commerce you're also kind of in a commoditized product.",
+    "start": "00:08:15",
+    "end": "00:08:20"
+  },
+  {
+    "text": "You're just selling like consumer goods that you know, are not hyper differentiated.",
+    "start": "00:08:20",
+    "end": "00:08:27"
+  },
+  {
+    "text": "There's no like tech edge.",
+    "start": "00:08:25",
+    "end": "00:08:29"
+  },
+  {
+    "text": "It's basically it's a branding edge unless it's a completely new invention, but for a lot of these categories like food and beverage and clothing and beauty skin care and stuff like this, a lot of it is just the same products just re-repackaged.",
+    "start": "00:08:29",
+    "end": "00:08:44"
+  },
+  {
+    "text": "So, you're also very competitive in that space.",
+    "start": "00:08:41",
+    "end": "00:08:45"
+  },
+  {
+    "text": "So, the marketing tactics have to be better.",
+    "start": "00:08:45",
+    "end": "00:08:48"
+  },
+  {
+    "text": "And then consumer tech like now, there's still some barrier to entry to building an app, but it's becoming less and less.",
+    "start": "00:08:48",
+    "end": "00:08:59"
+  },
+  {
+    "text": "So, like I'm even seeing like people in the consumer tech world now complaining about people copying their apps, but then the e-com guys are just like that's that's just the game.",
+    "start": "00:08:59",
+    "end": "00:09:10"
+  },
+  {
+    "text": "Like the more a product becomes commoditized, like the more you're going to get copied.",
+    "start": "00:09:10",
+    "end": "00:09:13"
+  },
+  {
+    "text": "So, yeah.",
+    "start": "00:09:13",
+    "end": "00:09:14"
+  },
+  {
+    "text": "But I think it's a good thing.",
+    "start": "00:09:14",
+    "end": "00:09:18"
+  },
+  {
+    "text": "Like yeah, the more competitive the marketing that the more advanced the tactics get and it's it's fun to it's fun to follow.",
+    "start": "00:09:18",
+    "end": "00:09:26"
+  },
+  {
+    "text": "Yeah, absolutely.",
+    "start": "00:09:24",
+    "end": "00:09:26"
+  },
+  {
+    "text": "Okay, so that's really interesting.",
+    "start": "00:09:26",
+    "end": "00:09:27"
+  },
+  {
+    "text": "So, just taking a step back a little bit you know, at the very beginning of this topic, you basically mentioned that like, hey, like um you know, there was there was sort of like a really big I would say like step right when people recognized that um you could get a lot of eyeballs on things without having like a a really large audience or really, you know, big massive followers, right?",
+    "start": "00:09:27",
+    "end": "00:09:48"
+  },
+  {
+    "text": "Just by virtue of the way that the TikTok algorithm worked and then which eventually shifted like the the Instagram Reels algorithm.",
+    "start": "00:09:48",
+    "end": "00:09:56"
+  },
+  {
+    "text": "Like you didn't need these these massive followers or influencers to put your product in front of you know a lot of different people.",
+    "start": "00:09:56",
+    "end": "00:10:02"
+  },
+  {
+    "text": "Um and I feel like that sort of was like one of the steps in creating this new sort of like meta of distribution, right?",
+    "start": "00:10:02",
+    "end": "00:10:09"
+  },
+  {
+    "text": "In terms of of getting whether it was e-com or affiliate or you know even apps at this point.",
+    "start": "00:10:09",
+    "end": "00:10:13"
+  },
+  {
+    "text": "It it sort of spawned this whole new set of strategies for people competing with edge, right?",
+    "start": "00:10:13",
+    "end": "00:10:19"
+  },
+  {
+    "text": "Um and so something that I'm really curious to hear a little bit more about is um you know you've mentioned this um in some other podcasts and you know you even mentioned it on this podcast podcast right now like it's not necessarily um about TikTok per se, it's more so about um figuring out what this like underpriced distribution edge is, right?",
+    "start": "00:10:19",
+    "end": "00:10:41"
+  },
+  {
+    "text": "Um so I'd love to learn a little bit more about that, you know, like what are um you know, what are some uh pieces of alpha or strategies that you know, some some uh founders in the consumer club have been applying um when it comes to finding the sort of like edge in distribution.",
+    "start": "00:10:39",
+    "end": "00:11:00"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:10:57",
+    "end": "00:10:58"
+  },
+  {
+    "text": "Yeah, definitely.",
+    "start": "00:10:58",
+    "end": "00:11:01"
+  },
+  {
+    "text": "Um yeah, as perfectly articulated.",
+    "start": "00:11:01",
+    "end": "00:11:03"
+  },
+  {
+    "text": "I feel like people are Yeah, people are focused on TikTok but even within TikTok there's like micro trends.",
+    "start": "00:11:03",
+    "end": "00:11:09"
+  },
+  {
+    "text": "So um I'm going to show you a couple of things.",
+    "start": "00:11:09",
+    "end": "00:11:12"
+  },
+  {
+    "text": "Um so I'm just I'm just a student of the scroll.",
+    "start": "00:11:12",
+    "end": "00:11:15"
+  },
+  {
+    "text": "So I I stole that phrase from someone else like they were like, \"How do you like find all these ideas?",
+    "start": "00:11:13",
+    "end": "00:11:20"
+  },
+  {
+    "text": "\" I'm like, \"Oh, I just like scroll TikTok a lot and then I save them in bookmark folders and then I think about like, \"Wait, why did that make me feel something?",
+    "start": "00:11:20",
+    "end": "00:11:29"
+  },
+  {
+    "text": "\" And I put it into the category of folder.",
+    "start": "00:11:29",
+    "end": "00:11:31"
+  },
+  {
+    "text": "So I just I just study this stuff cuz it's fun to me.",
+    "start": "00:11:31",
+    "end": "00:11:34"
+  },
+  {
+    "text": "Um but here's an example of like here's all my bookmark folders.",
+    "start": "00:11:34",
+    "end": "00:11:42"
+  },
+  {
+    "text": "Um I'm just sharing screen.",
+    "start": "00:11:42",
+    "end": "00:11:45"
+  },
+  {
+    "text": "But Yeah.",
+    "start": "00:11:45",
+    "end": "00:11:43"
+  },
+  {
+    "text": "for example like talking head um this format is several years old.",
+    "start": "00:11:43",
+    "end": "00:11:50"
+  },
+  {
+    "text": "So this is kind of like the the classic like influencer video.",
+    "start": "00:11:50",
+    "end": "00:11:52"
+  },
+  {
+    "text": "Like, \"Hey guys, today I'm going to talk to you about whatever like product.",
+    "start": "00:11:52",
+    "end": "00:11:56"
+  },
+  {
+    "text": "\" Um so this this is still like kind of big.",
+    "start": "00:11:56",
+    "end": "00:11:59"
+  },
+  {
+    "text": "Um and with an app you kind of have to show show the product somehow.",
+    "start": "00:11:59",
+    "end": "00:12:05"
+  },
+  {
+    "text": "Like with e-commerce it's really easy like you hold it in your hand.",
+    "start": "00:12:05",
+    "end": "00:12:09"
+  },
+  {
+    "text": "You can like show it on video.",
+    "start": "00:12:09",
+    "end": "00:12:10"
+  },
+  {
+    "text": "But with apps it's a little bit tricky.",
+    "start": "00:12:10",
+    "end": "00:12:13"
+  },
+  {
+    "text": "You have to like figure out how to show it on the screen.",
+    "start": "00:12:13",
+    "end": "00:12:17"
+  },
+  {
+    "text": "Um so one way is like just is just like green screen.",
+    "start": "00:12:15",
+    "end": "00:12:20"
+  },
+  {
+    "text": "So you can just put it behind you um and then have like the talking head like green screens in front of you.",
+    "start": "00:12:20",
+    "end": "00:12:25"
+  },
+  {
+    "text": "Um another way is like phone app demo.",
+    "start": "00:12:25",
+    "end": "00:12:30"
+  },
+  {
+    "text": "So if you have like the you literally put the phone in front of your other phone to record the like record what's happening on the screen and show yourself using the app.",
+    "start": "00:12:28",
+    "end": "00:12:40"
+  },
+  {
+    "text": "Um but talking head I mean this is like a couple years old.",
+    "start": "00:12:40",
+    "end": "00:12:42"
+  },
+  {
+    "text": "A a couple of the newer things like it kind of shifted last year to to slideshows when people realized like you could just get a lot of views by doing uh TikTok carousels and slideshows instead of like full videos.",
+    "start": "00:12:42",
+    "end": "00:12:58"
+  },
+  {
+    "text": "And this is there's some alpha in this because it's so easy to make.",
+    "start": "00:12:58",
+    "end": "00:13:01"
+  },
+  {
+    "text": "Like for example this like these ones like these they're they're like they're these like story time things where it's like Right.",
+    "start": "00:13:01",
+    "end": "00:13:12"
+  },
+  {
+    "text": "Here's the here's the truth about visiting Japan.",
+    "start": "00:13:12",
+    "end": "00:13:15"
+  },
+  {
+    "text": "And then there's just filler slides with kind of interesting content and then at the end they plug some product.",
+    "start": "00:13:15",
+    "end": "00:13:23"
+  },
+  {
+    "text": "So this one is for the shower head like Oh, by the way there you know, they Japan has these shower these water filters in all their shower heads.",
+    "start": "00:13:23",
+    "end": "00:13:33"
+  },
+  {
+    "text": "And oh, I just realized like oh, you don't even need to go to Japan to get these.",
+    "start": "00:13:31",
+    "end": "00:13:35"
+  },
+  {
+    "text": "They're just they're on Amazon.",
+    "start": "00:13:35",
+    "end": "00:13:38"
+  },
+  {
+    "text": "Like what what what do you know?",
+    "start": "00:13:36",
+    "end": "00:13:38"
+  },
+  {
+    "text": "They're on Amazon.",
+    "start": "00:13:38",
+    "end": "00:13:41"
+  },
+  {
+    "text": "Right.",
+    "start": "00:13:38",
+    "end": "00:13:39"
+  },
+  {
+    "text": "So crazy.",
+    "start": "00:13:39",
+    "end": "00:13:40"
+  },
+  {
+    "text": "And this has like this has like what?",
+    "start": "00:13:40",
+    "end": "00:13:42"
+  },
+  {
+    "text": "Mil- millions of I see it has two almost almost a quarter million likes.",
+    "start": "00:13:42",
+    "end": "00:13:46"
+  },
+  {
+    "text": "Right?",
+    "start": "00:13:45",
+    "end": "00:13:47"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:13:46",
+    "end": "00:13:50"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:13:47",
+    "end": "00:13:47"
+  },
+  {
+    "text": "I mean this one has 200,000 likes.",
+    "start": "00:13:47",
+    "end": "00:13:51"
+  },
+  {
+    "text": "Um I don't know how many views it has.",
+    "start": "00:13:50",
+    "end": "00:13:55"
+  },
+  {
+    "text": "But they they make this account and they post it they post these videos Mhm.",
+    "start": "00:13:55",
+    "end": "00:14:01"
+  },
+  {
+    "text": "like every day.",
+    "start": "00:14:01",
+    "end": "00:14:00"
+  },
+  {
+    "text": "So not every video hits but I mean they're getting around you know, 5 10,000 views per video and then some of them really hit and it's like a million 2 million views.",
+    "start": "00:14:00",
+    "end": "00:14:11"
+  },
+  {
+    "text": "Yeah, which is which is crazy cuz they're basically taking like basically like a a paragraph or two worth of text and they're turning that and then some like filler photos, right?",
+    "start": "00:14:09",
+    "end": "00:14:20"
+  },
+  {
+    "text": "And they're turning that into like millions of eyeballs for distribution.",
+    "start": "00:14:18",
+    "end": "00:14:25"
+  },
+  {
+    "text": "Like what would previously take you know, thousand tens of thousands of dollars to you know, pump that on like Facebook ads or Google ads.",
+    "start": "00:14:23",
+    "end": "00:14:30"
+  },
+  {
+    "text": "Like you're you're basically getting you know, for um I don't know maybe 30 minutes of your time and like really well structured like you know, but broken up into a few paragraphs worth of writing.",
+    "start": "00:14:30",
+    "end": "00:14:39"
+  },
+  {
+    "text": "Like that's crazy.",
+    "start": "00:14:39",
+    "end": "00:14:41"
+  },
+  {
+    "text": "Right?",
+    "start": "00:14:41",
+    "end": "00:14:43"
+  },
+  {
+    "text": "Exactly.",
+    "start": "00:14:40",
+    "end": "00:14:41"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:14:41",
+    "end": "00:14:42"
+  },
+  {
+    "text": "Okay, so you and and this sort of like let leads into the um the trend that you were mentioning earlier where basically app founders are like learning from people who have been doing this for a while in e-com and obviously people who you know, do like affiliate are all competing for the same kind of attention.",
+    "start": "00:14:42",
+    "end": "00:14:57"
+  },
+  {
+    "text": "And I feel like this this leads to like another interesting kind of segue which is like um I I feel like as we're getting closer and closer and e-com e-com people are probably like really well versed in this.",
+    "start": "00:14:57",
+    "end": "00:15:09"
+  },
+  {
+    "text": "But ultimately like the two things that are going to really like determine some of the success of your business is one like your ability to um capture attention, right?",
+    "start": "00:15:09",
+    "end": "00:15:21"
+  },
+  {
+    "text": "And then your ability to convert that attention into like a download or a purchase or you know, that sort of thing.",
+    "start": "00:15:21",
+    "end": "00:15:29"
+  },
+  {
+    "text": "So um I'd be curious to know a little bit more about um you know, how people are are discussing that like within the consumer club.",
+    "start": "00:15:29",
+    "end": "00:15:36"
+  },
+  {
+    "text": "Um I I know that there's a really big emphasis on generating attention um but I'd be curious to know, you know, sort of what people are thinking about for actually converting that attention into a download.",
+    "start": "00:15:36",
+    "end": "00:15:46"
+  },
+  {
+    "text": "Um can you speak a little bit more about that?",
+    "start": "00:15:46",
+    "end": "00:15:49"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:15:49",
+    "end": "00:15:49"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:15:49",
+    "end": "00:15:50"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:15:50",
+    "end": "00:15:51"
+  },
+  {
+    "text": "I mean organic and ads are a little bit different.",
+    "start": "00:15:51",
+    "end": "00:15:52"
+  },
+  {
+    "text": "Like if you come from the world of Facebook ads, you're used to just forcing your content in front of people's eyeballs by paying Facebook money.",
+    "start": "00:15:52",
+    "end": "00:16:00"
+  },
+  {
+    "text": "But with organic you're you're kind of you have to you you have to hack the algorithm which which the algorithm is really just how do you hack attention and then hold attention long enough to plug your product.",
+    "start": "00:16:00",
+    "end": "00:16:20"
+  },
+  {
+    "text": "So like um like some other formats that I've seen working are uh just these storytelling.",
+    "start": "00:16:20",
+    "end": "00:16:28"
+  },
+  {
+    "text": "I mean you kind of saw it with the slide the slideshows too.",
+    "start": "00:16:28",
+    "end": "00:16:33"
+  },
+  {
+    "text": "But as long as you like you you have to talk about the products.",
+    "start": "00:16:33",
+    "end": "00:16:36"
+  },
+  {
+    "text": "Like so in the influencer marketing days you would just get a bunch of views and then you'd have a call to action at the end and say, \"Hey guy Here today I'm going to be talking about these pain points.",
+    "start": "00:16:36",
+    "end": "00:16:46"
+  },
+  {
+    "text": "Hey, do you relate to this or this?",
+    "start": "00:16:46",
+    "end": "00:16:50"
+  },
+  {
+    "text": "\" Um well, I have a solution for that.",
+    "start": "00:16:50",
+    "end": "00:16:53"
+  },
+  {
+    "text": "Um here's my my promo code.",
+    "start": "00:16:53",
+    "end": "00:16:54"
+  },
+  {
+    "text": "Use this code at checkout for 20% off.",
+    "start": "00:16:54",
+    "end": "00:16:56"
+  },
+  {
+    "text": "And then people would go into the influencer's link in bio and then click the link.",
+    "start": "00:16:56",
+    "end": "00:17:02"
+  },
+  {
+    "text": "But like people don't really click links in bios anymore.",
+    "start": "00:17:02",
+    "end": "00:17:04"
+  },
+  {
+    "text": "Uh especially for apps it's kind of hard to like put a app store link in your bio especially if you have like other links that you want to promote and that the conversion rate is just not very good.",
+    "start": "00:17:04",
+    "end": "00:17:13"
+  },
+  {
+    "text": "So a lot of times what people actually are doing is they're just closing the app.",
+    "start": "00:17:13",
+    "end": "00:17:18"
+  },
+  {
+    "text": "Like they see a TikTok video, they literally close the app, they go to the app store and they search the name of the app that was mentioned in the video.",
+    "start": "00:17:18",
+    "end": "00:17:25"
+  },
+  {
+    "text": "So a lot of times the calls to actions are a lot softer.",
+    "start": "00:17:25",
+    "end": "00:17:29"
+  },
+  {
+    "text": "Um I mean even with like Cal-A-I Mhm.",
+    "start": "00:17:28",
+    "end": "00:17:34"
+  },
+  {
+    "text": "they they don't even mention the app at all.",
+    "start": "00:17:32",
+    "end": "00:17:34"
+  },
+  {
+    "text": "They just show the app and the name of the app on the screen.",
+    "start": "00:17:34",
+    "end": "00:17:40"
+  },
+  {
+    "text": "So I'm I'm seeing like the calls to actions being a lot um a lot lighter.",
+    "start": "00:17:40",
+    "end": "00:17:46"
+  },
+  {
+    "text": "Mhm.",
+    "start": "00:17:46",
+    "end": "00:17:46"
+  },
+  {
+    "text": "Yeah, one of the members of consumer club uh Laurent he's the founder of Focus Tree Mhm.",
+    "start": "00:17:45",
+    "end": "00:17:51"
+  },
+  {
+    "text": "and uses these faceless creators in the study talk niche where there's these students showing their books and their aesthetic like study setups.",
+    "start": "00:17:51",
+    "end": "00:18:00"
+  },
+  {
+    "text": "And in you know, a couple seconds they flash like the screen of Focus Tree and a lot of times the conversion actually happens in the comments where Mhm.",
+    "start": "00:18:00",
+    "end": "00:18:09"
+  },
+  {
+    "text": "since it's get since it got flashed and it was like an interesting novel interface it's like, \"Oh, you're using this app that has like a digital tree like for your focus.",
+    "start": "00:18:09",
+    "end": "00:18:19"
+  },
+  {
+    "text": "What are you What are you talking about like what is that app?",
+    "start": "00:18:19",
+    "end": "00:18:21"
+  },
+  {
+    "text": "\" And then they'll reply the creator will reply to the comment and say, \"Oh, it's Focus Tree.",
+    "start": "00:18:21",
+    "end": "00:18:26"
+  },
+  {
+    "text": "\" And that kind of takes advantage of the behavior of people reading the comments and scrolling through comments as they're watching videos.",
+    "start": "00:18:26",
+    "end": "00:18:34"
+  },
+  {
+    "text": "Um and people do that cuz it's you know, it feels like a social experience.",
+    "start": "00:18:32",
+    "end": "00:18:37"
+  },
+  {
+    "text": "Totally.",
+    "start": "00:18:36",
+    "end": "00:18:38"
+  },
+  {
+    "text": "So Wait, that's that's super interesting.",
+    "start": "00:18:38",
+    "end": "00:18:40"
+  },
+  {
+    "text": "So let's let's double click on that for a bit cuz you mentioned two apps that I think have done that kind of like marketing really well.",
+    "start": "00:18:38",
+    "end": "00:18:46"
+  },
+  {
+    "text": "So Cal-A-I I think is is the first one you mentioned and um for those who who don't yet know Blake Anderson and Zach um who built Cal-A-I and one of the ways that they like um really rocketed to success was by doing the sort of like um this distribution hack where um sort of like a like a mini niche in and of itself where they showed like the screen with um you know, predominantly like sort of like fitness um related content, right?",
+    "start": "00:18:46",
+    "end": "00:19:13"
+  },
+  {
+    "text": "Like people going to the gym and then like you know, making this like really healthy food and then very very briefly only for like a second or two using the app to like scan the food to get the caloric content.",
+    "start": "00:19:13",
+    "end": "00:19:25"
+  },
+  {
+    "text": "Don't mention it otherwise.",
+    "start": "00:19:25",
+    "end": "00:19:26"
+  },
+  {
+    "text": "And that's like that has also been popularized by uh Laurent uh with Focus Tree, right?",
+    "start": "00:19:26",
+    "end": "00:19:32"
+  },
+  {
+    "text": "Just in a different in a different vertical studying versus you know, calorie tracking.",
+    "start": "00:19:32",
+    "end": "00:19:36"
+  },
+  {
+    "text": "This is awesome.",
+    "start": "00:19:36",
+    "end": "00:19:37"
+  },
+  {
+    "text": "Yeah, so I think you can actually kind of see it, right?",
+    "start": "00:19:37",
+    "end": "00:19:40"
+  },
+  {
+    "text": "It's like this really quick kind of like cut frame where you're only seeing the app you know, maybe even for like half a second, right?",
+    "start": "00:19:40",
+    "end": "00:19:46"
+  },
+  {
+    "text": "And it's this is interesting because it kind of like builds intrigue and curiosity.",
+    "start": "00:19:46",
+    "end": "00:19:51"
+  },
+  {
+    "text": "And you you kind of mentioned it earlier where people then take to the comments to try and figure this out.",
+    "start": "00:19:51",
+    "end": "00:19:56"
+  },
+  {
+    "text": "I've sort of likened this as like the comment section of TikTok is where you know, where all the conversion kind of happens.",
+    "start": "00:19:56",
+    "end": "00:20:03"
+  },
+  {
+    "text": "It's kind of like the Reddit, you know, comments are are actually where all the gold is found or it's sort of like a little mini Yelp review for what, you know, the app is.",
+    "start": "00:20:03",
+    "end": "00:20:12"
+  },
+  {
+    "text": "Can you can you speak a little bit more on that?",
+    "start": "00:20:12",
+    "end": "00:20:15"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:20:15",
+    "end": "00:20:16"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:20:16",
+    "end": "00:20:16"
+  },
+  {
+    "text": "Um yeah, it goes a couple layers deep.",
+    "start": "00:20:16",
+    "end": "00:20:20"
+  },
+  {
+    "text": "So, like you can convert people on the like in the comment section of the video itself.",
+    "start": "00:20:20",
+    "end": "00:20:26"
+  },
+  {
+    "text": "You can also reply to to a comment and make another video out of like a video reply and that will first of all show it to to the person that you're replying to.",
+    "start": "00:20:26",
+    "end": "00:20:36"
+  },
+  {
+    "text": "Like it'll directly show up in their notifications.",
+    "start": "00:20:36",
+    "end": "00:20:39"
+  },
+  {
+    "text": "But then a lot of times if you're scrolling through TikTok sometimes you'll find if you really enjoyed a video like the next day you're going to see that reply because you engaged so deeply with that original video.",
+    "start": "00:20:39",
+    "end": "00:20:53"
+  },
+  {
+    "text": "So, you it's almost like a Facebook retargeting campaign where you're targeting the same people that engaged with that original video with the video reply.",
+    "start": "00:20:53",
+    "end": "00:21:01"
+  },
+  {
+    "text": "So, sometimes the video reply is where the conversion happens as well where someone in the comments says what is it what is the app and then you reply to that and say and then you and then that's where you hard sell because now you're able to retarget all those millions of people that watched the first video and then actually follow up with a CTA the next day or the next you know, few hours whenever you make the video.",
+    "start": "00:21:01",
+    "end": "00:21:26"
+  },
+  {
+    "text": "Yeah, but yeah, definitely.",
+    "start": "00:21:24",
+    "end": "00:21:28"
+  },
+  {
+    "text": "I mean TikTok TikTok comment sections are great great source of just market research like seeing what people actually people are very unfiltered in in TikTok comments.",
+    "start": "00:21:28",
+    "end": "00:21:38"
+  },
+  {
+    "text": "Yeah, definitely.",
+    "start": "00:21:34",
+    "end": "00:21:37"
+  },
+  {
+    "text": "You can see like the the heartbeat of of like culture and like what people are actually thinking.",
+    "start": "00:21:37",
+    "end": "00:21:44"
+  },
+  {
+    "text": "Definitely heartbeat heartbeat is such a good way to describe it.",
+    "start": "00:21:42",
+    "end": "00:21:46"
+  },
+  {
+    "text": "So, for for someone who's like um starting out and and building you know, a consumer app.",
+    "start": "00:21:46",
+    "end": "00:21:53"
+  },
+  {
+    "text": "What's what's like the one two three checklist that you would give to them if they wanted to start basically get started with like you know, marketing through TikTok for their app.",
+    "start": "00:21:51",
+    "end": "00:22:03"
+  },
+  {
+    "text": "Like you know, what direction would you point them in other than you know, consumer club being the first step.",
+    "start": "00:22:03",
+    "end": "00:22:10"
+  },
+  {
+    "text": "What what would you what would you point them towards?",
+    "start": "00:22:10",
+    "end": "00:22:13"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:22:11",
+    "end": "00:22:12"
+  },
+  {
+    "text": "I mean if if if it's your first business like first business or first app.",
+    "start": "00:22:12",
+    "end": "00:22:19"
+  },
+  {
+    "text": "Like do you do you have some experience?",
+    "start": "00:22:19",
+    "end": "00:22:21"
+  },
+  {
+    "text": "Yeah, that's that's a good clarification.",
+    "start": "00:22:20",
+    "end": "00:22:24"
+  },
+  {
+    "text": "I think just to make it easier let's say that um you're you're not new to like business or app building, but you you want to get more involved in like sort of like TikTok distribution or you know, a method of distribution that isn't just like forcing eyeballs via paid ads.",
+    "start": "00:22:23",
+    "end": "00:22:39"
+  },
+  {
+    "text": "Like what would you where would you point someone?",
+    "start": "00:22:39",
+    "end": "00:22:43"
+  },
+  {
+    "text": "Right, right.",
+    "start": "00:22:43",
+    "end": "00:22:45"
+  },
+  {
+    "text": "Um yeah, the the thing is like the viral ideas like there isn't necessarily a an existing viral idea for every single app.",
+    "start": "00:22:43",
+    "end": "00:22:55"
+  },
+  {
+    "text": "So, a lot of times it actually starts with the um reverse engineering like what would make a good viral moment on TikTok and then building that as a feature into your product.",
+    "start": "00:22:55",
+    "end": "00:23:09"
+  },
+  {
+    "text": "So, to go back to CalA I, that's basically what CalA I was like the real retention and like what makes CalA I a business is the calorie tracking.",
+    "start": "00:23:09",
+    "end": "00:23:19"
+  },
+  {
+    "text": "It's like retaining the user every day telling them here's over time how many calories you're you're you're eating and the macros which is the same thing as MyFitnessPal, but you know, who was the dominant app in the space for a long time.",
+    "start": "00:23:19",
+    "end": "00:23:32"
+  },
+  {
+    "text": "But CalA I is like it's the it's using using the AI vision to look at take a picture of your food and then do the calorie tracking.",
+    "start": "00:23:32",
+    "end": "00:23:43"
+  },
+  {
+    "text": "So, the main part of the app is not even really the scan.",
+    "start": "00:23:43",
+    "end": "00:23:45"
+  },
+  {
+    "text": "It's really the the tracking.",
+    "start": "00:23:45",
+    "end": "00:23:47"
+  },
+  {
+    "text": "So, if you have an if you have an app and let's say it's like you know, workout tracking you you might not be able to make a viral TikTok out of just workout tracking.",
+    "start": "00:23:47",
+    "end": "00:23:59"
+  },
+  {
+    "text": "So, a lot of times it comes down to like how do I how do I think of an I a piece of content that's already out there on TikTok that gets views already and then how do I turn that into slightly change modify that to make it turn into a video that plugs my product.",
+    "start": "00:23:59",
+    "end": "00:24:21"
+  },
+  {
+    "text": "I can give another screen share.",
+    "start": "00:24:19",
+    "end": "00:24:24"
+  },
+  {
+    "text": "Yeah, absolutely.",
+    "start": "00:24:24",
+    "end": "00:24:27"
+  },
+  {
+    "text": "Um I'm going to plug this tool.",
+    "start": "00:24:24",
+    "end": "00:24:29"
+  },
+  {
+    "text": "I actually built this tool.",
+    "start": "00:24:29",
+    "end": "00:24:29"
+  },
+  {
+    "text": "So, just shilling my own stuff right now.",
+    "start": "00:24:29",
+    "end": "00:24:32"
+  },
+  {
+    "text": "That's that's what we want, yeah.",
+    "start": "00:24:30",
+    "end": "00:24:34"
+  },
+  {
+    "text": "I built I built the tool because of just the insights of people in the consumer club and they trying to figure out like how do you how do you get that find those winning formats that promote products.",
+    "start": "00:24:34",
+    "end": "00:24:43"
+  },
+  {
+    "text": "So, let's say you're in like um let's say you're doing like uh something like with mental health or like a lot of these AI wrapper apps are using either voice or chat to like talk people through journaling or mental health issues or um you know, things like that.",
+    "start": "00:24:43",
+    "end": "00:25:05"
+  },
+  {
+    "text": "So, one thing you can do is you can do this on TikTok search.",
+    "start": "00:25:05",
+    "end": "00:25:07"
+  },
+  {
+    "text": "You can just search for videos, but if we want to find like okay, what what is out there already?",
+    "start": "00:25:07",
+    "end": "00:25:14"
+  },
+  {
+    "text": "So, let's just find like ADHD, mental health journaling um sometimes like think of adjacent niches like oh, people who are having like relationship problems they're maybe that's a source of like mental health issues.",
+    "start": "00:25:14",
+    "end": "00:25:29"
+  },
+  {
+    "text": "So, relationships.",
+    "start": "00:25:29",
+    "end": "00:25:32"
+  },
+  {
+    "text": "So, let's just search some of these keywords.",
+    "start": "00:25:32",
+    "end": "00:25:36"
+  },
+  {
+    "text": "And then what let's find videos that are currently doing well in those niches and then figure out how do we make how do we slightly modify these videos to plug an app?",
+    "start": "00:25:33",
+    "end": "00:25:47"
+  },
+  {
+    "text": "So, like some of these um First off, that's such a sick tool that that you just pull all the metrics on that like right from the jump.",
+    "start": "00:25:46",
+    "end": "00:26:03"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:26:01",
+    "end": "00:26:02"
+  },
+  {
+    "text": "So, we have the main like the main metrics like views, engagement, but then the number here is like how many how many times more views did this video get compared to the median engagement for that account.",
+    "start": "00:26:02",
+    "end": "00:26:16"
+  },
+  {
+    "text": "So, this is like it's not just the account is a is a strong account.",
+    "start": "00:26:16",
+    "end": "00:26:20"
+  },
+  {
+    "text": "It's that the video itself actually did better than the account.",
+    "start": "00:26:20",
+    "end": "00:26:24"
+  },
+  {
+    "text": "So, that means like the algorithm is picking it up and it's not just getting views because of the followers.",
+    "start": "00:26:23",
+    "end": "00:26:30"
+  },
+  {
+    "text": "So, let's remove ADHD keyword cuz that's like seems to be taking up everything.",
+    "start": "00:26:28",
+    "end": "00:26:34"
+  },
+  {
+    "text": "Here's a here's a great format.",
+    "start": "00:26:35",
+    "end": "00:26:39"
+  },
+  {
+    "text": "My So, here's This is an interesting format.",
+    "start": "00:26:39",
+    "end": "00:26:44"
+  },
+  {
+    "text": "It's like a 7-second video that just has a song playing in the background and some B-roll of a some the car.",
+    "start": "00:26:44",
+    "end": "00:26:50"
+  },
+  {
+    "text": "And it's just long text.",
+    "start": "00:26:51",
+    "end": "00:26:53"
+  },
+  {
+    "text": "So, it kind of it's a hack where the video loops over and over again because people are taking a long time to read the thing.",
+    "start": "00:26:53",
+    "end": "00:27:00"
+  },
+  {
+    "text": "So, then in the TikTok analytics the watch time is like 5x retention because people watch the video like five times in order to read the whole text.",
+    "start": "00:27:00",
+    "end": "00:27:10"
+  },
+  {
+    "text": "But then but then the text has to actually be good and like interesting.",
+    "start": "00:27:09",
+    "end": "00:27:14"
+  },
+  {
+    "text": "So, this one says my therapist told me when someone constantly asks if you love like we love them or if you're mad at them it's not because they're So, it's just kind of this tidbit about mental health and therapy, but then you could you could definitely plug some sort of app maybe hint at some kind of app, but then not name the app because that might be a little bit too aggressive and then maybe some people in the comments will be like oh, like any apps you recommend to you know, deal with this issue and then you can plug the app.",
+    "start": "00:27:14",
+    "end": "00:27:44"
+  },
+  {
+    "text": "So, Totally.",
+    "start": "00:27:44",
+    "end": "00:27:44"
+  },
+  {
+    "text": "Totally.",
+    "start": "00:27:44",
+    "end": "00:27:45"
+  },
+  {
+    "text": "Yeah, it's all I've seen um I've seen a few apps like take advantage of that where you have you know, and and there I think the interesting thing with all of these is like there are layers and like metas to each individual layer, right?",
+    "start": "00:27:45",
+    "end": "00:27:57"
+  },
+  {
+    "text": "Like I've seen I think something that a lot of people be familiar with is like Minecraft B-roll, right?",
+    "start": "00:27:57",
+    "end": "00:28:03"
+  },
+  {
+    "text": "In the background where there's like someone playing Minecraft like jumping around on different blocks.",
+    "start": "00:28:03",
+    "end": "00:28:08"
+  },
+  {
+    "text": "You know, in this case it's like the video of someone driving, right?",
+    "start": "00:28:06",
+    "end": "00:28:11"
+  },
+  {
+    "text": "With like text on it.",
+    "start": "00:28:11",
+    "end": "00:28:12"
+  },
+  {
+    "text": "And it's interesting because they're all they all are trying to accomplish the same thing, right?",
+    "start": "00:28:12",
+    "end": "00:28:18"
+  },
+  {
+    "text": "But the way that they like hack attention or that you know, the way that their hooks are just like slightly different is really really really intriguing.",
+    "start": "00:28:16",
+    "end": "00:28:25"
+  },
+  {
+    "text": "And yeah, I guess I'd love I'd love to know a little bit more about sort of like what inspired you to like want to even build this tool in the first place because I I imagine that a lot of people were probably trying to do this manually, right?",
+    "start": "00:28:24",
+    "end": "00:28:37"
+  },
+  {
+    "text": "By like going through accounts and seeing what the you know, median views were for someone's videos and then you know, like using a spreadsheet to calculate this.",
+    "start": "00:28:37",
+    "end": "00:28:45"
+  },
+  {
+    "text": "So, I'd be curious to know a little bit more about what like drove the inspiration for building this.",
+    "start": "00:28:45",
+    "end": "00:28:52"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:28:50",
+    "end": "00:28:50"
+  },
+  {
+    "text": "Yeah, I mean yeah, it's just like how do you how do you find how do you make this type of marketing feel more scientific and more predictable cuz a lot of times it just feels like a lottery.",
+    "start": "00:28:50",
+    "end": "00:29:00"
+  },
+  {
+    "text": "Um you post a TikTok and then you don't know like why it went viral why it didn't go viral.",
+    "start": "00:29:00",
+    "end": "00:29:08"
+  },
+  {
+    "text": "But it's just like because TikTok is you know, it's a content graph.",
+    "start": "00:29:08",
+    "end": "00:29:12"
+  },
+  {
+    "text": "Like it you like the content itself is what gets the views based on engagement or retention whatever.",
+    "start": "00:29:12",
+    "end": "00:29:18"
+  },
+  {
+    "text": "So, if you can find those videos that are already doing well then it's just it's just a hack to to find to get to to get views and to validate your market first before maybe maybe even before launching or like even before like hiring expensive influencers that like more expensive like high production content you can you can hire creators to just copy videos and you can charge you can you can pay a lot less for that compared to giving a creator like free rein over the full creative direction of the video, just saying like, \"Hey, make a video for me promoting this app.",
+    "start": "00:29:18",
+    "end": "00:30:01"
+  },
+  {
+    "text": "\" Then they have to storyboard it, think of do the research themselves.",
+    "start": "00:30:01",
+    "end": "00:30:05"
+  },
+  {
+    "text": "But if you just say, \"Hey, here's a video that you can just copy it like second for second and just modify this little part.",
+    "start": "00:30:05",
+    "end": "00:30:14"
+  },
+  {
+    "text": "\" Then you're doing the creative, and then you're just paying the creator for their time.",
+    "start": "00:30:14",
+    "end": "00:30:18"
+  },
+  {
+    "text": "Um uh instead of like their creativity.",
+    "start": "00:30:17",
+    "end": "00:30:23"
+  },
+  {
+    "text": "So, I So, yeah, a lot of people in Consumer Club were were trying to figure out, \"Okay, how do you not pay like a thousand, two thousand dollars just for one video?",
+    "start": "00:30:23",
+    "end": "00:30:34"
+  },
+  {
+    "text": "\" And uh like the answer a lot of times is just hiring people um like doing the creative yourself and then giving um giving creators like a really well well-defined brief.",
+    "start": "00:30:34",
+    "end": "00:30:47"
+  },
+  {
+    "text": "So, this is just a way to um do that.",
+    "start": "00:30:47",
+    "end": "00:30:49"
+  },
+  {
+    "text": "But I mean, if you if you have creators that um that make high-production videos too, like you can like you can give them these videos as well.",
+    "start": "00:30:49",
+    "end": "00:30:59"
+  },
+  {
+    "text": "Leverage that.",
+    "start": "00:30:57",
+    "end": "00:30:59"
+  },
+  {
+    "text": "Yeah, totally.",
+    "start": "00:30:59",
+    "end": "00:31:01"
+  },
+  {
+    "text": "And for anyone who uh has experimented with influencer marketing, um I think it's really funny because I you know, for you'll go and talk to like an influencer and they'll say like, \"Hey, I want you know, two or three thousand dollars for this video, and you'll have to pay me like a retainer fee on top of that.",
+    "start": "00:31:01",
+    "end": "00:31:16"
+  },
+  {
+    "text": "\" And it's funny because you know, they might post the video on TikTok and it could flop.",
+    "start": "00:31:16",
+    "end": "00:31:22"
+  },
+  {
+    "text": "It could get like 800 views.",
+    "start": "00:31:22",
+    "end": "00:31:23"
+  },
+  {
+    "text": "So, this is kind of a way to protect against that, right?",
+    "start": "00:31:23",
+    "end": "00:31:24"
+  },
+  {
+    "text": "It's like you're able to sort of create these with a more scalable blueprint in a more sort of like scientific or at least measurable way without having to like rely on this audience that may or may not come through from you actually paying an influencer.",
+    "start": "00:31:24",
+    "end": "00:31:41"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:31:39",
+    "end": "00:31:40"
+  },
+  {
+    "text": "I mean, and this still relies on you like deciding that this content has somewhat of like commercial intent.",
+    "start": "00:31:40",
+    "end": "00:31:51"
+  },
+  {
+    "text": "Um so, you can't just like get views and then magically just hope that it'll get conversions.",
+    "start": "00:31:49",
+    "end": "00:31:56"
+  },
+  {
+    "text": "Like there should be some hypothesis behind why you're choosing this type of content.",
+    "start": "00:31:56",
+    "end": "00:32:00"
+  },
+  {
+    "text": "Like for this one, for example, I see the last line is like \"Hey, did you know people who struggle with anxiety, depression, can't remember a lot, blah blah blah.",
+    "start": "00:32:00",
+    "end": "00:32:09"
+  },
+  {
+    "text": "\" And the last line says, \"If this is you, maybe this account can help.",
+    "start": "00:32:09",
+    "end": "00:32:13"
+  },
+  {
+    "text": "\" That is a call to action.",
+    "start": "00:32:13",
+    "end": "00:32:15"
+  },
+  {
+    "text": "That's saying like, \"Hey, check out this TikTok account.",
+    "start": "00:32:15",
+    "end": "00:32:20"
+  },
+  {
+    "text": "\" But you could change that CTA to something like, \"If this is you, maybe you should try out meditation apps, or maybe you should try out, you know, something else.",
+    "start": "00:32:20",
+    "end": "00:32:29"
+  },
+  {
+    "text": "\" And then that's like the CTA.",
+    "start": "00:32:29",
+    "end": "00:32:31"
+  },
+  {
+    "text": "So, um there should there should still be some sort of um like goal to to getting the views.",
+    "start": "00:32:31",
+    "end": "00:32:38"
+  },
+  {
+    "text": "Right.",
+    "start": "00:32:37",
+    "end": "00:32:37"
+  },
+  {
+    "text": "That's actually a really good distinction that I think is probably worth calling out.",
+    "start": "00:32:37",
+    "end": "00:32:42"
+  },
+  {
+    "text": "Like um I think a lot of people get started in this game and they start to uh have tunnel vision on views, but I think that there's a really important distinction there that just because your video gets, you know, a million, two million views, if you don't have the right kind of content with like a good CTA, that won't necessarily translate to like app downloads, right?",
+    "start": "00:32:42",
+    "end": "00:33:06"
+  },
+  {
+    "text": "And I think that that's that's probably a frustration that a lot of people have to hurdle first because if you've never made any content before and you're just getting started, you have to have that whole bridge of like learning how to make the content and learning how to, you know, hack attention and then actually, you know, create something that is sustains attention beyond just the first second, but then how do you how can you shape the content actually like generate that sort of curiosity or intrigue, right?",
+    "start": "00:33:06",
+    "end": "00:33:33"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:33:31",
+    "end": "00:33:34"
+  },
+  {
+    "text": "So, one shortcut to that is like if you know uh if you know somewhat of the current meta of what types of content do get views and convert, you can specifically look out for that type of content and then iterate on that.",
+    "start": "00:33:34",
+    "end": "00:33:49"
+  },
+  {
+    "text": "So, for example, like if you know that phone-in-hand content converts well for apps, you can just find like phone screen Mhm.",
+    "start": "00:33:49",
+    "end": "00:34:00"
+  },
+  {
+    "text": "and then find videos that actually show a phone screen on the video.",
+    "start": "00:34:00",
+    "end": "00:34:05"
+  },
+  {
+    "text": "Um so, that's another thing that uh another use case for for this tool.",
+    "start": "00:34:03",
+    "end": "00:34:10"
+  },
+  {
+    "text": "But like just scrolling TikTok as well, like if you ever find videos that are like uh that that that sell an app or that have a phone on on the screen or or you know, um or exist in the format that you want to um replicate, then uh you should save those in bookmarks.",
+    "start": "00:34:10",
+    "end": "00:34:31"
+  },
+  {
+    "text": "Absolutely.",
+    "start": "00:34:30",
+    "end": "00:34:31"
+  },
+  {
+    "text": "Yeah, and and I think that that's something that's like really interesting, right?",
+    "start": "00:34:31",
+    "end": "00:34:34"
+  },
+  {
+    "text": "It's like um I think people can kind of tend to like overthink it, but there is something like inherently just like interesting about literally showcasing the app like up front, right?",
+    "start": "00:34:34",
+    "end": "00:34:45"
+  },
+  {
+    "text": "Like some some of these videos end up doing really really well.",
+    "start": "00:34:45",
+    "end": "00:34:49"
+  },
+  {
+    "text": "Um I think that, you know, you can kind of focus it and shape it to be a little bit more interesting.",
+    "start": "00:34:47",
+    "end": "00:34:53"
+  },
+  {
+    "text": "Like for for example, Cali's um marketing techniques, right?",
+    "start": "00:34:53",
+    "end": "00:34:55"
+  },
+  {
+    "text": "They're only showing it for like a second or two.",
+    "start": "00:34:55",
+    "end": "00:34:58"
+  },
+  {
+    "text": "But if you're just starting out, I think that this is like a reasonable way to get started and see, you know, how you um how you can at least start to get better at like the skill of creating content.",
+    "start": "00:34:58",
+    "end": "00:35:08"
+  },
+  {
+    "text": "And obviously, this is like a really good tool that you can use to be like, \"Okay, here's what a lot of other apps are doing, you know, and and here's their videos that's actually working really well.",
+    "start": "00:35:08",
+    "end": "00:35:16"
+  },
+  {
+    "text": "\" Right?",
+    "start": "00:35:16",
+    "end": "00:35:17"
+  },
+  {
+    "text": "This is like a great way to actually get started with that.",
+    "start": "00:35:17",
+    "end": "00:35:22"
+  },
+  {
+    "text": "Yeah, definitely.",
+    "start": "00:35:20",
+    "end": "00:35:21"
+  },
+  {
+    "text": "Absolutely.",
+    "start": "00:35:21",
+    "end": "00:35:23"
+  },
+  {
+    "text": "Okay, so let's let's take it a step back.",
+    "start": "00:35:23",
+    "end": "00:35:25"
+  },
+  {
+    "text": "Um something that is really interesting about Consumer Club is outside of just like focusing on like distribution metas and strategies, um you're actually hosting events for people, right?",
+    "start": "00:35:25",
+    "end": "00:35:36"
+  },
+  {
+    "text": "So, I think I saw this morning you tweeted um that you love meeting founders in New York City.",
+    "start": "00:35:36",
+    "end": "00:35:38"
+  },
+  {
+    "text": "It looks like you hosted a founder dinner um with just like a really impressive group of attendees.",
+    "start": "00:35:38",
+    "end": "00:35:44"
+  },
+  {
+    "text": "I'm just reading off of your tweet and you say a 400k MRR study app, uh dating app with over 300,000 downloads from TikTok organic with zero spent on ads, someone posting 15 UGC vids per day.",
+    "start": "00:35:44",
+    "end": "00:35:57"
+  },
+  {
+    "text": "Um yeah, like would love to hear a little bit more um about one, the events that you're hosting with Consumer Club, and then two, specifically this, like what are, you know, some of the most interesting tidbits that you pulled from this dinner or things that you think might just be worth sharing in general?",
+    "start": "00:35:57",
+    "end": "00:36:13"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:36:11",
+    "end": "00:36:13"
+  },
+  {
+    "text": "Um yeah, this was interesting.",
+    "start": "00:36:13",
+    "end": "00:36:15"
+  },
+  {
+    "text": "So, this this this last one blew my mind a lot cuz I've always thought that you you can only post three videos per day.",
+    "start": "00:36:15",
+    "end": "00:36:23"
+  },
+  {
+    "text": "Like it's it's sort of like this meta like common knowledge if you're in the space that you you can't post more than three times a day on an account, or else you're probably going to get shadowbanned by TikTok.",
+    "start": "00:36:23",
+    "end": "00:36:37"
+  },
+  {
+    "text": "Um but the way that this guy does it is basically he just has five accounts per phone and still post three times per day.",
+    "start": "00:36:36",
+    "end": "00:36:46"
+  },
+  {
+    "text": "So, it's it ends up being 15 videos per day, but across five different accounts.",
+    "start": "00:36:46",
+    "end": "00:36:54"
+  },
+  {
+    "text": "Um but then each person who has a phone can now do it can now do 15 per day.",
+    "start": "00:36:50",
+    "end": "00:36:58"
+  },
+  {
+    "text": "So, like her uh like for for the whole operation, it's 15 times however many people he has.",
+    "start": "00:36:58",
+    "end": "00:37:09"
+  },
+  {
+    "text": "crazy scale.",
+    "start": "00:37:06",
+    "end": "00:37:09"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:37:09",
+    "end": "00:37:10"
+  },
+  {
+    "text": "So, this is the guy that um Alex tweeted about, who's like uh Alex came to the dinner as well, but they he he was saying how um he actually flew to the like this founder flew to the Philippines, gave iPhones with US SIM cards to his creators, and then uh trained them on how to warm up the accounts, you know, the posting times, make sure you don't like post 15 all on the same account.",
+    "start": "00:37:09",
+    "end": "00:37:34"
+  },
+  {
+    "text": "Make sure you like spread it out in this way.",
+    "start": "00:37:34",
+    "end": "00:37:39"
+  },
+  {
+    "text": "Right.",
+    "start": "00:37:35",
+    "end": "00:37:36"
+  },
+  {
+    "text": "So, this is just very like yeah, he he just kind of like understood all the different pieces and then just executed it like really really well.",
+    "start": "00:37:36",
+    "end": "00:37:47"
+  },
+  {
+    "text": "That's Yeah, that's crazy dedication.",
+    "start": "00:37:45",
+    "end": "00:37:49"
+  },
+  {
+    "text": "So, and just for those who don't know, like uh within Consumer Club and I think I would say that just like this part of Twitter in general, people are like sharing insights about like, you know, metas for distribution.",
+    "start": "00:37:47",
+    "end": "00:37:59"
+  },
+  {
+    "text": "And one of those things that we we mentioned earlier is like you know, there seems to be a correlation between posting a lot, you know, posting more than three or three to five times a day and then not getting any views on the subsequent videos after.",
+    "start": "00:37:59",
+    "end": "00:38:11"
+  },
+  {
+    "text": "And so, this guy really just took things into his own hands, got a bunch of phones with US SIM cards so he could ensure that he was reaching a US audience, right?",
+    "start": "00:38:11",
+    "end": "00:38:20"
+  },
+  {
+    "text": "And then basically took this upon himself to go scale the operation, which is crazy.",
+    "start": "00:38:20",
+    "end": "00:38:25"
+  },
+  {
+    "text": "Um yeah, so I I guess I would love to hear a little bit more about um some of the other interesting things that you found from um these consumer events.",
+    "start": "00:38:25",
+    "end": "00:38:33"
+  },
+  {
+    "text": "I know that you hosted uh a consumer event in LA.",
+    "start": "00:38:33",
+    "end": "00:38:36"
+  },
+  {
+    "text": "Um there's as you as you see here, the Consumer Tech Cabal.",
+    "start": "00:38:36",
+    "end": "00:38:38"
+  },
+  {
+    "text": "Um yeah, would love to hear a little bit more about um some interesting things that you've gleaned from like the founders in this um in this area.",
+    "start": "00:38:38",
+    "end": "00:38:48"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:38:45",
+    "end": "00:38:47"
+  },
+  {
+    "text": "LA was fun.",
+    "start": "00:38:47",
+    "end": "00:38:50"
+  },
+  {
+    "text": "Um Nikita Bier showed up to our LA mixer.",
+    "start": "00:38:50",
+    "end": "00:38:53"
+  },
+  {
+    "text": "We hosted at this uh mansion at the Wombo House, and it was um yeah, Nikita showed up.",
+    "start": "00:38:51",
+    "end": "00:38:58"
+  },
+  {
+    "text": "Like some of the people who are in this like sort of consumer social, but actually pretty monetized space.",
+    "start": "00:38:58",
+    "end": "00:39:05"
+  },
+  {
+    "text": "So, like the NGL founders came and yeah, it was just it was really interesting to hear from them, too, cuz they like they've been in this for a long time.",
+    "start": "00:39:05",
+    "end": "00:39:13"
+  },
+  {
+    "text": "Like they were like some of the founders were uh they did Zoom University.",
+    "start": "00:39:13",
+    "end": "00:39:17"
+  },
+  {
+    "text": "I don't know if anyone remembers like the Facebook group Zoom University like back in 2020.",
+    "start": "00:39:17",
+    "end": "00:39:24"
+  },
+  {
+    "text": "And they kind of like it I don't know how they did that, but maybe it was just keyword.",
+    "start": "00:39:22",
+    "end": "00:39:28"
+  },
+  {
+    "text": "They're like the first Facebook group to like hop onto the like Zoom University concepts, but they built a they built a a mobile app out of the concept of Zoom University and like a video I think it was like a video streaming thing.",
+    "start": "00:39:28",
+    "end": "00:39:40"
+  },
+  {
+    "text": "But then they moved on to do NGL, and then now Hunter's doing bags.",
+    "start": "00:39:40",
+    "end": "00:39:44"
+  },
+  {
+    "text": "Um but yeah, I mean these people they're also just very hacky mindset.",
+    "start": "00:39:43",
+    "end": "00:39:51"
+  },
+  {
+    "text": "Like I mean they're like some of these apps are making millions millions a year just cash flowing, but they're like yeah, they they definitely have like the distribution um mindset.",
+    "start": "00:39:51",
+    "end": "00:40:03"
+  },
+  {
+    "text": "I mean for NGL it was, you know, the the high schools like seeding high schools with the influencer accounts and stuff.",
+    "start": "00:40:03",
+    "end": "00:40:10"
+  },
+  {
+    "text": "I think it just comes down to like understanding human nature.",
+    "start": "00:40:10",
+    "end": "00:40:13"
+  },
+  {
+    "text": "Cuz I think one thing with a high school accounts is like the main psychology principle behind that was you if you're if you're a kid in high school and you get followed by a private account and it has the name of your high school plus the app name.",
+    "start": "00:40:13",
+    "end": "00:40:32"
+  },
+  {
+    "text": "Like let's say it's NGL uh whatever high school and then the logo of the account is like your high school's logo plus like the app or whatever.",
+    "start": "00:40:32",
+    "end": "00:40:42"
+  },
+  {
+    "text": "Like you're going to be pretty interested.",
+    "start": "00:40:42",
+    "end": "00:40:44"
+  },
+  {
+    "text": "It's it's almost like alumni networks, you know, like if you see someone else that went to your same college, there's just it is immediate like trust.",
+    "start": "00:40:44",
+    "end": "00:40:53"
+  },
+  {
+    "text": "Um or, you know, someone who also worked at the same company as you.",
+    "start": "00:40:53",
+    "end": "00:40:57"
+  },
+  {
+    "text": "There's just this like tribal like feeling that you get.",
+    "start": "00:40:57",
+    "end": "00:40:59"
+  },
+  {
+    "text": "So they followed mass, you know, everyone in the high school um with these accounts and then they got a lot of follow backs.",
+    "start": "00:40:59",
+    "end": "00:41:08"
+  },
+  {
+    "text": "And then the first post that they post on that account is going to have all these eyeballs of like the kids in that school.",
+    "start": "00:41:08",
+    "end": "00:41:17"
+  },
+  {
+    "text": "So, you know, gets a boost.",
+    "start": "00:41:17",
+    "end": "00:41:18"
+  },
+  {
+    "text": "So it's uh yeah, like stuff like that where they just have like this insight into if we try this, I bet this will be very powerful.",
+    "start": "00:41:18",
+    "end": "00:41:27"
+  },
+  {
+    "text": "Like Right.",
+    "start": "00:41:27",
+    "end": "00:41:28"
+  },
+  {
+    "text": "And then you're referring to like NGL, this is the same kind of like genre of like questionnaire app that like Nikita Beer obviously has like done two times over.",
+    "start": "00:41:28",
+    "end": "00:41:38"
+  },
+  {
+    "text": "Um like this distribution method where they basically like primed all these high school students, right, to get ready to like download the app and then they launched it at once.",
+    "start": "00:41:38",
+    "end": "00:41:47"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:41:47",
+    "end": "00:41:48"
+  },
+  {
+    "text": "Which is crazy.",
+    "start": "00:41:46",
+    "end": "00:41:48"
+  },
+  {
+    "text": "I mean I I guess the other thing that uh a lot of people I think would be curious to know is like um I think that there's this notion that like, oh no, are are things like is this like drop shipping?",
+    "start": "00:41:48",
+    "end": "00:42:00"
+  },
+  {
+    "text": "Like will will there be saturation?",
+    "start": "00:42:00",
+    "end": "00:42:01"
+  },
+  {
+    "text": "Like are, you know, can you try like one idea multiple times over and over?",
+    "start": "00:42:01",
+    "end": "00:42:07"
+  },
+  {
+    "text": "Um you know, I'd be curious to to hear your perspective on that just because I've seen a lot of apps that are almost identical that still fare really well and to the extent where they're even copying the others like exact distribution method and channel.",
+    "start": "00:42:07",
+    "end": "00:42:22"
+  },
+  {
+    "text": "Like almost like pixel for pixel like copied on TikTok.",
+    "start": "00:42:22",
+    "end": "00:42:24"
+  },
+  {
+    "text": "Would love to hear a little bit more about that.",
+    "start": "00:42:24",
+    "end": "00:42:28"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:42:28",
+    "end": "00:42:29"
+  },
+  {
+    "text": "Uh yeah, I think there will be copycats and that's just that's just like that's just the game.",
+    "start": "00:42:26",
+    "end": "00:42:36"
+  },
+  {
+    "text": "Like but I do think that innovation is happening so fast like AI innovation is happening so fast.",
+    "start": "00:42:33",
+    "end": "00:42:42"
+  },
+  {
+    "text": "Like a new model comes out like every month it seems like.",
+    "start": "00:42:42",
+    "end": "00:42:45"
+  },
+  {
+    "text": "And I think that'll enable like a hundred new rappers.",
+    "start": "00:42:45",
+    "end": "00:42:50"
+  },
+  {
+    "text": "Every time a new model comes out, there's going to be like a hundred new apps that just attack slightly different markets.",
+    "start": "00:42:50",
+    "end": "00:42:57"
+  },
+  {
+    "text": "There might be like you know, one you know, some of these like food scanning apps like you could probably do a verticalized um Cal AI that makes a tenth of the revenue, but that's still $2 million a month.",
+    "start": "00:42:57",
+    "end": "00:43:13"
+  },
+  {
+    "text": "I think the last time I saw they're making like well, yeah, they're they're making $2 million a month.",
+    "start": "00:43:12",
+    "end": "00:43:18"
+  },
+  {
+    "text": "So you a tenth of that was like 200k.",
+    "start": "00:43:18",
+    "end": "00:43:19"
+  },
+  {
+    "text": "What if you made Cal AI, but only for like vegans, right?",
+    "start": "00:43:19",
+    "end": "00:43:25"
+  },
+  {
+    "text": "Like it it specializes in like a a special like a certain niche.",
+    "start": "00:43:25",
+    "end": "00:43:30"
+  },
+  {
+    "text": "Um so you can you can attack different audiences or you could just be a first mover into whatever new model that comes out.",
+    "start": "00:43:30",
+    "end": "00:43:36"
+  },
+  {
+    "text": "Like Tollan is this app that launched.",
+    "start": "00:43:36",
+    "end": "00:43:39"
+  },
+  {
+    "text": "They're member of Consumer Club.",
+    "start": "00:43:39",
+    "end": "00:43:40"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:43:40",
+    "end": "00:43:41"
+  },
+  {
+    "text": "Um they launched a couple weeks ago and they hit number one or they're number two in um in the App Store and they're just this like AI companion app that talks to you.",
+    "start": "00:43:41",
+    "end": "00:43:57"
+  },
+  {
+    "text": "And it like I'm sure they have some interesting special like AI thing in the background, but from what I can see like anyone can make something like somewhat similar to this Mhm.",
+    "start": "00:43:54",
+    "end": "00:44:07"
+  },
+  {
+    "text": "Um using the new the newest voice models from Open AI or or Anthropic or Cloud or whatever like Deep Seek.",
+    "start": "00:44:07",
+    "end": "00:44:14"
+  },
+  {
+    "text": "Clearly you uh and then just reskin it.",
+    "start": "00:44:14",
+    "end": "00:44:16"
+  },
+  {
+    "text": "Like this one is like cartoons.",
+    "start": "00:44:16",
+    "end": "00:44:17"
+  },
+  {
+    "text": "Like not everyone's going to want to download this.",
+    "start": "00:44:17",
+    "end": "00:44:19"
+  },
+  {
+    "text": "They hit number one, but you know, some other people might want a completely faceless voice model app, you know, that doesn't have like a character attached or maybe like some one for an older audience.",
+    "start": "00:44:19",
+    "end": "00:44:29"
+  },
+  {
+    "text": "You know, there's there's just so many different audiences that you can tackle with each new um yeah, different audiences, different products um with each new like tech innovation.",
+    "start": "00:44:29",
+    "end": "00:44:41"
+  },
+  {
+    "text": "Totally.",
+    "start": "00:44:40",
+    "end": "00:44:40"
+  },
+  {
+    "text": "Yeah, and that's that's super interesting because it's like it kind of hearkens back to what you were describing earlier, right?",
+    "start": "00:44:40",
+    "end": "00:44:47"
+  },
+  {
+    "text": "Which is where I guess it kind of goes against conventional product building in the sense where it's like you almost start with distribution in mind, right?",
+    "start": "00:44:47",
+    "end": "00:44:56"
+  },
+  {
+    "text": "Like you start with that like viral TikTok moment or you start with like what that's going to look like and then build outward from that.",
+    "start": "00:44:56",
+    "end": "00:45:01"
+  },
+  {
+    "text": "And you know, you like you've worked in tech.",
+    "start": "00:45:01",
+    "end": "00:45:04"
+  },
+  {
+    "text": "Like you understand sort of like what the traditional like product building model is.",
+    "start": "00:45:04",
+    "end": "00:45:10"
+  },
+  {
+    "text": "And so I I'd love to hear a little bit more about like it's it's kind of crazy that you could sort of start with what is what does the TikTok video look like and then build outward from that, right?",
+    "start": "00:45:09",
+    "end": "00:45:21"
+  },
+  {
+    "text": "Like to think like say you're going to do the the vegan Cal AI and your your edge there is literally just targeting vegans, right?",
+    "start": "00:45:19",
+    "end": "00:45:28"
+  },
+  {
+    "text": "And you accept that, you know, you're not going to hit $2 million a month, but like even if you hit a tenth of that, right?",
+    "start": "00:45:28",
+    "end": "00:45:34"
+  },
+  {
+    "text": "Like that would be that would be like life changing for a lot of people.",
+    "start": "00:45:34",
+    "end": "00:45:38"
+  },
+  {
+    "text": "Um Yeah.",
+    "start": "00:45:38",
+    "end": "00:45:39"
+  },
+  {
+    "text": "So I'd be curious to hear like um you know, from the people in Consumer Club do you feel like there's been this like shift towards starting with like the content, like starting with the media, starting with the distribution and working backwards from there?",
+    "start": "00:45:39",
+    "end": "00:45:55"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:45:53",
+    "end": "00:45:54"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:45:54",
+    "end": "00:45:55"
+  },
+  {
+    "text": "I mean um yeah, I think starting with the content like I I've heard people refer to it as like start with a channel.",
+    "start": "00:45:55",
+    "end": "00:46:04"
+  },
+  {
+    "text": "So like if you think if you if you deeply study or you you at least like understand um the channel where a consumer where your target customer is.",
+    "start": "00:46:04",
+    "end": "00:46:13"
+  },
+  {
+    "text": "So let's say it's TikTok.",
+    "start": "00:46:13",
+    "end": "00:46:14"
+  },
+  {
+    "text": "Just knowing what the content is going to look like first um yeah, can definitely help cuz if you don't know what it's going to look like, then you start with a product and then you you build it and then it it comes time to market it and then you're like okay, like what content should we do?",
+    "start": "00:46:14",
+    "end": "00:46:33"
+  },
+  {
+    "text": "And then at that point it might be too late cuz like maybe there is no content that will ever resonate with the audience that you're trying to go after.",
+    "start": "00:46:31",
+    "end": "00:46:39"
+  },
+  {
+    "text": "So I think it's just it's like a way to de-risk.",
+    "start": "00:46:38",
+    "end": "00:46:43"
+  },
+  {
+    "text": "Um I think like tech building in general like I think the reason why people come at it from the opposite is because consumer tech has always been about winner take all.",
+    "start": "00:46:43",
+    "end": "00:46:52"
+  },
+  {
+    "text": "Everyone wants to be the next Facebook.",
+    "start": "00:46:52",
+    "end": "00:46:56"
+  },
+  {
+    "text": "So you just have to make a really great product.",
+    "start": "00:46:54",
+    "end": "00:46:57"
+  },
+  {
+    "text": "It doesn't have to have like it doesn't have to resonate with a very specific audience on a specific channel.",
+    "start": "00:46:57",
+    "end": "00:47:05"
+  },
+  {
+    "text": "You just have to make a good product and then seed it to, you know, in Facebook's case it was just seed it to all the colleges and then everyone else will use it.",
+    "start": "00:47:04",
+    "end": "00:47:11"
+  },
+  {
+    "text": "But with consumer products these days you don't have to beat Facebook to build you know, just build a $10 million business or a $1 million business.",
+    "start": "00:47:11",
+    "end": "00:47:22"
+  },
+  {
+    "text": "You can um you can start with distribution um attack it from almost like in a way that an e-com e-commerce founder would would do it.",
+    "start": "00:47:22",
+    "end": "00:47:34"
+  },
+  {
+    "text": "So Right.",
+    "start": "00:47:34",
+    "end": "00:47:35"
+  },
+  {
+    "text": "Um yeah, there's definitely people I mean I've talked to some recent Consumer Club members.",
+    "start": "00:47:35",
+    "end": "00:47:41"
+  },
+  {
+    "text": "Uh they're anonymous because they're like they they have VC funding and they come and talk to me and they're like I actually don't really like my company anymore cuz we're going after this like broad giant market.",
+    "start": "00:47:39",
+    "end": "00:47:55"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:47:55",
+    "end": "00:47:56"
+  },
+  {
+    "text": "And I'm seeing all these kids making $10 million uh AI rappers and I kind of would rather just like start with distribution, think of a an idea that's TikTok viral cuz they're like they're they had this big idea and now it's time to market it and they've been grinding for like a year or two or like multiple years trying to get users.",
+    "start": "00:47:56",
+    "end": "00:48:17"
+  },
+  {
+    "text": "Right.",
+    "start": "00:48:17",
+    "end": "00:48:19"
+  },
+  {
+    "text": "like they're seeing all these kids just doing like going viral on TikTok making millions like right now cash flow.",
+    "start": "00:48:17",
+    "end": "00:48:24"
+  },
+  {
+    "text": "Right.",
+    "start": "00:48:23",
+    "end": "00:48:26"
+  },
+  {
+    "text": "They're they're getting FOMO.",
+    "start": "00:48:24",
+    "end": "00:48:28"
+  },
+  {
+    "text": "So I totally it's kind of funny just seeing seeing like the shift in the way that people are thinking about building businesses.",
+    "start": "00:48:28",
+    "end": "00:48:37"
+  },
+  {
+    "text": "Absolutely.",
+    "start": "00:48:35",
+    "end": "00:48:36"
+  },
+  {
+    "text": "Yeah, that that is actually that is crazy.",
+    "start": "00:48:36",
+    "end": "00:48:38"
+  },
+  {
+    "text": "I mean again, all all due respect to to Zach and Blake for building Cal AI into the like whatever $25 million a year business it is, but I I can imagine for VC backed founders who have been grinding for years and then just being literally undercut by like you know, kids who like don't have that much experience, but obviously have like the knowledge and the executional skills.",
+    "start": "00:48:38",
+    "end": "00:48:59"
+  },
+  {
+    "text": "I can imagine that that would feel like, you know, sort of a a cut at the knees.",
+    "start": "00:48:59",
+    "end": "00:49:06"
+  },
+  {
+    "text": "Um it was so that's an interesting segue into into sort of this like I guess broader sort of like question of like saturation, right?",
+    "start": "00:49:04",
+    "end": "00:49:13"
+  },
+  {
+    "text": "Because like as more and more people learn about the success that um you know, some kids or or other people are having with sort of these like smaller businesses, like the ability to get started right away, the ability to generate like meaningful revenue, right, within 30 60 days.",
+    "start": "00:49:13",
+    "end": "00:49:28"
+  },
+  {
+    "text": "Um I think there's sort of like the obvious question of like at what point does this run out?",
+    "start": "00:49:27",
+    "end": "00:49:32"
+  },
+  {
+    "text": "And so what I'm what I really want to ask about is I think you had a tweet a few weeks ago where you said, hey, if you're an app founder and you want to know what's next for underpriced master distribution, just look at e-com.",
+    "start": "00:49:32",
+    "end": "00:49:44"
+  },
+  {
+    "text": "You said like, you know, there are basically these trends that have occurred over the past, you know, 4 years.",
+    "start": "00:49:44",
+    "end": "00:49:48"
+  },
+  {
+    "text": "And so, in 2021, you said it was influencers, right?",
+    "start": "00:49:48",
+    "end": "00:49:53"
+  },
+  {
+    "text": "In 2022, it was like TikTok mass UGC.",
+    "start": "00:49:53",
+    "end": "00:49:56"
+  },
+  {
+    "text": "This is kind of like that Oliver Broccato like tabs chocolate sort of strategy, right?",
+    "start": "00:49:56",
+    "end": "00:50:03"
+  },
+  {
+    "text": "Um in 2023, it was slides.",
+    "start": "00:50:01",
+    "end": "00:50:03"
+  },
+  {
+    "text": "And and obviously, you know, you know, a lot of these still work today.",
+    "start": "00:50:03",
+    "end": "00:50:09"
+  },
+  {
+    "text": "Um and then you have uh for 2024, HeyGen with slides behind.",
+    "start": "00:50:06",
+    "end": "00:50:11"
+  },
+  {
+    "text": "And you say flux avatars in 2025.",
+    "start": "00:50:11",
+    "end": "00:50:13"
+  },
+  {
+    "text": "So, can you expand on this uh on this tweet a little bit and and describe some of these things?",
+    "start": "00:50:13",
+    "end": "00:50:19"
+  },
+  {
+    "text": "Yeah, definitely.",
+    "start": "00:50:17",
+    "end": "00:50:19"
+  },
+  {
+    "text": "Yeah, I mean, um every time like someone sees that a format works, then a bunch of marketers come in and copy it and then it saturates.",
+    "start": "00:50:19",
+    "end": "00:50:28"
+  },
+  {
+    "text": "So, then you have to find a a new format that works better.",
+    "start": "00:50:28",
+    "end": "00:50:30"
+  },
+  {
+    "text": "So, you know, with e-com, there's this progression.",
+    "start": "00:50:30",
+    "end": "00:50:34"
+  },
+  {
+    "text": "And all of these still work.",
+    "start": "00:50:34",
+    "end": "00:50:35"
+  },
+  {
+    "text": "I mean, even within e-com, it's just like what is the what is the newest edge?",
+    "start": "00:50:35",
+    "end": "00:50:38"
+  },
+  {
+    "text": "But influencers, yeah, like I mean, even like if you talk to the biggest companies, like the most like boomer companies, they don't even know what influencer marketing is.",
+    "start": "00:50:38",
+    "end": "00:50:48"
+  },
+  {
+    "text": "They've never even heard of it.",
+    "start": "00:50:48",
+    "end": "00:50:50"
+  },
+  {
+    "text": "So, we're still like very early.",
+    "start": "00:50:50",
+    "end": "00:50:51"
+  },
+  {
+    "text": "Like I In that tweet, I said influencer was the old way.",
+    "start": "00:50:51",
+    "end": "00:50:56"
+  },
+  {
+    "text": "But like for for most people, it's still the new way.",
+    "start": "00:50:56",
+    "end": "00:50:58"
+  },
+  {
+    "text": "Like we're on the cutting cutting edge of this.",
+    "start": "00:50:58",
+    "end": "00:51:01"
+  },
+  {
+    "text": "So, like yeah, UGC mass UGC is obviously still works, slides still work.",
+    "start": "00:51:01",
+    "end": "00:51:06"
+  },
+  {
+    "text": "Um HeyGen with slides, I'm just referring to like instead of just the slides um that are like a pure carousel, it's more like um you put the AI actor.",
+    "start": "00:51:06",
+    "end": "00:51:18"
+  },
+  {
+    "text": "So, now there's like you can AI generate um these face it like faces and they're fake people and they they can speak and emote and like on screen, I can show you an example like Yeah.",
+    "start": "00:51:18",
+    "end": "00:51:32"
+  },
+  {
+    "text": "And you put the you put the slides in the background.",
+    "start": "00:51:32",
+    "end": "00:51:36"
+  },
+  {
+    "text": "So, you can put the slide the same slides that you would normally put in a carousel, you just put in the background.",
+    "start": "00:51:37",
+    "end": "00:51:43"
+  },
+  {
+    "text": "And then you put the green screen like AI actor in the foreground.",
+    "start": "00:51:43",
+    "end": "00:51:49"
+  },
+  {
+    "text": "Um and have them like you can use 11 Labs to narrate the voice.",
+    "start": "00:51:48",
+    "end": "00:51:55"
+  },
+  {
+    "text": "Right.",
+    "start": "00:51:55",
+    "end": "00:51:56"
+  },
+  {
+    "text": "HeyGen, I think does all of this for you.",
+    "start": "00:51:54",
+    "end": "00:51:59"
+  },
+  {
+    "text": "Um and yeah, this I mean, this is going crazy in the e-com.",
+    "start": "00:51:59",
+    "end": "00:52:04"
+  },
+  {
+    "text": "Wait, this is this is crazy.",
+    "start": "00:52:02",
+    "end": "00:52:06"
+  },
+  {
+    "text": "So, just this is an AI-generated person, right?",
+    "start": "00:52:06",
+    "end": "00:52:10"
+  },
+  {
+    "text": "Yeah, this is fake person.",
+    "start": "00:52:07",
+    "end": "00:52:10"
+  },
+  {
+    "text": "That's crazy.",
+    "start": "00:52:10",
+    "end": "00:52:12"
+  },
+  {
+    "text": "Like very few people, unless you're like in this space.",
+    "start": "00:52:10",
+    "end": "00:52:13"
+  },
+  {
+    "text": "Like if you're just scrolling TikTok, like you're not really going to recognize that, right?",
+    "start": "00:52:13",
+    "end": "00:52:18"
+  },
+  {
+    "text": "Like crazy crazy.",
+    "start": "00:52:18",
+    "end": "00:52:18"
+  },
+  {
+    "text": "And and really the advantage of this is that you can just scale this in like an absurd way, right?",
+    "start": "00:52:18",
+    "end": "00:52:24"
+  },
+  {
+    "text": "It's sort of like the the main advantage.",
+    "start": "00:52:23",
+    "end": "00:52:25"
+  },
+  {
+    "text": "Like instead of you having to either hire someone or talk into your phone yourself, you can generate all of this with like all these different variations for like script and that sort of thing really quickly.",
+    "start": "00:52:25",
+    "end": "00:52:39"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:52:37",
+    "end": "00:52:37"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:52:37",
+    "end": "00:52:38"
+  },
+  {
+    "text": "You can use I mean, there's so many AI tools now that are doing it.",
+    "start": "00:52:38",
+    "end": "00:52:43"
+  },
+  {
+    "text": "I mean, HeyGen is one of them.",
+    "start": "00:52:41",
+    "end": "00:52:44"
+  },
+  {
+    "text": "Arc Ads like there's a if you just Google search like AI avatar or AI UGC actor, um it's basically like the UGC actor uh format, but then you just use AI to like make it faster and cheaper.",
+    "start": "00:52:44",
+    "end": "00:53:04"
+  },
+  {
+    "text": "Mhm.",
+    "start": "00:53:04",
+    "end": "00:53:05"
+  },
+  {
+    "text": "Um so, yeah.",
+    "start": "00:53:05",
+    "end": "00:53:04"
+  },
+  {
+    "text": "And like people like I hear two complaints about this.",
+    "start": "00:53:04",
+    "end": "00:53:09"
+  },
+  {
+    "text": "The what's one complaint is like, oh, this is uh this looks like how like this like if you listen to the voice, like you can tell it's not a real person.",
+    "start": "00:53:09",
+    "end": "00:53:20"
+  },
+  {
+    "text": "Like uh like people are not that dumb.",
+    "start": "00:53:20",
+    "end": "00:53:28"
+  },
+  {
+    "text": "But like you just look at the comments and like there's a call to action.",
+    "start": "00:53:28",
+    "end": "00:53:31"
+  },
+  {
+    "text": "It's like, oh, comment this word.",
+    "start": "00:53:31",
+    "end": "00:53:33"
+  },
+  {
+    "text": "People are literally just commenting the word.",
+    "start": "00:53:33",
+    "end": "00:53:36"
+  },
+  {
+    "text": "Like they're they're treating this as a as a normal person.",
+    "start": "00:53:36",
+    "end": "00:53:39"
+  },
+  {
+    "text": "There's one comment here that says, this is AI crying emoji.",
+    "start": "00:53:39",
+    "end": "00:53:45"
+  },
+  {
+    "text": "The next one is like, OMG, bro, it took me a sec to notice.",
+    "start": "00:53:43",
+    "end": "00:53:47"
+  },
+  {
+    "text": "Like Like so, like the average person, I think just can't tell anymore.",
+    "start": "00:53:47",
+    "end": "00:53:53"
+  },
+  {
+    "text": "I think it's like And there there's some ethical concerns with this as well.",
+    "start": "00:53:53",
+    "end": "00:53:57"
+  },
+  {
+    "text": "Like I'm not going to go into that, but you can uh use your own judgment for what like how you want to do this, but um yeah, they're Yeah, I don't know if you had more to say there, but I wanted to show you another another format as well.",
+    "start": "00:53:57",
+    "end": "00:54:10"
+  },
+  {
+    "text": "Yeah, absolutely.",
+    "start": "00:54:10",
+    "end": "00:54:10"
+  },
+  {
+    "text": "No, that's that's really sick.",
+    "start": "00:54:10",
+    "end": "00:54:11"
+  },
+  {
+    "text": "I would love would love to see the other format.",
+    "start": "00:54:11",
+    "end": "00:54:18"
+  },
+  {
+    "text": "Yeah, um so, there's also this other format.",
+    "start": "00:54:13",
+    "end": "00:54:21"
+  },
+  {
+    "text": "Um I I call it like faceless storytelling.",
+    "start": "00:54:20",
+    "end": "00:54:26"
+  },
+  {
+    "text": "So, instead of doing the AI-generated face, you just ignore the face completely and then you just use B-roll.",
+    "start": "00:54:24",
+    "end": "00:54:35"
+  },
+  {
+    "text": "So, you you just do AI voice instead of face.",
+    "start": "00:54:39",
+    "end": "00:54:42"
+  },
+  {
+    "text": "So, eventually, I could see a world where faces become not trustworthy, less trustworthy than voices in a way.",
+    "start": "00:54:42",
+    "end": "00:54:52"
+  },
+  {
+    "text": "Like right now, like AI uh you know, avatars are trustworthy because it's like, oh, it's a human saying this.",
+    "start": "00:54:52",
+    "end": "00:54:58"
+  },
+  {
+    "text": "But then eventually, once people catch on that oh, anyone can just fake a face, then eventually, we might go back to the voice where voices are more trusted than faces.",
+    "start": "00:54:58",
+    "end": "00:55:10"
+  },
+  {
+    "text": "So, this this video is telling story about Erewhon's smoothies.",
+    "start": "00:55:10",
+    "end": "00:55:15"
+  },
+  {
+    "text": "And they're just using um B-roll of Erewhon smoothies um and the health benefits and stuff.",
+    "start": "00:55:15",
+    "end": "00:55:23"
+  },
+  {
+    "text": "Um and there's there's just an AI voice.",
+    "start": "00:55:23",
+    "end": "00:55:27"
+  },
+  {
+    "text": "But the AI voice sounds really good.",
+    "start": "00:55:24",
+    "end": "00:55:27"
+  },
+  {
+    "text": "And then at the at the end, they promote this adaptogenic mushroom like supplement thing.",
+    "start": "00:55:29",
+    "end": "00:55:42"
+  },
+  {
+    "text": "Um so, Right.",
+    "start": "00:55:42",
+    "end": "00:55:42"
+  },
+  {
+    "text": "this is another format of like using AI to mass-produce content.",
+    "start": "00:55:42",
+    "end": "00:55:47"
+  },
+  {
+    "text": "Yeah, that's crazy.",
+    "start": "00:55:47",
+    "end": "00:55:47"
+  },
+  {
+    "text": "And I feel like a theme that we're like seeing with all of these is like there is some kind of trend and then there's like saturation cuz people copy that.",
+    "start": "00:55:47",
+    "end": "00:55:55"
+  },
+  {
+    "text": "And then there's there's almost like an inversion of that, right?",
+    "start": "00:55:55",
+    "end": "00:56:00"
+  },
+  {
+    "text": "As like a way to get like back on the trend, right?",
+    "start": "00:56:00",
+    "end": "00:56:02"
+  },
+  {
+    "text": "Like so, for for instance, in this case, like all this is like very very bleeding edge, but just as an example, like that that what you just referenced, right?",
+    "start": "00:56:02",
+    "end": "00:56:10"
+  },
+  {
+    "text": "Like faces becoming untrustworthy, so then you're going back to voices, right?",
+    "start": "00:56:10",
+    "end": "00:56:13"
+  },
+  {
+    "text": "And it's like then the inversion on that would probably be using a face again in like sometimes.",
+    "start": "00:56:13",
+    "end": "00:56:19"
+  },
+  {
+    "text": "So, it's just it's interesting because I guess what what I've noticed and I'd be curious if this is your perspective, too, is like it literally is a playground.",
+    "start": "00:56:17",
+    "end": "00:56:26"
+  },
+  {
+    "text": "Like there are some things that are are like slightly evergreen if you know how to like harness like the current zeitgeist of things, you know, like slides will probably be be around forever, right?",
+    "start": "00:56:26",
+    "end": "00:56:37"
+  },
+  {
+    "text": "It's just like how can you tweak it just like a little bit to like maintain that attention.",
+    "start": "00:56:37",
+    "end": "00:56:42"
+  },
+  {
+    "text": "Um so, it's really funny because I I feel like a lot of people, at least from Superwall's perspective, you know, they'll be like, hey, like what are some things that you're seeing with like successful companies when it comes to like marketing and that sort of thing.",
+    "start": "00:56:41",
+    "end": "00:56:52"
+  },
+  {
+    "text": "And I I feel like I feel like there's no right answer.",
+    "start": "00:56:52",
+    "end": "00:56:56"
+  },
+  {
+    "text": "Like it is literally a playground.",
+    "start": "00:56:56",
+    "end": "00:56:57"
+  },
+  {
+    "text": "Like it's it's just it's up to whomever to like go experiment, right?",
+    "start": "00:56:57",
+    "end": "00:57:00"
+  },
+  {
+    "text": "And there's like no right like one way to skin the proverbial cat.",
+    "start": "00:57:00",
+    "end": "00:57:07"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:57:04",
+    "end": "00:57:04"
+  },
+  {
+    "text": "No, I I completely agree.",
+    "start": "00:57:04",
+    "end": "00:57:08"
+  },
+  {
+    "text": "I think one thing that people get scared of when I talk about or when like TikTok is brought up is like, oh, I don't want to be a part of this like inauthenticity where you're just like spamming content.",
+    "start": "00:57:08",
+    "end": "00:57:21"
+  },
+  {
+    "text": "But like you said, there's the inversion that happens.",
+    "start": "00:57:21",
+    "end": "00:57:25"
+  },
+  {
+    "text": "And like if you you can follow the trend, yeah, but then you can also pave your own trends, too.",
+    "start": "00:57:25",
+    "end": "00:57:29"
+  },
+  {
+    "text": "Like um you know, once people get sick of one format, there's there's a market for for authenticity.",
+    "start": "00:57:29",
+    "end": "00:57:37"
+  },
+  {
+    "text": "Like people do want authentic content, whatever form that comes in, whether it's like voices instead of faces.",
+    "start": "00:57:37",
+    "end": "00:57:45"
+  },
+  {
+    "text": "Or I mean, one this is a YouTube example, but I like to think about Sam Sulek.",
+    "start": "00:57:45",
+    "end": "00:57:50"
+  },
+  {
+    "text": "So, there's this like Yeah.",
+    "start": "00:57:50",
+    "end": "00:57:51"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:57:51",
+    "end": "00:57:52"
+  },
+  {
+    "text": "bodybuilder guy.",
+    "start": "00:57:52",
+    "end": "00:57:54"
+  },
+  {
+    "text": "Like if you think about like Mr.",
+    "start": "00:57:54",
+    "end": "00:57:55"
+  },
+  {
+    "text": "Beast, it's like, oh, this is the current meta of YouTube.",
+    "start": "00:57:55",
+    "end": "00:57:56"
+  },
+  {
+    "text": "You know, like crazy thumbnail, crazy title, like crazy faces in the in the thumbnails, like spending tons of money on all the videos.",
+    "start": "00:57:56",
+    "end": "00:58:07"
+  },
+  {
+    "text": "And then you have like Sam Sulek and he's just this like bodybuilder guy.",
+    "start": "00:58:05",
+    "end": "00:58:11"
+  },
+  {
+    "text": "I mean, he's he he's an impressive bodybuilder, but his videos are like 40, 50 minutes long.",
+    "start": "00:58:11",
+    "end": "00:58:18"
+  },
+  {
+    "text": "And then there's just these really long take cuts.",
+    "start": "00:58:16",
+    "end": "00:58:20"
+  },
+  {
+    "text": "They're just like talking really slowly to the camera.",
+    "start": "00:58:20",
+    "end": "00:58:25"
+  },
+  {
+    "text": "Right.",
+    "start": "00:58:25",
+    "end": "00:58:27"
+  },
+  {
+    "text": "And then him just doing exercises, like kind of narrating it.",
+    "start": "00:58:24",
+    "end": "00:58:30"
+  },
+  {
+    "text": "He has a mic.",
+    "start": "00:58:30",
+    "end": "00:58:32"
+  },
+  {
+    "text": "He just has this like calming voice.",
+    "start": "00:58:32",
+    "end": "00:58:33"
+  },
+  {
+    "text": "And it's like 50 minutes long.",
+    "start": "00:58:33",
+    "end": "00:58:35"
+  },
+  {
+    "text": "And like I don't know who watches this, but it Minimal, stripped back like antithetical like very big contrast to like what Mr.",
+    "start": "00:58:35",
+    "end": "00:58:44"
+  },
+  {
+    "text": "Beast is, right?",
+    "start": "00:58:44",
+    "end": "00:58:43"
+  },
+  {
+    "text": "It's just like you're you're literally watching a guy in the gym, right?",
+    "start": "00:58:43",
+    "end": "00:58:47"
+  },
+  {
+    "text": "Like Yeah.",
+    "start": "00:58:47",
+    "end": "00:58:49"
+  },
+  {
+    "text": "I think that's a great example of inversion.",
+    "start": "00:58:49",
+    "end": "00:58:52"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:58:52",
+    "end": "00:58:52"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:58:52",
+    "end": "00:58:54"
+  },
+  {
+    "text": "He's just blowing up on the YouTube algo.",
+    "start": "00:58:52",
+    "end": "00:58:54"
+  },
+  {
+    "text": "I mean, the same with me, right?",
+    "start": "00:58:54",
+    "end": "00:58:58"
+  },
+  {
+    "text": "I I posted a TikTok on a brand new account and I got 50,000 views on the first on the first video.",
+    "start": "00:58:58",
+    "end": "00:59:03"
+  },
+  {
+    "text": "And I'm like I'm kind of like Sam Sulek a little bit.",
+    "start": "00:59:03",
+    "end": "00:59:06"
+  },
+  {
+    "text": "Like I I talk a little bit slowly.",
+    "start": "00:59:06",
+    "end": "00:59:07"
+  },
+  {
+    "text": "I have sort of like a monotone voice.",
+    "start": "00:59:07",
+    "end": "00:59:09"
+  },
+  {
+    "text": "But like I can still get views um just by like I I just literally I I did not retention edit the video at all.",
+    "start": "00:59:09",
+    "end": "00:59:18"
+  },
+  {
+    "text": "Like it was a 3-minute long video.",
+    "start": "00:59:18",
+    "end": "00:59:19"
+  },
+  {
+    "text": "I was just rambling like kind of slowly.",
+    "start": "00:59:19",
+    "end": "00:59:22"
+  },
+  {
+    "text": "But I had a decent hook.",
+    "start": "00:59:22",
+    "end": "00:59:22"
+  },
+  {
+    "text": "And like it got the views.",
+    "start": "00:59:22",
+    "end": "00:59:25"
+  },
+  {
+    "text": "So, I think like as long as you know kind of the fundamentals of like here's a piece of content that you kind of think people will be interested in.",
+    "start": "00:59:25",
+    "end": "00:59:35"
+  },
+  {
+    "text": "Um and then you just be yourself.",
+    "start": "00:59:33",
+    "end": "00:59:36"
+  },
+  {
+    "text": "Like you can still you can still do well.",
+    "start": "00:59:36",
+    "end": "00:59:39"
+  },
+  {
+    "text": "I'll go.",
+    "start": "00:59:37",
+    "end": "00:59:38"
+  },
+  {
+    "text": "Totally.",
+    "start": "00:59:38",
+    "end": "00:59:39"
+  },
+  {
+    "text": "I think that I think that's such a great like illumination of or or maybe like rebuttal of like I don't want to do like inauthentic spamming like it there are so many different ways that like work for anyone, right?",
+    "start": "00:59:39",
+    "end": "00:59:51"
+  },
+  {
+    "text": "It's just a matter of like getting out there and like trying it yourself.",
+    "start": "00:59:51",
+    "end": "00:59:54"
+  },
+  {
+    "text": "Like I think that that's the other really interesting thing is I don't know this might sound like ridiculous and it is, but like so few people have literally just like picked up TikTok and like talked into their phone, you know?",
+    "start": "00:59:54",
+    "end": "01:00:07"
+  },
+  {
+    "text": "Like like very few people have done that and I feel like they've got caught up in the weeds of like what's like the best thing to do and it's like you can you can actually just generate like hundreds of thousands of views just by just by picking up your phone, which is kind of kind of crazy.",
+    "start": "01:00:07",
+    "end": "01:00:20"
+  },
+  {
+    "text": "Maybe maybe a uh an uncomfortable truth, but a truth nonetheless.",
+    "start": "01:00:19",
+    "end": "01:00:24"
+  },
+  {
+    "text": "Yeah.",
+    "start": "01:00:24",
+    "end": "01:00:25"
+  },
+  {
+    "text": "Yeah, that's the easiest way.",
+    "start": "01:00:25",
+    "end": "01:00:26"
+  },
+  {
+    "text": "You just pick up the phone, start start yapping.",
+    "start": "01:00:26",
+    "end": "01:00:29"
+  },
+  {
+    "text": "Just the practice of like of speaking into the phone, you'll immediately start to modify it.",
+    "start": "01:00:29",
+    "end": "01:00:37"
+  },
+  {
+    "text": "Like that video that I mentioned that got 50,000 views, it was 2 minutes long, but that video actually took me an hour to to finish.",
+    "start": "01:00:37",
+    "end": "01:00:45"
+  },
+  {
+    "text": "Not because I was like hyper editing anything, but because I would talk and then I'd be like, \"Oh, wait.",
+    "start": "01:00:45",
+    "end": "01:00:52"
+  },
+  {
+    "text": "That's not good that's not interesting.",
+    "start": "01:00:51",
+    "end": "01:00:54"
+  },
+  {
+    "text": "Like let me change the way I said that.",
+    "start": "01:00:52",
+    "end": "01:00:56"
+  },
+  {
+    "text": "\" And then I I kept doing I did that like 20 times for like the same like a few second clip.",
+    "start": "01:00:56",
+    "end": "01:01:03"
+  },
+  {
+    "text": "Um just just just like recording yourself with your phone, it kind of like changes the way that you think about marketing cuz you imagine like someone else watching it.",
+    "start": "01:01:03",
+    "end": "01:01:13"
+  },
+  {
+    "text": "Um and it becomes a little bit more real.",
+    "start": "01:01:11",
+    "end": "01:01:16"
+  },
+  {
+    "text": "Totally.",
+    "start": "01:01:14",
+    "end": "01:01:15"
+  },
+  {
+    "text": "Totally.",
+    "start": "01:01:15",
+    "end": "01:01:16"
+  },
+  {
+    "text": "No, it it is.",
+    "start": "01:01:16",
+    "end": "01:01:19"
+  },
+  {
+    "text": "It's like it it's like a mask is like put on or something, right?",
+    "start": "01:01:19",
+    "end": "01:01:21"
+  },
+  {
+    "text": "It's like the stage stage presence you uh really comes out.",
+    "start": "01:01:21",
+    "end": "01:01:24"
+  },
+  {
+    "text": "Yeah, it's just funny.",
+    "start": "01:01:24",
+    "end": "01:01:27"
+  },
+  {
+    "text": "Okay, so I want to I want to take a step back and I want to go go back to something that you mentioned earlier which is like you know some VC-backed founders have like seen the success that some of these like bootstrapped founders have with some of these like basically just like smaller scale businesses.",
+    "start": "01:01:25",
+    "end": "01:01:44"
+  },
+  {
+    "text": "Um I guess I'd just be curious to see like from like a future outlook, you know, from from your perspective like where do you see like the next big wave of like consumer app success coming from?",
+    "start": "01:01:42",
+    "end": "01:01:53"
+  },
+  {
+    "text": "Like do you do you feel like it's going to be more driven by like the more scrappy kind of like younger like e-com style like growth hackers or you know, kids or do you feel like do you feel like it's going to come you know, I guess do you feel like the venture-backed players are going to be able to like harness those growth strategies and like use their capital advantage to to really surpass?",
+    "start": "01:01:53",
+    "end": "01:02:18"
+  },
+  {
+    "text": "Yeah.",
+    "start": "01:02:17",
+    "end": "01:02:19"
+  },
+  {
+    "text": "Yeah, I I want to give like somewhat of a balanced take here.",
+    "start": "01:02:18",
+    "end": "01:02:23"
+  },
+  {
+    "text": "Like I don't think like everyone loves to on VC founders because it's easy.",
+    "start": "01:02:23",
+    "end": "01:02:28"
+  },
+  {
+    "text": "Like they have money, so it's like fun to make fun of them.",
+    "start": "01:02:28",
+    "end": "01:02:32"
+  },
+  {
+    "text": "But it's like like the capital advantage, yes, but a lot of times the VC founders have a lot of experience and network as well.",
+    "start": "01:02:32",
+    "end": "01:02:41"
+  },
+  {
+    "text": "So they know kind of the game of business and they can use the capital to hire the best experts because they know how to identify the experts.",
+    "start": "01:02:41",
+    "end": "01:02:48"
+  },
+  {
+    "text": "So these kids that are making a million dollars a year um well, I don't know.",
+    "start": "01:02:48",
+    "end": "01:02:53"
+  },
+  {
+    "text": "Let's say they're making $100,000 a year, but they're actually the best like TikTok growth hackers.",
+    "start": "01:02:53",
+    "end": "01:03:00"
+  },
+  {
+    "text": "They just don't know how to build technology or like they don't have the experience to build like a lasting business.",
+    "start": "01:03:00",
+    "end": "01:03:06"
+  },
+  {
+    "text": "That TikToker would get a lot of value from being employed by the VC-backed founder that has a ton of experience in the space because maybe that kid wants to become you know, an app founder someday.",
+    "start": "01:03:06",
+    "end": "01:03:21"
+  },
+  {
+    "text": "So I think that the VC founders that actually are thoughtful about leveraging the current distribution channels like they they will win just as much as the as the scrappy kids and probably more because they have the capital and they have the experience.",
+    "start": "01:03:21",
+    "end": "01:03:41"
+  },
+  {
+    "text": "If you get funded off of pure narrative and you have no like actual experience or no like interest in following the current trends and like you know, really understanding marketing as it is today, then yeah, I don't think they're going to make it.",
+    "start": "01:03:39",
+    "end": "01:03:55"
+  },
+  {
+    "text": "Right.",
+    "start": "01:03:54",
+    "end": "01:03:56"
+  },
+  {
+    "text": "And it's probably better to just be a scrappy kid like who actually knows the market.",
+    "start": "01:03:55",
+    "end": "01:04:03"
+  },
+  {
+    "text": "But yeah, the top the top founders that really know what they're doing and they have the money to invest, then yeah, I think they're those are the ones who will win the biggest, I think.",
+    "start": "01:04:00",
+    "end": "01:04:13"
+  },
+  {
+    "text": "Got it.",
+    "start": "01:04:11",
+    "end": "01:04:12"
+  },
+  {
+    "text": "Okay, that's that's super helpful.",
+    "start": "01:04:12",
+    "end": "01:04:14"
+  },
+  {
+    "text": "It's interesting because I think it kind of reminds me of like I remember we were I I was introduced to this founder whose business was oriented it was sort of a similar model where they're basically they're empowering people who are able to like command attention.",
+    "start": "01:04:14",
+    "end": "01:04:29"
+  },
+  {
+    "text": "So they're going to people who are like really great fitness coaches or you know, like online fitness coaches.",
+    "start": "01:04:29",
+    "end": "01:04:35"
+  },
+  {
+    "text": "Like I think right now there's like that really big meme of like what's the dude's name?",
+    "start": "01:04:35",
+    "end": "01:04:39"
+  },
+  {
+    "text": "Ashton Hall who's like you know, has the the Saratoga like water.",
+    "start": "01:04:39",
+    "end": "01:04:44"
+  },
+  {
+    "text": "He's like dumping his face in the bowl.",
+    "start": "01:04:44",
+    "end": "01:04:45"
+  },
+  {
+    "text": "He's like rubbing the banana peel on his face.",
+    "start": "01:04:45",
+    "end": "01:04:48"
+  },
+  {
+    "text": "So anyway, their business was like basically going to these people who are able to like command you know, massive amounts of of attention and building an app for them.",
+    "start": "01:04:48",
+    "end": "01:04:57"
+  },
+  {
+    "text": "And you mentioned this you know, really early on at the beginning of this of this podcast, but it's like it it's a really interesting like apps are a very interesting revenue channel because unlike like a physical good like e-com, right?",
+    "start": "01:04:57",
+    "end": "01:05:09"
+  },
+  {
+    "text": "The margins are much higher.",
+    "start": "01:05:09",
+    "end": "01:05:10"
+  },
+  {
+    "text": "Like the distribution is far easier because you don't have to deal with like shipping logistics.",
+    "start": "01:05:10",
+    "end": "01:05:18"
+  },
+  {
+    "text": "And you also can harness like recurring revenue that you might not otherwise get if you just sold someone like a PDF on Gumroad, right?",
+    "start": "01:05:18",
+    "end": "01:05:27"
+  },
+  {
+    "text": "So I'd be curious to know if if you've seen you know, anyone sort of like trying to contact you or come into this space who's like, \"Hey, I don't really know much about this business, but like you know, I have this really big audience or I have the ability to you know, market this this sort of app to to the people who follow me.",
+    "start": "01:05:25",
+    "end": "01:05:44"
+  },
+  {
+    "text": "\" Have you seen anything like that?",
+    "start": "01:05:44",
+    "end": "01:05:46"
+  },
+  {
+    "text": "Yeah.",
+    "start": "01:05:46",
+    "end": "01:05:47"
+  },
+  {
+    "text": "I mean this happens several times a week.",
+    "start": "01:05:47",
+    "end": "01:05:50"
+  },
+  {
+    "text": "There's this this guy who just joined Consumer Club.",
+    "start": "01:05:48",
+    "end": "01:05:53"
+  },
+  {
+    "text": "He's a Well, I'll just I'll just screen share so that we can help this guy find a co-founder, but Nice.",
+    "start": "01:05:53",
+    "end": "01:06:01"
+  },
+  {
+    "text": "Let me screen share.",
+    "start": "01:05:59",
+    "end": "01:06:02"
+  },
+  {
+    "text": "He's so he's a poker influencer.",
+    "start": "01:06:02",
+    "end": "01:06:04"
+  },
+  {
+    "text": "Mhm.",
+    "start": "01:06:04",
+    "end": "01:06:05"
+  },
+  {
+    "text": "And he went viral on Reels this past year.",
+    "start": "01:06:04",
+    "end": "01:06:12"
+  },
+  {
+    "text": "Uh did really well.",
+    "start": "01:06:10",
+    "end": "01:06:13"
+  },
+  {
+    "text": "Slick Rick Poker.",
+    "start": "01:06:13",
+    "end": "01:06:15"
+  },
+  {
+    "text": "And his Reels get a lot of views.",
+    "start": "01:06:12",
+    "end": "01:06:17"
+  },
+  {
+    "text": "And they're pretty simple.",
+    "start": "01:06:15",
+    "end": "01:06:19"
+  },
+  {
+    "text": "They just do like have relatable captions about poker and he's a he's a pro.",
+    "start": "01:06:19",
+    "end": "01:06:24"
+  },
+  {
+    "text": "Like he he plays in tournaments and stuff, but then he he's relatable at the same time and he's young.",
+    "start": "01:06:24",
+    "end": "01:06:31"
+  },
+  {
+    "text": "He's also an MBA student.",
+    "start": "01:06:28",
+    "end": "01:06:33"
+  },
+  {
+    "text": "Um so he's actually like you know, he's business-minded as well, but he just doesn't have a ton of experience in apps.",
+    "start": "01:06:31",
+    "end": "01:06:37"
+  },
+  {
+    "text": "So he joined Consumer Club cuz he's like, \"Hey, I have this audience.",
+    "start": "01:06:37",
+    "end": "01:06:43"
+  },
+  {
+    "text": "I'm looking for like someone to you know, with a product and technical experience like build an app.",
+    "start": "01:06:41",
+    "end": "01:06:48"
+  },
+  {
+    "text": "\" He's going to build a a poker app.",
+    "start": "01:06:48",
+    "end": "01:06:50"
+  },
+  {
+    "text": "So That's so sick.",
+    "start": "01:06:50",
+    "end": "01:06:50"
+  },
+  {
+    "text": "I think this is that's such a good example.",
+    "start": "01:06:50",
+    "end": "01:06:52"
+  },
+  {
+    "text": "And you're saying like it's not just him, right?",
+    "start": "01:06:52",
+    "end": "01:06:56"
+  },
+  {
+    "text": "There are multiple people who are coming to you Yeah.",
+    "start": "01:06:56",
+    "end": "01:06:57"
+  },
+  {
+    "text": "Yeah, I mean like I'm advising uh I don't know if you know like Alex Lieberman Yeah, Morning Brew.",
+    "start": "01:06:57",
+    "end": "01:07:06"
+  },
+  {
+    "text": "But yeah, he founded Morning Brew newsletter business, but he has all these other like agency businesses as well and now he's looking to start an app too.",
+    "start": "01:07:06",
+    "end": "01:07:14"
+  },
+  {
+    "text": "So he's going to I connected him with someone in Consumer Club.",
+    "start": "01:07:14",
+    "end": "01:07:21"
+  },
+  {
+    "text": "They're co-founding.",
+    "start": "01:07:18",
+    "end": "01:07:20"
+  },
+  {
+    "text": "I'm advising.",
+    "start": "01:07:20",
+    "end": "01:07:21"
+  },
+  {
+    "text": "And um they're they're doing an app.",
+    "start": "01:07:21",
+    "end": "01:07:26"
+  },
+  {
+    "text": "I don't know how much is public, so I won't leak it, but yeah, but they're like Alex, you know, doesn't build apps, but he has the audience and he has a lot of connections to other influencers in his niche, which is like you know, the young business you know, professional or entrepreneur.",
+    "start": "01:07:25",
+    "end": "01:07:43"
+  },
+  {
+    "text": "So All right.",
+    "start": "01:07:43",
+    "end": "01:07:45"
+  },
+  {
+    "text": "Yeah, people all sorts all sorts of backgrounds.",
+    "start": "01:07:43",
+    "end": "01:07:48"
+  },
+  {
+    "text": "Right, that's super sick.",
+    "start": "01:07:46",
+    "end": "01:07:48"
+  },
+  {
+    "text": "I love that a lot.",
+    "start": "01:07:48",
+    "end": "01:07:48"
+  },
+  {
+    "text": "Yeah, I feel like I feel like that's that's something that that we will start to see more and more, right?",
+    "start": "01:07:48",
+    "end": "01:07:54"
+  },
+  {
+    "text": "It's like apps as like a revenue channel for people who have audiences.",
+    "start": "01:07:53",
+    "end": "01:07:59"
+  },
+  {
+    "text": "And then the the last thing that I really wanted to touch on is like kind of you know, it all hearkens back to like building starting with that like TikTok moment.",
+    "start": "01:07:58",
+    "end": "01:08:07"
+  },
+  {
+    "text": "I've seen the some people talk about this on Twitter, some people talk about it in Consumer Club where they can see a world where like apps are content.",
+    "start": "01:08:07",
+    "end": "01:08:15"
+  },
+  {
+    "text": "Like like like the content is apps and I think like a really good example of this again building from a lot of what we've talked about previously is Oasis.",
+    "start": "01:08:15",
+    "end": "01:08:24"
+  },
+  {
+    "text": "Oasis I think it was an initially Oasis water app and now it's Oasis health app.",
+    "start": "01:08:24",
+    "end": "01:08:29"
+  },
+  {
+    "text": "And Cormac who's one of the Consumer Club founders, I think has like done this exceptionally well where he's all of the content for this is basically just like him green screening himself like talking head style over uh a background of of Oasis app.",
+    "start": "01:08:29",
+    "end": "01:08:46"
+  },
+  {
+    "text": "And I think he did really well because he's like talking about I think the app initially started out as just water.",
+    "start": "01:08:46",
+    "end": "01:08:51"
+  },
+  {
+    "text": "Like it would rank water quality for different kinds of like water brands.",
+    "start": "01:08:50",
+    "end": "01:08:56"
+  },
+  {
+    "text": "And now he's expanded out into like air quality and even even like protein bars is his next segment.",
+    "start": "01:08:56",
+    "end": "01:09:03"
+  },
+  {
+    "text": "So I think it's it's easy to see sort of like the expansion of this, right?",
+    "start": "01:09:03",
+    "end": "01:09:07"
+  },
+  {
+    "text": "Where you started out with the niche in water, you established some form of like domain authority, you have eyeballs, you have views.",
+    "start": "01:09:07",
+    "end": "01:09:12"
+  },
+  {
+    "text": "And then you know, you expand out from there.",
+    "start": "01:09:12",
+    "end": "01:09:14"
+  },
+  {
+    "text": "And as far as I'm aware, I think it's just like a one-person business.",
+    "start": "01:09:14",
+    "end": "01:09:17"
+  },
+  {
+    "text": "Like I don't I don't know you know, what his operations look like, but I'd be curious to sort of I guess learn a little bit more about your perspective when it comes to the idea of like content as apps um in that space in general.",
+    "start": "01:09:17",
+    "end": "01:09:32"
+  },
+  {
+    "text": "Yeah.",
+    "start": "01:09:29",
+    "end": "01:09:30"
+  },
+  {
+    "text": "No, yeah.",
+    "start": "01:09:30",
+    "end": "01:09:32"
+  },
+  {
+    "text": "I mean that makes a lot of sense.",
+    "start": "01:09:32",
+    "end": "01:09:35"
+  },
+  {
+    "text": "I mean, I I did it, too, in a way with Consumer Club.",
+    "start": "01:09:35",
+    "end": "01:09:37"
+  },
+  {
+    "text": "Like, I just started Consumer Club started it was just it was a group chat of the most interesting app founders I knew at the time and they were doing really crazy growth hacks and we did they were just talking about it in the group chat and then I started tweeting about it and I wasn't building an app I mean, I was building apps myself by I wasn't a successful app founder.",
+    "start": "01:09:37",
+    "end": "01:09:57"
+  },
+  {
+    "text": "I just started tweeting about the growth hacks and I think my skill is just like articulating uh concepts in a way that people understand um and also just scavenging.",
+    "start": "01:09:57",
+    "end": "01:10:09"
+  },
+  {
+    "text": "Like, I'm a I'm a obsessive researcher and I talk to like dozens of people a week just cuz I'm interested in the space.",
+    "start": "01:10:09",
+    "end": "01:10:15"
+  },
+  {
+    "text": "Um I just started talking about the concepts in public and then people were like, \"Oh, how do I meet other people?",
+    "start": "01:10:14",
+    "end": "01:10:21"
+  },
+  {
+    "text": "\" And then I so I built the community and then you know, now people can have a place where they want to meet other people who are doing these tactics.",
+    "start": "01:10:21",
+    "end": "01:10:28"
+  },
+  {
+    "text": "Um so, yeah, it's just starts with like getting attention first and then yeah, a lot of times you can like build build later.",
+    "start": "01:10:26",
+    "end": "01:10:36"
+  },
+  {
+    "text": "I had the I had this idea for um uh drinks, too.",
+    "start": "01:10:36",
+    "end": "01:10:41"
+  },
+  {
+    "text": "Like, like CPG space.",
+    "start": "01:10:41",
+    "end": "01:10:44"
+  },
+  {
+    "text": "Like, I'm I'm really into um energy drinks these days, but I feel like a lot of energy drinks are like kind of cringe or that they're at least like tongue-in-cheek cringe.",
+    "start": "01:10:44",
+    "end": "01:10:53"
+  },
+  {
+    "text": "It's like, \"Haha, I'm drinking Red But, there aren't like brands that are like oh, like I'm actually proud to be drinking this energy drink.",
+    "start": "01:10:53",
+    "end": "01:11:01"
+  },
+  {
+    "text": "Like, it's like it's cool.",
+    "start": "01:11:01",
+    "end": "01:11:02"
+  },
+  {
+    "text": "So, I'm trying to like do some research on that and I had this idea in my head like, \"Oh, what if I made what if I started making threads on like ranking the best energy drinks and like rating them?",
+    "start": "01:11:02",
+    "end": "01:11:12"
+  },
+  {
+    "text": "Like, hey, I tried 50 of the newest energy drinks so that you don't have to.",
+    "start": "01:11:12",
+    "end": "01:11:16"
+  },
+  {
+    "text": "Here's my take on all of them.",
+    "start": "01:11:16",
+    "end": "01:11:18"
+  },
+  {
+    "text": "\" Like, that could that could easily become a an energy drink business if I, you know, wanted to get into that business, but Right.",
+    "start": "01:11:18",
+    "end": "01:11:24"
+  },
+  {
+    "text": "Yeah, just like thinking about the content first and building an audience of people that really I mean, that's that's the other reason why I got into this space is like I had a little bit of experience in the newsletter space.",
+    "start": "01:11:24",
+    "end": "01:11:36"
+  },
+  {
+    "text": "So, I would like write viral LinkedIn posts saying like, \"Here's how you get this this type of job.",
+    "start": "01:11:36",
+    "end": "01:11:44"
+  },
+  {
+    "text": "If you want to work in tech, but you're non-technical, here is the types of jobs like product marketing and product product management and sales.",
+    "start": "01:11:43",
+    "end": "01:11:53"
+  },
+  {
+    "text": "Like, here's these types of jobs.",
+    "start": "01:11:53",
+    "end": "01:11:54"
+  },
+  {
+    "text": "\" And then um and then I built a newsletter around it cuz people wanted to keep getting those like job postings and just like educational content.",
+    "start": "01:11:54",
+    "end": "01:12:02"
+  },
+  {
+    "text": "Um and then that funneled into just advertising.",
+    "start": "01:12:01",
+    "end": "01:12:05"
+  },
+  {
+    "text": "So, I would like plug plug like uh you know, edtech programs or talent matching programs.",
+    "start": "01:12:05",
+    "end": "01:12:12"
+  },
+  {
+    "text": "And that was the monetization.",
+    "start": "01:12:12",
+    "end": "01:12:14"
+  },
+  {
+    "text": "So, uh ended up not really building a product, but I was advertising other products um by just building the media first and then plugging the products.",
+    "start": "01:12:14",
+    "end": "01:12:26"
+  },
+  {
+    "text": "100%.",
+    "start": "01:12:26",
+    "end": "01:12:27"
+  },
+  {
+    "text": "Okay, so then I have a few more questions for you before we adjourn, but um in today's age, would you say that um media is like a requirement for starting a business?",
+    "start": "01:12:27",
+    "end": "01:12:39"
+  },
+  {
+    "text": "Content and media, is it a is it a requirement?",
+    "start": "01:12:37",
+    "end": "01:12:42"
+  },
+  {
+    "text": "Um for for consumer, yes.",
+    "start": "01:12:41",
+    "end": "01:12:45"
+  },
+  {
+    "text": "Like, everything is media, right?",
+    "start": "01:12:45",
+    "end": "01:12:47"
+  },
+  {
+    "text": "Like, even if you're doing ads, it's it's still content.",
+    "start": "01:12:47",
+    "end": "01:12:51"
+  },
+  {
+    "text": "It's just that you're paying for it.",
+    "start": "01:12:51",
+    "end": "01:12:52"
+  },
+  {
+    "text": "Like, you're you end up paying for content in some way.",
+    "start": "01:12:52",
+    "end": "01:12:54"
+  },
+  {
+    "text": "It's either organic, you pay the creator, it's organic, you make it yourself, which is time time is money, or you're paying for ads, radio ads, TV ads, Facebook ads, whatever it is.",
+    "start": "01:12:54",
+    "end": "01:13:07"
+  },
+  {
+    "text": "You're just paying for media.",
+    "start": "01:13:05",
+    "end": "01:13:07"
+  },
+  {
+    "text": "So, like, you don't have you don't have to own media to build um a business, um but you you have to interact with media in some in some in some kind of way.",
+    "start": "01:13:07",
+    "end": "01:13:17"
+  },
+  {
+    "text": "So, um I think that it's better to own the media um uh just because it's it's so much easier to do it now than ever before.",
+    "start": "01:13:17",
+    "end": "01:13:28"
+  },
+  {
+    "text": "So, why not uh why not do that instead of like renting other people's audiences and paying for ads continuously?",
+    "start": "01:13:28",
+    "end": "01:13:35"
+  },
+  {
+    "text": "So, um yeah, it's not a knock on ads, either.",
+    "start": "01:13:35",
+    "end": "01:13:39"
+  },
+  {
+    "text": "Like, I do I do know that you you kind of have to use ads at some point to like scale um in certain phases, but um having organic just gives you a lot of insights into the audience as well.",
+    "start": "01:13:37",
+    "end": "01:13:50"
+  },
+  {
+    "text": "So, I think it's like I yeah, I I wouldn't really do it any other way.",
+    "start": "01:13:48",
+    "end": "01:13:56"
+  },
+  {
+    "text": "Totally.",
+    "start": "01:13:53",
+    "end": "01:13:54"
+  },
+  {
+    "text": "Next question.",
+    "start": "01:13:54",
+    "end": "01:13:56"
+  },
+  {
+    "text": "Um do you feel like the trend of like building in public in excuse me, building in public will become less popular as like the the ability to build products, you know, slowly trends towards zero?",
+    "start": "01:13:56",
+    "end": "01:14:08"
+  },
+  {
+    "text": "Is it too big of a competitive risk to build in public?",
+    "start": "01:14:06",
+    "end": "01:14:09"
+  },
+  {
+    "text": "Because you you're you're it's like interesting, right?",
+    "start": "01:14:09",
+    "end": "01:14:14"
+  },
+  {
+    "text": "Like, you're gaining you're gaining um some like initial eyeballs or like traction by building in public, but you obviously are exposing yourself to, you know, other people who might want to copy you.",
+    "start": "01:14:11",
+    "end": "01:14:22"
+  },
+  {
+    "text": "So, I'd be curious to hear what you think about that.",
+    "start": "01:14:21",
+    "end": "01:14:25"
+  },
+  {
+    "text": "That's really interesting.",
+    "start": "01:14:22",
+    "end": "01:14:27"
+  },
+  {
+    "text": "I think it depends on I I feel like the build in public movement was started in like the Indie SaaS space.",
+    "start": "01:14:27",
+    "end": "01:14:36"
+  },
+  {
+    "text": "And because of that, that you got the added benefit of your audience actually buying your product.",
+    "start": "01:14:34",
+    "end": "01:14:42"
+  },
+  {
+    "text": "Um so, you're you're like building in public was actually it doubled as marketing for your product.",
+    "start": "01:14:40",
+    "end": "01:14:48"
+  },
+  {
+    "text": "But, if you're like building an app in iOS and then you're talking about and then you market it on TikTok, that's where your main users are and then you start talking about your strategies on Twitter, then yeah, maybe people are going to maybe people are going to copy you and you don't get as much benefit.",
+    "start": "01:14:48",
+    "end": "01:15:04"
+  },
+  {
+    "text": "But, then you do get some benefits because you'll start to meet other people that are really interesting and you can share tactics.",
+    "start": "01:15:04",
+    "end": "01:15:09"
+  },
+  {
+    "text": "So, I think the more commoditized your product is, then maybe you shouldn't talk about it.",
+    "start": "01:15:09",
+    "end": "01:15:17"
+  },
+  {
+    "text": "But, if you're building a more unique product, um can be more worth it to talk about.",
+    "start": "01:15:17",
+    "end": "01:15:21"
+  },
+  {
+    "text": "But, also just depends on like how trusted the the people are.",
+    "start": "01:15:21",
+    "end": "01:15:23"
+  },
+  {
+    "text": "Like, if you're if you meet if you build like one-on-one connections, you meet a person over a video call or you meet a person in real life, you know that you're not going to copy each other's stuff.",
+    "start": "01:15:23",
+    "end": "01:15:34"
+  },
+  {
+    "text": "Like, I think it's totally worth it to share ideas.",
+    "start": "01:15:34",
+    "end": "01:15:37"
+  },
+  {
+    "text": "I'm I'm pretty open with people about like sharing ideas um that you know, I know that we're not competitors.",
+    "start": "01:15:35",
+    "end": "01:15:45"
+  },
+  {
+    "text": "Right.",
+    "start": "01:15:43",
+    "end": "01:15:44"
+  },
+  {
+    "text": "No, that makes sense.",
+    "start": "01:15:44",
+    "end": "01:15:45"
+  },
+  {
+    "text": "And I think the other thing interesting just to like point out there is I think Blake tweeted this like the other day, but he said something like Cali AI is going to be like the most copycatted app like on the App Store, which I think is like you know, it's funny like I would I would generally agree that I think a lot of people are just like like creating copycats of Cali AI, but like they're obviously not going to lose because the true edge is in the in the in the distribution, right?",
+    "start": "01:15:45",
+    "end": "01:16:12"
+  },
+  {
+    "text": "Like, the distribution is the moat.",
+    "start": "01:16:12",
+    "end": "01:16:13"
+  },
+  {
+    "text": "So, if you build in public and you can back up your distribution, I don't think there's, you know, as much of a a competitive risk.",
+    "start": "01:16:13",
+    "end": "01:16:22"
+  },
+  {
+    "text": "Yeah, there's also like the talent pool stuff.",
+    "start": "01:16:19",
+    "end": "01:16:22"
+  },
+  {
+    "text": "Like, people are like the the most talented growth hackers and iOS developers want to work for Blake and Zach now because they're they're cool.",
+    "start": "01:16:22",
+    "end": "01:16:32"
+  },
+  {
+    "text": "Like, they they have they have the attention of a lot of different people and people want to work for them.",
+    "start": "01:16:32",
+    "end": "01:16:36"
+  },
+  {
+    "text": "So, I think it's smart for them to like even if they let's say their their competition gets um you know, the increased competition, you know, drives their business in half even.",
+    "start": "01:16:36",
+    "end": "01:16:48"
+  },
+  {
+    "text": "Like, I would say that's still worth it because like they can start another app like with access to the absolute best talent um and other connections that they're making in the space.",
+    "start": "01:16:48",
+    "end": "01:17:01"
+  },
+  {
+    "text": "So, I think it's I think it's still worth it um for them at least in the way that they're doing it.",
+    "start": "01:17:01",
+    "end": "01:17:06"
+  },
+  {
+    "text": "Totally.",
+    "start": "01:17:06",
+    "end": "01:17:07"
+  },
+  {
+    "text": "No, that makes a lot of sense.",
+    "start": "01:17:07",
+    "end": "01:17:08"
+  },
+  {
+    "text": "And then out of everything that we've discussed, is there anything that I haven't asked you that that you wish I had?",
+    "start": "01:17:08",
+    "end": "01:17:14"
+  },
+  {
+    "text": "Is there anything that that you want to share that maybe just hasn't come up?",
+    "start": "01:17:14",
+    "end": "01:17:21"
+  },
+  {
+    "text": "Um interesting.",
+    "start": "01:17:18",
+    "end": "01:17:23"
+  },
+  {
+    "text": "Let me think.",
+    "start": "01:17:21",
+    "end": "01:17:25"
+  },
+  {
+    "text": "Mm.",
+    "start": "01:17:23",
+    "end": "01:17:25"
+  },
+  {
+    "text": "I feel like you feel like you covered feel like you covered a lot of it.",
+    "start": "01:17:32",
+    "end": "01:17:38"
+  },
+  {
+    "text": "I mean, there's a lot to talk about.",
+    "start": "01:17:38",
+    "end": "01:17:39"
+  },
+  {
+    "text": "We could talk about I feel like we could talk about dozens of dozens of more things if we if we thought of the if we thought of the topics, but um What's top of mind?",
+    "start": "01:17:39",
+    "end": "01:17:58"
+  },
+  {
+    "text": "Oh, maybe like the concept of agencies.",
+    "start": "01:17:58",
+    "end": "01:18:00"
+  },
+  {
+    "text": "Like, I wish Yeah, let's talk about that.",
+    "start": "01:18:00",
+    "end": "01:18:06"
+  },
+  {
+    "text": "I wish more people understood like the concept of agencies in a new in a new underpriced distribution channel.",
+    "start": "01:18:03",
+    "end": "01:18:15"
+  },
+  {
+    "text": "Like, whenever there's a new underpriced distribution channel, um it's underpriced because there's not very many marketers who've mastered the channel.",
+    "start": "01:18:15",
+    "end": "01:18:24"
+  },
+  {
+    "text": "And everyone comes to me and they're like, \"Who's the best organic expert you know?",
+    "start": "01:18:23",
+    "end": "01:18:27"
+  },
+  {
+    "text": "\" And like, \"There are none.",
+    "start": "01:18:27",
+    "end": "01:18:30"
+  },
+  {
+    "text": "There like the ones that are the that are the best are the founders because they're the ones who are the most obsessed and they're most financially incentivized to figure out the channel.",
+    "start": "01:18:30",
+    "end": "01:18:40"
+  },
+  {
+    "text": "There's not going to be that many marketers that are willing to just work for you on retainer when they're one of five people in the whole world who know how to do this stuff.",
+    "start": "01:18:37",
+    "end": "01:18:51"
+  },
+  {
+    "text": "So, I really think that you need like with underpriced distribution, you kind of have to understand it yourself.",
+    "start": "01:18:51",
+    "end": "01:18:58"
+  },
+  {
+    "text": "Um then you can hire someone to um uh to take over the the thing that you figured out.",
+    "start": "01:18:56",
+    "end": "01:19:03"
+  },
+  {
+    "text": "Totally.",
+    "start": "01:19:03",
+    "end": "01:19:04"
+  },
+  {
+    "text": "Okay, that's really really interesting.",
+    "start": "01:19:04",
+    "end": "01:19:06"
+  },
+  {
+    "text": "So, let's let's expand that just for people who might not like totally understand the space and what you're talking about.",
+    "start": "01:19:06",
+    "end": "01:19:12"
+  },
+  {
+    "text": "So, basically what you're saying is like when it comes to um underpriced distri- distribution methods, right?",
+    "start": "01:19:12",
+    "end": "01:19:18"
+  },
+  {
+    "text": "Like, in today's age, TikTok, um there aren't going to be a lot of agencies who are like really really good or like really really effective because the people who are really really good or really really effective are just going to be those who are building their own apps themselves, right?",
+    "start": "01:19:18",
+    "end": "01:19:34"
+  },
+  {
+    "text": "Like like Blake, right?",
+    "start": "01:19:34",
+    "end": "01:19:35"
+  },
+  {
+    "text": "Like probably one of the best in the world of doing it and why would he have any incentive to go off and like create an agency when he can just reap all of the benefits himself.",
+    "start": "01:19:35",
+    "end": "01:19:45"
+  },
+  {
+    "text": "So, that's really interesting.",
+    "start": "01:19:45",
+    "end": "01:19:46"
+  },
+  {
+    "text": "Um yeah, I'd be curious to know a little bit more about like you know, if say you wanted to get started in this world and you see a lot of agencies with like different offerings, like would you approach them with caution or how how would you think about agencies like you know, for TikTok in general?",
+    "start": "01:19:46",
+    "end": "01:20:02"
+  },
+  {
+    "text": "I would approach them with caution and just like I think there's certain experts and service providers and agencies that do do a good job, but I feel like their lifespan is no more than like like no more than 6 months because they either they take on too many clients and then there's the service quality just goes down because there's just too many people to to take care of.",
+    "start": "01:20:02",
+    "end": "01:20:28"
+  },
+  {
+    "text": "Um or they're so good that they just decide to stop doing stuff for clients and they just build their own products.",
+    "start": "01:20:28",
+    "end": "01:20:34"
+  },
+  {
+    "text": "So, there's a couple agencies in the space that are literally doing that.",
+    "start": "01:20:34",
+    "end": "01:20:36"
+  },
+  {
+    "text": "If you go on their Twitter is you can see they're like building their own apps now.",
+    "start": "01:20:36",
+    "end": "01:20:42"
+  },
+  {
+    "text": "Right.",
+    "start": "01:20:42",
+    "end": "01:20:42"
+  },
+  {
+    "text": "And then there're the certain and then I would also be aware of like people that say, oh, we'll just make content for you on autopilot with like a tech platform.",
+    "start": "01:20:40",
+    "end": "01:20:52"
+  },
+  {
+    "text": "But like a tech platform for what?",
+    "start": "01:20:50",
+    "end": "01:20:55"
+  },
+  {
+    "text": "Like to host so that creators can sign up and then but to make content for you, but it but then that still depends on the creator being good, like the talent.",
+    "start": "01:20:55",
+    "end": "01:21:05"
+  },
+  {
+    "text": "Like it's really all about talent pool.",
+    "start": "01:21:03",
+    "end": "01:21:08"
+  },
+  {
+    "text": "So, it's just about if you if you have a handle on the space and you have an idea of what type of content you want to make um or what type of content will do well, then it's really about like finding the people who can make that content.",
+    "start": "01:21:05",
+    "end": "01:21:22"
+  },
+  {
+    "text": "And I think you kind of just have to do that yourself.",
+    "start": "01:21:20",
+    "end": "01:21:24"
+  },
+  {
+    "text": "Like it's just it's really hard to just find an expert who who can reliably say like, yeah, I know people who will just blow up your app on autopilot.",
+    "start": "01:21:24",
+    "end": "01:21:36"
+  },
+  {
+    "text": "I think it's we'll definitely get to that point at a certain point, but yeah, I like I don't want people to just think, oh, this is a this is a TikTok gold rush.",
+    "start": "01:21:36",
+    "end": "01:21:48"
+  },
+  {
+    "text": "Let's let's get into it and then the first agency they meet they're like, oh, this person is going to solve all my problems.",
+    "start": "01:21:46",
+    "end": "01:21:53"
+  },
+  {
+    "text": "It's just so it's just easier to like want to be lazy and like not Right.",
+    "start": "01:21:53",
+    "end": "01:21:57"
+  },
+  {
+    "text": "Do the work as a founder to like figure out the channel.",
+    "start": "01:21:57",
+    "end": "01:22:00"
+  },
+  {
+    "text": "So, Right.",
+    "start": "01:22:00",
+    "end": "01:22:02"
+  },
+  {
+    "text": "Totally.",
+    "start": "01:22:00",
+    "end": "01:22:01"
+  },
+  {
+    "text": "That's that's super super interesting.",
+    "start": "01:22:01",
+    "end": "01:22:05"
+  },
+  {
+    "text": "Um Yeah, that's really really interesting.",
+    "start": "01:22:05",
+    "end": "01:22:08"
+  },
+  {
+    "text": "I think that uh the the avoidance of pain or like the the avoidance of like wanting to hop in and and you know, talk to the camera or like hop in and do editing, I think it probably holds a lot of people back from being able to you know, get more downloads or or you know, at least at the very least just like generate more views.",
+    "start": "01:22:05",
+    "end": "01:22:26"
+  },
+  {
+    "text": "Um I'd be curious to to know a little bit more about like you know, I'm sure you're in contact with a lot of people who are like really really interesting.",
+    "start": "01:22:24",
+    "end": "01:22:33"
+  },
+  {
+    "text": "I remember you had a tweet that you where you were talking about like there are some like eight-figure e-com people who are like trying to move into the consumer app space.",
+    "start": "01:22:33",
+    "end": "01:22:43"
+  },
+  {
+    "text": "Um One I mean one like let's just take a step back and like think about like the range of people that are in this space, right?",
+    "start": "01:22:43",
+    "end": "01:22:48"
+  },
+  {
+    "text": "Like you have 17-year-olds who have you know, a $25 million a year business and on the other end you have like VC-backed founders and you have like eight-figure, you know, e-com people moving into the space.",
+    "start": "01:22:48",
+    "end": "01:23:00"
+  },
+  {
+    "text": "What is like one of the most surprising things that you think you've learned from operating Consumer Club um you know, since its inception?",
+    "start": "01:23:00",
+    "end": "01:23:08"
+  },
+  {
+    "text": "Yeah.",
+    "start": "01:23:09",
+    "end": "01:23:10"
+  },
+  {
+    "text": "I guess Yeah, now like when you mentioned like some of those people, I my mind immediately goes to um web-to-app founders.",
+    "start": "01:23:10",
+    "end": "01:23:24"
+  },
+  {
+    "text": "Mhm.",
+    "start": "01:23:24",
+    "end": "01:23:25"
+  },
+  {
+    "text": "I guess that one of the most surprising things is like often there's entire markets of tons of people making a ton of money that you just have no idea about.",
+    "start": "01:23:23",
+    "end": "01:23:35"
+  },
+  {
+    "text": "Like some of the people listening to this pod might be going like, wow, I had I had no idea people are making so much money on TikTok organic.",
+    "start": "01:23:35",
+    "end": "01:23:41"
+  },
+  {
+    "text": "But then there's so many layers to it like like you know, a few weeks ago I or a few months ago I like found these this this whole concept of like web-to-app and like people just building these web funnels where it funnels the person to the iOS app after going through like web.",
+    "start": "01:23:41",
+    "end": "01:23:58"
+  },
+  {
+    "text": "There's a lot of people making money in that, too.",
+    "start": "01:23:58",
+    "end": "01:24:03"
+  },
+  {
+    "text": "And um uh a lot of those people come from affiliate or e-com backgrounds.",
+    "start": "01:24:03",
+    "end": "01:24:09"
+  },
+  {
+    "text": "So, it's just yeah, there's a lot of there's a lot of channels that you just have no idea exist until you start meeting more people.",
+    "start": "01:24:09",
+    "end": "01:24:16"
+  },
+  {
+    "text": "Yeah, okay.",
+    "start": "01:24:16",
+    "end": "01:24:18"
+  },
+  {
+    "text": "So, quick Superwall shoutout.",
+    "start": "01:24:18",
+    "end": "01:24:19"
+  },
+  {
+    "text": "We're actually building that product um and it is it is really really sick.",
+    "start": "01:24:19",
+    "end": "01:24:25"
+  },
+  {
+    "text": "So, for those who don't know, um basically like imagine you're running like a like a paid Facebook ad or something for your app.",
+    "start": "01:24:23",
+    "end": "01:24:32"
+  },
+  {
+    "text": "Someone clicks on your ad, you can actually run through like a little mini onboarding um on web and then have them pay at the end of it, you know, through Stripe.",
+    "start": "01:24:32",
+    "end": "01:24:42"
+  },
+  {
+    "text": "Um and then you can you know, uh direct them to download your app and then they'll they'll have the subscription already and they they won't have to go through you know, the friction of like downloading, onboarding and then selling them in the app.",
+    "start": "01:24:42",
+    "end": "01:24:51"
+  },
+  {
+    "text": "Um which I think is just going to be like a crazy boost.",
+    "start": "01:24:51",
+    "end": "01:24:55"
+  },
+  {
+    "text": "Like I think we're going to see a lot of people make like way more money um with those with that sort of like web-to-app funnel.",
+    "start": "01:24:54",
+    "end": "01:25:00"
+  },
+  {
+    "text": "Um so, quick quick Superwall plug there.",
+    "start": "01:25:00",
+    "end": "01:25:03"
+  },
+  {
+    "text": "That's huge.",
+    "start": "01:25:03",
+    "end": "01:25:04"
+  },
+  {
+    "text": "I'm I'm pretty hyped for that launch.",
+    "start": "01:25:04",
+    "end": "01:25:06"
+  },
+  {
+    "text": "I I will uh I'll be spreading that launch to you.",
+    "start": "01:25:06",
+    "end": "01:25:09"
+  },
+  {
+    "text": "Yeah, it's going to it's going to be crazy.",
+    "start": "01:25:08",
+    "end": "01:25:12"
+  },
+  {
+    "text": "Yeah, we've been testing internally with it with a few people and it's it's it's really really exciting.",
+    "start": "01:25:11",
+    "end": "01:25:17"
+  },
+  {
+    "text": "So, um Let's see.",
+    "start": "01:25:17",
+    "end": "01:25:19"
+  },
+  {
+    "text": "The uh another thing that I'd be really curious to hear you know, your perspective on is like do you feel like anyone can go and like make like make an app and like generate like a a living for themselves nowadays?",
+    "start": "01:25:19",
+    "end": "01:25:32"
+  },
+  {
+    "text": "Like I feel like you know, we talked earlier that there used to be kind of this like moat or friction in terms of like not everyone knew how to code, not everyone knew how to like um stand up an app, you know, um but with advancements in AI like a lot of people are are talking about vibe coding.",
+    "start": "01:25:32",
+    "end": "01:25:51"
+  },
+  {
+    "text": "Um you know, a lot of people on Twitter are asking like, hey, can I do this if I have like no technical knowledge?",
+    "start": "01:25:49",
+    "end": "01:25:56"
+  },
+  {
+    "text": "Um I'd be I'd be curious to hear your perspective.",
+    "start": "01:25:56",
+    "end": "01:25:58"
+  },
+  {
+    "text": "Like can anyone do this?",
+    "start": "01:25:58",
+    "end": "01:26:00"
+  },
+  {
+    "text": "Like can anyone go build an app and make money?",
+    "start": "01:25:58",
+    "end": "01:26:00"
+  },
+  {
+    "text": "Like what's your perspective on that?",
+    "start": "01:26:00",
+    "end": "01:26:04"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "01:26:02",
+    "end": "01:26:04"
+  },
+  {
+    "text": "I mean I studied CS in college and like that taught me nothing about coding viral apps.",
+    "start": "01:26:04",
+    "end": "01:26:10"
+  },
+  {
+    "text": "So, I feel like the knowledge is just all out there and the tools are out there.",
+    "start": "01:26:10",
+    "end": "01:26:18"
+  },
+  {
+    "text": "Like you can you can use AI coding for your app.",
+    "start": "01:26:15",
+    "end": "01:26:19"
+  },
+  {
+    "text": "I mean Blake Anderson famously used ChatGPT to build his apps.",
+    "start": "01:26:19",
+    "end": "01:26:25"
+  },
+  {
+    "text": "Um yeah, I I I don't think there's like as long as you're smart like you can just figure stuff out.",
+    "start": "01:26:25",
+    "end": "01:26:29"
+  },
+  {
+    "text": "Like even if you think about like dropshipping with e-commerce, it's still somewhat technical.",
+    "start": "01:26:29",
+    "end": "01:26:37"
+  },
+  {
+    "text": "Like you have to figure out how to use Shopify.",
+    "start": "01:26:37",
+    "end": "01:26:40"
+  },
+  {
+    "text": "That's a that's a tech tool, right?",
+    "start": "01:26:38",
+    "end": "01:26:43"
+  },
+  {
+    "text": "Just like typing in ChatGPT is a tech tool.",
+    "start": "01:26:43",
+    "end": "01:26:46"
+  },
+  {
+    "text": "Like typing in Shopify in like the no-code builder and making sure that you know, it's well designed and copy writing it well and making sure the user experience you know, flows through the checkout and stuff.",
+    "start": "01:26:43",
+    "end": "01:26:56"
+  },
+  {
+    "text": "Like that's that's somewhat of a technical skill to make a Shopify website and the same way you know, there's a technical skill to build an app, but it's just getting easier with AI.",
+    "start": "01:26:56",
+    "end": "01:27:10"
+  },
+  {
+    "text": "So, I think there's still somewhat of a hurdle of figuring out how to prompt and there's there's still a skill there.",
+    "start": "01:27:10",
+    "end": "01:27:18"
+  },
+  {
+    "text": "So, I don't think absolutely anyone can do it, but um like on day one, but but for sure everyone can do it if you're smart and you just figure it out after a couple iterations.",
+    "start": "01:27:18",
+    "end": "01:27:30"
+  },
+  {
+    "text": "Like AI, there's there's nothing that makes like the like AI has not been around for that long at least in the chat like AI coding interface that we've that we know about now.",
+    "start": "01:27:27",
+    "end": "01:27:42"
+  },
+  {
+    "text": "So, you know, people who have a year more of experience than you do AI prompting and AI to make a to make an app, you know, they only have 1 year on you.",
+    "start": "01:27:42",
+    "end": "01:27:54"
+  },
+  {
+    "text": "So, Right.",
+    "start": "01:27:54",
+    "end": "01:27:56"
+  },
+  {
+    "text": "there's not as much of like that institutional mode anymore for sure.",
+    "start": "01:27:56",
+    "end": "01:28:03"
+  },
+  {
+    "text": "Mhm.",
+    "start": "01:28:00",
+    "end": "01:28:00"
+  },
+  {
+    "text": "No, absolutely.",
+    "start": "01:28:00",
+    "end": "01:28:02"
+  },
+  {
+    "text": "Like it's uh Anyone can get started, right?",
+    "start": "01:28:02",
+    "end": "01:28:05"
+  },
+  {
+    "text": "I think I think Blake is actually a really good example of that where like I think he he studied CS in school, right?",
+    "start": "01:28:05",
+    "end": "01:28:11"
+  },
+  {
+    "text": "But then came out of I mean you don't you don't really like learn how to build an iOS app in college unless you take like a class dedicated to it, right?",
+    "start": "01:28:11",
+    "end": "01:28:19"
+  },
+  {
+    "text": "And it's like you can't I I think that that's I sort of touches on like a broader topic here, which is like not not that it is get rich quick, but I think that like now is a time where because of all the distribution methods available and the ease of access to creating things, like you might not get rich quick, but I think now more than ever by far is like a time where you can build something that is like ramen profitable, right?",
+    "start": "01:28:19",
+    "end": "01:28:46"
+  },
+  {
+    "text": "Where you can like create a living for yourself without needing to have you know, years of experience doing it.",
+    "start": "01:28:45",
+    "end": "01:28:55"
+  },
+  {
+    "text": "No, for sure.",
+    "start": "01:28:52",
+    "end": "01:28:54"
+  },
+  {
+    "text": "Yeah.",
+    "start": "01:28:54",
+    "end": "01:28:55"
+  },
+  {
+    "text": "Yeah, definitely.",
+    "start": "01:28:55",
+    "end": "01:28:57"
+  },
+  {
+    "text": "I don't I don't think Yeah, like people um I forgot what I was going to say, but yeah, I agree.",
+    "start": "01:28:57",
+    "end": "01:29:06"
+  },
+  {
+    "text": "Yeah, it's crazy.",
+    "start": "01:29:04",
+    "end": "01:29:06"
+  },
+  {
+    "text": "It's crazy.",
+    "start": "01:29:06",
+    "end": "01:29:08"
+  },
+  {
+    "text": "Um well, yeah, I I uh let's see.",
+    "start": "01:29:06",
+    "end": "01:29:09"
+  },
+  {
+    "text": "I mean I think that I think that we've covered a lot of really good ground here.",
+    "start": "01:29:09",
+    "end": "01:29:15"
+  },
+  {
+    "text": "Um Um I yeah, I guess I'll I guess I'll end it with like if is is there anything else that um you know, you would direct to someone if they were like, \"Okay, cool.",
+    "start": "01:29:15",
+    "end": "01:29:24"
+  },
+  {
+    "text": "I'm like I'm watching this podcast.",
+    "start": "01:29:24",
+    "end": "01:29:26"
+  },
+  {
+    "text": "I understand what you know, Consumer Club is to an extent.",
+    "start": "01:29:26",
+    "end": "01:29:27"
+  },
+  {
+    "text": "I understand what Super Bowl is to an extent.",
+    "start": "01:29:27",
+    "end": "01:29:30"
+  },
+  {
+    "text": "You know, they have like some like basic knowledge of what consumer apps are.",
+    "start": "01:29:30",
+    "end": "01:29:33"
+  },
+  {
+    "text": "Like and they're like, \"Hey, I want to give this a shot.",
+    "start": "01:29:33",
+    "end": "01:29:38"
+  },
+  {
+    "text": "\" Like what would you recommend they do?",
+    "start": "01:29:38",
+    "end": "01:29:41"
+  },
+  {
+    "text": "Um yeah, I would just go with like the like the first app that you think of.",
+    "start": "01:29:38",
+    "end": "01:29:44"
+  },
+  {
+    "text": "Like the one that you've been thinking about for like a couple weeks, couple months.",
+    "start": "01:29:43",
+    "end": "01:29:48"
+  },
+  {
+    "text": "Like just just try that one.",
+    "start": "01:29:48",
+    "end": "01:29:52"
+  },
+  {
+    "text": "Um but then first like do a little bit of research.",
+    "start": "01:29:50",
+    "end": "01:29:53"
+  },
+  {
+    "text": "Like figure out what type of content that you think could do well on TikTok.",
+    "start": "01:29:53",
+    "end": "01:29:59"
+  },
+  {
+    "text": "Um it might not even be TikTok, too.",
+    "start": "01:29:59",
+    "end": "01:30:01"
+  },
+  {
+    "text": "Like it could be ads.",
+    "start": "01:30:01",
+    "end": "01:30:01"
+  },
+  {
+    "text": "It could be some other channel.",
+    "start": "01:30:01",
+    "end": "01:30:02"
+  },
+  {
+    "text": "Figure out what channel like where do your where do your customers hang out and then just yeah, dive into the distribution.",
+    "start": "01:30:02",
+    "end": "01:30:09"
+  },
+  {
+    "text": "Like think of think of a few hypotheses for distribution.",
+    "start": "01:30:09",
+    "end": "01:30:14"
+  },
+  {
+    "text": "Try them.",
+    "start": "01:30:14",
+    "end": "01:30:16"
+  },
+  {
+    "text": "And then if it doesn't work, then go back to the hypothesis and think, \"Okay, why like was the hypothesis like not true then?",
+    "start": "01:30:14",
+    "end": "01:30:23"
+  },
+  {
+    "text": "Like did this did this content format not work?",
+    "start": "01:30:23",
+    "end": "01:30:26"
+  },
+  {
+    "text": "Or did the content just suck?",
+    "start": "01:30:26",
+    "end": "01:30:27"
+  },
+  {
+    "text": "\" Like that's the thing that that's the main hurdle that people um start to get into like when they when they start.",
+    "start": "01:30:27",
+    "end": "01:30:34"
+  },
+  {
+    "text": "So just choosing like three content formats.",
+    "start": "01:30:34",
+    "end": "01:30:37"
+  },
+  {
+    "text": "Like find TikToks that are already doing well in your niche.",
+    "start": "01:30:37",
+    "end": "01:30:43"
+  },
+  {
+    "text": "Try to copy them or do videos similar to them.",
+    "start": "01:30:40",
+    "end": "01:30:44"
+  },
+  {
+    "text": "And then and then just see if you see if you can get see if you can crack like 5,000 views.",
+    "start": "01:30:44",
+    "end": "01:30:49"
+  },
+  {
+    "text": "If you can do that, then there's like something to it and you should just like keep going.",
+    "start": "01:30:49",
+    "end": "01:30:56"
+  },
+  {
+    "text": "Awesome.",
+    "start": "01:30:54",
+    "end": "01:30:55"
+  },
+  {
+    "text": "I think that's actually really actionable.",
+    "start": "01:30:55",
+    "end": "01:30:57"
+  },
+  {
+    "text": "Like get get to 5,000 views with an app that you know, you thought of and then just iterate and test and experiment from there.",
+    "start": "01:30:57",
+    "end": "01:31:03"
+  },
+  {
+    "text": "I think that's I think that's really actionable advice.",
+    "start": "01:31:03",
+    "end": "01:31:07"
+  },
+  {
+    "text": "Um awesome, man.",
+    "start": "01:31:05",
+    "end": "01:31:07"
+  },
+  {
+    "text": "Well, I guess the just to to cap this off, um where should people go if they want to find out more about you or Consumer Club?",
+    "start": "01:31:07",
+    "end": "01:31:14"
+  },
+  {
+    "text": "Just Twitter?",
+    "start": "01:31:14",
+    "end": "01:31:17"
+  },
+  {
+    "text": "Yeah, just Twitter.",
+    "start": "01:31:15",
+    "end": "01:31:18"
+  },
+  {
+    "text": "Um Joseph Choi on Twitter.",
+    "start": "01:31:18",
+    "end": "01:31:19"
+  },
+  {
+    "text": "Um I also have like a Twitter list.",
+    "start": "01:31:19",
+    "end": "01:31:21"
+  },
+  {
+    "text": "I don't know if you guys have like show notes, but I have a Twitter list of like the people that I follow who are in the consumer app space.",
+    "start": "01:31:21",
+    "end": "01:31:27"
+  },
+  {
+    "text": "So if you want to like see like what other people are talking about without being in like Consumer Club in the private chat.",
+    "start": "01:31:27",
+    "end": "01:31:33"
+  },
+  {
+    "text": "I think the private chat is better because people are people know it's private, so they talk about more interesting things.",
+    "start": "01:31:33",
+    "end": "01:31:40"
+  },
+  {
+    "text": "But people do talk about stuff on Twitter, too.",
+    "start": "01:31:40",
+    "end": "01:31:43"
+  },
+  {
+    "text": "So um you can follow my Twitter list.",
+    "start": "01:31:43",
+    "end": "01:31:46"
+  },
+  {
+    "text": "Awesome.",
+    "start": "01:31:46",
+    "end": "01:31:47"
+  },
+  {
+    "text": "Well, dude, it's been a pleasure having you.",
+    "start": "01:31:45",
+    "end": "01:31:47"
+  },
+  {
+    "text": "Um thanks so much for coming on the podcast and hope you have a great day, man.",
+    "start": "01:31:47",
+    "end": "01:31:54"
+  },
+  {
+    "text": "Thanks.",
+    "start": "01:31:51",
+    "end": "01:31:52"
+  },
+  {
+    "text": "It's great being here.",
+    "start": "01:31:52",
+    "end": "01:31:54"
+  }
+]

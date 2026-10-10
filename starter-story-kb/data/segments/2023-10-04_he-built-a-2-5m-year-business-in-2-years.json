@@ -1,0 +1,109 @@
+{
+ "f": "2023-10-04_he-built-a-2-5m-year-business-in-2-years",
+ "vid": "i6kCkGmJc9M",
+ "segments": [
+  {
+   "s": "01:16",
+   "e": "02:09",
+   "nut": ["?"],
+   "moi": "Productized service bán theo gói số lượng, giao đều đặn theo tuần",
+   "tom": "Draft.dev bán nội dung kỹ thuật cho công ty muốn tiếp cận lập trình viên: khách mua thẳng gói 12, 24 hay 48 bài (blog, tutorial); pool writer toàn kỹ sư phần mềm đang hành nghề, ghép với editor, thêm tech reviewer là kỹ sư full-time kiểm lại, giao hàng mỗi tuần hoặc 2 lần/tuần",
+   "kq": "$2,5 triệu doanh thu sau 3 năm; 6–7 full-time + hàng trăm contractor ở 54 nước"
+  },
+  {
+   "s": "02:09",
+   "e": "02:36",
+   "nut": ["?"],
+   "moi": "Bán cho công ty cần xây uy tín với một nhóm khán giả khó tính",
+   "tom": "Khách ban đầu là startup giai đoạn sớm mới bắt đầu làm marketing, giờ chuyển sang công ty lớn như Redpanda, Cloudflare, Dropbox — ai bán IDE, testing tool hay security tool cho dân kỹ thuật đều buộc phải xây uy tín và niềm tin trước, và nội dung là đường nhanh nhất"
+  },
+  {
+   "s": "03:28",
+   "e": "04:20",
+   "nut": ["3.7", "3.2"],
+   "tom": "COVID đẩy anh vào việc kiếm thêm thu nhập. Draft.dev khởi động KHÔNG website, KHÔNG landing page, không có gì cả — chỉ một trang trên website cá nhân đặt tên 'Carl's Writing' liệt kê mấy bài đã viết, gửi cho cả network lẫn người lạ kèm đúng một câu hỏi: anh có trả tiền để tôi viết cho anh không. Từ đó bắt đầu gọi điện với dân làm developer relations, một nghề anh chưa từng biết là có, và nhận ra nhu cầu lớn hơn mình tưởng",
+   "kq": "3 tháng sau việc nhiều hơn sức nhận, bắt đầu thuê người và rút khỏi job cũ"
+  },
+  {
+   "s": "04:20",
+   "e": "04:47",
+   "nut": ["?"],
+   "moi": "Giao điểm giữa thứ mình thật sự quan tâm và thứ khách chịu trả tiền",
+   "tom": "Anh thừa nhận chọn niche không hề có công thức, chỉ hai câu hỏi: mình có thích và quan tâm việc này không, và khi nói chuyện thì khách có thật sự chịu trả tiền không. Hai kiểu sai hay gặp là chỉ đuổi theo thứ mình thích mà không ai trả tiền, hoặc chỉ đuổi theo tiền trong một lĩnh vực mình không quan tâm và không biết gì — kiểu thứ hai gần như không thể nổi bật"
+  },
+  {
+   "s": "04:47",
+   "e": "05:42",
+   "nut": ["?"],
+   "moi": "Bảng tính 50 người cần giữ liên lạc, nhắc liên hệ mỗi tuần",
+   "tom": "5–10 khách đầu tiên đều là người anh từng gặp đâu đó trong nghề và vẫn giữ liên lạc. Từ sau đại học anh duy trì một bảng tính khoảng 50 người muốn giữ liên hệ, kèm nhắc nhở hàng tuần để chủ động rủ ăn trưa, gửi email hỏi thăm hoặc gọi nhanh; danh sách đó mang lại hai công việc startup gần nhất và cả những khách đầu của Draft.dev"
+  },
+  {
+   "s": "05:42",
+   "e": "06:35",
+   "nut": ["?"],
+   "moi": "Cấu trúc dịch vụ: lõi full-time mỏng + đội contractor đông",
+   "tom": "Ban đầu chỉ có 1 writer + 1 editor và anh tự làm tech review (soi bài có đủ chắc về kỹ thuật để một kỹ sư lâu năm chịu mua không), sau mới thuê kỹ sư full-time làm việc đó. Hiện 6 người full-time cộng hàng trăm contractor lo editing, tech review, viết và cả việc hành chính — team đã nhỏ hơn lúc đỉnh vì ngành tech đi xuống, vốn VC chỉ còn khoảng 1/3 năm trước nên doanh thu bám theo đường cong đó"
+  },
+  {
+   "s": "06:35",
+   "e": "07:00",
+   "nut": ["4.5"],
+   "tom": "Nguồn khách chia gần đều làm ba phần: 1/3 từ referral và truyền miệng (kể cả khi người làm marketing bên khách nhảy việc thì kéo theo hợp đồng sang công ty mới), 1/3 từ organic search cộng social nuôi nhau — viết bài rank từ khoá kiểu 'developer advocate là gì' rồi dùng bài social đẩy người về, 1/3 còn lại là cold outreach và các nguồn lặt vặt"
+  },
+  {
+   "s": "07:00",
+   "e": "07:53",
+   "nut": ["?"],
+   "moi": "Định vị nhà cung cấp cao cấp: không giảm giá, bắt cam kết theo quý",
+   "tom": "Chiến lược cốt lõi là tự đặt mình vào đầu người ta như nhà cung cấp CAO CẤP của niche: không giảm giá, không nhận việc lẻ hay trial một lần, bắt ký cam kết theo quý. Một phần vì chi phí mỗi bài rất cao do phải trả tiền cho kỹ sư viết, phần lớn hơn là chủ đích định vị — và nó ngấm vào toàn bộ marketing, nên khách tìm đến thường đã nghe tên qua vài kênh khác nhau"
+  },
+  {
+   "s": "07:53",
+   "e": "08:38",
+   "nut": ["?"],
+   "moi": "Làm nhân viên đầu tiên ở startup giai đoạn sớm để học nghề founder",
+   "tom": "Anh học đủ kỹ năng nhờ làm nhân viên số 1 ở hai startup giai đoạn sớm, đi cùng founder từ lúc họ tuyển mình tới lúc gọi vốn và mở rộng. Cái được lớn nhất không phải kiến thức mà là sự tự tin: trước đó anh không tin mình thuộc loại người mở được công ty, cho tới khi thấy tận mắt các founder chẳng thông minh hơn, chẳng học cao hơn mình"
+  },
+  {
+   "s": "09:35",
+   "e": "10:09",
+   "nut": ["?"],
+   "moi": "Ghi lại tài liệu từng dự án thất bại để bài học cộng dồn",
+   "tom": "Trước Draft.dev anh có cả loạt side project không cất cánh, ít nhất 10 cái anh còn giữ tài liệu ghi lại: định làm gì, vì sao không chạy, rút ra được gì. Anh coi việc lặp đi lặp lại các dự án nhỏ mà chưa trúng là phần bình thường của hành trình, các trải nghiệm đó xếp chồng lên nhau",
+   "kq": "ít nhất 10 side project thất bại có ghi chép"
+  },
+  {
+   "s": "10:09",
+   "e": "10:52",
+   "nut": ["2.3"],
+   "tom": "Hai lý do anh cho là quyết định: một, làm part-time để chắc chắn mô hình chạy được rồi mới nhảy hẳn, khỏi tự ép mình dưới áp lực full-time; hai, timing thị trường — COVID vừa xảy ra, các công ty tech vẫn còn tiền gọi vốn nhưng phải chuyển ngân sách hội nghị offline sang chỗ khác, nên hàng trăm nghìn đô đổ vào marketing và content mảng developer. Vì cực kỳ ngách, họ xây được niềm tin nhanh hơn hẳn agency content tổng hợp"
+  },
+  {
+   "s": "10:52",
+   "e": "12:18",
+   "nut": ["?"],
+   "moi": "Mua lại business nhỏ có sẵn (ETA) thay vì khởi nghiệp cái mới",
+   "tom": "Sau khi nghỉ trọn một tháng lúc con thứ hai ra đời — đúng mục tiêu đặt ra ban đầu là công ty chạy được không cần mình — anh rơi vào khủng hoảng hiện sinh rồi biết tới 'entrepreneurship through acquisition'. Anh rủ một người bạn, gom vốn, nói chuyện với ít nhất 50–100 founder về quy mô business và điều kiện thoái vốn, lọc ra 3–4 cái ổn và chốt một cái. Kết luận sau vài tháng vận hành: mua được, chạy được business của người khác, và bỏ qua được nhiều năm làm lại từ đầu — đổi lại là một khoản nợ",
+   "kq": "đã mua và vận hành công ty thứ hai vài tháng, gánh nợ mua lại"
+  },
+  {
+   "s": "12:18",
+   "e": "12:44",
+   "nut": ["1.2"],
+   "tom": "Vì sao anh bullish với productized service: về lý thuyết vẫn scale được nhưng chi phí khởi động gần như bằng 0, nên là chỗ bắt đầu tốt — nó là bản lai giữa mô hình agency/consulting truyền thống và SaaS với doanh thu lặp lại"
+  },
+  {
+   "s": "12:44",
+   "e": "14:04",
+   "nut": ["3.2", "2.7"],
+   "tom": "Cách chọn ngách anh khuyên: chọn thứ mà lúc đầu bạn tự làm được phần lớn công việc (thuê người là kỹ năng riêng, phải học dần từng bước), và phải có nhu cầu thật. Lời khuyên số một là nói chuyện với nhiều khách tiềm năng hơn và hỏi đúng một câu: hôm nay anh đang TRẢ TIỀN cho cái gì mà KHÔNG hài lòng. Cách sai là 'tôi muốn mở agency thiết kế đóng gói vì thấy người khác thành công' trong khi không biết ai sẽ mua; cách đúng là gặp 10–12 khách đã dùng agency khác và thất vọng, moi ra vì sao, rồi thiết kế lại dịch vụ từ gốc để khác biệt"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:16", "ly_do": "intro/hook của kênh"},
+  {"s": "02:36", "e": "03:28", "ly_do": "tiểu sử thuần: học cơ khí, thực tập GE/Siemens, các công việc kỹ sư trước đó"},
+  {"s": "08:38", "e": "09:35", "ly_do": "quảng cáo Starter Story case studies"},
+  {"s": "14:04", "e": "14:13", "ly_do": "chào kết"}
+ ]
+}

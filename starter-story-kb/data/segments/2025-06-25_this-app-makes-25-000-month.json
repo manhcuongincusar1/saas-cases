@@ -1,0 +1,36 @@
+{
+ "f": "2025-06-25_this-app-makes-25-000-month",
+ "vid": "HBCwzfFbopE",
+ "segments": [
+  {"s":"01:20","e":"02:06","nut":["?"],"moi":"Đăng một lần vào subreddit ngách, không gắn giá, để xin feedback",
+   "tom":"Xây cho dân video production mà mình không quen ai, nên đi lùng subreddit ngách rất nhỏ và khó tìm, post link xin feedback; không gắn giá nên không bị coi là moi tiền, và chỉ một post mỗi sub","kq":"một post 58 upvote ra khách trả tiền đầu tiên"},
+  {"s":"02:06","e":"02:55","nut":["?"],"moi":"Chỉ dùng công nghệ đã biết để ship MVP trong 3 ngày",
+   "tom":"MVP đúng một tính năng: bấm nút thì đồng hồ chạy; cố ý chỉ dùng JavaScript, Vue.js, Node.js đã thạo — né cả Vercel mới ra — nên ship 3 ngày rồi bồi đắp mỗi tối 1 tiếng","kq":"MVP 3 ngày, 224 ngày mới có đồng đầu tiên"},
+  {"s":"03:10","e":"03:56","nut":["?"],"moi":"Kéo vợ/chồng vào cầm nửa còn lại của việc kinh doanh",
+   "tom":"Khi email hỗ trợ bắt đầu dồn, anh rủ vợ đang chán nghề giáo sang học marketing: vợ cầm Google Ads, email bán hàng và toàn bộ support, anh giữ sản phẩm, tài chính, dev"},
+  {"s":"04:11","e":"05:12","nut":["?"],"moi":"Đợi sản phẩm đủ sống mới nghỉ việc",
+   "tom":"Commit đầu tiên của Stage Timer tháng 11/2020 ngay lúc corona, vài ngày sau là post Reddit; tới 2022 app đủ $3.000/tháng để sống thì vợ giục nghỉ việc, tháng 9/2023 chạm mốc $10K","kq":"$3K/tháng lúc nghỉ việc 2022, $10K/tháng 9/2023"},
+  {"s":"06:36","e":"07:50","nut":["4.5","?"],"moi":"Viết docs tích hợp cho từng thiết bị để bắt keyword siêu ngách",
+   "tom":"50% traffic từ Google: chọn ngách nhỏ tới mức công ty lớn không thèm, rồi bám vào thứ khách đã dùng — làm hẳn trang docs và video YouTube cho 'countdown timer + Stream Deck', video ít view nhưng người xem đang có vấn đề cụ thể nên mua rất cao"},
+  {"s":"07:50","e":"08:05","nut":["4.5"],
+   "tom":"Cách tìm keyword: cứ dựng docs và bài viết ra trước, quan sát người ta thật sự click vào cái gì rồi dồn sức vào đúng chỗ đó"},
+  {"s":"08:05","e":"09:07","nut":["?"],"moi":"Product-led growth: gắn tên sản phẩm lên mọi thứ khách chia sẻ",
+   "tom":"Học Dropbox: mọi link chia sẻ đều mang logo có chữ stagetimer.io đọc là nhớ; gói free để freelancer mang tới sự kiện, người khác thấy liền xài, đụng giới hạn thì mua","kq":"1/3 traffic đến từ truyền miệng, 20.000 user và 4.400 người từng trả tiền"},
+  {"s":"09:07","e":"09:54","nut":["?"],"moi":"Stack solo giá rẻ, CRM bằng Airtable",
+   "tom":"Vẫn dùng Sublime Text và Sublime Merge, copy-paste sang Claude còn nhanh hơn Cursor hay Copilot; Airtable làm CRM kèm automation, Postmark để gửi email"},
+  {"s":"09:54","e":"10:24","nut":["1.1","1.3"],
+   "tom":"Chi phí thật của SaaS $25K/tháng: server và hạ tầng $280, tools và dịch vụ $250, paid ads $1.400 mỗi tháng","kq":"biên lợi nhuận 80–90%"},
+  {"s":"10:24","e":"11:26","nut":["2.B2","?"],"moi":"Sản phẩm một tính năng nằm trong quy trình bắt buộc của người khác",
+   "tom":"Chính anh nghĩ 'cái này không thể ra tiền': chỉ là đồng hồ đếm ngược cho sân khấu kèm nhắn tin cho diễn giả — nhưng timer iPhone không dùng được vì cần một người bấm, năm người cùng nhìn","kq":"khách gồm cả đài truyền hình bầu cử và giải đua ngựa"},
+  {"s":"11:26","e":"12:15","nut":["2.9","?"],"moi":"Đứng xem tận nơi người khác làm việc để bắt thao tác thủ công vô lý",
+   "tom":"Ý tưởng đến khi thấy bạn trong studio phải đứng dậy đi sang phòng khác bấm nút trên một app Flash cũ; cứ vào doanh nghiệp bất kỳ và quan sát, sẽ thấy hàng giờ bị phí theo cách vụng về"},
+  {"s":"12:15","e":"12:50","nut":["2.7"],
+   "tom":"Bài học: ra khỏi bubble developer là đầy phần mềm giao diện còn như năm 1999 mà người dùng than suốt — có vô số ngách $1 triệu, phần khó duy nhất là tìm ra chúng"},
+  {"s":"12:50","e":"13:32","nut":["?"],"moi":"Nỗi sợ thuế và quy định ở nước mình thường bị thổi phồng",
+   "tom":"Lời khuyên cho chính mình: người Đức sợ cơ quan thuế và quy định tới mức không dám bắt đầu, nhưng thực tế vẫn có đường lập một business nhỏ và scale lên ngay tại đó"}
+ ],
+ "bo_qua": [
+  {"s":"05:12","e":"06:36","ly_do":"quảng cáo monday.com app marketplace"},
+  {"s":"14:02","e":"14:32","ly_do":"outro quảng bá Starter Story Build 12 ngày"}
+ ]
+}

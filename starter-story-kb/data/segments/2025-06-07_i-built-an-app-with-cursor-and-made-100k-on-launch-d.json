@@ -1,0 +1,33 @@
+{
+ "f": "2025-06-07_i-built-an-app-with-cursor-and-made-100k-on-launch-d",
+ "vid": "4hMg_CZauJs",
+ "segments": [
+  {"s":"00:48","e":"01:36","nut":["2.1"],
+   "tom":"Creator Buddy tự kéo tweet của bạn từ X rồi cho model AI đọc hết và huấn luyện bạn viết nội dung tốt hơn; Alex bắt đầu tháng 8/2024 khi biết tới Cursor, mất 7–8 tháng vừa build vừa lấy phản hồi mới dám launch","kq":"$100K ARR sau 15 phút, $300K ARR sau 2 tuần, ~500 thuê bao trả tiền"},
+  {"s":"01:52","e":"03:14","nut":["2.3","4.1","?"],"moi":"Đọc code/tài liệu vừa được mở rồi viết bài giải thích trước cả đám đông",
+   "tom":"Tháng 3/2023 Elon mở mã nguồn thuật toán X, Alex mở GitHub đọc hết code ngay rồi viết một thread giải thích thuật toán chạy thế nào, có những biến gì, cái gì làm nội dung viral — Elon retweet, Mark Cuban vào tương tác","kq":"hàng trăm nghìn follower, đủ tự tin nghỉ việc"},
+  {"s":"03:14","e":"04:04","nut":["3.4","?"],"moi":"Ship prototype ngay ngày đầu rồi nuôi vòng feedback với cộng đồng của mình",
+   "tom":"Dùng Cursor 5 phút là Alex nhận ra một mình có thể làm phần mềm cỡ doanh nghiệp; ngay ngày đầu có prototype chạy được, đem lên cộng đồng X hỏi 'thêm gì thì hữu ích hơn', rồi lặp vòng feedback–cải tiến suốt 6–7 tháng mới launch"},
+  {"s":"04:04","e":"05:23","nut":["?"],"moi":"Bẻ tính năng thành micro-step rồi mới giao cho AI code",
+   "tom":"Khác biệt giữa người dùng Cursor giỏi và dở là cách ra lệnh: chẻ nhỏ tới mức tối đa — 'làm ô nhập để user dán bài viết', rồi 'thêm nút', rồi 'bảo model biến bài đó thành tweet'; mẹo là mở ChatGPT bên cạnh nhờ nó chẻ tính năng thành micro-step rồi dán vào Cursor","kq":"chậm mà nhanh vì gần như không dính bug"},
+  {"s":"06:10","e":"06:55","nut":["2.2","2.1"],
+   "tom":"Ý tưởng đến từ đúng việc tay chân của mình: mỗi tối Alex chép tweet vào bảng tính rồi ngồi soi cái nào ăn cái nào không — nên viết phần mềm tự gom và tự chấm tweet; xấu nhất thì cũng làm đời mình dễ thở hơn"},
+  {"s":"06:55","e":"07:27","nut":["3.4","4.14"],
+   "tom":"Tháng 12/2024 mở beta cho người theo dõi trên X: 150 beta tester và Alex ngồi họp với TỪNG người một để hướng dẫn — chính lúc nhìn họ bấm gì, kẹt ở đâu, nghẽn chỗ nào mới ra được những cải tiến lớn nhất"},
+  {"s":"07:27","e":"08:14","nut":["4.8","4.7"],
+   "tom":"Cách ra mắt: beta tới tận hôm trước ngày launch, 12/1 công bố sẽ mở bán 24/1, đúng ngày đó lên X Spaces nói về Creator Buddy cả ngày — nhờ 6–7 tháng kể hành trình trước đó, hàng trăm người chực sẵn mua ngay phút đầu","kq":"$100K trong 15 phút, $200K trong 2 giờ, kèm cả núi DM báo lỗi"},
+  {"s":"09:18","e":"10:06","nut":["4.8"],
+   "tom":"Trả lời phản bác 'ông có sẵn audience': đúng, nhưng audience đó là 3 năm đăng nội dung đều đặn trước khi có sản phẩm, mỗi ngày chỉ tốn 5 phút để tweet — và anh nổi lên nhờ nhanh chóng có quan điểm riêng về cách thuật toán và nền tảng vận hành rồi nói ra sớm"},
+  {"s":"10:06","e":"11:11","nut":["1.1","1.3"],
+   "tom":"Chi phí thật ~$5.300/tháng, trong đó riêng X API đã $5.000 — phần còn lại là Vercel $20, Supabase $20, các API AI (Claude, ChatGPT…) ~$250, email qua Resend; trên doanh thu $25.000/tháng ra biên khoảng 80%","kq":"$25K/tháng doanh thu, biên ~80%"},
+  {"s":"11:11","e":"11:42","nut":["?"],"moi":"Chế độ 'tự xử': gặp việc gì cũng hỏi AI thay vì thuê chuyên gia lặt vặt",
+   "tom":"Bài học lớn nhất là đổi phản xạ: gặp vấn đề thì đừng nghĩ tới việc thuê ngay một ông tư vấn landing page hay ông làm thumbnail, mà mở AI ra tự xử — đổi được phản xạ đó là chạy được doanh nghiệp một người không cần ai hỗ trợ"},
+  {"s":"11:42","e":"12:13","nut":["2.B3"],
+   "tom":"Khi ai cũng build được mọi phần mềm thì kiến thức và sản phẩm không còn là hào bảo vệ, phân phối mới là: người khác clone Creator Buddy 2.0 trong 5 giây nhưng chỉ có 10 follower thì mình vẫn bán vòng quanh họ — nên lúc nào cũng đặt cộng đồng lên trước"}
+ ],
+ "bo_qua": [
+  {"s":"05:23","e":"06:10","ly_do":"Pat quảng bá crash course của Alex trong Starter Story Build"},
+  {"s":"08:14","e":"09:18","ly_do":"quảng cáo Brex (nhà tài trợ)"},
+  {"s":"13:33","e":"14:06","ly_do":"lời kết kèm link Starter Story Build"}
+ ]
+}

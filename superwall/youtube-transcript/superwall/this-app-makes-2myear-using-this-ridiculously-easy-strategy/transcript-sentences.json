@@ -1,0 +1,3092 @@
+[
+  {
+    "text": "Like I hated this idea when I first heard about it.",
+    "start": "00:00:00",
+    "end": "00:00:04"
+  },
+  {
+    "text": "It came from a pivot and me and one of my engineers were talking and he was like, \"You should use GPT to fill out job applications.",
+    "start": "00:00:04",
+    "end": "00:00:09"
+  },
+  {
+    "text": "\" So I ended up being like, \"All right, fine.",
+    "start": "00:00:09",
+    "end": "00:00:12"
+  },
+  {
+    "text": "I'll post it on LinkedIn and see if it gets any traction.",
+    "start": "00:00:12",
+    "end": "00:00:13"
+  },
+  {
+    "text": "\" I posted it and it blew up.",
+    "start": "00:00:13",
+    "end": "00:00:16"
+  },
+  {
+    "text": ">> Is there anything you would do now with the knowledge you have now to change the weight list strategy?",
+    "start": "00:00:14",
+    "end": "00:00:20"
+  },
+  {
+    "text": ">> No, I think weight lists are useless.",
+    "start": "00:00:19",
+    "end": "00:00:22"
+  },
+  {
+    "text": "You don't need to like bring people onto a weight list, get people to pay.",
+    "start": "00:00:20",
+    "end": "00:00:24"
+  },
+  {
+    "text": "It's going to be harder, but it's going to give you more results.",
+    "start": "00:00:24",
+    "end": "00:00:26"
+  },
+  {
+    "text": "Like let's say I'm launching a new app right now.",
+    "start": "00:00:26",
+    "end": "00:00:29"
+  },
+  {
+    "text": "The first thing I would do is What if I told you there's a consumer app that's quietly pulling in $2 million in ARR that you've probably never heard of?",
+    "start": "00:00:29",
+    "end": "00:00:36"
+  },
+  {
+    "text": "While most apps struggle to hit 100K a year, Dan, the founder of Massive, cracked the code using some genius, unconventional marketing tactics.",
+    "start": "00:00:36",
+    "end": "00:00:45"
+  },
+  {
+    "text": "So today, I sat down with Dan to break down his playbook, he's done more marketing experiments than most founders attempt in their entire lifetime.",
+    "start": "00:00:45",
+    "end": "00:00:52"
+  },
+  {
+    "text": "And today, he's revealing exactly which ones move the needle and which ones you need to avoid.",
+    "start": "00:00:52",
+    "end": "00:00:54"
+  },
+  {
+    "text": "So, if you're building a consumer app or you just want to see how some outofthe- box thinking can help you generate millions in revenue, what we cover in this conversation will help you grow.",
+    "start": "00:00:54",
+    "end": "00:01:02"
+  },
+  {
+    "text": "So, before we get started, I have to give you a fair warning.",
+    "start": "00:01:02",
+    "end": "00:01:06"
+  },
+  {
+    "text": "In this conversation, Dan exposes some of the shadyiest, literally illegal marketing practices in the app space right now.",
+    "start": "00:01:06",
+    "end": "00:01:12"
+  },
+  {
+    "text": "He's not doing them, other people are.",
+    "start": "00:01:11",
+    "end": "00:01:14"
+  },
+  {
+    "text": "So, as a disclaimer, do not use those techniques.",
+    "start": "00:01:12",
+    "end": "00:01:15"
+  },
+  {
+    "text": "Without further ado, let's dive in.",
+    "start": "00:01:15",
+    "end": "00:01:17"
+  },
+  {
+    "text": "All right.",
+    "start": "00:01:17",
+    "end": "00:01:18"
+  },
+  {
+    "text": "Introduce yourself and and your company.",
+    "start": "00:01:18",
+    "end": "00:01:20"
+  },
+  {
+    "text": "My name is Dan.",
+    "start": "00:01:20",
+    "end": "00:01:22"
+  },
+  {
+    "text": "I built a product called Massive, and we use AI to fill out job applications.",
+    "start": "00:01:22",
+    "end": "00:01:25"
+  },
+  {
+    "text": "We have a website and a mobile app.",
+    "start": "00:01:25",
+    "end": "00:01:26"
+  },
+  {
+    "text": "It's like Tinder for jobs.",
+    "start": "00:01:26",
+    "end": "00:01:27"
+  },
+  {
+    "text": "Sign up, upload your resume, get matched to lots of really great jobs, and then AI fills out the applications for you, customizes the resume and cover letter, goes directly to the company sites, and just applies you to new jobs every single day.",
+    "start": "00:01:27",
+    "end": "00:01:38"
+  },
+  {
+    "text": "We've been around for about 2 years at this point, and we've submitted tens of millions of applications and helped a ton of people land really cool jobs.",
+    "start": "00:01:38",
+    "end": "00:01:46"
+  },
+  {
+    "text": ">> And this all started from, you said, a viral LinkedIn post.",
+    "start": "00:01:44",
+    "end": "00:01:50"
+  },
+  {
+    "text": ">> Like, I hated this idea when I first heard about it.",
+    "start": "00:01:47",
+    "end": "00:01:51"
+  },
+  {
+    "text": "It came from a pivot and me and one of my engineers were talking and he was like GPT3 had just come out and we were trying to pivot from another product.",
+    "start": "00:01:51",
+    "end": "00:01:58"
+  },
+  {
+    "text": "We'd raised $3 million from a bunch of VCs and we were like well that didn't work out like what do we pivot to now?",
+    "start": "00:01:58",
+    "end": "00:02:04"
+  },
+  {
+    "text": "And I'd always really like hated job search.",
+    "start": "00:02:04",
+    "end": "00:02:06"
+  },
+  {
+    "text": "I had this pain point that I thought about for years.",
+    "start": "00:02:06",
+    "end": "00:02:09"
+  },
+  {
+    "text": "A lot of my friends were going through it and he was like you should use GPT to fill out job applications.",
+    "start": "00:02:09",
+    "end": "00:02:13"
+  },
+  {
+    "text": "And I was like that's so dumb.",
+    "start": "00:02:13",
+    "end": "00:02:14"
+  },
+  {
+    "text": "Like no one would want that.",
+    "start": "00:02:14",
+    "end": "00:02:17"
+  },
+  {
+    "text": "So I ended up being like all right fine.",
+    "start": "00:02:17",
+    "end": "00:02:18"
+  },
+  {
+    "text": "I'll post it on LinkedIn and see if it gets any traction.",
+    "start": "00:02:18",
+    "end": "00:02:20"
+  },
+  {
+    "text": "At that point, I had like maybe 500 connections.",
+    "start": "00:02:20",
+    "end": "00:02:22"
+  },
+  {
+    "text": "I posted it and it blew up.",
+    "start": "00:02:22",
+    "end": "00:02:24"
+  },
+  {
+    "text": "We got I think like 8 million impressions, 5,000 comments, and people were really really excited.",
+    "start": "00:02:24",
+    "end": "00:02:28"
+  },
+  {
+    "text": "Yeah, that was like the first thing that like, holy, this is something that people actually want.",
+    "start": "00:02:28",
+    "end": "00:02:31"
+  },
+  {
+    "text": "We started to build the product and kind of go from there.",
+    "start": "00:02:31",
+    "end": "00:02:34"
+  },
+  {
+    "text": "And I hate LinkedIn now.",
+    "start": "00:02:34",
+    "end": "00:02:35"
+  },
+  {
+    "text": "Like that's my goal is to delete it.",
+    "start": "00:02:35",
+    "end": "00:02:36"
+  },
+  {
+    "text": "So, I made a LinkedIn post that was just like, hey, like if I built this tool, you know, would anyone want it?",
+    "start": "00:02:36",
+    "end": "00:02:41"
+  },
+  {
+    "text": "That's amazing.",
+    "start": "00:02:41",
+    "end": "00:02:42"
+  },
+  {
+    "text": "What are the stats looking like now?",
+    "start": "00:02:42",
+    "end": "00:02:44"
+  },
+  {
+    "text": "So, right now we're at about 200K a month.",
+    "start": "00:02:44",
+    "end": "00:02:46"
+  },
+  {
+    "text": "I don't know the exact number, but it's definitely more than 10 million applications at this point.",
+    "start": "00:02:46",
+    "end": "00:02:50"
+  },
+  {
+    "text": "We're still a tiny team.",
+    "start": "00:02:50",
+    "end": "00:02:50"
+  },
+  {
+    "text": "I think that's another big thing that I really like about present day is like we are is me.",
+    "start": "00:02:50",
+    "end": "00:02:55"
+  },
+  {
+    "text": "It's a full-time engineer and I have a handful of like VAS and like ops people.",
+    "start": "00:02:55",
+    "end": "00:02:59"
+  },
+  {
+    "text": ">> And what was like the hook?",
+    "start": "00:02:58",
+    "end": "00:03:00"
+  },
+  {
+    "text": "What do you think made that go viral?",
+    "start": "00:03:00",
+    "end": "00:03:03"
+  },
+  {
+    "text": ">> I almost did it as like in spite to the engineer cuz I was like, \"Watch this.",
+    "start": "00:03:01",
+    "end": "00:03:06"
+  },
+  {
+    "text": "It's going to get two likes.",
+    "start": "00:03:04",
+    "end": "00:03:07"
+  },
+  {
+    "text": "\" I didn't even share it to anybody.",
+    "start": "00:03:07",
+    "end": "00:03:08"
+  },
+  {
+    "text": "It just kind of picked up Steam organically.",
+    "start": "00:03:08",
+    "end": "00:03:11"
+  },
+  {
+    "text": "So, I think like a good idea is a good idea.",
+    "start": "00:03:11",
+    "end": "00:03:13"
+  },
+  {
+    "text": "And I think if you just communicate it clearly, people will pick up on that.",
+    "start": "00:03:11",
+    "end": "00:03:16"
+  },
+  {
+    "text": "When I say Tinder for jobs, people get it like this.",
+    "start": "00:03:14",
+    "end": "00:03:17"
+  },
+  {
+    "text": "But if I say like, \"Ah, it's your job search on autopilot or uses AI to fill out job applications or like all this stuff.",
+    "start": "00:03:17",
+    "end": "00:03:23"
+  },
+  {
+    "text": "\" It like it's not as clear.",
+    "start": "00:03:23",
+    "end": "00:03:24"
+  },
+  {
+    "text": "Well, Tinder for jobs, like people are like, \"Oh my god, it increases reply rates from creators.",
+    "start": "00:03:24",
+    "end": "00:03:30"
+  },
+  {
+    "text": "It helps us do like two to three times more views probably like simplicity and clarity build a great product, but also helps your audience understand your product.",
+    "start": "00:03:30",
+    "end": "00:03:38"
+  },
+  {
+    "text": "\" >> So, you did viral LinkedIn posts.",
+    "start": "00:03:38",
+    "end": "00:03:38"
+  },
+  {
+    "text": "How do you grow now?",
+    "start": "00:03:38",
+    "end": "00:03:40"
+  },
+  {
+    "text": ">> Right now, it's just as many consumer subscription apps.",
+    "start": "00:03:39",
+    "end": "00:03:42"
+  },
+  {
+    "text": "It's going to be paid ads, UGC, and influencers.",
+    "start": "00:03:42",
+    "end": "00:03:44"
+  },
+  {
+    "text": "And you know, whatever's working at that moment, wherever you've unlocked arbitrage, it's like that's what you're pushing.",
+    "start": "00:03:44",
+    "end": "00:03:50"
+  },
+  {
+    "text": "You got a hard pay wall, like sell your product.",
+    "start": "00:03:50",
+    "end": "00:03:52"
+  },
+  {
+    "text": ">> That's interesting.",
+    "start": "00:03:51",
+    "end": "00:03:52"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:03:52",
+    "end": "00:03:53"
+  },
+  {
+    "text": "It's a subscription product.",
+    "start": "00:03:53",
+    "end": "00:03:55"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:03:53",
+    "end": "00:03:54"
+  },
+  {
+    "text": "And if it solves a problem, people want to pay for it.",
+    "start": "00:03:54",
+    "end": "00:03:58"
+  },
+  {
+    "text": ">> How did you do a blend of UGC, influencers, ads?",
+    "start": "00:03:56",
+    "end": "00:04:00"
+  },
+  {
+    "text": "Is that also how you grew to 2 million AR?",
+    "start": "00:04:00",
+    "end": "00:04:03"
+  },
+  {
+    "text": ">> So, I'll tell you just like step by step.",
+    "start": "00:04:02",
+    "end": "00:04:04"
+  },
+  {
+    "text": "I'll like completely break it down how anyone can get from zero dollars to where we were like to 10k, 20k, 50k, 100k, etc.",
+    "start": "00:04:04",
+    "end": "00:04:11"
+  },
+  {
+    "text": "And we've tried everything, right?",
+    "start": "00:04:11",
+    "end": "00:04:13"
+  },
+  {
+    "text": "I've tried all the hacks and stuff along the way.",
+    "start": "00:04:13",
+    "end": "00:04:15"
+  },
+  {
+    "text": "So like what works for us might not work for you, what works for one company might not work for another.",
+    "start": "00:04:15",
+    "end": "00:04:19"
+  },
+  {
+    "text": "I started to realize also why so maybe people can avoid some of the mistakes I've made.",
+    "start": "00:04:19",
+    "end": "00:04:23"
+  },
+  {
+    "text": "Pretty much from that first viral LinkedIn post, it took us about 2 months to build a product.",
+    "start": "00:04:23",
+    "end": "00:04:27"
+  },
+  {
+    "text": "So we were building a weight list.",
+    "start": "00:04:27",
+    "end": "00:04:29"
+  },
+  {
+    "text": "It was maybe at that time that I'd heard about tabs and that was the first experience I heard about like Oliver doing UGC stuff and it actually took off.",
+    "start": "00:04:29",
+    "end": "00:04:37"
+  },
+  {
+    "text": "It did pretty well and we got I think 40 or 50K weight list sign up in the first 2 months of just playing around with this core idea that obviously the idea was going viral so we kept pushing on it.",
+    "start": "00:04:37",
+    "end": "00:04:46"
+  },
+  {
+    "text": "I kept making posts on LinkedIn about here are the top 200 companies hiring now.",
+    "start": "00:04:46",
+    "end": "00:04:50"
+  },
+  {
+    "text": "We would get emails that way and then I would make some UGC posts.",
+    "start": "00:04:50",
+    "end": "00:04:53"
+  },
+  {
+    "text": "We'd get some emails that way to the side.",
+    "start": "00:04:53",
+    "end": "00:04:55"
+  },
+  {
+    "text": "So it was just like anything to get weight list signups.",
+    "start": "00:04:55",
+    "end": "00:04:56"
+  },
+  {
+    "text": "And by the time we launched in I think it was April, we had, you know, a lot of signups and a lot of people excited, filled out type forms, all this stuff.",
+    "start": "00:04:56",
+    "end": "00:05:03"
+  },
+  {
+    "text": "And then we launched, we got our first subscription.",
+    "start": "00:05:03",
+    "end": "00:05:06"
+  },
+  {
+    "text": "As soon as we got the first subscription, I was like, \"This is going to be a billion dollar company.",
+    "start": "00:05:06",
+    "end": "00:05:09"
+  },
+  {
+    "text": "\" Like I know for a fact, like, you know, we'd done B2B before, we' done different types of businesses, but as soon as we did that like first consumer sub, I was like, \"This is huge.",
+    "start": "00:05:09",
+    "end": "00:05:19"
+  },
+  {
+    "text": "\" The problem with that is only about like half a percentage of the weight list converted to even signing up.",
+    "start": "00:05:19",
+    "end": "00:05:24"
+  },
+  {
+    "text": "Like the weight list did not convert at all.",
+    "start": "00:05:24",
+    "end": "00:05:27"
+  },
+  {
+    "text": "No one paid for it.",
+    "start": "00:05:27",
+    "end": "00:05:27"
+  },
+  {
+    "text": "No one cared.",
+    "start": "00:05:27",
+    "end": "00:05:28"
+  },
+  {
+    "text": "Everyone forgot about it, it seemed like.",
+    "start": "00:05:28",
+    "end": "00:05:29"
+  },
+  {
+    "text": "And that was heartbreaking cuz I was like, \"What the hell did I do all this work for?",
+    "start": "00:05:29",
+    "end": "00:05:31"
+  },
+  {
+    "text": "\" And so then the next few weeks were just literally gorilla marketing boots on the ground trying to get as many people to sign up and pay as possible.",
+    "start": "00:05:31",
+    "end": "00:05:38"
+  },
+  {
+    "text": "At that time it was Hacker News.",
+    "start": "00:05:38",
+    "end": "00:05:39"
+  },
+  {
+    "text": "I did a big push on Hacker News.",
+    "start": "00:05:39",
+    "end": "00:05:43"
+  },
+  {
+    "text": "I scraped emails manually, scraped posts.",
+    "start": "00:05:43",
+    "end": "00:05:45"
+  },
+  {
+    "text": "I reached out with like heartfelt messages like, \"Hey, I think you should use this.",
+    "start": "00:05:43",
+    "end": "00:05:47"
+  },
+  {
+    "text": "\" And that's how we got our first like 100, maybe 500 users to go pay and give us feedback.",
+    "start": "00:05:47",
+    "end": "00:05:53"
+  },
+  {
+    "text": "And then the next few months up until probably December from April to December were just like manual grinding to I think it was maybe 20k orr like that and it was me and one engineer his name is Rohan.",
+    "start": "00:05:53",
+    "end": "00:06:05"
+  },
+  {
+    "text": "It was really really hard.",
+    "start": "00:06:04",
+    "end": "00:06:06"
+  },
+  {
+    "text": "It was like at that point we had almost run out of money.",
+    "start": "00:06:06",
+    "end": "00:06:07"
+  },
+  {
+    "text": "You know we were a few weeks away.",
+    "start": "00:06:07",
+    "end": "00:06:10"
+  },
+  {
+    "text": ">> Is there anything you would do now with the knowledge you have now to change the weight list strategy?",
+    "start": "00:06:08",
+    "end": "00:06:14"
+  },
+  {
+    "text": "Like do you think it's possible that you could have had a higher converting weight list?",
+    "start": "00:06:14",
+    "end": "00:06:19"
+  },
+  {
+    "text": ">> No.",
+    "start": "00:06:17",
+    "end": "00:06:17"
+  },
+  {
+    "text": "I think weight lists are useless.",
+    "start": "00:06:17",
+    "end": "00:06:20"
+  },
+  {
+    "text": "I think it's good to signal intent.",
+    "start": "00:06:20",
+    "end": "00:06:21"
+  },
+  {
+    "text": "You don't need to like bring people onto a wait list.",
+    "start": "00:06:21",
+    "end": "00:06:22"
+  },
+  {
+    "text": "Like you should be just using that time to get people to pay.",
+    "start": "00:06:22",
+    "end": "00:06:26"
+  },
+  {
+    "text": "It's going to be harder, but it's going to give you more results.",
+    "start": "00:06:26",
+    "end": "00:06:28"
+  },
+  {
+    "text": "Even if they're paying for some small version of your product, like get them to pay.",
+    "start": "00:06:28",
+    "end": "00:06:32"
+  },
+  {
+    "text": "It's so much more valuable than a weight list.",
+    "start": "00:06:32",
+    "end": "00:06:34"
+  },
+  {
+    "text": "If I could do it all over again, I wouldn't do weight list at all.",
+    "start": "00:06:33",
+    "end": "00:06:37"
+  },
+  {
+    "text": "I would instead test the idea.",
+    "start": "00:06:37",
+    "end": "00:06:38"
+  },
+  {
+    "text": "I would definitely test it.",
+    "start": "00:06:38",
+    "end": "00:06:38"
+  },
+  {
+    "text": "So like let's say I'm launching a new app right now.",
+    "start": "00:06:38",
+    "end": "00:06:40"
+  },
+  {
+    "text": "I want to launch a running app.",
+    "start": "00:06:40",
+    "end": "00:06:42"
+  },
+  {
+    "text": "I run a live and I want a live AI coaching running app.",
+    "start": "00:06:42",
+    "end": "00:06:43"
+  },
+  {
+    "text": "Thought about this idea.",
+    "start": "00:06:43",
+    "end": "00:06:45"
+  },
+  {
+    "text": "I've wanted to launch it before.",
+    "start": "00:06:44",
+    "end": "00:06:47"
+  },
+  {
+    "text": "The first thing I would do is spend probably 1 to 2k max on a handful of influencers with a super tight value prop.",
+    "start": "00:06:47",
+    "end": "00:06:53"
+  },
+  {
+    "text": "Test it.",
+    "start": "00:06:53",
+    "end": "00:06:54"
+  },
+  {
+    "text": "I wouldn't do UGC cuz I think it takes too long to iterate.",
+    "start": "00:06:52",
+    "end": "00:06:55"
+  },
+  {
+    "text": "And I think maybe like what Cali got right is they like put it in the hands of influencers first for super cheap and just like tested it with proven distribution.",
+    "start": "00:06:55",
+    "end": "00:07:02"
+  },
+  {
+    "text": "Like does this message resonate?",
+    "start": "00:07:02",
+    "end": "00:07:03"
+  },
+  {
+    "text": "Will it convert to subscriptions?",
+    "start": "00:07:03",
+    "end": "00:07:05"
+  },
+  {
+    "text": "I think they got good paying traction from there.",
+    "start": "00:07:05",
+    "end": "00:07:08"
+  },
+  {
+    "text": "Just get proven distribution.",
+    "start": "00:07:08",
+    "end": "00:07:09"
+  },
+  {
+    "text": "Just test your idea, validate it in the fastest way possible.",
+    "start": "00:07:09",
+    "end": "00:07:11"
+  },
+  {
+    "text": "And that's going to be through influencers who already have consistent views on all their videos.",
+    "start": "00:07:11",
+    "end": "00:07:16"
+  },
+  {
+    "text": "That's interesting.",
+    "start": "00:07:16",
+    "end": "00:07:16"
+  },
+  {
+    "text": "So, what message did you find resonated with consumers when you tried influencers?",
+    "start": "00:07:16",
+    "end": "00:07:20"
+  },
+  {
+    "text": "One of the problems that I've seen a lot of people are having is like people can do views.",
+    "start": "00:07:20",
+    "end": "00:07:26"
+  },
+  {
+    "text": "People can do conversions, but can you do conversions and views?",
+    "start": "00:07:24",
+    "end": "00:07:29"
+  },
+  {
+    "text": "And to be frank, like we're still learning that.",
+    "start": "00:07:29",
+    "end": "00:07:32"
+  },
+  {
+    "text": "We're still failing at that sometimes, a lot of times.",
+    "start": "00:07:30",
+    "end": "00:07:33"
+  },
+  {
+    "text": "So, like we'll do really, really well.",
+    "start": "00:07:33",
+    "end": "00:07:34"
+  },
+  {
+    "text": "And then I'll be like, \"Oh my god, I figured it out.",
+    "start": "00:07:34",
+    "end": "00:07:37"
+  },
+  {
+    "text": "\" And then all of a sudden videos start performing super poorly on conversions.",
+    "start": "00:07:37",
+    "end": "00:07:41"
+  },
+  {
+    "text": "But I will tell you, I think we do maybe 3 to 4 million views per week roughly.",
+    "start": "00:07:41",
+    "end": "00:07:45"
+  },
+  {
+    "text": ">> It's a lot of views.",
+    "start": "00:07:44",
+    "end": "00:07:47"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:07:45",
+    "end": "00:07:46"
+  },
+  {
+    "text": "So when we were doing like 500k views, we were actually probably converting as much.",
+    "start": "00:07:46",
+    "end": "00:07:51"
+  },
+  {
+    "text": "We just started to scale up on the influencer UGC side a lot and test a lot of new stuff and it didn't work.",
+    "start": "00:07:51",
+    "end": "00:07:56"
+  },
+  {
+    "text": "So that's the position we're in now is like we really wanted to get more views.",
+    "start": "00:07:56",
+    "end": "00:07:59"
+  },
+  {
+    "text": "We' figured out what was getting views and we thought we knew what was converting and we tried to scale that up and it broke.",
+    "start": "00:07:59",
+    "end": "00:08:04"
+  },
+  {
+    "text": "So I think it's a constant game of like there's no proven way to look at when you get a video and when you get downloads and views.",
+    "start": "00:08:04",
+    "end": "00:08:08"
+  },
+  {
+    "text": "early on it's actually great because you're not getting that many viral videos.",
+    "start": "00:08:08",
+    "end": "00:08:11"
+  },
+  {
+    "text": "So when you do get one you can clearly see in stripe or in revenue whatever that like is this converting and you have to build that muscle early on so that you can know when you're getting lots of viral videos like which videos are converting cuz right now we're getting three four five viral videos a day kind of thing.",
+    "start": "00:08:11",
+    "end": "00:08:27"
+  },
+  {
+    "text": "It's like I don't know which ones are driving conversion.",
+    "start": "00:08:27",
+    "end": "00:08:29"
+  },
+  {
+    "text": "So you have to know that beforehand before you start doing multiple videos per day.",
+    "start": "00:08:29",
+    "end": "00:08:33"
+  },
+  {
+    "text": "What drives conversion?",
+    "start": "00:08:33",
+    "end": "00:08:33"
+  },
+  {
+    "text": "I think it's different for every company.",
+    "start": "00:08:33",
+    "end": "00:08:35"
+  },
+  {
+    "text": "It should be about problem and solution.",
+    "start": "00:08:35",
+    "end": "00:08:37"
+  },
+  {
+    "text": "skits, for example, for us don't work because they don't target the problem well enough.",
+    "start": "00:08:37",
+    "end": "00:08:42"
+  },
+  {
+    "text": "I think there's a lot of nuance here.",
+    "start": "00:08:42",
+    "end": "00:08:45"
+  },
+  {
+    "text": "General ideas for content guidelines is we found a hook that consistently converted.",
+    "start": "00:08:42",
+    "end": "00:08:47"
+  },
+  {
+    "text": "It consistently found the right audience.",
+    "start": "00:08:47",
+    "end": "00:08:49"
+  },
+  {
+    "text": "So, you need to number one target the right audience.",
+    "start": "00:08:49",
+    "end": "00:08:52"
+  },
+  {
+    "text": "If you hook them with the right problem, then you've got them.",
+    "start": "00:08:52",
+    "end": "00:08:54"
+  },
+  {
+    "text": "And then if your solution actually solves the problem, you can convert them.",
+    "start": "00:08:54",
+    "end": "00:08:58"
+  },
+  {
+    "text": "So, that first part of getting the right audience with the right problem is actually the hardest part.",
+    "start": "00:08:58",
+    "end": "00:09:02"
+  },
+  {
+    "text": "One example is like we've done a bunch of skits that are targeting like college students.",
+    "start": "00:09:02",
+    "end": "00:09:07"
+  },
+  {
+    "text": "College students don't convert for us at all.",
+    "start": "00:09:07",
+    "end": "00:09:09"
+  },
+  {
+    "text": "They kind of just like don't care about internships.",
+    "start": "00:09:09",
+    "end": "00:09:10"
+  },
+  {
+    "text": "They don't care about applying jobs.",
+    "start": "00:09:10",
+    "end": "00:09:12"
+  },
+  {
+    "text": "They just will not pay for job search.",
+    "start": "00:09:12",
+    "end": "00:09:13"
+  },
+  {
+    "text": "Won't pay pretty much if you target the right audience.",
+    "start": "00:09:13",
+    "end": "00:09:16"
+  },
+  {
+    "text": "So for example, we had one where it's like stop using LinkedIn to apply to jobs.",
+    "start": "00:09:16",
+    "end": "00:09:19"
+  },
+  {
+    "text": "I'll tell you the nuance here.",
+    "start": "00:09:19",
+    "end": "00:09:21"
+  },
+  {
+    "text": "Like stop using LinkedIn to apply to jobs and we'll get a million views on that.",
+    "start": "00:09:21",
+    "end": "00:09:24"
+  },
+  {
+    "text": "If it's done well, it'll convert very highly.",
+    "start": "00:09:24",
+    "end": "00:09:25"
+  },
+  {
+    "text": "If we say stop using Indeed to apply to jobs, there's almost no conversion which is psychotic.",
+    "start": "00:09:25",
+    "end": "00:09:31"
+  },
+  {
+    "text": "We can use the same thing, but when we say LinkedIn, it targets like more white collar folks.",
+    "start": "00:09:31",
+    "end": "00:09:35"
+  },
+  {
+    "text": "It targets our demographic better.",
+    "start": "00:09:35",
+    "end": "00:09:36"
+  },
+  {
+    "text": "If you say stop using Indeed to apply to jobs, it targets a more blue collar audience.",
+    "start": "00:09:36",
+    "end": "00:09:41"
+  },
+  {
+    "text": "And actually, when you target that audience, the video still does numbers, but it does numbers because the comments are so filled with hate of like, are you kidding?",
+    "start": "00:09:41",
+    "end": "00:09:49"
+  },
+  {
+    "text": "You have to pay to apply to jobs.",
+    "start": "00:09:49",
+    "end": "00:09:51"
+  },
+  {
+    "text": "This is latestage capitalism.",
+    "start": "00:09:51",
+    "end": "00:09:52"
+  },
+  {
+    "text": "Like, people call for my execution in these videos.",
+    "start": "00:09:52",
+    "end": "00:09:55"
+  },
+  {
+    "text": "So, we very obviously hit the wrong audience.",
+    "start": "00:09:55",
+    "end": "00:09:58"
+  },
+  {
+    "text": "It's very scientific.",
+    "start": "00:09:56",
+    "end": "00:09:58"
+  },
+  {
+    "text": "You're almost thinking about I always compare everything to Facebook ad marketing cuz that's what I got started with.",
+    "start": "00:09:58",
+    "end": "00:10:04"
+  },
+  {
+    "text": "But it's almost like audience targeting except your audience targeting is just calling out the characteristics of the audience in the first 3 seconds.",
+    "start": "00:10:04",
+    "end": "00:10:11"
+  },
+  {
+    "text": "Stop using LinkedIn to apply to job.",
+    "start": "00:10:11",
+    "end": "00:10:12"
+  },
+  {
+    "text": "And that's what I've learned.",
+    "start": "00:10:12",
+    "end": "00:10:13"
+  },
+  {
+    "text": "It's just like talk to the audience.",
+    "start": "00:10:13",
+    "end": "00:10:15"
+  },
+  {
+    "text": "Like they're getting bombarded with all this junk, especially now with AI ads and all this stuff.",
+    "start": "00:10:15",
+    "end": "00:10:19"
+  },
+  {
+    "text": "And it's like horrible ads.",
+    "start": "00:10:19",
+    "end": "00:10:20"
+  },
+  {
+    "text": "Just literally connect with them as a person.",
+    "start": "00:10:20",
+    "end": "00:10:22"
+  },
+  {
+    "text": "Like I'll show you one of the best ad accounts I've ever seen.",
+    "start": "00:10:22",
+    "end": "00:10:24"
+  },
+  {
+    "text": "And I think if people took advice from this ad account, it's a thing called Yoga Body and I bought it.",
+    "start": "00:10:24",
+    "end": "00:10:33"
+  },
+  {
+    "text": "I don't even like like yoga.",
+    "start": "00:10:30",
+    "end": "00:10:33"
+  },
+  {
+    "text": "I didn't even know I needed to stretch.",
+    "start": "00:10:33",
+    "end": "00:10:35"
+  },
+  {
+    "text": "It's like a stretching course.",
+    "start": "00:10:35",
+    "end": "00:10:36"
+  },
+  {
+    "text": "It's like a hundred bucks.",
+    "start": "00:10:36",
+    "end": "00:10:37"
+  },
+  {
+    "text": "I wasn't looking for this at all, but I kind of got served this and the ads were so good.",
+    "start": "00:10:37",
+    "end": "00:10:42"
+  },
+  {
+    "text": "They were like, \"If you are running more than 10 miles and you have tight hips, here's why.",
+    "start": "00:10:42",
+    "end": "00:10:48"
+  },
+  {
+    "text": "\" I was like, \"Okay, holy, that's really specific, but I'm listening.",
+    "start": "00:10:48",
+    "end": "00:10:51"
+  },
+  {
+    "text": "I'm running more than 10 miles.",
+    "start": "00:10:51",
+    "end": "00:10:52"
+  },
+  {
+    "text": "I have tight hips.",
+    "start": "00:10:52",
+    "end": "00:10:54"
+  },
+  {
+    "text": "what the hell is going on?",
+    "start": "00:10:52",
+    "end": "00:10:54"
+  },
+  {
+    "text": "And I listen to the video and then he presented the solution and I was like, \"Okay, actually that sounds pretty good.",
+    "start": "00:10:54",
+    "end": "00:10:58"
+  },
+  {
+    "text": "\" And I still have four or five more ads that were like consistent in that messaging and like had proof points.",
+    "start": "00:10:58",
+    "end": "00:11:02"
+  },
+  {
+    "text": "I converted immediately.",
+    "start": "00:11:02",
+    "end": "00:11:03"
+  },
+  {
+    "text": "And if you look at this ad account, like like these posts are running for almost two years.",
+    "start": "00:11:03",
+    "end": "00:11:08"
+  },
+  {
+    "text": ">> Two years.",
+    "start": "00:11:07",
+    "end": "00:11:09"
+  },
+  {
+    "text": "Wow.",
+    "start": "00:11:09",
+    "end": "00:11:10"
+  },
+  {
+    "text": ">> This is one of the best ad accounts I've ever seen.",
+    "start": "00:11:08",
+    "end": "00:11:11"
+  },
+  {
+    "text": "And they're pumping.",
+    "start": "00:11:11",
+    "end": "00:11:12"
+  },
+  {
+    "text": "Like this is I don't know hundreds of thousands of likes and like this.",
+    "start": "00:11:12",
+    "end": "00:11:16"
+  },
+  {
+    "text": "They're probably spending millions of dollars a month.",
+    "start": "00:11:15",
+    "end": "00:11:18"
+  },
+  {
+    "text": ">> Can we watch the ad?",
+    "start": "00:11:16",
+    "end": "00:11:18"
+  },
+  {
+    "text": "The best way to fix your squat and unlock your hips.",
+    "start": "00:11:18",
+    "end": "00:11:22"
+  },
+  {
+    "text": "It's not this interesting.",
+    "start": "00:11:22",
+    "end": "00:11:22"
+  },
+  {
+    "text": "I would guess this is like a retargeting ad, right?",
+    "start": "00:11:22",
+    "end": "00:11:26"
+  },
+  {
+    "text": "Because it didn't really start with a problem as much.",
+    "start": "00:11:26",
+    "end": "00:11:28"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:11:27",
+    "end": "00:11:27"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:11:27",
+    "end": "00:11:28"
+  },
+  {
+    "text": "There's a lot of them are like this.",
+    "start": "00:11:28",
+    "end": "00:11:29"
+  },
+  {
+    "text": "So, I think I saw six ads before I actually converted.",
+    "start": "00:11:29",
+    "end": "00:11:33"
+  },
+  {
+    "text": "They were all in this similar style and you could tell the first one I saw was kind of generic and then I remember the next few were very like trying to figure out my pain point that I would convert on and they finally found the pain point and I was like, I'm in.",
+    "start": "00:11:33",
+    "end": "00:11:43"
+  },
+  {
+    "text": "And by the way, this experience to purchase the product and so people talk about this all the time is like conversion rate optimization.",
+    "start": "00:11:43",
+    "end": "00:11:50"
+  },
+  {
+    "text": "The experience to purchase the product was insane.",
+    "start": "00:11:48",
+    "end": "00:11:51"
+  },
+  {
+    "text": "I think it took me 15 minutes to check out and I had to stop doing it on my phone and go to my computer because it was impossible to actually check out on my phone because it was like the check out button was hidden.",
+    "start": "00:11:51",
+    "end": "00:11:59"
+  },
+  {
+    "text": "So, if you're talking about conversion rate optimization, this dude had a website from like 2010 and I still I wanted to pay him that $100 because the creative was so good.",
+    "start": "00:11:59",
+    "end": "00:12:10"
+  },
+  {
+    "text": "So, there's a lesson in that.",
+    "start": "00:12:10",
+    "end": "00:12:10"
+  },
+  {
+    "text": "Same thing for like I remember I saw like a podcast from them and it was like they just ripped an onboarding or something.",
+    "start": "00:12:10",
+    "end": "00:12:16"
+  },
+  {
+    "text": "So somebody was like breaking down their onboarding and like saying like here's what's the scientific psychological and they're like yeah we just ripped it.",
+    "start": "00:12:16",
+    "end": "00:12:23"
+  },
+  {
+    "text": "And I remember like I was talking to Zach.",
+    "start": "00:12:23",
+    "end": "00:12:25"
+  },
+  {
+    "text": "I was like yo like where did you get your onboarding?",
+    "start": "00:12:25",
+    "end": "00:12:26"
+  },
+  {
+    "text": "We just ripped from somewhere.",
+    "start": "00:12:26",
+    "end": "00:12:27"
+  },
+  {
+    "text": "And I was like I just ripped mine from somewhere too.",
+    "start": "00:12:27",
+    "end": "00:12:29"
+  },
+  {
+    "text": "And so it's like the marginal benefits aren't going to be there.",
+    "start": "00:12:29",
+    "end": "00:12:31"
+  },
+  {
+    "text": "Like at least for ads probably for any marketing you're doing with short form it's going to be in the creative.",
+    "start": "00:12:31",
+    "end": "00:12:35"
+  },
+  {
+    "text": "Like if you make people want your product and it's a good product that actually solves their problem that they want they will freaking break down walls to get it.",
+    "start": "00:12:35",
+    "end": "00:12:41"
+  },
+  {
+    "text": "You should focus on that first.",
+    "start": "00:12:41",
+    "end": "00:12:42"
+  },
+  {
+    "text": "That's a great lesson.",
+    "start": "00:12:42",
+    "end": "00:12:44"
+  },
+  {
+    "text": "Just rip stuff.",
+    "start": "00:12:44",
+    "end": "00:12:43"
+  },
+  {
+    "text": "I guess don't fully copy, but like if you just look at an ad or you look at a piece of video and you break it down the way that you did, like oh, like you're not aware that your joint pain was attached to your 10 mile run that you didn't even connect that.",
+    "start": "00:12:43",
+    "end": "00:12:57"
+  },
+  {
+    "text": "So, you weren't even problem aware.",
+    "start": "00:12:57",
+    "end": "00:12:58"
+  },
+  {
+    "text": "That's something I've heard about cold audiences is like if you want to sell completely direct response on ads, you actually want to find the people that are not even problem aware.",
+    "start": "00:12:58",
+    "end": "00:13:08"
+  },
+  {
+    "text": "So they don't even know that they have the problem and then you tell them that they have the problem.",
+    "start": "00:13:08",
+    "end": "00:13:12"
+  },
+  {
+    "text": "For your ads or even organic, are you targeting people that already know the pain points of jobs and why they have that problem?",
+    "start": "00:13:12",
+    "end": "00:13:20"
+  },
+  {
+    "text": "I very rarely on organic try to experiment.",
+    "start": "00:13:20",
+    "end": "00:13:23"
+  },
+  {
+    "text": "I think there's way too much volume of videos to try to be creative and experiment with stuff.",
+    "start": "00:13:23",
+    "end": "00:13:27"
+  },
+  {
+    "text": "I think on organic if you're really doing this at scale you have to be doing probably 80% I don't want to call it copying but like looking at what's already gone viral before and then replicating that in your own way and then 20% can be saved net new stuff like it's irresponsible and trying to grow your company to not do formats that are already doing well especially formats that can scale across verticals across apps like I'll give you one example that I call it career Dave style this guy career Dave is from one one of our competitors companies called source and he came up with this really great style that consistently goes viral for him.",
+    "start": "00:13:27",
+    "end": "00:14:01"
+  },
+  {
+    "text": "What I look for in UGC concepts in order for us to do numbers is concepts that have proven to go viral before and you know in this case like he did 837 210 280 like let's just sort by popular.",
+    "start": "00:14:01",
+    "end": "00:14:13"
+  },
+  {
+    "text": "So not only is he putting up numbers but it's actually it's also happening very consistently and it's the same roughly one or two formats.",
+    "start": "00:14:13",
+    "end": "00:14:22"
+  },
+  {
+    "text": "This is really rare to find that it consistently goes viral.",
+    "start": "00:14:22",
+    "end": "00:14:25"
+  },
+  {
+    "text": "Mainly, it feels very authentic in its discovery portion.",
+    "start": "00:14:25",
+    "end": "00:14:29"
+  },
+  {
+    "text": "That hook is actually really cool.",
+    "start": "00:14:29",
+    "end": "00:14:31"
+  },
+  {
+    "text": "I like how he has two faces in the hook.",
+    "start": "00:14:31",
+    "end": "00:14:33"
+  },
+  {
+    "text": "He has his own face and he has a friend's face and then the camera is like moving.",
+    "start": "00:14:33",
+    "end": "00:14:38"
+  },
+  {
+    "text": "It feels super organic.",
+    "start": "00:14:38",
+    "end": "00:14:38"
+  },
+  {
+    "text": "Alyssa home find.",
+    "start": "00:14:38",
+    "end": "00:14:40"
+  },
+  {
+    "text": "So, check this out.",
+    "start": "00:14:40",
+    "end": "00:14:40"
+  },
+  {
+    "text": "This is video from Dup.",
+    "start": "00:14:40",
+    "end": "00:14:42"
+  },
+  {
+    "text": "Yeah, but like look at this.",
+    "start": "00:14:41",
+    "end": "00:14:43"
+  },
+  {
+    "text": "It's the same discovery.",
+    "start": "00:14:43",
+    "end": "00:14:43"
+  },
+  {
+    "text": "It's literally career Dave style, right?",
+    "start": "00:14:43",
+    "end": "00:14:45"
+  },
+  {
+    "text": "It's like and it has two people now.",
+    "start": "00:14:45",
+    "end": "00:14:46"
+  },
+  {
+    "text": "It actually has three people.",
+    "start": "00:14:46",
+    "end": "00:14:47"
+  },
+  {
+    "text": "It has a third person in the background.",
+    "start": "00:14:47",
+    "end": "00:14:49"
+  },
+  {
+    "text": "So, it feels like the person is discovering something.",
+    "start": "00:14:49",
+    "end": "00:14:52"
+  },
+  {
+    "text": "Very quick interruption for a fun fact.",
+    "start": "00:14:52",
+    "end": "00:14:54"
+  },
+  {
+    "text": "Dan is a member of vetted group consumer club.",
+    "start": "00:14:54",
+    "end": "00:14:57"
+  },
+  {
+    "text": "It's for consumer app founders.",
+    "start": "00:14:55",
+    "end": "00:14:59"
+  },
+  {
+    "text": "The median revenue of a consumer club member is 1 million ARR.",
+    "start": "00:14:59",
+    "end": "00:15:01"
+  },
+  {
+    "text": "This does not mean you need 1 million ARR to join Consumer Club, but it is for vetted founders that kind of know what they're doing and they have some value to add to the group.",
+    "start": "00:15:01",
+    "end": "00:15:10"
+  },
+  {
+    "text": "Just wanted to say that.",
+    "start": "00:15:08",
+    "end": "00:15:11"
+  },
+  {
+    "text": "And also members of Super Wall team are inside of Consumer Club to help you with your pay walls.",
+    "start": "00:15:11",
+    "end": "00:15:13"
+  },
+  {
+    "text": "That's it.",
+    "start": "00:15:13",
+    "end": "00:15:14"
+  },
+  {
+    "text": "That's the interruption.",
+    "start": "00:15:14",
+    "end": "00:15:15"
+  },
+  {
+    "text": "Back to the episode.",
+    "start": "00:15:15",
+    "end": "00:15:16"
+  },
+  {
+    "text": "Yeah, I don't know if you saw where I screen shared, but like there's dozens of videos in this exact same style from like a dozen plus different accounts.",
+    "start": "00:15:16",
+    "end": "00:15:24"
+  },
+  {
+    "text": "When you find a format like that, you need to run with it.",
+    "start": "00:15:22",
+    "end": "00:15:26"
+  },
+  {
+    "text": "Breaking that down, you need to figure out why it works and then figure out how to be able to replicate it.",
+    "start": "00:15:26",
+    "end": "00:15:30"
+  },
+  {
+    "text": "In Alyssa's case, it took her weeks to actually figure out this format.",
+    "start": "00:15:30",
+    "end": "00:15:33"
+  },
+  {
+    "text": "Like all these videos were doing hundreds of views, hundreds of views, and she started doing this format and it was like kind of not really.",
+    "start": "00:15:33",
+    "end": "00:15:40"
+  },
+  {
+    "text": "And then, you know, it took her a few weeks to really get to to this, but she was doing the same thing over and over and over again.",
+    "start": "00:15:40",
+    "end": "00:15:45"
+  },
+  {
+    "text": "And I will say like the ones that were getting lower views didn't feel authentic at all.",
+    "start": "00:15:45",
+    "end": "00:15:49"
+  },
+  {
+    "text": "But then when you watch this, >> wow, it's so nuanced.",
+    "start": "00:15:49",
+    "end": "00:15:53"
+  },
+  {
+    "text": "It's like almost the same thing, but just the micro expressions and every Yeah.",
+    "start": "00:15:53",
+    "end": "00:15:58"
+  },
+  {
+    "text": "And that's the difference, dude.",
+    "start": "00:15:58",
+    "end": "00:15:59"
+  },
+  {
+    "text": "The same format, 382 views versus 1.",
+    "start": "00:15:59",
+    "end": "00:16:01"
+  },
+  {
+    "text": "7 million.",
+    "start": "00:16:01",
+    "end": "00:16:02"
+  },
+  {
+    "text": "And the conversions here, I know, are insane.",
+    "start": "00:16:02",
+    "end": "00:16:05"
+  },
+  {
+    "text": "Like the conversions for this format are very high.",
+    "start": "00:16:03",
+    "end": "00:16:06"
+  },
+  {
+    "text": "So, like, dude, the difference is first of all, you know, what does that take?",
+    "start": "00:16:06",
+    "end": "00:16:10"
+  },
+  {
+    "text": "You've got to find UGC creators who can do that format, who understand why it works.",
+    "start": "00:16:10",
+    "end": "00:16:14"
+  },
+  {
+    "text": "You have to coach them into that.",
+    "start": "00:16:14",
+    "end": "00:16:15"
+  },
+  {
+    "text": "You have to have them keep pumping that for weeks if you really believe in it.",
+    "start": "00:16:15",
+    "end": "00:16:18"
+  },
+  {
+    "text": "People like talk about UGC is like, \"Oh, we're going to let's try all this stuff.",
+    "start": "00:16:18",
+    "end": "00:16:22"
+  },
+  {
+    "text": "\" No, most UGC accounts looks like it's 500 videos, you know, a few hundred views.",
+    "start": "00:16:22",
+    "end": "00:16:26"
+  },
+  {
+    "text": "They look like garbage.",
+    "start": "00:16:26",
+    "end": "00:16:26"
+  },
+  {
+    "text": "They're trying different stuff.",
+    "start": "00:16:26",
+    "end": "00:16:27"
+  },
+  {
+    "text": "They're not like iterating on concepts that like if they got 6,000 views, they're not taking that and like trying to iterate on it.",
+    "start": "00:16:27",
+    "end": "00:16:33"
+  },
+  {
+    "text": "So, it's just all slop.",
+    "start": "00:16:33",
+    "end": "00:16:33"
+  },
+  {
+    "text": "What she did was she was like, \"All right, I'm going to try one thing.",
+    "start": "00:16:33",
+    "end": "00:16:36"
+  },
+  {
+    "text": "You know what?",
+    "start": "00:16:35",
+    "end": "00:16:36"
+  },
+  {
+    "text": "There's this other concept that's working.",
+    "start": "00:16:36",
+    "end": "00:16:38"
+  },
+  {
+    "text": "Let me try this.",
+    "start": "00:16:38",
+    "end": "00:16:39"
+  },
+  {
+    "text": "says, \"Oh, I got 6,000 views.",
+    "start": "00:16:38",
+    "end": "00:16:40"
+  },
+  {
+    "text": "Let me keep going here.",
+    "start": "00:16:40",
+    "end": "00:16:41"
+  },
+  {
+    "text": "\" And she went for another 4 weeks after that to get to where she was.",
+    "start": "00:16:41",
+    "end": "00:16:44"
+  },
+  {
+    "text": "That's UGC's.",
+    "start": "00:16:44",
+    "end": "00:16:46"
+  },
+  {
+    "text": "Like, you really got to like 80% has to be copying what's already gone viral because that's what's going to go viral again.",
+    "start": "00:16:46",
+    "end": "00:16:51"
+  },
+  {
+    "text": "I love this format.",
+    "start": "00:16:51",
+    "end": "00:16:51"
+  },
+  {
+    "text": "This is so good.",
+    "start": "00:16:51",
+    "end": "00:16:53"
+  },
+  {
+    "text": "The other guy I also found like I searched careers apply to jobs keywords.",
+    "start": "00:16:53",
+    "end": "00:16:56"
+  },
+  {
+    "text": "And then some of them are like the street interview like what do you do at work?",
+    "start": "00:16:56",
+    "end": "00:17:01"
+  },
+  {
+    "text": "Yeah, there's the guy.",
+    "start": "00:17:01",
+    "end": "00:17:01"
+  },
+  {
+    "text": "This video did 3,000 times the engagement of the median engagement.",
+    "start": "00:17:01",
+    "end": "00:17:06"
+  },
+  {
+    "text": ">> Good points about this too.",
+    "start": "00:17:05",
+    "end": "00:17:07"
+  },
+  {
+    "text": "like this is a good time to bring up.",
+    "start": "00:17:07",
+    "end": "00:17:08"
+  },
+  {
+    "text": "Number one, we did a video that had 11 million views and almost no conversion.",
+    "start": "00:17:08",
+    "end": "00:17:12"
+  },
+  {
+    "text": "It had conversion.",
+    "start": "00:17:12",
+    "end": "00:17:12"
+  },
+  {
+    "text": "It was like 20 camera like relatively not a lot.",
+    "start": "00:17:12",
+    "end": "00:17:14"
+  },
+  {
+    "text": "I'll show you that video right now.",
+    "start": "00:17:14",
+    "end": "00:17:16"
+  },
+  {
+    "text": "And then another thing is like but like grey hat UGC right now.",
+    "start": "00:17:16",
+    "end": "00:17:20"
+  },
+  {
+    "text": "I'm seeing it happen a bunch.",
+    "start": "00:17:18",
+    "end": "00:17:20"
+  },
+  {
+    "text": "It's psychotic and I think it needs to be called out and I think the companies need to be called out.",
+    "start": "00:17:20",
+    "end": "00:17:24"
+  },
+  {
+    "text": "I think like all that needs to end like most importantly they're just going to get sued by the FTC but at the same time this happened to every single ecom bro who's running a you know every gray hat and black hat offer.",
+    "start": "00:17:24",
+    "end": "00:17:32"
+  },
+  {
+    "text": "They lost everything.",
+    "start": "00:17:32",
+    "end": "00:17:33"
+  },
+  {
+    "text": "And I think the same thing is going to happen to apps.",
+    "start": "00:17:33",
+    "end": "00:17:35"
+  },
+  {
+    "text": "I think people look at apps as like, oh, like it's, you know, they're college students are just ripping views and stuff like that.",
+    "start": "00:17:35",
+    "end": "00:17:41"
+  },
+  {
+    "text": "But you're like misleading consumers watch.",
+    "start": "00:17:41",
+    "end": "00:17:42"
+  },
+  {
+    "text": "Okay, so I'm going to show you this video.",
+    "start": "00:17:42",
+    "end": "00:17:44"
+  },
+  {
+    "text": "This did roughly 11 million views, but almost no conversions.",
+    "start": "00:17:44",
+    "end": "00:17:45"
+  },
+  {
+    "text": "Like 20K MR.",
+    "start": "00:17:45",
+    "end": "00:17:47"
+  },
+  {
+    "text": "It's not a lot for 11 million.",
+    "start": "00:17:47",
+    "end": "00:17:48"
+  },
+  {
+    "text": "And it's like, who's still using Indeed?",
+    "start": "00:17:48",
+    "end": "00:17:50"
+  },
+  {
+    "text": "Look at this thing.",
+    "start": "00:17:50",
+    "end": "00:17:52"
+  },
+  {
+    "text": "It's Tinder for jobs.",
+    "start": "00:17:50",
+    "end": "00:17:52"
+  },
+  {
+    "text": "0 to 3 million views, it like did almost no conversions.",
+    "start": "00:17:52",
+    "end": "00:17:55"
+  },
+  {
+    "text": "And then 3 to 3 1/2 million, it did a ton of conversions.",
+    "start": "00:17:55",
+    "end": "00:17:59"
+  },
+  {
+    "text": "And 3 and 1 half to like 5 million, it did no conversions.",
+    "start": "00:17:57",
+    "end": "00:18:00"
+  },
+  {
+    "text": "And I was like watching this live and watching the conversions happening.",
+    "start": "00:18:00",
+    "end": "00:18:02"
+  },
+  {
+    "text": "And so it was just hitting the wrong audience at different points.",
+    "start": "00:18:02",
+    "end": "00:18:04"
+  },
+  {
+    "text": "and then all of a sudden hit the right audience for a little bit and then hit the wrong audience and I was seeing this happen live and that drilled into me this idea of like you've got to talk to the right audience at least for us.",
+    "start": "00:18:04",
+    "end": "00:18:13"
+  },
+  {
+    "text": "I think this is also really specific uh maybe to our product.",
+    "start": "00:18:13",
+    "end": "00:18:15"
+  },
+  {
+    "text": "I've learned that maybe for Cali it' be different maybe for like more general apps death clock whatever something that works for everybody.",
+    "start": "00:18:15",
+    "end": "00:18:22"
+  },
+  {
+    "text": "Number one, what we did wrong there was we targeted Indeed.",
+    "start": "00:18:21",
+    "end": "00:18:23"
+  },
+  {
+    "text": "You just got to read the comments like sounds like everyone but you are still using Indeed.",
+    "start": "00:18:23",
+    "end": "00:18:27"
+  },
+  {
+    "text": "That's because if you're like a dishwasher or like a plumber or like you know I don't know working a cashier job like yeah you're going to use Indeed.",
+    "start": "00:18:27",
+    "end": "00:18:32"
+  },
+  {
+    "text": "You're going to apply to three jobs.",
+    "start": "00:18:32",
+    "end": "00:18:34"
+  },
+  {
+    "text": "you're going to get four interviews and you're like, I'm set.",
+    "start": "00:18:34",
+    "end": "00:18:36"
+  },
+  {
+    "text": "Like, I'm great.",
+    "start": "00:18:36",
+    "end": "00:18:37"
+  },
+  {
+    "text": "I'm making $23 an hour now instead of 21.",
+    "start": "00:18:37",
+    "end": "00:18:39"
+  },
+  {
+    "text": "Versus if you're like working a white collar job and you're like, you have like stuff going on on the weekend.",
+    "start": "00:18:39",
+    "end": "00:18:43"
+  },
+  {
+    "text": "You don't have time to apply, but you're making a decent amount of money or you've just lost your job.",
+    "start": "00:18:43",
+    "end": "00:18:46"
+  },
+  {
+    "text": "You've been laid off and you've got some time to like explore and you know that in tech for white collar jobs, it takes hundreds of applications and you're just going to want to automate that.",
+    "start": "00:18:46",
+    "end": "00:18:53"
+  },
+  {
+    "text": "I would pay a lot of money for that.",
+    "start": "00:18:53",
+    "end": "00:18:54"
+  },
+  {
+    "text": "So, this is all about hitting the right audience.",
+    "start": "00:18:54",
+    "end": "00:18:56"
+  },
+  {
+    "text": "This is the exact thing I'm talking about like hitting the wrong audience.",
+    "start": "00:18:56",
+    "end": "00:18:59"
+  },
+  {
+    "text": ">> It kind of makes sense.",
+    "start": "00:18:58",
+    "end": "00:19:00"
+  },
+  {
+    "text": "Like I guess that's one problem with organic is that you don't optimize.",
+    "start": "00:19:00",
+    "end": "00:19:03"
+  },
+  {
+    "text": "There's no like conversion event.",
+    "start": "00:19:03",
+    "end": "00:19:05"
+  },
+  {
+    "text": "Like Tik Tok is optimizing for views, not conversions obviously.",
+    "start": "00:19:05",
+    "end": "00:19:08"
+  },
+  {
+    "text": "Whereas if it was in an ad, you could tell the ad platform.",
+    "start": "00:19:08",
+    "end": "00:19:12"
+  },
+  {
+    "text": "Okay, I'm optimizing for conversions.",
+    "start": "00:19:12",
+    "end": "00:19:14"
+  },
+  {
+    "text": "It would continue to show it to eyeballs that are similar to the eyeballs that just purchased compared to this where it's just showing it to more and more people regardless of who's converting.",
+    "start": "00:19:14",
+    "end": "00:19:23"
+  },
+  {
+    "text": "And you're going to hope that you get some.",
+    "start": "00:19:23",
+    "end": "00:19:24"
+  },
+  {
+    "text": "But it seems like it's still a pretty good strat.",
+    "start": "00:19:23",
+    "end": "00:19:25"
+  },
+  {
+    "text": "Like if you have 11 million views and like some percentage of those views are high converting, like does it feel worth it to you?",
+    "start": "00:19:25",
+    "end": "00:19:33"
+  },
+  {
+    "text": ">> Getting to there is actually pretty hard and took us a bunch of shots on target.",
+    "start": "00:19:31",
+    "end": "00:19:36"
+  },
+  {
+    "text": "Like at that by the time we got to this video, we'd been running a UC program for like a year.",
+    "start": "00:19:35",
+    "end": "00:19:39"
+  },
+  {
+    "text": "I really just like wanted to restart it and put a lot of new energy into it.",
+    "start": "00:19:39",
+    "end": "00:19:42"
+  },
+  {
+    "text": "And this happened within the first like 4 days of like restarting that UGC program, but then that program dies.",
+    "start": "00:19:42",
+    "end": "00:19:46"
+  },
+  {
+    "text": "Like you know, it's just like it requires a lot of management.",
+    "start": "00:19:46",
+    "end": "00:19:49"
+  },
+  {
+    "text": "So the question is, is it worth it?",
+    "start": "00:19:49",
+    "end": "00:19:50"
+  },
+  {
+    "text": "For me, it's only worth it if number one, it's something that I can do relatively long-term and scale hard.",
+    "start": "00:19:50",
+    "end": "00:19:57"
+  },
+  {
+    "text": "I feel like UGC just like doesn't scale that hard.",
+    "start": "00:19:57",
+    "end": "00:19:58"
+  },
+  {
+    "text": "We could talk about like Cluey a little bit here because it's tough to get signals about what converts and what doesn't.",
+    "start": "00:19:58",
+    "end": "00:20:04"
+  },
+  {
+    "text": "And I think that you should pay to get that data.",
+    "start": "00:20:04",
+    "end": "00:20:07"
+  },
+  {
+    "text": "So, I think maybe paid ads is a better approach for that than at least UGC because you get real data of what's working and what's not and you can iterate much faster versus having to guess and take random shots to get views.",
+    "start": "00:20:07",
+    "end": "00:20:19"
+  },
+  {
+    "text": "Unless you have a really broad product and like you're doing DTOC like Neurogum for example, they have almost in-house affiliates.",
+    "start": "00:20:19",
+    "end": "00:20:26"
+  },
+  {
+    "text": "You just see creators and they have another like 100,000 on Tik Tok shop and they were doing it maybe nine plus figures.",
+    "start": "00:20:25",
+    "end": "00:20:31"
+  },
+  {
+    "text": "But Neurogum kind of is for everyone, you know, so they really only just care about views and maybe paid doesn't work for them as well.",
+    "start": "00:20:31",
+    "end": "00:20:37"
+  },
+  {
+    "text": "So this is why I'm saying like really take this with a grain of salt and see if it applies to you.",
+    "start": "00:20:37",
+    "end": "00:20:40"
+  },
+  {
+    "text": "I think that's what a lot of people don't do.",
+    "start": "00:20:40",
+    "end": "00:20:42"
+  },
+  {
+    "text": "But if you're thinking about really like conversions and that's an important point for you and then scalability like paid is probably the answer because you get so much more data so much faster with this format.",
+    "start": "00:20:42",
+    "end": "00:20:51"
+  },
+  {
+    "text": "Does it matter?",
+    "start": "00:20:51",
+    "end": "00:20:52"
+  },
+  {
+    "text": "Again, it doesn't scale for me because in order for me to get this to scale, like I'd have to hire 2, three, 400 creators who kind of would be doing that exact same style over and over again, manage them.",
+    "start": "00:20:52",
+    "end": "00:21:03"
+  },
+  {
+    "text": "Like it just it's a lot more work.",
+    "start": "00:21:01",
+    "end": "00:21:04"
+  },
+  {
+    "text": "Let's talk about some like bad stuff.",
+    "start": "00:21:04",
+    "end": "00:21:06"
+  },
+  {
+    "text": "This company called PrepAI, I think they started with this like Nicole spam account.",
+    "start": "00:21:06",
+    "end": "00:21:09"
+  },
+  {
+    "text": "They're doing two or three different types of skits and it's like it's causing a lot of people to see that at least in some of the group chats that I'm in and be like, \"Oh, we should do similar.",
+    "start": "00:21:09",
+    "end": "00:21:17"
+  },
+  {
+    "text": "\" And people are coming to me and being like, \"We should do similar.",
+    "start": "00:21:17",
+    "end": "00:21:20"
+  },
+  {
+    "text": "\" And I think like this should be squashed immediately.",
+    "start": "00:21:20",
+    "end": "00:21:21"
+  },
+  {
+    "text": "Kind of for anyone listening, I think they're trying anything and everything to get views.",
+    "start": "00:21:21",
+    "end": "00:21:26"
+  },
+  {
+    "text": "Not only is it legal, it's also just like a bad look and kills the rest of the consumer subscription industry cuz then it's like you're using shady marketing tactics to try to get people's money.",
+    "start": "00:21:25",
+    "end": "00:21:33"
+  },
+  {
+    "text": "It also ends up being part of the culture of a company usually.",
+    "start": "00:21:33",
+    "end": "00:21:37"
+  },
+  {
+    "text": "So, if you find yourself like copying stuff early on, it's fine.",
+    "start": "00:21:37",
+    "end": "00:21:40"
+  },
+  {
+    "text": "In this case, like this company straight up copied word for word our onboarding, the colors, the buttons, every single detail, and then they started copying viral formats and making it seem like this user actually landed a job.",
+    "start": "00:21:40",
+    "end": "00:21:53"
+  },
+  {
+    "text": "So, one format that has been working, oh, I landed a job finally.",
+    "start": "00:21:53",
+    "end": "00:21:58"
+  },
+  {
+    "text": "It's like war is over.",
+    "start": "00:21:56",
+    "end": "00:21:58"
+  },
+  {
+    "text": "And this format was going viral.",
+    "start": "00:21:58",
+    "end": "00:22:00"
+  },
+  {
+    "text": "It was a good format.",
+    "start": "00:22:00",
+    "end": "00:22:02"
+  },
+  {
+    "text": "And it makes it seem like they are actually landing a job.",
+    "start": "00:21:59",
+    "end": "00:22:04"
+  },
+  {
+    "text": "And then in the comments, that's where they convert.",
+    "start": "00:22:04",
+    "end": "00:22:07"
+  },
+  {
+    "text": "So they get kind of a lot of people to go, you know, like shout out to Prep AI and they're converting people in the comments.",
+    "start": "00:22:07",
+    "end": "00:22:11"
+  },
+  {
+    "text": "And then people are coming in, use my code for Prep AI.",
+    "start": "00:22:11",
+    "end": "00:22:14"
+  },
+  {
+    "text": "So the comments are really moderated.",
+    "start": "00:22:14",
+    "end": "00:22:16"
+  },
+  {
+    "text": "The video has nothing to do with like converting people.",
+    "start": "00:22:16",
+    "end": "00:22:18"
+  },
+  {
+    "text": "It's a Trojan horse to like get comments and engagement and then convert people in the comments.",
+    "start": "00:22:18",
+    "end": "00:22:24"
+  },
+  {
+    "text": "The fact that she's lying and acting as somebody else, like this is definitely illegal.",
+    "start": "00:22:24",
+    "end": "00:22:28"
+  },
+  {
+    "text": "There's another format that they're running right now.",
+    "start": "00:22:28",
+    "end": "00:22:29"
+  },
+  {
+    "text": "There's another one where it's like, I just landed a job.",
+    "start": "00:22:29",
+    "end": "00:22:33"
+  },
+  {
+    "text": "It was AI.",
+    "start": "00:22:33",
+    "end": "00:22:31"
+  },
+  {
+    "text": "And like H&R Block is commenting like 100% when found by the right person, they will get in a lot of trouble.",
+    "start": "00:22:31",
+    "end": "00:22:37"
+  },
+  {
+    "text": "People in the comments now are like catching on to that and as soon as more people catch on, they're just like this is psychotic.",
+    "start": "00:22:37",
+    "end": "00:22:42"
+  },
+  {
+    "text": "So another thing that they're doing is like they were running like recording that they were getting either fired or accepting a job offer.",
+    "start": "00:22:42",
+    "end": "00:22:49"
+  },
+  {
+    "text": "So it's like they would put their phone down and they would record themselves getting a job offer and then in the comments they would be like, \"I got it from Prep AI.",
+    "start": "00:22:47",
+    "end": "00:22:55"
+  },
+  {
+    "text": "\" What they did is like copy viral videos really well.",
+    "start": "00:22:55",
+    "end": "00:22:58"
+  },
+  {
+    "text": "So they grabbed viral videos of people landing jobs.",
+    "start": "00:22:58",
+    "end": "00:22:59"
+  },
+  {
+    "text": "And some of the creators we worked with too, they were like, \"Holy like this was my real like layoff video or my real job offer acceptance video and they copied word for word.",
+    "start": "00:22:59",
+    "end": "00:23:09"
+  },
+  {
+    "text": "\" I actually know someone who made a real job acceptance video and it wasn't for a brand or anything and then someone else ripped it.",
+    "start": "00:23:09",
+    "end": "00:23:16"
+  },
+  {
+    "text": ">> That's what's happening right now.",
+    "start": "00:23:14",
+    "end": "00:23:16"
+  },
+  {
+    "text": "It's very illegal.",
+    "start": "00:23:16",
+    "end": "00:23:17"
+  },
+  {
+    "text": "It looks like they've started to take it down thankfully.",
+    "start": "00:23:17",
+    "end": "00:23:20"
+  },
+  {
+    "text": "Looks like they got called out for it.",
+    "start": "00:23:18",
+    "end": "00:23:21"
+  },
+  {
+    "text": ">> The commenting strategy is pretty interesting though.",
+    "start": "00:23:20",
+    "end": "00:23:23"
+  },
+  {
+    "text": "How would you use that?",
+    "start": "00:23:23",
+    "end": "00:23:25"
+  },
+  {
+    "text": ">> I would never.",
+    "start": "00:23:24",
+    "end": "00:23:25"
+  },
+  {
+    "text": "I don't agree with like I'm here to build this company for a very long time and make it a really big company, build it for 10 plus years and so I just won't do any of that stuff.",
+    "start": "00:23:25",
+    "end": "00:23:33"
+  },
+  {
+    "text": "It doesn't matter if it fits the difference between like a hund00 million a year or $200 million a year.",
+    "start": "00:23:33",
+    "end": "00:23:36"
+  },
+  {
+    "text": "I'm not going to do it >> for sure.",
+    "start": "00:23:36",
+    "end": "00:23:38"
+  },
+  {
+    "text": "Yeah, definitely.",
+    "start": "00:23:38",
+    "end": "00:23:39"
+  },
+  {
+    "text": "Cool.",
+    "start": "00:23:39",
+    "end": "00:23:39"
+  },
+  {
+    "text": "What do you think about indie hackers?",
+    "start": "00:23:39",
+    "end": "00:23:42"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:23:40",
+    "end": "00:23:40"
+  },
+  {
+    "text": "I guess I got back to this thing.",
+    "start": "00:23:40",
+    "end": "00:23:43"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:23:42",
+    "end": "00:23:42"
+  },
+  {
+    "text": "I just think that people should be thinking bigger.",
+    "start": "00:23:42",
+    "end": "00:23:44"
+  },
+  {
+    "text": "Indie hackers are really like negative people overall.",
+    "start": "00:23:44",
+    "end": "00:23:48"
+  },
+  {
+    "text": "Like, oh, this person built this app and they're making so much money.",
+    "start": "00:23:46",
+    "end": "00:23:49"
+  },
+  {
+    "text": "It's so easy.",
+    "start": "00:23:49",
+    "end": "00:23:49"
+  },
+  {
+    "text": "It's luck.",
+    "start": "00:23:49",
+    "end": "00:23:49"
+  },
+  {
+    "text": "It's all this stuff.",
+    "start": "00:23:49",
+    "end": "00:23:51"
+  },
+  {
+    "text": "It's like no, a lot of people just kind of like push really hard and like figure out what to do.",
+    "start": "00:23:50",
+    "end": "00:23:54"
+  },
+  {
+    "text": "One example is Headway.",
+    "start": "00:23:54",
+    "end": "00:23:56"
+  },
+  {
+    "text": "Did you hear about Headway?",
+    "start": "00:23:55",
+    "end": "00:23:57"
+  },
+  {
+    "text": "Headway is this app that gives you 15-inute book summaries, $2 to $300 million a year, 30% margins and two times year-over-year growth on straight paid on performance marketing on paid ads.",
+    "start": "00:23:57",
+    "end": "00:24:08"
+  },
+  {
+    "text": "And it's a simple app.",
+    "start": "00:24:08",
+    "end": "00:24:08"
+  },
+  {
+    "text": "I don't know that it necessarily solves any painful problem.",
+    "start": "00:24:08",
+    "end": "00:24:12"
+  },
+  {
+    "text": "It's not like, oh, I have this thing every day.",
+    "start": "00:24:12",
+    "end": "00:24:14"
+  },
+  {
+    "text": "I wish I could summarize this book every single day and read a 15-inute summary.",
+    "start": "00:24:14",
+    "end": "00:24:17"
+  },
+  {
+    "text": "Like, no one's asked for that.",
+    "start": "00:24:16",
+    "end": "00:24:18"
+  },
+  {
+    "text": "But they kind of just kept pushing and figured out paid ads arbitrage to scale to $200 to $300 million.",
+    "start": "00:24:18",
+    "end": "00:24:22"
+  },
+  {
+    "text": "kept pushing and pushing and pushing and pushing.",
+    "start": "00:24:22",
+    "end": "00:24:24"
+  },
+  {
+    "text": "They were bootstrapped the whole way, by the way.",
+    "start": "00:24:24",
+    "end": "00:24:25"
+  },
+  {
+    "text": "You just got to keep pushing in the right direction.",
+    "start": "00:24:25",
+    "end": "00:24:27"
+  },
+  {
+    "text": "It's hard for a lot of people.",
+    "start": "00:24:27",
+    "end": "00:24:28"
+  },
+  {
+    "text": "The success stories that you hear on here, you know, like, I got to 3 million MR in like 6 months.",
+    "start": "00:24:28",
+    "end": "00:24:34"
+  },
+  {
+    "text": "Like, okay, that happens very rarely.",
+    "start": "00:24:34",
+    "end": "00:24:36"
+  },
+  {
+    "text": "For most people, it's more difficult, but you can still get an insanely cool outcome.",
+    "start": "00:24:36",
+    "end": "00:24:40"
+  },
+  {
+    "text": "And I think Lee hackers like kind of kill that cuz they just keep moving on project after project after project.",
+    "start": "00:24:40",
+    "end": "00:24:45"
+  },
+  {
+    "text": "I I even blocked Peter levels on on this thing because of that because it seems like they just are totally against these bigger companies like no, find your time.",
+    "start": "00:24:45",
+    "end": "00:24:49"
+  },
+  {
+    "text": "I'm like, \"No, like if you've got a good product and people are paying like 50k a month for it with one person on the team, like some basic bootstrap, like some UGC stuff and it's like working, scaleit out of it.",
+    "start": "00:24:49",
+    "end": "00:24:58"
+  },
+  {
+    "text": "Like figure it out.",
+    "start": "00:24:58",
+    "end": "00:24:58"
+  },
+  {
+    "text": "You can turn that into 500k a month.",
+    "start": "00:24:58",
+    "end": "00:25:00"
+  },
+  {
+    "text": "You can turn that into 5 million a month probably.",
+    "start": "00:25:00",
+    "end": "00:25:02"
+  },
+  {
+    "text": "\" I feel like the indie hacker persona is very technical.",
+    "start": "00:25:02",
+    "end": "00:25:06"
+  },
+  {
+    "text": "Like you it's all about building the product and then it's not as much about marketing.",
+    "start": "00:25:06",
+    "end": "00:25:10"
+  },
+  {
+    "text": "I mean, there's a lot of Twitter indie hackers and they sell like proumer SAS.",
+    "start": "00:25:10",
+    "end": "00:25:14"
+  },
+  {
+    "text": "How do they grow it?",
+    "start": "00:25:14",
+    "end": "00:25:17"
+  },
+  {
+    "text": "They just like post on Product Hunt and post on Twitter basically to other indie hackers like in a way.",
+    "start": "00:25:17",
+    "end": "00:25:21"
+  },
+  {
+    "text": "Do you feel like the difference between I guess the indie hacker persona and what you're more of a fan of is like the focus on marketing and iterating on distribution strategies and tactics rather than iterating on product ideas.",
+    "start": "00:25:21",
+    "end": "00:25:33"
+  },
+  {
+    "text": "It's a good question.",
+    "start": "00:25:33",
+    "end": "00:25:35"
+  },
+  {
+    "text": "Look, I think if you care about your product and your users, you'll figure out how to tell people about it.",
+    "start": "00:25:33",
+    "end": "00:25:39"
+  },
+  {
+    "text": "And so maybe what's happening is they're building products they don't really believe in too much.",
+    "start": "00:25:39",
+    "end": "00:25:42"
+  },
+  {
+    "text": "Is like I've seen a lot of the projects that a lot of people are working on.",
+    "start": "00:25:42",
+    "end": "00:25:44"
+  },
+  {
+    "text": "It's like what?",
+    "start": "00:25:44",
+    "end": "00:25:45"
+  },
+  {
+    "text": "like you're just launching stuff.",
+    "start": "00:25:45",
+    "end": "00:25:46"
+  },
+  {
+    "text": "It's just like literally throwing spaghetti at a wall.",
+    "start": "00:25:46",
+    "end": "00:25:47"
+  },
+  {
+    "text": "But my point is like there should be a bar for quality right now.",
+    "start": "00:25:47",
+    "end": "00:25:51"
+  },
+  {
+    "text": "And I think the bar for quality and just like giving ait about your product and your marketing like if you give about it, you'll figure it out.",
+    "start": "00:25:51",
+    "end": "00:25:57"
+  },
+  {
+    "text": "There's not like a skill set for marketing.",
+    "start": "00:25:57",
+    "end": "00:25:59"
+  },
+  {
+    "text": "I think for me, I hate marketing and I see people that are very natural at it, but I care about my product.",
+    "start": "00:25:59",
+    "end": "00:26:03"
+  },
+  {
+    "text": "I care about our users deeply.",
+    "start": "00:26:03",
+    "end": "00:26:04"
+  },
+  {
+    "text": "I care about the problem that I'm solving.",
+    "start": "00:26:04",
+    "end": "00:26:05"
+  },
+  {
+    "text": "It's personal for me.",
+    "start": "00:26:05",
+    "end": "00:26:07"
+  },
+  {
+    "text": "I'll find any way to tell people about it.",
+    "start": "00:26:07",
+    "end": "00:26:09"
+  },
+  {
+    "text": "And now it feels really natural cuz I'm just like, wow.",
+    "start": "00:26:08",
+    "end": "00:26:10"
+  },
+  {
+    "text": "Like I really believe in this thing.",
+    "start": "00:26:10",
+    "end": "00:26:11"
+  },
+  {
+    "text": "I'm just telling people about it.",
+    "start": "00:26:11",
+    "end": "00:26:12"
+  },
+  {
+    "text": "just finding ways to tell people about it and get it to use it and when they come they like love it.",
+    "start": "00:26:12",
+    "end": "00:26:17"
+  },
+  {
+    "text": "They're landing jobs.",
+    "start": "00:26:15",
+    "end": "00:26:18"
+  },
+  {
+    "text": "It's amazing.",
+    "start": "00:26:18",
+    "end": "00:26:19"
+  },
+  {
+    "text": "It's the coolest rush of dopamine ever.",
+    "start": "00:26:19",
+    "end": "00:26:20"
+  },
+  {
+    "text": "So, I would say that like just give a about what you're building.",
+    "start": "00:26:20",
+    "end": "00:26:23"
+  },
+  {
+    "text": "Give about your users and I think that will naturally translate into you figuring out how to tell more people about it.",
+    "start": "00:26:23",
+    "end": "00:26:29"
+  },
+  {
+    "text": "That's really good advice.",
+    "start": "00:26:27",
+    "end": "00:26:30"
+  },
+  {
+    "text": "I feel like that kind of relates to choosing markets too, right?",
+    "start": "00:26:30",
+    "end": "00:26:32"
+  },
+  {
+    "text": "Like what you're kind of saying is be passionate about your product.",
+    "start": "00:26:32",
+    "end": "00:26:34"
+  },
+  {
+    "text": "Your product should be an extension of your beliefs and experiences and like your genuine conviction.",
+    "start": "00:26:34",
+    "end": "00:26:39"
+  },
+  {
+    "text": "Do you also think strategically about like okay I'm going to go after this like yes this is an extension of me but also I care about the LTV and like the size of my and stuff like that.",
+    "start": "00:26:39",
+    "end": "00:26:48"
+  },
+  {
+    "text": "I have anxiety every single day because I think about disrupting us my company what makes us grow.",
+    "start": "00:26:48",
+    "end": "00:26:53"
+  },
+  {
+    "text": "What are we missing?",
+    "start": "00:26:53",
+    "end": "00:26:55"
+  },
+  {
+    "text": "You can work really hard and work 12 hours a day 996 whatever and do it on the wrong stuff and like you'll get to an okay outcome but if you just kind of slightly changed the stuff that you were working on you could maybe 10x or 100x that outcome.",
+    "start": "00:26:55",
+    "end": "00:27:07"
+  },
+  {
+    "text": "Sometimes it's a market change.",
+    "start": "00:27:06",
+    "end": "00:27:09"
+  },
+  {
+    "text": "Sometimes it's a demographic change, but you really should be thinking about like who wants our product, who will pay the most amount of money for it, what do they want, and what is that something?",
+    "start": "00:27:07",
+    "end": "00:27:17"
+  },
+  {
+    "text": "Is it your product that like really we should be thinking more about like build something people want?",
+    "start": "00:27:15",
+    "end": "00:27:20"
+  },
+  {
+    "text": "So, one example I'll give is like, you know, we can even go to sensor tower here and I'll show you the the note-taking apps.",
+    "start": "00:27:20",
+    "end": "00:27:25"
+  },
+  {
+    "text": "All right, so they're doing like it says like 100K over here, maybe combining these two with like 170K downloads and they're targeting a younger audience and then you have like answers AI.",
+    "start": "00:27:25",
+    "end": "00:27:33"
+  },
+  {
+    "text": "I don't know if they're dead or what, but like I haven't seen them while like so they're like probably 10 15k MR and then all of a sudden you get to an even older audience, Minutes AI, and they're doing 30k downloads and 300k a month.",
+    "start": "00:27:33",
+    "end": "00:27:44"
+  },
+  {
+    "text": "And you know what I mean?",
+    "start": "00:27:44",
+    "end": "00:27:45"
+  },
+  {
+    "text": "Turbol I think is doing a tremendous amount more views, like 170k downloads.",
+    "start": "00:27:45",
+    "end": "00:27:49"
+  },
+  {
+    "text": "They're just targeting an older audience and they're making three times more money with like 1/5 or 16th the amount of downloads.",
+    "start": "00:27:49",
+    "end": "00:27:56"
+  },
+  {
+    "text": "So there's a huge lesson in there.",
+    "start": "00:27:56",
+    "end": "00:27:57"
+  },
+  {
+    "text": "Like if you just literally like for them it's the same freaking app just targeted towards a different audience.",
+    "start": "00:27:57",
+    "end": "00:28:02"
+  },
+  {
+    "text": "consumer example is like Master School.",
+    "start": "00:28:02",
+    "end": "00:28:04"
+  },
+  {
+    "text": "It's like a random boot camp that services mainly German students.",
+    "start": "00:28:04",
+    "end": "00:28:06"
+  },
+  {
+    "text": "So, they were doing decent, right, at like $50 million a year.",
+    "start": "00:28:06",
+    "end": "00:28:09"
+  },
+  {
+    "text": "Took them a while to get here, too.",
+    "start": "00:28:09",
+    "end": "00:28:11"
+  },
+  {
+    "text": "And then immediately they tripled in like in a quarter.",
+    "start": "00:28:11",
+    "end": "00:28:14"
+  },
+  {
+    "text": "And what changed?",
+    "start": "00:28:14",
+    "end": "00:28:16"
+  },
+  {
+    "text": "They had this thing called Maestro.",
+    "start": "00:28:14",
+    "end": "00:28:17"
+  },
+  {
+    "text": "This is actually not the product.",
+    "start": "00:28:17",
+    "end": "00:28:19"
+  },
+  {
+    "text": "This is like a a funnel to get you to apply to their boot camp.",
+    "start": "00:28:19",
+    "end": "00:28:21"
+  },
+  {
+    "text": "But I think they figured out a way to give a lot of people scholarships.",
+    "start": "00:28:21",
+    "end": "00:28:25"
+  },
+  {
+    "text": "And they leverage that with this explosion of like now vibe coders who like, oh, I can build stuff.",
+    "start": "00:28:25",
+    "end": "00:28:29"
+  },
+  {
+    "text": "All those people who are like, I want to build stuff, but I actually have the gap of not knowing what to what to do.",
+    "start": "00:28:29",
+    "end": "00:28:33"
+  },
+  {
+    "text": "They now found out about Maestro.",
+    "start": "00:28:33",
+    "end": "00:28:37"
+  },
+  {
+    "text": "And they're like, holy I can get 100% off.",
+    "start": "00:28:35",
+    "end": "00:28:37"
+  },
+  {
+    "text": "It's like completely free, but wants a real degree.",
+    "start": "00:28:37",
+    "end": "00:28:40"
+  },
+  {
+    "text": "And their parents like this is insane.",
+    "start": "00:28:40",
+    "end": "00:28:42"
+  },
+  {
+    "text": "And you can get 100% scholarship.",
+    "start": "00:28:42",
+    "end": "00:28:43"
+  },
+  {
+    "text": "Of course, their revenue tripled.",
+    "start": "00:28:43",
+    "end": "00:28:44"
+  },
+  {
+    "text": "You know what I mean?",
+    "start": "00:28:44",
+    "end": "00:28:45"
+  },
+  {
+    "text": "Like this is an obvious kind of thing that meets the product that meets the market exactly where it needs to be.",
+    "start": "00:28:44",
+    "end": "00:28:50"
+  },
+  {
+    "text": "And then when you see that tweet of like this is their AI launch, three times revenue in less than a quarter.",
+    "start": "00:28:50",
+    "end": "00:28:55"
+  },
+  {
+    "text": "That was one small change.",
+    "start": "00:28:55",
+    "end": "00:28:55"
+  },
+  {
+    "text": "So this is what I'm constantly looking for.",
+    "start": "00:28:55",
+    "end": "00:28:58"
+  },
+  {
+    "text": "And it's an uncomfortable thing cuz it feels like you're chasing this like is this it?",
+    "start": "00:28:58",
+    "end": "00:29:02"
+  },
+  {
+    "text": "Is this going to make us more money?",
+    "start": "00:29:02",
+    "end": "00:29:03"
+  },
+  {
+    "text": "But it's important cuz it can really make the difference.",
+    "start": "00:29:03",
+    "end": "00:29:04"
+  },
+  {
+    "text": "You can make an impact for yourself, for your company, for the people around you, for your users.",
+    "start": "00:29:04",
+    "end": "00:29:10"
+  },
+  {
+    "text": "Always take shots on goal.",
+    "start": "00:29:08",
+    "end": "00:29:10"
+  },
+  {
+    "text": "What is the AI pivot?",
+    "start": "00:29:10",
+    "end": "00:29:11"
+  },
+  {
+    "text": "Previously, what they were doing is they were they had boot camps, I think mainly for software engineers and then they would try to place them at companies.",
+    "start": "00:29:11",
+    "end": "00:29:17"
+  },
+  {
+    "text": "This is mainly a marketing positioning because when you first go here, like you think it's like, oh, like this is the AI product and like what do you want to do?",
+    "start": "00:29:17",
+    "end": "00:29:25"
+  },
+  {
+    "text": "What do you want to be?",
+    "start": "00:29:25",
+    "end": "00:29:26"
+  },
+  {
+    "text": "Like there are a few options like so mainly now software engineer building nextgen apps.",
+    "start": "00:29:25",
+    "end": "00:29:29"
+  },
+  {
+    "text": "Awesome.",
+    "start": "00:29:29",
+    "end": "00:29:30"
+  },
+  {
+    "text": "Pretty much every answer you answer here will lead you to this call to action.",
+    "start": "00:29:30",
+    "end": "00:29:33"
+  },
+  {
+    "text": "So this is the main product.",
+    "start": "00:29:33",
+    "end": "00:29:35"
+  },
+  {
+    "text": ">> And then do they make money on the scholarships or is it like government paying or >> most likely guess they're probably getting money from the government.",
+    "start": "00:29:34",
+    "end": "00:29:40"
+  },
+  {
+    "text": "They figured out a way to get money from the government.",
+    "start": "00:29:40",
+    "end": "00:29:41"
+  },
+  {
+    "text": "I remember like a company like Main Street did this with R&D tax credits.",
+    "start": "00:29:41",
+    "end": "00:29:44"
+  },
+  {
+    "text": "Um and they figured out how to get free money from the government and then they just had a lot of people sign up.",
+    "start": "00:29:44",
+    "end": "00:29:47"
+  },
+  {
+    "text": "A lot of companies sign up and they you know killed it for like a year or two until the government closed that loophole.",
+    "start": "00:29:47",
+    "end": "00:29:51"
+  },
+  {
+    "text": "So might be something similar that's happening here.",
+    "start": "00:29:51",
+    "end": "00:29:54"
+  },
+  {
+    "text": "I just like how you funnel hack everything.",
+    "start": "00:29:54",
+    "end": "00:29:56"
+  },
+  {
+    "text": "You're going through maestro and you're like, \"Oh, I haven't signed up yet.",
+    "start": "00:29:56",
+    "end": "00:29:58"
+  },
+  {
+    "text": "\" What's your mindset when you're funnel hacking?",
+    "start": "00:29:58",
+    "end": "00:30:00"
+  },
+  {
+    "text": "Like, what would the takeaway be for you for for Maestro?",
+    "start": "00:29:59",
+    "end": "00:30:02"
+  },
+  {
+    "text": "Research competitors and spy on their competitors and get stuff and you'll spend 90% of your day researching.",
+    "start": "00:30:02",
+    "end": "00:30:08"
+  },
+  {
+    "text": "Like, just go do and try it out on your own.",
+    "start": "00:30:08",
+    "end": "00:30:11"
+  },
+  {
+    "text": "Like, get the main idea behind why you think their thing worked and then take it back to your own company and take a bunch of shots and and then keep trying to figure it out.",
+    "start": "00:30:11",
+    "end": "00:30:19"
+  },
+  {
+    "text": "At least that's what I do.",
+    "start": "00:30:17",
+    "end": "00:30:20"
+  },
+  {
+    "text": "Let's say someone's at like five figure MR and they're trying to get it to six and they're kind of in this research loop.",
+    "start": "00:30:20",
+    "end": "00:30:25"
+  },
+  {
+    "text": "When you're at that stage, what is the thing that you just pure execution?",
+    "start": "00:30:24",
+    "end": "00:30:28"
+  },
+  {
+    "text": "You just got to go do that thing.",
+    "start": "00:30:28",
+    "end": "00:30:30"
+  },
+  {
+    "text": "Pricing changes, UGC content, whatever you have energy for and whatever you think you can do.",
+    "start": "00:30:30",
+    "end": "00:30:33"
+  },
+  {
+    "text": "Like there's going to be stuff that you really want to do and that is like feels like a shiny little object and you're like, \"Oh my god, they just reached 5 million MR with this one hack.",
+    "start": "00:30:33",
+    "end": "00:30:42"
+  },
+  {
+    "text": "\" Like no.",
+    "start": "00:30:42",
+    "end": "00:30:43"
+  },
+  {
+    "text": "And it worked for them for a very specific reason that you don't know why and you can't scale.",
+    "start": "00:30:43",
+    "end": "00:30:47"
+  },
+  {
+    "text": "I'll give you the bumps of what it was for us.",
+    "start": "00:30:47",
+    "end": "00:30:48"
+  },
+  {
+    "text": "We doubled our revenue from pricing changes.",
+    "start": "00:30:48",
+    "end": "00:30:51"
+  },
+  {
+    "text": "We increased revenue 50% by doing ads in a specific way.",
+    "start": "00:30:51",
+    "end": "00:30:56"
+  },
+  {
+    "text": "But all that stuff came from 80% of stuff that didn't work and it came together almost like not on purpose.",
+    "start": "00:30:56",
+    "end": "00:31:02"
+  },
+  {
+    "text": "Like I didn't know what would work and I was just trying it and now I know why it works and I know how to scale it and I know like oh I know exactly the path to a million MR.",
+    "start": "00:31:02",
+    "end": "00:31:10"
+  },
+  {
+    "text": "Some people see UGC and they have this anxiety like I really want to do it.",
+    "start": "00:31:08",
+    "end": "00:31:13"
+  },
+  {
+    "text": "It's what's going to bring me from five to six figures to seven figures MR but they don't post any videos.",
+    "start": "00:31:11",
+    "end": "00:31:16"
+  },
+  {
+    "text": "That's 90% of people probably they don't post a single video or they don't hire a single creator or they don't work with a single influencer because they're scared, they're anxious.",
+    "start": "00:31:16",
+    "end": "00:31:23"
+  },
+  {
+    "text": "That's actually such good advice for like like a lot of entrepreneurs.",
+    "start": "00:31:23",
+    "end": "00:31:27"
+  },
+  {
+    "text": "I mean, I think people get super stuck and just researching endlessly.",
+    "start": "00:31:27",
+    "end": "00:31:30"
+  },
+  {
+    "text": "That makes sense.",
+    "start": "00:31:30",
+    "end": "00:31:32"
+  },
+  {
+    "text": "Like if you just spend all that time executing and then failing 80% of the time, then you would reach the the answer.",
+    "start": "00:31:32",
+    "end": "00:31:37"
+  },
+  {
+    "text": "Sometimes you just got to lock in and like just get conviction on your own thing.",
+    "start": "00:31:37",
+    "end": "00:31:41"
+  },
+  {
+    "text": "Like stop reading other people's stuff, not your story.",
+    "start": "00:31:41",
+    "end": "00:31:43"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:31:43",
+    "end": "00:31:44"
+  },
+  {
+    "text": ">> Well, so what was the strat?",
+    "start": "00:31:42",
+    "end": "00:31:44"
+  },
+  {
+    "text": "What did you try to copy?",
+    "start": "00:31:44",
+    "end": "00:31:45"
+  },
+  {
+    "text": "working with influencers on a monthly retainer basis.",
+    "start": "00:31:45",
+    "end": "00:31:49"
+  },
+  {
+    "text": "I think we got killed by lack of conversions.",
+    "start": "00:31:47",
+    "end": "00:31:50"
+  },
+  {
+    "text": "Like we could do views, but we got killed.",
+    "start": "00:31:50",
+    "end": "00:31:52"
+  },
+  {
+    "text": "We chose the right influencers versus for us like how many of those people are actively applying for jobs, white collar jobs.",
+    "start": "00:31:52",
+    "end": "00:31:58"
+  },
+  {
+    "text": ">> That's a good lesson.",
+    "start": "00:31:56",
+    "end": "00:31:58"
+  },
+  {
+    "text": "It's just it's not every tactic is going to work.",
+    "start": "00:31:58",
+    "end": "00:32:00"
+  },
+  {
+    "text": "Thanks so much.",
+    "start": "00:32:00",
+    "end": "00:32:00"
+  },
+  {
+    "text": "This is a great episode.",
+    "start": "00:32:00",
+    "end": "00:32:02"
+  },
+  {
+    "text": ">> Yeah, it was fun.",
+    "start": "00:32:01",
+    "end": "00:32:02"
+  },
+  {
+    "text": "Appreciate you, man.",
+    "start": "00:32:02",
+    "end": "00:32:03"
+  },
+  {
+    "text": ">> All right, one more fun fact to finish off this video.",
+    "start": "00:32:02",
+    "end": "00:32:05"
+  },
+  {
+    "text": "Did you know Superwell, the payw wall company, their employees that work at the company, actually use their own product with their own mobile app?",
+    "start": "00:32:05",
+    "end": "00:32:12"
+  },
+  {
+    "text": "So, a lot of the employees of Superwall actually are founders and they're building apps, including this guy, for example.",
+    "start": "00:32:12",
+    "end": "00:32:19"
+  },
+  {
+    "text": "He works at Superwall.",
+    "start": "00:32:19",
+    "end": "00:32:21"
+  },
+  {
+    "text": "He's an iOS dev, but he also has an app that's making $19,000 a month.",
+    "start": "00:32:19",
+    "end": "00:32:24"
+  },
+  {
+    "text": "He's also a member of Consumer Club.",
+    "start": "00:32:24",
+    "end": "00:32:26"
+  },
+  {
+    "text": "But yeah, Superwall sponsors this podcast.",
+    "start": "00:32:26",
+    "end": "00:32:28"
+  },
+  {
+    "text": "We have a bunch of other cool interviews with founders.",
+    "start": "00:32:28",
+    "end": "00:32:29"
+  },
+  {
+    "text": "Check them out on the YouTube channel.",
+    "start": "00:32:29",
+    "end": "00:32:32"
+  }
+]

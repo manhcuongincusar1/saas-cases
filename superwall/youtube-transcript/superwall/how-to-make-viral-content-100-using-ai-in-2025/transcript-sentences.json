@@ -1,0 +1,2332 @@
+[
+  {
+    "text": "This is a client that has been on our platform for less than four weeks and they've generated 4.",
+    "start": "00:00:00",
+    "end": "00:00:06"
+  },
+  {
+    "text": "7 million views just with 15 accounts.",
+    "start": "00:00:06",
+    "end": "00:00:08"
+  },
+  {
+    "text": "So this is V1 phone farm on devices so it looks like we're real creators so that we can run AI accounts on Tik Tok.",
+    "start": "00:00:08",
+    "end": "00:00:15"
+  },
+  {
+    "text": "It got 280,000 views.",
+    "start": "00:00:15",
+    "end": "00:00:15"
+  },
+  {
+    "text": "But that just validated that this could work.",
+    "start": "00:00:15",
+    "end": "00:00:18"
+  },
+  {
+    "text": "And as soon as it got three sales I went to the print shop and I gave them a deposit.",
+    "start": "00:00:18",
+    "end": "00:00:21"
+  },
+  {
+    "text": "I was like yours like 100 bucks as soon as I call just like print my posters.",
+    "start": "00:00:21",
+    "end": "00:00:25"
+  },
+  {
+    "text": "You want AI to do like 95% of the work and then human comes in 5% for touch-up.",
+    "start": "00:00:25",
+    "end": "00:00:30"
+  },
+  {
+    "text": "I don't think AI is there yet to do the the last 5% and nor do I sell that dream.",
+    "start": "00:00:30",
+    "end": "00:00:35"
+  },
+  {
+    "text": ">> Today we're sitting down with Zuhair Lani who's built what honestly might be the most sophisticated AI content operation I've ever seen and he's been crushing it.",
+    "start": "00:00:33",
+    "end": "00:00:43"
+  },
+  {
+    "text": "He generated over $100,000 in revenue in a single month using completely AI generated Tik Tok content.",
+    "start": "00:00:43",
+    "end": "00:00:51"
+  },
+  {
+    "text": "His agency hit 40K a month while he was still in college and now he's raised a million dollars from A16Z for his startup.",
+    "start": "00:00:49",
+    "end": "00:00:56"
+  },
+  {
+    "text": "But the thing that makes Zuher's story different is that he didn't start in tech.",
+    "start": "00:00:56",
+    "end": "00:01:00"
+  },
+  {
+    "text": "He actually got started in reselling and retail arbitrage during COVID.",
+    "start": "00:01:00",
+    "end": "00:01:05"
+  },
+  {
+    "text": "Brought supreme style hype tactics to restaurant marketing and eventually crack the code on making AI content at scale.",
+    "start": "00:01:05",
+    "end": "00:01:12"
+  },
+  {
+    "text": "What he's built with his new startup is unlike anything I've seen in the content space.",
+    "start": "00:01:12",
+    "end": "00:01:17"
+  },
+  {
+    "text": "He's built physical phone farms that can warm up hundreds of Tik Tok accounts.",
+    "start": "00:01:15",
+    "end": "00:01:21"
+  },
+  {
+    "text": "And he's also built AI that generates winning content formats with a feedback loop that makes the videos more viral over time.",
+    "start": "00:01:19",
+    "end": "00:01:26"
+  },
+  {
+    "text": "In this pod, Zuher breaks down his entire playbook from spotting arbitrage opportunities across industries to building systems that can run 25 brands simultaneously.",
+    "start": "00:01:26",
+    "end": "00:01:36"
+  },
+  {
+    "text": "He reveals exactly how he uses controversy and scarcity to create demand and why he believes the traditional creator economy is about to be completely disrupted.",
+    "start": "00:01:36",
+    "end": "00:01:46"
+  },
+  {
+    "text": "and we go deep into the technical architecture of his phone farms, his strategies for avoiding detection on social platforms, and how he's using what he calls attention intelligence to create content that gets better with every post.",
+    "start": "00:01:46",
+    "end": "00:01:57"
+  },
+  {
+    "text": "For those who don't know, this interview is brought to you by Superwall, the all-in-one platform for payw wall management and revenue analytics for your mobile apps.",
+    "start": "00:01:57",
+    "end": "00:02:05"
+  },
+  {
+    "text": "I'm your host, Joseph Choy, founder of Consumer Club.",
+    "start": "00:02:05",
+    "end": "00:02:06"
+  },
+  {
+    "text": "Let's get into it.",
+    "start": "00:02:06",
+    "end": "00:02:09"
+  },
+  {
+    "text": "This was a crazy tweet.",
+    "start": "00:02:09",
+    "end": "00:02:09"
+  },
+  {
+    "text": "There is like phone farms you're like mass posting on TikTok.",
+    "start": "00:02:09",
+    "end": "00:02:15"
+  },
+  {
+    "text": "Tell me about this.",
+    "start": "00:02:15",
+    "end": "00:02:15"
+  },
+  {
+    "text": "Okay, so this is V1 of our phone farm to like instrument human actions on devices so it looks like we're real creators so that we can run AI accounts on Tik Tok.",
+    "start": "00:02:15",
+    "end": "00:02:25"
+  },
+  {
+    "text": ">> Let's break down their problem.",
+    "start": "00:02:24",
+    "end": "00:02:27"
+  },
+  {
+    "text": "So it's like obviously like people have heard of viral content on Instagram and Tik Tok, but there's all this warm-up process and you are rate limited cuz they don't want you to spam.",
+    "start": "00:02:27",
+    "end": "00:02:36"
+  },
+  {
+    "text": "And it seems like kind of the only way around it is either you hire a bunch of people to just manually post on their phones, do some like VPNs and stuff, or you figure out how to do it with a virtual machines, but I'm sure it's it's kind of hard to fully automate.",
+    "start": "00:02:36",
+    "end": "00:02:51"
+  },
+  {
+    "text": "The traditional way is to hire a bunch of college age kids to make, you know, 30 videos in 30 days.",
+    "start": "00:02:51",
+    "end": "00:02:57"
+  },
+  {
+    "text": "That'll run you anywhere from like 500 bucks a month to $1,000 a month.",
+    "start": "00:02:57",
+    "end": "00:02:59"
+  },
+  {
+    "text": "And you don't even know if they're good.",
+    "start": "00:02:59",
+    "end": "00:03:01"
+  },
+  {
+    "text": "Usually, these people have no experience and you have to manage them all in some type of like Slack channel or like iMessage.",
+    "start": "00:03:01",
+    "end": "00:03:06"
+  },
+  {
+    "text": "And since you're college kids, sometimes they'll post, sometimes they won't.",
+    "start": "00:03:06",
+    "end": "00:03:09"
+  },
+  {
+    "text": "Sometimes they'll listen to your guidelines, sometimes they won't.",
+    "start": "00:03:08",
+    "end": "00:03:11"
+  },
+  {
+    "text": "And I know this because I used to be one of these creators.",
+    "start": "00:03:11",
+    "end": "00:03:13"
+  },
+  {
+    "text": "I started out being one of those creators.",
+    "start": "00:03:13",
+    "end": "00:03:15"
+  },
+  {
+    "text": "And I realized like, oh, if I don't post for a couple days, no one really cares.",
+    "start": "00:03:15",
+    "end": "00:03:18"
+  },
+  {
+    "text": "There's no accountability.",
+    "start": "00:03:18",
+    "end": "00:03:19"
+  },
+  {
+    "text": "I still get paid.",
+    "start": "00:03:19",
+    "end": "00:03:20"
+  },
+  {
+    "text": "And they care really about like, you know, one video doing well.",
+    "start": "00:03:20",
+    "end": "00:03:22"
+  },
+  {
+    "text": "Every week there's some type of like management call.",
+    "start": "00:03:22",
+    "end": "00:03:25"
+  },
+  {
+    "text": "There's like one person full-time managing all 25 of us.",
+    "start": "00:03:24",
+    "end": "00:03:28"
+  },
+  {
+    "text": "The ROI just isn't there.",
+    "start": "00:03:28",
+    "end": "00:03:29"
+  },
+  {
+    "text": "I've even tried running these campaigns like as an agency and also being part of them.",
+    "start": "00:03:29",
+    "end": "00:03:33"
+  },
+  {
+    "text": "And I just realized from a time perspective, from a money perspective, it's not worth it, especially if it's content that I can recreate with AI.",
+    "start": "00:03:33",
+    "end": "00:03:39"
+  },
+  {
+    "text": "So that's why when I started working for these brands more extensively, what I did was I used AI to run them.",
+    "start": "00:03:39",
+    "end": "00:03:45"
+  },
+  {
+    "text": "So I was working for 15 brands while in school, all using AI, but then the problem became how do I post this content?",
+    "start": "00:03:45",
+    "end": "00:03:50"
+  },
+  {
+    "text": "Because when you hire a bunch of kids, it's the kids, you know, posting on their devices.",
+    "start": "00:03:50",
+    "end": "00:03:54"
+  },
+  {
+    "text": "When you actually do the AI content yourself, there's no way to post.",
+    "start": "00:03:54",
+    "end": "00:03:58"
+  },
+  {
+    "text": "I think in 2023 I started using emulators to do this like an Android emulator on a computer.",
+    "start": "00:03:58",
+    "end": "00:04:03"
+  },
+  {
+    "text": "It would work on Windows computers.",
+    "start": "00:04:02",
+    "end": "00:04:04"
+  },
+  {
+    "text": "I would use Blue Stacks.",
+    "start": "00:04:04",
+    "end": "00:04:05"
+  },
+  {
+    "text": "However, that doesn't work today.",
+    "start": "00:04:05",
+    "end": "00:04:06"
+  },
+  {
+    "text": "Tik Tok has like device fingerprinting and they've, you know, any social media can can easily detect that now.",
+    "start": "00:04:06",
+    "end": "00:04:11"
+  },
+  {
+    "text": "So, the video that you're watching, all those phones are controlled by our software that's customuilt to swipe on Tik Tok, repost, comment, and everything to look like a natural human.",
+    "start": "00:04:11",
+    "end": "00:04:21"
+  },
+  {
+    "text": ">> That's crazy.",
+    "start": "00:04:19",
+    "end": "00:04:21"
+  },
+  {
+    "text": "You must have figured out like every edge case of like how to warm up the accounts, how many accounts per phone is that actually a lot of like ops labor for you guys to like make sure this doesn't get rate limited or taken down or shadowbanned.",
+    "start": "00:04:21",
+    "end": "00:04:35"
+  },
+  {
+    "text": "Yeah, like I said, the reason it was easier for us to do it, I've been doing this for 3 years.",
+    "start": "00:04:35",
+    "end": "00:04:40"
+  },
+  {
+    "text": "If you've been doing this for 3 years, you pick up on like, you know, what Tik Tok actually tracks for in general, what works and what what doesn't.",
+    "start": "00:04:40",
+    "end": "00:04:45"
+  },
+  {
+    "text": "So that's why I knew like the emulators don't work.",
+    "start": "00:04:45",
+    "end": "00:04:46"
+  },
+  {
+    "text": "I knew what they look for in terms of warming.",
+    "start": "00:04:46",
+    "end": "00:04:48"
+  },
+  {
+    "text": "I've been on the other side.",
+    "start": "00:04:48",
+    "end": "00:04:51"
+  },
+  {
+    "text": "I've been trying to teach kids how to warm their own accounts for a long time.",
+    "start": "00:04:50",
+    "end": "00:04:54"
+  },
+  {
+    "text": "We have our own like warming up algorithms too that we just don't showcase.",
+    "start": "00:04:53",
+    "end": "00:04:58"
+  },
+  {
+    "text": ">> So this was the phone farm, but it's not just a phone farm.",
+    "start": "00:04:56",
+    "end": "00:05:00"
+  },
+  {
+    "text": "This is like part of your VC back startup that you started.",
+    "start": "00:05:00",
+    "end": "00:05:04"
+  },
+  {
+    "text": "Can you tell us more about that?",
+    "start": "00:05:03",
+    "end": "00:05:06"
+  },
+  {
+    "text": ">> So this is just a means to an end to validate that the content is good.",
+    "start": "00:05:04",
+    "end": "00:05:09"
+  },
+  {
+    "text": "There's two parts to this, right?",
+    "start": "00:05:08",
+    "end": "00:05:11"
+  },
+  {
+    "text": "Like you need the content, but if you're just served like some random PGs like an MP4 file, where are you going to post that?",
+    "start": "00:05:11",
+    "end": "00:05:16"
+  },
+  {
+    "text": "Then you have to figure out that whole mess.",
+    "start": "00:05:15",
+    "end": "00:05:17"
+  },
+  {
+    "text": "Or if you only have the deployment figured out, then you need to figure out where to get the good creatives.",
+    "start": "00:05:17",
+    "end": "00:05:23"
+  },
+  {
+    "text": "When we own both layers, we have all the data to tell you this content worked better, this prompt did good, this model did good, and this is what you should recreate, right?",
+    "start": "00:05:23",
+    "end": "00:05:30"
+  },
+  {
+    "text": "We need to own the entire layer to actually be effective.",
+    "start": "00:05:30",
+    "end": "00:05:33"
+  },
+  {
+    "text": "We only do half the job, then we're worthless.",
+    "start": "00:05:32",
+    "end": "00:05:34"
+  },
+  {
+    "text": "We're just like everyone else.",
+    "start": "00:05:34",
+    "end": "00:05:35"
+  },
+  {
+    "text": "So that's why it's been like a pretty easy cell for us to just, you know, plug and play and make your accounts on our platform.",
+    "start": "00:05:35",
+    "end": "00:05:41"
+  },
+  {
+    "text": "You can schedule posts on our platform and you can create the post on our platform and you can hyper specify your post to like this account has a persona, this person is 24 years old, goes to USC, lives in Los Angeles, whatever.",
+    "start": "00:05:41",
+    "end": "00:05:54"
+  },
+  {
+    "text": "Our creative tools will make it so that like you know every single post follows that structure.",
+    "start": "00:05:54",
+    "end": "00:05:58"
+  },
+  {
+    "text": "You're kind of like solving the entire stack of the short form content game.",
+    "start": "00:05:58",
+    "end": "00:06:03"
+  },
+  {
+    "text": "Like there's finding the creators.",
+    "start": "00:06:03",
+    "end": "00:06:04"
+  },
+  {
+    "text": "There's figuring out what formats work.",
+    "start": "00:06:04",
+    "end": "00:06:06"
+  },
+  {
+    "text": "And there's actually posting the content.",
+    "start": "00:06:06",
+    "end": "00:06:09"
+  },
+  {
+    "text": "And then there's finding the winners and then scaling the winners by making the micro adjustments, changing the hook, changing the body, mixing and matching.",
+    "start": "00:06:09",
+    "end": "00:06:17"
+  },
+  {
+    "text": "And normally like those are all completely separate processes and different skill sets, too.",
+    "start": "00:06:17",
+    "end": "00:06:23"
+  },
+  {
+    "text": "Like there's people that are really good at the finding the formats, but then turning it into a science and scaling it is maybe a different person on the team for some of these apps or or brands.",
+    "start": "00:06:21",
+    "end": "00:06:33"
+  },
+  {
+    "text": "So I guess before we actually go into double speed this product that you're building I want to understand like what are all the ingredients that kind of led up to this.",
+    "start": "00:06:33",
+    "end": "00:06:41"
+  },
+  {
+    "text": "So maybe we can go back in time actually and like how did you get started in understanding internet and content and attention.",
+    "start": "00:06:41",
+    "end": "00:06:49"
+  },
+  {
+    "text": "This is where I started.",
+    "start": "00:06:49",
+    "end": "00:06:49"
+  },
+  {
+    "text": "This is Walmart delivering like 50 boxes to my house and me unboxing a bunch of baby lives.",
+    "start": "00:06:49",
+    "end": "00:06:55"
+  },
+  {
+    "text": "The way this started is I started off in sneaker botting as a lot of like you know entrepreneurs in this day do.",
+    "start": "00:06:55",
+    "end": "00:07:01"
+  },
+  {
+    "text": "there's quite like a sneaker botting mafia on Twitter right now and quickly realized that sneaker botting is not the most sustainable thing cuz like even if I got you know a pair of good Yeezys that like would resell for double or you know you get like four pairs or whatever you still have to list each one and each one has different sizes and then you have to wait for those sizes the sneakers are just not that liquid.",
+    "start": "00:07:01",
+    "end": "00:07:19"
+  },
+  {
+    "text": "So then like 3 months in that's when kind of co hit when I got into sneaker botting and that's when I began retail botting and that means regular consumer goods that go out of stock.",
+    "start": "00:07:19",
+    "end": "00:07:28"
+  },
+  {
+    "text": "So I sold like printers, tools, baby toys were awesome.",
+    "start": "00:07:28",
+    "end": "00:07:32"
+  },
+  {
+    "text": "Like I sold a bunch of Coco Melons.",
+    "start": "00:07:31",
+    "end": "00:07:33"
+  },
+  {
+    "text": "That's probably my biggest hit.",
+    "start": "00:07:32",
+    "end": "00:07:35"
+  },
+  {
+    "text": "Like Coco Melon doll.",
+    "start": "00:07:35",
+    "end": "00:07:35"
+  },
+  {
+    "text": "There's like now an intelligence arbitrage if you're doing stuff with like LLM.",
+    "start": "00:07:35",
+    "end": "00:07:39"
+  },
+  {
+    "text": "Everything really isn't an arbitrage.",
+    "start": "00:07:39",
+    "end": "00:07:40"
+  },
+  {
+    "text": "But, you know, that was my arbitrage to start just to get, you know, money as a kid.",
+    "start": "00:07:40",
+    "end": "00:07:44"
+  },
+  {
+    "text": "Then I got, you know, kind of deeper into it.",
+    "start": "00:07:44",
+    "end": "00:07:47"
+  },
+  {
+    "text": "Realized, you know, retail botting actually is also unsustainable cuz like after the COVID hype, you're going to actually have to build brands around stuff to sell it.",
+    "start": "00:07:45",
+    "end": "00:07:53"
+  },
+  {
+    "text": "And that's when I got into, you know, actually white labeling my own products.",
+    "start": "00:07:53",
+    "end": "00:07:56"
+  },
+  {
+    "text": "I've always been into design.",
+    "start": "00:07:56",
+    "end": "00:07:57"
+  },
+  {
+    "text": "I designed these pickle ball paddles and these are now sold in TJ Maxx.",
+    "start": "00:07:57",
+    "end": "00:08:02"
+  },
+  {
+    "text": ">> I wouldn't even know where to start to like get in touch with TJ Maxx to be a wholesaler for them.",
+    "start": "00:08:01",
+    "end": "00:08:06"
+  },
+  {
+    "text": "Like how did you do that?",
+    "start": "00:08:06",
+    "end": "00:08:08"
+  },
+  {
+    "text": ">> That one was a bit easier cuz like my dad has been in this industry for a while like doing like phone accessories and stuff when I kind of had the idea of like you know designing my own line that was kind of lined up for me.",
+    "start": "00:08:07",
+    "end": "00:08:17"
+  },
+  {
+    "text": "So that honestly I can't take all the credit for the TJ Maxx stuff but you know like the actual designing was all me.",
+    "start": "00:08:17",
+    "end": "00:08:22"
+  },
+  {
+    "text": "I actually had no clue of like any like internet marketing or how any of this is run.",
+    "start": "00:08:22",
+    "end": "00:08:26"
+  },
+  {
+    "text": "I've only seen sneaker bots doing their marketing and how retail launches or like Yeezy launches would do it like hype beast stuff.",
+    "start": "00:08:25",
+    "end": "00:08:32"
+  },
+  {
+    "text": "That's kind of what I replicated as soon as my dad started this restaurant.",
+    "start": "00:08:32",
+    "end": "00:08:35"
+  },
+  {
+    "text": "We started this weight list, right, which I saw like, you know, from Supreme and from all these sneaker bots.",
+    "start": "00:08:35",
+    "end": "00:08:39"
+  },
+  {
+    "text": "And this is actually like a genius idea for any restaurant.",
+    "start": "00:08:39",
+    "end": "00:08:43"
+  },
+  {
+    "text": "The reason being is because you get to control the reservations.",
+    "start": "00:08:43",
+    "end": "00:08:46"
+  },
+  {
+    "text": "So in a normal restaurant when you have like a 100 people getting seated, you take whatever reservations and you might only fill like 88 spots or you take a reservation for seven, you put it on a table for eight.",
+    "start": "00:08:46",
+    "end": "00:08:55"
+  },
+  {
+    "text": "What this allowed us to do was like, you know, take a reservation for eight and then adjust accordingly from like a seven-seater table and like add one more chair.",
+    "start": "00:08:55",
+    "end": "00:09:02"
+  },
+  {
+    "text": "This was my first time doing like actual social media marketing.",
+    "start": "00:09:02",
+    "end": "00:09:06"
+  },
+  {
+    "text": "What this did was like drive so much hype that the restaurant was sold out for 2 months.",
+    "start": "00:09:06",
+    "end": "00:09:10"
+  },
+  {
+    "text": "It's 6,000 people on this wait list and then also got this like article written about us just cuz nobody could get in.",
+    "start": "00:09:08",
+    "end": "00:09:15"
+  },
+  {
+    "text": ">> That's crazy.",
+    "start": "00:09:14",
+    "end": "00:09:15"
+  },
+  {
+    "text": "How did you do it?",
+    "start": "00:09:15",
+    "end": "00:09:16"
+  },
+  {
+    "text": "What was the content?",
+    "start": "00:09:16",
+    "end": "00:09:18"
+  },
+  {
+    "text": ">> Honestly speaking, this was less about like short form content and more about just generating hype.",
+    "start": "00:09:16",
+    "end": "00:09:22"
+  },
+  {
+    "text": "Especially for a restaurant, it's like way easier to be, you know, like the restaurant that like nobody can get into.",
+    "start": "00:09:22",
+    "end": "00:09:27"
+  },
+  {
+    "text": "It's kind of like gated and people like, you know, have to get a reservation to get in and see what it's about, right?",
+    "start": "00:09:27",
+    "end": "00:09:31"
+  },
+  {
+    "text": "Especially when people are reviewing on Facebook, Google, Instagram, whatever.",
+    "start": "00:09:31",
+    "end": "00:09:35"
+  },
+  {
+    "text": "Like everyone gets that photo.",
+    "start": "00:09:35",
+    "end": "00:09:37"
+  },
+  {
+    "text": ">> So, this one kind of naturally went viral because people would tell their friends about it.",
+    "start": "00:09:35",
+    "end": "00:09:40"
+  },
+  {
+    "text": "Was more of a word of mouth thing, would you say?",
+    "start": "00:09:40",
+    "end": "00:09:43"
+  },
+  {
+    "text": "I would say word of mouth plus socials because there was like a Facebook group that we used to post in but that Facebook group like we encourage people to write reviews cuz we knew like especially when you're like a local you know retail brickandmortar store Facebook groups are very local right like there's a Dallas restaurant group everyone in that group is like hyper specific and like your targeting is really good.",
+    "start": "00:09:43",
+    "end": "00:10:01"
+  },
+  {
+    "text": "It's kind of like subreddit, right?",
+    "start": "00:10:01",
+    "end": "00:10:02"
+  },
+  {
+    "text": "Like if you're writing a consumer app, you want to be in like a hyper specific consumer app subreddit.",
+    "start": "00:10:02",
+    "end": "00:10:07"
+  },
+  {
+    "text": "It's kind of the same thing here since we're in that hyperspecific Facebook group.",
+    "start": "00:10:06",
+    "end": "00:10:09"
+  },
+  {
+    "text": "everyone that posts and they're like, \"Oh, I just tried this out.",
+    "start": "00:10:09",
+    "end": "00:10:13"
+  },
+  {
+    "text": "The food was amazing or whatever is getting that FOMO.",
+    "start": "00:10:13",
+    "end": "00:10:15"
+  },
+  {
+    "text": "\" >> That's interesting.",
+    "start": "00:10:15",
+    "end": "00:10:16"
+  },
+  {
+    "text": "And it seems like the other element with this is that you pulled a tactic from one industry and you put it into another where with sneaker bots and retail botting, there's the concept of like hyped marketing and, you know, drops and with street wear and stuff like that, but restaurants don't really have that concept as much.",
+    "start": "00:10:16",
+    "end": "00:10:33"
+  },
+  {
+    "text": "So, you just kind of pulled the tactic and then there's almost just like a tactic arbitrage.",
+    "start": "00:10:33",
+    "end": "00:10:36"
+  },
+  {
+    "text": "Speaking of drops, like you're saying, we used to drop our reservations every Wednesday at 400 p.",
+    "start": "00:10:36",
+    "end": "00:10:42"
+  },
+  {
+    "text": "m.",
+    "start": "00:10:42",
+    "end": "00:10:42"
+  },
+  {
+    "text": "I put this post on the Facebook group.",
+    "start": "00:10:40",
+    "end": "00:10:43"
+  },
+  {
+    "text": "Obviously, like random 50-year-olds are like super confused at what's going on, but like everyone at this point is looking for a reservation.",
+    "start": "00:10:42",
+    "end": "00:10:48"
+  },
+  {
+    "text": "And we weren't even booked the first time I did the draw.",
+    "start": "00:10:48",
+    "end": "00:10:50"
+  },
+  {
+    "text": "Like 20 people signed up.",
+    "start": "00:10:50",
+    "end": "00:10:52"
+  },
+  {
+    "text": "We have space for 100.",
+    "start": "00:10:52",
+    "end": "00:10:52"
+  },
+  {
+    "text": "I just said it was done.",
+    "start": "00:10:52",
+    "end": "00:10:53"
+  },
+  {
+    "text": "Like it's better to look like you're full and get people to hit you up rather than look like, you know, you still have reservations, you know, a day in.",
+    "start": "00:10:53",
+    "end": "00:10:59"
+  },
+  {
+    "text": "That weight list went on for 2 months.",
+    "start": "00:10:59",
+    "end": "00:11:01"
+  },
+  {
+    "text": "We did a lot of different stuff.",
+    "start": "00:11:01",
+    "end": "00:11:04"
+  },
+  {
+    "text": "We did Tik Toks and whatever.",
+    "start": "00:11:02",
+    "end": "00:11:05"
+  },
+  {
+    "text": "Google ads did great.",
+    "start": "00:11:05",
+    "end": "00:11:05"
+  },
+  {
+    "text": "Facebook, same thing.",
+    "start": "00:11:05",
+    "end": "00:11:06"
+  },
+  {
+    "text": "This is all organic.",
+    "start": "00:11:06",
+    "end": "00:11:08"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:11:07",
+    "end": "00:11:08"
+  },
+  {
+    "text": "So, it's like your first experience kind of figuring out like social media marketing.",
+    "start": "00:11:08",
+    "end": "00:11:14"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:11:12",
+    "end": "00:11:13"
+  },
+  {
+    "text": "It's all like customer psychology.",
+    "start": "00:11:13",
+    "end": "00:11:15"
+  },
+  {
+    "text": "This all relates, right?",
+    "start": "00:11:14",
+    "end": "00:11:16"
+  },
+  {
+    "text": "Like the same playbook for this is like, you know, you can relate it to anything.",
+    "start": "00:11:16",
+    "end": "00:11:20"
+  },
+  {
+    "text": "Consumer apps, e-commerce, CBG, whatever.",
+    "start": "00:11:20",
+    "end": "00:11:23"
+  },
+  {
+    "text": ">> This lead to Tik Tok shop or there more stuffs.",
+    "start": "00:11:21",
+    "end": "00:11:24"
+  },
+  {
+    "text": "I kind of took a break after the restaurant stuff.",
+    "start": "00:11:24",
+    "end": "00:11:27"
+  },
+  {
+    "text": "I was burnt out.",
+    "start": "00:11:27",
+    "end": "00:11:28"
+  },
+  {
+    "text": "Started my first year of college right after the restaurant.",
+    "start": "00:11:26",
+    "end": "00:11:30"
+  },
+  {
+    "text": "And then I joined this like crypto startup.",
+    "start": "00:11:30",
+    "end": "00:11:32"
+  },
+  {
+    "text": "This didn't go anywhere, but it was like zero interest rate period.",
+    "start": "00:11:32",
+    "end": "00:11:35"
+  },
+  {
+    "text": "So, like, you know, everything was getting funded.",
+    "start": "00:11:35",
+    "end": "00:11:37"
+  },
+  {
+    "text": "This was like my first look into like tech because everything I've done before was kind of unscalable, right?",
+    "start": "00:11:37",
+    "end": "00:11:43"
+  },
+  {
+    "text": "Like, you know, retail, e-commerce, whatever, you run into a bunch of logistics issues.",
+    "start": "00:11:43",
+    "end": "00:11:47"
+  },
+  {
+    "text": "I have a warehouse and like even for school for me, the decision to go to school in Dallas was because my warehouse was 10 minutes away from it.",
+    "start": "00:11:47",
+    "end": "00:11:54"
+  },
+  {
+    "text": "That's the only reason I went to school in Dallas.",
+    "start": "00:11:52",
+    "end": "00:11:55"
+  },
+  {
+    "text": "I was in a group with this guy, Jimmy Farley.",
+    "start": "00:11:55",
+    "end": "00:11:57"
+  },
+  {
+    "text": "You might have seen him.",
+    "start": "00:11:57",
+    "end": "00:11:58"
+  },
+  {
+    "text": "He's really big in like the Tik Tok shop space and the Tik Tok, you know, marketing space.",
+    "start": "00:11:58",
+    "end": "00:12:02"
+  },
+  {
+    "text": "He was running this like, you know, creators corner which was supposed to get you good at making content on socials.",
+    "start": "00:12:02",
+    "end": "00:12:07"
+  },
+  {
+    "text": "And obviously after doing the restaurant stuff, I realized like how important that was and he was like recruiting people to be like a creator for his brand.",
+    "start": "00:12:07",
+    "end": "00:12:14"
+  },
+  {
+    "text": "I immediately jumped at it and I was like, you know, this is interesting, especially cuz I was already doing my own e-commerce stuff.",
+    "start": "00:12:14",
+    "end": "00:12:19"
+  },
+  {
+    "text": "And I started making content for his brand and the videos started doing really well.",
+    "start": "00:12:19",
+    "end": "00:12:24"
+  },
+  {
+    "text": "And I realized, you know, if I'm making somebody else money doing this, I can probably just do this on my own.",
+    "start": "00:12:24",
+    "end": "00:12:28"
+  },
+  {
+    "text": "At the time, I was also designing for this company and I realized, you know, if I take some of these graphics that I'm doing and apply them to my own products and I have this like Tik Tok marketing experience now, I can probably blow it up.",
+    "start": "00:12:28",
+    "end": "00:12:40"
+  },
+  {
+    "text": "So, that's exactly what I did.",
+    "start": "00:12:40",
+    "end": "00:12:40"
+  },
+  {
+    "text": "I took this poster design that I had made for another client that they didn't use, just put on a poster mockup because I was like, you know, a poster would be the easiest thing for me to source right away, right?",
+    "start": "00:12:40",
+    "end": "00:12:51"
+  },
+  {
+    "text": "Cuz like delivery matters here, too.",
+    "start": "00:12:51",
+    "end": "00:12:53"
+  },
+  {
+    "text": "Tik Tok shop has a 2-day delivery period.",
+    "start": "00:12:53",
+    "end": "00:12:54"
+  },
+  {
+    "text": "So, I took this design, put on a poster mockup, this exact mockup, by the way, and put on Tik Tok shop and made one video off of it using AI.",
+    "start": "00:12:54",
+    "end": "00:13:00"
+  },
+  {
+    "text": "It was 11 Labs Plus Midjourney.",
+    "start": "00:13:00",
+    "end": "00:13:02"
+  },
+  {
+    "text": "It was this Tik Tok that started everything.",
+    "start": "00:13:02",
+    "end": "00:13:04"
+  },
+  {
+    "text": "But, I think at the first day, it was probably at like 5K views and it got just three sales.",
+    "start": "00:13:04",
+    "end": "00:13:09"
+  },
+  {
+    "text": "But that just validated that this could work.",
+    "start": "00:13:09",
+    "end": "00:13:09"
+  },
+  {
+    "text": "And as soon as it got three sales, I went to the print shop and I gave them a deposit.",
+    "start": "00:13:09",
+    "end": "00:13:13"
+  },
+  {
+    "text": "I was like, you know, here's like a hundred bucks.",
+    "start": "00:13:13",
+    "end": "00:13:15"
+  },
+  {
+    "text": "Just like as soon as I call, just like print my posters.",
+    "start": "00:13:15",
+    "end": "00:13:18"
+  },
+  {
+    "text": "Cuz at first, they didn't even trust me, right?",
+    "start": "00:13:17",
+    "end": "00:13:18"
+  },
+  {
+    "text": "like I had to go and they were like, \"Okay, you have to pay before we make them whatever.",
+    "start": "00:13:18",
+    "end": "00:13:22"
+  },
+  {
+    "text": "\" I was like, \"Okay, instead of just doing that, here's 100 bucks.",
+    "start": "00:13:22",
+    "end": "00:13:24"
+  },
+  {
+    "text": "Every time I I have a poster order, just make it for me and then like, you know, build my card afterwards.",
+    "start": "00:13:24",
+    "end": "00:13:29"
+  },
+  {
+    "text": "\" After this happened, I tried to automate the content.",
+    "start": "00:13:29",
+    "end": "00:13:32"
+  },
+  {
+    "text": "That's my first time trying to do slideshows like in an automated way.",
+    "start": "00:13:32",
+    "end": "00:13:35"
+  },
+  {
+    "text": "And here is an example of me doing that.",
+    "start": "00:13:35",
+    "end": "00:13:38"
+  },
+  {
+    "text": "These are all using images from Cosmos, actually, which is pretty ironic.",
+    "start": "00:13:38",
+    "end": "00:13:41"
+  },
+  {
+    "text": "Every single one of these were made.",
+    "start": "00:13:41",
+    "end": "00:13:42"
+  },
+  {
+    "text": "This is like Figma components, whatever.",
+    "start": "00:13:42",
+    "end": "00:13:44"
+  },
+  {
+    "text": "But this gets really, really hard to do at scale.",
+    "start": "00:13:44",
+    "end": "00:13:47"
+  },
+  {
+    "text": "Like, this was just a VA doing it.",
+    "start": "00:13:45",
+    "end": "00:13:49"
+  },
+  {
+    "text": "Could you quickly break down the strategy for this?",
+    "start": "00:13:49",
+    "end": "00:13:50"
+  },
+  {
+    "text": "Why does this get views and and convert?",
+    "start": "00:13:50",
+    "end": "00:13:54"
+  },
+  {
+    "text": ">> The whole strategy here is like what is the minimum viable content that work?",
+    "start": "00:13:52",
+    "end": "00:13:58"
+  },
+  {
+    "text": "Like this was like, you know, a sub account, right?",
+    "start": "00:13:56",
+    "end": "00:13:59"
+  },
+  {
+    "text": "Like this is not on the main account.",
+    "start": "00:13:59",
+    "end": "00:14:00"
+  },
+  {
+    "text": "This is just, you know, an account to get views to drive some traffic, right?",
+    "start": "00:14:00",
+    "end": "00:14:03"
+  },
+  {
+    "text": "So the whole strategy here is like cool stuff you need in your room, you know, part whatever.",
+    "start": "00:14:03",
+    "end": "00:14:08"
+  },
+  {
+    "text": "And then it would go through a couple products and one product every time in a slideshow would be our own poster.",
+    "start": "00:14:08",
+    "end": "00:14:13"
+  },
+  {
+    "text": ">> Yep.",
+    "start": "00:14:11",
+    "end": "00:14:12"
+  },
+  {
+    "text": "So it's like the subtle call to action.",
+    "start": "00:14:12",
+    "end": "00:14:16"
+  },
+  {
+    "text": ">> Exactly.",
+    "start": "00:14:14",
+    "end": "00:14:15"
+  },
+  {
+    "text": "And all these images are just pulled manually from Cosmos or Pinterest in the other case.",
+    "start": "00:14:15",
+    "end": "00:14:21"
+  },
+  {
+    "text": "All these images are just pulled manually.",
+    "start": "00:14:21",
+    "end": "00:14:23"
+  },
+  {
+    "text": "Put them in.",
+    "start": "00:14:23",
+    "end": "00:14:25"
+  },
+  {
+    "text": "No real like automation yet because the real thing for automation that people don't understand is like you want to prove out the concept before you start automating it.",
+    "start": "00:14:25",
+    "end": "00:14:30"
+  },
+  {
+    "text": "I mean now that's not really the case because of like you know the software I'll show you later on.",
+    "start": "00:14:30",
+    "end": "00:14:35"
+  },
+  {
+    "text": "But you know at the beginning especially like if you're going to spend some time or money automating stuff you want to make sure it works.",
+    "start": "00:14:35",
+    "end": "00:14:40"
+  },
+  {
+    "text": "There was also another account that we ran that was you know all about like car pictures.",
+    "start": "00:14:40",
+    "end": "00:14:44"
+  },
+  {
+    "text": "Like it would be like eight pictures of a Porsche 911 and then the the last picture would be like of the poster and people would be like, \"Oh, where can I get that poster?",
+    "start": "00:14:44",
+    "end": "00:14:50"
+  },
+  {
+    "text": "\" It's all these type of strategies where like how can I insert my content with it being like a relevant subject without looking like I I'm just trying to sell you on something.",
+    "start": "00:14:50",
+    "end": "00:14:58"
+  },
+  {
+    "text": ">> Yeah, you're not completely automating yet.",
+    "start": "00:14:56",
+    "end": "00:14:58"
+  },
+  {
+    "text": "I remember we were talking about the Flux avatar.",
+    "start": "00:14:58",
+    "end": "00:15:01"
+  },
+  {
+    "text": "Like that would be a cool thing to show if you can show it.",
+    "start": "00:15:01",
+    "end": "00:15:05"
+  },
+  {
+    "text": ">> So yeah, this was pretty much my first time automating slideshow content with real human faces.",
+    "start": "00:15:03",
+    "end": "00:15:09"
+  },
+  {
+    "text": "Each one of these is a full slid set that gets posted to Tik Tok.",
+    "start": "00:15:09",
+    "end": "00:15:11"
+  },
+  {
+    "text": "And we had 25 of these running, right?",
+    "start": "00:15:11",
+    "end": "00:15:13"
+  },
+  {
+    "text": "Like this is my first time doing with face creators.",
+    "start": "00:15:13",
+    "end": "00:15:15"
+  },
+  {
+    "text": "And I realized this converts a lot better too because you have a real person giving a real story.",
+    "start": "00:15:15",
+    "end": "00:15:21"
+  },
+  {
+    "text": "So all the greens are like content ready to go, right?",
+    "start": "00:15:19",
+    "end": "00:15:22"
+  },
+  {
+    "text": "Like this was my form of automation.",
+    "start": "00:15:22",
+    "end": "00:15:24"
+  },
+  {
+    "text": "You still want to get that human like last check, like the final check before content goes out at all times cuz like the arbitrage really on socials is still human creativity.",
+    "start": "00:15:24",
+    "end": "00:15:34"
+  },
+  {
+    "text": "You want AI to do like 95% of the work and then human comes in 5% for touch-up.",
+    "start": "00:15:34",
+    "end": "00:15:38"
+  },
+  {
+    "text": "I don't think AI is there yet to do the the last 5% and nor do I sell that dream.",
+    "start": "00:15:38",
+    "end": "00:15:41"
+  },
+  {
+    "text": "I think anybody that does is like fully BS.",
+    "start": "00:15:41",
+    "end": "00:15:43"
+  },
+  {
+    "text": "There's content going out every single day, probably like a post or two every single day.",
+    "start": "00:15:43",
+    "end": "00:15:48"
+  },
+  {
+    "text": "And this is kind of how it looks like.",
+    "start": "00:15:48",
+    "end": "00:15:49"
+  },
+  {
+    "text": "There's a there's a person at the beginning and she's telling a whole story, right?",
+    "start": "00:15:49",
+    "end": "00:15:53"
+  },
+  {
+    "text": "Like this is like narrative storytelling kind of same psychology.",
+    "start": "00:15:53",
+    "end": "00:15:55"
+  },
+  {
+    "text": "I'm having this problem, but this is the solution.",
+    "start": "00:15:55",
+    "end": "00:15:58"
+  },
+  {
+    "text": "How do you insert your product to where it's like actually relevant in the content rather than just like, you know, forcing it in there?",
+    "start": "00:15:58",
+    "end": "00:16:04"
+  },
+  {
+    "text": ">> How do you like formulate a text hook for this kind of style?",
+    "start": "00:16:02",
+    "end": "00:16:06"
+  },
+  {
+    "text": "Okay, say it's like Cali.",
+    "start": "00:16:06",
+    "end": "00:16:07"
+  },
+  {
+    "text": "The hook could be like, \"Oh, I used to struggle with tracking my calories or I used to struggle with eating.",
+    "start": "00:16:07",
+    "end": "00:16:12"
+  },
+  {
+    "text": "I used to struggle with, you know, gaining weight.",
+    "start": "00:16:12",
+    "end": "00:16:15"
+  },
+  {
+    "text": "\" Number two could be like, you know, measuring my meals like with a an actual scale, right?",
+    "start": "00:16:15",
+    "end": "00:16:20"
+  },
+  {
+    "text": "But like number five could be using Cali, >> naming the pain point on the first slide.",
+    "start": "00:16:20",
+    "end": "00:16:22"
+  },
+  {
+    "text": "Here's the pain point.",
+    "start": "00:16:22",
+    "end": "00:16:25"
+  },
+  {
+    "text": "Here's how you solve it.",
+    "start": "00:16:25",
+    "end": "00:16:25"
+  },
+  {
+    "text": "And then the content of the rest of the slides, the body slides are things to how to solve it.",
+    "start": "00:16:25",
+    "end": "00:16:31"
+  },
+  {
+    "text": "And then you insert your own solution, which is your app as one of those slides.",
+    "start": "00:16:31",
+    "end": "00:16:35"
+  },
+  {
+    "text": "That's definitely like one of the ways to do it that's gotten really popular, especially if you put like harder solutions first, right?",
+    "start": "00:16:35",
+    "end": "00:16:39"
+  },
+  {
+    "text": "Like no one's probably going to buy that scale and weigh their meat every single day, but people might download this app if it's like, you know, also cheaper than a scale and it's like takes a lot less effort, right?",
+    "start": "00:16:39",
+    "end": "00:16:49"
+  },
+  {
+    "text": "Like you need to give them some solutions that feel real but are just like way too high effort in this day and age and then pose your solution.",
+    "start": "00:16:48",
+    "end": "00:16:56"
+  },
+  {
+    "text": ">> Are all of these every single image is AI generated for these ones?",
+    "start": "00:16:54",
+    "end": "00:17:01"
+  },
+  {
+    "text": ">> No, the first image is AI generated.",
+    "start": "00:16:58",
+    "end": "00:17:02"
+  },
+  {
+    "text": "The rest come from an image bank.",
+    "start": "00:17:02",
+    "end": "00:17:04"
+  },
+  {
+    "text": "This is what we've iterated on three or four times so far just getting to this point of like, oh, how to be efficient at making content.",
+    "start": "00:17:04",
+    "end": "00:17:10"
+  },
+  {
+    "text": "It's probably the best case scenario to use, you know, like an AI creator or even like a real creator as slide one or even like a faceless slide as slide one and then the rest have like image bank setup.",
+    "start": "00:17:10",
+    "end": "00:17:20"
+  },
+  {
+    "text": "So, if slide two always talks about a clarification of the problem that you gave in the hook, you can have like a collection of 50 images that you can run, you know, 300 slideshows on, but like you know, slide two is always one of the 50.",
+    "start": "00:17:20",
+    "end": "00:17:32"
+  },
+  {
+    "text": "And then how are you making the faces for this technique?",
+    "start": "00:17:32",
+    "end": "00:17:33"
+  },
+  {
+    "text": "Cuz this these looked really good.",
+    "start": "00:17:33",
+    "end": "00:17:37"
+  },
+  {
+    "text": ">> So these are like fully synthetic.",
+    "start": "00:17:35",
+    "end": "00:17:38"
+  },
+  {
+    "text": "You contract people's likeness to then put in an image set to train a Laura and then create, you know, one type of person.",
+    "start": "00:17:38",
+    "end": "00:17:43"
+  },
+  {
+    "text": "Then that's with specific prompting.",
+    "start": "00:17:43",
+    "end": "00:17:45"
+  },
+  {
+    "text": "And then once you've, you know, gotten somewhere with like, you know, it always kind of gives the same features every single time.",
+    "start": "00:17:45",
+    "end": "00:17:51"
+  },
+  {
+    "text": "This person looks really similar.",
+    "start": "00:17:51",
+    "end": "00:17:52"
+  },
+  {
+    "text": "Then you train Allora on a specific like, you know, person that you've created.",
+    "start": "00:17:52",
+    "end": "00:17:57"
+  },
+  {
+    "text": ">> What like tools are you using to to do this?",
+    "start": "00:17:55",
+    "end": "00:18:00"
+  },
+  {
+    "text": ">> Flux is good.",
+    "start": "00:17:58",
+    "end": "00:17:59"
+  },
+  {
+    "text": "Hfield is really good at this now too.",
+    "start": "00:17:59",
+    "end": "00:18:00"
+  },
+  {
+    "text": "The real cool thing for us is like we've integrated this in our system too in our platform.",
+    "start": "00:18:00",
+    "end": "00:18:06"
+  },
+  {
+    "text": ">> An interesting pattern that I'm seeing is every time you do something with content over the years, it's always been a slightly different format.",
+    "start": "00:18:04",
+    "end": "00:18:14"
+  },
+  {
+    "text": "There's different technique for doing it.",
+    "start": "00:18:14",
+    "end": "00:18:16"
+  },
+  {
+    "text": "It's because marketing happens in cycles.",
+    "start": "00:18:16",
+    "end": "00:18:19"
+  },
+  {
+    "text": "Consumers kind of get used to a certain format.",
+    "start": "00:18:17",
+    "end": "00:18:19"
+  },
+  {
+    "text": "In your new product, you're kind of addressing this kind of the mix and match features and some other stuff.",
+    "start": "00:18:19",
+    "end": "00:18:26"
+  },
+  {
+    "text": "Can you like go into some of those things?",
+    "start": "00:18:26",
+    "end": "00:18:27"
+  },
+  {
+    "text": "Yeah, there's definitely like an arbitrage cycle, right?",
+    "start": "00:18:26",
+    "end": "00:18:30"
+  },
+  {
+    "text": "Like one marketing strategy does not work for more than like a couple months at a time.",
+    "start": "00:18:30",
+    "end": "00:18:33"
+  },
+  {
+    "text": "Maybe like a year if you're lucky.",
+    "start": "00:18:33",
+    "end": "00:18:36"
+  },
+  {
+    "text": "The current cycle of Tik Tok of like hiring a bunch of creators has gone on for the last 2 to 3 years.",
+    "start": "00:18:34",
+    "end": "00:18:40"
+  },
+  {
+    "text": "I would say when I was one of those creators, it was 3 years ago.",
+    "start": "00:18:40",
+    "end": "00:18:42"
+  },
+  {
+    "text": "This strategy is still working today.",
+    "start": "00:18:42",
+    "end": "00:18:44"
+  },
+  {
+    "text": "Even Dualingo is doing this.",
+    "start": "00:18:44",
+    "end": "00:18:45"
+  },
+  {
+    "text": "Like even Belly is doing this now, right?",
+    "start": "00:18:45",
+    "end": "00:18:47"
+  },
+  {
+    "text": "Like all the big guys are on this.",
+    "start": "00:18:47",
+    "end": "00:18:47"
+  },
+  {
+    "text": "As soon as all the big guys are on this, like it's going to go away in a couple months or there's going to just be like, you know, slight changes in these formats.",
+    "start": "00:18:47",
+    "end": "00:18:54"
+  },
+  {
+    "text": "I actually believe like, you know, running like the mass account strategy will probably always be here as long as content is organic and content is getting fed throughout and like followers don't really matter anymore, but it's just going to be like a change on like actually what works contentwise.",
+    "start": "00:18:54",
+    "end": "00:19:08"
+  },
+  {
+    "text": ">> Could you do a demo of some of the stuff that Double Speed can do?",
+    "start": "00:19:06",
+    "end": "00:19:11"
+  },
+  {
+    "text": ">> Every single one of these accounts lives on a real device.",
+    "start": "00:19:09",
+    "end": "00:19:13"
+  },
+  {
+    "text": "This is a client that has been on our platform for less than 4 weeks and they've generated 4.",
+    "start": "00:19:13",
+    "end": "00:19:18"
+  },
+  {
+    "text": "7 million views just with 15 accounts.",
+    "start": "00:19:18",
+    "end": "00:19:20"
+  },
+  {
+    "text": "Let me show you an example of content that they're running.",
+    "start": "00:19:20",
+    "end": "00:19:21"
+  },
+  {
+    "text": "So every single one of these is an AI generated picture and then all the copy is also AI.",
+    "start": "00:19:21",
+    "end": "00:19:26"
+  },
+  {
+    "text": "And the way these slideshows are made are through our platform.",
+    "start": "00:19:26",
+    "end": "00:19:28"
+  },
+  {
+    "text": "There's just a carousel mode right here.",
+    "start": "00:19:28",
+    "end": "00:19:30"
+  },
+  {
+    "text": "I can go in.",
+    "start": "00:19:30",
+    "end": "00:19:30"
+  },
+  {
+    "text": "There's a bunch of templates already made.",
+    "start": "00:19:30",
+    "end": "00:19:32"
+  },
+  {
+    "text": "And we have like a full content team to actually create you these templates like on demand as soon as you onboard.",
+    "start": "00:19:32",
+    "end": "00:19:38"
+  },
+  {
+    "text": "So I can go in here.",
+    "start": "00:19:38",
+    "end": "00:19:38"
+  },
+  {
+    "text": "I can press this one, fine-tune my prompt.",
+    "start": "00:19:38",
+    "end": "00:19:40"
+  },
+  {
+    "text": "This one's going to do like five Spanish phrases.",
+    "start": "00:19:40",
+    "end": "00:19:43"
+  },
+  {
+    "text": "And I can generate variants.",
+    "start": "00:19:43",
+    "end": "00:19:44"
+  },
+  {
+    "text": "And then it's going to go in and create text for every single slide.",
+    "start": "00:19:44",
+    "end": "00:19:47"
+  },
+  {
+    "text": "This specific template only had three images in them.",
+    "start": "00:19:47",
+    "end": "00:19:50"
+  },
+  {
+    "text": "That's why it's going to use three slides.",
+    "start": "00:19:50",
+    "end": "00:19:51"
+  },
+  {
+    "text": "It's going to generate me text for all of them.",
+    "start": "00:19:51",
+    "end": "00:19:54"
+  },
+  {
+    "text": ">> This is a super specific format.",
+    "start": "00:19:52",
+    "end": "00:19:55"
+  },
+  {
+    "text": "It seems like it's it's about learning Spanish and it's probably for promoting some kind of language learning app, right?",
+    "start": "00:19:55",
+    "end": "00:20:01"
+  },
+  {
+    "text": "And this is a proven format.",
+    "start": "00:20:01",
+    "end": "00:20:03"
+  },
+  {
+    "text": "So, you guys have like tested this and you kind of like found a format that other people are already using and then you're using AI to make multiple like versions of it.",
+    "start": "00:20:03",
+    "end": "00:20:13"
+  },
+  {
+    "text": ">> Exactly.",
+    "start": "00:20:11",
+    "end": "00:20:12"
+  },
+  {
+    "text": "The real way this works in the back end is like we have a tool, take a Tik Tok link, put it in and they'll generate you this template and then off that template you can just make super specific adjustments, right?",
+    "start": "00:20:12",
+    "end": "00:20:21"
+  },
+  {
+    "text": "So like that's the whole thing because you can copy someone's content but then like you need to make some type of difference so that you actually have a chance at winning.",
+    "start": "00:20:21",
+    "end": "00:20:27"
+  },
+  {
+    "text": "So I can do like add row one, add emojis or I can just go in here and like change stuff around myself just like replace this image, change that image, change this background, change whatever I need to and then just go out and I change it, right?",
+    "start": "00:20:27",
+    "end": "00:20:40"
+  },
+  {
+    "text": "The whole thing is that I can have full control on the content.",
+    "start": "00:20:40",
+    "end": "00:20:42"
+  },
+  {
+    "text": "Like normally you would have to kind of reverse engineer like, okay, what made this go viral?",
+    "start": "00:20:42",
+    "end": "00:20:48"
+  },
+  {
+    "text": "And then you would recreate the format in probably the Tik Tok editor or in Cap Cut or something like that and then manually make all these variations.",
+    "start": "00:20:48",
+    "end": "00:20:56"
+  },
+  {
+    "text": "But with this tool, you're just like you're basically just prompting.",
+    "start": "00:20:56",
+    "end": "00:21:00"
+  },
+  {
+    "text": "You can mass create and make edits.",
+    "start": "00:21:00",
+    "end": "00:21:01"
+  },
+  {
+    "text": "How do you figure out what formats to kind of to show in this library?",
+    "start": "00:21:01",
+    "end": "00:21:06"
+  },
+  {
+    "text": ">> These are all public templates that I'm showing you now.",
+    "start": "00:21:05",
+    "end": "00:21:08"
+  },
+  {
+    "text": "Every single account has their own templates too, right?",
+    "start": "00:21:08",
+    "end": "00:21:10"
+  },
+  {
+    "text": "And then you can make like specific adjustments to that prompt.",
+    "start": "00:21:10",
+    "end": "00:21:13"
+  },
+  {
+    "text": "So I can go in here and like this is a full-on every single one of these text box is a variable that you can change.",
+    "start": "00:21:13",
+    "end": "00:21:18"
+  },
+  {
+    "text": "And then I can go in and like save this as a template where I get to choose my prompt.",
+    "start": "00:21:18",
+    "end": "00:21:22"
+  },
+  {
+    "text": ">> You're not manually prompting this.",
+    "start": "00:21:21",
+    "end": "00:21:24"
+  },
+  {
+    "text": "It auto prompts it based on like the content and the product and the knowledge already from your account.",
+    "start": "00:21:24",
+    "end": "00:21:29"
+  },
+  {
+    "text": ">> I will say though that the template is manually prompted, right?",
+    "start": "00:21:27",
+    "end": "00:21:31"
+  },
+  {
+    "text": "So if you have a format that you're running of like five Spanish phrases you should know that will need to be put in like the the template format, >> right?",
+    "start": "00:21:31",
+    "end": "00:21:38"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:21:38",
+    "end": "00:21:39"
+  },
+  {
+    "text": "So the template itself of like five Spanish phrases, that's something that the human gives to the AI and you're saying, \"Okay, this format is a good format that tends to go viral on Tik Tok.",
+    "start": "00:21:39",
+    "end": "00:21:50"
+  },
+  {
+    "text": "Now here's the information about my company and the things that what we know about content that has done well.",
+    "start": "00:21:50",
+    "end": "00:21:56"
+  },
+  {
+    "text": "Change the format that I've given and make it this way.",
+    "start": "00:21:56",
+    "end": "00:22:00"
+  },
+  {
+    "text": "\" And then as soon as you're done doing that, you can cue them to actual devices.",
+    "start": "00:22:00",
+    "end": "00:22:04"
+  },
+  {
+    "text": "So I can go in here, use this template.",
+    "start": "00:22:04",
+    "end": "00:22:06"
+  },
+  {
+    "text": "It already has a prompt for us.",
+    "start": "00:22:06",
+    "end": "00:22:07"
+  },
+  {
+    "text": "Generate a couple variants.",
+    "start": "00:22:07",
+    "end": "00:22:08"
+  },
+  {
+    "text": "It made me a bunch of slideshows.",
+    "start": "00:22:08",
+    "end": "00:22:10"
+  },
+  {
+    "text": "I can also just like randomize all these images again.",
+    "start": "00:22:10",
+    "end": "00:22:13"
+  },
+  {
+    "text": "And all these images are being pulled from an image rank.",
+    "start": "00:22:13",
+    "end": "00:22:15"
+  },
+  {
+    "text": "I can also just go in here and change all the data.",
+    "start": "00:22:15",
+    "end": "00:22:19"
+  },
+  {
+    "text": "So I can be like, you know, download this app and it'll just change right here.",
+    "start": "00:22:19",
+    "end": "00:22:22"
+  },
+  {
+    "text": "So I can just drag this down and now all the hooks change.",
+    "start": "00:22:22",
+    "end": "00:22:24"
+  },
+  {
+    "text": "There you go.",
+    "start": "00:22:24",
+    "end": "00:22:26"
+  },
+  {
+    "text": "So, there's a preset image bank that you've gone out and found a bunch of pictures and stuff like that.",
+    "start": "00:22:26",
+    "end": "00:22:32"
+  },
+  {
+    "text": ">> Usually, these image banks are made by clients.",
+    "start": "00:22:30",
+    "end": "00:22:32"
+  },
+  {
+    "text": "They're just public.",
+    "start": "00:22:32",
+    "end": "00:22:34"
+  },
+  {
+    "text": ">> Your clients that are using this software uploading their own pictures, but then you can see what everyone else has uploaded in.",
+    "start": "00:22:33",
+    "end": "00:22:41"
+  },
+  {
+    "text": ">> There's an option to make it private.",
+    "start": "00:22:39",
+    "end": "00:22:42"
+  },
+  {
+    "text": "If they're just scraping Pinterest, they'll make it public sometimes.",
+    "start": "00:22:42",
+    "end": "00:22:44"
+  },
+  {
+    "text": ">> Just a little bit of my own commentary on this.",
+    "start": "00:22:43",
+    "end": "00:22:45"
+  },
+  {
+    "text": "This is like a crazy piece of software.",
+    "start": "00:22:45",
+    "end": "00:22:48"
+  },
+  {
+    "text": "I've never seen something that does all of the steps of the stack.",
+    "start": "00:22:48",
+    "end": "00:22:53"
+  },
+  {
+    "text": "like it's kind of subtle if you're not used to seeing some of these tools.",
+    "start": "00:22:53",
+    "end": "00:22:56"
+  },
+  {
+    "text": "Any other like cool features to show?",
+    "start": "00:22:56",
+    "end": "00:22:59"
+  },
+  {
+    "text": ">> Yeah, I mean I can show you like exactly what you're hitting on is how to make like mass content, right?",
+    "start": "00:22:57",
+    "end": "00:23:02"
+  },
+  {
+    "text": "Same thing over here, right?",
+    "start": "00:23:02",
+    "end": "00:23:04"
+  },
+  {
+    "text": "Like if you're doing hook and demo, you probably shouldn't be paying creators because like you can do stuff like this in this day and age, right?",
+    "start": "00:23:04",
+    "end": "00:23:08"
+  },
+  {
+    "text": "I can take a bunch of hooks, take a bunch of like screen recordings of my app and then come in here, auto match these videos.",
+    "start": "00:23:08",
+    "end": "00:23:14"
+  },
+  {
+    "text": "is going to match a hook with the demo.",
+    "start": "00:23:14",
+    "end": "00:23:16"
+  },
+  {
+    "text": "Generate some copy to go on top.",
+    "start": "00:23:16",
+    "end": "00:23:17"
+  },
+  {
+    "text": "And then now every single hook has some copy on it.",
+    "start": "00:23:17",
+    "end": "00:23:20"
+  },
+  {
+    "text": "And then I can just go in here and then render these and cue them to real accounts.",
+    "start": "00:23:20",
+    "end": "00:23:24"
+  },
+  {
+    "text": "And like you said, like there are AI content generation tools that will just feed you PGs and then they have no data because they don't do any posting.",
+    "start": "00:23:24",
+    "end": "00:23:30"
+  },
+  {
+    "text": "That's the whole thing.",
+    "start": "00:23:30",
+    "end": "00:23:31"
+  },
+  {
+    "text": "Like how does your content become smarter over time?",
+    "start": "00:23:31",
+    "end": "00:23:33"
+  },
+  {
+    "text": "We call this concept attention intelligence and that's like, you know, that's the whole feedback loop.",
+    "start": "00:23:33",
+    "end": "00:23:38"
+  },
+  {
+    "text": ">> You're right.",
+    "start": "00:23:36",
+    "end": "00:23:38"
+  },
+  {
+    "text": "I haven't seen that before where it's the full loop of how did the content actually do it cuz that that data is so valuable.",
+    "start": "00:23:38",
+    "end": "00:23:44"
+  },
+  {
+    "text": "How many views did it get?",
+    "start": "00:23:44",
+    "end": "00:23:45"
+  },
+  {
+    "text": "How many likes did it get?",
+    "start": "00:23:45",
+    "end": "00:23:47"
+  },
+  {
+    "text": "Bookmarks, whatever cuz I've tried to do this manually with my claude and my GBT and stuff where I feed it high engagement tweets for example and I say these tweets are high engagement and I even like give the numbers.",
+    "start": "00:23:45",
+    "end": "00:23:59"
+  },
+  {
+    "text": "I'm like this tweet got this many likes.",
+    "start": "00:23:59",
+    "end": "00:24:02"
+  },
+  {
+    "text": "Okay, now analyze what about these tweets made them get good engagement.",
+    "start": "00:24:02",
+    "end": "00:24:04"
+  },
+  {
+    "text": "And I use that to generate tweets.",
+    "start": "00:24:04",
+    "end": "00:24:06"
+  },
+  {
+    "text": "And actually like it's like a lot better.",
+    "start": "00:24:06",
+    "end": "00:24:08"
+  },
+  {
+    "text": "Probably five ten times better than just generic prompting chatbt or claude and saying give me high engagement tweets about XYZ topic.",
+    "start": "00:24:08",
+    "end": "00:24:16"
+  },
+  {
+    "text": "Like it'll be okay.",
+    "start": "00:24:16",
+    "end": "00:24:19"
+  },
+  {
+    "text": "But when you actually have the data, it becomes a lot a lot better.",
+    "start": "00:24:19",
+    "end": "00:24:23"
+  },
+  {
+    "text": "If someone like has an app and they don't really know what format to start with, how would you recommend even that first tool that you showed me?",
+    "start": "00:24:23",
+    "end": "00:24:32"
+  },
+  {
+    "text": "You upload a link to a Tik Tok and then it creates a modular version of it.",
+    "start": "00:24:30",
+    "end": "00:24:36"
+  },
+  {
+    "text": "How do you even find the the Tik Tok to begin with?",
+    "start": "00:24:36",
+    "end": "00:24:39"
+  },
+  {
+    "text": ">> Yeah, I mean winning formats are pretty easy to find, right?",
+    "start": "00:24:37",
+    "end": "00:24:41"
+  },
+  {
+    "text": "Like you can find some search terms about your product.",
+    "start": "00:24:41",
+    "end": "00:24:43"
+  },
+  {
+    "text": "So if you're doing like a study tool, then like maybe study talk and go in and see like the viral hits.",
+    "start": "00:24:43",
+    "end": "00:24:47"
+  },
+  {
+    "text": "You'll probably see like slideshows.",
+    "start": "00:24:47",
+    "end": "00:24:48"
+  },
+  {
+    "text": "You'll probably see hook and demos.",
+    "start": "00:24:48",
+    "end": "00:24:50"
+  },
+  {
+    "text": "If they're like within the last month or two, then it's pretty relevant and you can just kind of train yourself to be on that algorithm.",
+    "start": "00:24:50",
+    "end": "00:24:57"
+  },
+  {
+    "text": ">> Can I see the account setup thing?",
+    "start": "00:24:56",
+    "end": "00:24:58"
+  },
+  {
+    "text": ">> When you make your accounts, you're going to go through this onboarding, right?",
+    "start": "00:24:57",
+    "end": "00:25:00"
+  },
+  {
+    "text": "So, I can configure my accounts.",
+    "start": "00:25:00",
+    "end": "00:25:04"
+  },
+  {
+    "text": "Let's give me a product so I can put it in here.",
+    "start": "00:25:02",
+    "end": "00:25:07"
+  },
+  {
+    "text": ">> AI executive coach.",
+    "start": "00:25:04",
+    "end": "00:25:06"
+  },
+  {
+    "text": "What would be the description there?",
+    "start": "00:25:06",
+    "end": "00:25:10"
+  },
+  {
+    "text": ">> Like, it helps you make better business decisions.",
+    "start": "00:25:08",
+    "end": "00:25:11"
+  },
+  {
+    "text": "gives you advice on how to make better decisions, manage your emotions in business to be a higher performer in I guess like business and entrepreneurship.",
+    "start": "00:25:11",
+    "end": "00:25:22"
+  },
+  {
+    "text": "So I can put that in, press next steps.",
+    "start": "00:25:22",
+    "end": "00:25:24"
+  },
+  {
+    "text": "Who am I targeting?",
+    "start": "00:25:24",
+    "end": "00:25:27"
+  },
+  {
+    "text": "20 to 44 year olds, mostly males.",
+    "start": "00:25:27",
+    "end": "00:25:28"
+  },
+  {
+    "text": "And I can think of some search terms.",
+    "start": "00:25:28",
+    "end": "00:25:30"
+  },
+  {
+    "text": "So like you know, business, tech, AI coach, next step.",
+    "start": "00:25:30",
+    "end": "00:25:32"
+  },
+  {
+    "text": "And then here I can generate my usernames, name and bio, gender, everything with AI.",
+    "start": "00:25:32",
+    "end": "00:25:37"
+  },
+  {
+    "text": "All right.",
+    "start": "00:25:37",
+    "end": "00:25:38"
+  },
+  {
+    "text": "So it's going to generate me some accounts based on what I said.",
+    "start": "00:25:38",
+    "end": "00:25:40"
+  },
+  {
+    "text": "It thinks you should do some female account.",
+    "start": "00:25:40",
+    "end": "00:25:42"
+  },
+  {
+    "text": "And then I can go into this bio and change this up.",
+    "start": "00:25:42",
+    "end": "00:25:46"
+  },
+  {
+    "text": "So like download AI coach, right?",
+    "start": "00:25:46",
+    "end": "00:25:47"
+  },
+  {
+    "text": "And then it's also given me some search terms for every single account.",
+    "start": "00:25:47",
+    "end": "00:25:49"
+  },
+  {
+    "text": "It's actually given me different ones, right?",
+    "start": "00:25:49",
+    "end": "00:25:51"
+  },
+  {
+    "text": "Actually, this is what I'd recommend, right?",
+    "start": "00:25:50",
+    "end": "00:25:52"
+  },
+  {
+    "text": "Like you don't want to run all your accounts the same cuz then you're not like really AB testing anything.",
+    "start": "00:25:52",
+    "end": "00:25:56"
+  },
+  {
+    "text": "But you also don't want too many variables.",
+    "start": "00:25:56",
+    "end": "00:25:58"
+  },
+  {
+    "text": "So like this is why it's, you know, this one is like self-care, this one's self-improvement, this one's like lifestyle, tips, whatever, motivation.",
+    "start": "00:25:56",
+    "end": "00:26:04"
+  },
+  {
+    "text": "And it's also generated some usernames that are all available on Tik Tok.",
+    "start": "00:26:02",
+    "end": "00:26:07"
+  },
+  {
+    "text": "Obviously, it's given a bunch of numbers.",
+    "start": "00:26:06",
+    "end": "00:26:07"
+  },
+  {
+    "text": "We can change that, too.",
+    "start": "00:26:07",
+    "end": "00:26:09"
+  },
+  {
+    "text": "And then just go ahead and save that.",
+    "start": "00:26:09",
+    "end": "00:26:11"
+  },
+  {
+    "text": "And now all of these accounts will be made on real devices.",
+    "start": "00:26:11",
+    "end": "00:26:15"
+  },
+  {
+    "text": ">> And then the warm-up terms are those are being searched.",
+    "start": "00:26:13",
+    "end": "00:26:17"
+  },
+  {
+    "text": "The >> those are being searched on Tik Tok.",
+    "start": "00:26:17",
+    "end": "00:26:18"
+  },
+  {
+    "text": "Correct.",
+    "start": "00:26:17",
+    "end": "00:26:20"
+  },
+  {
+    "text": ">> Are they actually searching these exact terms?",
+    "start": "00:26:18",
+    "end": "00:26:22"
+  },
+  {
+    "text": ">> It's searching these exact terms in Tik Tok.",
+    "start": "00:26:20",
+    "end": "00:26:24"
+  },
+  {
+    "text": ">> And then it's watching videos and scrolling and engaging that content.",
+    "start": "00:26:23",
+    "end": "00:26:28"
+  },
+  {
+    "text": ">> And then it also like takes screenshots of what it's watching, sends it to to an LLM to see like, oh, is this relevant?",
+    "start": "00:26:27",
+    "end": "00:26:34"
+  },
+  {
+    "text": "And then if it's relevant, it'll repost the content or like comment on the content.",
+    "start": "00:26:33",
+    "end": "00:26:36"
+  },
+  {
+    "text": "And if it's not relevant, they'll just keep on swiping.",
+    "start": "00:26:36",
+    "end": "00:26:40"
+  },
+  {
+    "text": ">> Is there anything else you wanted to say that we didn't cover?",
+    "start": "00:26:38",
+    "end": "00:26:43"
+  },
+  {
+    "text": ">> The first month on Tik Tok Shop, we did $100,000 worth of sales and just using AI content.",
+    "start": "00:26:42",
+    "end": "00:26:49"
+  },
+  {
+    "text": ">> Okay, that's crazy.",
+    "start": "00:26:46",
+    "end": "00:26:49"
+  },
+  {
+    "text": "100K revenue in one month on Tik Tok shop with completely AI content.",
+    "start": "00:26:49",
+    "end": "00:26:53"
+  },
+  {
+    "text": ">> The reason I started the agency and didn't continue the Tik Tok shop is because we got banned because of a 3PL that I used that's manager got deported to Mexico on New Year's Eve weekend and I had a thousand orders lined up.",
+    "start": "00:26:52",
+    "end": "00:27:04"
+  },
+  {
+    "text": "So, Tik Tok just banned my account because they're like super strict.",
+    "start": "00:27:04",
+    "end": "00:27:06"
+  },
+  {
+    "text": "on my like 2-day deadline.",
+    "start": "00:27:06",
+    "end": "00:27:07"
+  },
+  {
+    "text": ">> Could you talk about like the fundraising?",
+    "start": "00:27:06",
+    "end": "00:27:08"
+  },
+  {
+    "text": "Like why did you decide to to fund raise for the startup?",
+    "start": "00:27:08",
+    "end": "00:27:12"
+  },
+  {
+    "text": ">> I think it's pretty obvious, right?",
+    "start": "00:27:11",
+    "end": "00:27:14"
+  },
+  {
+    "text": "Like I didn't drop out of school and quit my job to not build a billion dollar company, right?",
+    "start": "00:27:14",
+    "end": "00:27:17"
+  },
+  {
+    "text": "If I wanted to take this and just make like a cash flowing business like that I I would have on the side, I would have just stayed in school, right?",
+    "start": "00:27:17",
+    "end": "00:27:23"
+  },
+  {
+    "text": "Like even when I worked at Cosmos, I was making more money when I was back in school doing the agency.",
+    "start": "00:27:23",
+    "end": "00:27:28"
+  },
+  {
+    "text": "But I left so I can get the startup experience so I can do my own thing.",
+    "start": "00:27:26",
+    "end": "00:27:31"
+  },
+  {
+    "text": ">> Who's your investor?",
+    "start": "00:27:29",
+    "end": "00:27:30"
+  },
+  {
+    "text": "How much do they invest >> right now?",
+    "start": "00:27:30",
+    "end": "00:27:32"
+  },
+  {
+    "text": "We're in a speedrun.",
+    "start": "00:27:32",
+    "end": "00:27:35"
+  },
+  {
+    "text": "So a A6Z, it's a program by them, basically like their own version of YC, and they do a total of 1 million.",
+    "start": "00:27:35",
+    "end": "00:27:40"
+  },
+  {
+    "text": ">> This is awesome.",
+    "start": "00:27:38",
+    "end": "00:27:39"
+  },
+  {
+    "text": "Thanks for being on the pod.",
+    "start": "00:27:39",
+    "end": "00:27:41"
+  },
+  {
+    "text": ">> Of course.",
+    "start": "00:27:40",
+    "end": "00:27:41"
+  },
+  {
+    "text": "Excited to see it.",
+    "start": "00:27:41",
+    "end": "00:27:42"
+  },
+  {
+    "text": ">> All right, that was a good one.",
+    "start": "00:27:41",
+    "end": "00:27:44"
+  },
+  {
+    "text": "By the way, I'm the host, Joseph Choy, founder of Consumer Club, which is a private group for app founders to talk to each other about the latest tactics.",
+    "start": "00:27:44",
+    "end": "00:27:52"
+  },
+  {
+    "text": "Median revenue of member is about a million ARR.",
+    "start": "00:27:52",
+    "end": "00:27:53"
+  },
+  {
+    "text": "Check it out.",
+    "start": "00:27:53",
+    "end": "00:27:54"
+  },
+  {
+    "text": "Check out Superwall, too.",
+    "start": "00:27:54",
+    "end": "00:27:55"
+  },
+  {
+    "text": "They're the best.",
+    "start": "00:27:55",
+    "end": "00:27:56"
+  },
+  {
+    "text": "And check out the other interviews on the Superwall channel.",
+    "start": "00:27:56",
+    "end": "00:27:58"
+  },
+  {
+    "text": "See you in the next one.",
+    "start": "00:27:58",
+    "end": "00:28:00"
+  }
+]

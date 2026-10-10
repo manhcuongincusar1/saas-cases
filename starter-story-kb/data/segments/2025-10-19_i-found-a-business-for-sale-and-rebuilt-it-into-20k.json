@@ -1,0 +1,40 @@
+{
+ "f": "2025-10-19_i-found-a-business-for-sale-and-rebuilt-it-into-20k",
+ "vid": "4BsxnGRbF4k",
+ "segments": [
+  {"s":"01:02","e":"01:33","nut":["?"],"moi":"API bán credit trả trước, không subscription",
+   "tom":"Sản phẩm là API scraping làm khoảng $20K/tháng theo mô hình credit — mua credit rồi tiêu dần, không có gói thuê bao; 600 người đã từng trả tiền và hệ thống chạy gần 20 triệu request mỗi tháng","kq":"$20K/tháng, 600 khách đã trả tiền"},
+  {"s":"01:33","e":"02:06","nut":["1.2","?"],"moi":"Bỏ việc với $30.000 tiết kiệm rồi thử nhiều thứ trước khi trúng",
+   "tom":"Đường đi: chuyển tới SF học code ở bootcamp App Academy, làm engineer ở Utah 3 năm, nghỉ việc với $30.000 tiết kiệm rồi freelance, làm khoá học, làm vài sản phẩm — không cái nào ăn cho tới Scrape Creators","kq":"khoá học và vài sản phẩm trước đó đều không thành"},
+  {"s":"02:22","e":"02:53","nut":["2.4"],
+   "tom":"Một follower trên Twitter DM cho anh cái listing trên Acquire.com vì biết anh đã có sản phẩm liên quan mạng xã hội: đó là một scraping API, xem số xong anh choáng và quyết định làm y hệt thay vì mua lại"},
+  {"s":"02:53","e":"03:38","nut":["2.4","?"],"moi":"Soi listing rao bán: MRR, tuổi đời, số khách, kênh kéo khách duy nhất",
+   "tom":"Cơ sở để tin mình làm được: anh đã nghiên cứu scraping 3 năm và có sẵn các API đó; còn business kia làm $30.000 MRR, tồn tại 3 năm, dưới 100 khách và chỉ kéo khách bằng SEO — nhẩm ra là mình đuổi kịp được"},
+  {"s":"03:38","e":"04:24","nut":["?"],"moi":"MVP API hai tuần: scraper cũ + Render + docs để trên Notion",
+   "tom":"Cách dựng: bê đám scraper sẵn trong repo lên một server Node.js trên render.com, tài liệu API viết luôn trong một doc Notion, thêm website cơ bản — sơ sài vậy thôi, mất khoảng hai tuần","kq":"khách trả tiền đầu tiên sau vài tuần"},
+  {"s":"04:24","e":"05:11","nut":["4.9","4.14"],
+   "tom":"Cách kéo khách: khách đầu tiên đến vì anh scrape site của một công ty rồi CTO công ty đó vào bình luận dưới bài; sau đó hễ thấy video ra mắt nào dính tới scraping mạng xã hội là anh vào comment tặng 10.000 credit dùng thử","kq":"khoảng 12 khách chiếm phần lớn MRR"},
+  {"s":"06:27","e":"06:59","nut":["2.4"],
+   "tom":"Bước 1–4 của playbook: vào marketplace Micro Acquire, lọc loại SaaS, kéo giá chào bán lên tối thiểu $300.000 (hoặc lọc theo ARR) để chỉ còn ý tưởng đã có người trả tiền, rồi chọn mảng mình có kỹ năng — của anh là web scraping"},
+  {"s":"06:59","e":"07:46","nut":["2.4","?"],"moi":"Truy ngược ra website thật của listing ẩn danh",
+   "tom":"Bước 5: listing không ghi tên website nhưng Google một đoạn tiêu đề hoặc mô tả là ra, vì người bán thường copy luôn H1 của họ; hoặc lấy tên đối thủ họ liệt kê rồi tìm cụm tên đối thủ + alternative, xong đối chiếu câu chữ trên trang"},
+  {"s":"07:46","e":"08:17","nut":["2.B3","?"],"moi":"Truy ngược kênh kéo khách của business đang rao bán",
+   "tom":"Bước 6 và là bước quan trọng nhất: dựng sản phẩm không khó, khó là họ lấy khách ở đâu — đọc sạch những gì trên site, tìm founder trên Twitter và LinkedIn, lùng podcast hay video họ nói về cách tăng trưởng"},
+  {"s":"08:17","e":"08:48","nut":["2.B1","?"],"moi":"Copy khái niệm chứ không copy từng chữ, rồi làm mỗi ngày",
+   "tom":"Bước 7–9: bắt tay làm thật; đừng copy y nguyên từng chữ mà chỉ lấy khái niệm; và đừng để dự án khác kéo đi — mỗi ngày làm một việc để cải thiện hoặc quảng bá sản phẩm, vì ý tưởng này đã chắc chắn có tiền"},
+  {"s":"09:04","e":"09:44","nut":["?"],"moi":"Ba bậc credit $10 / $50 / $500 cho API dev",
+   "tom":"API scrape dữ liệu công khai của Instagram, YouTube, Twitter và cả thư viện quảng cáo Facebook, LinkedIn; khách là các tool link-in-bio và bên theo dõi analytics video ngắn; giá theo credit: $10 cho 5.000, $50 cho 25.000, $500 cho 500.000"},
+  {"s":"09:44","e":"10:05","nut":["4.14","?"],"moi":"Thắng bằng độ ổn định và founder dễ liên lạc",
+   "tom":"Lợi thế không nằm ở tính năng: scraper mạng xã hội ngoài kia hay hỏng, còn của anh chạy ổn, hỏng thì anh báo ngay và cực dễ liên lạc — trong khi phần lớn dev làm sản phẩm dạng này không để lại nổi cái email"},
+  {"s":"10:05","e":"10:52","nut":["?"],"moi":"Stack scraping API: impit + nhiều nhà proxy + Render",
+   "tom":"Stack: toàn bộ Node.js với HTTP request, dùng package impit của Apify, bốn nhà proxy (Evomi residential rẻ nhất, Webshare, Massive), host trên render.com và AWS Lambda, Supabase làm database, front-end Astro + React"},
+  {"s":"10:52","e":"11:24","nut":["1.1","1.3"],
+   "tom":"Cơ cấu chi phí: biên khoảng 80%, tốn nhất là proxy khoảng $1.500/tháng, thuê một dev ở Philippines trực API ban đêm khoảng $500/tháng, và chi phí server khoảng $400/tháng","kq":"biên ~80%"},
+  {"s":"11:24","e":"11:45","nut":["?"],"moi":"Ngừng nhảy ý tưởng, dồn vào một thứ mỗi ngày",
+   "tom":"Lời khuyên cuối: thôi nhảy qua nhảy lại giữa các ý tưởng, chọn một thứ rồi ngày nào cũng động vào nó — chính việc bị phân tâm là thứ đã ghìm anh lại suốt những năm trước đó"}
+ ],
+ "bo_qua": [
+  {"s":"05:11","e":"06:12","ly_do":"quảng cáo HubSpot for Startups (database use case AI miễn phí)"},
+  {"s":"11:55","e":"12:52","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

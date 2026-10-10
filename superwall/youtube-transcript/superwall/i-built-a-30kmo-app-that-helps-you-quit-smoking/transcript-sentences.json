@@ -1,0 +1,2602 @@
+[
+  {
+    "text": "It's hard to blow up on organic a lot.",
+    "start": "00:00:00",
+    "end": "00:00:03"
+  },
+  {
+    "text": "We know people who've gotten 10 million views on videos and made a thousand bucks.",
+    "start": "00:00:01",
+    "end": "00:00:05"
+  },
+  {
+    "text": "But if you can give this onboarding the intention and care it deserves, then everything else in your business becomes very easy.",
+    "start": "00:00:05",
+    "end": "00:00:13"
+  },
+  {
+    "text": "This is probably like from a consumer perspective the dumbest thing I've ever seen.",
+    "start": "00:00:13",
+    "end": "00:00:16"
+  },
+  {
+    "text": "But when we put this in, we've seen our reviews like skyrocket on our app store page, going from 50 reviews to almost at a thousand right now.",
+    "start": "00:00:16",
+    "end": "00:00:26"
+  },
+  {
+    "text": "And it's just continuing to grow as more people come through the app.",
+    "start": "00:00:26",
+    "end": "00:00:29"
+  },
+  {
+    "text": "We changed the payw wall once and we went from 20% conversion to 30% conversion.",
+    "start": "00:00:29",
+    "end": "00:00:34"
+  },
+  {
+    "text": "We went from doing 10k in subscriptions last month and then we made 30k in subscriptions this month and the trajectory keeps going up like that.",
+    "start": "00:00:34",
+    "end": "00:00:40"
+  },
+  {
+    "text": "What if I told you there were two founders who found a way to triple their app revenue in 8 weeks.",
+    "start": "00:00:39",
+    "end": "00:00:45"
+  },
+  {
+    "text": "Meet Asher and Thatcher.",
+    "start": "00:00:45",
+    "end": "00:00:46"
+  },
+  {
+    "text": "2 months ago, their addiction recovery app, Clear 30, was pulling in a modest 10K a month.",
+    "start": "00:00:46",
+    "end": "00:00:51"
+  },
+  {
+    "text": "Fast forward to today and they've blown past 30K a month and they're still climbing.",
+    "start": "00:00:51",
+    "end": "00:00:55"
+  },
+  {
+    "text": "But they didn't just get lucky to see this kind of success.",
+    "start": "00:00:55",
+    "end": "00:00:57"
+  },
+  {
+    "text": "They systematically tested everything.",
+    "start": "00:00:57",
+    "end": "00:00:59"
+  },
+  {
+    "text": "I'm talking everything from ad creatives that bombed versus ones that converted at three times the rate to onboarding flows that confused users versus ones that led straight to paid subscriptions all the way to payw wall copy that felt pushy versus messaging that actually convinced people to invest in their recovery.",
+    "start": "00:00:59",
+    "end": "00:01:14"
+  },
+  {
+    "text": "They documented every experiment, tracked every metric, and figured out exactly what psychological triggers turn a curious user into a paying customer in the addiction recovery space.",
+    "start": "00:01:14",
+    "end": "00:01:23"
+  },
+  {
+    "text": "So today we're pulling back the curtain on their entire playbook.",
+    "start": "00:01:23",
+    "end": "00:01:26"
+  },
+  {
+    "text": "The real numbers, the failed tests, and the three breakthrough discoveries that changed everything for them.",
+    "start": "00:01:26",
+    "end": "00:01:31"
+  },
+  {
+    "text": "If you've got a consumer app that's stuck in revenue limbo, the next 45 minutes might just be your road map out.",
+    "start": "00:01:31",
+    "end": "00:01:36"
+  },
+  {
+    "text": "Let's dive in.",
+    "start": "00:01:36",
+    "end": "00:01:38"
+  },
+  {
+    "text": "And if you aren't familiar with the pod, this interview is brought to you by Superwall, the all-in-one platform for paywall management and revenue analytics for your mobile apps.",
+    "start": "00:01:38",
+    "end": "00:01:45"
+  },
+  {
+    "text": "Asha and Thatcher and Clear 30.",
+    "start": "00:01:45",
+    "end": "00:01:46"
+  },
+  {
+    "text": "They use Superwall.",
+    "start": "00:01:46",
+    "end": "00:01:48"
+  },
+  {
+    "text": "We go straight into their dashboards in the video.",
+    "start": "00:01:48",
+    "end": "00:01:49"
+  },
+  {
+    "text": "Let's get right into it.",
+    "start": "00:01:49",
+    "end": "00:01:51"
+  },
+  {
+    "text": "Introduce yourself and what app are you working on.",
+    "start": "00:01:50",
+    "end": "00:01:52"
+  },
+  {
+    "text": "What's up?",
+    "start": "00:01:52",
+    "end": "00:01:53"
+  },
+  {
+    "text": "I'm Asher Hurstman, a co-founder of Clear 30.",
+    "start": "00:01:53",
+    "end": "00:01:56"
+  },
+  {
+    "text": ">> I'm Thatcher Kloff, also co-founder of Clear 30.",
+    "start": "00:01:54",
+    "end": "00:01:58"
+  },
+  {
+    "text": ">> Together with our other amazing, brilliant co-founder, Dr.",
+    "start": "00:01:56",
+    "end": "00:02:00"
+  },
+  {
+    "text": "Fred Munch, who's a clinical psychologist.",
+    "start": "00:02:00",
+    "end": "00:02:02"
+  },
+  {
+    "text": "We've built Clear 30, which is a science-based app.",
+    "start": "00:02:02",
+    "end": "00:02:03"
+  },
+  {
+    "text": "Helps give people a system to stop smoking weed if they're brutally addicted or just want to take a little break and start smoking with intention and moderate.",
+    "start": "00:02:03",
+    "end": "00:02:10"
+  },
+  {
+    "text": "The app can help them whatever they want.",
+    "start": "00:02:10",
+    "end": "00:02:12"
+  },
+  {
+    "text": "Yeah, we haven't done like millions of revenue.",
+    "start": "00:02:12",
+    "end": "00:02:14"
+  },
+  {
+    "text": "We started out as actually complete idiots in this app world.",
+    "start": "00:02:14",
+    "end": "00:02:16"
+  },
+  {
+    "text": "We didn't know there was a whole community like the stuff that Joseph does.",
+    "start": "00:02:16",
+    "end": "00:02:20"
+  },
+  {
+    "text": ">> We have like, you know, community.",
+    "start": "00:02:18",
+    "end": "00:02:22"
+  },
+  {
+    "text": "It's like a science-based like our clinician co-founder based daily program to take people through and it's been really fun growing it over the past year and a half.",
+    "start": "00:02:22",
+    "end": "00:02:29"
+  },
+  {
+    "text": ">> We started out as actually complete idiots in this app world but we learned and failed a lot by ourselves and then ended up figuring out what works in the last two months.",
+    "start": "00:02:27",
+    "end": "00:02:36"
+  },
+  {
+    "text": "We went from doing 10k in subscriptions last month and then we made 30k in subscriptions this month and the trajectory keeps going up like that.",
+    "start": "00:02:36",
+    "end": "00:02:43"
+  },
+  {
+    "text": ">> I love it.",
+    "start": "00:02:42",
+    "end": "00:02:42"
+  },
+  {
+    "text": "This is an awesome story.",
+    "start": "00:02:42",
+    "end": "00:02:44"
+  },
+  {
+    "text": "I feel like there's two parts.",
+    "start": "00:02:44",
+    "end": "00:02:46"
+  },
+  {
+    "text": "There's like 0 to 10k in revenue and then there's the 10k to 30k in revenue.",
+    "start": "00:02:46",
+    "end": "00:02:50"
+  },
+  {
+    "text": "I think if you're watching this, you might be at the zero, you might be at the 10, maybe at the 30, but I think there's a lot to learn here.",
+    "start": "00:02:50",
+    "end": "00:02:55"
+  },
+  {
+    "text": "So, let's start with the 10K.",
+    "start": "00:02:55",
+    "end": "00:02:56"
+  },
+  {
+    "text": "How did you guys get your first like zero to 10K in revenue?",
+    "start": "00:02:56",
+    "end": "00:03:01"
+  },
+  {
+    "text": ">> Most difficult was 0 to 1K.",
+    "start": "00:02:58",
+    "end": "00:03:02"
+  },
+  {
+    "text": "I think even just making the first dollar before we really had a system in place, we tried a million things.",
+    "start": "00:03:02",
+    "end": "00:03:07"
+  },
+  {
+    "text": "A lot of people start organic, posting free content on the internet.",
+    "start": "00:03:07",
+    "end": "00:03:10"
+  },
+  {
+    "text": "We tried influencers, we tried Reddit, we tried organic content, we tried SEO.",
+    "start": "00:03:10",
+    "end": "00:03:14"
+  },
+  {
+    "text": "In the end, it was like an uphill battle to convert people.",
+    "start": "00:03:14",
+    "end": "00:03:18"
+  },
+  {
+    "text": "We have this meme here to show you guys.",
+    "start": "00:03:18",
+    "end": "00:03:20"
+  },
+  {
+    "text": "It hasn't really been since paid ads that really begun our flywheel.",
+    "start": "00:03:20",
+    "end": "00:03:23"
+  },
+  {
+    "text": "So here, this is credit to Sebastian Steph.",
+    "start": "00:03:23",
+    "end": "00:03:25"
+  },
+  {
+    "text": "He's a brilliant YouTuber in the app space and helps apps grow as a marketer.",
+    "start": "00:03:25",
+    "end": "00:03:28"
+  },
+  {
+    "text": "You can see here it's like the virgin organic poster, which is what we were doing.",
+    "start": "00:03:28",
+    "end": "00:03:33"
+  },
+  {
+    "text": "It has PTSD from waking up to zero views on launch day.",
+    "start": "00:03:33",
+    "end": "00:03:34"
+  },
+  {
+    "text": "And we've turned into the Chad Pay Marketers, has zero followers, but still makes money.",
+    "start": "00:03:34",
+    "end": "00:03:39"
+  },
+  {
+    "text": "We started with a lot of organic, seeing what works.",
+    "start": "00:03:39",
+    "end": "00:03:41"
+  },
+  {
+    "text": "And I think that's really important to be able to get your first few people in the app, getting feedback, all of that stuff.",
+    "start": "00:03:41",
+    "end": "00:03:47"
+  },
+  {
+    "text": "You know, our graph looks like this.",
+    "start": "00:03:47",
+    "end": "00:03:50"
+  },
+  {
+    "text": "and then this.",
+    "start": "00:03:50",
+    "end": "00:03:49"
+  },
+  {
+    "text": "And it wasn't really until we built the flywheel of being able to scale on paid acquisition and paid marketing that we really began to take off as a company with users and revenue.",
+    "start": "00:03:49",
+    "end": "00:04:00"
+  },
+  {
+    "text": "We thought that was all marketing, but it really turned to looking towards the product because if you don't have a product that converts and you don't build that, then you can't have that flywheel and you can't reach that point where you're getting, you know, multiple dollars per install and you can't continue to grow.",
+    "start": "00:03:59",
+    "end": "00:04:14"
+  },
+  {
+    "text": ">> You guys film your own paid ads.",
+    "start": "00:04:13",
+    "end": "00:04:15"
+  },
+  {
+    "text": "Can I see some of those?",
+    "start": "00:04:15",
+    "end": "00:04:16"
+  },
+  {
+    "text": "Yeah, you can see.",
+    "start": "00:04:16",
+    "end": "00:04:18"
+  },
+  {
+    "text": "That's so good.",
+    "start": "00:04:16",
+    "end": "00:04:18"
+  },
+  {
+    "text": "That's your dad, right?",
+    "start": "00:04:18",
+    "end": "00:04:20"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:04:18",
+    "end": "00:04:19"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:04:19",
+    "end": "00:04:19"
+  },
+  {
+    "text": "He's a actor, so he's very lucky to be able to have that just when it arrived.",
+    "start": "00:04:19",
+    "end": "00:04:24"
+  },
+  {
+    "text": ">> I'm guessing you guys scripted that ad and like thought of the storyboarding and stuff, right?",
+    "start": "00:04:22",
+    "end": "00:04:28"
+  },
+  {
+    "text": ">> One thing that has been doing really well is I'm a very like intuitive person.",
+    "start": "00:04:26",
+    "end": "00:04:30"
+  },
+  {
+    "text": "I kind of just like doing stuff.",
+    "start": "00:04:30",
+    "end": "00:04:32"
+  },
+  {
+    "text": "And Thatcher's, you know, pushed me more to, you know, create frameworks and systems.",
+    "start": "00:04:31",
+    "end": "00:04:35"
+  },
+  {
+    "text": "So, we go through our demographics of like who we think is going to respond.",
+    "start": "00:04:35",
+    "end": "00:04:39"
+  },
+  {
+    "text": "We look at who's converting, who's going to be able to actually commit to this program and make us revenue.",
+    "start": "00:04:39",
+    "end": "00:04:43"
+  },
+  {
+    "text": "And then, you know, we think about actual like small persuasion hacks within the ad.",
+    "start": "00:04:43",
+    "end": "00:04:48"
+  },
+  {
+    "text": "We look at just some of like the literature around like what makes an ad good, you know, like having like a really great headline, having, you know, small like building up trust throughout the ad, having like really clear call to actions.",
+    "start": "00:04:48",
+    "end": "00:04:59"
+  },
+  {
+    "text": "Like we're just like students of the game in terms of like loving like these persuasion frameworks and then we just kind of like throw them into like a funny ad and and try to convert people from there.",
+    "start": "00:04:59",
+    "end": "00:05:08"
+  },
+  {
+    "text": ">> How did you actually make that ad?",
+    "start": "00:05:07",
+    "end": "00:05:09"
+  },
+  {
+    "text": "Like what do you think made it do?",
+    "start": "00:05:09",
+    "end": "00:05:11"
+  },
+  {
+    "text": "Well, I would say one thing that's been super kind of helpful for us in terms of making content is getting really specific about the call out that we're having.",
+    "start": "00:05:11",
+    "end": "00:05:17"
+  },
+  {
+    "text": "Are you someone that hangs out, you know, in your basement after school and hit your pen until like 3:00 a.",
+    "start": "00:05:17",
+    "end": "00:05:24"
+  },
+  {
+    "text": "m.",
+    "start": "00:05:24",
+    "end": "00:05:24"
+  },
+  {
+    "text": "while watching skateboarding videos?",
+    "start": "00:05:22",
+    "end": "00:05:26"
+  },
+  {
+    "text": "Like that type of thing is really helpful cuz we've seen that it really resonates with people and yes, they're going to get like a more narrow audience with that, but they sort of like, you know, noticed as a human because we are noticing them.",
+    "start": "00:05:24",
+    "end": "00:05:36"
+  },
+  {
+    "text": "And we find that that's very helpful with actually grabbing people's attention.",
+    "start": "00:05:36",
+    "end": "00:05:40"
+  },
+  {
+    "text": "And even if the, you know, call out is kind of out of nowhere, like, oh, do you ever get that feeling when you're going on a walk and you're like, oh man, I want to smoke a joint.",
+    "start": "00:05:40",
+    "end": "00:05:47"
+  },
+  {
+    "text": "And so you walk up to the random dude on the corner and he asked you to do a little dance for a free joint.",
+    "start": "00:05:47",
+    "end": "00:05:53"
+  },
+  {
+    "text": "It's like that's not a real situation.",
+    "start": "00:05:53",
+    "end": "00:05:55"
+  },
+  {
+    "text": "I think the comedy aspect of it and the the super specificness of it, even though it doesn't necessarily apply directly to someone, is something that people respond a lot.",
+    "start": "00:05:55",
+    "end": "00:06:01"
+  },
+  {
+    "text": ">> We'll get into this in our onboarding as well when we talk about it, but like the questions that we ask, what is your dream outcome?",
+    "start": "00:06:00",
+    "end": "00:06:06"
+  },
+  {
+    "text": "Why are you quitting weed?",
+    "start": "00:06:06",
+    "end": "00:06:06"
+  },
+  {
+    "text": "What's triggering you to smoke?",
+    "start": "00:06:06",
+    "end": "00:06:09"
+  },
+  {
+    "text": "We have like very clear metrics.",
+    "start": "00:06:09",
+    "end": "00:06:11"
+  },
+  {
+    "text": "Like we know that our users are coming in here to seek mental clarity.",
+    "start": "00:06:11",
+    "end": "00:06:13"
+  },
+  {
+    "text": "We know that they're having a relationship with weed where they don't feel in control of the habit.",
+    "start": "00:06:13",
+    "end": "00:06:16"
+  },
+  {
+    "text": "They're quitting weed to become more motivated.",
+    "start": "00:06:16",
+    "end": "00:06:18"
+  },
+  {
+    "text": "They convert in terms of the pay wall at a higher rate.",
+    "start": "00:06:18",
+    "end": "00:06:22"
+  },
+  {
+    "text": ">> That's really interesting actually.",
+    "start": "00:06:20",
+    "end": "00:06:24"
+  },
+  {
+    "text": "So are did you see any big differences in the actual conversion reasons versus what you guys thought would get people to convert?",
+    "start": "00:06:24",
+    "end": "00:06:30"
+  },
+  {
+    "text": "I think the one that really shocked me was really seeing and I know like people talk about this a lot just like the difference in conversion by age.",
+    "start": "00:06:30",
+    "end": "00:06:36"
+  },
+  {
+    "text": "You know I know people say oh don't market on Tik Tok don't do this or that.",
+    "start": "00:06:36",
+    "end": "00:06:42"
+  },
+  {
+    "text": "Like if you look and you're seeing like 18 to 20 year olds convert at.",
+    "start": "00:06:40",
+    "end": "00:06:45"
+  },
+  {
+    "text": "19.",
+    "start": "00:06:45",
+    "end": "00:06:45"
+  },
+  {
+    "text": "Well you know even just a few years older at 26 to 30.",
+    "start": "00:06:45",
+    "end": "00:06:47"
+  },
+  {
+    "text": "It's almost double that.",
+    "start": "00:06:47",
+    "end": "00:06:50"
+  },
+  {
+    "text": "People say the meta in advertising is like switching off 18 to 25 on meta ads or anything or Tik Tok ads because they don't want to target those people.",
+    "start": "00:06:48",
+    "end": "00:06:57"
+  },
+  {
+    "text": "And just continuing to think about balancing like yes, we can make a funny Tik Tok ad targeted towards kids and they're going to laugh.",
+    "start": "00:06:57",
+    "end": "00:07:02"
+  },
+  {
+    "text": "You can't judge by how many likes you're getting or how cool a bunch of, you know, like 19-year-olds think you are.",
+    "start": "00:07:02",
+    "end": "00:07:06"
+  },
+  {
+    "text": "As much as I would love that world, but you actually have to build a business that survives.",
+    "start": "00:07:06",
+    "end": "00:07:11"
+  },
+  {
+    "text": "And sometimes the most converting, best ads are ones with my mom who's talking in a very zen, not very exciting, clickbay way, but is just explaining the problem in a more mature way to an older target audience.",
+    "start": "00:07:11",
+    "end": "00:07:22"
+  },
+  {
+    "text": ">> Something that this is also helpful for is not only showing like what is working, but also what to work on.",
+    "start": "00:07:21",
+    "end": "00:07:26"
+  },
+  {
+    "text": "Because like one thing that sticks out to me for example is that like saving money is at you know 23% conversion whereas like legal obligations at 29.",
+    "start": "00:07:25",
+    "end": "00:07:34"
+  },
+  {
+    "text": "Our average user that comes in spends upwards of $55 a week on weed and yet our program is $30 for a year but not all of them are converting.",
+    "start": "00:07:32",
+    "end": "00:07:41"
+  },
+  {
+    "text": "In an ideal world it's like oh you're saving money by spending money on this thing cuz you won't smoke weed again.",
+    "start": "00:07:41",
+    "end": "00:07:45"
+  },
+  {
+    "text": "And obviously people's relationships with it are different.",
+    "start": "00:07:45",
+    "end": "00:07:47"
+  },
+  {
+    "text": "Maybe they don't want to completely stop smoking.",
+    "start": "00:07:47",
+    "end": "00:07:49"
+  },
+  {
+    "text": "Maybe they just want to cut down.",
+    "start": "00:07:49",
+    "end": "00:07:50"
+  },
+  {
+    "text": "I think it can also show things to work on.",
+    "start": "00:07:50",
+    "end": "00:07:51"
+  },
+  {
+    "text": "It's like, okay, that means in our onboarding, we probably should focus a little bit more on calling out, hey, you're spending this much money on weed, but this program is less expensive than that, and we're going to help you stop smoking weed.",
+    "start": "00:07:51",
+    "end": "00:08:01"
+  },
+  {
+    "text": "I think that can be helpful for showing what's working and also what to work on.",
+    "start": "00:08:01",
+    "end": "00:08:04"
+  },
+  {
+    "text": "Yeah, that's a good insight.",
+    "start": "00:08:04",
+    "end": "00:08:07"
+  },
+  {
+    "text": "Are you guys doing this on Facebook ads and Tik Tok ads?",
+    "start": "00:08:05",
+    "end": "00:08:10"
+  },
+  {
+    "text": ">> So, we have an attribution slide like a lot of apps do have.",
+    "start": "00:08:08",
+    "end": "00:08:11"
+  },
+  {
+    "text": "We have all of our panels in Amplitude, but we have a bunch of different graphs that show what our direct return on ad spend is after the Apple tax, what amount of trials are starting from which channel, the return on ad spend from each.",
+    "start": "00:08:11",
+    "end": "00:08:22"
+  },
+  {
+    "text": "So, we'll be able to see how much a conversion is costing on Tik Tok, on Instagram.",
+    "start": "00:08:22",
+    "end": "00:08:26"
+  },
+  {
+    "text": ">> And we can also dive in like we annotated our onboarding to show like you know why we chose to do specific things.",
+    "start": "00:08:25",
+    "end": "00:08:29"
+  },
+  {
+    "text": "But one thing that we found really helpful is this question of like you can try and do attribution through a mobile measurement platform.",
+    "start": "00:08:29",
+    "end": "00:08:35"
+  },
+  {
+    "text": "And in fact, you should like it's really important for the meta and Tik Tok algorithms to be able to attribute oh this kind of user converts.",
+    "start": "00:08:35",
+    "end": "00:08:41"
+  },
+  {
+    "text": "So we should show it to more people like that.",
+    "start": "00:08:41",
+    "end": "00:08:43"
+  },
+  {
+    "text": "But in terms of like in our data actively seeing, you know, who is converting, we found this question to be very helpful.",
+    "start": "00:08:43",
+    "end": "00:08:49"
+  },
+  {
+    "text": "Yes, there is definitely some bias with the fact that, you know, Instagram is first and we have more people clicking Instagram.",
+    "start": "00:08:47",
+    "end": "00:08:52"
+  },
+  {
+    "text": "Maybe when we're running the same amount on Instagram and Tik Tok in terms of ad spend, but we found it really helpful in terms of being able to where people are coming from to who's converting.",
+    "start": "00:08:52",
+    "end": "00:09:00"
+  },
+  {
+    "text": "You know, how much does it cost to get a trial from this platform?",
+    "start": "00:09:00",
+    "end": "00:09:04"
+  },
+  {
+    "text": "How should we monitor ad spend throughout the day to counteract and and balance what we're seeing in the data?",
+    "start": "00:09:02",
+    "end": "00:09:09"
+  },
+  {
+    "text": "What kind of made us go exponential of like 10 to 30K?",
+    "start": "00:09:07",
+    "end": "00:09:11"
+  },
+  {
+    "text": "I like okay touch on that really quickly.",
+    "start": "00:09:11",
+    "end": "00:09:13"
+  },
+  {
+    "text": ">> For sure.",
+    "start": "00:09:12",
+    "end": "00:09:14"
+  },
+  {
+    "text": "100%.",
+    "start": "00:09:14",
+    "end": "00:09:15"
+  },
+  {
+    "text": ">> 85% of users decide if they're going to pay for your app in the first 5 minutes.",
+    "start": "00:09:13",
+    "end": "00:09:19"
+  },
+  {
+    "text": "And for a while we had a valuable app but we weren't conveying that value in the first 5 minutes.",
+    "start": "00:09:17",
+    "end": "00:09:22"
+  },
+  {
+    "text": "You know learning from some of the best onboardings.",
+    "start": "00:09:22",
+    "end": "00:09:26"
+  },
+  {
+    "text": "We tore down Cali's onboarding which is great.",
+    "start": "00:09:26",
+    "end": "00:09:27"
+  },
+  {
+    "text": "Twitter ahead.",
+    "start": "00:09:27",
+    "end": "00:09:28"
+  },
+  {
+    "text": "Actually looking at all of these understanding how a perfect onboarding is created and then applying it to your own business and your own value prop and your own customers is really helpful.",
+    "start": "00:09:28",
+    "end": "00:09:37"
+  },
+  {
+    "text": "Let's look at your Figma.",
+    "start": "00:09:37",
+    "end": "00:09:38"
+  },
+  {
+    "text": "Let's just like dive in.",
+    "start": "00:09:38",
+    "end": "00:09:40"
+  },
+  {
+    "text": ">> This is our Figma of like all of our and current onboarding.",
+    "start": "00:09:38",
+    "end": "00:09:42"
+  },
+  {
+    "text": "So, we can go slide by slide of like why we're choosing to do different things and how we are focusing on certain things.",
+    "start": "00:09:42",
+    "end": "00:09:47"
+  },
+  {
+    "text": "The intro screen is really important for what we're showing users.",
+    "start": "00:09:47",
+    "end": "00:09:50"
+  },
+  {
+    "text": "Originally, when we were first collecting data, I think that collecting data on your onboarding is super important.",
+    "start": "00:09:50",
+    "end": "00:09:54"
+  },
+  {
+    "text": "In the beginning, we weren't collecting any data on the user until they signed in with their phone number.",
+    "start": "00:09:54",
+    "end": "00:09:58"
+  },
+  {
+    "text": "And the issue with that is we don't know how many people are opening the app and then not putting in their phone number or how many people are never even opening the app to begin with.",
+    "start": "00:09:58",
+    "end": "00:10:05"
+  },
+  {
+    "text": "So really collecting data early on and being able to see the different drop offs at different points is super helpful for it and helped us kind of build where we're at right now.",
+    "start": "00:10:05",
+    "end": "00:10:15"
+  },
+  {
+    "text": "There's about 85 90% conversion on this screen, but we've seen it fluctuate over time depending on what ads we're running and what intent of people are coming into the app.",
+    "start": "00:10:15",
+    "end": "00:10:22"
+  },
+  {
+    "text": "Everybody feels like they don't have intention with their relationship with weed.",
+    "start": "00:10:22",
+    "end": "00:10:25"
+  },
+  {
+    "text": "They want to get clearheaded, but it paints a dream outcome of 30 days without weed.",
+    "start": "00:10:25",
+    "end": "00:10:30"
+  },
+  {
+    "text": "It's not trying to show you the widgets or the this or the that.",
+    "start": "00:10:30",
+    "end": "00:10:33"
+  },
+  {
+    "text": "It's showing you where you're going to be as a result of doing this onboarding and downloading this app.",
+    "start": "00:10:32",
+    "end": "00:10:38"
+  },
+  {
+    "text": ">> After users get through the intro slide, we really try and show off what they're going to get out of this onboarding.",
+    "start": "00:10:36",
+    "end": "00:10:43"
+  },
+  {
+    "text": "With that, we show very like abstracted graphics of what it is we're going to provide them.",
+    "start": "00:10:41",
+    "end": "00:10:45"
+  },
+  {
+    "text": "We're going to give them feedback in a program.",
+    "start": "00:10:45",
+    "end": "00:10:47"
+  },
+  {
+    "text": "And with the copy down here, we really focused in on how do we give them something to look forward to.",
+    "start": "00:10:47",
+    "end": "00:10:51"
+  },
+  {
+    "text": "And then with that, we also unlocking the potential within you.",
+    "start": "00:10:51",
+    "end": "00:10:54"
+  },
+  {
+    "text": "We're not saying go 30 days without weed.",
+    "start": "00:10:53",
+    "end": "00:10:55"
+  },
+  {
+    "text": "We're saying, \"Hey, you could be the best version of yourself with what we're about to give you.",
+    "start": "00:10:55",
+    "end": "00:10:59"
+  },
+  {
+    "text": "\" One of the first things we do early on is we get their name.",
+    "start": "00:10:59",
+    "end": "00:11:01"
+  },
+  {
+    "text": "The biggest reason for this is that we want to make them feel seen.",
+    "start": "00:11:01",
+    "end": "00:11:05"
+  },
+  {
+    "text": "So we ask them for their name and then immediately in the next question we're using their name and sort of trying to make it feel more like a conversation than answering you know oh question one, question two, question three.",
+    "start": "00:11:04",
+    "end": "00:11:13"
+  },
+  {
+    "text": "It's like how do we make it feel like more of a conversation where you we are understanding where you're at.",
+    "start": "00:11:13",
+    "end": "00:11:18"
+  },
+  {
+    "text": "We're calling you by your name like a regular human would.",
+    "start": "00:11:18",
+    "end": "00:11:20"
+  },
+  {
+    "text": ">> This is how we try to communicate value which is showing them the dream outcome times the percentage likelihood of achieving that dream outcome divided by these are things that show less value.",
+    "start": "00:11:19",
+    "end": "00:11:29"
+  },
+  {
+    "text": "Time delay and effort and sacrifice.",
+    "start": "00:11:27",
+    "end": "00:11:30"
+  },
+  {
+    "text": "So in a great scenario, we're trying to convey, hey, you're going to feel amazing without weed, this, this, and this.",
+    "start": "00:11:30",
+    "end": "00:11:34"
+  },
+  {
+    "text": "We know their dream outcomes.",
+    "start": "00:11:34",
+    "end": "00:11:36"
+  },
+  {
+    "text": "There's a very high chance we're going to get you to feeling all these great things, having all your problems solved.",
+    "start": "00:11:35",
+    "end": "00:11:41"
+  },
+  {
+    "text": "It's going to be quick, or you're at least going to get wins off the jump and very early, and it's not going to be very difficult.",
+    "start": "00:11:39",
+    "end": "00:11:46"
+  },
+  {
+    "text": "We're going to help you in lots of ways.",
+    "start": "00:11:46",
+    "end": "00:11:47"
+  },
+  {
+    "text": "And then if we can communicate all of these things very well, it can show very clear value to the user.",
+    "start": "00:11:47",
+    "end": "00:11:52"
+  },
+  {
+    "text": "So that should think about value through each of these slides and how we can communicate that.",
+    "start": "00:11:52",
+    "end": "00:11:57"
+  },
+  {
+    "text": "The next goal is to actually understand them and know what they want to achieve.",
+    "start": "00:11:57",
+    "end": "00:12:00"
+  },
+  {
+    "text": "It's literally what do you want to achieve with clear 30.",
+    "start": "00:12:00",
+    "end": "00:12:01"
+  },
+  {
+    "text": "We give them a list of different things that they can do in the short term.",
+    "start": "00:12:01",
+    "end": "00:12:04"
+  },
+  {
+    "text": "Over the next 30 days, you're going to achieve.",
+    "start": "00:12:04",
+    "end": "00:12:06"
+  },
+  {
+    "text": "I want to be mentally clear.",
+    "start": "00:12:06",
+    "end": "00:12:07"
+  },
+  {
+    "text": "I want to have reduced anxiety.",
+    "start": "00:12:07",
+    "end": "00:12:08"
+  },
+  {
+    "text": "I want to have reduced depression.",
+    "start": "00:12:08",
+    "end": "00:12:09"
+  },
+  {
+    "text": "And then we also have a sort of farther one of what are their long-term goals after they finish their first clear 30.",
+    "start": "00:12:09",
+    "end": "00:12:14"
+  },
+  {
+    "text": "What do they want to do?",
+    "start": "00:12:14",
+    "end": "00:12:16"
+  },
+  {
+    "text": "Do they want to continue using with how they currently are?",
+    "start": "00:12:15",
+    "end": "00:12:17"
+  },
+  {
+    "text": "Do they want to stop entirely?",
+    "start": "00:12:17",
+    "end": "00:12:18"
+  },
+  {
+    "text": "So, we have that kind of balance between the two.",
+    "start": "00:12:18",
+    "end": "00:12:21"
+  },
+  {
+    "text": "The second that we get these two information, it's not like, oh, we don't jump to the next question.",
+    "start": "00:12:21",
+    "end": "00:12:24"
+  },
+  {
+    "text": "We really like it.",
+    "start": "00:12:24",
+    "end": "00:12:25"
+  },
+  {
+    "text": "Okay, cool.",
+    "start": "00:12:25",
+    "end": "00:12:26"
+  },
+  {
+    "text": "We see that you want to gain mental clarity and reduce dependency and explore life without cannabis and you know use lesser differently afterwards.",
+    "start": "00:12:25",
+    "end": "00:12:32"
+  },
+  {
+    "text": "This is sort of the breakdown of like you know why are we choosing to show these things is like not only do we want to make it seem like we see you but we also want to tie social proof to it as well.",
+    "start": "00:12:31",
+    "end": "00:12:39"
+  },
+  {
+    "text": "So we saw 81% of users s improve mental clarity like oh you said you want to improve mental clarity that's awesome not only do we see you we've helped a whole bunch of people just like you.",
+    "start": "00:12:39",
+    "end": "00:12:49"
+  },
+  {
+    "text": "Friction isn't necessarily bad having good friction where sitting on this question for 30 seconds think about damn what do I want to achieve?",
+    "start": "00:12:47",
+    "end": "00:12:55"
+  },
+  {
+    "text": "Really having them sit down and do that is commitment not only to your product but also like to themselves of what it is that they want to do.",
+    "start": "00:12:55",
+    "end": "00:13:00"
+  },
+  {
+    "text": "That's something that we saw like with two of our biggest questions.",
+    "start": "00:13:00",
+    "end": "00:13:04"
+  },
+  {
+    "text": "We have questions on break reasons.",
+    "start": "00:13:02",
+    "end": "00:13:05"
+  },
+  {
+    "text": "So this one right here of like what do they want to achieve and then also their triggers later on.",
+    "start": "00:13:05",
+    "end": "00:13:08"
+  },
+  {
+    "text": "And like people spend the most time on this question.",
+    "start": "00:13:08",
+    "end": "00:13:11"
+  },
+  {
+    "text": "So if 6 months ago we were to go look at this chart, we would say oh we need to reduce these questions to make them less important or something like that.",
+    "start": "00:13:11",
+    "end": "00:13:17"
+  },
+  {
+    "text": "But almost no drop off for people completing these questions.",
+    "start": "00:13:17",
+    "end": "00:13:19"
+  },
+  {
+    "text": "they are really sitting down for 30 seconds, 20 seconds, you know, 25 seconds really think about, damn, what do I want to achieve?",
+    "start": "00:13:19",
+    "end": "00:13:24"
+  },
+  {
+    "text": "What is triggering me?",
+    "start": "00:13:24",
+    "end": "00:13:25"
+  },
+  {
+    "text": "Milkw weed.",
+    "start": "00:13:25",
+    "end": "00:13:27"
+  },
+  {
+    "text": ">> That's actually such an insane metric that you can see how long people are spending on the question and then that the drop off was like what less than 5%.",
+    "start": "00:13:25",
+    "end": "00:13:35"
+  },
+  {
+    "text": "Yeah, that's crazy.",
+    "start": "00:13:33",
+    "end": "00:13:35"
+  },
+  {
+    "text": "That's like it shows like people are actually are doing exactly what you designed the paywell to do.",
+    "start": "00:13:35",
+    "end": "00:13:40"
+  },
+  {
+    "text": ">> Once we kind of get that information as well as like these pain points.",
+    "start": "00:13:38",
+    "end": "00:13:42"
+  },
+  {
+    "text": "So, we asked them some questions on their dream outcome.",
+    "start": "00:13:42",
+    "end": "00:13:43"
+  },
+  {
+    "text": "Hey, we see you.",
+    "start": "00:13:43",
+    "end": "00:13:44"
+  },
+  {
+    "text": "We're going to help you get there.",
+    "start": "00:13:44",
+    "end": "00:13:46"
+  },
+  {
+    "text": "What are you struggling with, right?",
+    "start": "00:13:46",
+    "end": "00:13:47"
+  },
+  {
+    "text": "How many days a week are you smoking?",
+    "start": "00:13:47",
+    "end": "00:13:48"
+  },
+  {
+    "text": "How much money are you smoking?",
+    "start": "00:13:48",
+    "end": "00:13:49"
+  },
+  {
+    "text": "Is it harming your life?",
+    "start": "00:13:49",
+    "end": "00:13:51"
+  },
+  {
+    "text": "With that, we kind of go into a somewhat of a presentation mode.",
+    "start": "00:13:49",
+    "end": "00:13:53"
+  },
+  {
+    "text": "And I think that this is the biggest display of us using that value equation and really saying, \"Hey, this is where you are right now and this is where you can be.",
+    "start": "00:13:53",
+    "end": "00:14:00"
+  },
+  {
+    "text": "\" So, the first section of that, at least for our app, really showing them where they are right now and really highlighting all of the the pain and discomfort that they sort of maybe went through answering these questions and sort of feel right now with their relationship with weed.",
+    "start": "00:14:00",
+    "end": "00:14:12"
+  },
+  {
+    "text": "The first step of that is we show how they compare to others in terms of weed use.",
+    "start": "00:14:10",
+    "end": "00:14:14"
+  },
+  {
+    "text": "But really compared to an everyday person, you're smoking 94% 96% more than is someone that you might randomly pick off of the street.",
+    "start": "00:14:14",
+    "end": "00:14:22"
+  },
+  {
+    "text": "From that, we show a collection of what they just answered and sort of highlighting different aspects of it.",
+    "start": "00:14:22",
+    "end": "00:14:26"
+  },
+  {
+    "text": "How they compare to others, how they're using, how much money they're spending, how much money they're spending is really important.",
+    "start": "00:14:26",
+    "end": "00:14:31"
+  },
+  {
+    "text": "You know, your onboarding doesn't just have to, you know, do it and it's done.",
+    "start": "00:14:30",
+    "end": "00:14:34"
+  },
+  {
+    "text": "Like you can continue to look at the users, see what they're doing cuz, you know, it is one of the most like the highest leverage things you can do within your app.",
+    "start": "00:14:32",
+    "end": "00:14:39"
+  },
+  {
+    "text": "Obviously, there's exponential benefits to making a great product.",
+    "start": "00:14:39",
+    "end": "00:14:41"
+  },
+  {
+    "text": "One thing on this slide that I think people really respond to as well is showing the sources of things.",
+    "start": "00:14:41",
+    "end": "00:14:47"
+  },
+  {
+    "text": "Showing that we have links to backing of science of hey this is you we got this from data sets, publications and surveys that are like official information out there in terms of showing this 94%.",
+    "start": "00:14:45",
+    "end": "00:14:55"
+  },
+  {
+    "text": "We're not assuming hey you probably smoke more than this.",
+    "start": "00:14:54",
+    "end": "00:14:57"
+  },
+  {
+    "text": "It's like no we are backed by science.",
+    "start": "00:14:57",
+    "end": "00:14:58"
+  },
+  {
+    "text": "We have this information and we're sharing it with you.",
+    "start": "00:14:58",
+    "end": "00:15:01"
+  },
+  {
+    "text": ">> We have a clinician.",
+    "start": "00:14:59",
+    "end": "00:15:01"
+  },
+  {
+    "text": "We have credible board of subject matters.",
+    "start": "00:15:01",
+    "end": "00:15:03"
+  },
+  {
+    "text": "We have a grant from the National Institute of Health.",
+    "start": "00:15:03",
+    "end": "00:15:04"
+  },
+  {
+    "text": "This is something we can continue to work on in terms of communicating that social proof and value.",
+    "start": "00:15:04",
+    "end": "00:15:08"
+  },
+  {
+    "text": "And that's what that is learning.",
+    "start": "00:15:08",
+    "end": "00:15:11"
+  },
+  {
+    "text": "He's just been obsessing over talking to users through the product and like this is just another reason why any founder, anyone building anything should just obsessively talk to the people using their products.",
+    "start": "00:15:09",
+    "end": "00:15:20"
+  },
+  {
+    "text": ">> Yep.",
+    "start": "00:15:18",
+    "end": "00:15:19"
+  },
+  {
+    "text": "Exactly.",
+    "start": "00:15:19",
+    "end": "00:15:19"
+  },
+  {
+    "text": "Once we sort of highlight their pain point of where they're at right now, this is where we are going to take you.",
+    "start": "00:15:19",
+    "end": "00:15:23"
+  },
+  {
+    "text": "It's not oh where you can be.",
+    "start": "00:15:23",
+    "end": "00:15:25"
+  },
+  {
+    "text": "It's like no, we will take you to this place and this is sort of where we really put this value equation to use.",
+    "start": "00:15:24",
+    "end": "00:15:30"
+  },
+  {
+    "text": "30 days from now you're going to be mentally clear.",
+    "start": "00:15:29",
+    "end": "00:15:31"
+  },
+  {
+    "text": "You're going to be less dependent.",
+    "start": "00:15:31",
+    "end": "00:15:33"
+  },
+  {
+    "text": "You're going to not use cannabis and you're going to have $220 more dollars than if you didn't use this thing.",
+    "start": "00:15:33",
+    "end": "00:15:37"
+  },
+  {
+    "text": "So that's really highlighting that dream outcome of the value equation of like, okay, you gave us all this information.",
+    "start": "00:15:37",
+    "end": "00:15:42"
+  },
+  {
+    "text": "We are going to get you to this place that you want to be.",
+    "start": "00:15:42",
+    "end": "00:15:44"
+  },
+  {
+    "text": "How are we going to get you there?",
+    "start": "00:15:44",
+    "end": "00:15:45"
+  },
+  {
+    "text": "Great question.",
+    "start": "00:15:45",
+    "end": "00:15:45"
+  },
+  {
+    "text": "We're going to do all the work.",
+    "start": "00:15:45",
+    "end": "00:15:46"
+  },
+  {
+    "text": "You can fall into our failp proof program and actually enjoy the process of quitting weed.",
+    "start": "00:15:46",
+    "end": "00:15:50"
+  },
+  {
+    "text": "Really, we have a whole scienceback program to help you get to where you want to be.",
+    "start": "00:15:50",
+    "end": "00:15:54"
+  },
+  {
+    "text": "And then we also address the perceived likelihood of achievement proven by 25,000 plus people and that it's worked for people that are just like you and have your goals.",
+    "start": "00:15:54",
+    "end": "00:16:02"
+  },
+  {
+    "text": "And then the last part is also time delay, saying a lot of users see improvement in just the first 3 days of using the program.",
+    "start": "00:16:02",
+    "end": "00:16:06"
+  },
+  {
+    "text": "That is something that we can touch on as well with our pay wall is that like that time delay is like obviously we're not going to be able to go like this and then you're quit weed tomorrow.",
+    "start": "00:16:06",
+    "end": "00:16:13"
+  },
+  {
+    "text": "Like that's not realistic.",
+    "start": "00:16:13",
+    "end": "00:16:15"
+  },
+  {
+    "text": "But really showing that we're going to take you along the way there and sort of hold your hand every step of the way.",
+    "start": "00:16:15",
+    "end": "00:16:19"
+  },
+  {
+    "text": "That's something that we really highlight in our pay wall that we saw jump from like 20 to 30% in our pay wall just by changing one thing in the beginning and that was really focused on this sort of time delay aspect.",
+    "start": "00:16:19",
+    "end": "00:16:29"
+  },
+  {
+    "text": ">> I would just say as a founder working on persuasion and working on your sales skills is something that is very important and shouldn't be overlooked.",
+    "start": "00:16:27",
+    "end": "00:16:35"
+  },
+  {
+    "text": "The rest of the questions in the onboarding are very similar to the early ones.",
+    "start": "00:16:34",
+    "end": "00:16:37"
+  },
+  {
+    "text": "You know, this one has copy like, \"Oh, you should feel proud.",
+    "start": "00:16:37",
+    "end": "00:16:40"
+  },
+  {
+    "text": "\" Really making them feel like the hero, making them feel like you are making a change for the better and you're already on that track.",
+    "start": "00:16:40",
+    "end": "00:16:44"
+  },
+  {
+    "text": "Some of these questions are are more function based.",
+    "start": "00:16:44",
+    "end": "00:16:47"
+  },
+  {
+    "text": "This one is definitely one where we're overviewing their past pain.",
+    "start": "00:16:47",
+    "end": "00:16:50"
+  },
+  {
+    "text": "How have changing your cannabis habits in the past gone?",
+    "start": "00:16:50",
+    "end": "00:16:53"
+  },
+  {
+    "text": "How was it?",
+    "start": "00:16:53",
+    "end": "00:16:52"
+  },
+  {
+    "text": "Was it difficult?",
+    "start": "00:16:52",
+    "end": "00:16:54"
+  },
+  {
+    "text": "You know, was it hard?",
+    "start": "00:16:54",
+    "end": "00:16:54"
+  },
+  {
+    "text": "This is actually a very interesting question that we added recently.",
+    "start": "00:16:54",
+    "end": "00:16:57"
+  },
+  {
+    "text": "Interesting mix that we found kind of show the features a little bit sneakily is this sort of question where we ask them how they plan to use the app and then we have a list of different features and sort of frame them in a way where we can collect data on what is it that people coming into the onboarding without ever having using our app or having used our app want to do?",
+    "start": "00:16:57",
+    "end": "00:17:13"
+  },
+  {
+    "text": "What do they think would be helpful for them on their break?",
+    "start": "00:17:13",
+    "end": "00:17:15"
+  },
+  {
+    "text": "Do they really want to be in groups with other people?",
+    "start": "00:17:15",
+    "end": "00:17:17"
+  },
+  {
+    "text": "Do they want to do video journaling?",
+    "start": "00:17:17",
+    "end": "00:17:19"
+  },
+  {
+    "text": ">> This thing is beautiful.",
+    "start": "00:17:18",
+    "end": "00:17:20"
+  },
+  {
+    "text": "this thing is a marketer's dream in general to be able to see the state of how Reddit's working, how ASO is working and then like that is doing in Amplitude just diving deeper and breaking down like what the actual unit economics behind some of our acquisition is.",
+    "start": "00:17:20",
+    "end": "00:17:32"
+  },
+  {
+    "text": "This one I think is sick.",
+    "start": "00:17:32",
+    "end": "00:17:33"
+  },
+  {
+    "text": "We saw this one in the ahead on boarding which is you know like an emotional wellness app.",
+    "start": "00:17:33",
+    "end": "00:17:37"
+  },
+  {
+    "text": "The first time I saw this I was like why would anybody ever put something in their onboarding that says hey this is going to cost you money instead of you know just convincing them and then the user is like oh of course I want to pay.",
+    "start": "00:17:37",
+    "end": "00:17:48"
+  },
+  {
+    "text": "But I think that the ability to first set expectations, earn trust, really like painting yourself as, you know, a product that's worth paying for and asserting it instead of like, you know, sneakily asking it with your tail tucked between your legs, but really be like, \"Hey, this costs money.",
+    "start": "00:17:48",
+    "end": "00:18:00"
+  },
+  {
+    "text": "We're doing it fair.",
+    "start": "00:18:00",
+    "end": "00:18:00"
+  },
+  {
+    "text": "We have a fair trial showing a dream outcome and then anchoring it like a price anchor by showing like, hey, you can either dive into your own habit and this is the cost of that.",
+    "start": "00:18:00",
+    "end": "00:18:09"
+  },
+  {
+    "text": "\" Or you can do your dream outcome.",
+    "start": "00:18:09",
+    "end": "00:18:10"
+  },
+  {
+    "text": "So when they get to the payment page, they're thinking about their dream outcome and they're already anchoring it to the cost of their negative habit.",
+    "start": "00:18:10",
+    "end": "00:18:16"
+  },
+  {
+    "text": "We didn't think this was going to work at first or at least I didn't.",
+    "start": "00:18:16",
+    "end": "00:18:19"
+  },
+  {
+    "text": "We tested it and that >> yeah it actually increased our conversion by like 3% which you know might seem like oh a small number but like those things add up and that's sort of the AB testing that's done in onboarding is how do you get up by 3%?",
+    "start": "00:18:19",
+    "end": "00:18:30"
+  },
+  {
+    "text": "How do you get up by like 4% 5%.",
+    "start": "00:18:28",
+    "end": "00:18:32"
+  },
+  {
+    "text": "Like you know even like 1 2% changes can make a big difference when you have thousands of people coming into your app.",
+    "start": "00:18:32",
+    "end": "00:18:37"
+  },
+  {
+    "text": ">> I don't see that many apps doing this right now.",
+    "start": "00:18:35",
+    "end": "00:18:38"
+  },
+  {
+    "text": "And in general, like marketing funnels, I feel like don't really lead with like, hey, this is a paid product, by the way, but here's why it should be paid and here's why it's fair.",
+    "start": "00:18:38",
+    "end": "00:18:46"
+  },
+  {
+    "text": "It just makes you feel better as a business owner.",
+    "start": "00:18:46",
+    "end": "00:18:49"
+  },
+  {
+    "text": "Like, you don't feel like you're tricking people.",
+    "start": "00:18:49",
+    "end": "00:18:51"
+  },
+  {
+    "text": "And then I feel like that could actually help your ads, too.",
+    "start": "00:18:51",
+    "end": "00:18:53"
+  },
+  {
+    "text": "Cuz I feel like sometimes I see ads where it's premium and then it hits you with the payw wall and then people literally go back to the ad and they comment and they're like, \"Nice try.",
+    "start": "00:18:53",
+    "end": "00:19:00"
+  },
+  {
+    "text": "This is a paid product.",
+    "start": "00:19:00",
+    "end": "00:19:03"
+  },
+  {
+    "text": "\" Like I bet you guys don't get that as much because it's like they don't have their guard up during the payw wall process.",
+    "start": "00:19:03",
+    "end": "00:19:09"
+  },
+  {
+    "text": ">> We were getting that a lot and like at first one thing though that is like an externality of working on this onboarding is being able to communicate value so much that people get less mad and this is one of like the metrics that we're using is we're actually thinking like hey can we decrease complaints of our app being paid on social media by 50%.",
+    "start": "00:19:07",
+    "end": "00:19:24"
+  },
+  {
+    "text": "And the way we're doing that obviously this fair trial was great but you know actually showing them that like hey we have a peer support specialist.",
+    "start": "00:19:24",
+    "end": "00:19:31"
+  },
+  {
+    "text": "This is going to get you to your outcome.",
+    "start": "00:19:30",
+    "end": "00:19:32"
+  },
+  {
+    "text": "It's not just a tracker.",
+    "start": "00:19:32",
+    "end": "00:19:34"
+  },
+  {
+    "text": "People be like, \"Why do I pay for a tracker?",
+    "start": "00:19:34",
+    "end": "00:19:37"
+  },
+  {
+    "text": "\" If people are really upset and asking why they have to pay for your app after doing a converting as a founder, you're doing something wrong in some way, shape, or form.",
+    "start": "00:19:37",
+    "end": "00:19:43"
+  },
+  {
+    "text": "This is, you know, just a question to really like commit people in their heads.",
+    "start": "00:19:43",
+    "end": "00:19:46"
+  },
+  {
+    "text": "We we played around with like a a commitment check mark.",
+    "start": "00:19:46",
+    "end": "00:19:49"
+  },
+  {
+    "text": "We get their phone number.",
+    "start": "00:19:49",
+    "end": "00:19:50"
+  },
+  {
+    "text": "This is like, you know, we went back and forth with this in terms of do we do Google is less friction.",
+    "start": "00:19:50",
+    "end": "00:19:53"
+  },
+  {
+    "text": "This is great.",
+    "start": "00:19:53",
+    "end": "00:19:54"
+  },
+  {
+    "text": "We can send them SMS messages through Twilio.",
+    "start": "00:19:54",
+    "end": "00:19:57"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:19:55",
+    "end": "00:19:56"
+  },
+  {
+    "text": "That's how we communicate with really all of our users is just like we can actually text their users.",
+    "start": "00:19:56",
+    "end": "00:20:01"
+  },
+  {
+    "text": "If they have an issue, they can text us and we text them back.",
+    "start": "00:20:01",
+    "end": "00:20:04"
+  },
+  {
+    "text": ">> Something like 95% of people who get a text read it within 5 minutes of getting it.",
+    "start": "00:20:02",
+    "end": "00:20:06"
+  },
+  {
+    "text": "It's a great super salient way to reach your customers through that channel.",
+    "start": "00:20:06",
+    "end": "00:20:10"
+  },
+  {
+    "text": "I would definitely prioritize if you're going to do it.",
+    "start": "00:20:10",
+    "end": "00:20:13"
+  },
+  {
+    "text": "Don't be spammy.",
+    "start": "00:20:13",
+    "end": "00:20:13"
+  },
+  {
+    "text": "One thing we spend a lot of time in on is like really hilarious human personal copy.",
+    "start": "00:20:13",
+    "end": "00:20:17"
+  },
+  {
+    "text": "Well, at least there will be some effort and it's not some GBT thing that's like, you know, hey, come to the app now.",
+    "start": "00:20:17",
+    "end": "00:20:21"
+  },
+  {
+    "text": "Like we actually try to, you know, think about it and and send them great stuff.",
+    "start": "00:20:21",
+    "end": "00:20:25"
+  },
+  {
+    "text": "And then this is sort of where our onboarding shifts more from questions to giving them value.",
+    "start": "00:20:25",
+    "end": "00:20:30"
+  },
+  {
+    "text": "We actually do put together personalized feedback that's completely free.",
+    "start": "00:20:30",
+    "end": "00:20:32"
+  },
+  {
+    "text": "They come in and they get this off the jump.",
+    "start": "00:20:32",
+    "end": "00:20:34"
+  },
+  {
+    "text": "It's not just hey questions, pay wallets, questions, and we're going to give them as much as we can and we also see you look your current use is at this percent.",
+    "start": "00:20:33",
+    "end": "00:20:39"
+  },
+  {
+    "text": "But your ability to have a strong habit is at 100%.",
+    "start": "00:20:39",
+    "end": "00:20:43"
+  },
+  {
+    "text": "Like you could build a habit of running outside every day.",
+    "start": "00:20:43",
+    "end": "00:20:44"
+  },
+  {
+    "text": "Here's like the opportunity for how much money you can save and then also what your strengths are and areas for exploration.",
+    "start": "00:20:44",
+    "end": "00:20:50"
+  },
+  {
+    "text": "We don't really want to say weaknesses.",
+    "start": "00:20:50",
+    "end": "00:20:51"
+  },
+  {
+    "text": "We don't want to make news or feel like oh you're horrible for doing this.",
+    "start": "00:20:51",
+    "end": "00:20:54"
+  },
+  {
+    "text": "It's like no, but not framing them as this is wrong of you because we don't want to ever make them feel ostracized or like they're they are doing something wrong.",
+    "start": "00:20:54",
+    "end": "00:21:01"
+  },
+  {
+    "text": "And so this is a big point of value that we're giving people from those questions.",
+    "start": "00:21:01",
+    "end": "00:21:05"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:21:03",
+    "end": "00:21:04"
+  },
+  {
+    "text": "You've seen the review glitch that people are doing.",
+    "start": "00:21:04",
+    "end": "00:21:08"
+  },
+  {
+    "text": ">> We learned this from Cali and breaking down their onboarding cuz we saw this slide and when I first saw it I was like this is probably like from a consumer perspective the dumbest thing I've ever seen where you go to the slide that shows reviews and it's literally asking people for review.",
+    "start": "00:21:05",
+    "end": "00:21:20"
+  },
+  {
+    "text": "It does call out that hey this app was designed for people like you.",
+    "start": "00:21:20",
+    "end": "00:21:23"
+  },
+  {
+    "text": "five stars, we have this many people in it, and then showing them reviews.",
+    "start": "00:21:23",
+    "end": "00:21:26"
+  },
+  {
+    "text": "But before they can actually look at this social proof and the reviews, all users that come to this point are prompted to give us some sort of rating.",
+    "start": "00:21:26",
+    "end": "00:21:32"
+  },
+  {
+    "text": "And, you know, as a consumer, it's like, why would I rate an app that I haven't even used yet?",
+    "start": "00:21:32",
+    "end": "00:21:36"
+  },
+  {
+    "text": "But when we put this in, we've seen our reviews like skyrocket on our app store page, going from, you know, like 50 reviews to we're almost at a thousand right now, and it's just continuing to grow as more people come through the app and can really boost your rating as an app and that people just like clicking.",
+    "start": "00:21:36",
+    "end": "00:21:52"
+  },
+  {
+    "text": "Oh, I like stars.",
+    "start": "00:21:52",
+    "end": "00:21:52"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:21:52",
+    "end": "00:21:52"
+  },
+  {
+    "text": "Five stars.",
+    "start": "00:21:52",
+    "end": "00:21:53"
+  },
+  {
+    "text": "I like five stars.",
+    "start": "00:21:53",
+    "end": "00:21:55"
+  },
+  {
+    "text": ">> Five stars.",
+    "start": "00:21:54",
+    "end": "00:21:54"
+  },
+  {
+    "text": "Do you want this five stars?",
+    "start": "00:21:54",
+    "end": "00:21:56"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:21:55",
+    "end": "00:21:55"
+  },
+  {
+    "text": "Five stars.",
+    "start": "00:21:55",
+    "end": "00:21:56"
+  },
+  {
+    "text": "Look at all these people doing five stars.",
+    "start": "00:21:56",
+    "end": "00:21:59"
+  },
+  {
+    "text": ">> We did also provide them value.",
+    "start": "00:21:57",
+    "end": "00:22:00"
+  },
+  {
+    "text": "We were the first people they might have ever talked to about their relationship with weed.",
+    "start": "00:22:00",
+    "end": "00:22:03"
+  },
+  {
+    "text": "Got insights.",
+    "start": "00:22:03",
+    "end": "00:22:04"
+  },
+  {
+    "text": "We we brought them through 5 minutes of asking them important questions and giving them feedback that they were getting themselves.",
+    "start": "00:22:04",
+    "end": "00:22:09"
+  },
+  {
+    "text": "So, it's not crazy to think that, you know, nobody's out here clicking one star on this thing cuz it's them off.",
+    "start": "00:22:09",
+    "end": "00:22:13"
+  },
+  {
+    "text": "Everybody to this point has enjoyed it and they've been clicking five stars and our rating has continued to go up.",
+    "start": "00:22:13",
+    "end": "00:22:18"
+  },
+  {
+    "text": "And so a lot of these apps, these big apps were ripping this exact copy from each other and we were like, \"What?",
+    "start": "00:22:18",
+    "end": "00:22:23"
+  },
+  {
+    "text": "They're all using the same copy.",
+    "start": "00:22:23",
+    "end": "00:22:25"
+  },
+  {
+    "text": "\" >> Everyone in here is saying like, \"Oh, I used to smoke for 12 years.",
+    "start": "00:22:25",
+    "end": "00:22:28"
+  },
+  {
+    "text": "It helped me.",
+    "start": "00:22:28",
+    "end": "00:22:27"
+  },
+  {
+    "text": "I smoked for 8 years straight and this app helped me.",
+    "start": "00:22:27",
+    "end": "00:22:29"
+  },
+  {
+    "text": "\" And these are real reviews that we have.",
+    "start": "00:22:29",
+    "end": "00:22:31"
+  },
+  {
+    "text": "It's not like we wrote these things.",
+    "start": "00:22:31",
+    "end": "00:22:32"
+  },
+  {
+    "text": "Like these are actual reviews that we have from people.",
+    "start": "00:22:32",
+    "end": "00:22:35"
+  },
+  {
+    "text": "It's addressing that, you know, social proof and that perceived likelihood of achievement for the value that they're getting from it.",
+    "start": "00:22:33",
+    "end": "00:22:39"
+  },
+  {
+    "text": "After that, we sort of have a referral code here that was used more for influencers.",
+    "start": "00:22:39",
+    "end": "00:22:43"
+  },
+  {
+    "text": "We're planning to move this like actually in app rather than here.",
+    "start": "00:22:43",
+    "end": "00:22:45"
+  },
+  {
+    "text": "That's our our price testing in terms of like what we actually lended on for our personal product.",
+    "start": "00:22:45",
+    "end": "00:22:49"
+  },
+  {
+    "text": "This is somewhat early on actually before we had our current onboarding.",
+    "start": "00:22:49",
+    "end": "00:22:52"
+  },
+  {
+    "text": "So in terms of what we ran before the price is over here where we're doing like $30 a year, 40, you know, 50 and then using that as an anchor price.",
+    "start": "00:22:52",
+    "end": "00:22:58"
+  },
+  {
+    "text": "So I'll show you the payw wall first cuz it makes more sense with the two.",
+    "start": "00:22:58",
+    "end": "00:23:01"
+  },
+  {
+    "text": "This was our first iteration of a payw wall.",
+    "start": "00:23:01",
+    "end": "00:23:03"
+  },
+  {
+    "text": "This was created somewhat from inspiration from Cali in terms of what they do.",
+    "start": "00:23:03",
+    "end": "00:23:07"
+  },
+  {
+    "text": "On the first slide, we had showing the features, something that, you know, we've talked about isn't necessarily super good at converting, and we'll show you that in a second.",
+    "start": "00:23:07",
+    "end": "00:23:14"
+  },
+  {
+    "text": "But we kind of highlighted in a carousel the different features of our app with different images.",
+    "start": "00:23:14",
+    "end": "00:23:17"
+  },
+  {
+    "text": "And, you know, putting some social proof in it of saying, oh, this has 1,000 plus members.",
+    "start": "00:23:17",
+    "end": "00:23:21"
+  },
+  {
+    "text": "Really showing them, oh, accountability text, all that, peer support.",
+    "start": "00:23:21",
+    "end": "00:23:23"
+  },
+  {
+    "text": "In terms of the rest of the payw wall underneath there, we have like no payment due now.",
+    "start": "00:23:23",
+    "end": "00:23:27"
+  },
+  {
+    "text": "We don't want to come off as scummy as like saying, hey, yeah, actually, it's free.",
+    "start": "00:23:27",
+    "end": "00:23:30"
+  },
+  {
+    "text": "Like, you know, that's not really what it is.",
+    "start": "00:23:30",
+    "end": "00:23:32"
+  },
+  {
+    "text": "We show the price clearly at the bottom so that they know what they're getting into.",
+    "start": "00:23:31",
+    "end": "00:23:33"
+  },
+  {
+    "text": "when they click on this button.",
+    "start": "00:23:33",
+    "end": "00:23:36"
+  },
+  {
+    "text": "We kind of set them up to say, \"Hey, we're going to remind you before your trial ends.",
+    "start": "00:23:36",
+    "end": "00:23:38"
+  },
+  {
+    "text": "\" This is a free trial.",
+    "start": "00:23:38",
+    "end": "00:23:39"
+  },
+  {
+    "text": "You're not getting the whole thing for free.",
+    "start": "00:23:39",
+    "end": "00:23:42"
+  },
+  {
+    "text": "There's no payment due now.",
+    "start": "00:23:40",
+    "end": "00:23:43"
+  },
+  {
+    "text": "We also changed the text on the bottom just for switching things up a little bit.",
+    "start": "00:23:43",
+    "end": "00:23:47"
+  },
+  {
+    "text": "This is like a um trial like the Blinkist thing.",
+    "start": "00:23:47",
+    "end": "00:23:48"
+  },
+  {
+    "text": "It was so successful with their apps.",
+    "start": "00:23:48",
+    "end": "00:23:50"
+  },
+  {
+    "text": "So many apps have like switched to this Blinkist.",
+    "start": "00:23:50",
+    "end": "00:23:52"
+  },
+  {
+    "text": "You know, you'll start, you'll be reminded, and then billing starts just very clearly.",
+    "start": "00:23:52",
+    "end": "00:23:57"
+  },
+  {
+    "text": "And this is just another aspect of building up trust with your users.",
+    "start": "00:23:57",
+    "end": "00:24:00"
+  },
+  {
+    "text": ">> We have the sort of yearly and monthly price.",
+    "start": "00:23:59",
+    "end": "00:24:01"
+  },
+  {
+    "text": "Take a guess.",
+    "start": "00:24:01",
+    "end": "00:24:02"
+  },
+  {
+    "text": "you probably assume, oh, I want to do the one that says 3 days free and then reminds me and then, you know, I can start it for free.",
+    "start": "00:24:02",
+    "end": "00:24:08"
+  },
+  {
+    "text": "And that is what we see large majority of our users gravitating towards is the yearly option.",
+    "start": "00:24:06",
+    "end": "00:24:11"
+  },
+  {
+    "text": "So, this is the old payw wall.",
+    "start": "00:24:11",
+    "end": "00:24:12"
+  },
+  {
+    "text": "One thing that I will also shout out super for is that actual 2-day notification.",
+    "start": "00:24:12",
+    "end": "00:24:15"
+  },
+  {
+    "text": "Like, I didn't have to set up, oh, do we have to do this for notifications?",
+    "start": "00:24:15",
+    "end": "00:24:18"
+  },
+  {
+    "text": "Like, I don't really have to do any of that.",
+    "start": "00:24:18",
+    "end": "00:24:19"
+  },
+  {
+    "text": "I just like turn on notification and it does it here and says, oh, 2 days your child's in, you know, see what you know what's next for your break and stuff like that.",
+    "start": "00:24:19",
+    "end": "00:24:26"
+  },
+  {
+    "text": "Also, a separate thing that we're focused on now is like, okay, what do we happen?",
+    "start": "00:24:26",
+    "end": "00:24:29"
+  },
+  {
+    "text": "What happens when the user clicks on that notification?",
+    "start": "00:24:29",
+    "end": "00:24:30"
+  },
+  {
+    "text": "Like, what do we show them?",
+    "start": "00:24:30",
+    "end": "00:24:31"
+  },
+  {
+    "text": "How do we keep them engaged for how like 18%?",
+    "start": "00:24:31",
+    "end": "00:24:36"
+  },
+  {
+    "text": ">> Yeah, 18 19.",
+    "start": "00:24:34",
+    "end": "00:24:35"
+  },
+  {
+    "text": "I'm going to just round it off and say 20% conversion for this payw wall is what we saw.",
+    "start": "00:24:35",
+    "end": "00:24:39"
+  },
+  {
+    "text": "But you might be asking, oh, what does the new payw wall look like?",
+    "start": "00:24:39",
+    "end": "00:24:44"
+  },
+  {
+    "text": ">> We changed the payw wall once and we went from 20% conversion to 30% conversion.",
+    "start": "00:24:41",
+    "end": "00:24:47"
+  },
+  {
+    "text": "So, what we showed here is like what you're actually going to get within the trial, what your days are going to be looking like.",
+    "start": "00:24:47",
+    "end": "00:24:54"
+  },
+  {
+    "text": "So, this is the, you know, day zero, day one.",
+    "start": "00:24:54",
+    "end": "00:24:56"
+  },
+  {
+    "text": "We wanted to display it more as a program.",
+    "start": "00:24:56",
+    "end": "00:24:58"
+  },
+  {
+    "text": "This is a system that will help you.",
+    "start": "00:24:57",
+    "end": "00:25:00"
+  },
+  {
+    "text": "So we realized that outlining our actual days and showing them clearly what's going to happen worked started to work a lot of like hey this is what you're going to get and then we thought about this beautiful equation again and so you know we're going through this and we wanted to put little dream outcomes within this and extra points for them like sounding like studies these are objective they apply to everyone but your CB-1 receptors begin to bounce back with weed from weed within 48 hours so your brain is healing that is like a little dream outcome and this is a part that's really important is like we're thinking about time delay here people don't want to feel like oh The app is called Clear 30.",
+    "start": "00:25:00",
+    "end": "00:25:30"
+  },
+  {
+    "text": "It's going to take 30 days before I feel any type of better.",
+    "start": "00:25:30",
+    "end": "00:25:33"
+  },
+  {
+    "text": "No, we're going to get these wins quickly.",
+    "start": "00:25:31",
+    "end": "00:25:34"
+  },
+  {
+    "text": "We also are not claiming, hey, you're going to be solved of your weed problem tomorrow.",
+    "start": "00:25:34",
+    "end": "00:25:38"
+  },
+  {
+    "text": "Because realistically, that's not true.",
+    "start": "00:25:38",
+    "end": "00:25:40"
+  },
+  {
+    "text": "But I think that sort of outlining is saying, hey, this is what it's going to be like for the first seven days.",
+    "start": "00:25:40",
+    "end": "00:25:43"
+  },
+  {
+    "text": "Like, yeah, it's not like everything is going to be fixed tomorrow.",
+    "start": "00:25:43",
+    "end": "00:25:45"
+  },
+  {
+    "text": "It's going to take longer than 7 days, but this is what the next seven days are going to look like and how we're going to help you through there and what we're going to do on each day, how we're approaching it.",
+    "start": "00:25:45",
+    "end": "00:25:53"
+  },
+  {
+    "text": "And then the rest of the payw wall is really the same.",
+    "start": "00:25:53",
+    "end": "00:25:54"
+  },
+  {
+    "text": "Like, it's the exact same from before.",
+    "start": "00:25:54",
+    "end": "00:25:56"
+  },
+  {
+    "text": "Only thing that changed was just the first screen.",
+    "start": "00:25:56",
+    "end": "00:26:00"
+  },
+  {
+    "text": ">> Yes, that's the only thing that changed and we jumped from like a 20% conversion to a 30% conversion.",
+    "start": "00:25:59",
+    "end": "00:26:05"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:26:03",
+    "end": "00:26:04"
+  },
+  {
+    "text": "Wow.",
+    "start": "00:26:04",
+    "end": "00:26:04"
+  },
+  {
+    "text": "Could you remind us what was the first version?",
+    "start": "00:26:04",
+    "end": "00:26:08"
+  },
+  {
+    "text": ">> So, this was the first intro screen was a feature slideshow right here.",
+    "start": "00:26:06",
+    "end": "00:26:12"
+  },
+  {
+    "text": "And then our second intro screen was this sort of 7-day outline of what to expect throughout the next 7 days.",
+    "start": "00:26:12",
+    "end": "00:26:17"
+  },
+  {
+    "text": "There's actually a lot of content in this onboarding and payw wall.",
+    "start": "00:26:17",
+    "end": "00:26:20"
+  },
+  {
+    "text": "You're like guiding them through pain agitated solution and there's a lot of copy.",
+    "start": "00:26:20",
+    "end": "00:26:25"
+  },
+  {
+    "text": "There's a lot of like visuals.",
+    "start": "00:26:23",
+    "end": "00:26:26"
+  },
+  {
+    "text": "It almost feels like your ads are just bringing people in the door and not really talking too much about the pain points or the solution or any of the product or anything.",
+    "start": "00:26:26",
+    "end": "00:26:33"
+  },
+  {
+    "text": "And then you kind of mainly talk to the user through the onboarding instead of the content in the ad.",
+    "start": "00:26:33",
+    "end": "00:26:38"
+  },
+  {
+    "text": "Is that how you think about it?",
+    "start": "00:26:38",
+    "end": "00:26:40"
+  },
+  {
+    "text": ">> It can be both as well.",
+    "start": "00:26:39",
+    "end": "00:26:41"
+  },
+  {
+    "text": "But like no matter what your onboarding should be the best conversation.",
+    "start": "00:26:41",
+    "end": "00:26:45"
+  },
+  {
+    "text": "You should be able to engage them in your onboarding.",
+    "start": "00:26:45",
+    "end": "00:26:47"
+  },
+  {
+    "text": "It should be more than just getting set up and then hey give me money like through a Tik Tok ad or anything.",
+    "start": "00:26:46",
+    "end": "00:26:51"
+  },
+  {
+    "text": "You don't have the opportunity to engage them deeply.",
+    "start": "00:26:51",
+    "end": "00:26:52"
+  },
+  {
+    "text": "They're not in there.",
+    "start": "00:26:52",
+    "end": "00:26:54"
+  },
+  {
+    "text": "So once you get them there, you have to do everything you can to give them an incredible experience and then make them want to make this change in their life.",
+    "start": "00:26:54",
+    "end": "00:27:00"
+  },
+  {
+    "text": "A great thing you can do with ads is, and like I know a lot of people are already doing this, but you know, see what your competitors in your field or market or niche are posting and see what's working for them.",
+    "start": "00:26:58",
+    "end": "00:27:08"
+  },
+  {
+    "text": "We have this one competitor called a reframe, which is like an alcohol quitting app.",
+    "start": "00:27:08",
+    "end": "00:27:12"
+  },
+  {
+    "text": "It's not the same niche, but it's the same similar thing in the industry.",
+    "start": "00:27:12",
+    "end": "00:27:14"
+  },
+  {
+    "text": "They were running something that was like, take our quiz to see what alcohol type you are.",
+    "start": "00:27:14",
+    "end": "00:27:17"
+  },
+  {
+    "text": "You don't always have to say, \"Hey, get this app.",
+    "start": "00:27:17",
+    "end": "00:27:20"
+  },
+  {
+    "text": "Change your life.",
+    "start": "00:27:20",
+    "end": "00:27:21"
+  },
+  {
+    "text": "Do all this.",
+    "start": "00:27:21",
+    "end": "00:27:21"
+  },
+  {
+    "text": "\" Cuz people might not be ready for that.",
+    "start": "00:27:21",
+    "end": "00:27:23"
+  },
+  {
+    "text": "But if you say, \"Hey, just take the quiz.",
+    "start": "00:27:23",
+    "end": "00:27:24"
+  },
+  {
+    "text": "See your relationship percent with weed.",
+    "start": "00:27:24",
+    "end": "00:27:26"
+  },
+  {
+    "text": "\" And then use that as your opportunity to sell them can be really huge.",
+    "start": "00:27:26",
+    "end": "00:27:31"
+  },
+  {
+    "text": ">> And I will say that it wasn't super helpful because the intent of people coming in.",
+    "start": "00:27:29",
+    "end": "00:27:33"
+  },
+  {
+    "text": "I think we our onboarding was not as good at the time.",
+    "start": "00:27:33",
+    "end": "00:27:36"
+  },
+  {
+    "text": "Does framing the onboarding as a quiz get more people to convert?",
+    "start": "00:27:36",
+    "end": "00:27:38"
+  },
+  {
+    "text": "While it didn't work for us, it totally could for a different product or like a different introduction or if it's just done better because to be honest, we didn't put our all into it.",
+    "start": "00:27:38",
+    "end": "00:27:47"
+  },
+  {
+    "text": "We didn't have our focus on like, okay, let's focus on getting more people in and converting all of them.",
+    "start": "00:27:46",
+    "end": "00:27:51"
+  },
+  {
+    "text": "If that became a focus, then I'm sure that we would put in enough work for this to work.",
+    "start": "00:27:51",
+    "end": "00:27:53"
+  },
+  {
+    "text": "This is super helpful.",
+    "start": "00:27:53",
+    "end": "00:27:56"
+  },
+  {
+    "text": "I love how deep into all the sales training and marketing frameworks you guys go.",
+    "start": "00:27:56",
+    "end": "00:28:01"
+  },
+  {
+    "text": "There's a reason behind every single like micro decision that it seems like you guys are making.",
+    "start": "00:27:59",
+    "end": "00:28:04"
+  },
+  {
+    "text": "I'm kind of curious to see if you have the same mindset around ads, too.",
+    "start": "00:28:04",
+    "end": "00:28:08"
+  },
+  {
+    "text": "In terms of ad creatives, it's a similar thing where we look at the creatives that are working and like the ones that you know Meta or Tik Tok are allocating the most spend to maybe the ones with like super high click-through ratings or just trying to like look at all like the primary secondary metrics and just try to understand why they're doing well.",
+    "start": "00:28:08",
+    "end": "00:28:22"
+  },
+  {
+    "text": "And through those ads, we can kind of take like hypothesises.",
+    "start": "00:28:22",
+    "end": "00:28:25"
+  },
+  {
+    "text": "Oh, we did this ad.",
+    "start": "00:28:25",
+    "end": "00:28:27"
+  },
+  {
+    "text": "This ad had a girl in it and it did like way better than the one that with a guy in it.",
+    "start": "00:28:26",
+    "end": "00:28:29"
+  },
+  {
+    "text": "This ad looked like it was filmed on a camera and it did so much better than the one that looked like it was filmed on a great one.",
+    "start": "00:28:29",
+    "end": "00:28:35"
+  },
+  {
+    "text": "And I think it's been a bit less organized in terms of like I don't have a spreadsheet of saying like this hook is great, this hook is not good.",
+    "start": "00:28:35",
+    "end": "00:28:40"
+  },
+  {
+    "text": "It's more intuitive of like looking at the hooks that are doing well and then just working those in and then seeing if those are doing well and then going back and forth.",
+    "start": "00:28:40",
+    "end": "00:28:47"
+  },
+  {
+    "text": "And that's something I think we could work on is having like a big company document of like hypothesises.",
+    "start": "00:28:47",
+    "end": "00:28:51"
+  },
+  {
+    "text": "And I would like suggest for other app like app founders, but understanding why they make every single decision.",
+    "start": "00:28:51",
+    "end": "00:28:56"
+  },
+  {
+    "text": "For me, I think about it all the time as I'm waking up, going to bed of like why stuff's hitting, why is not.",
+    "start": "00:28:56",
+    "end": "00:29:01"
+  },
+  {
+    "text": "But like I could definitely do a better job of like making that public within the company and having like, you know, creating a very strong system about like this hook did this, this hook did that.",
+    "start": "00:29:01",
+    "end": "00:29:10"
+  },
+  {
+    "text": "Some of the reason that we don't have as many small tweaks is that a lot of our ads are very thought out and scripted and filmed.",
+    "start": "00:29:10",
+    "end": "00:29:17"
+  },
+  {
+    "text": "And so it's not as easy to say, let's change this one word or change this one sentence in it and then refilm the whole thing because that's kind of just not the format of the ads that we work on and we see doing the best.",
+    "start": "00:29:17",
+    "end": "00:29:27"
+  },
+  {
+    "text": "But like Asha said, we do take those parts that work like, oh, this is a good hook.",
+    "start": "00:29:27",
+    "end": "00:29:31"
+  },
+  {
+    "text": "Oh, focusing on the trigger of friends around you smoking in some specific situation is really helpful.",
+    "start": "00:29:31",
+    "end": "00:29:37"
+  },
+  {
+    "text": "So I think that the formats are somewhat different.",
+    "start": "00:29:37",
+    "end": "00:29:38"
+  },
+  {
+    "text": "I feel like a lot of people think about, okay, how do I get profitable ads?",
+    "start": "00:29:38",
+    "end": "00:29:41"
+  },
+  {
+    "text": "they just make better and better ads, but you guys are just you're optimizing every part of the funnel.",
+    "start": "00:29:41",
+    "end": "00:29:48"
+  },
+  {
+    "text": ">> Like it's hard to blow up on organic a lot and it can be a lot of effort and it can be, you know, not always converting.",
+    "start": "00:29:46",
+    "end": "00:29:53"
+  },
+  {
+    "text": "And we know people who've gotten 10 million views on videos and made a,000 bucks off of 10 million views.",
+    "start": "00:29:51",
+    "end": "00:29:57"
+  },
+  {
+    "text": "And it's just like there can be so much uphill battle, but if you can give this onboarding the intention and care it deserves and really think about that all the way through, then everything else in your business becomes very easy.",
+    "start": "00:29:57",
+    "end": "00:30:09"
+  },
+  {
+    "text": "And this is like another framework that we've used and like we struggle to focus a lot where like you know when you're building an app there's a million things that are being thrown at you.",
+    "start": "00:30:09",
+    "end": "00:30:16"
+  },
+  {
+    "text": "There's this and this customer and you have a million ideas to improve the app and they're all great and they would all work if you did all of them but you can really only do like one thing.",
+    "start": "00:30:16",
+    "end": "00:30:24"
+  },
+  {
+    "text": "So just stripping away and thinking you know if this one thing would change in my business and would be perfect like it would solve all other problems and then just doubling down on it till it hurts till it's like why are we doing this?",
+    "start": "00:30:24",
+    "end": "00:30:34"
+  },
+  {
+    "text": "Like you know we were focusing on onboarding and ads for 2 months straight.",
+    "start": "00:30:33",
+    "end": "00:30:36"
+  },
+  {
+    "text": "I feel like one thing to like sort of close this out is you guys are just really fun to watch.",
+    "start": "00:30:36",
+    "end": "00:30:42"
+  },
+  {
+    "text": "You guys are like fun to talk to.",
+    "start": "00:30:42",
+    "end": "00:30:43"
+  },
+  {
+    "text": "I feel people are going to be speculating on what your future plans at.",
+    "start": "00:30:43",
+    "end": "00:30:45"
+  },
+  {
+    "text": "What are the future plans now?",
+    "start": "00:30:45",
+    "end": "00:30:48"
+  },
+  {
+    "text": ">> Right now we kind of cracked paid ads.",
+    "start": "00:30:46",
+    "end": "00:30:49"
+  },
+  {
+    "text": "We're scaling it.",
+    "start": "00:30:48",
+    "end": "00:30:49"
+  },
+  {
+    "text": "And so we're trying to keep focusing on what's working well, which is making these big incremental changes, but there are also a lot of big 10x or 100x changes we can make.",
+    "start": "00:30:49",
+    "end": "00:30:57"
+  },
+  {
+    "text": "We have a big partnership pending with like the University of Michigan to push it out to their faculty as well.",
+    "start": "00:30:57",
+    "end": "00:31:02"
+  },
+  {
+    "text": "But I think that there's a lot to be done with the B2B side of this.",
+    "start": "00:31:02",
+    "end": "00:31:05"
+  },
+  {
+    "text": "There are actually a lot of people really struggling with weed in this country and I think like going to some of these organizations like addiction services, state services where people are struggling and giving them this app can really benefit them.",
+    "start": "00:31:05",
+    "end": "00:31:16"
+  },
+  {
+    "text": "You know, a lot of our users are asking for supplements.",
+    "start": "00:31:16",
+    "end": "00:31:17"
+  },
+  {
+    "text": "A lot of our users are asking for therapy.",
+    "start": "00:31:17",
+    "end": "00:31:19"
+  },
+  {
+    "text": "So, thinking about ways to, you know, change up our money models and giving them upsells and downells and reorganizing basically our the way we're making money in a way that can really increase the LTV of our users is something we're also very focused on.",
+    "start": "00:31:19",
+    "end": "00:31:32"
+  },
+  {
+    "text": "Who knows?",
+    "start": "00:31:31",
+    "end": "00:31:31"
+  },
+  {
+    "text": "just take all of our skills somewhere else and and build something else great.",
+    "start": "00:31:31",
+    "end": "00:31:36"
+  },
+  {
+    "text": ">> I love that.",
+    "start": "00:31:34",
+    "end": "00:31:36"
+  },
+  {
+    "text": "I appreciate you guys coming on the pod and giving so much value and I feel like you guys are just a perfect archetype of uh the type of people that we want to have in consumer club.",
+    "start": "00:31:36",
+    "end": "00:31:44"
+  },
+  {
+    "text": "Great having you on the pod.",
+    "start": "00:31:44",
+    "end": "00:31:47"
+  },
+  {
+    "text": ">> Thanks Joseph.",
+    "start": "00:31:45",
+    "end": "00:31:46"
+  },
+  {
+    "text": "A great host and yeah, just biggest shout out as well to Superwall and Consumer Club.",
+    "start": "00:31:46",
+    "end": "00:31:51"
+  },
+  {
+    "text": ">> Just wanted to say one last thing.",
+    "start": "00:31:50",
+    "end": "00:31:53"
+  },
+  {
+    "text": "Thanks for watching this video.",
+    "start": "00:31:51",
+    "end": "00:31:55"
+  },
+  {
+    "text": "The Superwall podcast has been getting a lot more traction in the past few weeks and we're just going to keep pumping these out if you guys keep liking them.",
+    "start": "00:31:55",
+    "end": "00:32:01"
+  },
+  {
+    "text": "So, I think that very tactical like growth oriented app founder content is resonating.",
+    "start": "00:32:01",
+    "end": "00:32:05"
+  },
+  {
+    "text": "And if you have any ideas for other guests, feel free to keep commenting them in the comment section or tweet at me.",
+    "start": "00:32:05",
+    "end": "00:32:11"
+  },
+  {
+    "text": "And yeah, we're just going to keep running this up.",
+    "start": "00:32:11",
+    "end": "00:32:14"
+  },
+  {
+    "text": "So, we'll see you in the next one.",
+    "start": "00:32:14",
+    "end": "00:32:15"
+  }
+]

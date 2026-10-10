@@ -1,0 +1,94 @@
+{
+  "videoId": "lkwX_kc0NS8",
+  "title": "I made 4,000 app paywalls and learned this",
+  "channel": "Superwall",
+  "channelId": "UCWWlrm9Y5ZjYzfi_H0caBhw",
+  "description": "Start building & deploying paywalls in 10 minutes flat: https://superwall.com/\n\nPrivate dinners for $100k/mo app founders: https://75v4gfh4e3l.typeform.com/to/CgZbJWb6\n\nSpy on outlier TikToks that went viral promoting apps: https://spytok.com/\n\nJoin a community of world class consumer app founders and growth hackers: https://joinconsumerclub.com/\n\nHosted & produced by Joseph Choi: https://twitter.com/JosephKChoi\nJonathan:  https://twitter.com/jondeparra\n\nTimestamps:\n\n00:00 - Intro\n00:15 - Why there is no \"perfect\" paywall template\n01:04 - Why design and packaging are the biggest conversion levers\n03:45 - Evolution of the Superwall editor\n05:44 - Why \"Continue\" buttons often beat descriptive CTAs\n07:56 - The \"No commitment, cancel anytime\" conversion hack\n10:40 - Fighting decision fatigue by simplifying plan options\n13:34 - Why users pay for \"AI Rappers\" and custom prompts\n14:55 - Using \"Exit Drawers\" and discounted offers to save churn\n22:12 - Why custom prompts allow for higher pricing\n26:10 - Why simple bullet points beat complex comparison tables\n31:40 - The \"Bullet List\" benchmark that works across all categories\n43:55 - Using video paywalls and Rotato to show value\n46:40 - When a native \"Swift UI\" look outperforms custom design\n54:13 - The best stage of growth to start AB testing paywalls\n\nThis podcast episode features a conversation with Jonathan, who personally built and tested over 4,000 paywalls and shares exactly what he learned along the way. We break down real-world insights into paywall design and how mobile app paywalls directly impact app monetization across subscription apps and freemium apps.\n\nJonathan explains how paywall optimization through ab testing paywalls led to clear wins, and how refining pricing strategy apps rely on can dramatically increase results. We discuss hands-on paywall experiments, including lessons learned using superwall, and how these decisions improved conversion rate optimization.\n\nThe conversation goes deep into consumer psychology and pricing psychology, showing how thoughtful ux design paywalls influence user behavior. Jonathan also connects these ideas to product led growth, long-term app growth strategy, and sustainable mobile app revenue.\n\nBeyond mobile, this podcast covers how the same principles apply to saas monetization, ai apps monetization, and scalable subscription pricing models that work over time. This episode is packed with practical experience for anyone serious about app monetization and building profitable products.",
+  "duration": 3410,
+  "publishDate": "2026-02-08",
+  "url": "https://www.youtube.com/watch?v=lkwX_kc0NS8",
+  "coverImage": "imgs/cover.jpg",
+  "thumbnailUrl": "https://i.ytimg.com/vi/lkwX_kc0NS8/maxresdefault.jpg",
+  "language": {
+    "code": "en",
+    "name": "English",
+    "isGenerated": true
+  },
+  "chapters": [
+    {
+      "title": "- Intro",
+      "start": 0,
+      "end": 15
+    },
+    {
+      "title": "- Why there is no \"perfect\" paywall template",
+      "start": 15,
+      "end": 64
+    },
+    {
+      "title": "- Why design and packaging are the biggest conversion levers",
+      "start": 64,
+      "end": 225
+    },
+    {
+      "title": "- Evolution of the Superwall editor",
+      "start": 225,
+      "end": 344
+    },
+    {
+      "title": "- Why \"Continue\" buttons often beat descriptive CTAs",
+      "start": 344,
+      "end": 476
+    },
+    {
+      "title": "- The \"No commitment, cancel anytime\" conversion hack",
+      "start": 476,
+      "end": 640
+    },
+    {
+      "title": "- Fighting decision fatigue by simplifying plan options",
+      "start": 640,
+      "end": 814
+    },
+    {
+      "title": "- Why users pay for \"AI Rappers\" and custom prompts",
+      "start": 814,
+      "end": 895
+    },
+    {
+      "title": "- Using \"Exit Drawers\" and discounted offers to save churn",
+      "start": 895,
+      "end": 1332
+    },
+    {
+      "title": "- Why custom prompts allow for higher pricing",
+      "start": 1332,
+      "end": 1570
+    },
+    {
+      "title": "- Why simple bullet points beat complex comparison tables",
+      "start": 1570,
+      "end": 1900
+    },
+    {
+      "title": "- The \"Bullet List\" benchmark that works across all categories",
+      "start": 1900,
+      "end": 2635
+    },
+    {
+      "title": "- Using video paywalls and Rotato to show value",
+      "start": 2635,
+      "end": 2800
+    },
+    {
+      "title": "- When a native \"Swift UI\" look outperforms custom design",
+      "start": 2800,
+      "end": 3253
+    },
+    {
+      "title": "- The best stage of growth to start AB testing paywalls",
+      "start": 3253,
+      "end": 3410
+    }
+  ]
+}

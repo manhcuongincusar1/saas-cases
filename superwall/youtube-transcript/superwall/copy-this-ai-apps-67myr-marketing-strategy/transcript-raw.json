@@ -1,0 +1,7107 @@
+[
+  {
+    "text": "Within 45 days, we crossed 100,000 ARR.",
+    "start": 0,
+    "duration": 6.04
+  },
+  {
+    "text": "Within 4 months, we had crossed a",
+    "start": 3.96,
+    "duration": 4.24
+  },
+  {
+    "text": "million ARR. And within 5 months, or",
+    "start": 6.04,
+    "duration": 4
+  },
+  {
+    "text": "just 1 month after, we were about 2",
+    "start": 8.2,
+    "duration": 3.92
+  },
+  {
+    "text": "million ARR. And then after a year, we",
+    "start": 10.04,
+    "duration": 2.76
+  },
+  {
+    "text": "were at 5.",
+    "start": 12.12,
+    "duration": 2.96
+  },
+  {
+    "text": ">> This is Brett and Zack. They built an AI",
+    "start": 12.8,
+    "duration": 4.28
+  },
+  {
+    "text": "note-taker for college students, which",
+    "start": 15.08,
+    "duration": 3.08
+  },
+  {
+    "text": "quickly became one of the",
+    "start": 17.08,
+    "duration": 2.48
+  },
+  {
+    "text": "fastest-growing apps.",
+    "start": 18.16,
+    "duration": 4.2
+  },
+  {
+    "text": ">> We crossed 2 million registered users.",
+    "start": 19.56,
+    "duration": 6.16
+  },
+  {
+    "text": "Last year, we crossed 6.7 million ARR.",
+    "start": 22.36,
+    "duration": 5.2
+  },
+  {
+    "text": ">> They used TikTok to blow up their app,",
+    "start": 25.72,
+    "duration": 3.68
+  },
+  {
+    "text": "but not in the way that most people",
+    "start": 27.56,
+    "duration": 3.76
+  },
+  {
+    "text": "would expect. Because while other people",
+    "start": 29.4,
+    "duration": 4.36
+  },
+  {
+    "text": "chase views, Brett and Zack ignored it.",
+    "start": 31.32,
+    "duration": 3.92
+  },
+  {
+    "text": "They only cared about one thing.",
+    "start": 33.76,
+    "duration": 3.56
+  },
+  {
+    "text": ">> We would rather have 10 million views on",
+    "start": 35.24,
+    "duration": 4.28
+  },
+  {
+    "text": "a video that converts well, because it's",
+    "start": 37.32,
+    "duration": 4.36
+  },
+  {
+    "text": "actually targeting our target audience,",
+    "start": 39.52,
+    "duration": 4.32
+  },
+  {
+    "text": "as opposed to a 40 million view video",
+    "start": 41.68,
+    "duration": 4.64
+  },
+  {
+    "text": "that is just unique and novel and drives",
+    "start": 43.84,
+    "duration": 4.64
+  },
+  {
+    "text": "low-intent traffic to the product.",
+    "start": 46.32,
+    "duration": 4.84
+  },
+  {
+    "text": ">> They built a team of 10 to 12 part-time",
+    "start": 48.48,
+    "duration": 4.6
+  },
+  {
+    "text": "creators, not influencers, but people",
+    "start": 51.16,
+    "duration": 3.4
+  },
+  {
+    "text": "who understood the product and the",
+    "start": 53.08,
+    "duration": 2
+  },
+  {
+    "text": "audience.",
+    "start": 54.56,
+    "duration": 2.64
+  },
+  {
+    "text": ">> We wanted to build the equivalent of the",
+    "start": 55.08,
+    "duration": 4.36
+  },
+  {
+    "text": "Navy SEALs, not the Navy. So, how did",
+    "start": 57.2,
+    "duration": 4.72
+  },
+  {
+    "text": "two ex-Loom employees go from side",
+    "start": 59.44,
+    "duration": 4.84
+  },
+  {
+    "text": "projects to even getting acquired by",
+    "start": 61.92,
+    "duration": 4.48
+  },
+  {
+    "text": "Quizlet in under 2 years? In this",
+    "start": 64.28,
+    "duration": 3.8
+  },
+  {
+    "text": "episode, Brett and Zack break down",
+    "start": 66.4,
+    "duration": 4.52
+  },
+  {
+    "text": "exactly how they built Coconote to 6.7",
+    "start": 68.08,
+    "duration": 5.2
+  },
+  {
+    "text": "million ARR, including the exact UGC",
+    "start": 70.92,
+    "duration": 4.12
+  },
+  {
+    "text": "playbook that drove millions in revenue,",
+    "start": 73.28,
+    "duration": 3.28
+  },
+  {
+    "text": "the changes that boosted trial",
+    "start": 75.04,
+    "duration": 4.28
+  },
+  {
+    "text": "conversion by 16%, and the anti-churn",
+    "start": 76.56,
+    "duration": 5.2
+  },
+  {
+    "text": "tactic that stops 27% of users from",
+    "start": 79.32,
+    "duration": 3.68
+  },
+  {
+    "text": "canceling their subscription.",
+    "start": 81.76,
+    "duration": 2.72
+  },
+  {
+    "text": ">> Let's get into it. This is the Superwall",
+    "start": 83,
+    "duration": 3.6
+  },
+  {
+    "text": "podcast, and I'm Joseph Choi, founder of",
+    "start": 84.48,
+    "duration": 3.52
+  },
+  {
+    "text": "Consumer Club. The members in the",
+    "start": 86.6,
+    "duration": 3.12
+  },
+  {
+    "text": "Consumer Club Discord and the founders I",
+    "start": 88,
+    "duration": 3.56
+  },
+  {
+    "text": "interview on the pod build apps at a",
+    "start": 89.72,
+    "duration": 4.24
+  },
+  {
+    "text": "median of 1 million ARR. A lot of these",
+    "start": 91.56,
+    "duration": 4.64
+  },
+  {
+    "text": "apps that make the most money run AB",
+    "start": 93.96,
+    "duration": 4
+  },
+  {
+    "text": "tests on their paywalls to make more",
+    "start": 96.2,
+    "duration": 3.64
+  },
+  {
+    "text": "revenue with the same number of users.",
+    "start": 97.96,
+    "duration": 3.76
+  },
+  {
+    "text": "Superwall has a lot of data on the",
+    "start": 99.84,
+    "duration": 3.8
+  },
+  {
+    "text": "thousands of apps that use a paywall.",
+    "start": 101.72,
+    "duration": 4
+  },
+  {
+    "text": "So, recently they put together a free AI",
+    "start": 103.64,
+    "duration": 5.04
+  },
+  {
+    "text": "tool trained on 422 profitable paywall",
+    "start": 105.72,
+    "duration": 4.4
+  },
+  {
+    "text": "experiments. It lets you upload a",
+    "start": 108.68,
+    "duration": 3.6
+  },
+  {
+    "text": "screenshot of your own paywall and gives",
+    "start": 110.12,
+    "duration": 3.92
+  },
+  {
+    "text": "you an experiment idea to increase your",
+    "start": 112.28,
+    "duration": 3.4
+  },
+  {
+    "text": "revenue. You can use it for free at",
+    "start": 114.04,
+    "duration": 3.2
+  },
+  {
+    "text": "paywallexperiments.com.",
+    "start": 115.68,
+    "duration": 3
+  },
+  {
+    "text": "Also, if you're building a mobile app",
+    "start": 117.24,
+    "duration": 3.28
+  },
+  {
+    "text": "doing at least 100K a month in revenue,",
+    "start": 118.68,
+    "duration": 3.84
+  },
+  {
+    "text": "Superwall hosts dinners in San Francisco",
+    "start": 120.52,
+    "duration": 3.68
+  },
+  {
+    "text": "and New York. They keep each gathering",
+    "start": 122.52,
+    "duration": 3.8
+  },
+  {
+    "text": "small, thoughtful, genuinely useful for",
+    "start": 124.2,
+    "duration": 3.8
+  },
+  {
+    "text": "everyone. If you meet this criteria of",
+    "start": 126.32,
+    "duration": 3.32
+  },
+  {
+    "text": "100K a month in revenue and want an",
+    "start": 128,
+    "duration": 3.64
+  },
+  {
+    "text": "invite, apply using the typeform in the",
+    "start": 129.64,
+    "duration": 3.64
+  },
+  {
+    "text": "description. Let's get into the pod.",
+    "start": 131.64,
+    "duration": 3.52
+  },
+  {
+    "text": "Yeah, why don't we give people the the",
+    "start": 133.28,
+    "duration": 3.6
+  },
+  {
+    "text": "scoreboard? Like, where is where is",
+    "start": 135.16,
+    "duration": 4
+  },
+  {
+    "text": "Coconote right now? Coconote is an AI",
+    "start": 136.88,
+    "duration": 4.44
+  },
+  {
+    "text": "note-taker and study assistant,",
+    "start": 139.16,
+    "duration": 4.28
+  },
+  {
+    "text": "primarily for college students, but also",
+    "start": 141.32,
+    "duration": 3.8
+  },
+  {
+    "text": "for any learner.",
+    "start": 143.44,
+    "duration": 4.36
+  },
+  {
+    "text": "And we crossed 2 million registered",
+    "start": 145.12,
+    "duration": 3.88
+  },
+  {
+    "text": "users.",
+    "start": 147.8,
+    "duration": 4.88
+  },
+  {
+    "text": "Um, last year, we crossed 6.7 million",
+    "start": 149,
+    "duration": 6.4
+  },
+  {
+    "text": "ARR. We've done generally over 50%",
+    "start": 152.68,
+    "duration": 5.6
+  },
+  {
+    "text": "EBITDA, and uh, we've kept the the team",
+    "start": 155.4,
+    "duration": 4.92
+  },
+  {
+    "text": "quite small. And you just got acquired.",
+    "start": 158.28,
+    "duration": 3.92
+  },
+  {
+    "text": "So, how how long did it take from launch",
+    "start": 160.32,
+    "duration": 4.56
+  },
+  {
+    "text": "to exit? About 18 months, a little less",
+    "start": 162.2,
+    "duration": 5.56
+  },
+  {
+    "text": "than 2 years. Wow, okay. Exit to Quizlet",
+    "start": 164.88,
+    "duration": 5.6
+  },
+  {
+    "text": "in 18 months. So, before all of this,",
+    "start": 167.76,
+    "duration": 5.92
+  },
+  {
+    "text": "you guys were both at Loom, I think. And",
+    "start": 170.48,
+    "duration": 4.44
+  },
+  {
+    "text": "yeah, what what were you guys doing",
+    "start": 173.68,
+    "duration": 3
+  },
+  {
+    "text": "there, and then why did you end up",
+    "start": 174.92,
+    "duration": 4.08
+  },
+  {
+    "text": "leaving Loom? I was the first PM. I",
+    "start": 176.68,
+    "duration": 4.16
+  },
+  {
+    "text": "actually joined as a second designer at",
+    "start": 179,
+    "duration": 3.68
+  },
+  {
+    "text": "Loom, and one of the first employees.",
+    "start": 180.84,
+    "duration": 3.96
+  },
+  {
+    "text": "And then I moved back into product",
+    "start": 182.68,
+    "duration": 3.8
+  },
+  {
+    "text": "management, eventually product lead, and",
+    "start": 184.8,
+    "duration": 3.68
+  },
+  {
+    "text": "started the the mobile team. Yeah, and I",
+    "start": 186.48,
+    "duration": 3.88
+  },
+  {
+    "text": "was on the the iOS team. I was an",
+    "start": 188.48,
+    "duration": 4.68
+  },
+  {
+    "text": "engineer at Loom. So, you guys and you",
+    "start": 190.36,
+    "duration": 4.52
+  },
+  {
+    "text": "guys were not just like corporate",
+    "start": 193.16,
+    "duration": 3.72
+  },
+  {
+    "text": "employees and then just suddenly had",
+    "start": 194.88,
+    "duration": 4.48
+  },
+  {
+    "text": "this like crazy viral startup. Like,",
+    "start": 196.88,
+    "duration": 4.28
+  },
+  {
+    "text": "it seems like there were a bunch of",
+    "start": 199.36,
+    "duration": 3.72
+  },
+  {
+    "text": "products in between. Like, what was the",
+    "start": 201.16,
+    "duration": 4.6
+  },
+  {
+    "text": "moment that it clicked from like we're",
+    "start": 203.08,
+    "duration": 4.64
+  },
+  {
+    "text": "doing all these side projects and or",
+    "start": 205.76,
+    "duration": 4.84
+  },
+  {
+    "text": "just like other like main projects to",
+    "start": 207.72,
+    "duration": 4.84
+  },
+  {
+    "text": "yeah, when it really clicked. Brett, you",
+    "start": 210.6,
+    "duration": 3.92
+  },
+  {
+    "text": "want to take that from your side? Um,",
+    "start": 212.56,
+    "duration": 4.56
+  },
+  {
+    "text": "yeah. I mean, we Zack and I tried a few",
+    "start": 214.52,
+    "duration": 4.88
+  },
+  {
+    "text": "various things together. Not not nothing",
+    "start": 217.12,
+    "duration": 5.68
+  },
+  {
+    "text": "really felt that special until Coconote.",
+    "start": 219.4,
+    "duration": 4.88
+  },
+  {
+    "text": "And it felt like people were kind of",
+    "start": 222.8,
+    "duration": 2.92
+  },
+  {
+    "text": "pulling it out of us once we started",
+    "start": 224.28,
+    "duration": 3.72
+  },
+  {
+    "text": "market marketing it. Zack was able to",
+    "start": 225.72,
+    "duration": 5.12
+  },
+  {
+    "text": "find pretty pretty quick traction on the",
+    "start": 228,
+    "duration": 5.24
+  },
+  {
+    "text": "socials, and that's when it really made",
+    "start": 230.84,
+    "duration": 4.08
+  },
+  {
+    "text": "sense to us. Joseph, I could just add",
+    "start": 233.24,
+    "duration": 3.48
+  },
+  {
+    "text": "something there. I would say the best",
+    "start": 234.92,
+    "duration": 4.4
+  },
+  {
+    "text": "quote on this that I've ever heard is",
+    "start": 236.72,
+    "duration": 5.44
+  },
+  {
+    "text": "momentum is like oxygen for a startup.",
+    "start": 239.32,
+    "duration": 4.36
+  },
+  {
+    "text": "And so, the sooner you're able to find",
+    "start": 242.16,
+    "duration": 3.92
+  },
+  {
+    "text": "momentum, the more willing you are to",
+    "start": 243.68,
+    "duration": 4.12
+  },
+  {
+    "text": "just put more and more energy into it,",
+    "start": 246.08,
+    "duration": 2.88
+  },
+  {
+    "text": "because you see that it's actually",
+    "start": 247.8,
+    "duration": 2.8
+  },
+  {
+    "text": "helping people and people clearly want",
+    "start": 248.96,
+    "duration": 2.36
+  },
+  {
+    "text": "what you're building.",
+    "start": 250.6,
+    "duration": 3.12
+  },
+  {
+    "text": ">> You guys had some crazy momentum with",
+    "start": 251.32,
+    "duration": 4.6
+  },
+  {
+    "text": "some of these uh, TikToks. Let's just",
+    "start": 253.72,
+    "duration": 4.28
+  },
+  {
+    "text": "get straight into the TikToks. This is",
+    "start": 255.92,
+    "duration": 4.439
+  },
+  {
+    "text": "kind of what you guys are known for. Um,",
+    "start": 258,
+    "duration": 5.16
+  },
+  {
+    "text": "I want to start with this one. This this",
+    "start": 260.359,
+    "duration": 6.481
+  },
+  {
+    "text": "one TikTok got 40 million views. So, was",
+    "start": 263.16,
+    "duration": 6.2
+  },
+  {
+    "text": "this one of the first videos that really",
+    "start": 266.84,
+    "duration": 4.8
+  },
+  {
+    "text": "popped off? No, actually, this was about",
+    "start": 269.36,
+    "duration": 5.56
+  },
+  {
+    "text": "8 9 months into the journey. It took us",
+    "start": 271.64,
+    "duration": 5.52
+  },
+  {
+    "text": "a little while to find that level of",
+    "start": 274.92,
+    "duration": 5.04
+  },
+  {
+    "text": "traction on TikTok and Instagram Reels.",
+    "start": 277.16,
+    "duration": 5.32
+  },
+  {
+    "text": "But the irony of this is that, yeah, 40",
+    "start": 279.96,
+    "duration": 4.84
+  },
+  {
+    "text": "million views, and for all of this",
+    "start": 282.48,
+    "duration": 5.72
+  },
+  {
+    "text": "feature, uh, PDF to brain rot, we",
+    "start": 284.8,
+    "duration": 6.8
+  },
+  {
+    "text": "probably did 100 between 100 and 200",
+    "start": 288.2,
+    "duration": 4.84
+  },
+  {
+    "text": "million views just for this feature",
+    "start": 291.6,
+    "duration": 3.48
+  },
+  {
+    "text": "alone. The irony of all of this is that",
+    "start": 293.04,
+    "duration": 4.8
+  },
+  {
+    "text": "it doesn't convert well. And so, we did",
+    "start": 295.08,
+    "duration": 6.08
+  },
+  {
+    "text": "from all of these videos, 3,000 trial",
+    "start": 297.84,
+    "duration": 6.28
+  },
+  {
+    "text": "starts over the course of a couple days,",
+    "start": 301.16,
+    "duration": 4.96
+  },
+  {
+    "text": "which is by far and away our our highest",
+    "start": 304.12,
+    "duration": 4
+  },
+  {
+    "text": "number of trial starts over that period.",
+    "start": 306.12,
+    "duration": 3.8
+  },
+  {
+    "text": "If those would have converted, you know,",
+    "start": 308.12,
+    "duration": 3.84
+  },
+  {
+    "text": "in like at 100%, it would have been",
+    "start": 309.92,
+    "duration": 5.4
+  },
+  {
+    "text": "360,000 in revenue, but they converted",
+    "start": 311.96,
+    "duration": 6.56
+  },
+  {
+    "text": "to something like 25,000. And so, one of",
+    "start": 315.32,
+    "duration": 5.88
+  },
+  {
+    "text": "the key takeaways is you can go viral.",
+    "start": 318.52,
+    "duration": 4.6
+  },
+  {
+    "text": "You know, there are ways to get hundreds",
+    "start": 321.2,
+    "duration": 3.84
+  },
+  {
+    "text": "of millions of views on socials, but",
+    "start": 323.12,
+    "duration": 3.24
+  },
+  {
+    "text": "that doesn't necessarily mean you're",
+    "start": 325.04,
+    "duration": 3.2
+  },
+  {
+    "text": "solving a real problem, and you're",
+    "start": 326.36,
+    "duration": 3.48
+  },
+  {
+    "text": "building something that people really",
+    "start": 328.24,
+    "duration": 3.36
+  },
+  {
+    "text": "want. It could just be like a novel",
+    "start": 329.84,
+    "duration": 3.72
+  },
+  {
+    "text": "tool, in which case that's not really",
+    "start": 331.6,
+    "duration": 4.32
+  },
+  {
+    "text": "going to convert to paying customers.",
+    "start": 333.56,
+    "duration": 5.12
+  },
+  {
+    "text": ">> I remember this this spike in virality.",
+    "start": 335.92,
+    "duration": 5.08
+  },
+  {
+    "text": "I was seeing these PDF to brain rot",
+    "start": 338.68,
+    "duration": 4.32
+  },
+  {
+    "text": "videos all over the place. Basically,",
+    "start": 341,
+    "duration": 6.28
+  },
+  {
+    "text": "like it's this video where a person is",
+    "start": 343,
+    "duration": 7.52
+  },
+  {
+    "text": "in their text. It's like a super long",
+    "start": 347.28,
+    "duration": 6.24
+  },
+  {
+    "text": "text that they just sent, and then they",
+    "start": 350.52,
+    "duration": 5.88
+  },
+  {
+    "text": "go on their desktop, they write",
+    "start": 353.52,
+    "duration": 5.68
+  },
+  {
+    "text": "pdftobrainrot.com, and then they paste",
+    "start": 356.4,
+    "duration": 5.4
+  },
+  {
+    "text": "in the long long text. And then it turns",
+    "start": 359.2,
+    "duration": 4.6
+  },
+  {
+    "text": "it into like a Minecraft parkour brain",
+    "start": 361.8,
+    "duration": 4.64
+  },
+  {
+    "text": "rot video is like the punchline. It",
+    "start": 363.8,
+    "duration": 4.08
+  },
+  {
+    "text": "basically it was kind of like a lead",
+    "start": 366.44,
+    "duration": 4.04
+  },
+  {
+    "text": "magnet product, where you guys would",
+    "start": 367.88,
+    "duration": 4.64
+  },
+  {
+    "text": "convert people from the the PDF to brain",
+    "start": 370.48,
+    "duration": 4.4
+  },
+  {
+    "text": "rot site to actual product. Yeah, that's",
+    "start": 372.52,
+    "duration": 3.96
+  },
+  {
+    "text": "right. It's a little bit of a Trojan",
+    "start": 374.88,
+    "duration": 4.6
+  },
+  {
+    "text": "horse, right? So, if we can get students",
+    "start": 376.48,
+    "duration": 4.4
+  },
+  {
+    "text": "uh, in the door",
+    "start": 379.48,
+    "duration": 4.08
+  },
+  {
+    "text": "from this like brain rot style video,",
+    "start": 380.88,
+    "duration": 5.96
+  },
+  {
+    "text": "very novel and unique, then in theory we",
+    "start": 383.56,
+    "duration": 5.2
+  },
+  {
+    "text": "could convert them into the actual",
+    "start": 386.84,
+    "duration": 3.4
+  },
+  {
+    "text": "product, which is really helping them",
+    "start": 388.76,
+    "duration": 3.12
+  },
+  {
+    "text": "learn and summarize and create study",
+    "start": 390.24,
+    "duration": 3.6
+  },
+  {
+    "text": "materials. Let's let's pull up this",
+    "start": 391.88,
+    "duration": 4.48
+  },
+  {
+    "text": "other one, too. You're going viral on",
+    "start": 393.84,
+    "duration": 5.04
+  },
+  {
+    "text": "TikTok and Instagram at the same time,",
+    "start": 396.36,
+    "duration": 4.56
+  },
+  {
+    "text": "it seems like. So, this one's a reel.",
+    "start": 398.88,
+    "duration": 3.92
+  },
+  {
+    "text": "Uh, this is more talking head style,",
+    "start": 400.92,
+    "duration": 3.72
+  },
+  {
+    "text": "where she's like, \"Hey, I just found",
+    "start": 402.8,
+    "duration": 3.8
+  },
+  {
+    "text": "this site. This is crazy. What is our",
+    "start": 404.64,
+    "duration": 3.88
+  },
+  {
+    "text": "attention span coming to?\" And then it",
+    "start": 406.6,
+    "duration": 5.08
+  },
+  {
+    "text": "seems like it's the same demo video as",
+    "start": 408.52,
+    "duration": 5.96
+  },
+  {
+    "text": "well, where you're like zooming into the",
+    "start": 411.68,
+    "duration": 5
+  },
+  {
+    "text": "laptop screen. Uh, actually, this one is",
+    "start": 414.48,
+    "duration": 3.84
+  },
+  {
+    "text": "a little bit different. So, even though",
+    "start": 416.68,
+    "duration": 3.76
+  },
+  {
+    "text": "the revenue you said, you know, 25K",
+    "start": 418.32,
+    "duration": 4.64
+  },
+  {
+    "text": "revenue, even though you got like, you",
+    "start": 420.44,
+    "duration": 4.44
+  },
+  {
+    "text": "know, 200 million views or something.",
+    "start": 422.96,
+    "duration": 3.8
+  },
+  {
+    "text": "So, the conversion rate wasn't perfect,",
+    "start": 424.88,
+    "duration": 4.68
+  },
+  {
+    "text": "but the virality itself seems like it",
+    "start": 426.76,
+    "duration": 4.72
+  },
+  {
+    "text": "was a really good exercise in learning",
+    "start": 429.56,
+    "duration": 4.84
+  },
+  {
+    "text": "how to go massively viral, while also",
+    "start": 431.48,
+    "duration": 4.72
+  },
+  {
+    "text": "showing a product. Like, we're going to",
+    "start": 434.4,
+    "duration": 3.92
+  },
+  {
+    "text": "get to the conversion rate, I think, in",
+    "start": 436.2,
+    "duration": 3.76
+  },
+  {
+    "text": "a bit, cuz I want to figure out like how",
+    "start": 438.32,
+    "duration": 3.72
+  },
+  {
+    "text": "did you even convert this into, you",
+    "start": 439.96,
+    "duration": 4.2
+  },
+  {
+    "text": "know, the several million ARR that you",
+    "start": 442.04,
+    "duration": 4.6
+  },
+  {
+    "text": "have today. But what did you learn from",
+    "start": 444.16,
+    "duration": 5.16
+  },
+  {
+    "text": "this? Um, did were you creating these",
+    "start": 446.64,
+    "duration": 5.28
+  },
+  {
+    "text": "videos yourself? Did you have a bunch of",
+    "start": 449.32,
+    "duration": 4.16
+  },
+  {
+    "text": "creators? Like, what was your process to",
+    "start": 451.92,
+    "duration": 2.6
+  },
+  {
+    "text": "actually",
+    "start": 453.48,
+    "duration": 3.2
+  },
+  {
+    "text": "create these videos? So, given this was",
+    "start": 454.52,
+    "duration": 4.4
+  },
+  {
+    "text": "maybe 8 months into the journey, we had",
+    "start": 456.68,
+    "duration": 4.76
+  },
+  {
+    "text": "built out a small content team. And so,",
+    "start": 458.92,
+    "duration": 4.04
+  },
+  {
+    "text": "the creators that you see here on the",
+    "start": 461.44,
+    "duration": 3.92
+  },
+  {
+    "text": "screen, Allison and Sydney, they were",
+    "start": 462.96,
+    "duration": 4.56
+  },
+  {
+    "text": "part of the content team. Prior to that,",
+    "start": 465.36,
+    "duration": 4.56
+  },
+  {
+    "text": "we had a much smaller content team, and",
+    "start": 467.52,
+    "duration": 4.64
+  },
+  {
+    "text": "we were going viral, you know, it",
+    "start": 469.92,
+    "duration": 4.24
+  },
+  {
+    "text": "depends on what you consider viral, but",
+    "start": 472.16,
+    "duration": 4.6
+  },
+  {
+    "text": "we had several videos with around 20",
+    "start": 474.16,
+    "duration": 5
+  },
+  {
+    "text": "million views on our main page, just the",
+    "start": 476.76,
+    "duration": 5.88
+  },
+  {
+    "text": "@coconote app on Instagram. And those",
+    "start": 479.16,
+    "duration": 5.2
+  },
+  {
+    "text": "were converting much better, because",
+    "start": 482.64,
+    "duration": 4
+  },
+  {
+    "text": "they framed Coconote for what it is,",
+    "start": 484.36,
+    "duration": 3.96
+  },
+  {
+    "text": "which is a solution to a problem.",
+    "start": 486.64,
+    "duration": 5.04
+  },
+  {
+    "text": "Whereas these PDF to brain rot videos",
+    "start": 488.32,
+    "duration": 5.88
+  },
+  {
+    "text": "were much more novel and unique, and",
+    "start": 491.68,
+    "duration": 4.24
+  },
+  {
+    "text": "there certainly is somewhat of an aha",
+    "start": 494.2,
+    "duration": 3.12
+  },
+  {
+    "text": "moment, which is one of the reasons why",
+    "start": 495.92,
+    "duration": 3.4
+  },
+  {
+    "text": "I think they did so well. But what we",
+    "start": 497.32,
+    "duration": 4.32
+  },
+  {
+    "text": "realized when we dug deeper is, you",
+    "start": 499.32,
+    "duration": 4.32
+  },
+  {
+    "text": "know, we would rather have 10 million",
+    "start": 501.64,
+    "duration": 4.32
+  },
+  {
+    "text": "views on a video that converts well,",
+    "start": 503.64,
+    "duration": 4.16
+  },
+  {
+    "text": "because it's actually targeting our",
+    "start": 505.96,
+    "duration": 4.56
+  },
+  {
+    "text": "target audience and an audience that",
+    "start": 507.8,
+    "duration": 4.4
+  },
+  {
+    "text": "wants to solve their problems, as",
+    "start": 510.52,
+    "duration": 4.199
+  },
+  {
+    "text": "opposed to a 40 million view video that",
+    "start": 512.2,
+    "duration": 4.76
+  },
+  {
+    "text": "is just unique and novel and drives",
+    "start": 514.719,
+    "duration": 4.721
+  },
+  {
+    "text": "low-intent traffic to the product. Yeah,",
+    "start": 516.96,
+    "duration": 4.079
+  },
+  {
+    "text": "let's look at let's look at a couple of",
+    "start": 519.44,
+    "duration": 3.36
+  },
+  {
+    "text": "examples of",
+    "start": 521.039,
+    "duration": 4.001
+  },
+  {
+    "text": "the actual product ones that did better.",
+    "start": 522.8,
+    "duration": 4.36
+  },
+  {
+    "text": "So, this is your brand page that you're",
+    "start": 525.04,
+    "duration": 3.8
+  },
+  {
+    "text": "talking about, I think. So, this video",
+    "start": 527.16,
+    "duration": 4.76
+  },
+  {
+    "text": "got 18 million views, and it directly",
+    "start": 528.84,
+    "duration": 5.96
+  },
+  {
+    "text": "shows the core product. And you even the",
+    "start": 531.92,
+    "duration": 4.96
+  },
+  {
+    "text": "call it out. Hook is, \"My mom just",
+    "start": 534.8,
+    "duration": 5.72
+  },
+  {
+    "text": "changed my college life forever.\"",
+    "start": 536.88,
+    "duration": 5.32
+  },
+  {
+    "text": "Ooh, that was that was a quick hook.",
+    "start": 540.52,
+    "duration": 4.32
+  },
+  {
+    "text": "That was two like two, three seconds of",
+    "start": 542.2,
+    "duration": 4.04
+  },
+  {
+    "text": "just like showing the lecture hall, and",
+    "start": 544.84,
+    "duration": 3
+  },
+  {
+    "text": "it immediately goes straight down,",
+    "start": 546.24,
+    "duration": 3.2
+  },
+  {
+    "text": "showing the phone screen recording the",
+    "start": 547.84,
+    "duration": 2.84
+  },
+  {
+    "text": "lecture.",
+    "start": 549.44,
+    "duration": 3.56
+  },
+  {
+    "text": "She showed me this app, and all I",
+    "start": 550.68,
+    "duration": 4.64
+  },
+  {
+    "text": "do is hit record. It listens to the",
+    "start": 553,
+    "duration": 4.52
+  },
+  {
+    "text": "professor, starts talk taking notes.",
+    "start": 555.32,
+    "duration": 4.28
+  },
+  {
+    "text": "That's crazy. This is like 18 million",
+    "start": 557.52,
+    "duration": 4.08
+  },
+  {
+    "text": "views. So, how many views did this get",
+    "start": 559.6,
+    "duration": 3.44
+  },
+  {
+    "text": "initially?",
+    "start": 561.6,
+    "duration": 4.44
+  },
+  {
+    "text": "And then did you end up boosting this",
+    "start": 563.04,
+    "duration": 5
+  },
+  {
+    "text": "um, post? Pretty much all of the 18",
+    "start": 566.04,
+    "duration": 4.68
+  },
+  {
+    "text": "million came, you know, within the first",
+    "start": 568.04,
+    "duration": 5.4
+  },
+  {
+    "text": "2 months, I would say. And we I'm sure",
+    "start": 570.72,
+    "duration": 4.48
+  },
+  {
+    "text": "we did put a little bit of money behind",
+    "start": 573.44,
+    "duration": 3.88
+  },
+  {
+    "text": "it, but we haven't really found a ton of",
+    "start": 575.2,
+    "duration": 5
+  },
+  {
+    "text": "success in that. And so, it's very",
+    "start": 577.32,
+    "duration": 6.04
+  },
+  {
+    "text": "minimal. I'd say 99% of those views are",
+    "start": 580.2,
+    "duration": 5.72
+  },
+  {
+    "text": "organic. That's wild. What would you say",
+    "start": 583.36,
+    "duration": 5.6
+  },
+  {
+    "text": "is like the difference between",
+    "start": 585.92,
+    "duration": 5.68
+  },
+  {
+    "text": "a, you know, the PDF to brain rot videos",
+    "start": 588.96,
+    "duration": 4.84
+  },
+  {
+    "text": "that are doing massive, you know, 200",
+    "start": 591.6,
+    "duration": 4.52
+  },
+  {
+    "text": "million views, versus these that maybe",
+    "start": 593.8,
+    "duration": 5.52
+  },
+  {
+    "text": "get a little bit less views, but um are",
+    "start": 596.12,
+    "duration": 4.72
+  },
+  {
+    "text": "actually higher converting. Well, two",
+    "start": 599.32,
+    "duration": 2.96
+  },
+  {
+    "text": "things I would say. The first thing is",
+    "start": 600.84,
+    "duration": 4.24
+  },
+  {
+    "text": "that I think I've on content grown to",
+    "start": 602.28,
+    "duration": 5.16
+  },
+  {
+    "text": "have some sort of perspective on it.",
+    "start": 605.08,
+    "duration": 4.08
+  },
+  {
+    "text": "Depends on where the product is in the",
+    "start": 607.44,
+    "duration": 3.6
+  },
+  {
+    "text": "product life cycle. And so, if the",
+    "start": 609.16,
+    "duration": 4.2
+  },
+  {
+    "text": "product's very early on, you can get",
+    "start": 611.04,
+    "duration": 5.08
+  },
+  {
+    "text": "away with, for example, a shock hook and",
+    "start": 613.36,
+    "duration": 5.04
+  },
+  {
+    "text": "product demo, which is a much lazier",
+    "start": 616.12,
+    "duration": 4.56
+  },
+  {
+    "text": "form of content. And our content in the",
+    "start": 618.4,
+    "duration": 4.84
+  },
+  {
+    "text": "earlier stages being in a lecture hall,",
+    "start": 620.68,
+    "duration": 4
+  },
+  {
+    "text": "this is a you know, there are a lot of",
+    "start": 623.24,
+    "duration": 3.08
+  },
+  {
+    "text": "details here that I don't want to",
+    "start": 624.68,
+    "duration": 4.52
+  },
+  {
+    "text": "minimize. A very talented uh creator on",
+    "start": 626.32,
+    "duration": 5.76
+  },
+  {
+    "text": "our team named João uh made these for",
+    "start": 629.2,
+    "duration": 4.8
+  },
+  {
+    "text": "the most part. And so, I don't want to",
+    "start": 632.08,
+    "duration": 4
+  },
+  {
+    "text": "minimize that work at whatsoever, but it",
+    "start": 634,
+    "duration": 3.72
+  },
+  {
+    "text": "is a {quote} {unquote} lazy form of",
+    "start": 636.08,
+    "duration": 3.64
+  },
+  {
+    "text": "content that you can get away with when",
+    "start": 637.72,
+    "duration": 4.4
+  },
+  {
+    "text": "the product itself is more novel and",
+    "start": 639.72,
+    "duration": 5.36
+  },
+  {
+    "text": "unique because it's early in the general",
+    "start": 642.12,
+    "duration": 4.88
+  },
+  {
+    "text": "market of it, right? We were posting",
+    "start": 645.08,
+    "duration": 5.28
+  },
+  {
+    "text": "these March, April, May 2024, right when",
+    "start": 647,
+    "duration": 4.92
+  },
+  {
+    "text": "we were coming out. We were posting the",
+    "start": 650.36,
+    "duration": 4.24
+  },
+  {
+    "text": "PDF to Brainrot, you know, 6 to 8 months",
+    "start": 651.92,
+    "duration": 4.52
+  },
+  {
+    "text": "after that. And it just framed It was a",
+    "start": 654.6,
+    "duration": 3.88
+  },
+  {
+    "text": "different product intended and I think",
+    "start": 656.44,
+    "duration": 4.44
+  },
+  {
+    "text": "resonated with a different age group.",
+    "start": 658.48,
+    "duration": 5.04
+  },
+  {
+    "text": "One that has most likely less disposable",
+    "start": 660.88,
+    "duration": 5.16
+  },
+  {
+    "text": "income. It's not framing the product as",
+    "start": 663.52,
+    "duration": 4.96
+  },
+  {
+    "text": "a solution to a real problem. It's just",
+    "start": 666.04,
+    "duration": 4.2
+  },
+  {
+    "text": "more of a toy. And that's the big",
+    "start": 668.48,
+    "duration": 4.08
+  },
+  {
+    "text": "learning. And then some more like behind",
+    "start": 670.24,
+    "duration": 5.16
+  },
+  {
+    "text": "the scenes on on this video is like the",
+    "start": 672.56,
+    "duration": 5.44
+  },
+  {
+    "text": "recording screen uh and the transcribing",
+    "start": 675.4,
+    "duration": 6
+  },
+  {
+    "text": "screen are are not real screens in the",
+    "start": 678,
+    "duration": 5.36
+  },
+  {
+    "text": "product. These are screens that the",
+    "start": 681.4,
+    "duration": 4.36
+  },
+  {
+    "text": "content creators have access to for",
+    "start": 683.36,
+    "duration": 4.84
+  },
+  {
+    "text": "making content easier and things that",
+    "start": 685.76,
+    "duration": 4.24
+  },
+  {
+    "text": "are just a bit more eye-catchy than like",
+    "start": 688.2,
+    "duration": 2.88
+  },
+  {
+    "text": "a",
+    "start": 690,
+    "duration": 3.44
+  },
+  {
+    "text": "more like boring recording screen that",
+    "start": 691.08,
+    "duration": 4.96
+  },
+  {
+    "text": "you might might find in like a the",
+    "start": 693.44,
+    "duration": 4.56
+  },
+  {
+    "text": "actual app. That's interesting, too.",
+    "start": 696.04,
+    "duration": 4.48
+  },
+  {
+    "text": "Like this uh this wave screen, is this",
+    "start": 698,
+    "duration": 4.68
+  },
+  {
+    "text": "one uh like a creator's only screen?",
+    "start": 700.52,
+    "duration": 3.76
+  },
+  {
+    "text": "Yeah, exactly. And then you can like see",
+    "start": 702.68,
+    "duration": 3.88
+  },
+  {
+    "text": "the the name of the app on the screen.",
+    "start": 704.28,
+    "duration": 4.559
+  },
+  {
+    "text": "All right, yes. It's Coconut.ai like in",
+    "start": 706.56,
+    "duration": 4.52
+  },
+  {
+    "text": "huge text. Interesting. Yeah, so that",
+    "start": 708.839,
+    "duration": 4.401
+  },
+  {
+    "text": "screen, when you think about it, it is",
+    "start": 711.08,
+    "duration": 3.92
+  },
+  {
+    "text": "kind of impractical. Like why do you",
+    "start": 713.24,
+    "duration": 4.04
+  },
+  {
+    "text": "need to have like this gigantic rainbow",
+    "start": 715,
+    "duration": 3.92
+  },
+  {
+    "text": "wave like as you're",
+    "start": 717.28,
+    "duration": 3.84
+  },
+  {
+    "text": "uh recording a lecture, but it it does",
+    "start": 718.92,
+    "duration": 4.24
+  },
+  {
+    "text": "look very eye-catching. Were there any",
+    "start": 721.12,
+    "duration": 4.6
+  },
+  {
+    "text": "other creator only screens on in this",
+    "start": 723.16,
+    "duration": 4.52
+  },
+  {
+    "text": "video? Not in that one, but we had a",
+    "start": 725.72,
+    "duration": 3.84
+  },
+  {
+    "text": "variety of screens that were really only",
+    "start": 727.68,
+    "duration": 4.159
+  },
+  {
+    "text": "for creators to use whenever they were",
+    "start": 729.56,
+    "duration": 4.48
+  },
+  {
+    "text": "filming content. Okay, and then this was",
+    "start": 731.839,
+    "duration": 4.921
+  },
+  {
+    "text": "another like core page or brand page.",
+    "start": 734.04,
+    "duration": 5
+  },
+  {
+    "text": "This one got 2 million views. This one",
+    "start": 736.76,
+    "duration": 3.76
+  },
+  {
+    "text": "says um",
+    "start": 739.04,
+    "duration": 2.84
+  },
+  {
+    "text": "it plugs",
+    "start": 740.52,
+    "duration": 6.319
+  },
+  {
+    "text": "the URL 2048, but help me study.com. And",
+    "start": 741.88,
+    "duration": 6.8
+  },
+  {
+    "text": "then that just redirects to Coconut, it",
+    "start": 746.839,
+    "duration": 4.321
+  },
+  {
+    "text": "seems like. Yeah, so at the time we were",
+    "start": 748.68,
+    "duration": 5.28
+  },
+  {
+    "text": "experimenting with a lot of study games.",
+    "start": 751.16,
+    "duration": 4.679
+  },
+  {
+    "text": "It's still something that we're excited",
+    "start": 753.96,
+    "duration": 4.4
+  },
+  {
+    "text": "about, something that Quizlet has as a",
+    "start": 755.839,
+    "duration": 5.601
+  },
+  {
+    "text": "broader category of study games, but",
+    "start": 758.36,
+    "duration": 4.16
+  },
+  {
+    "text": "there are a lot of good things to say",
+    "start": 761.44,
+    "duration": 2.96
+  },
+  {
+    "text": "about this video. One, it's a novel",
+    "start": 762.52,
+    "duration": 4.64
+  },
+  {
+    "text": "concept to take a, you know, proving",
+    "start": 764.4,
+    "duration": 6.68
+  },
+  {
+    "text": "game that a lot of people have recreated",
+    "start": 767.16,
+    "duration": 6.76
+  },
+  {
+    "text": "and to integrate, you know, studying in",
+    "start": 771.08,
+    "duration": 5.08
+  },
+  {
+    "text": "between these little quick dopamine hits",
+    "start": 773.92,
+    "duration": 4.44
+  },
+  {
+    "text": "of playing, for example, 2048. The",
+    "start": 776.16,
+    "duration": 4.36
+  },
+  {
+    "text": "second thing is Ally, who is doing the",
+    "start": 778.36,
+    "duration": 4.12
+  },
+  {
+    "text": "content on this, did a phenomenal job.",
+    "start": 780.52,
+    "duration": 4.2
+  },
+  {
+    "text": "There are so many small details in terms",
+    "start": 782.48,
+    "duration": 5.16
+  },
+  {
+    "text": "of the hook and the script and, you",
+    "start": 784.72,
+    "duration": 4.76
+  },
+  {
+    "text": "know, fast-forwarding in certain parts",
+    "start": 787.64,
+    "duration": 3.64
+  },
+  {
+    "text": "of the video. I think we did a great job",
+    "start": 789.48,
+    "duration": 4.6
+  },
+  {
+    "text": "building the team to attract the best",
+    "start": 791.28,
+    "duration": 4.36
+  },
+  {
+    "text": "creators that pay attention to those",
+    "start": 794.08,
+    "duration": 3.64
+  },
+  {
+    "text": "little details. I want to get into that",
+    "start": 795.64,
+    "duration": 4.68
+  },
+  {
+    "text": "that part, like the creator sourcing.",
+    "start": 797.72,
+    "duration": 4.84
+  },
+  {
+    "text": "How do How do you guys approach creator",
+    "start": 800.32,
+    "duration": 5.24
+  },
+  {
+    "text": "recruiting and training and coaching and",
+    "start": 802.56,
+    "duration": 5.2
+  },
+  {
+    "text": "management? Yeah, I think one of the",
+    "start": 805.56,
+    "duration": 4
+  },
+  {
+    "text": "interesting things about our creator",
+    "start": 807.76,
+    "duration": 4.36
+  },
+  {
+    "text": "team is that very early on, Brett and I",
+    "start": 809.56,
+    "duration": 4.96
+  },
+  {
+    "text": "were on board with we wanted to build,",
+    "start": 812.12,
+    "duration": 3.96
+  },
+  {
+    "text": "you know, the equivalent of the Navy",
+    "start": 814.52,
+    "duration": 3.48
+  },
+  {
+    "text": "SEALs, not the Navy. And so, we've",
+    "start": 816.08,
+    "duration": 4
+  },
+  {
+    "text": "always kept the content team",
+    "start": 818,
+    "duration": 3.96
+  },
+  {
+    "text": "uh quite small, at least before the",
+    "start": 820.08,
+    "duration": 3.6
+  },
+  {
+    "text": "acquisition. The content team at its",
+    "start": 821.96,
+    "duration": 3.32
+  },
+  {
+    "text": "biggest was maybe",
+    "start": 823.68,
+    "duration": 4.52
+  },
+  {
+    "text": "10 or 12 uh content creators. All",
+    "start": 825.28,
+    "duration": 5.4
+  },
+  {
+    "text": "part-time, all contractors, all with a",
+    "start": 828.2,
+    "duration": 5.32
+  },
+  {
+    "text": "lot of uh freedom and flexibility in",
+    "start": 830.68,
+    "duration": 3.96
+  },
+  {
+    "text": "terms of the content that they're",
+    "start": 833.52,
+    "duration": 4
+  },
+  {
+    "text": "creating on Coconut's behalf. Allison",
+    "start": 834.64,
+    "duration": 5.72
+  },
+  {
+    "text": "ended up joining as a larger member of",
+    "start": 837.52,
+    "duration": 5.88
+  },
+  {
+    "text": "the team and she was uh kind of a uh",
+    "start": 840.36,
+    "duration": 5.72
+  },
+  {
+    "text": "leading a team of contractors as well.",
+    "start": 843.4,
+    "duration": 6.04
+  },
+  {
+    "text": "And so, that was very helpful. Allison",
+    "start": 846.08,
+    "duration": 5.2
+  },
+  {
+    "text": "ended up doing hundreds of millions of",
+    "start": 849.44,
+    "duration": 3.56
+  },
+  {
+    "text": "views with us. And so, I think one of",
+    "start": 851.28,
+    "duration": 4.04
+  },
+  {
+    "text": "the things that we did well in hindsight",
+    "start": 853,
+    "duration": 3.959
+  },
+  {
+    "text": "is to make sure that whoever's leading",
+    "start": 855.32,
+    "duration": 4.12
+  },
+  {
+    "text": "your content team has the respect and",
+    "start": 856.959,
+    "duration": 5.12
+  },
+  {
+    "text": "kind of admiration of the team overall.",
+    "start": 859.44,
+    "duration": 4.399
+  },
+  {
+    "text": "Uh and I think that comes down to, you",
+    "start": 862.079,
+    "duration": 2.521
+  },
+  {
+    "text": "know,",
+    "start": 863.839,
+    "duration": 4.041
+  },
+  {
+    "text": "having produced content that has gotten",
+    "start": 864.6,
+    "duration": 4.64
+  },
+  {
+    "text": "millions or hundreds of millions of",
+    "start": 867.88,
+    "duration": 4.199
+  },
+  {
+    "text": "views in that case. Got you. So, did she",
+    "start": 869.24,
+    "duration": 6.08
+  },
+  {
+    "text": "have a bunch of views or followers on",
+    "start": 872.079,
+    "duration": 6.281
+  },
+  {
+    "text": "her own content before you guys hired",
+    "start": 875.32,
+    "duration": 5.759
+  },
+  {
+    "text": "her? Yeah, so we reached out to her",
+    "start": 878.36,
+    "duration": 5.04
+  },
+  {
+    "text": "through DMs and then I think eventually",
+    "start": 881.079,
+    "duration": 4.561
+  },
+  {
+    "text": "through emails. And then to answer your",
+    "start": 883.4,
+    "duration": 4.4
+  },
+  {
+    "text": "question, Joseph, more broadly, we've",
+    "start": 885.64,
+    "duration": 6.48
+  },
+  {
+    "text": "used Handshake, DMs on Instagram and",
+    "start": 887.8,
+    "duration": 7.48
+  },
+  {
+    "text": "TikTok, email outreach, uh referrals,",
+    "start": 892.12,
+    "duration": 5.56
+  },
+  {
+    "text": "all kinds of ways to find great creator",
+    "start": 895.28,
+    "duration": 4.36
+  },
+  {
+    "text": "talent. You know, I would say whenever",
+    "start": 897.68,
+    "duration": 3.52
+  },
+  {
+    "text": "you're building out a creator program,",
+    "start": 899.64,
+    "duration": 5.36
+  },
+  {
+    "text": "it's more akin to a talent manager and",
+    "start": 901.2,
+    "duration": 5.92
+  },
+  {
+    "text": "someone that's finding undiscovered",
+    "start": 905,
+    "duration": 4.28
+  },
+  {
+    "text": "talent because that's where, you know,",
+    "start": 907.12,
+    "duration": 4.48
+  },
+  {
+    "text": "part of the {quote} {unquote} alpha is",
+    "start": 909.28,
+    "duration": 4.28
+  },
+  {
+    "text": "is like finding people that are not yet",
+    "start": 911.6,
+    "duration": 4.16
+  },
+  {
+    "text": "discovered and then working with them to",
+    "start": 913.56,
+    "duration": 4.72
+  },
+  {
+    "text": "create great engaging content. No one",
+    "start": 915.76,
+    "duration": 5.24
+  },
+  {
+    "text": "that we've worked with would",
+    "start": 918.28,
+    "duration": 4.64
+  },
+  {
+    "text": "I believe identify themselves as like an",
+    "start": 921,
+    "duration": 4.8
+  },
+  {
+    "text": "influencer. They are first, you know,",
+    "start": 922.92,
+    "duration": 5.28
+  },
+  {
+    "text": "and at their core marketers and they",
+    "start": 925.8,
+    "duration": 5
+  },
+  {
+    "text": "care about helping a product grow and",
+    "start": 928.2,
+    "duration": 4.8
+  },
+  {
+    "text": "leveling up their marketing skill set.",
+    "start": 930.8,
+    "duration": 4
+  },
+  {
+    "text": "And the way they do that is through",
+    "start": 933,
+    "duration": 3.4
+  },
+  {
+    "text": "making, you know, making engaging",
+    "start": 934.8,
+    "duration": 4.279
+  },
+  {
+    "text": "content. That's so key. I I think",
+    "start": 936.4,
+    "duration": 4.4
+  },
+  {
+    "text": "There's two things you said that that",
+    "start": 939.079,
+    "duration": 4.081
+  },
+  {
+    "text": "are really interesting to me. Um the",
+    "start": 940.8,
+    "duration": 4
+  },
+  {
+    "text": "undiscovered talent, those are like my",
+    "start": 943.16,
+    "duration": 4.04
+  },
+  {
+    "text": "magic words. I love thinking about",
+    "start": 944.8,
+    "duration": 4.4
+  },
+  {
+    "text": "talent acquisition and finding like",
+    "start": 947.2,
+    "duration": 4.48
+  },
+  {
+    "text": "under discovered sources of talent. And",
+    "start": 949.2,
+    "duration": 4.6
+  },
+  {
+    "text": "then, yeah, hiring marketers, not",
+    "start": 951.68,
+    "duration": 5.24
+  },
+  {
+    "text": "influencers, is also huge. Where did",
+    "start": 953.8,
+    "duration": 5.64
+  },
+  {
+    "text": "your best creators come from? Was it",
+    "start": 956.92,
+    "duration": 5.84
+  },
+  {
+    "text": "college students or um who are just",
+    "start": 959.44,
+    "duration": 5.28
+  },
+  {
+    "text": "marketing majors interested in marketing",
+    "start": 962.76,
+    "duration": 4.64
+  },
+  {
+    "text": "or what are some like signals that you",
+    "start": 964.72,
+    "duration": 5.16
+  },
+  {
+    "text": "look for? Yeah, undiscovered creators.",
+    "start": 967.4,
+    "duration": 4.08
+  },
+  {
+    "text": "It's a really good question. So, I don't",
+    "start": 969.88,
+    "duration": 3.28
+  },
+  {
+    "text": "think there's a single right answer.",
+    "start": 971.48,
+    "duration": 4.56
+  },
+  {
+    "text": "It's not like we found one channel and",
+    "start": 973.16,
+    "duration": 4.72
+  },
+  {
+    "text": "that was the clear winner. I'll tell you",
+    "start": 976.04,
+    "duration": 4.76
+  },
+  {
+    "text": "another interesting and uh funny story",
+    "start": 977.88,
+    "duration": 4.68
+  },
+  {
+    "text": "that I like to share with folks. So, I",
+    "start": 980.8,
+    "duration": 3.96
+  },
+  {
+    "text": "came back from a wedding in Mexico and",
+    "start": 982.56,
+    "duration": 3.8
+  },
+  {
+    "text": "realized uh",
+    "start": 984.76,
+    "duration": 3.56
+  },
+  {
+    "text": "I am terrible at Spanish. And so, I",
+    "start": 986.36,
+    "duration": 4.84
+  },
+  {
+    "text": "found a Spanish tutor online. And 15",
+    "start": 988.32,
+    "duration": 5.48
+  },
+  {
+    "text": "minutes into my call with my Spanish",
+    "start": 991.2,
+    "duration": 5.16
+  },
+  {
+    "text": "teacher, I said, uh \"Luisa, have you",
+    "start": 993.8,
+    "duration": 4.32
+  },
+  {
+    "text": "considered making content?\" I could just",
+    "start": 996.36,
+    "duration": 3.84
+  },
+  {
+    "text": "tell her energy was so infectious and",
+    "start": 998.12,
+    "duration": 4.92
+  },
+  {
+    "text": "she was so good on camera as a teacher.",
+    "start": 1000.2,
+    "duration": 4.08
+  },
+  {
+    "text": "I really thought that would translate",
+    "start": 1003.04,
+    "duration": 3
+  },
+  {
+    "text": "into content. And she said, \"You know,",
+    "start": 1004.28,
+    "duration": 2.84
+  },
+  {
+    "text": "I've thought about it, but I've never",
+    "start": 1006.04,
+    "duration": 2.52
+  },
+  {
+    "text": "made content.\" And then, you know,",
+    "start": 1007.12,
+    "duration": 3.6
+  },
+  {
+    "text": "fast-forward 9 months and she's one of",
+    "start": 1008.56,
+    "duration": 4.88
+  },
+  {
+    "text": "our best content creators. She focuses",
+    "start": 1010.72,
+    "duration": 5.239
+  },
+  {
+    "text": "on LatAm, so she makes content natively",
+    "start": 1013.44,
+    "duration": 4.28
+  },
+  {
+    "text": "in Spanish. At some point, she's made",
+    "start": 1015.959,
+    "duration": 3.361
+  },
+  {
+    "text": "content in English for us, too. So, I",
+    "start": 1017.72,
+    "duration": 3
+  },
+  {
+    "text": "really think you can just find talent",
+    "start": 1019.32,
+    "duration": 3.48
+  },
+  {
+    "text": "everywhere. Is there some kind of",
+    "start": 1020.72,
+    "duration": 5.84
+  },
+  {
+    "text": "protocol that can get most people from",
+    "start": 1022.8,
+    "duration": 6.24
+  },
+  {
+    "text": "raw talent and charisma to actually",
+    "start": 1026.56,
+    "duration": 4.72
+  },
+  {
+    "text": "creating high-converting, high-view",
+    "start": 1029.04,
+    "duration": 4.56
+  },
+  {
+    "text": "videos because it's kind of crazy that",
+    "start": 1031.28,
+    "duration": 5.04
+  },
+  {
+    "text": "you got your Spanish teacher to",
+    "start": 1033.6,
+    "duration": 4.72
+  },
+  {
+    "text": "become one of the best creators? One way",
+    "start": 1036.32,
+    "duration": 3.639
+  },
+  {
+    "text": "that I've started to think of it is in",
+    "start": 1038.32,
+    "duration": 3.92
+  },
+  {
+    "text": "terms of like a pyramid. So, at the base",
+    "start": 1039.959,
+    "duration": 4.441
+  },
+  {
+    "text": "of the pyramid, you have to want to win.",
+    "start": 1042.24,
+    "duration": 4.04
+  },
+  {
+    "text": "If you don't want to win and you don't",
+    "start": 1044.4,
+    "duration": 4.24
+  },
+  {
+    "text": "show up to win, then there's not a lot",
+    "start": 1046.28,
+    "duration": 4.399
+  },
+  {
+    "text": "that, you know, anyone, in my opinion,",
+    "start": 1048.64,
+    "duration": 4.92
+  },
+  {
+    "text": "can do to spark that. So, wanting to win",
+    "start": 1050.679,
+    "duration": 6.481
+  },
+  {
+    "text": "means you engage in the Slack channel,",
+    "start": 1053.56,
+    "duration": 5.48
+  },
+  {
+    "text": "right? You engage with other people that",
+    "start": 1057.16,
+    "duration": 3.24
+  },
+  {
+    "text": "you're working with.",
+    "start": 1059.04,
+    "duration": 3.36
+  },
+  {
+    "text": "You show up. You show up on time. You",
+    "start": 1060.4,
+    "duration": 4.08
+  },
+  {
+    "text": "show up with your camera on. There are a",
+    "start": 1062.4,
+    "duration": 4.68
+  },
+  {
+    "text": "lot of just small details that you want",
+    "start": 1064.48,
+    "duration": 4.92
+  },
+  {
+    "text": "to get right there. And that truly is",
+    "start": 1067.08,
+    "duration": 4.32
+  },
+  {
+    "text": "like the baseline, I would say. Do you",
+    "start": 1069.4,
+    "duration": 4.04
+  },
+  {
+    "text": "care and do you want to win? The level",
+    "start": 1071.4,
+    "duration": 5.48
+  },
+  {
+    "text": "on top of that is can you heavily use",
+    "start": 1073.44,
+    "duration": 5.64
+  },
+  {
+    "text": "other content for inspiration?",
+    "start": 1076.88,
+    "duration": 4.88
+  },
+  {
+    "text": "So, if I show you a video, do you",
+    "start": 1079.08,
+    "duration": 5.28
+  },
+  {
+    "text": "understand the level of detail that went",
+    "start": 1081.76,
+    "duration": 5.12
+  },
+  {
+    "text": "into that video, that viral video? Could",
+    "start": 1084.36,
+    "duration": 5.72
+  },
+  {
+    "text": "I start to show you videos and hide the",
+    "start": 1086.88,
+    "duration": 5.28
+  },
+  {
+    "text": "view count and the likes and everything",
+    "start": 1090.08,
+    "duration": 4.56
+  },
+  {
+    "text": "and you start to identify whether or not",
+    "start": 1092.16,
+    "duration": 4.96
+  },
+  {
+    "text": "you think that video went viral and why.",
+    "start": 1094.64,
+    "duration": 4.24
+  },
+  {
+    "text": "So, like really paying attention to",
+    "start": 1097.12,
+    "duration": 4.24
+  },
+  {
+    "text": "other people's content and understanding",
+    "start": 1098.88,
+    "duration": 4.6
+  },
+  {
+    "text": "the inputs to that. And then the third",
+    "start": 1101.36,
+    "duration": 4
+  },
+  {
+    "text": "level, the highest part of the pyramid",
+    "start": 1103.48,
+    "duration": 4.439
+  },
+  {
+    "text": "in in my belief, is can you create your",
+    "start": 1105.36,
+    "duration": 5.559
+  },
+  {
+    "text": "own? Can you create your own videos,",
+    "start": 1107.919,
+    "duration": 5.561
+  },
+  {
+    "text": "your own scripts, your own trends? Uh",
+    "start": 1110.919,
+    "duration": 5.601
+  },
+  {
+    "text": "like the top top creators are",
+    "start": 1113.48,
+    "duration": 4.56
+  },
+  {
+    "text": "trendsetters, right? They're not just",
+    "start": 1116.52,
+    "duration": 3.72
+  },
+  {
+    "text": "copying what other people do. One One of",
+    "start": 1118.04,
+    "duration": 4.639
+  },
+  {
+    "text": "the parts that stuck out to me was the",
+    "start": 1120.24,
+    "duration": 5.96
+  },
+  {
+    "text": "uh just watching videos and estimating",
+    "start": 1122.679,
+    "duration": 6.081
+  },
+  {
+    "text": "is it was this a viral video or not",
+    "start": 1126.2,
+    "duration": 4.92
+  },
+  {
+    "text": "without seeing the view count. Um is",
+    "start": 1128.76,
+    "duration": 4.72
+  },
+  {
+    "text": "that something where you actually just",
+    "start": 1131.12,
+    "duration": 4.68
+  },
+  {
+    "text": "give people a few videos each day and",
+    "start": 1133.48,
+    "duration": 4.439
+  },
+  {
+    "text": "then just quiz them until they like get",
+    "start": 1135.8,
+    "duration": 4.08
+  },
+  {
+    "text": "better at it or are you just having them",
+    "start": 1137.919,
+    "duration": 4.041
+  },
+  {
+    "text": "dive right into making the videos and",
+    "start": 1139.88,
+    "duration": 3.68
+  },
+  {
+    "text": "then kind of like quizzing them on the",
+    "start": 1141.96,
+    "duration": 3.8
+  },
+  {
+    "text": "side? Is there like sort of a curriculum",
+    "start": 1143.56,
+    "duration": 3.96
+  },
+  {
+    "text": "that you put people through? That's a",
+    "start": 1145.76,
+    "duration": 3.84
+  },
+  {
+    "text": "good idea. Maybe we should do that. We",
+    "start": 1147.52,
+    "duration": 3.8
+  },
+  {
+    "text": "could use some Quizlet flashcards maybe",
+    "start": 1149.6,
+    "duration": 3.52
+  },
+  {
+    "text": "to do something like that. So, no, we",
+    "start": 1151.32,
+    "duration": 3.52
+  },
+  {
+    "text": "don't. We don't quiz anyone. We",
+    "start": 1153.12,
+    "duration": 4.12
+  },
+  {
+    "text": "interview every person. At this point, I",
+    "start": 1154.84,
+    "duration": 4.2
+  },
+  {
+    "text": "interview every person, every creator",
+    "start": 1157.24,
+    "duration": 3.96
+  },
+  {
+    "text": "that we work with, which is nice and",
+    "start": 1159.04,
+    "duration": 3.84
+  },
+  {
+    "text": "very fulfilling. You know, usually that",
+    "start": 1161.2,
+    "duration": 4.44
+  },
+  {
+    "text": "decision's made within 15 or 30 minutes",
+    "start": 1162.88,
+    "duration": 4.56
+  },
+  {
+    "text": "whether or not we're going to work with",
+    "start": 1165.64,
+    "duration": 3.56
+  },
+  {
+    "text": "each other. And then we have content",
+    "start": 1167.44,
+    "duration": 3.44
+  },
+  {
+    "text": "coaches. So, we have a great team of",
+    "start": 1169.2,
+    "duration": 3.56
+  },
+  {
+    "text": "content coaches that work more closely",
+    "start": 1170.88,
+    "duration": 4.08
+  },
+  {
+    "text": "with the creators themselves. Yeah, what",
+    "start": 1172.76,
+    "duration": 4.6
+  },
+  {
+    "text": "was the ratio of of coaches to creators?",
+    "start": 1174.96,
+    "duration": 4.88
+  },
+  {
+    "text": "Right now, it's 1 to 12. One coach for",
+    "start": 1177.36,
+    "duration": 4.76
+  },
+  {
+    "text": "every 12 creators, yeah. Okay. And",
+    "start": 1179.84,
+    "duration": 4.56
+  },
+  {
+    "text": "they're just like reviewing the content",
+    "start": 1182.12,
+    "duration": 4.799
+  },
+  {
+    "text": "and like teaching them things. Like is",
+    "start": 1184.4,
+    "duration": 4.36
+  },
+  {
+    "text": "there a I don't know, like a curriculum",
+    "start": 1186.919,
+    "duration": 3.121
+  },
+  {
+    "text": "that they're teaching or are they just",
+    "start": 1188.76,
+    "duration": 3.12
+  },
+  {
+    "text": "kind of like reviewing, giving them",
+    "start": 1190.04,
+    "duration": 4.12
+  },
+  {
+    "text": "feedback? More so the latter. Yeah, I",
+    "start": 1191.88,
+    "duration": 4.84
+  },
+  {
+    "text": "can't give away all the all the internal",
+    "start": 1194.16,
+    "duration": 4.12
+  },
+  {
+    "text": "secrets, but yeah, they're they're",
+    "start": 1196.72,
+    "duration": 3.36
+  },
+  {
+    "text": "they're generally coaching them, walking",
+    "start": 1198.28,
+    "duration": 3.52
+  },
+  {
+    "text": "them through metrics. Yeah, I mean,",
+    "start": 1200.08,
+    "duration": 3
+  },
+  {
+    "text": "something you asked about earlier is",
+    "start": 1201.8,
+    "duration": 4
+  },
+  {
+    "text": "like how an individual person is",
+    "start": 1203.08,
+    "duration": 4.88
+  },
+  {
+    "text": "successful as a creator inside Coconut",
+    "start": 1205.8,
+    "duration": 3.88
+  },
+  {
+    "text": "and really is everyone is working as a",
+    "start": 1207.96,
+    "duration": 3.52
+  },
+  {
+    "text": "team and different creators have",
+    "start": 1209.68,
+    "duration": 4.08
+  },
+  {
+    "text": "different strengths. And so maybe one",
+    "start": 1211.48,
+    "duration": 5.44
+  },
+  {
+    "text": "person is filming and yeah, is okay with",
+    "start": 1213.76,
+    "duration": 5.12
+  },
+  {
+    "text": "their face being in content. Another",
+    "start": 1216.92,
+    "duration": 3.96
+  },
+  {
+    "text": "creator wants to doesn't show their face",
+    "start": 1218.88,
+    "duration": 2.88
+  },
+  {
+    "text": "and they're but they're really great at",
+    "start": 1220.88,
+    "duration": 3.08
+  },
+  {
+    "text": "editing. Creators are all in Slack with",
+    "start": 1221.76,
+    "duration": 3.84
+  },
+  {
+    "text": "the engineers and the product team as",
+    "start": 1223.96,
+    "duration": 4.24
+  },
+  {
+    "text": "well providing product feedback and",
+    "start": 1225.6,
+    "duration": 4.36
+  },
+  {
+    "text": "asking for those hidden screens and",
+    "start": 1228.2,
+    "duration": 3.16
+  },
+  {
+    "text": "things like that. So, let me show you",
+    "start": 1229.96,
+    "duration": 3.44
+  },
+  {
+    "text": "this. A lot of app founders I talk to",
+    "start": 1231.36,
+    "duration": 4
+  },
+  {
+    "text": "have a feeling their app has viral",
+    "start": 1233.4,
+    "duration": 3.56
+  },
+  {
+    "text": "potential, but don't want to be the",
+    "start": 1235.36,
+    "duration": 3.6
+  },
+  {
+    "text": "person brain rot scrolling an hour a day",
+    "start": 1236.96,
+    "duration": 4.24
+  },
+  {
+    "text": "hunting for formats or worse burning",
+    "start": 1238.96,
+    "duration": 4
+  },
+  {
+    "text": "thousands on creators shooting videos",
+    "start": 1241.2,
+    "duration": 3.28
+  },
+  {
+    "text": "that just flop. Recently, I've been",
+    "start": 1242.96,
+    "duration": 3.4
+  },
+  {
+    "text": "telling every founder I meet about",
+    "start": 1244.48,
+    "duration": 4.44
+  },
+  {
+    "text": "Spytalk. It's basically an AI TikTok",
+    "start": 1246.36,
+    "duration": 4.04
+  },
+  {
+    "text": "viral marketer that I've seen a lot of",
+    "start": 1248.92,
+    "duration": 3.32
+  },
+  {
+    "text": "top app growth teams using. You just",
+    "start": 1250.4,
+    "duration": 3.84
+  },
+  {
+    "text": "paste a link to your app and this agent",
+    "start": 1252.24,
+    "duration": 3.84
+  },
+  {
+    "text": "scrolls hundreds of thousands of TikToks",
+    "start": 1254.24,
+    "duration": 3.84
+  },
+  {
+    "text": "for you, finds the outlier videos from",
+    "start": 1256.08,
+    "duration": 3.64
+  },
+  {
+    "text": "competitors who've already cracked the",
+    "start": 1258.08,
+    "duration": 3.32
+  },
+  {
+    "text": "best formats that are driving installs",
+    "start": 1259.72,
+    "duration": 3.16
+  },
+  {
+    "text": "in the niche of your app, and then it",
+    "start": 1261.4,
+    "duration": 3.32
+  },
+  {
+    "text": "remixes the hooks, the angles, and then",
+    "start": 1262.88,
+    "duration": 3.2
+  },
+  {
+    "text": "it makes playbooks so you can pretty",
+    "start": 1264.72,
+    "duration": 3.48
+  },
+  {
+    "text": "much copy-paste virality. And then it",
+    "start": 1266.08,
+    "duration": 4.16
+  },
+  {
+    "text": "alerts you when it detects new breakout",
+    "start": 1268.2,
+    "duration": 3.28
+  },
+  {
+    "text": "formats that would also work for your",
+    "start": 1270.24,
+    "duration": 3.56
+  },
+  {
+    "text": "app. This is the only growth tool I 100%",
+    "start": 1271.48,
+    "duration": 3.96
+  },
+  {
+    "text": "vouch for on this channel because",
+    "start": 1273.8,
+    "duration": 3.72
+  },
+  {
+    "text": "there's a ton of gen AI content tools",
+    "start": 1275.44,
+    "duration": 3.4
+  },
+  {
+    "text": "out there, but none of them tell you",
+    "start": 1277.52,
+    "duration": 3.32
+  },
+  {
+    "text": "what to make. Spytalk makes sure you're",
+    "start": 1278.84,
+    "duration": 3.68
+  },
+  {
+    "text": "never in the dark about what's actually",
+    "start": 1280.84,
+    "duration": 3.32
+  },
+  {
+    "text": "working now. I'll put the link in the",
+    "start": 1282.52,
+    "duration": 3.56
+  },
+  {
+    "text": "description. When you guys were first",
+    "start": 1284.16,
+    "duration": 3.92
+  },
+  {
+    "text": "thinking of the idea",
+    "start": 1286.08,
+    "duration": 3.6
+  },
+  {
+    "text": "for Cocoa,",
+    "start": 1288.08,
+    "duration": 3.64
+  },
+  {
+    "text": "um were you",
+    "start": 1289.68,
+    "duration": 3.88
+  },
+  {
+    "text": "aware of the",
+    "start": 1291.72,
+    "duration": 3.32
+  },
+  {
+    "text": "competitive landscape and were you",
+    "start": 1293.56,
+    "duration": 3.68
+  },
+  {
+    "text": "thinking about this in terms of hey,",
+    "start": 1295.04,
+    "duration": 5.4
+  },
+  {
+    "text": "let's just ride this trend of AI study",
+    "start": 1297.24,
+    "duration": 6.16
+  },
+  {
+    "text": "tools or did you have this kind of like",
+    "start": 1300.44,
+    "duration": 4.76
+  },
+  {
+    "text": "principled approach from day one? Yeah,",
+    "start": 1303.4,
+    "duration": 3.64
+  },
+  {
+    "text": "it's a good question. The short answer",
+    "start": 1305.2,
+    "duration": 4.56
+  },
+  {
+    "text": "is there really weren't many if if any",
+    "start": 1307.04,
+    "duration": 4.36
+  },
+  {
+    "text": "like uh",
+    "start": 1309.76,
+    "duration": 3.84
+  },
+  {
+    "text": "you know, competing AI study tool apps",
+    "start": 1311.4,
+    "duration": 4.44
+  },
+  {
+    "text": "on the App Store. When we",
+    "start": 1313.6,
+    "duration": 4.8
+  },
+  {
+    "text": "uh when we launched, you know, it's a",
+    "start": 1315.84,
+    "duration": 4.88
+  },
+  {
+    "text": "there are a mix of things that kind of",
+    "start": 1318.4,
+    "duration": 5.36
+  },
+  {
+    "text": "inspired us, but the quote-unquote AI",
+    "start": 1320.72,
+    "duration": 4.72
+  },
+  {
+    "text": "note takers that were getting traction",
+    "start": 1323.76,
+    "duration": 3.2
+  },
+  {
+    "text": "on the App Store as far as we could tell",
+    "start": 1325.44,
+    "duration": 3.84
+  },
+  {
+    "text": "were really more towards professionals.",
+    "start": 1326.96,
+    "duration": 4.719
+  },
+  {
+    "text": "Um so, Wave is one that I admired early",
+    "start": 1329.28,
+    "duration": 5
+  },
+  {
+    "text": "on um when kind of ideating Cocoa Note.",
+    "start": 1331.679,
+    "duration": 4.641
+  },
+  {
+    "text": "It was a very much a mix of things. Uh",
+    "start": 1334.28,
+    "duration": 3.64
+  },
+  {
+    "text": "Joseph, if you'd like, I'm happy to like",
+    "start": 1336.32,
+    "duration": 3.76
+  },
+  {
+    "text": "walk through the those mix of things and",
+    "start": 1337.92,
+    "duration": 4.16
+  },
+  {
+    "text": "see if it resonates. Yeah, yeah. I yeah,",
+    "start": 1340.08,
+    "duration": 4.04
+  },
+  {
+    "text": "I'm curious to know that about those.",
+    "start": 1342.08,
+    "duration": 5.08
+  },
+  {
+    "text": "So, in 2000, right after I had left",
+    "start": 1344.12,
+    "duration": 5.76
+  },
+  {
+    "text": "Loom, I started a company called Scout.",
+    "start": 1347.16,
+    "duration": 5.12
+  },
+  {
+    "text": "Very different approach than Cocoa Note.",
+    "start": 1349.88,
+    "duration": 4.56
+  },
+  {
+    "text": "Um we raised venture. I was a solo",
+    "start": 1352.28,
+    "duration": 3.399
+  },
+  {
+    "text": "founder.",
+    "start": 1354.44,
+    "duration": 2.32
+  },
+  {
+    "text": "Um so,",
+    "start": 1355.679,
+    "duration": 2.881
+  },
+  {
+    "text": "you know, plenty of differences there.",
+    "start": 1356.76,
+    "duration": 3.919
+  },
+  {
+    "text": "No pressure to monetize, which is one of",
+    "start": 1358.56,
+    "duration": 4.44
+  },
+  {
+    "text": "the biggest differences between, you",
+    "start": 1360.679,
+    "duration": 5.321
+  },
+  {
+    "text": "know, raising uh venture versus not.",
+    "start": 1363,
+    "duration": 5.32
+  },
+  {
+    "text": "And so, I started Scout.",
+    "start": 1366,
+    "duration": 4.8
+  },
+  {
+    "text": "Crew was one of our uh products. It was",
+    "start": 1368.32,
+    "duration": 4.96
+  },
+  {
+    "text": "a a way to listen to music and connect",
+    "start": 1370.8,
+    "duration": 4.8
+  },
+  {
+    "text": "with other fans. Um",
+    "start": 1373.28,
+    "duration": 5.399
+  },
+  {
+    "text": "and we were one of the first",
+    "start": 1375.6,
+    "duration": 5.88
+  },
+  {
+    "text": "apps period to do quote-unquote UGC",
+    "start": 1378.679,
+    "duration": 5.441
+  },
+  {
+    "text": "style. So, I've linked to some of the",
+    "start": 1381.48,
+    "duration": 5.16
+  },
+  {
+    "text": "content that we did uh with Crew, but we",
+    "start": 1384.12,
+    "duration": 5.08
+  },
+  {
+    "text": "were going viral on TikTok and Instagram",
+    "start": 1386.64,
+    "duration": 4.72
+  },
+  {
+    "text": "Reels uh to drive, you know, hundreds of",
+    "start": 1389.2,
+    "duration": 4.96
+  },
+  {
+    "text": "thousands of sign-ups uh with with uh",
+    "start": 1391.36,
+    "duration": 4.92
+  },
+  {
+    "text": "Scout as a product studio and Crew as",
+    "start": 1394.16,
+    "duration": 3.64
+  },
+  {
+    "text": "one of our products. There are a couple",
+    "start": 1396.28,
+    "duration": 2.88
+  },
+  {
+    "text": "of things that stand out about this.",
+    "start": 1397.8,
+    "duration": 3.36
+  },
+  {
+    "text": "One, I learned if you build it, they",
+    "start": 1399.16,
+    "duration": 4.44
+  },
+  {
+    "text": "will not come. That is one of my biggest",
+    "start": 1401.16,
+    "duration": 4.72
+  },
+  {
+    "text": "takeaways. My background was in product",
+    "start": 1403.6,
+    "duration": 4.84
+  },
+  {
+    "text": "and design. I always assumed if you",
+    "start": 1405.88,
+    "duration": 4.56
+  },
+  {
+    "text": "build a great product, the users and the",
+    "start": 1408.44,
+    "duration": 4.36
+  },
+  {
+    "text": "customers will find you. And I realized",
+    "start": 1410.44,
+    "duration": 4
+  },
+  {
+    "text": "as a founder, that is very much not the",
+    "start": 1412.8,
+    "duration": 4.48
+  },
+  {
+    "text": "case. Another thing is that uh I had",
+    "start": 1414.44,
+    "duration": 4.6
+  },
+  {
+    "text": "worked on this Chrome extension that",
+    "start": 1417.28,
+    "duration": 5.08
+  },
+  {
+    "text": "would let you summarize any blog post or",
+    "start": 1419.04,
+    "duration": 5.52
+  },
+  {
+    "text": "YouTube video that you were on.",
+    "start": 1422.36,
+    "duration": 4.56
+  },
+  {
+    "text": "At that time, it was called Essence and",
+    "start": 1424.56,
+    "duration": 4.84
+  },
+  {
+    "text": "it was built on top of GPT-3, so it was",
+    "start": 1426.92,
+    "duration": 4.24
+  },
+  {
+    "text": "a little bit early in the product life",
+    "start": 1429.4,
+    "duration": 3
+  },
+  {
+    "text": "cycle.",
+    "start": 1431.16,
+    "duration": 4.92
+  },
+  {
+    "text": "And this was, I believe, in 2000 2022.",
+    "start": 1432.4,
+    "duration": 6.12
+  },
+  {
+    "text": "And so, it came from a personal problem",
+    "start": 1436.08,
+    "duration": 4
+  },
+  {
+    "text": "of I don't want to read a, you know,",
+    "start": 1438.52,
+    "duration": 3.84
+  },
+  {
+    "text": "spend 10 minutes reading a blog post",
+    "start": 1440.08,
+    "duration": 4.36
+  },
+  {
+    "text": "when I can just get the summary. So, I",
+    "start": 1442.36,
+    "duration": 4.04
+  },
+  {
+    "text": "was already thinking about notes and",
+    "start": 1444.44,
+    "duration": 4.44
+  },
+  {
+    "text": "ways to summarize long-form information.",
+    "start": 1446.4,
+    "duration": 4.92
+  },
+  {
+    "text": "And then the the last thing is Brett and",
+    "start": 1448.88,
+    "duration": 6.28
+  },
+  {
+    "text": "I were building a way to uh replace Siri",
+    "start": 1451.32,
+    "duration": 5.8
+  },
+  {
+    "text": "with GPT-4.",
+    "start": 1455.16,
+    "duration": 4.2
+  },
+  {
+    "text": "And it was a very rough demo. Brett",
+    "start": 1457.12,
+    "duration": 4.76
+  },
+  {
+    "text": "knows how excited I was about it. We had",
+    "start": 1459.36,
+    "duration": 4.88
+  },
+  {
+    "text": "some trouble uh getting this approved by",
+    "start": 1461.88,
+    "duration": 5
+  },
+  {
+    "text": "Apple, but we actually made use of a uh",
+    "start": 1464.24,
+    "duration": 4.48
+  },
+  {
+    "text": "an accessibility setting where you can",
+    "start": 1466.88,
+    "duration": 3.6
+  },
+  {
+    "text": "still, to this day, double-tap the back",
+    "start": 1468.72,
+    "duration": 3.16
+  },
+  {
+    "text": "of your phone and and trigger a",
+    "start": 1470.48,
+    "duration": 3.36
+  },
+  {
+    "text": "shortcut. And that was a, you know, very",
+    "start": 1471.88,
+    "duration": 4.04
+  },
+  {
+    "text": "simple product uh that ended up not",
+    "start": 1473.84,
+    "duration": 4.16
+  },
+  {
+    "text": "really going anywhere. But this was",
+    "start": 1475.92,
+    "duration": 4.2
+  },
+  {
+    "text": "interesting because you could use voice",
+    "start": 1478,
+    "duration": 4.8
+  },
+  {
+    "text": "as the the method of input. And so, you",
+    "start": 1480.12,
+    "duration": 4.28
+  },
+  {
+    "text": "mix all of those things, kind of put",
+    "start": 1482.8,
+    "duration": 4
+  },
+  {
+    "text": "them in a blender, and out came Cocoa",
+    "start": 1484.4,
+    "duration": 4
+  },
+  {
+    "text": "Note. And thankfully, like we said, we",
+    "start": 1486.8,
+    "duration": 4.12
+  },
+  {
+    "text": "got traction from the early from very",
+    "start": 1488.4,
+    "duration": 4.08
+  },
+  {
+    "text": "early on, and that gave us a lot of",
+    "start": 1490.92,
+    "duration": 3.72
+  },
+  {
+    "text": "oxygen and momentum to keep building.",
+    "start": 1492.48,
+    "duration": 4.24
+  },
+  {
+    "text": "Wow. Okay. Yeah, I I can see where it",
+    "start": 1494.64,
+    "duration": 4.36
+  },
+  {
+    "text": "all comes together. It's like Crew is",
+    "start": 1496.72,
+    "duration": 5.92
+  },
+  {
+    "text": "like the viral UGC, the Chrome extension",
+    "start": 1499,
+    "duration": 6.72
+  },
+  {
+    "text": "was like using AI to summarize things,",
+    "start": 1502.64,
+    "duration": 5.32
+  },
+  {
+    "text": "and then this is like, you know, putting",
+    "start": 1505.72,
+    "duration": 5.28
+  },
+  {
+    "text": "that on mobile and creating a a cool",
+    "start": 1507.96,
+    "duration": 5.6
+  },
+  {
+    "text": "like mobile experience.",
+    "start": 1511,
+    "duration": 4.12
+  },
+  {
+    "text": "Um",
+    "start": 1513.56,
+    "duration": 3.56
+  },
+  {
+    "text": "yeah. Okay, that makes sense. So, then",
+    "start": 1515.12,
+    "duration": 3.559
+  },
+  {
+    "text": "when you're building",
+    "start": 1517.12,
+    "duration": 2.2
+  },
+  {
+    "text": "um",
+    "start": 1518.679,
+    "duration": 3.761
+  },
+  {
+    "text": "Coco, what was the um",
+    "start": 1519.32,
+    "duration": 6.96
+  },
+  {
+    "text": "I guess, did it start from",
+    "start": 1522.44,
+    "duration": 6.36
+  },
+  {
+    "text": "like thinking, oh, we could make this go",
+    "start": 1526.28,
+    "duration": 5.52
+  },
+  {
+    "text": "viral on TikTok, or was it",
+    "start": 1528.8,
+    "duration": 4.28
+  },
+  {
+    "text": "more like",
+    "start": 1531.8,
+    "duration": 2.96
+  },
+  {
+    "text": "oh, this is a grand idea for a product,",
+    "start": 1533.08,
+    "duration": 4.4
+  },
+  {
+    "text": "or a little bit of both? I think it's",
+    "start": 1534.76,
+    "duration": 5.36
+  },
+  {
+    "text": "very wise to think of how you're going",
+    "start": 1537.48,
+    "duration": 4.6
+  },
+  {
+    "text": "to grow and where your",
+    "start": 1540.12,
+    "duration": 3.52
+  },
+  {
+    "text": "your users and where your customers hang",
+    "start": 1542.08,
+    "duration": 3.64
+  },
+  {
+    "text": "out online. And so, it was very natural",
+    "start": 1543.64,
+    "duration": 4.44
+  },
+  {
+    "text": "to do short-form video content. So, that",
+    "start": 1545.72,
+    "duration": 4.72
+  },
+  {
+    "text": "that was um that was a a major",
+    "start": 1548.08,
+    "duration": 4.24
+  },
+  {
+    "text": "assumption that you know, thankfully, we",
+    "start": 1550.44,
+    "duration": 3.88
+  },
+  {
+    "text": "were right on, but I was extremely",
+    "start": 1552.32,
+    "duration": 3.64
+  },
+  {
+    "text": "confident that that was the best way to",
+    "start": 1554.32,
+    "duration": 3.84
+  },
+  {
+    "text": "frame it. For us, um one of the things",
+    "start": 1555.96,
+    "duration": 3.92
+  },
+  {
+    "text": "that I was confident in is that what we",
+    "start": 1558.16,
+    "duration": 3.12
+  },
+  {
+    "text": "were building could help people with",
+    "start": 1559.88,
+    "duration": 3.92
+  },
+  {
+    "text": "ADHD. And so, we leaned into that from",
+    "start": 1561.28,
+    "duration": 4.96
+  },
+  {
+    "text": "the start. Yeah, ADHD is a big I I don't",
+    "start": 1563.8,
+    "duration": 4.4
+  },
+  {
+    "text": "know if if trend is the right word, but",
+    "start": 1566.24,
+    "duration": 3.6
+  },
+  {
+    "text": "it's definitely like on the rise. People",
+    "start": 1568.2,
+    "duration": 2.8
+  },
+  {
+    "text": "are either",
+    "start": 1569.84,
+    "duration": 3.28
+  },
+  {
+    "text": "getting ADHD more or realizing they have",
+    "start": 1571,
+    "duration": 5.24
+  },
+  {
+    "text": "it or just have symptoms of it. Um I",
+    "start": 1573.12,
+    "duration": 4.52
+  },
+  {
+    "text": "noticed that on your first app",
+    "start": 1576.24,
+    "duration": 3.64
+  },
+  {
+    "text": "screenshot in the App Store, you say",
+    "start": 1577.64,
+    "duration": 3.92
+  },
+  {
+    "text": "great for ADHD.",
+    "start": 1579.88,
+    "duration": 3.44
+  },
+  {
+    "text": "Is this like a continuity thing where",
+    "start": 1581.56,
+    "duration": 4.36
+  },
+  {
+    "text": "you're seeing where you're talking about",
+    "start": 1583.32,
+    "duration": 4.76
+  },
+  {
+    "text": "ADHD in your content, and then when",
+    "start": 1585.92,
+    "duration": 4.2
+  },
+  {
+    "text": "people hit the page, they see, you know,",
+    "start": 1588.08,
+    "duration": 4.24
+  },
+  {
+    "text": "that congruent messaging? Yeah, it's",
+    "start": 1590.12,
+    "duration": 4.84
+  },
+  {
+    "text": "also a lot of saying back to users what",
+    "start": 1592.32,
+    "duration": 4.8
+  },
+  {
+    "text": "they've told us. Um you know, some like",
+    "start": 1594.96,
+    "duration": 4.4
+  },
+  {
+    "text": "never miss a key detail is",
+    "start": 1597.12,
+    "duration": 3
+  },
+  {
+    "text": "uh",
+    "start": 1599.36,
+    "duration": 2.84
+  },
+  {
+    "text": "things that users have told us either in",
+    "start": 1600.12,
+    "duration": 4.24
+  },
+  {
+    "text": "App Store reviews or when talking to",
+    "start": 1602.2,
+    "duration": 5.32
+  },
+  {
+    "text": "them. The ADHD thing as well is like",
+    "start": 1604.36,
+    "duration": 4.68
+  },
+  {
+    "text": "they tell us they have ADHD and that",
+    "start": 1607.52,
+    "duration": 3.44
+  },
+  {
+    "text": "it's so helpful to them. Okay, so we",
+    "start": 1609.04,
+    "duration": 3.88
+  },
+  {
+    "text": "went back to the origin story, but uh we",
+    "start": 1610.96,
+    "duration": 3.4
+  },
+  {
+    "text": "were talking about product. You have",
+    "start": 1612.92,
+    "duration": 3.56
+  },
+  {
+    "text": "this principle of like build for, you",
+    "start": 1614.36,
+    "duration": 4.28
+  },
+  {
+    "text": "know, building Navy SEALs, not the whole",
+    "start": 1616.48,
+    "duration": 4.24
+  },
+  {
+    "text": "Navy. Um and it seems like you apply",
+    "start": 1618.64,
+    "duration": 3.76
+  },
+  {
+    "text": "that to the marketing side and the",
+    "start": 1620.72,
+    "duration": 3.68
+  },
+  {
+    "text": "engineering side. Four engineers is like",
+    "start": 1622.4,
+    "duration": 4.32
+  },
+  {
+    "text": "pretty a pretty small um",
+    "start": 1624.4,
+    "duration": 4.6
+  },
+  {
+    "text": "team. How do you how do you accomplish",
+    "start": 1626.72,
+    "duration": 4.84
+  },
+  {
+    "text": "building a great product with with a",
+    "start": 1629,
+    "duration": 5.08
+  },
+  {
+    "text": "small team? So, I can I have been doing",
+    "start": 1631.56,
+    "duration": 6.08
+  },
+  {
+    "text": "this for a while, and with AI being",
+    "start": 1634.08,
+    "duration": 6.08
+  },
+  {
+    "text": "added onto it, uh",
+    "start": 1637.64,
+    "duration": 4.16
+  },
+  {
+    "text": "we're able to get a lot done. We have a",
+    "start": 1640.16,
+    "duration": 4.96
+  },
+  {
+    "text": "great team of engineers. Um",
+    "start": 1641.8,
+    "duration": 5.68
+  },
+  {
+    "text": "and something that I",
+    "start": 1645.12,
+    "duration": 3.8
+  },
+  {
+    "text": "always look for in hiring them is being",
+    "start": 1647.48,
+    "duration": 3.68
+  },
+  {
+    "text": "able to flex uh",
+    "start": 1648.92,
+    "duration": 3.8
+  },
+  {
+    "text": "across",
+    "start": 1651.16,
+    "duration": 3.76
+  },
+  {
+    "text": "more than just their one",
+    "start": 1652.72,
+    "duration": 5.16
+  },
+  {
+    "text": "uh like strength of ownership. So, like",
+    "start": 1654.92,
+    "duration": 4.6
+  },
+  {
+    "text": "what I mean by that is an iOS engineer",
+    "start": 1657.88,
+    "duration": 2.96
+  },
+  {
+    "text": "needs to also be able to do some",
+    "start": 1659.52,
+    "duration": 4.76
+  },
+  {
+    "text": "back-end work. Um or the web engineer",
+    "start": 1660.84,
+    "duration": 4.68
+  },
+  {
+    "text": "needs also be able to do some back-end",
+    "start": 1664.28,
+    "duration": 3.6
+  },
+  {
+    "text": "work or maybe someone does iOS and",
+    "start": 1665.52,
+    "duration": 6.28
+  },
+  {
+    "text": "Android. We have all native apps and",
+    "start": 1667.88,
+    "duration": 6.52
+  },
+  {
+    "text": "don't do any cross-platform stuff, but",
+    "start": 1671.8,
+    "duration": 3.96
+  },
+  {
+    "text": "um",
+    "start": 1674.4,
+    "duration": 3
+  },
+  {
+    "text": "that's been important for us to be able",
+    "start": 1675.76,
+    "duration": 3.72
+  },
+  {
+    "text": "to get a lot done with a small team.",
+    "start": 1677.4,
+    "duration": 3.68
+  },
+  {
+    "text": "That was really helpful. I think like",
+    "start": 1679.48,
+    "duration": 4.28
+  },
+  {
+    "text": "seeing the inner workings of the",
+    "start": 1681.08,
+    "duration": 4.44
+  },
+  {
+    "text": "marketing team,",
+    "start": 1683.76,
+    "duration": 2.56
+  },
+  {
+    "text": "um",
+    "start": 1685.52,
+    "duration": 3.88
+  },
+  {
+    "text": "it seems like that is like a pretty huge",
+    "start": 1686.32,
+    "duration": 7.56
+  },
+  {
+    "text": "pillar of your success. Um and then on",
+    "start": 1689.4,
+    "duration": 6.32
+  },
+  {
+    "text": "the other side, like, okay, so you you",
+    "start": 1693.88,
+    "duration": 3.6
+  },
+  {
+    "text": "get all this attention, you get a bunch",
+    "start": 1695.72,
+    "duration": 4.2
+  },
+  {
+    "text": "of um people into the product. How do",
+    "start": 1697.48,
+    "duration": 4.12
+  },
+  {
+    "text": "you actually",
+    "start": 1699.92,
+    "duration": 3.999
+  },
+  {
+    "text": "make money? So, I'm",
+    "start": 1701.6,
+    "duration": 4.2
+  },
+  {
+    "text": "you guys mentioned that you made your",
+    "start": 1703.919,
+    "duration": 4.76
+  },
+  {
+    "text": "onboarding longer and that really",
+    "start": 1705.8,
+    "duration": 6.16
+  },
+  {
+    "text": "affected conversion rates. Um can we",
+    "start": 1708.679,
+    "duration": 5.041
+  },
+  {
+    "text": "talk a little about about that and what",
+    "start": 1711.96,
+    "duration": 2.32
+  },
+  {
+    "text": "changed?",
+    "start": 1713.72,
+    "duration": 1.959
+  },
+  {
+    "text": ">> Definitely, yeah. I think this is",
+    "start": 1714.28,
+    "duration": 4.28
+  },
+  {
+    "text": "becoming kind of a like meta or like is",
+    "start": 1715.679,
+    "duration": 5.24
+  },
+  {
+    "text": "a meta at this point within consumer",
+    "start": 1718.56,
+    "duration": 5.359
+  },
+  {
+    "text": "apps where um",
+    "start": 1720.919,
+    "duration": 5
+  },
+  {
+    "text": "you have",
+    "start": 1723.919,
+    "duration": 3.961
+  },
+  {
+    "text": "people are getting kind of crazy with",
+    "start": 1725.919,
+    "duration": 4.321
+  },
+  {
+    "text": "like counting their screens and trying",
+    "start": 1727.88,
+    "duration": 3.44
+  },
+  {
+    "text": "to make their onboarding as long as",
+    "start": 1730.24,
+    "duration": 3.6
+  },
+  {
+    "text": "possible. Um",
+    "start": 1731.32,
+    "duration": 4.44
+  },
+  {
+    "text": "and then ending in a paywall or even",
+    "start": 1733.84,
+    "duration": 4.2
+  },
+  {
+    "text": "multiple paywalls throughout onboarding.",
+    "start": 1735.76,
+    "duration": 3.72
+  },
+  {
+    "text": "Um",
+    "start": 1738.04,
+    "duration": 3.28
+  },
+  {
+    "text": "but it does it does work for certain",
+    "start": 1739.48,
+    "duration": 5.16
+  },
+  {
+    "text": "types of apps, and we had one approach",
+    "start": 1741.32,
+    "duration": 5.2
+  },
+  {
+    "text": "that we started with where we were very",
+    "start": 1744.64,
+    "duration": 4.8
+  },
+  {
+    "text": "iteratively experimenting in onboarding",
+    "start": 1746.52,
+    "duration": 5.76
+  },
+  {
+    "text": "like one or two screens at a time,",
+    "start": 1749.44,
+    "duration": 4.28
+  },
+  {
+    "text": "testing the uplift, moving things",
+    "start": 1752.28,
+    "duration": 3.639
+  },
+  {
+    "text": "around. Um",
+    "start": 1753.72,
+    "duration": 4.04
+  },
+  {
+    "text": "and it just felt",
+    "start": 1755.919,
+    "duration": 2.681
+  },
+  {
+    "text": "it felt like you would get a lot of",
+    "start": 1757.76,
+    "duration": 2.8
+  },
+  {
+    "text": "small wins, but difficult to make big",
+    "start": 1758.6,
+    "duration": 3.079
+  },
+  {
+    "text": "progress.",
+    "start": 1760.56,
+    "duration": 3.48
+  },
+  {
+    "text": "Uh so, we then just",
+    "start": 1761.679,
+    "duration": 4.48
+  },
+  {
+    "text": "kind of made a big jump where you don't",
+    "start": 1764.04,
+    "duration": 4.52
+  },
+  {
+    "text": "know exactly why uh",
+    "start": 1766.159,
+    "duration": 4.641
+  },
+  {
+    "text": "which particular screens are most",
+    "start": 1768.56,
+    "duration": 3.92
+  },
+  {
+    "text": "helpful, but we",
+    "start": 1770.8,
+    "duration": 2.84
+  },
+  {
+    "text": "at least doubled the length of our",
+    "start": 1772.48,
+    "duration": 3.24
+  },
+  {
+    "text": "onboarding to",
+    "start": 1773.64,
+    "duration": 6.12
+  },
+  {
+    "text": "I think like 13 screens, and that really",
+    "start": 1775.72,
+    "duration": 5.959
+  },
+  {
+    "text": "really helped with our initial trial",
+    "start": 1779.76,
+    "duration": 5.399
+  },
+  {
+    "text": "conversion. Um I think it went up 16%",
+    "start": 1781.679,
+    "duration": 5.121
+  },
+  {
+    "text": "and",
+    "start": 1785.159,
+    "duration": 3.881
+  },
+  {
+    "text": "which was pretty huge for us. And that",
+    "start": 1786.8,
+    "duration": 4.64
+  },
+  {
+    "text": "was just from increasing the onboarding.",
+    "start": 1789.04,
+    "duration": 5.04
+  },
+  {
+    "text": "How many screens did you did you add?",
+    "start": 1791.44,
+    "duration": 4.56
+  },
+  {
+    "text": "And what And like what How did you How",
+    "start": 1794.08,
+    "duration": 3.56
+  },
+  {
+    "text": "did you actually change the onboarding?",
+    "start": 1796,
+    "duration": 5.12
+  },
+  {
+    "text": "Yeah, I think we went from like five to",
+    "start": 1797.64,
+    "duration": 6.88
+  },
+  {
+    "text": "to double or more screens and",
+    "start": 1801.12,
+    "duration": 6.92
+  },
+  {
+    "text": "some of them are your standard",
+    "start": 1804.52,
+    "duration": 5.2
+  },
+  {
+    "text": "you know you got to log in got to create",
+    "start": 1808.04,
+    "duration": 3.48
+  },
+  {
+    "text": "an account",
+    "start": 1809.72,
+    "duration": 3.64
+  },
+  {
+    "text": "some permissions for things like push",
+    "start": 1811.52,
+    "duration": 3.28
+  },
+  {
+    "text": "notifications.",
+    "start": 1813.36,
+    "duration": 3.96
+  },
+  {
+    "text": "But a lot of it is making the app feel",
+    "start": 1814.8,
+    "duration": 5.04
+  },
+  {
+    "text": "more personalized for the user going",
+    "start": 1817.32,
+    "duration": 4
+  },
+  {
+    "text": "through it",
+    "start": 1819.84,
+    "duration": 4.16
+  },
+  {
+    "text": "understanding what they're studying",
+    "start": 1821.32,
+    "duration": 7.24
+  },
+  {
+    "text": "and also moving login to the last screen",
+    "start": 1824,
+    "duration": 6.72
+  },
+  {
+    "text": "after the paywall was significant for",
+    "start": 1828.56,
+    "duration": 3.44
+  },
+  {
+    "text": "us.",
+    "start": 1830.72,
+    "duration": 3.92
+  },
+  {
+    "text": "So you know we're happy super long",
+    "start": 1832,
+    "duration": 6.48
+  },
+  {
+    "text": "customer and we are able to let people",
+    "start": 1834.64,
+    "duration": 4.64
+  },
+  {
+    "text": "uh",
+    "start": 1838.48,
+    "duration": 3.12
+  },
+  {
+    "text": "pay us before creating an account and",
+    "start": 1839.28,
+    "duration": 4.76
+  },
+  {
+    "text": "that was a a big deal. Yeah, that's",
+    "start": 1841.6,
+    "duration": 4.6
+  },
+  {
+    "text": "pretty huge. A lot of people I mean for",
+    "start": 1844.04,
+    "duration": 4.88
+  },
+  {
+    "text": "me personally I always use the Apple one",
+    "start": 1846.2,
+    "duration": 4.68
+  },
+  {
+    "text": "for login and it's like one click and",
+    "start": 1848.92,
+    "duration": 4.16
+  },
+  {
+    "text": "then face ID so like I wouldn't think",
+    "start": 1850.88,
+    "duration": 4.88
+  },
+  {
+    "text": "that would be a churn moment. That's a",
+    "start": 1853.08,
+    "duration": 4.68
+  },
+  {
+    "text": "good insight. Yeah, putting the putting",
+    "start": 1855.76,
+    "duration": 4.64
+  },
+  {
+    "text": "the paywall before the login. Yeah, like",
+    "start": 1857.76,
+    "duration": 4.48
+  },
+  {
+    "text": "yeah are there moments",
+    "start": 1860.4,
+    "duration": 4.08
+  },
+  {
+    "text": "for any of the paywalls where you show",
+    "start": 1862.24,
+    "duration": 5.36
+  },
+  {
+    "text": "the product value first and then that",
+    "start": 1864.48,
+    "duration": 5.84
+  },
+  {
+    "text": "leads to the paywall. Similar to to",
+    "start": 1867.6,
+    "duration": 3.92
+  },
+  {
+    "text": "onboarding but even outside of",
+    "start": 1870.32,
+    "duration": 3.68
+  },
+  {
+    "text": "onboarding you want people to be as",
+    "start": 1871.52,
+    "duration": 4.72
+  },
+  {
+    "text": "invested in what they're doing as they",
+    "start": 1874,
+    "duration": 5.72
+  },
+  {
+    "text": "can be before you ask them to pay and so",
+    "start": 1876.24,
+    "duration": 6.4
+  },
+  {
+    "text": "a big win we found there was",
+    "start": 1879.72,
+    "duration": 6.2
+  },
+  {
+    "text": "we can let people record their entire",
+    "start": 1882.64,
+    "duration": 4.88
+  },
+  {
+    "text": "recording their entire lecture so",
+    "start": 1885.92,
+    "duration": 4.6
+  },
+  {
+    "text": "they're an hour plus into using it",
+    "start": 1887.52,
+    "duration": 6.4
+  },
+  {
+    "text": "before making them pay or start a trial",
+    "start": 1890.52,
+    "duration": 6.28
+  },
+  {
+    "text": "and so showing the paywall after audio",
+    "start": 1893.92,
+    "duration": 4.44
+  },
+  {
+    "text": "recording instead of before was a big",
+    "start": 1896.8,
+    "duration": 3.8
+  },
+  {
+    "text": "win for us as well. Another insight that",
+    "start": 1898.36,
+    "duration": 4.72
+  },
+  {
+    "text": "you guys have talked about is some of",
+    "start": 1900.6,
+    "duration": 5.92
+  },
+  {
+    "text": "the anti-churn tactics.",
+    "start": 1903.08,
+    "duration": 5.2
+  },
+  {
+    "text": "You know retention is like a a big",
+    "start": 1906.52,
+    "duration": 4.8
+  },
+  {
+    "text": "problem in consumer software.",
+    "start": 1908.28,
+    "duration": 3.76
+  },
+  {
+    "text": "Um",
+    "start": 1911.32,
+    "duration": 2.84
+  },
+  {
+    "text": "How do you how do you prevent",
+    "start": 1912.04,
+    "duration": 3.88
+  },
+  {
+    "text": "cancellations? This is something we've",
+    "start": 1914.16,
+    "duration": 4.08
+  },
+  {
+    "text": "tried multiple things and experimented",
+    "start": 1915.92,
+    "duration": 5.28
+  },
+  {
+    "text": "with but what we've found works really",
+    "start": 1918.24,
+    "duration": 4.92
+  },
+  {
+    "text": "well is",
+    "start": 1921.2,
+    "duration": 4.36
+  },
+  {
+    "text": "when going to cancel",
+    "start": 1923.16,
+    "duration": 4.44
+  },
+  {
+    "text": "you know it's pretty common to like try",
+    "start": 1925.56,
+    "duration": 3.04
+  },
+  {
+    "text": "to show them the value that they're",
+    "start": 1927.6,
+    "duration": 4.8
+  },
+  {
+    "text": "losing and ask them some questions. But",
+    "start": 1928.6,
+    "duration": 6.44
+  },
+  {
+    "text": "what worked really well for us was",
+    "start": 1932.4,
+    "duration": 5.52
+  },
+  {
+    "text": "offering a trial extension. So if you're",
+    "start": 1935.04,
+    "duration": 6.72
+  },
+  {
+    "text": "on a free trial which most of our our",
+    "start": 1937.92,
+    "duration": 6.72
+  },
+  {
+    "text": "our customers come in through free trial",
+    "start": 1941.76,
+    "duration": 4.8
+  },
+  {
+    "text": "you really want them to keep that",
+    "start": 1944.64,
+    "duration": 3.36
+  },
+  {
+    "text": "enabled. It's it's really hard to win",
+    "start": 1946.56,
+    "duration": 3.88
+  },
+  {
+    "text": "them back once they turn it off",
+    "start": 1948,
+    "duration": 5.12
+  },
+  {
+    "text": "and giving them another seven days",
+    "start": 1950.44,
+    "duration": 4.16
+  },
+  {
+    "text": "extending that trial a little bit",
+    "start": 1953.12,
+    "duration": 3.76
+  },
+  {
+    "text": "farther is",
+    "start": 1954.6,
+    "duration": 3.72
+  },
+  {
+    "text": "has been huge for us. I think we ended",
+    "start": 1956.88,
+    "duration": 4.12
+  },
+  {
+    "text": "up saving like 27% of the",
+    "start": 1958.32,
+    "duration": 5.44
+  },
+  {
+    "text": "people who",
+    "start": 1961,
+    "duration": 4.8
+  },
+  {
+    "text": "go through the cancel flow by extending",
+    "start": 1963.76,
+    "duration": 3.919
+  },
+  {
+    "text": "their trial. That's pretty That's pretty",
+    "start": 1965.8,
+    "duration": 5.08
+  },
+  {
+    "text": "huge. 27% of people who would have",
+    "start": 1967.679,
+    "duration": 4.881
+  },
+  {
+    "text": "churned",
+    "start": 1970.88,
+    "duration": 4.56
+  },
+  {
+    "text": "end up not churning because of this",
+    "start": 1972.56,
+    "duration": 6.4
+  },
+  {
+    "text": "trial. Is that because they extend",
+    "start": 1975.44,
+    "duration": 5.64
+  },
+  {
+    "text": "there's like more than 27% that extend",
+    "start": 1978.96,
+    "duration": 4.68
+  },
+  {
+    "text": "the trial and then a fraction of those",
+    "start": 1981.08,
+    "duration": 6.44
+  },
+  {
+    "text": "actually convert after that trial? Yeah,",
+    "start": 1983.64,
+    "duration": 5.64
+  },
+  {
+    "text": "yeah that's correct. Yeah, so we're",
+    "start": 1987.52,
+    "duration": 3.12
+  },
+  {
+    "text": "we're",
+    "start": 1989.28,
+    "duration": 4.44
+  },
+  {
+    "text": "preventing 27% from canceling right now",
+    "start": 1990.64,
+    "duration": 4.84
+  },
+  {
+    "text": "in that moment",
+    "start": 1993.72,
+    "duration": 3.64
+  },
+  {
+    "text": "a smaller percentage convert on the",
+    "start": 1995.48,
+    "duration": 4.28
+  },
+  {
+    "text": "trial but it's still",
+    "start": 1997.36,
+    "duration": 4.4
+  },
+  {
+    "text": "a big win. Let's talk about the revenue",
+    "start": 1999.76,
+    "duration": 3.64
+  },
+  {
+    "text": "timeline.",
+    "start": 2001.76,
+    "duration": 3.48
+  },
+  {
+    "text": "You know as we're talking about",
+    "start": 2003.4,
+    "duration": 4.24
+  },
+  {
+    "text": "monetization because it's it's pretty",
+    "start": 2005.24,
+    "duration": 5.04
+  },
+  {
+    "text": "insane. You What What was your ramp up",
+    "start": 2007.64,
+    "duration": 4.88
+  },
+  {
+    "text": "like for the",
+    "start": 2010.28,
+    "duration": 4.84
+  },
+  {
+    "text": "for revenue growth? Yeah, so as I",
+    "start": 2012.52,
+    "duration": 4.64
+  },
+  {
+    "text": "mentioned getting",
+    "start": 2015.12,
+    "duration": 4.559
+  },
+  {
+    "text": "momentum early as early as possible is",
+    "start": 2017.16,
+    "duration": 5.56
+  },
+  {
+    "text": "like oxygen for a startup and so within",
+    "start": 2019.679,
+    "duration": 7.681
+  },
+  {
+    "text": "45 days we crossed 100,000 ARR within",
+    "start": 2022.72,
+    "duration": 7.72
+  },
+  {
+    "text": "four months we had crossed a million ARR",
+    "start": 2027.36,
+    "duration": 4.88
+  },
+  {
+    "text": "and within five months or just one month",
+    "start": 2030.44,
+    "duration": 4.36
+  },
+  {
+    "text": "after we were about two million ARR and",
+    "start": 2032.24,
+    "duration": 4.439
+  },
+  {
+    "text": "then after a year we were at five.",
+    "start": 2034.8,
+    "duration": 6.12
+  },
+  {
+    "text": "That's wild. 100k in 45 days a million",
+    "start": 2036.679,
+    "duration": 6.921
+  },
+  {
+    "text": "in four months five million in a year",
+    "start": 2040.92,
+    "duration": 5.28
+  },
+  {
+    "text": "and you guys didn't raise",
+    "start": 2043.6,
+    "duration": 4.72
+  },
+  {
+    "text": "VC did you? No, I'm completely",
+    "start": 2046.2,
+    "duration": 3.88
+  },
+  {
+    "text": "bootstrapped. Okay, so you had this huge",
+    "start": 2048.32,
+    "duration": 4.32
+  },
+  {
+    "text": "ramp up and then you you know grew to",
+    "start": 2050.08,
+    "duration": 4.839
+  },
+  {
+    "text": "you know multiple seven figures revenue",
+    "start": 2052.64,
+    "duration": 5.16
+  },
+  {
+    "text": "and then you guys got acquired by",
+    "start": 2054.919,
+    "duration": 4.44
+  },
+  {
+    "text": "Quizlet. So let's talk about the",
+    "start": 2057.8,
+    "duration": 4.04
+  },
+  {
+    "text": "acquisition. You guys mentioned that way",
+    "start": 2059.359,
+    "duration": 4.361
+  },
+  {
+    "text": "before the acquisition company started",
+    "start": 2061.84,
+    "duration": 3.36
+  },
+  {
+    "text": "reaching out even when you guys were",
+    "start": 2063.72,
+    "duration": 4.4
+  },
+  {
+    "text": "just a couple months old. So yeah, what",
+    "start": 2065.2,
+    "duration": 5.08
+  },
+  {
+    "text": "is what did that inbound like start to",
+    "start": 2068.12,
+    "duration": 4.12
+  },
+  {
+    "text": "look like? Yeah, I think I'll tell the",
+    "start": 2070.28,
+    "duration": 3.2
+  },
+  {
+    "text": "story Brett if you have something to add",
+    "start": 2072.24,
+    "duration": 2.48
+  },
+  {
+    "text": "on please do.",
+    "start": 2073.48,
+    "duration": 4.64
+  },
+  {
+    "text": "Um we started getting inbound",
+    "start": 2074.72,
+    "duration": 6.48
+  },
+  {
+    "text": "messages from strategics just when we",
+    "start": 2078.12,
+    "duration": 5.16
+  },
+  {
+    "text": "were a couple months old",
+    "start": 2081.2,
+    "duration": 4.32
+  },
+  {
+    "text": "and I remember Brett came to me and said",
+    "start": 2083.28,
+    "duration": 5.68
+  },
+  {
+    "text": "hey we got this email you know should we",
+    "start": 2085.52,
+    "duration": 6.32
+  },
+  {
+    "text": "take the call and I said you know most",
+    "start": 2088.96,
+    "duration": 4.959
+  },
+  {
+    "text": "M&A is not a good use of our time we",
+    "start": 2091.84,
+    "duration": 3.88
+  },
+  {
+    "text": "should just be you know say we're heads",
+    "start": 2093.919,
+    "duration": 3.401
+  },
+  {
+    "text": "down and we're building cuz that was",
+    "start": 2095.72,
+    "duration": 3.44
+  },
+  {
+    "text": "very much the case.",
+    "start": 2097.32,
+    "duration": 3.64
+  },
+  {
+    "text": "And then Brett I think slept on it and",
+    "start": 2099.16,
+    "duration": 3.48
+  },
+  {
+    "text": "came back and said I think we should at",
+    "start": 2100.96,
+    "duration": 4.399
+  },
+  {
+    "text": "least have the conversation and so we",
+    "start": 2102.64,
+    "duration": 4.44
+  },
+  {
+    "text": "did and we started having those",
+    "start": 2105.359,
+    "duration": 3.801
+  },
+  {
+    "text": "conversations. I do think just like",
+    "start": 2107.08,
+    "duration": 4.36
+  },
+  {
+    "text": "founder to founder advice it's important",
+    "start": 2109.16,
+    "duration": 5.04
+  },
+  {
+    "text": "to know that most of those conversations",
+    "start": 2111.44,
+    "duration": 5.4
+  },
+  {
+    "text": "are not going to be a great use of time",
+    "start": 2114.2,
+    "duration": 4.44
+  },
+  {
+    "text": "and energy. I think it takes a really",
+    "start": 2116.84,
+    "duration": 4.28
+  },
+  {
+    "text": "special company and a really special",
+    "start": 2118.64,
+    "duration": 5.08
+  },
+  {
+    "text": "partnership for it to be worth it. And",
+    "start": 2121.12,
+    "duration": 3.68
+  },
+  {
+    "text": "so",
+    "start": 2123.72,
+    "duration": 2.8
+  },
+  {
+    "text": "you know we're Brett and I are very",
+    "start": 2124.8,
+    "duration": 3.84
+  },
+  {
+    "text": "happy and excited to to be under",
+    "start": 2126.52,
+    "duration": 3.64
+  },
+  {
+    "text": "Quizlet. And the other thing I would say",
+    "start": 2128.64,
+    "duration": 3.68
+  },
+  {
+    "text": "is that if you are a founder on a really",
+    "start": 2130.16,
+    "duration": 3.96
+  },
+  {
+    "text": "lean team consider going through an",
+    "start": 2132.32,
+    "duration": 4
+  },
+  {
+    "text": "investment bank if you if you commit to",
+    "start": 2134.12,
+    "duration": 4
+  },
+  {
+    "text": "selling and and finding a home for your",
+    "start": 2136.32,
+    "duration": 3.84
+  },
+  {
+    "text": "company.",
+    "start": 2138.12,
+    "duration": 3.239
+  },
+  {
+    "text": "Consider going through an investment",
+    "start": 2140.16,
+    "duration": 2.68
+  },
+  {
+    "text": "bank. We went through an investment bank",
+    "start": 2141.359,
+    "duration": 3.481
+  },
+  {
+    "text": "when we made the decision that we were",
+    "start": 2142.84,
+    "duration": 3.4
+  },
+  {
+    "text": "going to",
+    "start": 2144.84,
+    "duration": 3.32
+  },
+  {
+    "text": "talk to companies more seriously. We",
+    "start": 2146.24,
+    "duration": 3.8
+  },
+  {
+    "text": "went through an investment bank that",
+    "start": 2148.16,
+    "duration": 3.84
+  },
+  {
+    "text": "helped us focus right because one of the",
+    "start": 2150.04,
+    "duration": 5.08
+  },
+  {
+    "text": "biggest things that you're going to lose",
+    "start": 2152,
+    "duration": 4.84
+  },
+  {
+    "text": "or at least risk when you go through an",
+    "start": 2155.12,
+    "duration": 4.56
+  },
+  {
+    "text": "M&A process is you're going to take your",
+    "start": 2156.84,
+    "duration": 4.44
+  },
+  {
+    "text": "eye off the ball a little bit. You're",
+    "start": 2159.68,
+    "duration": 3.16
+  },
+  {
+    "text": "going to spend less time talking to",
+    "start": 2161.28,
+    "duration": 2.72
+  },
+  {
+    "text": "customers you're going to spend less",
+    "start": 2162.84,
+    "duration": 3.36
+  },
+  {
+    "text": "time building and less time marketing",
+    "start": 2164,
+    "duration": 3.64
+  },
+  {
+    "text": "but going through an investment bank or",
+    "start": 2166.2,
+    "duration": 2.92
+  },
+  {
+    "text": "having a financial advisor through that",
+    "start": 2167.64,
+    "duration": 3.76
+  },
+  {
+    "text": "process can help with that. And what",
+    "start": 2169.12,
+    "duration": 4.28
+  },
+  {
+    "text": "exactly is the role of the investment",
+    "start": 2171.4,
+    "duration": 4.12
+  },
+  {
+    "text": "bank? They do the like the finance side",
+    "start": 2173.4,
+    "duration": 5.24
+  },
+  {
+    "text": "of it but then did did you also try",
+    "start": 2175.52,
+    "duration": 5.44
+  },
+  {
+    "text": "using",
+    "start": 2178.64,
+    "duration": 5.32
+  },
+  {
+    "text": "or anyone to do the kind of like",
+    "start": 2180.96,
+    "duration": 5.24
+  },
+  {
+    "text": "the acquisition process or the lead",
+    "start": 2183.96,
+    "duration": 3.96
+  },
+  {
+    "text": "generation and that that kind of stuff?",
+    "start": 2186.2,
+    "duration": 3.24
+  },
+  {
+    "text": "Yeah, the the banker plays a lot of that",
+    "start": 2187.92,
+    "duration": 3.24
+  },
+  {
+    "text": "role. I mean we don't we only know our",
+    "start": 2189.44,
+    "duration": 3.52
+  },
+  {
+    "text": "experience",
+    "start": 2191.16,
+    "duration": 3.48
+  },
+  {
+    "text": "and it could be different it could vary",
+    "start": 2192.96,
+    "duration": 3.92
+  },
+  {
+    "text": "but we worked with",
+    "start": 2194.64,
+    "duration": 4.24
+  },
+  {
+    "text": "someone named Chris Parker at Creative",
+    "start": 2196.88,
+    "duration": 4.68
+  },
+  {
+    "text": "Partners and he was really awesome",
+    "start": 2198.88,
+    "duration": 6.6
+  },
+  {
+    "text": "and he handled things like that and and",
+    "start": 2201.56,
+    "duration": 5.68
+  },
+  {
+    "text": "having early conversations all the way",
+    "start": 2205.48,
+    "duration": 4.4
+  },
+  {
+    "text": "through to the end of closing the deal",
+    "start": 2207.24,
+    "duration": 5.36
+  },
+  {
+    "text": "with with Quizlet. So you mentioned like",
+    "start": 2209.88,
+    "duration": 5.08
+  },
+  {
+    "text": "the the sort of like split focus that",
+    "start": 2212.6,
+    "duration": 5.759
+  },
+  {
+    "text": "can happen if a founder is somewhat",
+    "start": 2214.96,
+    "duration": 5.24
+  },
+  {
+    "text": "early or maybe like you know middle of",
+    "start": 2218.359,
+    "duration": 3.521
+  },
+  {
+    "text": "their journey and they're they get a a",
+    "start": 2220.2,
+    "duration": 3.56
+  },
+  {
+    "text": "corp dev email tomorrow what do you",
+    "start": 2221.88,
+    "duration": 3.12
+  },
+  {
+    "text": "recommend like what should they actually",
+    "start": 2223.76,
+    "duration": 2.76
+  },
+  {
+    "text": "do? I think the first thing that comes",
+    "start": 2225,
+    "duration": 5.84
+  },
+  {
+    "text": "to mind is is this a company that you",
+    "start": 2226.52,
+    "duration": 7.48
+  },
+  {
+    "text": "respect admire value? What is the",
+    "start": 2230.84,
+    "duration": 5.44
+  },
+  {
+    "text": "strategic fit? The second thing is are",
+    "start": 2234,
+    "duration": 4.52
+  },
+  {
+    "text": "you in a position right now to be",
+    "start": 2236.28,
+    "duration": 4.4
+  },
+  {
+    "text": "talking to someone? If you think that",
+    "start": 2238.52,
+    "duration": 3.76
+  },
+  {
+    "text": "you are then you're you know I would",
+    "start": 2240.68,
+    "duration": 3.92
+  },
+  {
+    "text": "suggest taking that intro call but I",
+    "start": 2242.28,
+    "duration": 4.84
+  },
+  {
+    "text": "would really tamper expectations right?",
+    "start": 2244.6,
+    "duration": 4.4
+  },
+  {
+    "text": "The the most likely outcome is that it's",
+    "start": 2247.12,
+    "duration": 4.08
+  },
+  {
+    "text": "not going to result in anything. The",
+    "start": 2249,
+    "duration": 4.12
+  },
+  {
+    "text": "most likely outcome could be that it's",
+    "start": 2251.2,
+    "duration": 3.56
+  },
+  {
+    "text": "not going to be a good use of your time",
+    "start": 2253.12,
+    "duration": 3.28
+  },
+  {
+    "text": "and energy. At the same time if it's a",
+    "start": 2254.76,
+    "duration": 4.08
+  },
+  {
+    "text": "company that you admire and they're like",
+    "start": 2256.4,
+    "duration": 5
+  },
+  {
+    "text": "there's a great strategic alignment then",
+    "start": 2258.84,
+    "duration": 4
+  },
+  {
+    "text": "I I do think those conversations are",
+    "start": 2261.4,
+    "duration": 4.24
+  },
+  {
+    "text": "worth having. And I would add on like to",
+    "start": 2262.84,
+    "duration": 4.36
+  },
+  {
+    "text": "to you you know like you're you're",
+    "start": 2265.64,
+    "duration": 3.56
+  },
+  {
+    "text": "charting on the App Store and this big",
+    "start": 2267.2,
+    "duration": 4.04
+  },
+  {
+    "text": "company reaches out to you and it's it's",
+    "start": 2269.2,
+    "duration": 3.76
+  },
+  {
+    "text": "awesome right? It's a huge you should be",
+    "start": 2271.24,
+    "duration": 3.52
+  },
+  {
+    "text": "proud that you're in that got into that",
+    "start": 2272.96,
+    "duration": 4.76
+  },
+  {
+    "text": "moment to begin with.",
+    "start": 2274.76,
+    "duration": 2.96
+  },
+  {
+    "text": "if they're in the place where they're",
+    "start": 2279.28,
+    "duration": 2.32
+  },
+  {
+    "text": "reaching out to people they're probably",
+    "start": 2280.52,
+    "duration": 3
+  },
+  {
+    "text": "talking to you know more than just you",
+    "start": 2281.6,
+    "duration": 4.68
+  },
+  {
+    "text": "and after a couple conversations I would",
+    "start": 2283.52,
+    "duration": 5.6
+  },
+  {
+    "text": "recommend like trying to get them to",
+    "start": 2286.28,
+    "duration": 4.44
+  },
+  {
+    "text": "give you a like a ballpark range of",
+    "start": 2289.12,
+    "duration": 3.68
+  },
+  {
+    "text": "numbers to make sure you're that you're",
+    "start": 2290.72,
+    "duration": 6.28
+  },
+  {
+    "text": "even in the right place and and if not",
+    "start": 2292.8,
+    "duration": 5.6
+  },
+  {
+    "text": "that doesn't mean that you never have to",
+    "start": 2297,
+    "duration": 3.359
+  },
+  {
+    "text": "talk to them again you can keep the keep",
+    "start": 2298.4,
+    "duration": 3.84
+  },
+  {
+    "text": "the conversation going can check in",
+    "start": 2300.359,
+    "duration": 3.401
+  },
+  {
+    "text": "every once in a while but you don't want",
+    "start": 2302.24,
+    "duration": 3.28
+  },
+  {
+    "text": "to get too invested in it both like",
+    "start": 2303.76,
+    "duration": 3.84
+  },
+  {
+    "text": "mentally and on the amount of time that",
+    "start": 2305.52,
+    "duration": 4.32
+  },
+  {
+    "text": "you're spending. So you mentioned that",
+    "start": 2307.6,
+    "duration": 4.16
+  },
+  {
+    "text": "you know you want to find someone who a",
+    "start": 2309.84,
+    "duration": 4
+  },
+  {
+    "text": "company that is like the right home for",
+    "start": 2311.76,
+    "duration": 4.48
+  },
+  {
+    "text": "your customers and enables you to think",
+    "start": 2313.84,
+    "duration": 4.68
+  },
+  {
+    "text": "more long-term. What what has Quizlet",
+    "start": 2316.24,
+    "duration": 4.119
+  },
+  {
+    "text": "enabled for you guys? Yeah, a couple",
+    "start": 2318.52,
+    "duration": 4.2
+  },
+  {
+    "text": "things come to mind for me. One is a",
+    "start": 2320.359,
+    "duration": 5.721
+  },
+  {
+    "text": "fantastic global user base and so we're",
+    "start": 2322.72,
+    "duration": 5.72
+  },
+  {
+    "text": "able to scale some of the things that",
+    "start": 2326.08,
+    "duration": 5.4
+  },
+  {
+    "text": "you know we've worked on at Coconut to",
+    "start": 2328.44,
+    "duration": 4.4
+  },
+  {
+    "text": "and you know beyond an order of",
+    "start": 2331.48,
+    "duration": 4.44
+  },
+  {
+    "text": "magnitude larger amount of learners",
+    "start": 2332.84,
+    "duration": 5.16
+  },
+  {
+    "text": "which is really exciting. Another thing",
+    "start": 2335.92,
+    "duration": 3.56
+  },
+  {
+    "text": "is the",
+    "start": 2338,
+    "duration": 4.16
+  },
+  {
+    "text": "really strong I think financial health",
+    "start": 2339.48,
+    "duration": 5.44
+  },
+  {
+    "text": "of a company being in a position to take",
+    "start": 2342.16,
+    "duration": 4.84
+  },
+  {
+    "text": "bigger swings and think longer term is",
+    "start": 2344.92,
+    "duration": 4.12
+  },
+  {
+    "text": "very real. Again to go back to it Joseph",
+    "start": 2347,
+    "duration": 4.56
+  },
+  {
+    "text": "like Brett and I were very focused on",
+    "start": 2349.04,
+    "duration": 4.16
+  },
+  {
+    "text": "running Coconut in the leanest way",
+    "start": 2351.56,
+    "duration": 4.28
+  },
+  {
+    "text": "possible. Whenever you relax some of",
+    "start": 2353.2,
+    "duration": 4.96
+  },
+  {
+    "text": "those constraints you can think about",
+    "start": 2355.84,
+    "duration": 4.88
+  },
+  {
+    "text": "much bigger and more inspiring swings.",
+    "start": 2358.16,
+    "duration": 5.72
+  },
+  {
+    "text": "You know building out a media arm",
+    "start": 2360.72,
+    "duration": 5.639
+  },
+  {
+    "text": "taking risks in ways that we wouldn't",
+    "start": 2363.88,
+    "duration": 3.52
+  },
+  {
+    "text": "have",
+    "start": 2366.359,
+    "duration": 3.161
+  },
+  {
+    "text": "as an independent company because we",
+    "start": 2367.4,
+    "duration": 5.48
+  },
+  {
+    "text": "were expecting ROI within a month or two",
+    "start": 2369.52,
+    "duration": 5.52
+  },
+  {
+    "text": "and I think under a bigger company like",
+    "start": 2372.88,
+    "duration": 4.56
+  },
+  {
+    "text": "Quizlet we can look at the longer term",
+    "start": 2375.04,
+    "duration": 4.28
+  },
+  {
+    "text": "and think about ROI on marketing",
+    "start": 2377.44,
+    "duration": 4.44
+  },
+  {
+    "text": "initiatives or product features etc. on",
+    "start": 2379.32,
+    "duration": 4.44
+  },
+  {
+    "text": "a much not only a much bigger scale, but",
+    "start": 2381.88,
+    "duration": 4.76
+  },
+  {
+    "text": "on a much larger, longer time horizon.",
+    "start": 2383.76,
+    "duration": 5.68
+  },
+  {
+    "text": "Yeah, I think that when we got together",
+    "start": 2386.64,
+    "duration": 4.68
+  },
+  {
+    "text": "and started talking, you know, like Zach",
+    "start": 2389.44,
+    "duration": 3.12
+  },
+  {
+    "text": "and I had our vision of what we wanted",
+    "start": 2391.32,
+    "duration": 2.72
+  },
+  {
+    "text": "to build and",
+    "start": 2392.56,
+    "duration": 3.52
+  },
+  {
+    "text": "a lot of what Quizlet wants to build is",
+    "start": 2394.04,
+    "duration": 4.08
+  },
+  {
+    "text": "is is similar and when you find someone",
+    "start": 2396.08,
+    "duration": 4.6
+  },
+  {
+    "text": "that lets you enable that, like",
+    "start": 2398.12,
+    "duration": 4.24
+  },
+  {
+    "text": "Zach and I, the Coconote team, can only",
+    "start": 2400.68,
+    "duration": 3.68
+  },
+  {
+    "text": "build so much and there's a lot that we",
+    "start": 2402.36,
+    "duration": 4.12
+  },
+  {
+    "text": "want to do, so it",
+    "start": 2404.36,
+    "duration": 3.68
+  },
+  {
+    "text": "made sense and was exciting. That's",
+    "start": 2406.48,
+    "duration": 3.72
+  },
+  {
+    "text": "awesome. Are you guys both staying at",
+    "start": 2408.04,
+    "duration": 5.16
+  },
+  {
+    "text": "Quizlet post acquisition?",
+    "start": 2410.2,
+    "duration": 5.72
+  },
+  {
+    "text": "Okay, awesome. I want to go into like",
+    "start": 2413.2,
+    "duration": 4.52
+  },
+  {
+    "text": "some of the perspectives you guys wrote",
+    "start": 2415.92,
+    "duration": 4.88
+  },
+  {
+    "text": "down. So, one thing that is interesting",
+    "start": 2417.72,
+    "duration": 5.72
+  },
+  {
+    "text": "to me is you guys have this approach of",
+    "start": 2420.8,
+    "duration": 4.88
+  },
+  {
+    "text": "building products that give people a wow",
+    "start": 2423.44,
+    "duration": 5.08
+  },
+  {
+    "text": "moment and it seems like for Coconote,",
+    "start": 2425.68,
+    "duration": 5
+  },
+  {
+    "text": "you did that in a bunch of different",
+    "start": 2428.52,
+    "duration": 4.68
+  },
+  {
+    "text": "ways with the podcast episodes, with",
+    "start": 2430.68,
+    "duration": 4.72
+  },
+  {
+    "text": "like the transcriptions just being",
+    "start": 2433.2,
+    "duration": 4.32
+  },
+  {
+    "text": "naturally like giving people a hit. I'm",
+    "start": 2435.4,
+    "duration": 5.4
+  },
+  {
+    "text": "curious like with AI, how much faster",
+    "start": 2437.52,
+    "duration": 7.24
+  },
+  {
+    "text": "people can build products? Is that wow",
+    "start": 2440.8,
+    "duration": 6.28
+  },
+  {
+    "text": "bar like changing? Like do you feel like",
+    "start": 2444.76,
+    "duration": 4.6
+  },
+  {
+    "text": "it's it's harder to get people to say",
+    "start": 2447.08,
+    "duration": 5.52
+  },
+  {
+    "text": "wow at at things? The length of time",
+    "start": 2449.36,
+    "duration": 6.08
+  },
+  {
+    "text": "that something is like mind-bending is",
+    "start": 2452.6,
+    "duration": 4.36
+  },
+  {
+    "text": "getting shorter and shorter, you know,",
+    "start": 2455.44,
+    "duration": 3.68
+  },
+  {
+    "text": "we go outside and get in a Waymo and",
+    "start": 2456.96,
+    "duration": 4
+  },
+  {
+    "text": "it's totally normal, right? Like we have",
+    "start": 2459.12,
+    "duration": 3.48
+  },
+  {
+    "text": "self-driving cars and no one seems to",
+    "start": 2460.96,
+    "duration": 3.84
+  },
+  {
+    "text": "really be that impressed. I audio",
+    "start": 2462.6,
+    "duration": 5.32
+  },
+  {
+    "text": "recording and and turning it into a",
+    "start": 2464.8,
+    "duration": 4.8
+  },
+  {
+    "text": "transcript and then a summary and then a",
+    "start": 2467.92,
+    "duration": 5.68
+  },
+  {
+    "text": "podcast what is is uh a wow moment that",
+    "start": 2469.6,
+    "duration": 5.68
+  },
+  {
+    "text": "you have to keep innovating on. I think",
+    "start": 2473.6,
+    "duration": 4.08
+  },
+  {
+    "text": "it's especially absolutely the",
+    "start": 2475.28,
+    "duration": 4.24
+  },
+  {
+    "text": "the timeline has been extraordinarily",
+    "start": 2477.68,
+    "duration": 4.16
+  },
+  {
+    "text": "compressed because the barriers to entry",
+    "start": 2479.52,
+    "duration": 4.52
+  },
+  {
+    "text": "to creating software have lowered and so",
+    "start": 2481.84,
+    "duration": 4.68
+  },
+  {
+    "text": "you have a lot more competition. A lot",
+    "start": 2484.04,
+    "duration": 4.64
+  },
+  {
+    "text": "of people are using socials to to market",
+    "start": 2486.52,
+    "duration": 4.8
+  },
+  {
+    "text": "their app and so even if you do have a",
+    "start": 2488.68,
+    "duration": 4.68
+  },
+  {
+    "text": "product that makes people say wow, there",
+    "start": 2491.32,
+    "duration": 4.6
+  },
+  {
+    "text": "are going to be a hundred of those",
+    "start": 2493.36,
+    "duration": 4.88
+  },
+  {
+    "text": "copycat products next week, maybe",
+    "start": 2495.92,
+    "duration": 3.6
+  },
+  {
+    "text": "sooner. And it's something that we've",
+    "start": 2498.24,
+    "duration": 3.08
+  },
+  {
+    "text": "seen firsthand and that's just the",
+    "start": 2499.52,
+    "duration": 3.52
+  },
+  {
+    "text": "dynamic of the market. You know, I would",
+    "start": 2501.32,
+    "duration": 4.56
+  },
+  {
+    "text": "say gone are the days of resting on your",
+    "start": 2503.04,
+    "duration": 5
+  },
+  {
+    "text": "laurels as a software company,",
+    "start": 2505.88,
+    "duration": 4.68
+  },
+  {
+    "text": "especially if you don't have",
+    "start": 2508.04,
+    "duration": 4.96
+  },
+  {
+    "text": "a deep moat and you know, at at least",
+    "start": 2510.56,
+    "duration": 4.48
+  },
+  {
+    "text": "one or two of the seven powers, if you",
+    "start": 2513,
+    "duration": 3.64
+  },
+  {
+    "text": "want to look at that as a framework,",
+    "start": 2515.04,
+    "duration": 3.96
+  },
+  {
+    "text": "then you're going to be reliant on your",
+    "start": 2516.64,
+    "duration": 5.28
+  },
+  {
+    "text": "team executing and building really",
+    "start": 2519,
+    "duration": 4.6
+  },
+  {
+    "text": "interesting products, products that make",
+    "start": 2521.92,
+    "duration": 3.84
+  },
+  {
+    "text": "people say wow and that is going to be",
+    "start": 2523.6,
+    "duration": 4.16
+  },
+  {
+    "text": "your primary growth engine until you",
+    "start": 2525.76,
+    "duration": 2.92
+  },
+  {
+    "text": "figure things out.",
+    "start": 2527.76,
+    "duration": 3.24
+  },
+  {
+    "text": ">> The seven powers is this like is this",
+    "start": 2528.68,
+    "duration": 4.36
+  },
+  {
+    "text": "what you're talking about? Yeah, so",
+    "start": 2531,
+    "duration": 4.4
+  },
+  {
+    "text": "Joseph, if you listen to the Acquired",
+    "start": 2533.04,
+    "duration": 4
+  },
+  {
+    "text": "podcast,",
+    "start": 2535.4,
+    "duration": 3.12
+  },
+  {
+    "text": "they used to go through at the end of",
+    "start": 2537.04,
+    "duration": 3.88
+  },
+  {
+    "text": "every episode and talk about the seven",
+    "start": 2538.52,
+    "duration": 4.48
+  },
+  {
+    "text": "powers. It's by I forget the guy's first",
+    "start": 2540.92,
+    "duration": 4.4
+  },
+  {
+    "text": "name, but it's Hemler, I believe. And",
+    "start": 2543,
+    "duration": 3.88
+  },
+  {
+    "text": "yeah, they're like network effects,",
+    "start": 2545.32,
+    "duration": 4.24
+  },
+  {
+    "text": "economies of scale, cornered resources,",
+    "start": 2546.88,
+    "duration": 4.84
+  },
+  {
+    "text": "brand, counter position. I won't name",
+    "start": 2549.56,
+    "duration": 4.08
+  },
+  {
+    "text": "all of them, but it's one way to look at",
+    "start": 2551.72,
+    "duration": 4.16
+  },
+  {
+    "text": "{quote} moats, which of course the",
+    "start": 2553.64,
+    "duration": 4.24
+  },
+  {
+    "text": "Twitter sphere X",
+    "start": 2555.88,
+    "duration": 3.76
+  },
+  {
+    "text": "community kind of loves to talk about",
+    "start": 2557.88,
+    "duration": 3.68
+  },
+  {
+    "text": "these moats in software. You know, it's",
+    "start": 2559.64,
+    "duration": 4.16
+  },
+  {
+    "text": "one way to think of growth where if you",
+    "start": 2561.56,
+    "duration": 4.64
+  },
+  {
+    "text": "don't have these deep moats in your",
+    "start": 2563.8,
+    "duration": 3.92
+  },
+  {
+    "text": "product, you're going to have to build",
+    "start": 2566.2,
+    "duration": 3.08
+  },
+  {
+    "text": "products that make people say wow",
+    "start": 2567.72,
+    "duration": 3.32
+  },
+  {
+    "text": "because otherwise why would anyone care?",
+    "start": 2569.28,
+    "duration": 4
+  },
+  {
+    "text": "So, are you saying that it's hard to",
+    "start": 2571.04,
+    "duration": 5.6
+  },
+  {
+    "text": "genuinely have moats nowadays, so it's",
+    "start": 2573.28,
+    "duration": 6.68
+  },
+  {
+    "text": "better to lean into trying to find more",
+    "start": 2576.64,
+    "duration": 5.32
+  },
+  {
+    "text": "and better wow moments? I wouldn't",
+    "start": 2579.96,
+    "duration": 3.4
+  },
+  {
+    "text": "necessarily say that. I would say if",
+    "start": 2581.96,
+    "duration": 4.52
+  },
+  {
+    "text": "your product is not as fortunate to have",
+    "start": 2583.36,
+    "duration": 5.64
+  },
+  {
+    "text": "deep moats, like network effects would",
+    "start": 2586.48,
+    "duration": 5.32
+  },
+  {
+    "text": "be a good moat. Brand is a great moat.",
+    "start": 2589,
+    "duration": 4.8
+  },
+  {
+    "text": "Like Quizlet has an amazing brand that's",
+    "start": 2591.8,
+    "duration": 3.76
+  },
+  {
+    "text": "been built over the last almost 20",
+    "start": 2593.8,
+    "duration": 4.28
+  },
+  {
+    "text": "years. If you don't have the",
+    "start": 2595.56,
+    "duration": 4.52
+  },
+  {
+    "text": "uh another phenomenal moat, of course,",
+    "start": 2598.08,
+    "duration": 4.56
+  },
+  {
+    "text": "may be TSMC, right? With a cornered",
+    "start": 2600.08,
+    "duration": 6.32
+  },
+  {
+    "text": "resource and uh processing power.",
+    "start": 2602.64,
+    "duration": 5.72
+  },
+  {
+    "text": "Another one would be Nvidia. If if",
+    "start": 2606.4,
+    "duration": 4.8
+  },
+  {
+    "text": "you're not fortunate enough to have",
+    "start": 2608.36,
+    "duration": 4.56
+  },
+  {
+    "text": "one of these, you know, one or two of",
+    "start": 2611.2,
+    "duration": 3.72
+  },
+  {
+    "text": "these seven powers which end up creating",
+    "start": 2612.92,
+    "duration": 5.4
+  },
+  {
+    "text": "these economic uh or technological moats",
+    "start": 2614.92,
+    "duration": 5.4
+  },
+  {
+    "text": "or something, then I do think you have",
+    "start": 2618.32,
+    "duration": 3.96
+  },
+  {
+    "text": "to lean into making people say wow.",
+    "start": 2620.32,
+    "duration": 3.56
+  },
+  {
+    "text": "Otherwise, I just don't know why anyone",
+    "start": 2622.28,
+    "duration": 3.72
+  },
+  {
+    "text": "would care at this point because you're",
+    "start": 2623.88,
+    "duration": 3.92
+  },
+  {
+    "text": "going to have so many competitors",
+    "start": 2626,
+    "duration": 3.4
+  },
+  {
+    "text": "copying what you're doing because the",
+    "start": 2627.8,
+    "duration": 3.36
+  },
+  {
+    "text": "barriers to entry for software have",
+    "start": 2629.4,
+    "duration": 3.56
+  },
+  {
+    "text": "declined. Are there any products that",
+    "start": 2631.16,
+    "duration": 4.2
+  },
+  {
+    "text": "you guys have used personally in the",
+    "start": 2632.96,
+    "duration": 4
+  },
+  {
+    "text": "past few months that have made you say",
+    "start": 2635.36,
+    "duration": 5.12
+  },
+  {
+    "text": "wow? I'm a huge fan of Ladder as a",
+    "start": 2636.96,
+    "duration": 6.36
+  },
+  {
+    "text": "business and an app. I think that",
+    "start": 2640.48,
+    "duration": 5.36
+  },
+  {
+    "text": "um they're doing really cool stuff and",
+    "start": 2643.32,
+    "duration": 5.4
+  },
+  {
+    "text": "doing doing I I would say consumer very",
+    "start": 2645.84,
+    "duration": 4.8
+  },
+  {
+    "text": "differently than",
+    "start": 2648.72,
+    "duration": 3.639
+  },
+  {
+    "text": "um",
+    "start": 2650.64,
+    "duration": 3.719
+  },
+  {
+    "text": "than what's more",
+    "start": 2652.359,
+    "duration": 4.761
+  },
+  {
+    "text": "common as far as UGC and like utilizing",
+    "start": 2654.359,
+    "duration": 4.121
+  },
+  {
+    "text": "influencers.",
+    "start": 2657.12,
+    "duration": 3.48
+  },
+  {
+    "text": "W- uh if you haven't used Ladder before,",
+    "start": 2658.48,
+    "duration": 5.36
+  },
+  {
+    "text": "it's a a workout app, but when I'm in",
+    "start": 2660.6,
+    "duration": 6.84
+  },
+  {
+    "text": "it, I'm I'm working out hearing this um",
+    "start": 2663.84,
+    "duration": 5.56
+  },
+  {
+    "text": "coach in my ear and",
+    "start": 2667.44,
+    "duration": 4.919
+  },
+  {
+    "text": "it basically feels like it's his app um",
+    "start": 2669.4,
+    "duration": 5.04
+  },
+  {
+    "text": "rather than some",
+    "start": 2672.359,
+    "duration": 5.521
+  },
+  {
+    "text": "uh like corporate entity. I tried five",
+    "start": 2674.44,
+    "duration": 6.6
+  },
+  {
+    "text": "or six tools to measure the success of",
+    "start": 2677.88,
+    "duration": 4.84
+  },
+  {
+    "text": "our content creators and I was",
+    "start": 2681.04,
+    "duration": 4.12
+  },
+  {
+    "text": "disappointed in every single one of them",
+    "start": 2682.72,
+    "duration": 4.52
+  },
+  {
+    "text": "until I found a product called Viral",
+    "start": 2685.16,
+    "duration": 4.48
+  },
+  {
+    "text": "App. It's viral.app.",
+    "start": 2687.24,
+    "duration": 3.84
+  },
+  {
+    "text": "And I've gotten to know the founders and",
+    "start": 2689.64,
+    "duration": 3.76
+  },
+  {
+    "text": "I think they're fantastic",
+    "start": 2691.08,
+    "duration": 4.68
+  },
+  {
+    "text": "group of guys and they really get it.",
+    "start": 2693.4,
+    "duration": 3.76
+  },
+  {
+    "text": "They really understand how to build",
+    "start": 2695.76,
+    "duration": 3.32
+  },
+  {
+    "text": "great software for people that are",
+    "start": 2697.16,
+    "duration": 5
+  },
+  {
+    "text": "building out a UGC or creator program",
+    "start": 2699.08,
+    "duration": 5.24
+  },
+  {
+    "text": "like we are with Coconote and Quizlet.",
+    "start": 2702.16,
+    "duration": 3.92
+  },
+  {
+    "text": "You know, truly the aha moment for me",
+    "start": 2704.32,
+    "duration": 5.039
+  },
+  {
+    "text": "was finally someone that can build great",
+    "start": 2706.08,
+    "duration": 6.279
+  },
+  {
+    "text": "software solving a very obvious problem",
+    "start": 2709.359,
+    "duration": 5.881
+  },
+  {
+    "text": "for us, which is tracking, managing and",
+    "start": 2712.359,
+    "duration": 5.361
+  },
+  {
+    "text": "optimizing our program. I wonder if this",
+    "start": 2715.24,
+    "duration": 6.04
+  },
+  {
+    "text": "gave you guys inspiration at all for",
+    "start": 2717.72,
+    "duration": 6.84
+  },
+  {
+    "text": "like what is the future of these wow",
+    "start": 2721.28,
+    "duration": 6.48
+  },
+  {
+    "text": "moments? If you were to build um a a",
+    "start": 2724.56,
+    "duration": 5.72
+  },
+  {
+    "text": "brand new product from scratch or even",
+    "start": 2727.76,
+    "duration": 5.599
+  },
+  {
+    "text": "like add a brand new feature to Coco, is",
+    "start": 2730.28,
+    "duration": 6.12
+  },
+  {
+    "text": "there other types of wow moments that",
+    "start": 2733.359,
+    "duration": 4.841
+  },
+  {
+    "text": "you feel like people should be focusing",
+    "start": 2736.4,
+    "duration": 5.48
+  },
+  {
+    "text": "on? Something I look for in general with",
+    "start": 2738.2,
+    "duration": 7.2
+  },
+  {
+    "text": "successful apps are apps that",
+    "start": 2741.88,
+    "duration": 6.04
+  },
+  {
+    "text": "cover two things. One is",
+    "start": 2745.4,
+    "duration": 3.44
+  },
+  {
+    "text": "uh",
+    "start": 2747.92,
+    "duration": 3.92
+  },
+  {
+    "text": "is this like a repeatable use case and",
+    "start": 2748.84,
+    "duration": 6.04
+  },
+  {
+    "text": "two is is it core to the person's",
+    "start": 2751.84,
+    "duration": 4.24
+  },
+  {
+    "text": "identity?",
+    "start": 2754.88,
+    "duration": 1.84
+  },
+  {
+    "text": "Uh",
+    "start": 2756.08,
+    "duration": 1.92
+  },
+  {
+    "text": "I think if you can cover both of those,",
+    "start": 2756.72,
+    "duration": 3.72
+  },
+  {
+    "text": "then it's something that they'll use",
+    "start": 2758,
+    "duration": 5.08
+  },
+  {
+    "text": "for a long time and if you can",
+    "start": 2760.44,
+    "duration": 4.6
+  },
+  {
+    "text": "then add a wow factor on top of that,",
+    "start": 2763.08,
+    "duration": 4.8
+  },
+  {
+    "text": "which are three like hard things to get",
+    "start": 2765.04,
+    "duration": 5.08
+  },
+  {
+    "text": "all at the same time, then",
+    "start": 2767.88,
+    "duration": 4.64
+  },
+  {
+    "text": "um I think you'll find success there.",
+    "start": 2770.12,
+    "duration": 4.52
+  },
+  {
+    "text": "So, it's it's not just the wow, it's",
+    "start": 2772.52,
+    "duration": 3.96
+  },
+  {
+    "text": "kind of like under underlying. What do",
+    "start": 2774.64,
+    "duration": 4.56
+  },
+  {
+    "text": "you even choose to build? And you want",
+    "start": 2776.48,
+    "duration": 4.8
+  },
+  {
+    "text": "to build something that is attached to",
+    "start": 2779.2,
+    "duration": 3.6
+  },
+  {
+    "text": "someone's identity and something that",
+    "start": 2781.28,
+    "duration": 4.52
+  },
+  {
+    "text": "they do repeatedly, something like",
+    "start": 2782.8,
+    "duration": 4.96
+  },
+  {
+    "text": "working out. Zach, curious if you have",
+    "start": 2785.8,
+    "duration": 4.12
+  },
+  {
+    "text": "any like frameworks for, you know,",
+    "start": 2787.76,
+    "duration": 4.28
+  },
+  {
+    "text": "what's what's the direction of of wow",
+    "start": 2789.92,
+    "duration": 4.28
+  },
+  {
+    "text": "moments? I think Yeah, wow moments are",
+    "start": 2792.04,
+    "duration": 5.96
+  },
+  {
+    "text": "especially helpful for consumer products",
+    "start": 2794.2,
+    "duration": 4.84
+  },
+  {
+    "text": "that you're going to market on",
+    "start": 2798,
+    "duration": 2.6
+  },
+  {
+    "text": "short-form video because again, that's",
+    "start": 2799.04,
+    "duration": 4
+  },
+  {
+    "text": "like the aha moment that you're",
+    "start": 2800.6,
+    "duration": 4.64
+  },
+  {
+    "text": "advertising or promoting on short-form.",
+    "start": 2803.04,
+    "duration": 3.84
+  },
+  {
+    "text": "I think Brett said it really well. I do",
+    "start": 2805.24,
+    "duration": 4.44
+  },
+  {
+    "text": "think that there are more foundational",
+    "start": 2806.88,
+    "duration": 5.44
+  },
+  {
+    "text": "needs that you identify with. So, what's",
+    "start": 2809.68,
+    "duration": 5.48
+  },
+  {
+    "text": "the core reason someone wants this? And",
+    "start": 2812.32,
+    "duration": 4.88
+  },
+  {
+    "text": "like Brett said, if it very deeply",
+    "start": 2815.16,
+    "duration": 4.12
+  },
+  {
+    "text": "relates to who you are as a person like",
+    "start": 2817.2,
+    "duration": 3.76
+  },
+  {
+    "text": "at an identity level, then that's really",
+    "start": 2819.28,
+    "duration": 3.48
+  },
+  {
+    "text": "strong. M- maybe Joseph, I could add",
+    "start": 2820.96,
+    "duration": 3.12
+  },
+  {
+    "text": "something that's a in answer to a",
+    "start": 2822.76,
+    "duration": 2.599
+  },
+  {
+    "text": "tangential question that you certainly",
+    "start": 2824.08,
+    "duration": 3.24
+  },
+  {
+    "text": "didn't ask, but you know, what's what is",
+    "start": 2825.359,
+    "duration": 4.801
+  },
+  {
+    "text": "possible with AI today that wasn't",
+    "start": 2827.32,
+    "duration": 5.4
+  },
+  {
+    "text": "possible 1 year ago or maybe 6 months",
+    "start": 2830.16,
+    "duration": 3.68
+  },
+  {
+    "text": "ago, right? The timelines are",
+    "start": 2832.72,
+    "duration": 4.2
+  },
+  {
+    "text": "compressing, so it may be 3 months ago",
+    "start": 2833.84,
+    "duration": 5.12
+  },
+  {
+    "text": "this wasn't possible. That that is an",
+    "start": 2836.92,
+    "duration": 3.88
+  },
+  {
+    "text": "interesting way to think about building",
+    "start": 2838.96,
+    "duration": 4.24
+  },
+  {
+    "text": "new products. We look at between",
+    "start": 2840.8,
+    "duration": 5.04
+  },
+  {
+    "text": "Coconote and Quizlet and",
+    "start": 2843.2,
+    "duration": 4.92
+  },
+  {
+    "text": "you know, integrating with Quizlet, etc.",
+    "start": 2845.84,
+    "duration": 5.16
+  },
+  {
+    "text": "One of the companies that we look at as",
+    "start": 2848.12,
+    "duration": 6
+  },
+  {
+    "text": "for inspiration is Runna being acquired",
+    "start": 2851,
+    "duration": 5.68
+  },
+  {
+    "text": "by Strava. I think Runna, I'm not a",
+    "start": 2854.12,
+    "duration": 4.4
+  },
+  {
+    "text": "user, candidly, I've never used it, but",
+    "start": 2856.68,
+    "duration": 3.36
+  },
+  {
+    "text": "my understanding of the product is that",
+    "start": 2858.52,
+    "duration": 3.88
+  },
+  {
+    "text": "it's a running coach in your ear and I",
+    "start": 2860.04,
+    "duration": 4.88
+  },
+  {
+    "text": "could see if you are a runner, this is",
+    "start": 2862.4,
+    "duration": 4.6
+  },
+  {
+    "text": "going to be amazing because in the same",
+    "start": 2864.92,
+    "duration": 4.56
+  },
+  {
+    "text": "way that Ladder is your coach at the",
+    "start": 2867,
+    "duration": 5
+  },
+  {
+    "text": "gym, that Runna is your coach, you know,",
+    "start": 2869.48,
+    "duration": 4.16
+  },
+  {
+    "text": "while you're running.",
+    "start": 2872,
+    "duration": 3.56
+  },
+  {
+    "text": "Perhaps you're training for a marathon",
+    "start": 2873.64,
+    "duration": 4
+  },
+  {
+    "text": "or whatnot, but I would say that most of",
+    "start": 2875.56,
+    "duration": 3.96
+  },
+  {
+    "text": "the people that are using Runna, as",
+    "start": 2877.64,
+    "duration": 3.68
+  },
+  {
+    "text": "Brett mentioned,",
+    "start": 2879.52,
+    "duration": 3.92
+  },
+  {
+    "text": "identify as a runner and so you're",
+    "start": 2881.32,
+    "duration": 4.44
+  },
+  {
+    "text": "building a habit. This is very much like",
+    "start": 2883.44,
+    "duration": 5.28
+  },
+  {
+    "text": "a deep level identity thing and so this",
+    "start": 2885.76,
+    "duration": 4.76
+  },
+  {
+    "text": "is something that I think is fascinating",
+    "start": 2888.72,
+    "duration": 3.88
+  },
+  {
+    "text": "and then to my first point, it wasn't",
+    "start": 2890.52,
+    "duration": 5.92
+  },
+  {
+    "text": "possible before Runna switched to this",
+    "start": 2892.6,
+    "duration": 6.2
+  },
+  {
+    "text": "iteration of their product. It could not",
+    "start": 2896.44,
+    "duration": 4.76
+  },
+  {
+    "text": "have happened, you know, 6 months or a",
+    "start": 2898.8,
+    "duration": 4.4
+  },
+  {
+    "text": "year prior to that. You would have",
+    "start": 2901.2,
+    "duration": 4.4
+  },
+  {
+    "text": "literally had to have a human coaching",
+    "start": 2903.2,
+    "duration": 5.52
+  },
+  {
+    "text": "you in real time based on your metrics.",
+    "start": 2905.6,
+    "duration": 4.64
+  },
+  {
+    "text": "So, that's a fascinating framework to",
+    "start": 2908.72,
+    "duration": 3.04
+  },
+  {
+    "text": "think about like what's possible today",
+    "start": 2910.24,
+    "duration": 3.28
+  },
+  {
+    "text": "that wasn't possible",
+    "start": 2911.76,
+    "duration": 3.4
+  },
+  {
+    "text": "3 or 6 months ago. I don't know if you",
+    "start": 2913.52,
+    "duration": 3.44
+  },
+  {
+    "text": "guys can talk about this, but are you",
+    "start": 2915.16,
+    "duration": 4.32
+  },
+  {
+    "text": "applying that to Coco or Quizlet?",
+    "start": 2916.96,
+    "duration": 4.16
+  },
+  {
+    "text": "Coconote's mission has has always been",
+    "start": 2919.48,
+    "duration": 3.8
+  },
+  {
+    "text": "to give learners superpowers and we are",
+    "start": 2921.12,
+    "duration": 3.88
+  },
+  {
+    "text": "intentionally vague when we say that.",
+    "start": 2923.28,
+    "duration": 3.4
+  },
+  {
+    "text": "So, learners doesn't have to be a",
+    "start": 2925,
+    "duration": 3.24
+  },
+  {
+    "text": "student, right?",
+    "start": 2926.68,
+    "duration": 3.48
+  },
+  {
+    "text": "I'm sure everyone here, the three of us,",
+    "start": 2928.24,
+    "duration": 4.36
+  },
+  {
+    "text": "are lifelong learners. And so we are",
+    "start": 2930.16,
+    "duration": 4.48
+  },
+  {
+    "text": "also a target customer of Coconote. We",
+    "start": 2932.6,
+    "duration": 4.96
+  },
+  {
+    "text": "want to recognize that we are not a, you",
+    "start": 2934.64,
+    "duration": 4.8
+  },
+  {
+    "text": "know, deep learning foundational model",
+    "start": 2937.56,
+    "duration": 3.799
+  },
+  {
+    "text": "company. We will never compete with the",
+    "start": 2939.44,
+    "duration": 4.88
+  },
+  {
+    "text": "likes of OpenAI, Anthropic and Google,",
+    "start": 2941.359,
+    "duration": 6.121
+  },
+  {
+    "text": "etc. Our job is to take the foundational",
+    "start": 2944.32,
+    "duration": 4.96
+  },
+  {
+    "text": "model work that these great companies",
+    "start": 2947.48,
+    "duration": 3.56
+  },
+  {
+    "text": "are doing and apply it to our target",
+    "start": 2949.28,
+    "duration": 3.36
+  },
+  {
+    "text": "audience, which is learners. The other",
+    "start": 2951.04,
+    "duration": 3.24
+  },
+  {
+    "text": "thing that comes to mind Joseph is a",
+    "start": 2952.64,
+    "duration": 3.68
+  },
+  {
+    "text": "story I like to tell, which is like if",
+    "start": 2954.28,
+    "duration": 3.84
+  },
+  {
+    "text": "you can imagine, you know, you're the",
+    "start": 2956.32,
+    "duration": 4.12
+  },
+  {
+    "text": "son or daughter of Jeff Bezos. If you",
+    "start": 2958.12,
+    "duration": 4.64
+  },
+  {
+    "text": "say you want a tutor tonight, you're",
+    "start": 2960.44,
+    "duration": 3.6
+  },
+  {
+    "text": "going to have one of the best tutors in",
+    "start": 2962.76,
+    "duration": 3.599
+  },
+  {
+    "text": "the world at your door to help you",
+    "start": 2964.04,
+    "duration": 3.88
+  },
+  {
+    "text": "prepare for your exam or whatever you",
+    "start": 2966.359,
+    "duration": 3.761
+  },
+  {
+    "text": "have coming up. I think something that's",
+    "start": 2967.92,
+    "duration": 4.8
+  },
+  {
+    "text": "very near and dear to Brett and my heart",
+    "start": 2970.12,
+    "duration": 5.96
+  },
+  {
+    "text": "is making sure a great tutor is",
+    "start": 2972.72,
+    "duration": 5.04
+  },
+  {
+    "text": "available to",
+    "start": 2976.08,
+    "duration": 3.92
+  },
+  {
+    "text": "basically any level of socioeconomic",
+    "start": 2977.76,
+    "duration": 5.08
+  },
+  {
+    "text": "background. Instead of you know, someone",
+    "start": 2980,
+    "duration": 4.68
+  },
+  {
+    "text": "from a very high socioeconomic",
+    "start": 2982.84,
+    "duration": 3.48
+  },
+  {
+    "text": "background",
+    "start": 2984.68,
+    "duration": 3.44
+  },
+  {
+    "text": "having the best tutors and only them",
+    "start": 2986.32,
+    "duration": 4.04
+  },
+  {
+    "text": "having the best tutors, we think that if",
+    "start": 2988.12,
+    "duration": 3.6
+  },
+  {
+    "text": "you have a phone in your pocket, you",
+    "start": 2990.36,
+    "duration": 2.84
+  },
+  {
+    "text": "should be able to have a great tutor.",
+    "start": 2991.72,
+    "duration": 3.4
+  },
+  {
+    "text": "So, it's a it's a great analogy and",
+    "start": 2993.2,
+    "duration": 3.24
+  },
+  {
+    "text": "that's absolutely something that we're",
+    "start": 2995.12,
+    "duration": 2.88
+  },
+  {
+    "text": "thinking about and working on. This is",
+    "start": 2996.44,
+    "duration": 2.8
+  },
+  {
+    "text": "sort of like a",
+    "start": 2998,
+    "duration": 2.96
+  },
+  {
+    "text": "sort of a random tangential question,",
+    "start": 2999.24,
+    "duration": 3.76
+  },
+  {
+    "text": "but are there any subjects that you feel",
+    "start": 3000.96,
+    "duration": 3.96
+  },
+  {
+    "text": "like are underserved right now? It's a",
+    "start": 3003,
+    "duration": 3.64
+  },
+  {
+    "text": "great point.",
+    "start": 3004.92,
+    "duration": 4.56
+  },
+  {
+    "text": "I think there's certainly subjects that",
+    "start": 3006.64,
+    "duration": 6.2
+  },
+  {
+    "text": "we know are underserved in",
+    "start": 3009.48,
+    "duration": 5.48
+  },
+  {
+    "text": "Cram and",
+    "start": 3012.84,
+    "duration": 4.08
+  },
+  {
+    "text": "Quizlet as a whole.",
+    "start": 3014.96,
+    "duration": 3.68
+  },
+  {
+    "text": "It's much easier to make",
+    "start": 3016.92,
+    "duration": 4.84
+  },
+  {
+    "text": "flash cards about health and biology or",
+    "start": 3018.64,
+    "duration": 5.76
+  },
+  {
+    "text": "take notes on them than it is on",
+    "start": 3021.76,
+    "duration": 5.24
+  },
+  {
+    "text": "computer science or or math, right? And",
+    "start": 3024.4,
+    "duration": 3.6
+  },
+  {
+    "text": "so,",
+    "start": 3027,
+    "duration": 2.4
+  },
+  {
+    "text": "that's something something that we we",
+    "start": 3028,
+    "duration": 3.24
+  },
+  {
+    "text": "think about and are trying to innovate",
+    "start": 3029.4,
+    "duration": 3.64
+  },
+  {
+    "text": "on. Yeah, that makes a lot of sense",
+    "start": 3031.24,
+    "duration": 3.88
+  },
+  {
+    "text": "actually. Yeah, flash cards like",
+    "start": 3033.04,
+    "duration": 4.88
+  },
+  {
+    "text": "works better with like English words or",
+    "start": 3035.12,
+    "duration": 5.04
+  },
+  {
+    "text": "just like words on it rather than like",
+    "start": 3037.92,
+    "duration": 4.72
+  },
+  {
+    "text": "symbols in math and stuff where you",
+    "start": 3040.16,
+    "duration": 4.48
+  },
+  {
+    "text": "benefit more from maybe a more like a",
+    "start": 3042.64,
+    "duration": 3.48
+  },
+  {
+    "text": "just a different type of user",
+    "start": 3044.64,
+    "duration": 3.56
+  },
+  {
+    "text": "experience. Okay, cool. Yeah, I just",
+    "start": 3046.12,
+    "duration": 3.48
+  },
+  {
+    "text": "wanted to talk about the future a little",
+    "start": 3048.2,
+    "duration": 2.72
+  },
+  {
+    "text": "bit. That was like really interesting to",
+    "start": 3049.6,
+    "duration": 3.32
+  },
+  {
+    "text": "hear you guys' perspectives. Um, I think",
+    "start": 3050.92,
+    "duration": 4.56
+  },
+  {
+    "text": "it's a good place to wrap, but Brett,",
+    "start": 3052.92,
+    "duration": 5
+  },
+  {
+    "text": "you said you're hiring for iOS. What",
+    "start": 3055.48,
+    "duration": 5
+  },
+  {
+    "text": "kind of person would thrive on your",
+    "start": 3057.92,
+    "duration": 4.12
+  },
+  {
+    "text": "team? That's a a great great way to",
+    "start": 3060.48,
+    "duration": 5.36
+  },
+  {
+    "text": "phrase it. So, I'm working with Cram and",
+    "start": 3062.04,
+    "duration": 6.16
+  },
+  {
+    "text": "Quizlet on specifically on subscription",
+    "start": 3065.84,
+    "duration": 4.96
+  },
+  {
+    "text": "growth. So, if you're out there",
+    "start": 3068.2,
+    "duration": 4.92
+  },
+  {
+    "text": "listening, iOS engineer, even Android",
+    "start": 3070.8,
+    "duration": 4.16
+  },
+  {
+    "text": "engineer who",
+    "start": 3073.12,
+    "duration": 4.36
+  },
+  {
+    "text": "loves using Superwall, loves running",
+    "start": 3074.96,
+    "duration": 4.84
+  },
+  {
+    "text": "paywall experiments, and wants to do it",
+    "start": 3077.48,
+    "duration": 6.08
+  },
+  {
+    "text": "at scale, we run experiments where",
+    "start": 3079.8,
+    "duration": 6.12
+  },
+  {
+    "text": "you can easily increase revenue by a",
+    "start": 3083.56,
+    "duration": 4.16
+  },
+  {
+    "text": "million dollars a year and that's",
+    "start": 3085.92,
+    "duration": 3.48
+  },
+  {
+    "text": "something that excites me a lot. If that",
+    "start": 3087.72,
+    "duration": 3.84
+  },
+  {
+    "text": "excites you, then definitely reach out",
+    "start": 3089.4,
+    "duration": 4.32
+  },
+  {
+    "text": "to me. You can find me either on my",
+    "start": 3091.56,
+    "duration": 5.12
+  },
+  {
+    "text": "email it's brett.bauman@quizlet or you",
+    "start": 3093.72,
+    "duration": 4.8
+  },
+  {
+    "text": "can find me on Twitter. And Zach, you",
+    "start": 3096.68,
+    "duration": 4.32
+  },
+  {
+    "text": "said you you like when founders DM you.",
+    "start": 3098.52,
+    "duration": 3.76
+  },
+  {
+    "text": "What kind of founders are you looking",
+    "start": 3101,
+    "duration": 2.48
+  },
+  {
+    "text": "for? Yeah, I would just say if you're",
+    "start": 3102.28,
+    "duration": 3.2
+  },
+  {
+    "text": "building something interesting and you'd",
+    "start": 3103.48,
+    "duration": 5.24
+  },
+  {
+    "text": "like perspective or feedback or informal",
+    "start": 3105.48,
+    "duration": 4.92
+  },
+  {
+    "text": "jam session, you're more than welcome to",
+    "start": 3108.72,
+    "duration": 3.64
+  },
+  {
+    "text": "DM me. Well, Zach and Brett, thanks so",
+    "start": 3110.4,
+    "duration": 3.44
+  },
+  {
+    "text": "much for being on the Superwall Pod.",
+    "start": 3112.36,
+    "duration": 3.76
+  },
+  {
+    "text": "It's great to great to hear your story.",
+    "start": 3113.84,
+    "duration": 4.08
+  },
+  {
+    "text": "Thank you, Joseph. Something you might",
+    "start": 3116.12,
+    "duration": 3.56
+  },
+  {
+    "text": "not know, most of the founders I cover",
+    "start": 3117.92,
+    "duration": 3.6
+  },
+  {
+    "text": "on this podcast are hanging out right",
+    "start": 3119.68,
+    "duration": 4.12
+  },
+  {
+    "text": "now in the Consumer Club Discord sharing",
+    "start": 3121.52,
+    "duration": 3.8
+  },
+  {
+    "text": "with each other what's working now for",
+    "start": 3123.8,
+    "duration": 3.16
+  },
+  {
+    "text": "consumer apps. So, you can apply to join",
+    "start": 3125.32,
+    "duration": 3.4
+  },
+  {
+    "text": "Consumer Club if that sounds interesting",
+    "start": 3126.96,
+    "duration": 3.36
+  },
+  {
+    "text": "to you. And this is the Superwall",
+    "start": 3128.72,
+    "duration": 3.08
+  },
+  {
+    "text": "Podcast. Of course, you got to check out",
+    "start": 3130.32,
+    "duration": 3.32
+  },
+  {
+    "text": "superwall.com. We have more videos on",
+    "start": 3131.8,
+    "duration": 3.64
+  },
+  {
+    "text": "the channel, so dig into those to learn",
+    "start": 3133.64,
+    "duration": 3.16
+  },
+  {
+    "text": "from app founders who are willing to",
+    "start": 3135.44,
+    "duration": 3.84
+  },
+  {
+    "text": "share super tactical stuff about app",
+    "start": 3136.8,
+    "duration": 4.88
+  },
+  {
+    "text": "growth.",
+    "start": 3139.28,
+    "duration": 2.4
+  }
+]

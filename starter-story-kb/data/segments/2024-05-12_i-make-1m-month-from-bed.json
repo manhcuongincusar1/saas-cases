@@ -1,0 +1,115 @@
+{
+ "f": "2024-05-12_i-make-1m-month-from-bed",
+ "vid": "dphK9rh2F5U",
+ "segments": [
+  {
+   "s": "01:23",
+   "e": "02:18",
+   "nut": ["?"],
+   "moi": "Mốc thời gian từ lập công ty tới tháng đầu 1 triệu đô",
+   "tom": "Sheets & Giggles lập công ty 10/2017, giao thùng hàng đầu tiên 10/2018, 25 tháng sau (11/2020) có tháng đầu tiên $1,2M; bán chính trên web Shopify (90%) + Amazon (10%), khởi đầu 5 màu × 5 size nay là 7 size, 17 màu, hàng trăm SKU và cả nệm 45kg",
+   "kq": "$1,2M/tháng sau 25 tháng bán hàng"
+  },
+  {
+   "s": "02:18",
+   "e": "03:35",
+   "nut": ["?"],
+   "moi": "Mua bữa trưa hàng tuần để có mentor",
+   "tom": "Bị đuổi 2 lần, bị layoff 1 lần rồi quyết không làm thuê nữa; bước ngoặt là giúp bạn tổ chức tiệc ra mắt Kickstarter ở Seattle — cách anh xin mentor rất đơn giản: hỏi 'anh cho em 1 tiếng mỗi tuần, em mời anh ăn trưa và hỏi', anh làm vậy với đúng 3 người"
+  },
+  {
+   "s": "03:35",
+   "e": "04:28",
+   "nut": ["1.2"],
+   "tom": "Viết mô hình kinh doanh TRƯỚC khi biết sản phẩm là gì: business model trước, product sau (hoặc chỉnh product cho khớp model); gọi đó là founder-market fit — chọn business khớp bộ kỹ năng sẵn có chứ không phải đi tìm 'vấn đề của mình' rồi cầu mong người khác chịu trả tiền"
+  },
+  {
+   "s": "04:56",
+   "e": "05:21",
+   "nut": ["?"],
+   "moi": "Ba tài liệu nền trước khi build bất cứ thứ gì",
+   "tom": "Việc đầu tiên phải làm là brand identity map (để tự hình dung được công ty mình đang dựng), rồi financial model, rồi business model — ba thứ đó là nền cho mọi việc phía sau"
+  },
+  {
+   "s": "05:21",
+   "e": "05:47",
+   "nut": ["3.7"],
+   "tom": "Gửi financial model cho những người mình nể và hỏi thẳng 'tôi quên mất khoản chi phí nào không, tôi có tính giá quá cao không' — qua được vòng đó mới đi validate với khách thật, và nguyên tắc là bán trước khi build: bán được cả wireframe, cả ý tưởng, cả form đăng ký"
+  },
+  {
+   "s": "05:47",
+   "e": "06:15",
+   "nut": ["3.7"],
+   "tom": "Lời hứa cụ thể để thu email: 'đăng ký ngay, tới 1/5 ra mắt bạn khoá được mức giá tốt nhất' — bộ ga bán $100 nhưng người đăng ký trước chỉ $69; kết quả thu 11.000 email với tỉ lệ capture 46%",
+   "kq": "11.000 email, tỉ lệ capture 46%"
+  },
+  {
+   "s": "06:15",
+   "e": "06:44",
+   "nut": ["?"],
+   "moi": "Cho khách cùng quyết sản phẩm bằng survey trước ra mắt",
+   "tom": "Sau khi có email thì gửi survey hỏi 'anh chị muốn màu nào, sẵn sàng trả bao nhiêu' — kéo họ vào quá trình build khiến họ gắn bó cảm xúc; người không mua vẫn đi share hộ, đó mới là validate thật sự"
+  },
+  {
+   "s": "06:44",
+   "e": "07:38",
+   "nut": ["?"],
+   "moi": "Toán ngược của chiến dịch crowdfunding",
+   "tom": "Muốn campaign $100K thì ngày đầu phải ra 30% mục tiêu = $30K = 300 khách × $100 AOV; email list convert ~3% (2% nếu làm dở, 4% nếu làm tốt) nên cần 10.000 email. Thực tế list convert 4,5% → 450 khách, $45K ngày đầu, cuộn thành campaign $284K",
+   "kq": "$45K ngày đầu → $284K cả chiến dịch"
+  },
+  {
+   "s": "07:38",
+   "e": "08:06",
+   "nut": ["4.14"],
+   "tom": "Founder tự trả lời từng comment mạng xã hội, từng email chăm sóc khách, tự viết từng cái email và từng chữ copy trên website suốt nhiều năm — quan hệ 1-1 với hàng nghìn người là thứ anh khuyên mọi founder phải làm bằng tay"
+  },
+  {
+   "s": "08:06",
+   "e": "09:04",
+   "nut": ["?"],
+   "moi": "Tài trợ đúng podcast/YouTuber mà chính mình là fan",
+   "tom": "Ngoài FB/IG/Google/Amazon ads, kênh bất ngờ hiệu quả nhất là tài trợ podcast và kênh YouTube mà chính anh nghe/xem — vì khán giả của họ giống anh nên hợp brand; anh dựng hẳn landing page riêng theo giọng và inside joke của kênh đó, conversion cao khủng khiếp so với mọi trang khác của website"
+  },
+  {
+   "s": "09:04",
+   "e": "09:33",
+   "nut": ["?"],
+   "moi": "Cố tình làm mất lòng một phần khán giả để brand có mặt",
+   "tom": "Dùng bạn bè làm người mẫu (rẻ hơn, và không diễn giả được tình bạn/chemistry); nguyên tắc: không thể là tất cả cho mọi người, nếu chưa làm ít nhất 20% người ta khó chịu là chưa làm đúng — ví dụ quy tắc không bao giờ ủi phẳng bộ ga trong ảnh, và 'cái gì có người làm rồi thì không làm'"
+  },
+  {
+   "s": "09:33",
+   "e": "10:31",
+   "nut": ["?"],
+   "moi": "4 quy tắc đặt tên thương hiệu",
+   "tom": "(1) đánh vần được, chia sẻ được, nhớ được; (2) tự nói ra mình bán gì (Sheets & Giggles = bán ga giường); (3) SEO sạch — tránh từ mà search ra người khác hoặc tệ hơn là đối thủ; (4) bán cho người Mỹ thì bắt buộc .com. Đủ 4/4 là trúng đích, 3/4 vẫn đi tiếp, 2/4 thì đặt lại tên"
+  },
+  {
+   "s": "10:31",
+   "e": "11:26",
+   "nut": ["?"],
+   "moi": "Bộ công cụ vận hành cửa hàng Shopify",
+   "tom": "Shopify, Google Analytics, Google AdWords, Rebuy cho upsell trong giỏ, Aftersell cho upsell sau thanh toán, Okendo cho đánh giá, Tracking More cho theo dõi đơn, SiteGPT làm chatbot AI train trên chính website"
+  },
+  {
+   "s": "11:26",
+   "e": "12:23",
+   "nut": ["?"],
+   "moi": "Chatbot AI vừa cắt ticket vừa bán hàng",
+   "tom": "SiteGPT giá $50/tháng cắt khoảng 30% ticket chăm sóc khách, đồng thời là 'nhân viên bán hàng tốt nhất': bot tự đánh giá hội thoại nào tốt thì tặng mã AI giảm 10% — một trong những mã giảm giá hiệu quả nhất. Ảnh thì dùng stock image + DALL·E, ChatGPT chỉ để phá trang giấy trắng chứ không viết copy",
+   "kq": "cắt ~30% ticket chăm sóc khách với $50/tháng"
+  },
+  {
+   "s": "12:23",
+   "e": "12:53",
+   "nut": ["?"],
+   "moi": "Cấu trúc team DTC: lõi nhỏ + nhiều agency",
+   "tom": "Khoảng 40 người chạm vào business mỗi ngày: logistics và kho, agency chạy Amazon ads, agency performance marketing, agency affiliate, cộng nhân sự full-time ở marketing, product, operations, customer care"
+  }
+ ],
+ "bo_qua": [
+  {"s": "04:28", "e": "04:56", "ly_do": "chèn quảng cáo workshop Starter Story giữa câu trả lời"},
+  {"s": "14:16", "e": "15:07", "ly_do": "outro + quảng cáo workshop Starter Story"}
+ ]
+}

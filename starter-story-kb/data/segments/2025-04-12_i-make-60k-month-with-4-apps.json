@@ -1,0 +1,41 @@
+{
+ "f": "2025-04-12_i-make-60k-month-with-4-apps",
+ "vid": "KpVPST_P4W8",
+ "segments": [
+  {"s":"01:18","e":"02:35","nut":["1.4"],
+   "tom":"Bốn business của Jure và kênh bán khác nhau hẳn: Rummer — thiết bị cắm cổng OBD2 giả tiếng động cơ, ra mắt 2 năm trước, năm ngoái bán 6.000 chiếc thu $300K, gần như toàn bộ đơn đến từ 200 triệu view video ngắn organic; Parakeet AI — trợ lý phỏng vấn realtime, ra 6 tháng, 30 ngày gần nhất hơn $35K; Optivase — SaaS B2B làm A/B test cho Webflow, ra một năm, ~$6,5K MRR chủ yếu từ app store của Webflow, Google và truyền miệng; Apply Agent — agent tự nộp đơn xin việc, mới 2 tuần đã ~$1.000",
+   "kq":"tổng $60.000/tháng"},
+  {"s":"02:35","e":"03:21","nut":["2.B3"],
+   "tom":"Bài học lớn nhất của anh: xuất phát là dân lập trình thuần, biết build nhưng không hiểu marketing là gì — và rất nhiều lập trình viên tắc đúng chỗ đó, biết làm ra sản phẩm nhưng tới lúc phải bán thì bỏ cuộc; phần marketing lớn và phức tạp ngang phần build sản phẩm"},
+  {"s":"04:39","e":"05:26","nut":["2.1","2.8"],
+   "tom":"Anh nói thẳng: ngồi trên sofa thì không nghĩ ra ý tưởng, phải đang làm gì đó. Ý tưởng Rummer đến khi anh vừa dựng store Shopify thuê cho các brand e-com (và choáng vì họ kiếm nhiều thế nào) vừa đi mua xe cũ nên sắm một thiết bị chẩn đoán xe — nghịch thì phát hiện nó đọc được vòng tua máy theo thời gian thực, từ đó nảy ra chuyện dùng nó phát tiếng động cơ giả qua loa"},
+  {"s":"05:26","e":"05:57","nut":["?"],"moi":"Chọn sản phẩm kể được trong video 10 giây",
+   "tom":"Tiêu chí chọn sản phẩm của anh nghiêng hẳn về khả năng làm nội dung: thiết bị rẻ, bán online được, kể được một câu chuyện hay, buồn cười và hơi gây tranh cãi. Phải khơi được tò mò trong 10 giây video — sản phẩm nhàm thì rất khó; và TikTok chỉ bán được thứ mua theo cảm hứng, thứ cần cân nhắc lâu thì kênh này không ăn"},
+  {"s":"05:57","e":"06:27","nut":["2.B1","2.7"],
+   "tom":"Cách anh validate: gần như chắc chắn 100% là đã có người nghĩ ra và làm ý tưởng của bạn rồi, nên việc cần làm là đánh giá đối thủ và tìm khe để chen vào — chỉ có hai khe: làm sản phẩm tốt hơn, hoặc làm marketing giỏi hơn họ"},
+  {"s":"06:27","e":"06:58","nut":["4.2","4.1"],
+   "tom":"Nếu khởi nghiệp online lúc này anh khuyên đặt cược vào nội dung ngắn organic: các kênh khác đã bão hoà tới mức người mới vào rất khó có lãi, còn video ngắn thì chỉ cần cái điện thoại cũng có thể ra một TikTok triệu view, và triệu view đó đổi được ra hàng nghìn đô — giới hạn duy nhất là mình chịu làm và làm đúng nội dung"},
+  {"s":"07:15","e":"08:02","nut":["3.7","?"],"moi":"Đo tốc độ tới đơn hàng đầu tiên chứ không phải tới bản hoàn hảo",
+   "tom":"Với MVP, chữ quan trọng nhất là 'viable': sản phẩm chưa đủ tốt để tạo ra đơn hàng đầu tiên thì chưa viable. Anh đóng khung thành cuộc đua tốc độ — nếu anh đi từ 0 tới đơn đầu trong 2 tuần còn bạn mất 6 tháng thì bạn không cạnh tranh nổi; Parakeet AI từ proof of concept (phiên âm realtime + ChatGPT sinh câu trả lời) tới sản phẩm có landing page chỉ mất khoảng 2 tuần"},
+  {"s":"09:20","e":"10:21","nut":["4.1","4.B1"],
+   "tom":"Cách chọn kênh: liệt kê 10 cách marketing khả dĩ (video ngắn organic, Facebook Ads, Google Ads, Reddit...), chọn đúng một cái có xác suất thắng cao nhất và dồn toàn bộ thời gian vào đó trong 2 tháng, cái nào chạy thì tăng gấp. Với Rummer anh đã đốt tiền vào Facebook Ads và Google Ads đều không ăn, thứ ăn là video ngắn hài hước tự viral vì bản thân sản phẩm đã đủ lạ",
+   "kq":"200 triệu view → 600.000 lượt vào web → 6.000 đơn → ~$300K"},
+  {"s":"10:21","e":"11:07","nut":["4.6","4.1"],
+   "tom":"Cách sản xuất nội dung hàng loạt: co-founder viết sẵn 5-10 ý cho từng phần rồi ghép tổ hợp — ví dụ 3 hook × 5 phần thân × 3 kết là ra rất nhiều video khác nhau; khi thấy một concept ăn thì cứ làm lại đúng concept đó"},
+  {"s":"11:07","e":"11:55","nut":["4.16","4.4"],
+   "tom":"Anh tìm co-founder làm nội dung bằng cách gửi hàng trăm email cho các creator anh thấy trên TikTok, chào ý tưởng sản phẩm; Urban là người duy nhất thật sự tin, và video thứ hai anh ấy quay đã viral. Hai người ăn chia theo doanh thu để lợi ích khớp nhau chứ không trả theo bài"},
+  {"s":"11:55","e":"12:42","nut":["?"],"moi":"Bỏ qua A/B test khi còn nhỏ, chỉ làm thay đổi lớn",
+   "tom":"200 triệu view đổi ra $300K chỉ với một landing page đơn giản, gần như không A/B test: khi team còn nhỏ và số đơn còn ít, nếu không tự tin thay đổi mình sắp làm sẽ tăng doanh số thì tức là đang tập trung sai chỗ — anh chỉ làm những thay đổi lớn mà anh biết chắc có khác biệt"},
+  {"s":"12:42","e":"13:15","nut":["?"],"moi":"Chọn kiểu thu tiền khớp cách sản phẩm được dùng",
+   "tom":"Anh phản đối thói quen biến mọi thứ thành subscription: Parakeet AI thu theo credit vì bản chất sử dụng là vậy, và chính điều đó thành lợi thế bán hàng — trên trang có hẳn banner 'không subscription, trả một lần' trong khi đối thủ toàn bán gói tháng"},
+  {"s":"13:15","e":"13:46","nut":["1.1","4.15"],
+   "tom":"Giữ chân khách khác nhau theo mô hình: với sản phẩm phần cứng như Rummer thì không có retention, sự đều đặn phải nằm ở chính guồng marketing vì luôn phải kéo khách mới, ngừng là chết; còn với Parakeet AI thì không có lượng retarget nào cứu nổi một sản phẩm dở"},
+  {"s":"13:46","e":"14:35","nut":["1.1","?"],"moi":"Chi phí AI thật của một app realtime",
+   "tom":"Stack: Next.js + React; phiên âm dùng Speechmatics giá khoảng $1 cho mỗi giờ audio, hiện trả $2.000-3.000/tháng; phần sinh câu trả lời dùng ChatGPT tốn thêm $1.000-2.000/tháng",
+   "kq":"~$3-5K chi phí AI/tháng trên doanh thu $35K"}
+ ],
+ "bo_qua": [
+  {"s":"08:18","e":"09:20","ly_do":"quảng cáo HubSpot — guide dùng AI làm nội dung mạng xã hội"},
+  {"s":"16:41","e":"17:26","ly_do":"quảng bá thư viện case study và list 52 ý tưởng micro SaaS của Starter Story"}
+ ]
+}

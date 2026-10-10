@@ -1,0 +1,109 @@
+{
+ "f": "2026-07-05_this-insanely-simple-app-makes-50k-month",
+ "vid": "uvIcGuN2iO8",
+ "segments": [
+  {
+   "s": "01:32",
+   "e": "02:03",
+   "nut": ["?"],
+   "moi": "Một tính năng lạ duy nhất gắn lên sản phẩm nhàm chán",
+   "tom": "Early là app báo thức phải hít đất mới tắt được chuông; 28 ngày gần nhất hơn $50K, 50.000 lượt tải trong 30 ngày, hơn 200.000 lượt tải cả năm; free trial rồi $9,99/tháng hoặc $29,99/năm.",
+   "kq": "0 → $50K/tháng trong 4 tháng"
+  },
+  {
+   "s": "02:18",
+   "e": "02:49",
+   "nut": ["2.B3"],
+   "tom": "Jake học kế toán, có CPA, làm Big Four hơn một năm, tự học code 4 năm; sau chuỗi business chết anh rút ra marketing mới là thứ quyết định, nên chọn sẵn kênh đã có người chứng minh: influencer."
+  },
+  {
+   "s": "04:09",
+   "e": "04:55",
+   "nut": ["2.1", "2.8"],
+   "tom": "Ý tưởng đến từ chính việc anh không dậy nổi: mỗi tối nhắn bạn 'mai 6h tao gửi video hít đất'. MVP đầu chỉ là app accountability không có báo thức; build 3 tuần xong mới thấy ý tưởng không đủ viral."
+  },
+  {
+   "s": "04:55",
+   "e": "05:26",
+   "nut": ["2.3"],
+   "tom": "Anh dành nguyên một ngày đi bộ và viết ra các hướng, chốt hướng báo thức đúng lúc iOS 26 mở AlarmKit API cho nối vào hệ thống alarm gốc — trước đó mọi app báo thức đều chạy workaround nên không đáng tin."
+  },
+  {
+   "s": "05:58",
+   "e": "06:44",
+   "nut": ["?"],
+   "moi": "Ship MVP thiếu tính năng chính để bắt đầu học marketing sớm",
+   "tom": "19 ngày từ commit đầu tới lên App Store, bản đó còn chưa có báo thức, chỉ log giờ dậy; 19 ngày sau mới thêm alarm. Anh biết mình build được, cái chưa biết là có kéo được views hay không."
+  },
+  {
+   "s": "06:44",
+   "e": "07:01",
+   "nut": ["?"],
+   "moi": "Dùng một video influencer trả phí làm phép thử validate",
+   "tom": "Video influencer đầu tiên lên sau 7 ngày, thấy có người mua ngay từ video đó là coi như validate xong rồi mới đổ tiền scale.",
+   "kq": "$1.000 đầu sau 3 tuần, $30K ở tháng 3, $50K ở tháng 4"
+  },
+  {
+   "s": "07:32",
+   "e": "08:03",
+   "nut": ["?"],
+   "moi": "Gắn thêm một chi tiết lạ để ý tưởng tự viral",
+   "tom": "Bộ lọc của anh: giải một vấn đề đau bằng cách đơn giản và bản thân ý tưởng phải tự viral; nếu chưa viral thì gắn thêm một chi tiết lạ. Đau thì người ta trả tiền, đơn giản thì khoe giá trị trong video rất nhanh."
+  },
+  {
+   "s": "08:03",
+   "e": "08:34",
+   "nut": ["?"],
+   "moi": "Dấu hiệu vấn đề đủ đau: lởn vởn hằng ngày, ai nghe cũng nhận",
+   "tom": "Hai dấu hiệu đau thật: chuyện đó chạy qua đầu ít nhất một lần mỗi ngày (anh và bạn cùng phòng bàn chuyện dậy sớm mỗi tối), và ai nghe kể cũng nói 'tôi cần' hoặc 'bạn gái tôi cần cái này'."
+  },
+  {
+   "s": "09:04",
+   "e": "09:50",
+   "nut": ["4.4"],
+   "tom": "DM hàng loạt influencer TikTok/Instagram, tỉ lệ trả lời rất thấp; chỉ nhắm người làm nội dung 'day in the life' để app lồng vào tự nhiên — họ vẫn làm đúng video cũ mà được trả tiền, không phải hy sinh một slot cho quảng cáo."
+  },
+  {
+   "s": "10:05",
+   "e": "10:52",
+   "nut": ["4.1", "4.4"],
+   "tom": "Cấu trúc video thắng: POV một ngày của sinh viên — chuông kêu, hít đất, app phân tích, hiện tick xanh 'alarm turned off'. Gần như video nào cũng có người hỏi tên app, influencer trả lời rồi ghim comment đó."
+  },
+  {
+   "s": "11:07",
+   "e": "11:53",
+   "nut": ["4.4"],
+   "tom": "Deal chuẩn: 2–4 video/tháng kèm bảo đảm lượt xem, trả theo view với CPM khoảng $2–3 nên rủi ro có trần; view đạt đỉnh sau khoảng một ngày, và tiền thật đến từ vài video 1–5 triệu view theo phân bố power law."
+  },
+  {
+   "s": "12:09",
+   "e": "12:47",
+   "nut": ["?"],
+   "moi": "Đo influencer bằng spike thay vì cố truy vết attribution",
+   "tom": "Không đo được attribution nên anh chỉ log view mọi video rồi bắt spike: view vọt trùng conversion vọt thì gán cho video đó. Coi là black box, bỏ $5K ra $10K là được, chấp nhận lỗ ở vài creator mà không biết ai."
+  },
+  {
+   "s": "12:57",
+   "e": "13:58",
+   "nut": ["?"],
+   "moi": "Stack một người vận hành app $50K/tháng",
+   "tom": "Firebase (db, auth, cloud functions), Superwall cho paywall, OpenAI API, Mixpanel, Claude Code để build; phía marketing là Grow và SideShift trả tiền creator, Instantly gửi outreach hàng loạt, Cal, Agree, Google Sheets, QuickBooks."
+  },
+  {
+   "s": "14:44",
+   "e": "15:30",
+   "nut": ["2.B3"],
+   "tom": "Lời khuyên chốt: chỉ tập trung top of funnel. Ai cũng build được app nhờ AI, rất ít người biết kéo views — app không ai biết thì coi như không tồn tại; làm solo thì phải bóp scope thật nhỏ."
+  },
+  {
+   "s": "16:16",
+   "e": "17:17",
+   "nut": ["2.3"],
+   "tom": "Bài học rút ra của ê-kíp: soi mọi thay đổi API nền tảng — AlarmKit đẻ ra loạt app báo thức, widget programmatic và screen time API đẻ ra loạt app chặn màn hình; mỗi lần mở là một cửa sổ ngắn, xong là hết chỗ."
+  }
+ ],
+ "bo_qua": [
+  {"s": "03:22", "e": "03:53", "ly_do": "quảng cáo database 30+ ý tưởng app của Starter Story"},
+  {"s": "18:36", "e": "19:06", "ly_do": "nhắc lại quảng cáo database ý tưởng app ở cuối video"}
+ ]
+}

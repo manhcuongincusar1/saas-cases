@@ -1,0 +1,36 @@
+{
+ "f": "2026-01-07_how-i-grew-my-app-to-13k-month-even-though-i-hate-ma",
+ "vid": "Adl5_lJfkEE",
+ "segments": [
+  {"s":"01:01","e":"01:33","nut":["?"],"moi":"Engineering as marketing — dùng free tool thay cho quảng cáo",
+   "tom":"Bhanu làm 2 SaaS: Feather lên 6K MRR rồi bán $250K, SiteGPT launch tháng 3/2023 nay 13K MRR và đã thu ~$500K tổng doanh thu; phần lớn khách đến từ chiến lược engineering as marketing","kq":"$500K doanh thu tích luỹ, 13K MRR"},
+  {"s":"01:33","e":"02:20","nut":["4.5","?"],"moi":"Free tool làm cửa ngõ SEO đổ về sản phẩm chính",
+   "tom":"SiteGPT là chatbot AI gắn vào website trả lời nội dung doanh nghiệp; hơn 1 triệu người đã ghé site, không đồng nào paid, 60–70% traffic từ Google và ~90% phần Google đó đến từ các free tool tự làm","kq":">1 triệu lượt truy cập, $0 chi cho marketing"},
+  {"s":"02:35","e":"03:35","nut":["?"],"moi":"Đo phễu thật: visitor → lead → trial → khách trả tiền",
+   "tom":"Phễu cụ thể: 50.000 visitor/tháng → 200 lead → 60 trial → 25–40% số đó thành khách; ARPU ~$100, hiện có 130 doanh nghiệp trả tiền, và LTV mỗi khách rơi vào $1.700–1.800","kq":"13K MRR từ 130 khách, LTV $1.700–1.800"},
+  {"s":"03:50","e":"04:22","nut":["?"],"moi":"Về nhà bố mẹ ở để chi phí sống bằng 0 lúc mới build",
+   "tom":"Là software engineer, vào startup lớn sau tốt nghiệp nhưng 8 tháng đã nghỉ; dọn về nhà bố mẹ để không có chi phí nào rồi build liên tục, một cái là Feather lên được 5–6K MRR","kq":"Feather đạt 5–6K MRR"},
+  {"s":"04:22","e":"05:26","nut":["2.3","1.5","?"],"moi":"Build sản phẩm mới cho đúng tệp khách của sản phẩm cũ",
+   "tom":"Đầu 2023 thấy AI nổi khắp Twitter nên dành một cuối tuần học bằng cách build: sẵn 100 khách Feather ai cũng có blog nên làm chatbot trả lời nội dung blog, rồi tách hẳn ra sản phẩm riêng, 2 tuần từ ý tưởng tới launch","kq":"10K MRR ngay tháng đầu, sau đó bán Feather $250K để tập trung"},
+  {"s":"05:26","e":"06:12","nut":["4.5","4.17","?"],"moi":"Làm hàng chục free tool nhỏ ăn keyword đổ về sản phẩm chính",
+   "tom":"Đã build gần 50 free tool (PDF sang markdown, đặt tên chatbot...), điều kiện bắt buộc là ai dùng tool đó phải là khách tiềm năng của sản phẩm chính; nay ~50.000 click Google/tháng, 90% nhờ các tool này","kq":"~50.000 click/tháng từ Google, ~300 lead/tháng"},
+  {"s":"06:12","e":"06:44","nut":["?"],"moi":"Nhân bản free tool bằng AI trong 5 phút mỗi cái",
+   "tom":"Vì đã có sẵn cả kho tool, làm tool mới chỉ mất chưa tới 5 phút: bảo Cursor nhìn các free tool cũ rồi dựng tool mới theo đúng kiểu đó cho keyword chỉ định"},
+  {"s":"08:16","e":"09:21","nut":["4.5","?"],"moi":"Trick tìm keyword: để trống ô Ahrefs rồi lọc dần",
+   "tom":"Bước 1–3: mở Ahrefs Keywords Explorer, để trống ô nhập rồi bấm search (trick học trên Twitter) để lấy toàn bộ keyword, lọc include 'AI' và 'generator', rồi đặt KD dưới 10 cho dễ lên top"},
+  {"s":"09:21","e":"10:27","nut":["4.5"],
+   "tom":"Bước 4–5: thêm bộ lọc volume tối thiểu 1.000 lượt tìm/tháng, chỉ giữ keyword liên quan sản phẩm, thử thêm biến thể generator/builder/creator, rồi chép danh sách vào Notion kèm volume và keyword difficulty"},
+  {"s":"10:27","e":"11:13","nut":["?"],"moi":"Viết CTA cầu nối từ free tool sang sản phẩm chính",
+   "tom":"Bước 6: với mỗi tool phải nghĩ trước CTA đặt ngay dưới nó — ví dụ tool chat với 1 file PDF thì CTA là 'bạn vừa chat với một PDF, thử tạo chatbot cho toàn bộ nội dung doanh nghiệp đi' dẫn sang SiteGPT"},
+  {"s":"11:13","e":"11:43","nut":["2.10","?"],"moi":"Bảng chấm điểm free tool: volume, KD, công sức, độ liên quan",
+   "tom":"Bước 7: lập bảng với cột keyword, volume, keyword difficulty, công sức build và độ liên quan tới sản phẩm chính, rồi ưu tiên các tool volume cao, KD thấp, dễ build và sát sản phẩm"},
+  {"s":"11:43","e":"12:32","nut":["?"],"moi":"Stack vận hành SaaS solo: SEO, analytics, email, docs, feedback",
+   "tom":"Stack một mình: Ahrefs cho SEO, SiteGPT cho support, cal.com đặt lịch, DataFast + PostHog analytics, Sybill AI ghi cuộc gọi, Bento gửi email, Feather viết blog, Featurebase nhận feature request, Mintlify docs, Claude Code để code, ChartMogul đo subscription"},
+  {"s":"12:32","e":"13:06","nut":["3.B6"],
+   "tom":"Lời khuyên cho chính mình ngày xưa: đừng dành nhiều tháng để launch, ra mắt với đúng một feature lõi rồi để phản hồi người dùng quyết định sản phẩm đi hướng nào"}
+ ],
+ "bo_qua": [
+  {"s":"06:44","e":"07:45","ly_do":"quảng bá Starter Story Build kèm mã giảm giá 'BHANU'"},
+  {"s":"14:19","e":"14:55","ly_do":"outro quảng bá bootcamp 4x4 của Starter Story"}
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "f": "2025-04-23_i-spent-24-hours-with-roblox-millionaires",
+ "vid": "8xgnm6SynH4",
+ "segments": [
+  {"s":"04:05","e":"05:11","nut":["1.6"],
+   "tom":"Roblox là 'YouTube của game': ai cũng đăng game được, người chơi mua Robux để mua skin/powerup, dev nhận Robux rồi đổi ra tiền thật; mạch tiền mới là brand trả tiền dựng trải nghiệm tương tác trong game"},
+  {"s":"05:11","e":"06:03","nut":["?"],"moi":"Chấm quy mô nền tảng bằng số liệu trước khi nhảy vào",
+   "tom":"1 trong 2 trẻ dưới 16 tuổi ở Mỹ chơi Roblox mỗi ngày, 400 triệu user hoạt động/tháng, trẻ dành gấp đôi thời gian so với TikTok — và nửa thời gian trên TikTok là để tìm game Roblox tiếp theo để chơi"},
+  {"s":"06:03","e":"07:07","nut":["2.9"],
+   "tom":"Roblox mở khoá từng nhóm khách: con gái lớn gần như không chơi cho tới khi game thời trang Dress to Impress ra đời, đạt hơn 1 triệu người chơi cùng lúc và hơn 1 tỷ lượt chơi — nam lớn tuổi là ô còn trống"},
+  {"s":"09:15","e":"10:33","nut":["?"],"moi":"Không biết code vẫn làm chủ sản phẩm: mình lo UI, đối tác lo code",
+   "tom":"Cole tự nhận không lập trình được dòng nào — làm toàn bộ UI và dựng map trong Roblox Studio, còn hàng nghìn script do business partner viết; game Hide or Die top 100, ~1 triệu DAU, 13.000 người chơi cùng lúc"},
+  {"s":"10:33","e":"11:04","nut":["1.3"],
+   "tom":"Quy đổi thật: 1 triệu Robux = $3.500, đang giữ 6 triệu Robux ≈ $15K tháng này; Hide or Die ra mắt 6 tháng trước đã chạm ~$45K/tháng, sau khi đốt nửa triệu đô cho 2 dự án chết trong 3 năm","kq":"$45K/tháng từ 1 game; trước đó ~$500K và 3 năm mất trắng"},
+  {"s":"11:04","e":"11:34","nut":["1.3","1.6"],
+   "tom":"Tháng này on-track $70K gồm cả phần ăn chia khi hỗ trợ dev khác, nhưng chia đôi với programmer, thêm kế toán, luật sư và ~$5K/tháng thuê modeler/graphic; tuyệt đối không chạy ads vì thuật toán Roblox tự đẩy game","kq":"$70K/tháng gộp, chia 50/50 với programmer"},
+  {"s":"11:34","e":"12:32","nut":["3.6","?"],"moi":"Ship bản nhỏ 2 tuần để test trước khi dồn lực",
+   "tom":"Đốt hết thời trung học và $300K cho một game 'siêu phẩm' gộp mọi thứ hay nhất rồi chết; thấy Ian làm Bake the Baby trong kỳ nghỉ đông mà viral, liền gọi programmer làm game trong 2 tuần — test trước rồi mới build","kq":"game 3 năm/$300K: 0 đồng; game 2 tuần: $45K/tháng"},
+  {"s":"12:32","e":"13:28","nut":["?"],"moi":"Bộ 3 tiêu chí game hit: clickable, social, replayable",
+   "tom":"Công thức Cole: tên/ý tưởng phải 'clickable' (Bake the Baby, Hide or Die đủ kịch tính), phải chơi cùng bạn được, và phải có tầng tiến độ (level 10 → 100) tạo tò mò quay lại; vẫn cần vài lần thử mới trúng"},
+  {"s":"13:28","e":"14:08","nut":["?"],"moi":"Kiếm tiền trong game bằng shop hằng ngày, skin và ability",
+   "tom":"Bathe the Baby kiếm tiền hoàn toàn từ daily shop: bán skin (chim bồ câu, bò), bán coin và bán ability như bắn thiên thạch hay tàng hình — ARPPU ~$1,50 với 150.000 DAU, lọt top 200 Roblox"},
+  {"s":"14:08","e":"14:35","nut":["1.3"],
+   "tom":"Ian: ~$25K/tháng từ game chia đôi với business partner, cộng brand deal ~$5K; team thật chỉ 4–5 người gồm vài modeler và người làm thumbnail/icon","kq":"$25K/tháng + $5K brand deal"},
+  {"s":"14:35","e":"14:56","nut":["2.3","?"],"moi":"Bán dịch vụ cho brand đang đổ vào nền tảng mới nổi",
+   "tom":"Jake không làm game mà mở Vector 3 — agency dựng trailer và chiến dịch TikTok cho brand vào Roblox (Nicki Minaj, SpongeBob), tới nay ~450 video và hơn 100 triệu view"},
+  {"s":"14:56","e":"15:44","nut":["2.8"],
+   "tom":"Đường vào của Jake: 14 năm nhảy giữa các sở thích — graphic design, làm barista ảo trong quán cà phê Roblox, lập trình thuê, rồi mê edit montage Phantom Forces hồi cấp 2; chính nhóm bạn edit đó giờ là nhân viên công ty"},
+  {"s":"15:44","e":"16:20","nut":["?"],"moi":"Đóng gói dịch vụ thành SOP có video cho từng bước",
+   "tom":"Vận hành remote bằng Discord + CMS: mỗi loại dự án là một project plan mẫu, ví dụ làm trailer là quy trình 45 bước, mỗi bước có SOP kèm video do Jake tự quay hướng dẫn cách làm"},
+  {"s":"16:20","e":"17:02","nut":["4.9","?"],"moi":"Bán buổi consulting có phí rồi nhận luôn phần thực thi",
+   "tom":"95% khách đến từ LinkedIn — đăng nội dung giáo dục cộng khoe sản phẩm đã làm, không cold call cold email; kênh thứ hai là nhận cuộc gọi consulting có trả tiền, cuối buổi khách cần người thực thi thì chính mình làm"},
+  {"s":"17:02","e":"17:33","nut":["1.3"],
+   "tom":"Tháng này Vector 3 thu $36.150, trong đó $20–25K là retainer đều hàng tháng, còn lại tính theo dự án; chi phí $10–15K gồm 2 nhân sự full-time tổng $10K và ~$5K cho animator, motion graphics, diễn viên","kq":"$36K/tháng, lãi ~$21–26K"},
+  {"s":"18:10","e":"19:05","nut":["?"],"moi":"Nhịp ngày: 4–5 tiếng tập trung, không có vùng xám giữa làm và nghỉ",
+   "tom":"Ngày thật của triệu phú Roblox: dậy 10:59 cho cuộc họp 11:00 ngay trên giường, rồi ngồi bàn đeo tai nghe, để điện thoại sang phòng khác, làm liền 4–5 tiếng; hoặc đang làm hoặc đang nghỉ, không có ở giữa"},
+  {"s":"19:05","e":"19:54","nut":["?"],"moi":"Lịch gọi hằng tuần với bạn trên mạng để tạo vòng tròn",
+   "tom":"Cả nhóm quen nhau online rồi dọn về Austin sống cạnh nhau; khởi đầu chỉ là một cuộc gọi Google Calendar đặt lịch hằng tuần để nói chuyện — chịu được cái ngượng ban đầu và lặp đủ nhiều thì tìm ra vòng tròn của mình"}
+ ],
+ "bo_qua": [
+  {"s":"07:07","e":"08:59","ly_do":"quảng cáo Starter Story Build (khoá vibe code với Lovable, 14 module/12 ngày)"}
+ ]
+}

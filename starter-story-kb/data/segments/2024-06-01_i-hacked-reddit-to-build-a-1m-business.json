@@ -1,0 +1,66 @@
+{
+ "f": "2024-06-01_i-hacked-reddit-to-build-a-1m-business",
+ "vid": "ptT0tfzeu8I",
+ "segments": [
+  {
+   "s": "01:25",
+   "e": "02:20",
+   "nut": ["3.B6", "4.B2"],
+   "tom": "Dành nhiều tháng đêm hôm cuối tuần để làm cho hoàn hảo: landing page hoàn hảo, thiết kế hoàn hảo, font hoàn hảo, buổi ra mắt hoàn hảo — bấm publish xong ngồi refresh analytics và nhận đúng 0 user, vì không ai quan tâm tới thứ mình vừa tung ra",
+   "kq": "ra mắt Starter Story được 0 user"
+  },
+  {
+   "s": "02:20",
+   "e": "02:47",
+   "nut": ["4.9"],
+   "tom": "Ngồi mổ xẻ các công ty thành công thì thấy tất cả đều khởi động bằng đúng một thứ: sự chú ý, và lấy nó qua kênh miễn phí (YouTube, Instagram, TikTok, Reddit) — họ đi tới chỗ khách hàng đang tụ tập, làm nội dung cho đúng nhóm đó, rồi đổi chú ý thành người dùng"
+  },
+  {
+   "s": "02:47",
+   "e": "03:40",
+   "nut": ["?"],
+   "moi": "Đăng link trần lên cộng đồng bị mod xoá",
+   "tom": "Đăng thẳng link website lên Reddit, có vài upvote rồi traffic bắt đầu chạy — 10, 20, 100 user — nhưng bài bị mod gỡ vì subreddit cấm đăng link, mất sạch",
+   "kq": "bài bị gỡ, traffic về 0"
+  },
+  {
+   "s": "03:40",
+   "e": "05:37",
+   "nut": ["?"],
+   "moi": "Bê trọn nội dung lên thẳng nền tảng, link nhỏ cuối bài",
+   "tom": "Đọc kỹ rule (cấm link post, chỉ cho self post) rồi lách bằng cách không dẫn link về web nữa: copy toàn bộ nội dung vào thẳng bài Reddit để giữ người đọc trên nền tảng, cuối bài mới để một link nhỏ 'ai muốn thêm thì vào' — làm tỉ mỉ để mod không bắt bẻ được chữ nào",
+   "kq": "hàng trăm upvote, hàng nghìn người đọc, hàng nghìn người vào web ngay lúc đó"
+  },
+  {
+   "s": "05:37",
+   "e": "06:29",
+   "nut": ["4.1"],
+   "tom": "Biết rõ hack này là bom hẹn giờ — mod sẽ phát hiện, người khác sẽ copy — nên đổ hết xăng ngay: đăng lại liên tục, bài nào cũng lên front page, hàng trăm nghìn người vào website và hàng triệu người đọc nội dung",
+   "kq": "hàng trăm nghìn visitor, hàng triệu lượt đọc"
+  },
+  {
+   "s": "06:29",
+   "e": "07:30",
+   "nut": ["?"],
+   "moi": "Chuyển traffic đi mượn sang email list mình sở hữu",
+   "tom": "Bước hai là biến chú ý thành tiền: tối ưu ô đăng ký trên site để hứng email từ dòng visitor Reddit — 100, 200, 500 subscriber — vì email list là khán giả mình sở hữu, bán gì cũng được, không cần Reddit nữa"
+  },
+  {
+   "s": "07:30",
+   "e": "07:57",
+   "nut": ["?"],
+   "moi": "Kênh hack chết nhưng tài sản đã chuyển xong",
+   "tom": "Cộng đồng Reddit lập hẳn kiến nghị cấm starterstory.com — kênh coi như chết, nhưng lúc đó email list đã lên hàng chục nghìn người, đủ để nghỉ việc và all-in",
+   "kq": "email list vài chục nghìn subscriber, nghỉ việc 9-5"
+  },
+  {
+   "s": "07:57",
+   "e": "08:23",
+   "nut": ["2.B3"],
+   "tom": "Sau khi nói chuyện với hàng nghìn founder thành công: ai cũng có đúng câu chuyện đó — build xong không ai quan tâm, rồi phải tự nghĩ ra cách đứng được trước mặt khách hàng; đó mới là phần bí mật, không phải ý tưởng"
+  }
+ ],
+ "bo_qua": [
+  {"s": "08:23", "e": "08:52", "ly_do": "quảng cáo workshop hacking attention của Starter Story"}
+ ]
+}

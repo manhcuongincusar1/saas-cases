@@ -1,0 +1,55 @@
+{
+ "f": "2024-01-01_how-i-built-a-1m-business-from-this-starbucks",
+ "vid": "T_wEmB5MapE",
+ "segments": [
+  {
+   "s": "01:22",
+   "e": "01:52",
+   "nut": ["2.1", "2.8"],
+   "tom": "Ý tưởng Starter Story đến từ đúng chỗ Pat đang tắc: anh muốn mở business nhưng không biết bắt đầu từ đâu, tìm ý tưởng tốt kiểu gì, làm sao biết nó kiếm ra tiền — và tìm khắp internet không thấy câu trả lời. Khoảnh khắc loé sáng là biến chính các câu hỏi đó thành sản phẩm: nghiên cứu các business đã thành công, viết kết quả lên blog, chia sẻ cho những người cũng đang muốn học"
+  },
+  {
+   "s": "01:52",
+   "e": "02:48",
+   "nut": ["?"],
+   "moi": "BẪY — ý tưởng nằm im nhiều tháng vì không dám ngồi xuống bắt đầu",
+   "tom": "Ý tưởng dày vò anh suốt nhiều tháng mà không nhúc nhích. Mỗi ngày đi làm về anh đều đi ngang một quán Starbucks và tự hứa sẽ ghé vào gọi nước rồi ngồi làm, và mỗi ngày đều nhìn nó một cái rồi đi thẳng về nhà, xem 6 tiếng Netflix rồi đi ngủ. Anh gọi quán đó là hiện thân của cái chưa biết, đáng sợ đến mức không dám đối mặt"
+  },
+  {
+   "s": "02:48",
+   "e": "03:43",
+   "nut": ["?"],
+   "moi": "Hợp đồng với chính mình: mỗi ngày 2 tiếng deep work ở một chỗ cố định",
+   "tom": "Bước ngoặt là cuốn Deep Work của Cal Newport, khiến anh nhận ra mình hoàn toàn thiếu tập trung. Anh viết hẳn một 'hợp đồng' với chính mình và hình dung trước: ngày mai bước vào Starbucks, gọi cà phê, ngồi xuống, bấm hẹn giờ 2 tiếng và chỉ tập trung. Ngày đầu tiên chuông reo mà anh giật mình vì 2 tiếng trôi qua như không; ngày hai, ngày ba, rồi không dừng nữa — sau đó còn dậy lúc 6h sáng để làm thêm một ca deep work trước giờ đi làm"
+  },
+  {
+   "s": "04:09",
+   "e": "05:08",
+   "nut": ["?"],
+   "moi": "Mốc tiến độ 6 tháng đầu của business nội dung: khán giả trước, tiền sau",
+   "tom": "Tiến độ đo bằng mốc rất cụ thể: sau 1 tháng có tên và concept, mua domain starterstory.com giá $12/năm, đăng vài câu chuyện và có vài trăm lượt ghé. Sau 2 tháng đã đăng hàng chục chuyện, chưa ra đồng nào nhưng có khán giả nhỏ, mở newsletter và gom được 100 subscriber đầu tiên. Sau 4 tháng bắt đầu làm marketing và một bài viral trên Reddit khiến hàng nghìn người tràn vào làm sập site rồi đăng ký newsletter. Sau 6 tháng mới nghĩ đến kiếm tiền: bán sponsorship cho newsletter và thu thêm từ affiliate",
+   "kq": "6 tháng: từ 0 tới newsletter có traction và những đồng doanh thu đầu"
+  },
+  {
+   "s": "06:00",
+   "e": "06:56",
+   "nut": ["?"],
+   "moi": "Học cách kiếm tiền bằng cách soi business đi trước mình vài bước",
+   "tom": "Anh không biết biến thứ này thành tiền kiểu gì nên đi đọc case study các business giống mình và thấy phần lớn sống bằng sponsorship. Đúng lúc đó CEO của Klaviyo gửi email khen Starter Story; câu chuyện chuyển dần sang khả năng Klaviyo tài trợ newsletter và ông ấy đưa ra con số $12.000 — nhiều hơn tất cả những gì anh từng thấy khi đang sống lần hồi theo từng kỳ lương. Vài ngày sau tiền vào tài khoản thật",
+   "kq": "hợp đồng tài trợ đầu tiên $12.000"
+  },
+  {
+   "s": "06:56",
+   "e": "08:17",
+   "nut": ["?"],
+   "moi": "Mốc nghỉ việc: chọn tín hiệu nào đủ để bỏ job",
+   "tom": "Ngay sau cảm giác sung sướng là nỗi sợ: liệu email đó có phải tình cờ, mình có chỉ ăn may không. $12.000 biến thành một quyết định — tiếp tục chơi an toàn với job full-time, hay coi đó là bằng chứng để all-in. Anh ngồi trên hàng rào suốt mấy tháng, rồi nhớ lại lý do ban đầu là muốn xây thứ của mình chứ không phải giấc mơ của người khác, và sợ về già nhìn lại chỉ còn câu 'giá như' — hôm sau anh nộp đơn xin nghỉ",
+   "kq": "$12.000 là tín hiệu đủ để nghỉ việc và all-in"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:22", "ly_do": "intro/hook và đoạn kể cảm giác chán việc văn phòng, không có bước làm cụ thể"},
+  {"s": "05:20", "e": "06:00", "ly_do": "quảng cáo Starter Story case studies"},
+  {"s": "08:17", "e": "09:37", "ly_do": "lời kết truyền cảm hứng ('mỗi ngày tự cho mình cơ hội gặp may') và chào kết"}
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "f": "2026-04-12_i-made-1-5m-from-an-app-youve-never-heard-of",
+ "vid": "bq3-qH-CpYQ",
+ "segments": [
+  {"s":"02:01","e":"02:33","nut":["?"],"moi":"Lắp thanh toán ngay tháng thứ hai của sản phẩm",
+   "tom":"Mất đúng 1 tháng dựng prototype để validate rồi thêm 1 tháng làm hệ thống thanh toán — từ tháng thứ hai đã có lãi, và cũng trong tháng đầu đã có 200 người dùng trên nền tảng","kq":"có lãi từ tháng thứ 2, 200 user trả tiền"},
+  {"s":"03:18","e":"04:21","nut":["?"],"moi":"Stack không quan trọng bằng tốc độ ship",
+   "tom":"TypeScript + React, Postgres, Redis cho hàng đợi, Auth0 (không ai nên tự viết login), Prisma, Zod validate dữ liệu từ server ngoài, nhiều Docker container — nhưng 3–6 tháng nay anh không mở code editor, AI viết hết"},
+  {"s":"04:21","e":"05:15","nut":["2.9"],
+   "tom":"Đang freelance ở San Francisco thì buổi họp chốt dự án, bạn gái khách hàng lên Zoom báo anh ta vừa đi tù; giữ liên lạc bằng thư giấy suốt vài năm và nghe kể dịch vụ trong tù toàn thứ tệ mà bán giá cắt cổ"},
+  {"s":"05:15","e":"06:09","nut":["3.2"],
+   "tom":"Nhà tù là hệ sinh thái đóng, không gửi link hay thu email được, nên validate và build MVP là cùng một việc: anh mô tả với các contact bên trong 'công nghệ đang dùng cũ, đắt, tôi hình dung cái tốt hơn thế này' rồi hứng phản hồi","kq":"200 user trong tháng đầu, đủ để coi là validate"},
+  {"s":"06:09","e":"07:11","nut":["3.B6","3.B8"],
+   "tom":"Validate bằng cách nào không quan trọng bằng chuyện có chịu validate hay không: rất nhiều người bỏ 12 tháng làm app hoàn hảo mà chưa đưa ai xem, vì validate nghĩa là chấp nhận ý tưởng có thể chết ngay"},
+  {"s":"07:26","e":"08:29","nut":["?"],"moi":"Truyền miệng trong cộng đồng đóng cộng credit giới thiệu",
+   "tom":"Tăng trưởng thuần truyền miệng: vài người bên trong cho người khác xem rồi lan tiếp; anh chỉ lắp thêm hệ thống giới thiệu nội bộ — ai rủ được người mới chịu trả tiền thì được khoảng một tháng credit miễn phí"},
+  {"s":"08:44","e":"09:32","nut":["?"],"moi":"Chạy trên hạ tầng sẵn có của khách thay vì bắt họ cài app",
+   "tom":"Parakeet Chat không có app tải được trên Play Store: người trong tù gửi mail qua đúng hệ thống email nội bộ của nhà tù tới một địa chỉ, bot xử lý rồi trả lời — dùng để hỏi ChatGPT, tra án lệ, tra thống kê thể thao, nhắn về cho gia đình"},
+  {"s":"09:32","e":"10:18","nut":["?"],"moi":"Tách người dùng và người trả tiền",
+   "tom":"Người dùng là phạm nhân bên trong, còn khách trả tiền là gia đình bên ngoài: SaaS $15–20/tháng tuỳ gói, có giảm giá nếu trả theo năm — nên toàn bộ thanh toán diễn ra ngoài hàng rào nhà tù","kq":"$300K doanh thu năm 2025, $1,5 triệu tổng đời"},
+  {"s":"10:18","e":"11:05","nut":["?"],"moi":"Đo độ phủ theo phần trăm tổng dân số ngách",
+   "tom":"Khoảng 30.000 người từng dùng, tức 20% toàn bộ dân số tù liên bang Mỹ; gần 100.000 kết nối gia đình và khoảng 9 triệu tin nhắn đã gửi — use case lớn nhất là tự nghiên cứu án lệ và quyền của mình"},
+  {"s":"11:38","e":"12:42","nut":["?"],"moi":"Trả đủ học phí sai lầm trước, dự án sau mới chạy",
+   "tom":"Parakeet chạy được không phải vì anh giỏi mà vì đã phạm đúng những lỗi đó 10 năm trước; không có overnight success — cứ bắt đầu ngay bằng một ý tưởng ai cũng bảo ngu, thất bại có kiểm soát dạy nhiều hơn 20 quyển sách"}
+ ],
+ "bo_qua": [
+  {"s":"02:33","e":"03:18","ly_do":"quảng cáo database 190 ý tưởng micro SaaS của Starter Story/HubSpot"},
+  {"s":"12:57","e":"14:20","ly_do":"Pat và Gus bình luận rồi nhắc lại link tải database"}
+ ]
+}

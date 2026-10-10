@@ -1,0 +1,31 @@
+{
+ "f": "2026-04-08_my-app-makes-20k-month-how-i-found-a-simple-idea-and",
+ "vid": "PIXXEAfo6MY",
+ "segments": [
+  {"s":"01:03","e":"02:18","nut":["?"],"moi":"Launch bám đúng mùa giải của ngách",
+   "tom":"Cut Coach giúp VĐV võ đối kháng cắt cân theo giáo án khoa học; ra mắt tháng 9 đúng lúc mùa wrestling vừa mở nên cầu bật lên, 6 tháng từ $0 lên hơn $60K tổng doanh thu và gần 39.000 lượt tải","kq":"đỉnh $20K/tháng, 39K lượt tải"},
+  {"s":"02:33","e":"03:19","nut":["2.B3"],
+   "tom":"App đầu tay hè 2024 tự động hoá công việc của mẹ mất 6 tháng; đầu 2025 build thêm vài app nhưng không marketing cái nào — nhận ra đó là sai lầm, tìm được Cursor rồi chuyển hẳn trọng tâm sang học bán hàng","kq":"mấy app trước không marketing nên $0"},
+  {"s":"03:19","e":"04:23","nut":["2.0","2.8"],
+   "tom":"Từng vô địch judo cấp tỉnh và vô địch wrestling quốc gia, luôn phải ép cân gấp mà không biết cách đúng cho tới khi HLV đưa giáo án — ghép đúng môn mình chơi với nghề làm app thành Cut Coach"},
+  {"s":"04:23","e":"05:11","nut":["3.4"],
+   "tom":"MVP dựng bằng Cursor + ChatGPT trong khoảng một tháng rồi đưa CLB wrestling beta test; bản đầu bắt HLV giao giáo án cho VĐV nên ma sát lớn và CLB không dùng, tháng 7–8 đổi hẳn để app tự phát giáo án","kq":"v1 bị CLB bỏ không dùng, phải đổi concept và redesign"},
+  {"s":"05:59","e":"06:46","nut":["2.8"],
+   "tom":"Bước 1: chọn vấn đề nằm trong chính sở thích của mình vì đã hiểu và thích hoạt động đó, rồi hỏi thẳng ChatGPT 'có ý tưởng app nào trong ngách này' để moi ra hướng chưa nghĩ tới"},
+  {"s":"06:46","e":"07:32","nut":["?"],"moi":"Mượn layout của app lớn cùng ngách làm nền thiết kế",
+   "tom":"Xong wireframe trong Figma thì mở một app lớn cùng ngách, lấy các element và bố cục của họ về adapt — họ đã test hàng năm trời như Duolingo, mình chỉ đổi đi chút cho khác chứ không phát minh lại"},
+  {"s":"07:32","e":"08:22","nut":["?"],"moi":"Stack dựng app bằng Cursor",
+   "tom":"Bảo Cursor code front-end trước cho khớp đúng bản Figma rồi mới tới back-end; Supabase làm database, Vercel host landing page và file JS, OpenAI API cho tính năng AI, RevenueCat + Mixpanel + Superwall cho paywall và analytics, Cron Job cho tác vụ định kỳ"},
+  {"s":"08:22","e":"09:25","nut":["4.1"],
+   "tom":"Video organic đầu tiên là so sánh võ sĩ UFC trước và sau khi cắt cân, kèm CTA cuối clip; view rất thấp nhưng toàn người intent cao — clip 200–500 view vẫn ra đều 10–15 lượt tải mỗi ngày","kq":"200–500 view ra 10–15 lượt tải/ngày"},
+  {"s":"09:41","e":"10:43","nut":["4.4","4.2"],
+   "tom":"Ngách hẹp nên gần như không có influencer lớn: lướt For You TikTok và Reels rồi DM thẳng creator nhỏ, đa số nhận lời; bắt đầu ở mức 1.000–10.000 view/video rồi nâng dần lên 20.000+, sau đó đem chính video đó chạy paid ads","kq":"paid ads từ video influencer làm doanh thu bật thêm mạnh"},
+  {"s":"10:43","e":"11:40","nut":["?"],"moi":"MVP tối giản: hạn mức + log bữa + gợi ý sẵn",
+   "tom":"App chỉ có ba thứ: hạn mức dinh dưỡng phải giữ mỗi ngày, ô log bữa ăn (gõ 'chicken' là tự trích dinh dưỡng cộng vào), và màn gợi ý bữa ăn giúp không vượt ngưỡng — cộng ô nhập cân nặng theo dõi tiến trình"}
+ ],
+ "bo_qua": [
+  {"s":"05:11","e":"05:59","ly_do":"quảng cáo iOS bootcamp miễn phí của Starter Story"},
+  {"s":"11:40","e":"12:36","ly_do":"lời khuyên chung về việc nghe theo chính mình, không có chi tiết dùng được"},
+  {"s":"12:36","e":"13:58","ly_do":"Pat và Gus bình luận rồi quảng bá iOS playbook"}
+ ]
+}

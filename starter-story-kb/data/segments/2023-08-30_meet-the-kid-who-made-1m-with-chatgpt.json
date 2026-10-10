@@ -1,0 +1,123 @@
+{
+ "f": "2023-08-30_meet-the-kid-who-made-1m-with-chatgpt",
+ "vid": "irEi7DVBHdA",
+ "segments": [
+  {
+   "s": "00:55",
+   "e": "01:49",
+   "nut": [
+    "2.3",
+    "1.2"
+   ],
+   "tom": "2020 vừa tốt nghiệp cấp 3 đã đi làm use case cho GPT-3 beta của OpenAI; để dòng đó trên LinkedIn nên doanh nghiệp nhỏ tự nhắn hỏi kinh nghiệm AI, dần dần thu phí tư vấn — kỹ năng có sẵn trở thành bàn đạp cho business sau này"
+  },
+  {
+   "s": "01:49",
+   "e": "02:44",
+   "nut": [
+    "?"
+   ],
+   "moi": "Xem số liệu thật bên trong một business đang ăn rồi làm lại bản AI",
+   "tom": "Tháng 7/2022 gặp một công ty xuất bản, họ khoe doanh thu ~$2 triệu/tháng chỉ nhờ bán sách — mô hình đơn giản đến mức vô lý và họ không đụng gì tới AI; anh giấu ý tưởng, tháng 8 gen 10–20 cuốn, cuối tháng 9 đủ 40 cuốn, 3/10 có ngày lãi đầu tiên $20",
+   "kq": "3/10 lãi $20/ngày → 28/12 lãi $1K/ngày"
+  },
+  {
+   "s": "02:44",
+   "e": "03:12",
+   "nut": [
+    "1.2"
+   ],
+   "tom": "Toàn bộ vốn lấy từ việc xếp hàng siêu thị $11/giờ, không gọi vốn ai; anh nói nếu làm lại với kiến thức bây giờ thì dưới $500 là khởi động được",
+   "kq": "tự bỏ vốn, mức khởi động thật <$500"
+  },
+  {
+   "s": "03:12",
+   "e": "03:38",
+   "nut": [
+    "?"
+   ],
+   "moi": "Giai đoạn chồng lấn: giữ việc/học full-time trong lúc build",
+   "tom": "Đang học đại học full-time cộng part-time: bỏ bớt 2 môn, ban ngày học, tối dồn 5–6 tiếng cho book brand"
+  },
+  {
+   "s": "03:38",
+   "e": "04:10",
+   "nut": [
+    "?"
+   ],
+   "moi": "Chọn niche theo mức tham vọng của người mua",
+   "tom": "Công thức vào ngành sách AI: học cách model hoạt động (setting, prompt) trước, rồi chọn niche vừa có traffic vừa đông người tham vọng — nhóm đó chạm được vào cảm xúc và bán được cái 'outcome' mà chỉ sản phẩm mình dẫn tới"
+  },
+  {
+   "s": "04:10",
+   "e": "05:02",
+   "nut": [
+    "?"
+   ],
+   "moi": "Mua sản phẩm đối thủ để rút cấu trúc trước khi tự làm",
+   "tom": "Cuốn đầu tay tệ vì không biết sách phải có gì; anh bỏ tiền mua sách của đối thủ đọc hết để biết cấu trúc, rồi chuẩn hoá quy trình: bắt ChatGPT ra outline (vd 5 chương × 5 topic) rồi gen lần lượt từng topic, không bao giờ bảo nó 'viết cho tôi một cuốn sách'"
+  },
+  {
+   "s": "05:56",
+   "e": "06:50",
+   "nut": [
+    "1.1",
+    "1.3"
+   ],
+   "tom": "Bóc kinh tế đơn vị: biên lợi nhuận 70–80%, chi phí lớn duy nhất là ads, ~$200/tháng tiền extension trả phí, ~$3 để gen trọn một cuốn sách bằng GPT-3, cộng proofreader thuê retainer (giai đoạn đầu tự soát tay từng chương, một vòng revision là xong)",
+   "kq": "$390K lợi nhuận tới nay, định giá $930K, biên 70–80%"
+  },
+  {
+   "s": "06:50",
+   "e": "07:42",
+   "nut": [
+    "4.3",
+    "4.17"
+   ],
+   "tom": "Toàn bộ doanh thu đến từ Pinterest ads nhắm các bà mẹ trung niên: chạy consideration campaign trước để dò xem niche nào có phản hồi, sau đó cài Pinterest tag rồi mới chuyển sang conversion campaign và soi từng chỉ số landing page"
+  },
+  {
+   "s": "07:42",
+   "e": "08:34",
+   "nut": [
+    "?"
+   ],
+   "moi": "Landing page làm sân khấu bán hàng cho ads",
+   "tom": "Gần như không bán được nếu thả ads thẳng vào trang sản phẩm: landing page mới đủ chỗ để xếp value stack, cho xem trước từng chương và dựng hình ảnh thương hiệu; trang trông nghiệp dư thì bounce rate vọt trên 70–80%"
+  },
+  {
+   "s": "08:34",
+   "e": "09:28",
+   "nut": [
+    "2.B1"
+   ],
+   "tom": "Rào cản vào ngành sách AI gần bằng 0 nhưng anh không sợ đối thủ mới: thị trường quá lớn, anh mới chỉ chạy mỗi Pinterest, chưa đụng Google Ads lẫn Facebook — bão hoà chỉ nghĩa là phải làm sản phẩm giá trị hơn"
+  },
+  {
+   "s": "09:28",
+   "e": "10:20",
+   "nut": [
+    "1.5"
+   ],
+   "tom": "Thử thị trường bán lại bằng cách đăng thông số business lên vài marketplace chỉ để xem investor trả giá bao nhiêu; offer đầu tiên là $930K cho toàn bộ. Hiện bán 40% cổ phần cho một investor, giữ tiền và thời gian để dựng book brand thứ hai rồi lại bán 40% — vòng lặp bán từng phần thay vì bán đứt",
+   "kq": "offer đầu tiên $930K; đang bán 40%"
+  }
+ ],
+ "bo_qua": [
+  {
+   "s": "00:00",
+   "e": "00:55",
+   "ly_do": "intro/hook của kênh, giới thiệu nhân vật"
+  },
+  {
+   "s": "05:02",
+   "e": "05:56",
+   "ly_do": "quảng cáo Starter Story case studies"
+  },
+  {
+   "s": "10:20",
+   "e": "12:07",
+   "ly_do": "chuyện riêng (Rolex, nhạc house) và lời khuyên chung chung 'learning over earning'"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "f": "2026-03-08_i-built-a-10k-month-saas-using-other-peoples-custome",
+ "vid": "LKARRA0MvY4",
+ "segments": [
+  {
+   "s": "01:18",
+   "e": "02:35",
+   "nut": ["?"],
+   "moi": "Định giá theo đơn vị công việc (số proposal) thay vì theo user",
+   "tom": "Lancer là agent tự tìm job, sàng lọc và viết proposal trên Upwork, giúp freelancer/agency tiết kiệm hơn 10 giờ mỗi tuần; giá tính theo proposal: $79 được 30 (+$2/cái thêm), $300 được 250 (+$1,5/cái), gói unlimited $500/tháng",
+   "kq": "$10K/tháng ngay tháng thứ 3-4 sau khi launch"
+  },
+  {
+   "s": "02:50",
+   "e": "03:37",
+   "nut": ["2.1", "3.6"],
+   "tom": "Bài toán lấy từ chính agency 20 người của mình: Upwork có 200.000 job mỗi tháng rải suốt 24 giờ, mỗi job mất khoảng 10 phút để sàng và viết proposal riêng — agent thắng người gấp 10; làm tool nội bộ rồi cho vài bạn chủ agency beta",
+   "kq": "nhóm beta chốt 3 khách 5 chữ số trong 2 tuần"
+  },
+  {
+   "s": "03:52",
+   "e": "04:39",
+   "nut": ["2.3"],
+   "tom": "Cơ hội nằm ở agent tự động hoá phần workflow chạy trên nền tảng đã có: người dùng vốn sống sẵn trên đó, và với chợ công khai như Upwork thì ICP hiện nguyên hình — nền tảng nào có tệp user lớn là có chỗ cắm vào"
+  },
+  {
+   "s": "04:54",
+   "e": "05:25",
+   "nut": ["?"],
+   "moi": "Tool nội bộ dựng trong một cuối tuần, 3 tháng sau mới thành MVP bán được",
+   "tom": "Bản nội bộ tự tay dựng trong một cuối tuần, còn xa mới bán được; mất thêm 3 tháng làm MVP bằng đúng stack agency đang dùng (TypeScript full-stack, Next.js + Node.js, GCP + Firestore), LLM chỉ lo 2 việc: sàng job và viết proposal"
+  },
+  {
+   "s": "06:56",
+   "e": "07:43",
+   "nut": ["?"],
+   "moi": "Bán qua 'connector' — người đứng trên tệp khách và đã có niềm tin của họ",
+   "tom": "Thay vì đâm thẳng vào ICP bằng ads hay cold email, tìm tầng ngay phía trên họ — người đã có sẵn mạng lưới và uy tín với tệp đó — rồi biến thành affiliate; thuyết phục một connector là một cú high-ticket, đỡ hơn trăm cuộc gọi bán SaaS $200/tháng"
+  },
+  {
+   "s": "07:43",
+   "e": "08:14",
+   "nut": ["?"],
+   "moi": "Nhắm coach / người dạy trong ngách làm kênh phân phối",
+   "tom": "Connector của Lancer là các Upwork coach: mỗi coach có 5-20 khách mới mỗi tháng, khách trả họ $600 đến hơn $1.000 để được dạy cách kiếm lead trên Upwork, bản thân coach có profile Upwork review đẹp nên upsell Lancer cực dễ"
+  },
+  {
+   "s": "08:46",
+   "e": "09:33",
+   "nut": ["?"],
+   "moi": "Trả tiền mua một cuộc gọi với connector rồi chia hoa hồng trọn đời",
+   "tom": "Gần như toàn bộ tăng trưởng đến từ đúng 2 Upwork coach: người đầu do một beta user giới thiệu, chỉ cần demo là coach giới thiệu mọi khách sau đó; người thứ hai cold outreach LinkedIn rồi trả thẳng $1.000 để họ chịu lên call",
+   "kq": "hoa hồng 30% trọn đời nếu coach tự chốt và onboard, 20% nếu chỉ refer"
+  },
+  {
+   "s": "09:33",
+   "e": "10:22",
+   "nut": ["?"],
+   "moi": "Định nghĩa ICP theo tiêu chí onboard dễ và ít churn",
+   "tom": "Bước 1 là chốt ICP, nhưng chỉ biết chính xác sau khi đã có khách trả tiền: ICP tốt cho SaaS là người tự onboard được, ít friction và ở lâu không churn — với Lancer hoá ra là agency chứ không phải freelancer, vì họ gửi proposal khối lượng lớn"
+  },
+  {
+   "s": "10:22",
+   "e": "11:09",
+   "nut": ["?"],
+   "moi": "Pitch cá nhân hoá nặng tay cho affiliate — thứ không đáng làm với khách lẻ",
+   "tom": "Bước 2-3: leo lên một tầng tìm người vừa có mạng lưới rộng đúng ICP vừa được họ nể; rồi viết pitch cực cá nhân hoá — research kỹ, nhắc đúng việc họ đã làm, quay cả một Loom dài — công sức đó không đáng cho một khách lẻ nhưng rất đáng cho một affiliate"
+  },
+  {
+   "s": "11:09",
+   "e": "12:11",
+   "nut": ["?"],
+   "moi": "Điều khoản và công cụ quản lý affiliate",
+   "tom": "Bước 4-5: chuẩn hoa hồng là 20-30% trọn đời, tuỳ mạng lưới, lượng follower và hợp đồng sẵn có với đối thủ mà có thể trả trước một khoản; sau đó chỉ việc theo dõi affiliate và tự động trả tiền hàng tháng bằng Tolt"
+  },
+  {
+   "s": "12:11",
+   "e": "12:42",
+   "nut": ["2.3"],
+   "tom": "Mẹo tìm ý tưởng cùng dạng: hỏi ChatGPT liệt kê các nền tảng giống Upwork nơi người dùng phải làm nhiều việc tay lặp đi lặp lại, rồi xem chỗ nào một AI agent chen vào tiết kiệm được thời gian"
+  },
+  {
+   "s": "12:42",
+   "e": "13:28",
+   "nut": ["?"],
+   "moi": "Stack cho agent chạy trên nền tảng bên thứ ba: proxy + OpenRouter + Elasticsearch",
+   "tom": "Stack: TypeScript full-stack Next.js + Node.js nhưng giờ code bằng Cursor + Opus 4.5 gần như không gõ tay, OpenRouter gọi LLM, hosting ghép Hetzner với GCP, nhiều proxy provider để nối an toàn vào tài khoản Upwork, Elasticsearch truy vấn job"
+  },
+  {
+   "s": "13:43",
+   "e": "15:02",
+   "nut": ["?"],
+   "moi": "Cái giá của việc trì hoãn vì thu nhập an toàn (agency lợi nhuận cao, trần cứng)",
+   "tom": "Tiếc nhất là trì hoãn vào cuộc để giữ thu nhập an toàn: agency dev siêu lợi nhuận nhưng trần cứng và không học được kỹ năng đòn bẩy cao; từng bàn với co-founder all-in vào sản phẩm AI ngay khi OpenAI mở API đầu tiên mà lại chọn nuôi agency",
+   "kq": "giờ đánh giá đó là lựa chọn sai"
+  }
+ ],
+ "bo_qua": [
+  {"s": "01:02", "e": "01:18", "ly_do": "quảng bá guide AI agent trong description"},
+  {"s": "05:25", "e": "06:10", "ly_do": "quảng cáo guide của Mindstream"},
+  {"s": "15:52", "e": "16:20", "ly_do": "tự quảng bá Starter Story Build"}
+ ]
+}

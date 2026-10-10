@@ -1,0 +1,73 @@
+{
+ "f": "2026-02-08_i-make-150k-month-from-20-tiny-apps",
+ "vid": "9sJ2R0rM3CA",
+ "segments": [
+  {
+   "s": "01:50",
+   "e": "03:37",
+   "nut": ["?"],
+   "moi": "Cấu trúc giá và doanh thu của danh mục nhiều plugin nhỏ",
+   "tom": "19 plugin WordPress + 1 app Shopify, bán theo gói 1/5/20 site dạng subscription hoặc lifetime: 2025 thu $1,7M, trung bình $150K/tháng, lifetime $9,8M, 17.000 thuê bao đang chạy, lifetime deal chiếm 15% doanh thu",
+   "kq": "$150K/tháng, $1,7M năm 2025"
+  },
+  {
+   "s": "03:52",
+   "e": "04:39",
+   "nut": ["2.5", "2.1"],
+   "tom": "Plugin đầu WooCommerce Protected Categories lấy từ ý tưởng được vote nhiều nhất trên WooCommerce Ideas Forum; plugin thứ hai Post Table Pro lớn lên từ một dự án client rồi đóng gói lại bán bản premium"
+  },
+  {
+   "s": "04:39",
+   "e": "05:11",
+   "nut": ["?"],
+   "moi": "Lấy ý tưởng sản phẩm mới từ yêu cầu tính năng của khách hiện có",
+   "tom": "Khách gửi request tính năng cho plugin đang dùng; nhiều request giải đúng hơn bằng một plugin riêng chứ không phải thêm tính năng — nguồn ý tưởng tự chảy về mà không cần đi hỏi ai"
+  },
+  {
+   "s": "05:11",
+   "e": "06:14",
+   "nut": ["4.5"],
+   "tom": "Khách chủ yếu đến từ organic search: plugin đầu là cái duy nhất làm được việc đó nên viết blog và tutorial kiểu 'how to password protect categories in WooCommerce' là lên top Google ngay, có đơn sau vài ngày",
+   "kq": "đơn đầu tiên trong vài ngày"
+  },
+  {
+   "s": "07:41",
+   "e": "09:08",
+   "nut": ["?"],
+   "moi": "Bán chéo giữa các sản phẩm cùng tệp khách",
+   "tom": "Mỗi plugin gắn sẵn một plugin liên quan để upsell: email 3 ngày sau khi mua giảm 50% cho plugin kế, chiến dịch Black Friday tách riêng khách cũ và khách mới, banner ngay trong trang settings của plugin"
+  },
+  {
+   "s": "09:54",
+   "e": "10:42",
+   "nut": ["2.0"],
+   "tom": "Bước 1-2 của playbook: chỉ làm trong mảng mình đã thạo (làm web WordPress cho client thì làm sản phẩm WordPress), rồi lập danh sách dài ý tưởng, validate từng cái và ưu tiên nhóm ý tưởng có thị trường chồng lấn"
+  },
+  {
+   "s": "10:42",
+   "e": "11:52",
+   "nut": ["?"],
+   "moi": "Ra mắt tuần tự từng sản phẩm thay vì bung nhiều cùng lúc",
+   "tom": "Bước 3-5: build đúng sản phẩm có thị trường lớn nhất rồi ra mắt như sản phẩm duy nhất, đừng bung 5 cái một lúc; sản phẩm thứ hai vẫn bán standalone rồi mới nối link, email khách cũ kèm giảm giá, mời beta test"
+  },
+  {
+   "s": "12:15",
+   "e": "13:09",
+   "nut": ["?"],
+   "moi": "Stack vận hành công ty nhiều sản phẩm",
+   "tom": "Stack chạy công ty $1,8M/năm: ClickUp cho quản lý dự án + chấm giờ + chat nội bộ, GitHub free chứa source code, Zapier tự động hoá, Easy Digital Downloads (~$300/năm) lo bán, cấp license và giao file"
+  },
+  {
+   "s": "14:18",
+   "e": "15:38",
+   "nut": ["?"],
+   "moi": "Nhiều app cho cùng một tệp khách thay vì nhồi tính năng vào một app",
+   "tom": "Trước đây 19 app nghĩa là 19 đội kỹ thuật và 19 bug mỗi ngày, nay AI dựng app trong một ngày; điểm phân biệt là build nhiều app cho CÙNG một tệp khách, không phải app ngẫu nhiên cho khách khác nhau"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:49", "e": "01:35", "ly_do": "tự quảng bá Starter Story Build"},
+  {"s": "06:14", "e": "07:41", "ly_do": "quảng cáo Delve"},
+  {"s": "16:33", "e": "16:53", "ly_do": "tự quảng bá Starter Story Build"}
+ ]
+}

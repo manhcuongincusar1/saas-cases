@@ -1,0 +1,4642 @@
+[
+  {
+    "text": "What if you could build an app so retentive it was stickier than Tik Tok itself?",
+    "start": "00:00:00",
+    "end": "00:00:04"
+  },
+  {
+    "text": "Onap Flame has 50% day30 retention.",
+    "start": "00:00:04",
+    "end": "00:00:08"
+  },
+  {
+    "text": "And Tik Tok, which is arguably one of the most addictive apps to ever come out, is only at 40%.",
+    "start": "00:00:08",
+    "end": "00:00:15"
+  },
+  {
+    "text": ">> We were able to increase our day 30 retention from 4.",
+    "start": "00:00:13",
+    "end": "00:00:17"
+  },
+  {
+    "text": "2% to roughly 30% and then all the way up to 50% by doing this.",
+    "start": "00:00:17",
+    "end": "00:00:21"
+  },
+  {
+    "text": "Tik Tok barely touches roughly 40% on day 30.",
+    "start": "00:00:21",
+    "end": "00:00:26"
+  },
+  {
+    "text": ">> But unlike most stories, it wasn't always this way.",
+    "start": "00:00:24",
+    "end": "00:00:28"
+  },
+  {
+    "text": "His first version had a dismal 0.",
+    "start": "00:00:28",
+    "end": "00:00:32"
+  },
+  {
+    "text": "8% 30-day retention.",
+    "start": "00:00:32",
+    "end": "00:00:34"
+  },
+  {
+    "text": ">> Joseph, you know, how much was the day 30 retention on this product?",
+    "start": "00:00:32",
+    "end": "00:00:38"
+  },
+  {
+    "text": "Zero 0.",
+    "start": "00:00:38",
+    "end": "00:00:39"
+  },
+  {
+    "text": "8%.",
+    "start": "00:00:39",
+    "end": "00:00:40"
+  },
+  {
+    "text": ">> So, he went back to the drawing board, studied habit formation, and reverse engineered what makes people come back.",
+    "start": "00:00:38",
+    "end": "00:00:45"
+  },
+  {
+    "text": "And what he built was a retention machine with a carrot and stick approach, widgets, and notifications that pulled users back in every day.",
+    "start": "00:00:43",
+    "end": "00:00:52"
+  },
+  {
+    "text": "But with a killer product and no money left, he had to figure out distribution or the company would die.",
+    "start": "00:00:52",
+    "end": "00:00:56"
+  },
+  {
+    "text": "We decided to monetize because we didn't have any money left brother because we raised a small round in 23.",
+    "start": "00:00:56",
+    "end": "00:01:01"
+  },
+  {
+    "text": "We were running out of money at the end of the year.",
+    "start": "00:01:01",
+    "end": "00:01:04"
+  },
+  {
+    "text": "We were like we need to monetize or we won't survive.",
+    "start": "00:01:04",
+    "end": "00:01:07"
+  },
+  {
+    "text": ">> So he dedicated himself to one thing mastering Tik Tok.",
+    "start": "00:01:05",
+    "end": "00:01:11"
+  },
+  {
+    "text": ">> I realized what I had to do was I had to go into Tik Tok.",
+    "start": "00:01:09",
+    "end": "00:01:13"
+  },
+  {
+    "text": "Tik Tok was going to be a savior.",
+    "start": "00:01:13",
+    "end": "00:01:14"
+  },
+  {
+    "text": "What I did is for 2 months I dedicated myself to scrolling Tik Tok for 4 hours every day.",
+    "start": "00:01:14",
+    "end": "00:01:20"
+  },
+  {
+    "text": ">> And unlike 99% of people, he didn't just doom scroll all day.",
+    "start": "00:01:18",
+    "end": "00:01:24"
+  },
+  {
+    "text": ">> I started collecting these little babies.",
+    "start": "00:01:22",
+    "end": "00:01:25"
+  },
+  {
+    "text": "What I can tell you is as compared to a bigger iPhone, scrolling on a smaller iPhone takes a lot more work.",
+    "start": "00:01:25",
+    "end": "00:01:29"
+  },
+  {
+    "text": "It takes a lot more effort.",
+    "start": "00:01:29",
+    "end": "00:01:33"
+  },
+  {
+    "text": ">> He built a system and developed the VSC framework, his method for finding content that is viral, scalable, and convertible.",
+    "start": "00:01:30",
+    "end": "00:01:39"
+  },
+  {
+    "text": ">> If you go to the comments, if people are not asking what is the app, what is the product, where can I get this, etc.",
+    "start": "00:01:38",
+    "end": "00:01:44"
+  },
+  {
+    "text": ", then it is not content that converts.",
+    "start": "00:01:44",
+    "end": "00:01:46"
+  },
+  {
+    "text": "Then it's content that's getting views.",
+    "start": "00:01:44",
+    "end": "00:01:47"
+  },
+  {
+    "text": "Then it's content that's going viral, but it's not content that can convert.",
+    "start": "00:01:46",
+    "end": "00:01:50"
+  },
+  {
+    "text": "He created 10-page playbooks with winning scripts and master prompts, feeding them to AI to generate hundreds of videos a day across multiple accounts.",
+    "start": "00:01:48",
+    "end": "00:01:57"
+  },
+  {
+    "text": "And he built the product itself to be visually appealing on Tik Tok with every animation and loader designed to be eye-catching.",
+    "start": "00:01:57",
+    "end": "00:02:05"
+  },
+  {
+    "text": ">> Your product should be built for Tik Tok.",
+    "start": "00:02:03",
+    "end": "00:02:05"
+  },
+  {
+    "text": "What I mean by that is if you look at the flows on this product, if you look at the way it's positioned, like even the loader that comes in this little AI animation, we built it so it would appear visually pleasing on Tik Tok.",
+    "start": "00:02:05",
+    "end": "00:02:15"
+  },
+  {
+    "text": "This system generated 50 million views and 150,000 users 100% organically.",
+    "start": "00:02:15",
+    "end": "00:02:21"
+  },
+  {
+    "text": "And in this episode, Anne breaks down his entire playbook from how he built a retention machine that's stickier than Tik Tok to the VSSC framework for finding content that actually converts and how he uses AI and a systematic approach to dominate organic Tik Tok.",
+    "start": "00:02:21",
+    "end": "00:02:34"
+  },
+  {
+    "text": "This is a masterass in building something people love and systematically getting it in front of millions.",
+    "start": "00:02:34",
+    "end": "00:02:38"
+  },
+  {
+    "text": "Let's get into it.",
+    "start": "00:02:38",
+    "end": "00:02:40"
+  },
+  {
+    "text": "This is the Superwall podcast and I'm Joseph Choy, founder of Consumer Club.",
+    "start": "00:02:40",
+    "end": "00:02:43"
+  },
+  {
+    "text": "The members in the consumer club discord and the founders I interview on the pod build apps at a median of 1 million ARR.",
+    "start": "00:02:43",
+    "end": "00:02:50"
+  },
+  {
+    "text": "A lot of these apps that make the most money run AB tests on their payw walls to make more revenue with the same number of users.",
+    "start": "00:02:50",
+    "end": "00:02:55"
+  },
+  {
+    "text": "Superwall has a lot of data on the thousands of apps that use their payw walls.",
+    "start": "00:02:55",
+    "end": "00:03:00"
+  },
+  {
+    "text": "So recently they put together a free AI tool trained on 422 profitable paywall experiments.",
+    "start": "00:03:00",
+    "end": "00:03:06"
+  },
+  {
+    "text": "It lets you upload a screenshot of your own payw wall and gives you an experiment idea to increase your revenue.",
+    "start": "00:03:06",
+    "end": "00:03:11"
+  },
+  {
+    "text": "You can use it for free at paywallexperiments.",
+    "start": "00:03:11",
+    "end": "00:03:14"
+  },
+  {
+    "text": "com.",
+    "start": "00:03:14",
+    "end": "00:03:14"
+  },
+  {
+    "text": "Also, if you're building a mobile app doing at least 100K a month in revenue, Superwall hosts dinners in San Francisco and New York.",
+    "start": "00:03:13",
+    "end": "00:03:19"
+  },
+  {
+    "text": "They keep each gathering small, thoughtful, genuinely useful for everyone.",
+    "start": "00:03:19",
+    "end": "00:03:22"
+  },
+  {
+    "text": "If you meet this criteria of 100K a month in revenue and want an invite, apply using the type form in the description.",
+    "start": "00:03:22",
+    "end": "00:03:29"
+  },
+  {
+    "text": "Let's get into the pod.",
+    "start": "00:03:29",
+    "end": "00:03:31"
+  },
+  {
+    "text": "So you got 150k users.",
+    "start": "00:03:31",
+    "end": "00:03:32"
+  },
+  {
+    "text": "You have this huge organic machine with tons of account types and formats and everything.",
+    "start": "00:03:32",
+    "end": "00:03:38"
+  },
+  {
+    "text": "But I actually want to start with just your story in general cuz I think it's pretty unique and interesting.",
+    "start": "00:03:38",
+    "end": "00:03:42"
+  },
+  {
+    "text": "You can just tell me like how you got into entrepreneurship and startups and stuff.",
+    "start": "00:03:42",
+    "end": "00:03:46"
+  },
+  {
+    "text": "But even before that, >> let me begin the chapter with my first move, right?",
+    "start": "00:03:44",
+    "end": "00:03:49"
+  },
+  {
+    "text": "That's where it all started.",
+    "start": "00:03:49",
+    "end": "00:03:50"
+  },
+  {
+    "text": "So I was really young, man.",
+    "start": "00:03:50",
+    "end": "00:03:53"
+  },
+  {
+    "text": "I didn't know what to do next.",
+    "start": "00:03:53",
+    "end": "00:03:54"
+  },
+  {
+    "text": "I was thinking, you know, this is back when I was in India.",
+    "start": "00:03:54",
+    "end": "00:03:56"
+  },
+  {
+    "text": "I grew up there and I was like, where do I move next?",
+    "start": "00:03:56",
+    "end": "00:04:00"
+  },
+  {
+    "text": "what do I do?",
+    "start": "00:04:00",
+    "end": "00:03:58"
+  },
+  {
+    "text": "And I had the choice of moving all the way to the west.",
+    "start": "00:03:58",
+    "end": "00:04:03"
+  },
+  {
+    "text": "I could try and do a master's program somewhere in the west or I could move to China.",
+    "start": "00:04:03",
+    "end": "00:04:07"
+  },
+  {
+    "text": "I was like, why the f not, you know, let's try this.",
+    "start": "00:04:07",
+    "end": "00:04:11"
+  },
+  {
+    "text": "So I decided to move to China back in 2013.",
+    "start": "00:04:09",
+    "end": "00:04:11"
+  },
+  {
+    "text": "I had no idea.",
+    "start": "00:04:11",
+    "end": "00:04:13"
+  },
+  {
+    "text": "I didn't speak the language.",
+    "start": "00:04:13",
+    "end": "00:04:14"
+  },
+  {
+    "text": "I couldn't move around the country.",
+    "start": "00:04:14",
+    "end": "00:04:15"
+  },
+  {
+    "text": "I didn't know about the food.",
+    "start": "00:04:15",
+    "end": "00:04:18"
+  },
+  {
+    "text": "I was just thrown in there and I landed there and I was like, \"Okay, what is happening now?",
+    "start": "00:04:18",
+    "end": "00:04:21"
+  },
+  {
+    "text": "\" Like I took this move, but I have no idea what's going on.",
+    "start": "00:04:21",
+    "end": "00:04:25"
+  },
+  {
+    "text": "But learned the language, finished my degree there and then I opened my first business there in China.",
+    "start": "00:04:25",
+    "end": "00:04:30"
+  },
+  {
+    "text": "Can you guess, Joseph, what the business was?",
+    "start": "00:04:30",
+    "end": "00:04:33"
+  },
+  {
+    "text": ">> Something to do with fitness.",
+    "start": "00:04:31",
+    "end": "00:04:36"
+  },
+  {
+    "text": ">> Of course.",
+    "start": "00:04:33",
+    "end": "00:04:35"
+  },
+  {
+    "text": "Of course, man.",
+    "start": "00:04:35",
+    "end": "00:04:38"
+  },
+  {
+    "text": "It was uh we were the first 24-hour gym in Beijing.",
+    "start": "00:04:38",
+    "end": "00:04:41"
+  },
+  {
+    "text": "Uh so we opened in Ping and then we spread across to a couple of other cities across China.",
+    "start": "00:04:40",
+    "end": "00:04:45"
+  },
+  {
+    "text": "Seven locations.",
+    "start": "00:04:45",
+    "end": "00:04:47"
+  },
+  {
+    "text": "Had no idea how to, you know, I couldn't speak Chinese at that point.",
+    "start": "00:04:46",
+    "end": "00:04:50"
+  },
+  {
+    "text": "I learned by talking with the people who I was working with, communicating with them, understanding what was going on.",
+    "start": "00:04:50",
+    "end": "00:04:55"
+  },
+  {
+    "text": "Uh so I carried on with this.",
+    "start": "00:04:55",
+    "end": "00:04:56"
+  },
+  {
+    "text": "That was my first business.",
+    "start": "00:04:56",
+    "end": "00:04:57"
+  },
+  {
+    "text": "Scaled that to seven locations.",
+    "start": "00:04:57",
+    "end": "00:04:59"
+  },
+  {
+    "text": "We did 15 million R&B in revenue and uh I made a lot of mistakes.",
+    "start": "00:04:59",
+    "end": "00:05:06"
+  },
+  {
+    "text": "I made a lot of mistakes.",
+    "start": "00:05:04",
+    "end": "00:05:06"
+  },
+  {
+    "text": "I was really young then man.",
+    "start": "00:05:06",
+    "end": "00:05:07"
+  },
+  {
+    "text": "I didn't have a complete idea.",
+    "start": "00:05:07",
+    "end": "00:05:08"
+  },
+  {
+    "text": "So things did work out well.",
+    "start": "00:05:08",
+    "end": "00:05:11"
+  },
+  {
+    "text": "But I also made a lot of mistakes along the way.",
+    "start": "00:05:11",
+    "end": "00:05:12"
+  },
+  {
+    "text": "Learned a lot of lessons.",
+    "start": "00:05:12",
+    "end": "00:05:15"
+  },
+  {
+    "text": "And I decided to take all that learning and move to Europe actually.",
+    "start": "00:05:15",
+    "end": "00:05:18"
+  },
+  {
+    "text": "So I moved to Europe.",
+    "start": "00:05:18",
+    "end": "00:05:19"
+  },
+  {
+    "text": "I worked for Jono, German scaleup back in Berlin.",
+    "start": "00:05:19",
+    "end": "00:05:24"
+  },
+  {
+    "text": "I took them from a series B to a series C.",
+    "start": "00:05:24",
+    "end": "00:05:26"
+  },
+  {
+    "text": "And it was interesting for me because in that chapter I switched from being an entrepreneur to working for someone else.",
+    "start": "00:05:26",
+    "end": "00:05:31"
+  },
+  {
+    "text": "It was in a high growth startup but I also learned a lot along the way and I figured out that even though I enjoyed the structure that came with the scaling, I wanted to get back into building something of my own.",
+    "start": "00:05:31",
+    "end": "00:05:44"
+  },
+  {
+    "text": "Now that was back in 22nd 23 starting.",
+    "start": "00:05:44",
+    "end": "00:05:47"
+  },
+  {
+    "text": "I moved to the US.",
+    "start": "00:05:47",
+    "end": "00:05:50"
+  },
+  {
+    "text": "I launched Flame.",
+    "start": "00:05:50",
+    "end": "00:05:49"
+  },
+  {
+    "text": "I raised money for Flame in that year.",
+    "start": "00:05:49",
+    "end": "00:05:51"
+  },
+  {
+    "text": "And this was my first tech product I was building.",
+    "start": "00:05:51",
+    "end": "00:05:55"
+  },
+  {
+    "text": "I didn't have a complete idea regarding tech, how it operated.",
+    "start": "00:05:55",
+    "end": "00:05:57"
+  },
+  {
+    "text": "I didn't even know what coding languages were at that point, Joseph.",
+    "start": "00:05:57",
+    "end": "00:06:02"
+  },
+  {
+    "text": "So, I went to a friend's house of mine who was a developer.",
+    "start": "00:06:00",
+    "end": "00:06:04"
+  },
+  {
+    "text": "I was like, I want to build this app.",
+    "start": "00:06:04",
+    "end": "00:06:05"
+  },
+  {
+    "text": "And they said, okay, but do you have the UIU UX?",
+    "start": "00:06:05",
+    "end": "00:06:08"
+  },
+  {
+    "text": "I said, what is that?",
+    "start": "00:06:08",
+    "end": "00:06:08"
+  },
+  {
+    "text": "I just want an app to the screen that looks like this.",
+    "start": "00:06:08",
+    "end": "00:06:11"
+  },
+  {
+    "text": "They said, okay, but do you know what language are you going to build it in?",
+    "start": "00:06:11",
+    "end": "00:06:14"
+  },
+  {
+    "text": "Is it a web app?",
+    "start": "00:06:14",
+    "end": "00:06:14"
+  },
+  {
+    "text": "Is it a mobile app?",
+    "start": "00:06:14",
+    "end": "00:06:15"
+  },
+  {
+    "text": "I said, I just want to build an app.",
+    "start": "00:06:15",
+    "end": "00:06:17"
+  },
+  {
+    "text": "How complicated can it be?",
+    "start": "00:06:17",
+    "end": "00:06:17"
+  },
+  {
+    "text": "So I learned a lot through that entire process.",
+    "start": "00:06:17",
+    "end": "00:06:20"
+  },
+  {
+    "text": "Made a lot of failures again as well and we successfully scaled flame to a certain level.",
+    "start": "00:06:20",
+    "end": "00:06:25"
+  },
+  {
+    "text": "I can say we were one of the first ones in the couple's market.",
+    "start": "00:06:25",
+    "end": "00:06:28"
+  },
+  {
+    "text": "Right now there are a lot of players out there.",
+    "start": "00:06:28",
+    "end": "00:06:29"
+  },
+  {
+    "text": "Candle couple joy paired has been there in the market since a long time.",
+    "start": "00:06:29",
+    "end": "00:06:35"
+  },
+  {
+    "text": "But when back when we entered this was a new domain and there were not a lot of people in there.",
+    "start": "00:06:32",
+    "end": "00:06:38"
+  },
+  {
+    "text": "Also u this will be interesting for you.",
+    "start": "00:06:38",
+    "end": "00:06:41"
+  },
+  {
+    "text": "the first AI ever launched for relationships which is basically a wraparound chart GPT but it was us.",
+    "start": "00:06:41",
+    "end": "00:06:47"
+  },
+  {
+    "text": "We launched back in December 2022 and it was called Flame AI.",
+    "start": "00:06:47",
+    "end": "00:06:52"
+  },
+  {
+    "text": "It was a website we blew up.",
+    "start": "00:06:52",
+    "end": "00:06:53"
+  },
+  {
+    "text": "We were on LA Times.",
+    "start": "00:06:53",
+    "end": "00:06:53"
+  },
+  {
+    "text": "We were on Techrunch couple of other places as well.",
+    "start": "00:06:53",
+    "end": "00:06:56"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:06:56",
+    "end": "00:06:57"
+  },
+  {
+    "text": "We were just the guys who were doing AI for relationships.",
+    "start": "00:06:57",
+    "end": "00:07:01"
+  },
+  {
+    "text": ">> Gotcha.",
+    "start": "00:06:59",
+    "end": "00:07:00"
+  },
+  {
+    "text": "You're building Flame now.",
+    "start": "00:07:00",
+    "end": "00:07:03"
+  },
+  {
+    "text": "How did you get the idea initially for a coup's app?",
+    "start": "00:07:03",
+    "end": "00:07:05"
+  },
+  {
+    "text": "I could tell you a story where I struggled with a breakup and I realized that I need to do this for couples but it wasn't anything like this.",
+    "start": "00:07:05",
+    "end": "00:07:11"
+  },
+  {
+    "text": "I wanted to get back into building.",
+    "start": "00:07:11",
+    "end": "00:07:13"
+  },
+  {
+    "text": "I looked at the market and dating relationship is something that is integrally tied to who we are as humans.",
+    "start": "00:07:13",
+    "end": "00:07:19"
+  },
+  {
+    "text": "Looking at the dating market I realized it's really crowded.",
+    "start": "00:07:18",
+    "end": "00:07:21"
+  },
+  {
+    "text": "There was Tinder, there was Bumble, there was Hinge, there were so many other apps which came out every day.",
+    "start": "00:07:21",
+    "end": "00:07:25"
+  },
+  {
+    "text": "But there was nothing at that time for the after part after you got into a relationship after you had a partner after you started you know being with someone.",
+    "start": "00:07:25",
+    "end": "00:07:34"
+  },
+  {
+    "text": "So we decided to build something for the after.",
+    "start": "00:07:34",
+    "end": "00:07:37"
+  },
+  {
+    "text": "We wanted to build something for when people were in a relationship, when they were with each other, when they were facing struggles together.",
+    "start": "00:07:37",
+    "end": "00:07:42"
+  },
+  {
+    "text": "And that is how Flame was conceptualized.",
+    "start": "00:07:42",
+    "end": "00:07:45"
+  },
+  {
+    "text": "Tell you a little fun story about it.",
+    "start": "00:07:45",
+    "end": "00:07:47"
+  },
+  {
+    "text": "We launched the initial version of Flame and it was a date planning app.",
+    "start": "00:07:47",
+    "end": "00:07:50"
+  },
+  {
+    "text": "So it didn't have any of these questions, any of these elements.",
+    "start": "00:07:50",
+    "end": "00:07:54"
+  },
+  {
+    "text": "It was just a app to help couples plan dates together.",
+    "start": "00:07:52",
+    "end": "00:07:56"
+  },
+  {
+    "text": "We released with quite a bang.",
+    "start": "00:07:56",
+    "end": "00:07:58"
+  },
+  {
+    "text": "It was October 2022.",
+    "start": "00:07:58",
+    "end": "00:08:01"
+  },
+  {
+    "text": "We got featured on Techrunch as a startup Battlefield company.",
+    "start": "00:08:01",
+    "end": "00:08:04"
+  },
+  {
+    "text": "We were invited to San Francisco.",
+    "start": "00:08:04",
+    "end": "00:08:05"
+  },
+  {
+    "text": "Uh things were going crazy, bro.",
+    "start": "00:08:05",
+    "end": "00:08:07"
+  },
+  {
+    "text": "We launched in 1 month.",
+    "start": "00:08:07",
+    "end": "00:08:10"
+  },
+  {
+    "text": "We grew 800% organically.",
+    "start": "00:08:10",
+    "end": "00:08:10"
+  },
+  {
+    "text": "I I had no idea about TikTok then.",
+    "start": "00:08:10",
+    "end": "00:08:12"
+  },
+  {
+    "text": "No idea about anything else.",
+    "start": "00:08:12",
+    "end": "00:08:14"
+  },
+  {
+    "text": "So, we were just growing organically really rapidly.",
+    "start": "00:08:14",
+    "end": "00:08:17"
+  },
+  {
+    "text": "And then we were hit by a lawsuit.",
+    "start": "00:08:17",
+    "end": "00:08:19"
+  },
+  {
+    "text": "Like we got a seasonless desist letter right into my inbox.",
+    "start": "00:08:19",
+    "end": "00:08:22"
+  },
+  {
+    "text": "I wake up in November, things are going really well.",
+    "start": "00:08:22",
+    "end": "00:08:25"
+  },
+  {
+    "text": "And then there's this letter that lands in telling us, \"Hey, you got to pull the app down.",
+    "start": "00:08:25",
+    "end": "00:08:29"
+  },
+  {
+    "text": "\" uh it was a trademark and brand infringement letter which said that because we were using the name sparks and there was another player in the dating market which has reg which had registered the name spark network that's why we couldn't use the name and they you know we had no choice either we could fight it and lose a lot of money doing that or just change the name so we decided to be a bit more pragmatic about it talked with a few lawyers and realized that hey it doesn't make sense for us to do so we pulled the product down we renamed it the spark evolved into a flame and evolved into a French flame because that was the letter that was not copyrighted.",
+    "start": "00:08:29",
+    "end": "00:09:06"
+  },
+  {
+    "text": "So, exactly.",
+    "start": "00:09:06",
+    "end": "00:09:08"
+  },
+  {
+    "text": "That was the first launch we did ever.",
+    "start": "00:09:08",
+    "end": "00:09:10"
+  },
+  {
+    "text": ">> So, then Okay.",
+    "start": "00:09:08",
+    "end": "00:09:10"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:09:10",
+    "end": "00:09:11"
+  },
+  {
+    "text": "So, you're building Sparks.",
+    "start": "00:09:11",
+    "end": "00:09:12"
+  },
+  {
+    "text": "It was just for like helping people plan dates if they're already, you know, if like you're already in a relationship.",
+    "start": "00:09:12",
+    "end": "00:09:19"
+  },
+  {
+    "text": "And then you pivoted the the name and the and the actual app functionality as well.",
+    "start": "00:09:19",
+    "end": "00:09:26"
+  },
+  {
+    "text": ">> Yes.",
+    "start": "00:09:24",
+    "end": "00:09:24"
+  },
+  {
+    "text": "Because Joseph, you know how much was the day 13 retention on this product?",
+    "start": "00:09:24",
+    "end": "00:09:30"
+  },
+  {
+    "text": "Zero 0.",
+    "start": "00:09:30",
+    "end": "00:09:32"
+  },
+  {
+    "text": "8%.",
+    "start": "00:09:32",
+    "end": "00:09:33"
+  },
+  {
+    "text": ">> Because people like plan one date and then they don't come back.",
+    "start": "00:09:33",
+    "end": "00:09:38"
+  },
+  {
+    "text": "There's no like recurring thing.",
+    "start": "00:09:38",
+    "end": "00:09:40"
+  },
+  {
+    "text": ">> I think there was a combination.",
+    "start": "00:09:39",
+    "end": "00:09:41"
+  },
+  {
+    "text": "One was that the date planning was not completely built.",
+    "start": "00:09:41",
+    "end": "00:09:44"
+  },
+  {
+    "text": "So we put it out as an MVP, but it wasn't enough to bring people back.",
+    "start": "00:09:44",
+    "end": "00:09:47"
+  },
+  {
+    "text": "Also, it was a tool similar to let's say similar to Airbnb, right?",
+    "start": "00:09:47",
+    "end": "00:09:52"
+  },
+  {
+    "text": "where you book an event, but you don't do it unless you need to go for the next event.",
+    "start": "00:09:50",
+    "end": "00:09:54"
+  },
+  {
+    "text": "So, you would book a place to stay, but unless you're traveling next time, you won't come back on it.",
+    "start": "00:09:54",
+    "end": "00:10:00"
+  },
+  {
+    "text": "And being in the consumer social space, we we really found it hard to raise money with 0.",
+    "start": "00:10:00",
+    "end": "00:10:04"
+  },
+  {
+    "text": "8% retention on day 30.",
+    "start": "00:10:04",
+    "end": "00:10:07"
+  },
+  {
+    "text": "So, we pulled the app down.",
+    "start": "00:10:07",
+    "end": "00:10:08"
+  },
+  {
+    "text": "We rebranded it as Flame.",
+    "start": "00:10:08",
+    "end": "00:10:08"
+  },
+  {
+    "text": "And then we also realized something.",
+    "start": "00:10:08",
+    "end": "00:10:10"
+  },
+  {
+    "text": "We talked with a lot of couples and we tried to ideulate what was that one thing they would do every day.",
+    "start": "00:10:10",
+    "end": "00:10:15"
+  },
+  {
+    "text": "What was that one thing they would repeat on a regular basis?",
+    "start": "00:10:15",
+    "end": "00:10:20"
+  },
+  {
+    "text": "This was also coupled with the times chat GPT came out.",
+    "start": "00:10:20",
+    "end": "00:10:22"
+  },
+  {
+    "text": "So it was December 2022 when it was released and we decided to leverage this opportunity to build an AI first product which was Flame AI.",
+    "start": "00:10:22",
+    "end": "00:10:35"
+  },
+  {
+    "text": ">> So Chad GPT came out you said like late 2022 and then you immediately hopped on the kind of like GPT rapper wave and then how did that go?",
+    "start": "00:10:31",
+    "end": "00:10:45"
+  },
+  {
+    "text": "At first >> retention went up from 0.",
+    "start": "00:10:45",
+    "end": "00:10:48"
+  },
+  {
+    "text": "8 to 4.",
+    "start": "00:10:48",
+    "end": "00:10:49"
+  },
+  {
+    "text": "2.",
+    "start": "00:10:49",
+    "end": "00:10:49"
+  },
+  {
+    "text": ">> Okay.",
+    "start": "00:10:47",
+    "end": "00:10:48"
+  },
+  {
+    "text": "So that's day you said that's that was day 30 >> retention day 30 and u we had to do another pivot man just to be very honest with you this flame this AI rapper was enough to get us in the media get us published like you see we had another article in techrunch February 14th Valentine's Day we came out as the AI product for relationships we also featured on LA Times or a lot of other places but we realized that it wasn't working like even though we could get media presence even though the retention went up to from 0.",
+    "start": "00:10:48",
+    "end": "00:11:18"
+  },
+  {
+    "text": "8 8 to 4.",
+    "start": "00:11:18",
+    "end": "00:11:19"
+  },
+  {
+    "text": "2 it was still dismal and we realized we had to do something else.",
+    "start": "00:11:19",
+    "end": "00:11:22"
+  },
+  {
+    "text": "What we did is this product had AI as its main feature but along with that we also launched something called the daily question where we would give couples a daily prompt they could answer together.",
+    "start": "00:11:22",
+    "end": "00:11:34"
+  },
+  {
+    "text": "Now I know it's really common right now and almost every other app does it but back in that time we were one of the few like I think paired was the only one apart from us which was doing it.",
+    "start": "00:11:34",
+    "end": "00:11:42"
+  },
+  {
+    "text": "We realized that people were coming back not for the AI coach but for that daily question feature.",
+    "start": "00:11:42",
+    "end": "00:11:47"
+  },
+  {
+    "text": "They were coming for a daily way to connect with their partner.",
+    "start": "00:11:47",
+    "end": "00:11:53"
+  },
+  {
+    "text": "And we took that nugget we extracted it from the product and we made it the main stay in the product.",
+    "start": "00:11:53",
+    "end": "00:11:57"
+  },
+  {
+    "text": "We put it right on the homepage and big we were like hey daily discovery question this is the main thing we want you to come back for.",
+    "start": "00:11:57",
+    "end": "00:12:04"
+  },
+  {
+    "text": "Now what I did regarding retention is I studied the work of a Stanford professor called BJ Fog.",
+    "start": "00:12:04",
+    "end": "00:12:08"
+  },
+  {
+    "text": "He works a lot in habit formation and we realized that every retention event needed to be tied with a trigger.",
+    "start": "00:12:08",
+    "end": "00:12:14"
+  },
+  {
+    "text": "It needed to have something which was a daily habit to call people back on a regular basis and it needed to have a carrot and a stick approach.",
+    "start": "00:12:14",
+    "end": "00:12:22"
+  },
+  {
+    "text": "What was the carrot and the sick approach in this case?",
+    "start": "00:12:22",
+    "end": "00:12:24"
+  },
+  {
+    "text": "In the morning if you would answer or not answer your daily question when it was live, you would get a carrot notification reminding you, hey, come back, answer your question, take care of it.",
+    "start": "00:12:24",
+    "end": "00:12:32"
+  },
+  {
+    "text": "And as the day passed, if you did not answer your daily question, we would send a stick notification reminding you that, hey, it's time for you to answer the daily question.",
+    "start": "00:12:32",
+    "end": "00:12:41"
+  },
+  {
+    "text": "You're going to lose your street.",
+    "start": "00:12:41",
+    "end": "00:12:42"
+  },
+  {
+    "text": "Your partner is going to be sad.",
+    "start": "00:12:42",
+    "end": "00:12:43"
+  },
+  {
+    "text": "Your partner is going to be missing out.",
+    "start": "00:12:43",
+    "end": "00:12:45"
+  },
+  {
+    "text": "Um, and it worked really well for us.",
+    "start": "00:12:45",
+    "end": "00:12:46"
+  },
+  {
+    "text": "And we were able to increase our day 30 retention from 4.",
+    "start": "00:12:46",
+    "end": "00:12:53"
+  },
+  {
+    "text": "2% to roughly 30% and then all the way up to 50% by doing this.",
+    "start": "00:12:53",
+    "end": "00:12:57"
+  },
+  {
+    "text": "50%.",
+    "start": "00:12:57",
+    "end": "00:12:58"
+  },
+  {
+    "text": "That is a pretty big number.",
+    "start": "00:12:58",
+    "end": "00:13:00"
+  },
+  {
+    "text": "But can you put that into context for some other consumer apps?",
+    "start": "00:13:00",
+    "end": "00:13:03"
+  },
+  {
+    "text": "That means basically 50% of the users will still be there on the 30th day that they open the app from the time that they downloaded the app.",
+    "start": "00:13:03",
+    "end": "00:13:13"
+  },
+  {
+    "text": "So is that good or bad?",
+    "start": "00:13:13",
+    "end": "00:13:13"
+  },
+  {
+    "text": "Like how how good is that?",
+    "start": "00:13:13",
+    "end": "00:13:16"
+  },
+  {
+    "text": "Because spoiler alert, it's actually an insane number.",
+    "start": "00:13:14",
+    "end": "00:13:17"
+  },
+  {
+    "text": "But I want to Can you give some context to it?",
+    "start": "00:13:17",
+    "end": "00:13:21"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:13:19",
+    "end": "00:13:20"
+  },
+  {
+    "text": "So we studied a couple of other big social apps to understand what her retention was looking like.",
+    "start": "00:13:20",
+    "end": "00:13:26"
+  },
+  {
+    "text": "If I remember correctly, X has a 30-day retention of 30%.",
+    "start": "00:13:26",
+    "end": "00:13:29"
+  },
+  {
+    "text": "Don't, you know, not exactly sure about the numbers right now, but I know it was in this range.",
+    "start": "00:13:29",
+    "end": "00:13:37"
+  },
+  {
+    "text": "Instagram is at 35%, Tik Tok barely touches roughly 40% on day 30.",
+    "start": "00:13:34",
+    "end": "00:13:40"
+  },
+  {
+    "text": "And uh so we knew we were doing something right when we touched those numbers.",
+    "start": "00:13:40",
+    "end": "00:13:45"
+  },
+  {
+    "text": "It took us a lot of pivoting, lot of anchoring the product, a lot of working on the main feature to unlock this.",
+    "start": "00:13:45",
+    "end": "00:13:50"
+  },
+  {
+    "text": "And if I'm not wrong, we invested roughly around 8 months to get to this point.",
+    "start": "00:13:50",
+    "end": "00:13:55"
+  },
+  {
+    "text": "So it took us eight months and continuous iteration on the product.",
+    "start": "00:13:55",
+    "end": "00:14:00"
+  },
+  {
+    "text": "I did one big mistake though, Joseph, in this which you'll agree with.",
+    "start": "00:14:00",
+    "end": "00:14:03"
+  },
+  {
+    "text": "I focus on the product too much.",
+    "start": "00:14:03",
+    "end": "00:14:05"
+  },
+  {
+    "text": "I didn't focus on the distribution enough.",
+    "start": "00:14:05",
+    "end": "00:14:08"
+  },
+  {
+    "text": "So what happened is we were in the end of 2023.",
+    "start": "00:14:08",
+    "end": "00:14:11"
+  },
+  {
+    "text": "We had a product with insane retention working really well, but we were almost out of money.",
+    "start": "00:14:09",
+    "end": "00:14:15"
+  },
+  {
+    "text": "We're almost out of money.",
+    "start": "00:14:15",
+    "end": "00:14:18"
+  },
+  {
+    "text": "We had raised a bit of money before and we were running out of it.",
+    "start": "00:14:15",
+    "end": "00:14:20"
+  },
+  {
+    "text": "we had no other way to find out.",
+    "start": "00:14:20",
+    "end": "00:14:22"
+  },
+  {
+    "text": "So we then decided to monetize the product instead of going and raising more money.",
+    "start": "00:14:22",
+    "end": "00:14:26"
+  },
+  {
+    "text": "So this was a completely free product in that entire span of time and we hadn't put monetization in the product which was another one of the mistakes I made.",
+    "start": "00:14:26",
+    "end": "00:14:33"
+  },
+  {
+    "text": "As I mentioned I made a lot of mistakes with flame as well which I figured out along the way.",
+    "start": "00:14:33",
+    "end": "00:14:36"
+  },
+  {
+    "text": "We put in monetization in the product.",
+    "start": "00:14:36",
+    "end": "00:14:38"
+  },
+  {
+    "text": "We barely made it out of running out of money at that point end of 23 and we bought the product back to life.",
+    "start": "00:14:38",
+    "end": "00:14:44"
+  },
+  {
+    "text": "So the carrot and stick uh framework that you talk about for retention, you use that to bring your retention from one to four to 50% day 30 retention and which was like higher than popular social media apps like Tik Tok and Instagram at the time.",
+    "start": "00:14:44",
+    "end": "00:15:02"
+  },
+  {
+    "text": "And how the heck do you make an app more retentive than Tik Tok?",
+    "start": "00:15:02",
+    "end": "00:15:05"
+  },
+  {
+    "text": "So the stick was like you send a notification to warn the user that their streak is about to expire.",
+    "start": "00:15:05",
+    "end": "00:15:14"
+  },
+  {
+    "text": "So there's sort of like the fear of loss.",
+    "start": "00:15:14",
+    "end": "00:15:17"
+  },
+  {
+    "text": "You have this a streak built up and you don't want to lose it.",
+    "start": "00:15:14",
+    "end": "00:15:19"
+  },
+  {
+    "text": "So that was the stick.",
+    "start": "00:15:19",
+    "end": "00:15:19"
+  },
+  {
+    "text": "And then what was the carrot?",
+    "start": "00:15:19",
+    "end": "00:15:21"
+  },
+  {
+    "text": "Was it just the streak itself or are there other like features that you put in?",
+    "start": "00:15:21",
+    "end": "00:15:25"
+  },
+  {
+    "text": ">> I don't think actually it was that directly.",
+    "start": "00:15:24",
+    "end": "00:15:26"
+  },
+  {
+    "text": "I think it was what it was linked to.",
+    "start": "00:15:26",
+    "end": "00:15:28"
+  },
+  {
+    "text": "Now that is a big advantage we got.",
+    "start": "00:15:28",
+    "end": "00:15:31"
+  },
+  {
+    "text": "You losing the streak was not linked to you losing the streak.",
+    "start": "00:15:31",
+    "end": "00:15:35"
+  },
+  {
+    "text": "It was linked to you making your partner sad.",
+    "start": "00:15:35",
+    "end": "00:15:36"
+  },
+  {
+    "text": ">> Mhm.",
+    "start": "00:15:36",
+    "end": "00:15:39"
+  },
+  {
+    "text": ">> Do you see the difference?",
+    "start": "00:15:36",
+    "end": "00:15:39"
+  },
+  {
+    "text": "you doing something to get a carrot was not you getting a carrot, it was your partner being happy.",
+    "start": "00:15:39",
+    "end": "00:15:43"
+  },
+  {
+    "text": "And I think this is where we got a big advantage because this was an emotional product.",
+    "start": "00:15:43",
+    "end": "00:15:47"
+  },
+  {
+    "text": "This was linked with not only what you did, but also what your partner did.",
+    "start": "00:15:47",
+    "end": "00:15:51"
+  },
+  {
+    "text": "Right?",
+    "start": "00:15:51",
+    "end": "00:15:52"
+  },
+  {
+    "text": "You'll hear of these incidences where people go above and beyond to make sure their partner is happy.",
+    "start": "00:15:52",
+    "end": "00:15:56"
+  },
+  {
+    "text": "This was kind of similar.",
+    "start": "00:15:56",
+    "end": "00:15:57"
+  },
+  {
+    "text": "They didn't want to make the partner sad.",
+    "start": "00:15:57",
+    "end": "00:15:58"
+  },
+  {
+    "text": "They wanted to make the partner happy.",
+    "start": "00:15:58",
+    "end": "00:16:00"
+  },
+  {
+    "text": "So they would make sure they would come back on the product, answer the question so the partner would remain happy and they wouldn't end up missing it in the end of the day because they didn't want to make their partner sad.",
+    "start": "00:16:00",
+    "end": "00:16:09"
+  },
+  {
+    "text": ">> Yeah, that makes a lot of sense.",
+    "start": "00:16:08",
+    "end": "00:16:11"
+  },
+  {
+    "text": "Is there anything you did in the product that created those emotional stakes?",
+    "start": "00:16:11",
+    "end": "00:16:16"
+  },
+  {
+    "text": ">> One of the things we used at that point was the missing out effect where if you did not answer the question, you could not see your partner's answer as well.",
+    "start": "00:16:14",
+    "end": "00:16:23"
+  },
+  {
+    "text": "So it kind of created the situation where you really wanted to discover what their answer was and if they answered you would want to answer but if you answer they want to answer as well.",
+    "start": "00:16:22",
+    "end": "00:16:32"
+  },
+  {
+    "text": "So it would create this loop which would carry over to increasing the retention.",
+    "start": "00:16:32",
+    "end": "00:16:35"
+  },
+  {
+    "text": "Apart from that we figured out notification was one of the best tools.",
+    "start": "00:16:34",
+    "end": "00:16:39"
+  },
+  {
+    "text": "One thing we discovered too late which helped also is widgets.",
+    "start": "00:16:37",
+    "end": "00:16:42"
+  },
+  {
+    "text": "I think one of the big advantages you have in a mobile app as compared to a web app is you can place a widget on the home screen and that widget is a easy way to call the user back every single time.",
+    "start": "00:16:42",
+    "end": "00:16:51"
+  },
+  {
+    "text": "One of the apps which did this really well was Couplejoy.",
+    "start": "00:16:51",
+    "end": "00:16:54"
+  },
+  {
+    "text": "I think Couplejoy was one of the first ones which put a widget on the lock screen and that is what their social media strategy was based around as well.",
+    "start": "00:16:54",
+    "end": "00:17:01"
+  },
+  {
+    "text": "So we found that what they uncovered worked really well.",
+    "start": "00:17:01",
+    "end": "00:17:05"
+  },
+  {
+    "text": "We incorporated it after they did and most of the other players did as well.",
+    "start": "00:17:05",
+    "end": "00:17:07"
+  },
+  {
+    "text": "But these were the three things I would say were the top ones.",
+    "start": "00:17:07",
+    "end": "00:17:10"
+  },
+  {
+    "text": "Yes, exactly.",
+    "start": "00:17:10",
+    "end": "00:17:11"
+  },
+  {
+    "text": "So here as you can see on the app itself, they've got a distance widget which shows the distance between the partners.",
+    "start": "00:17:11",
+    "end": "00:17:17"
+  },
+  {
+    "text": "Now, this is really, really, really valuable when you're in a long-distance relationship because you want to understand how far are you from your partner, how close can you get, also the amount of days you have together.",
+    "start": "00:17:16",
+    "end": "00:17:27"
+  },
+  {
+    "text": "It makes you feel more attached to your partner even though you're not there with them.",
+    "start": "00:17:27",
+    "end": "00:17:29"
+  },
+  {
+    "text": "Really strong incentives to pull the person back on the product and to remind them that the product exists, right?",
+    "start": "00:17:29",
+    "end": "00:17:34"
+  },
+  {
+    "text": "Because, as you know, Joseph, our mobile screens are full of products right now, and it's really hard to stand out as a product.",
+    "start": "00:17:34",
+    "end": "00:17:41"
+  },
+  {
+    "text": "Notifications help, but almost every other app sends you notification nowadays.",
+    "start": "00:17:41",
+    "end": "00:17:46"
+  },
+  {
+    "text": "So, how do you stand out from that?",
+    "start": "00:17:46",
+    "end": "00:17:47"
+  },
+  {
+    "text": "By using widgets like this, by using strategies like this.",
+    "start": "00:17:47",
+    "end": "00:17:51"
+  },
+  {
+    "text": ">> The widget is also just a lot bigger than the other apps.",
+    "start": "00:17:49",
+    "end": "00:17:54"
+  },
+  {
+    "text": "Like, there's so many other apps on the screen and then you get a widget and it's like >> kind of big like it just stands out and then you can dynamically >> send content and like send updates to it so that it shows something.",
+    "start": "00:17:54",
+    "end": "00:18:08"
+  },
+  {
+    "text": ">> It just it's just like that thing, right?",
+    "start": "00:18:07",
+    "end": "00:18:08"
+  },
+  {
+    "text": "It's right there in your face.",
+    "start": "00:18:08",
+    "end": "00:18:11"
+  },
+  {
+    "text": "It's showing you like every time you open your phone screen, you see this massive widget saying something about your partner or saying something about the product itself and you want to come to it.",
+    "start": "00:18:09",
+    "end": "00:18:16"
+  },
+  {
+    "text": "You're intrigued.",
+    "start": "00:18:16",
+    "end": "00:18:18"
+  },
+  {
+    "text": "You want to go in there.",
+    "start": "00:18:18",
+    "end": "00:18:18"
+  },
+  {
+    "text": "You want to see what's happening.",
+    "start": "00:18:18",
+    "end": "00:18:20"
+  },
+  {
+    "text": ">> That's really good.",
+    "start": "00:18:19",
+    "end": "00:18:22"
+  },
+  {
+    "text": ">> Actually, I'll tell you a part which might be helpful to other consumer founders as well linked with the retention.",
+    "start": "00:18:20",
+    "end": "00:18:27"
+  },
+  {
+    "text": ">> Mhm.",
+    "start": "00:18:26",
+    "end": "00:18:29"
+  },
+  {
+    "text": ">> We had really high retention, but we did not have enough numbers to convince investors.",
+    "start": "00:18:27",
+    "end": "00:18:31"
+  },
+  {
+    "text": "That's one of the reasons we had to monetize the product as well.",
+    "start": "00:18:31",
+    "end": "00:18:36"
+  },
+  {
+    "text": "End of 23 because even though the retention numbers were really good, we got into meetings with tier one investors, talked with general capital, say 16Z, SEOA, you can name all the big shots.",
+    "start": "00:18:36",
+    "end": "00:18:45"
+  },
+  {
+    "text": "We had to talk with all of them.",
+    "start": "00:18:45",
+    "end": "00:18:46"
+  },
+  {
+    "text": "But the numbers were not big enough.",
+    "start": "00:18:46",
+    "end": "00:18:48"
+  },
+  {
+    "text": "The baseline numbers were not big enough to convince them because we did not unlock distribution.",
+    "start": "00:18:48",
+    "end": "00:18:53"
+  },
+  {
+    "text": "We did not invest enough time into it.",
+    "start": "00:18:53",
+    "end": "00:18:55"
+  },
+  {
+    "text": "So any consumer founder who's going to go out there to raise I would recommend you to invest a good amount of time into distribution before you try and go and talk with investors.",
+    "start": "00:18:55",
+    "end": "00:19:05"
+  },
+  {
+    "text": "The way the pitch deck worked is they would look at the retention numbers.",
+    "start": "00:19:03",
+    "end": "00:19:07"
+  },
+  {
+    "text": "They would get on the call with us and then they would ask us how are you distributing the product and we wouldn't have an answer and I would try to I would try to work up some sort of saying that yeah we'll we'll look at talking to influencers or we'll do this that but they knew they knew I was bluffing.",
+    "start": "00:19:06",
+    "end": "00:19:22"
+  },
+  {
+    "text": "So a tip to any consumer founder who wants to go out there, make sure your product is solid, but also make sure you have unlocked distribution.",
+    "start": "00:19:22",
+    "end": "00:19:28"
+  },
+  {
+    "text": "They will ask you about it.",
+    "start": "00:19:28",
+    "end": "00:19:29"
+  },
+  {
+    "text": "They will drill into it and if you can't answer, then usually you don't have a second conversation.",
+    "start": "00:19:29",
+    "end": "00:19:36"
+  },
+  {
+    "text": ">> So you decided to monetize because it would add a little bit more proof point to hey this app is worth investing in.",
+    "start": "00:19:33",
+    "end": "00:19:43"
+  },
+  {
+    "text": ">> We decided to monetize because we didn't have any money left, brother.",
+    "start": "00:19:42",
+    "end": "00:19:47"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:19:45",
+    "end": "00:19:46"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:19:46",
+    "end": "00:19:46"
+  },
+  {
+    "text": "So you're bootstrapping.",
+    "start": "00:19:46",
+    "end": "00:19:48"
+  },
+  {
+    "text": "You're basically bootstrapping.",
+    "start": "00:19:47",
+    "end": "00:19:50"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:19:48",
+    "end": "00:19:49"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:19:49",
+    "end": "00:19:50"
+  },
+  {
+    "text": "because we raised a raised a small round in 23.",
+    "start": "00:19:50",
+    "end": "00:19:52"
+  },
+  {
+    "text": "We were running out of money at the end of the year.",
+    "start": "00:19:52",
+    "end": "00:19:56"
+  },
+  {
+    "text": "We were like we need to monetize or we won't survive.",
+    "start": "00:19:56",
+    "end": "00:19:57"
+  },
+  {
+    "text": "We were not able to raise more money because as I mentioned once we raised the initial small round to raise a bigger round we needed to get more conviction on the product and the distribution.",
+    "start": "00:19:57",
+    "end": "00:20:07"
+  },
+  {
+    "text": "We had product conviction.",
+    "start": "00:20:07",
+    "end": "00:20:10"
+  },
+  {
+    "text": "We did not have distribution conviction.",
+    "start": "00:20:08",
+    "end": "00:20:12"
+  },
+  {
+    "text": "So we monetized because we had to survive.",
+    "start": "00:20:10",
+    "end": "00:20:15"
+  },
+  {
+    "text": ">> And then did that work out?",
+    "start": "00:20:13",
+    "end": "00:20:16"
+  },
+  {
+    "text": "How how much were you able to monetize?",
+    "start": "00:20:16",
+    "end": "00:20:20"
+  },
+  {
+    "text": "It was a struggle.",
+    "start": "00:20:18",
+    "end": "00:20:21"
+  },
+  {
+    "text": "So I started monetization and initially in the first month we had a surplus of users build up.",
+    "start": "00:20:21",
+    "end": "00:20:25"
+  },
+  {
+    "text": "We monetized and we had a 15% conversion rate.",
+    "start": "00:20:25",
+    "end": "00:20:31"
+  },
+  {
+    "text": "So I was like wow this is incredible man.",
+    "start": "00:20:31",
+    "end": "00:20:33"
+  },
+  {
+    "text": "A 15% conversion to pay for every user who's coming onto the product.",
+    "start": "00:20:33",
+    "end": "00:20:36"
+  },
+  {
+    "text": "We have incredible product market fit regarding monetization as well.",
+    "start": "00:20:36",
+    "end": "00:20:39"
+  },
+  {
+    "text": "Let's try to scale.",
+    "start": "00:20:39",
+    "end": "00:20:41"
+  },
+  {
+    "text": "What I didn't realize is how to calculate that conversion to pay.",
+    "start": "00:20:41",
+    "end": "00:20:44"
+  },
+  {
+    "text": "I calculated that as anyone who is paying for the product.",
+    "start": "00:20:44",
+    "end": "00:20:48"
+  },
+  {
+    "text": "It could be new subscribers.",
+    "start": "00:20:48",
+    "end": "00:20:49"
+  },
+  {
+    "text": "It could be old renewals as well.",
+    "start": "00:20:49",
+    "end": "00:20:51"
+  },
+  {
+    "text": "So let's say the this sum in total was a thousand.",
+    "start": "00:20:51",
+    "end": "00:20:54"
+  },
+  {
+    "text": "And I would divide that by the total amount of users who were coming on right now.",
+    "start": "00:20:54",
+    "end": "00:20:58"
+  },
+  {
+    "text": "Now the the tricky part with this is if you're getting someone who has been on the app for a couple of months who's renewing their membership, but you count them in this cohort, then it's not really conversion of the new users.",
+    "start": "00:20:58",
+    "end": "00:21:08"
+  },
+  {
+    "text": "It's just con like who the total amount of users who are paying for your product.",
+    "start": "00:21:08",
+    "end": "00:21:12"
+  },
+  {
+    "text": ">> Gotcha.",
+    "start": "00:21:10",
+    "end": "00:21:11"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:21:11",
+    "end": "00:21:12"
+  },
+  {
+    "text": "So you have this like crazy retention machine more retentive than Tik Tok but you want to you need to grow it.",
+    "start": "00:21:12",
+    "end": "00:21:18"
+  },
+  {
+    "text": "So how do you grow this app?",
+    "start": "00:21:18",
+    "end": "00:21:21"
+  },
+  {
+    "text": ">> So once I realized that uh we did make enough money to survive barely the question came back to the same thing I mentioned before distribution.",
+    "start": "00:21:19",
+    "end": "00:21:30"
+  },
+  {
+    "text": "We had to unlock distribution or we would not be able to carry on.",
+    "start": "00:21:30",
+    "end": "00:21:33"
+  },
+  {
+    "text": "We would not be able to survive.",
+    "start": "00:21:33",
+    "end": "00:21:34"
+  },
+  {
+    "text": "We sludged through 2024 Joseph.",
+    "start": "00:21:34",
+    "end": "00:21:37"
+  },
+  {
+    "text": "It was a hard year for the company.",
+    "start": "00:21:37",
+    "end": "00:21:38"
+  },
+  {
+    "text": "It was more so because we didn't understand what direction we should be going for.",
+    "start": "00:21:38",
+    "end": "00:21:42"
+  },
+  {
+    "text": "We were a very small team, right?",
+    "start": "00:21:42",
+    "end": "00:21:44"
+  },
+  {
+    "text": "We were three or four people.",
+    "start": "00:21:44",
+    "end": "00:21:44"
+  },
+  {
+    "text": "We were focusing on unlocking monetization, understanding how can we convert the retentive users to paying for a product right now.",
+    "start": "00:21:44",
+    "end": "00:21:52"
+  },
+  {
+    "text": "At the same time, a part of the team was figuring out distribution.",
+    "start": "00:21:52",
+    "end": "00:21:54"
+  },
+  {
+    "text": "At the same time, you know, I was still trying to talk with investors.",
+    "start": "00:21:54",
+    "end": "00:21:57"
+  },
+  {
+    "text": "Uh I even had a round with A6Z speedrun.",
+    "start": "00:21:57",
+    "end": "00:22:00"
+  },
+  {
+    "text": "I love their team.",
+    "start": "00:22:00",
+    "end": "00:22:02"
+  },
+  {
+    "text": "So even had a round with them.",
+    "start": "00:22:02",
+    "end": "00:22:03"
+  },
+  {
+    "text": "I talked with the team as well.",
+    "start": "00:22:03",
+    "end": "00:22:05"
+  },
+  {
+    "text": "And at the midpoint through 2024, I realized that we need to stop everything else we're doing.",
+    "start": "00:22:05",
+    "end": "00:22:10"
+  },
+  {
+    "text": "No monetization, no talking with the investors because the talks were ending with me having the first two rounds of calls, one round of call and ending up with no term sheet in my hands.",
+    "start": "00:22:10",
+    "end": "00:22:18"
+  },
+  {
+    "text": "I realized the only thing I need to do as a founder, the one and the only thing is go and learn how to distribute.",
+    "start": "00:22:18",
+    "end": "00:22:24"
+  },
+  {
+    "text": "That is when I I don't know if you remember this.",
+    "start": "00:22:24",
+    "end": "00:22:26"
+  },
+  {
+    "text": "This is a dejàu moment, but that is when you started consumer club.",
+    "start": "00:22:26",
+    "end": "00:22:30"
+  },
+  {
+    "text": "You >> remember on Discord?",
+    "start": "00:22:30",
+    "end": "00:22:32"
+  },
+  {
+    "text": ">> I do remember.",
+    "start": "00:22:31",
+    "end": "00:22:32"
+  },
+  {
+    "text": "Yeah, I remember you came in and you were like, \"We have this insanely retentive app.",
+    "start": "00:22:32",
+    "end": "00:22:36"
+  },
+  {
+    "text": "We're just trying to learn how to do distribution.",
+    "start": "00:22:36",
+    "end": "00:22:39"
+  },
+  {
+    "text": "\" >> Yeah, man.",
+    "start": "00:22:39",
+    "end": "00:22:39"
+  },
+  {
+    "text": "I had no idea.",
+    "start": "00:22:39",
+    "end": "00:22:40"
+  },
+  {
+    "text": "So, I'm so thankful for your community because I learned so much through that, man.",
+    "start": "00:22:40",
+    "end": "00:22:44"
+  },
+  {
+    "text": "Like, I I remember I came in there and I just saw people saying that Tik Tok list that, yada yada.",
+    "start": "00:22:44",
+    "end": "00:22:47"
+  },
+  {
+    "text": "I was like, what are you guys talking about?",
+    "start": "00:22:47",
+    "end": "00:22:49"
+  },
+  {
+    "text": "I have no idea.",
+    "start": "00:22:49",
+    "end": "00:22:51"
+  },
+  {
+    "text": "I I talked with so many members of the club.",
+    "start": "00:22:49",
+    "end": "00:22:51"
+  },
+  {
+    "text": "I tried to communicate with them on a regular basis.",
+    "start": "00:22:51",
+    "end": "00:22:55"
+  },
+  {
+    "text": "I learned I would say, you know, my zero to one in distribution was because of what you set up there.",
+    "start": "00:22:55",
+    "end": "00:22:59"
+  },
+  {
+    "text": "It was because of the community you set up.",
+    "start": "00:22:59",
+    "end": "00:23:02"
+  },
+  {
+    "text": "So, thank you for that.",
+    "start": "00:23:02",
+    "end": "00:23:05"
+  },
+  {
+    "text": ">> I appreciate that.",
+    "start": "00:23:03",
+    "end": "00:23:06"
+  },
+  {
+    "text": "That's awesome.",
+    "start": "00:23:06",
+    "end": "00:23:08"
+  },
+  {
+    "text": ">> Yeah, I remember that time.",
+    "start": "00:23:05",
+    "end": "00:23:09"
+  },
+  {
+    "text": "So, yeah, we we I realized what I had to do was I had to go into Tik Tok.",
+    "start": "00:23:09",
+    "end": "00:23:13"
+  },
+  {
+    "text": "Tik Tok was going to be a savior.",
+    "start": "00:23:13",
+    "end": "00:23:14"
+  },
+  {
+    "text": "Tik Tok was going to be the reason we would be able to save the product.",
+    "start": "00:23:14",
+    "end": "00:23:17"
+  },
+  {
+    "text": "I went into Tik Tok and I learned how the algorithm works.",
+    "start": "00:23:17",
+    "end": "00:23:22"
+  },
+  {
+    "text": "Now, I am an Instagram guy man.",
+    "start": "00:23:22",
+    "end": "00:23:23"
+  },
+  {
+    "text": "I I lived my whole life on Instagram.",
+    "start": "00:23:23",
+    "end": "00:23:25"
+  },
+  {
+    "text": "I started using that when I was young.",
+    "start": "00:23:25",
+    "end": "00:23:27"
+  },
+  {
+    "text": "We used to have Orcut and MySpace.",
+    "start": "00:23:27",
+    "end": "00:23:28"
+  },
+  {
+    "text": "Then it came out to Facebook.",
+    "start": "00:23:28",
+    "end": "00:23:30"
+  },
+  {
+    "text": "Then it came to Instagram and I've been on Instagram ever since then.",
+    "start": "00:23:30",
+    "end": "00:23:36"
+  },
+  {
+    "text": "What I did is for two months I dedicated myself to scrolling Tik Tok for 4 hours every day.",
+    "start": "00:23:33",
+    "end": "00:23:39"
+  },
+  {
+    "text": "I just had no idea how Tik Tok works, right?",
+    "start": "00:23:39",
+    "end": "00:23:41"
+  },
+  {
+    "text": "I had to look through every single piece of content.",
+    "start": "00:23:41",
+    "end": "00:23:43"
+  },
+  {
+    "text": "I had to understand how it works.",
+    "start": "00:23:43",
+    "end": "00:23:45"
+  },
+  {
+    "text": "I had to understand, you know, why was what we were putting out, why was it working, why was it not working?",
+    "start": "00:23:45",
+    "end": "00:23:51"
+  },
+  {
+    "text": "So I spent four hours every single day for two months on Tik Tok to understand how Tik Tok worked, what was the language used there, what was the kind of content there, you know, what were the hooks, why were people getting more traction, why were people getting less traction, why were we getting less traction?",
+    "start": "00:23:51",
+    "end": "00:24:09"
+  },
+  {
+    "text": "And once I understood this, once we started unlocking views for our own single account, I realized I had to multiply this if we had to make this work for the business.",
+    "start": "00:24:09",
+    "end": "00:24:18"
+  },
+  {
+    "text": "What I mean by multiplying this is we had to take what was happening on one account and we had to multiply it across accounts.",
+    "start": "00:24:18",
+    "end": "00:24:26"
+  },
+  {
+    "text": "I'm not talking two.",
+    "start": "00:24:26",
+    "end": "00:24:27"
+  },
+  {
+    "text": "I'm not talking three.",
+    "start": "00:24:27",
+    "end": "00:24:29"
+  },
+  {
+    "text": "I'm saying couple of dozen accounts had to be set up.",
+    "start": "00:24:29",
+    "end": "00:24:30"
+  },
+  {
+    "text": "Couple of dozen accounts had to be aligned for this to work.",
+    "start": "00:24:30",
+    "end": "00:24:34"
+  },
+  {
+    "text": "Tik Tok was a volume game for us at that point.",
+    "start": "00:24:34",
+    "end": "00:24:36"
+  },
+  {
+    "text": "We were not creative geniuses.",
+    "start": "00:24:34",
+    "end": "00:24:37"
+  },
+  {
+    "text": "I won't even call us creative geniuses right now.",
+    "start": "00:24:37",
+    "end": "00:24:38"
+  },
+  {
+    "text": "We right now know how to really well take a format that's working for someone else, multiply that into our own format and how to scale it from there.",
+    "start": "00:24:38",
+    "end": "00:24:47"
+  },
+  {
+    "text": "But we don't invent formats right now.",
+    "start": "00:24:45",
+    "end": "00:24:49"
+  },
+  {
+    "text": "Once I realized this, I started looking into and I went back again to the consumer community you set up.",
+    "start": "00:24:47",
+    "end": "00:24:53"
+  },
+  {
+    "text": "I went back to it.",
+    "start": "00:24:53",
+    "end": "00:24:53"
+  },
+  {
+    "text": "I started looking at how do you set up multiple accounts?",
+    "start": "00:24:53",
+    "end": "00:24:56"
+  },
+  {
+    "text": "How do you set up multiple phones?",
+    "start": "00:24:56",
+    "end": "00:24:57"
+  },
+  {
+    "text": "How do you push out content to the US FIP from outside the US and this was on the learning curve like the amount of accounts we had banned the amount of accounts that had no views coming even though we were putting out the right content we had the right hooks.",
+    "start": "00:24:57",
+    "end": "00:25:09"
+  },
+  {
+    "text": "We had everything calculated.",
+    "start": "00:25:09",
+    "end": "00:25:09"
+  },
+  {
+    "text": "We were trying to do it in the right manner.",
+    "start": "00:25:09",
+    "end": "00:25:12"
+  },
+  {
+    "text": "And then I realized that it's Tik Tok farming is another layer of learning I will have to go through.",
+    "start": "00:25:12",
+    "end": "00:25:17"
+  },
+  {
+    "text": "What I did is you know I went back to the founder community.",
+    "start": "00:25:17",
+    "end": "00:25:21"
+  },
+  {
+    "text": "I talked with some of my friends and I started collecting these little babies.",
+    "start": "00:25:21",
+    "end": "00:25:28"
+  },
+  {
+    "text": "These uh you see these these nice little babies.",
+    "start": "00:25:25",
+    "end": "00:25:28"
+  },
+  {
+    "text": "I started collecting iPhones man.",
+    "start": "00:25:28",
+    "end": "00:25:30"
+  },
+  {
+    "text": "I became an iPhone collector.",
+    "start": "00:25:30",
+    "end": "00:25:33"
+  },
+  {
+    "text": "So the biggest amount of iPhones we have is iPhone 8.",
+    "start": "00:25:33",
+    "end": "00:25:34"
+  },
+  {
+    "text": "And this is not even all the iPhones we have.",
+    "start": "00:25:34",
+    "end": "00:25:37"
+  },
+  {
+    "text": "My team right now has 10 iPhones lying with them, each of the iPhones has three to four accounts on it.",
+    "start": "00:25:37",
+    "end": "00:25:44"
+  },
+  {
+    "text": ">> Um, what I can tell you is as compared to a bigger iPhone, scrolling on a smaller iPhone takes a lot more work.",
+    "start": "00:25:42",
+    "end": "00:25:50"
+  },
+  {
+    "text": "It takes a lot more effort.",
+    "start": "00:25:50",
+    "end": "00:25:51"
+  },
+  {
+    "text": "And even the like, let me show you something fun.",
+    "start": "00:25:51",
+    "end": "00:25:53"
+  },
+  {
+    "text": "All of the iPhones were even numbered.",
+    "start": "00:25:53",
+    "end": "00:25:54"
+  },
+  {
+    "text": "So, I don't know if you can see this, but all of them have a number behind it.",
+    "start": "00:25:54",
+    "end": "00:25:59"
+  },
+  {
+    "text": "iPhone 1, iPhone 2, iPhone 3, iPhone 4, iPhone 5.",
+    "start": "00:25:59",
+    "end": "00:26:01"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:26:00",
+    "end": "00:26:00"
+  },
+  {
+    "text": "So, we started doing this, man.",
+    "start": "00:26:00",
+    "end": "00:26:02"
+  },
+  {
+    "text": "Setting up iPhones, you know, numbering them.",
+    "start": "00:26:01",
+    "end": "00:26:03"
+  },
+  {
+    "text": "Even like literally every day I would get to work, I would take out the iPhones from my bag, be like, \"Hey, what happened with iPhone 1?",
+    "start": "00:26:03",
+    "end": "00:26:09"
+  },
+  {
+    "text": "What is happening with iPhone 2?",
+    "start": "00:26:09",
+    "end": "00:26:11"
+  },
+  {
+    "text": "What is 3 4 9 10 11.",
+    "start": "00:26:11",
+    "end": "00:26:13"
+  },
+  {
+    "text": "\" Uh it was a it was a fun but uh long process and we finally figured out the first part of the process was figuring out how can we push traffic to USF without getting banned.",
+    "start": "00:26:13",
+    "end": "00:26:25"
+  },
+  {
+    "text": "How can we set up all these iPhones?",
+    "start": "00:26:25",
+    "end": "00:26:26"
+  },
+  {
+    "text": "And it was a whole process.",
+    "start": "00:26:26",
+    "end": "00:26:27"
+  },
+  {
+    "text": "It's you know Joseph, it's not only about downloading the Tik Tok app on your phone and setting it up right.",
+    "start": "00:26:27",
+    "end": "00:26:33"
+  },
+  {
+    "text": "It starts from setting up the entire iPhone.",
+    "start": "00:26:31",
+    "end": "00:26:34"
+  },
+  {
+    "text": "Like setting up the entire iPhone from scratch.",
+    "start": "00:26:34",
+    "end": "00:26:37"
+  },
+  {
+    "text": "You have to reset the entire iPhone.",
+    "start": "00:26:37",
+    "end": "00:26:38"
+  },
+  {
+    "text": "You have to make sure there are no fingerprints left on the iPhone.",
+    "start": "00:26:38",
+    "end": "00:26:40"
+  },
+  {
+    "text": "Then the Apple ID.",
+    "start": "00:26:40",
+    "end": "00:26:42"
+  },
+  {
+    "text": "One thing we learned along the way.",
+    "start": "00:26:42",
+    "end": "00:26:44"
+  },
+  {
+    "text": "One of the shortcuts I took is we paid for a IP provider, which is a client which allows us to link up different proxies.",
+    "start": "00:26:44",
+    "end": "00:26:51"
+  },
+  {
+    "text": "I paid for it and I thought I would be clever.",
+    "start": "00:26:51",
+    "end": "00:26:54"
+  },
+  {
+    "text": "I would use the same Apple ID to log into every phone.",
+    "start": "00:26:51",
+    "end": "00:26:55"
+  },
+  {
+    "text": "So I could download the client for free.",
+    "start": "00:26:55",
+    "end": "00:26:57"
+  },
+  {
+    "text": "I won't have to pay for it again and again.",
+    "start": "00:26:57",
+    "end": "00:27:00"
+  },
+  {
+    "text": "It cost us a week of our work time.",
+    "start": "00:27:00",
+    "end": "00:27:02"
+  },
+  {
+    "text": "That is 40 hours for three people, 120 hours.",
+    "start": "00:27:02",
+    "end": "00:27:05"
+  },
+  {
+    "text": "Why?",
+    "start": "00:27:05",
+    "end": "00:27:06"
+  },
+  {
+    "text": "Because we realized once we did that that Tik Tok has a way of fingerprinting Apple IDs.",
+    "start": "00:27:04",
+    "end": "00:27:09"
+  },
+  {
+    "text": "And when you do that across multiple phones, it connects all these Apple IDs and the accounts link with them under one device.",
+    "start": "00:27:09",
+    "end": "00:27:16"
+  },
+  {
+    "text": "So it doesn't matter if you had a different IP, doesn't matter if you had a different setup on a different phone because we use the same Apple ID, all of these accounts were connected and one account getting flagged led to the other accounts being impacted as well.",
+    "start": "00:27:16",
+    "end": "00:27:29"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:27:27",
+    "end": "00:27:29"
+  },
+  {
+    "text": "So you're you're simulating a brand new person setting up a brand new iPhone.",
+    "start": "00:27:29",
+    "end": "00:27:34"
+  },
+  {
+    "text": "So you're kind of like factory resetting.",
+    "start": "00:27:34",
+    "end": "00:27:36"
+  },
+  {
+    "text": "Make sure you don't have the fingerprints.",
+    "start": "00:27:36",
+    "end": "00:27:39"
+  },
+  {
+    "text": "New Apple ID for each phone.",
+    "start": "00:27:39",
+    "end": "00:27:40"
+  },
+  {
+    "text": "You have a proxy as well for each phone to have it in different locations.",
+    "start": "00:27:40",
+    "end": "00:27:46"
+  },
+  {
+    "text": ">> Yes.",
+    "start": "00:27:45",
+    "end": "00:27:45"
+  },
+  {
+    "text": "Once we had all this set up, then we were ready to download Tik Tok.",
+    "start": "00:27:45",
+    "end": "00:27:49"
+  },
+  {
+    "text": "Now this was the second part of the learning.",
+    "start": "00:27:49",
+    "end": "00:27:50"
+  },
+  {
+    "text": "When we're downloading Tik Tok, when we putting it in play, how do we realize that Tik Tok is going to work on these devices?",
+    "start": "00:27:50",
+    "end": "00:27:55"
+  },
+  {
+    "text": "How do we realize that it's not going to get flagged?",
+    "start": "00:27:55",
+    "end": "00:27:59"
+  },
+  {
+    "text": "One thing we came across was and this would be useful for other founders as well.",
+    "start": "00:27:59",
+    "end": "00:28:03"
+  },
+  {
+    "text": "I share a lot of this stuff on X as well where I put out articles on how do I be doing this Tik Tok farming, how is it working, how did we scale to 50 million plus views on Tik Tok.",
+    "start": "00:28:03",
+    "end": "00:28:11"
+  },
+  {
+    "text": "Now this is one of the accounts we've got here.",
+    "start": "00:28:11",
+    "end": "00:28:13"
+  },
+  {
+    "text": "This is actually one of the safest accounts.",
+    "start": "00:28:13",
+    "end": "00:28:17"
+  },
+  {
+    "text": "The reason is because it was created before we knew anything about Tik Tok farming.",
+    "start": "00:28:17",
+    "end": "00:28:22"
+  },
+  {
+    "text": "This was created natively.",
+    "start": "00:28:20",
+    "end": "00:28:22"
+  },
+  {
+    "text": "You know, one thing about this account, Joseph, this doesn't push traffic to the US because this account was created in Europe and we figured that relocating the account to the US actually ends up costing us a lot.",
+    "start": "00:28:22",
+    "end": "00:28:38"
+  },
+  {
+    "text": ">> Now, we have accounts like this.",
+    "start": "00:28:35",
+    "end": "00:28:39"
+  },
+  {
+    "text": "We have roughly 20 to 30 accounts for flame running.",
+    "start": "00:28:39",
+    "end": "00:28:41"
+  },
+  {
+    "text": "The there's one reason I don't put the accounts out on X because when I share on X, I share a lot about what we are doing without naming the accounts specifically.",
+    "start": "00:28:41",
+    "end": "00:28:49"
+  },
+  {
+    "text": "We also do not name the accounts with the name flame because X even though it's lovely, one thing I realize on Tik Tok is if there's a format which is working which you put out there, if everyone starts doing the same format, then it doesn't work anymore.",
+    "start": "00:28:49",
+    "end": "00:29:01"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:29:01",
+    "end": "00:29:03"
+  },
+  {
+    "text": ">> And that's why when I put out content on X, I'm quite happy to help people out with what is working, what is going on.",
+    "start": "00:29:01",
+    "end": "00:29:09"
+  },
+  {
+    "text": "But I'm very private in sharing out what exact account are we putting it out on.",
+    "start": "00:29:06",
+    "end": "00:29:12"
+  },
+  {
+    "text": "So yeah, while we're putting out content on Tik Tok, we realized a lot around how do we exactly put out content, how does it get enough amount of views.",
+    "start": "00:29:11",
+    "end": "00:29:19"
+  },
+  {
+    "text": "Now, one thing we learned while putting out content on X or Tik Tok is that if you have under 300 views, then there's an issue with your account.",
+    "start": "00:29:19",
+    "end": "00:29:28"
+  },
+  {
+    "text": "Either the content is getting shadow flagged or your account is banned and your account isn't private to that happening.",
+    "start": "00:29:28",
+    "end": "00:29:34"
+  },
+  {
+    "text": "If it is under 300 views, then it's not a content problem you have, then it's an account problem you have.",
+    "start": "00:29:34",
+    "end": "00:29:38"
+  },
+  {
+    "text": "Then you have done something wrong with the setup.",
+    "start": "00:29:38",
+    "end": "00:29:40"
+  },
+  {
+    "text": "You're not pushing it out in the right manner.",
+    "start": "00:29:38",
+    "end": "00:29:40"
+  },
+  {
+    "text": "You need to ideate on it further.",
+    "start": "00:29:40",
+    "end": "00:29:42"
+  },
+  {
+    "text": "You need to move on it further.",
+    "start": "00:29:42",
+    "end": "00:29:44"
+  },
+  {
+    "text": "If you're getting over 300 views but under thousand views then it's something to do with your content.",
+    "start": "00:29:42",
+    "end": "00:29:48"
+  },
+  {
+    "text": "Then you need to iterate more on your content.",
+    "start": "00:29:48",
+    "end": "00:29:50"
+  },
+  {
+    "text": "Then you need to hone down deeper into it.",
+    "start": "00:29:50",
+    "end": "00:29:51"
+  },
+  {
+    "text": "Then you need to figure out try different formats, try different hooks, try different things which are working in the content.",
+    "start": "00:29:50",
+    "end": "00:29:55"
+  },
+  {
+    "text": "If you get between 1 to 5,000 views, then what we do is we continue with that same format, same type while changing the copy slightly until it hits the right marker until we end up crossing 100k views with that format type.",
+    "start": "00:29:55",
+    "end": "00:30:09"
+  },
+  {
+    "text": ">> So is that basically how you so you have a video here that's 340,000 views.",
+    "start": "00:30:07",
+    "end": "00:30:15"
+  },
+  {
+    "text": "Did this start as a format that got, you know, two to 5,000 views and then you kind of iterated on it?",
+    "start": "00:30:15",
+    "end": "00:30:21"
+  },
+  {
+    "text": ">> This was when we were employing the meme playbook and we were trying to do that.",
+    "start": "00:30:19",
+    "end": "00:30:24"
+  },
+  {
+    "text": "We're putting out memes of different kind and trying out what's going to happen.",
+    "start": "00:30:23",
+    "end": "00:30:26"
+  },
+  {
+    "text": "And by putting out the memes, we realized that there were ways we can curate the meme to make sure people increase the watch time on the memes.",
+    "start": "00:30:26",
+    "end": "00:30:36"
+  },
+  {
+    "text": "And this is how we got to these amount of views on this video.",
+    "start": "00:30:34",
+    "end": "00:30:38"
+  },
+  {
+    "text": "Uh it was one of the early successes we had when we were trying out this entire Tik Tok farming strategy.",
+    "start": "00:30:38",
+    "end": "00:30:42"
+  },
+  {
+    "text": "And uh one thing we learned from this and all the other viral videos we had is that the part that helps the most is the total watch time.",
+    "start": "00:30:42",
+    "end": "00:30:50"
+  },
+  {
+    "text": "If you can increase the total watch time in your videos, Tik Tok favors that content a lot more as compared to the initial 3se secondond hook.",
+    "start": "00:30:50",
+    "end": "00:30:58"
+  },
+  {
+    "text": "The 3-second hook is important, but what's really important is the initial watch time.",
+    "start": "00:30:58",
+    "end": "00:31:02"
+  },
+  {
+    "text": "If you can increase that watch time, then you can increase the views on your video.",
+    "start": "00:31:02",
+    "end": "00:31:07"
+  },
+  {
+    "text": ">> That makes sense.",
+    "start": "00:31:05",
+    "end": "00:31:07"
+  },
+  {
+    "text": "And another aspect of like couples apps or like couples content on social media is it gets a lot of shares I feel like is because you you like send it to your significant other.",
+    "start": "00:31:07",
+    "end": "00:31:17"
+  },
+  {
+    "text": "So are you when you're making content are you were you aiming for shares?",
+    "start": "00:31:15",
+    "end": "00:31:23"
+  },
+  {
+    "text": "Also >> what we optimized for always was depending on the kind of content we optimize on whether they would like the content whether they would save the content whether they would share the content.",
+    "start": "00:31:23",
+    "end": "00:31:30"
+  },
+  {
+    "text": "Now if anything featured the app directly we wanted them to like the content.",
+    "start": "00:31:30",
+    "end": "00:31:35"
+  },
+  {
+    "text": "Why?",
+    "start": "00:31:35",
+    "end": "00:31:35"
+  },
+  {
+    "text": "Because liking showed that they resonated with the content.",
+    "start": "00:31:35",
+    "end": "00:31:40"
+  },
+  {
+    "text": "You can have a content with high views, but if people don't like it, it means they're not resonating with it.",
+    "start": "00:31:40",
+    "end": "00:31:44"
+  },
+  {
+    "text": "Think about it.",
+    "start": "00:31:44",
+    "end": "00:31:46"
+  },
+  {
+    "text": "What what is the most native thing you do when you come across something and you enjoy it, you would like that thing.",
+    "start": "00:31:44",
+    "end": "00:31:51"
+  },
+  {
+    "text": "If you resonate with it, that's a natural impulse we have.",
+    "start": "00:31:50",
+    "end": "00:31:53"
+  },
+  {
+    "text": "If people did not like the content, then the chance of them converting to app download was quite low.",
+    "start": "00:31:53",
+    "end": "00:31:57"
+  },
+  {
+    "text": "Even though we might get a lot of views.",
+    "start": "00:31:57",
+    "end": "00:31:59"
+  },
+  {
+    "text": "So we have some of the accounts in which we got a million plus views but the content did not get a lot of likes like the engagement percentage rate was quite low on that.",
+    "start": "00:31:59",
+    "end": "00:32:10"
+  },
+  {
+    "text": "Once we discovered that we optimized on the light part we tried to figure out what kind of content would get higher like ratio and then another thing we discovered when we were putting out slideshows was the slideshows that worked the best were the ones which got high shares.",
+    "start": "00:32:10",
+    "end": "00:32:24"
+  },
+  {
+    "text": ">> So if your slideshow was getting a high share ratio and save ratio it was working really well.",
+    "start": "00:32:22",
+    "end": "00:32:28"
+  },
+  {
+    "text": "Why?",
+    "start": "00:32:28",
+    "end": "00:32:29"
+  },
+  {
+    "text": "Because we employed the strategy of putting out questions and we found that if people enjoyed the questions instead of only apart from liking they would also share it with their partner they would also save this to use later.",
+    "start": "00:32:29",
+    "end": "00:32:44"
+  },
+  {
+    "text": ">> I gotcha.",
+    "start": "00:32:41",
+    "end": "00:32:43"
+  },
+  {
+    "text": "So for for the regular meme formats you just want you want people to like it and for the questions you want it to be sharable which which kind of like replicates the action that is in the app too like you're sharing this question with your partner.",
+    "start": "00:32:43",
+    "end": "00:32:58"
+  },
+  {
+    "text": "That makes sense.",
+    "start": "00:32:58",
+    "end": "00:32:58"
+  },
+  {
+    "text": "So in these slideshows uh format you you would say five uncomfortable but healthy questions to ask your partner and then on each slide you just have like five sample questions that are from the app and you have a watermark flame the couple's app right there.",
+    "start": "00:32:58",
+    "end": "00:33:14"
+  },
+  {
+    "text": "Um do you have a good idea of how well the slides convert versus the memes?",
+    "start": "00:33:14",
+    "end": "00:33:21"
+  },
+  {
+    "text": ">> Memes and slide both of them are on the very low conversion ratio.",
+    "start": "00:33:19",
+    "end": "00:33:25"
+  },
+  {
+    "text": "So anywhere from 0.",
+    "start": "00:33:25",
+    "end": "00:33:26"
+  },
+  {
+    "text": "05% 05% to roughly 0.",
+    "start": "00:33:26",
+    "end": "00:33:30"
+  },
+  {
+    "text": "2%.",
+    "start": "00:33:30",
+    "end": "00:33:31"
+  },
+  {
+    "text": "This is the conversion you can expect.",
+    "start": "00:33:29",
+    "end": "00:33:33"
+  },
+  {
+    "text": "The videos where we had a reaction with a clip of the app followed after was better converting roughly 0.",
+    "start": "00:33:31",
+    "end": "00:33:41"
+  },
+  {
+    "text": "3 to 0.",
+    "start": "00:33:41",
+    "end": "00:33:42"
+  },
+  {
+    "text": "5%.",
+    "start": "00:33:42",
+    "end": "00:33:42"
+  },
+  {
+    "text": "And then the videos we had where we showed the app in use where the app was the main thing had 0.",
+    "start": "00:33:40",
+    "end": "00:33:48"
+  },
+  {
+    "text": "5 to 1% conversion rate.",
+    "start": "00:33:48",
+    "end": "00:33:48"
+  },
+  {
+    "text": "So this video right here would be a reaction >> and then the app demo.",
+    "start": "00:33:48",
+    "end": "00:33:57"
+  },
+  {
+    "text": ">> Yeah, >> these ones always come somewhere around you 0.",
+    "start": "00:33:56",
+    "end": "00:34:01"
+  },
+  {
+    "text": "2 to 0.",
+    "start": "00:34:01",
+    "end": "00:34:02"
+  },
+  {
+    "text": "5 and then would you have here's another reaction one.",
+    "start": "00:34:02",
+    "end": "00:34:08"
+  },
+  {
+    "text": "So was there some kind of formula for for writing the hooks to this because I feel like the the actual demo is pretty straightforward.",
+    "start": "00:34:08",
+    "end": "00:34:16"
+  },
+  {
+    "text": "is just you know showing the features of the app but then the first two 3 seconds seems like it's the hardest part to figure out how to make that engaging >> we are operational people we are not creative people so what I did is what you would do to operationalize the entire thing I created playbooks playbook would have three big parts playbook is this PDF document which my team would feed into AI and get an output what the playbook would have was three parts and the first part would be around the section A would be product and brand context.",
+    "start": "00:34:16",
+    "end": "00:34:47"
+  },
+  {
+    "text": "It would define the product name, category, what is it in human terms, core features etc.",
+    "start": "00:34:47",
+    "end": "00:34:53"
+  },
+  {
+    "text": "Then the second part would be winning script references where we would put every single winning script we could find.",
+    "start": "00:34:53",
+    "end": "00:34:59"
+  },
+  {
+    "text": "We would put it as a context reference that hey um these are formats which have worked in this category.",
+    "start": "00:34:59",
+    "end": "00:35:04"
+  },
+  {
+    "text": "This is what we want you to take from them.",
+    "start": "00:35:04",
+    "end": "00:35:07"
+  },
+  {
+    "text": "Do not repeat them.",
+    "start": "00:35:07",
+    "end": "00:35:07"
+  },
+  {
+    "text": "Section C would be the master prompt where we broke down a system role.",
+    "start": "00:35:07",
+    "end": "00:35:12"
+  },
+  {
+    "text": "You are a viral Tik Tok question slideshow copy engine for a couple slap call flame.",
+    "start": "00:35:12",
+    "end": "00:35:17"
+  },
+  {
+    "text": "Your role is to do this.",
+    "start": "00:35:17",
+    "end": "00:35:18"
+  },
+  {
+    "text": "This is the context.",
+    "start": "00:35:18",
+    "end": "00:35:20"
+  },
+  {
+    "text": "This is the output requirement.",
+    "start": "00:35:20",
+    "end": "00:35:21"
+  },
+  {
+    "text": "And that is how we discovered a winners.",
+    "start": "00:35:21",
+    "end": "00:35:23"
+  },
+  {
+    "text": "We would keep slamming the playbook until we would have something that resonates and then we would dig down deeper into it.",
+    "start": "00:35:23",
+    "end": "00:35:29"
+  },
+  {
+    "text": ">> You give AI winning scripts.",
+    "start": "00:35:27",
+    "end": "00:35:31"
+  },
+  {
+    "text": "That seems like almost the most important part.",
+    "start": "00:35:31",
+    "end": "00:35:34"
+  },
+  {
+    "text": "If you just said, oh, write make us like viral Tik Toks or make us um viral slideshows with good questions.",
+    "start": "00:35:34",
+    "end": "00:35:40"
+  },
+  {
+    "text": "It's not going to generate stuff based on good curated data.",
+    "start": "00:35:40",
+    "end": "00:35:43"
+  },
+  {
+    "text": "So, what data did you actually put in there?",
+    "start": "00:35:43",
+    "end": "00:35:46"
+  },
+  {
+    "text": "Would you just scroll TikTok and find good examples of like viral videos?",
+    "start": "00:35:46",
+    "end": "00:35:51"
+  },
+  {
+    "text": ">> If you look at this link, if you look at the playbook, this is exactly what I sent over to the team.",
+    "start": "00:35:49",
+    "end": "00:35:55"
+  },
+  {
+    "text": "And section A is details regarding the product.",
+    "start": "00:35:55",
+    "end": "00:35:57"
+  },
+  {
+    "text": "Hey, what is working in the product?",
+    "start": "00:35:57",
+    "end": "00:35:59"
+  },
+  {
+    "text": "You know, what is the product about?",
+    "start": "00:35:59",
+    "end": "00:36:00"
+  },
+  {
+    "text": "You would define also the target audience, what are the features, psychological, etc.",
+    "start": "00:36:00",
+    "end": "00:36:04"
+  },
+  {
+    "text": "Then the second part would be the winning scripts where you you would take content that's worked for you before or worked for someone else before in the same category.",
+    "start": "00:36:03",
+    "end": "00:36:11"
+  },
+  {
+    "text": "You would take the content and we would drop it in here.",
+    "start": "00:36:11",
+    "end": "00:36:15"
+  },
+  {
+    "text": "All of the content types you could find regarding hey what is working in this format, what to avoid and then all of the formats entered.",
+    "start": "00:36:13",
+    "end": "00:36:21"
+  },
+  {
+    "text": "Now once we would do this as you can see this is a collection of all of the slideshows that worked for us that were performing well.",
+    "start": "00:36:21",
+    "end": "00:36:30"
+  },
+  {
+    "text": "uh then you would come to the core part and this is also scripts regarding what questions worked for us, what questions were good.",
+    "start": "00:36:27",
+    "end": "00:36:34"
+  },
+  {
+    "text": "So we went went quite into detail in this playbook man.",
+    "start": "00:36:34",
+    "end": "00:36:39"
+  },
+  {
+    "text": "Uh playbooks are easily 10 pages long which I'm sharing with the team.",
+    "start": "00:36:39",
+    "end": "00:36:44"
+  },
+  {
+    "text": ">> Wow.",
+    "start": "00:36:41",
+    "end": "00:36:42"
+  },
+  {
+    "text": "Wow.",
+    "start": "00:36:42",
+    "end": "00:36:43"
+  },
+  {
+    "text": "Script three.",
+    "start": "00:36:43",
+    "end": "00:36:45"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:36:45",
+    "end": "00:36:45"
+  },
+  {
+    "text": "And then it gives the exact slides and then a visual suggestion plus the text >> um quote >> outlining each slide.",
+    "start": "00:36:45",
+    "end": "00:36:54"
+  },
+  {
+    "text": "So you gave it basically Yeah.",
+    "start": "00:36:54",
+    "end": "00:36:56"
+  },
+  {
+    "text": "you you give it three different scripts and then like 10 different visual example five to 10 like visual examples >> and then there's the section C which is also crucial if you keep going down you'll find it now this is the master prompt this is now how I exactly break down what the structure of the output should be how should it be aligned you know this this takes me a lot of work to create but it pays back because I don't have to every day have a new idea have a new conceptualization we let AI do all the work what happens is if something works out Joseph then we add it to the prompt and we create a new playbook.",
+    "start": "00:36:56",
+    "end": "00:37:32"
+  },
+  {
+    "text": "This is the process we have every single time.",
+    "start": "00:37:30",
+    "end": "00:37:32"
+  },
+  {
+    "text": "The way the structure works is the team has this they generate something they put it out there we track the performance on day two in one of my Excel sheets.",
+    "start": "00:37:32",
+    "end": "00:37:40"
+  },
+  {
+    "text": "Now I put a lot of those Excel sheets on on X as well and I'm famous for the colorful ugly Excel sheets on X.",
+    "start": "00:37:40",
+    "end": "00:37:47"
+  },
+  {
+    "text": "So we put out the stuff on the Excel sheets.",
+    "start": "00:37:47",
+    "end": "00:37:50"
+  },
+  {
+    "text": "We analyze them every single day.",
+    "start": "00:37:50",
+    "end": "00:37:51"
+  },
+  {
+    "text": "We see what's working.",
+    "start": "00:37:51",
+    "end": "00:37:53"
+  },
+  {
+    "text": "If something works, we add it back to the playbook and then we use it to generate again and again and again and again.",
+    "start": "00:37:53",
+    "end": "00:37:58"
+  },
+  {
+    "text": "That's that's really important because you have a you have like a flywheel now where AI I feel like a big mistake that people do with AI generated content is just not changing their system prompt and or like the master prompt and just generating stuff based on old data because if you're if you continuously use that one prompt and you go back to your cloud project and say okay here's a new topic make a tweet about this or make a Tik Tok about this it's going to be good for like a week or a couple weeks and then you know after a while you're you're starting to put out this the same type of content all the time and it just becomes um exhausted.",
+    "start": "00:37:56",
+    "end": "00:38:36"
+  },
+  {
+    "text": "So you have to >> exactly >> feed in new data continuously.",
+    "start": "00:38:36",
+    "end": "00:38:40"
+  },
+  {
+    "text": "That is where we have this really ugly Excel sheet which we I love which people have made so many comments on hey you should use this tool you should do this that but we keep putting out content on the same Excel sheet and I'll tell you the reason why Joseph it forces us to look at every piece of content every single day if you use something that tracks all your views for you become lazy you stop looking at the content you stop seeing what is happening in the content what we do every day is we track every single piece of content we track the account status we track if it's online.",
+    "start": "00:38:40",
+    "end": "00:39:10"
+  },
+  {
+    "text": "We track what is the content type going out on it.",
+    "start": "00:39:10",
+    "end": "00:39:12"
+  },
+  {
+    "text": "We track what are the notes regarding it.",
+    "start": "00:39:12",
+    "end": "00:39:14"
+  },
+  {
+    "text": "How many times a day is it going out?",
+    "start": "00:39:12",
+    "end": "00:39:16"
+  },
+  {
+    "text": "And we do this every day.",
+    "start": "00:39:14",
+    "end": "00:39:16"
+  },
+  {
+    "text": "Every single day.",
+    "start": "00:39:16",
+    "end": "00:39:17"
+  },
+  {
+    "text": "Every morning I have a meeting with the team for 1 hour.",
+    "start": "00:39:17",
+    "end": "00:39:20"
+  },
+  {
+    "text": "We keep it trading.",
+    "start": "00:39:20",
+    "end": "00:39:22"
+  },
+  {
+    "text": "Keep it trading.",
+    "start": "00:39:20",
+    "end": "00:39:21"
+  },
+  {
+    "text": "Keep it trading.",
+    "start": "00:39:21",
+    "end": "00:39:23"
+  },
+  {
+    "text": "Can we figure it out?",
+    "start": "00:39:23",
+    "end": "00:39:23"
+  },
+  {
+    "text": "Accounts going offline.",
+    "start": "00:39:23",
+    "end": "00:39:25"
+  },
+  {
+    "text": "Doesn't matter.",
+    "start": "00:39:24",
+    "end": "00:39:25"
+  },
+  {
+    "text": "Account is unhealthy.",
+    "start": "00:39:25",
+    "end": "00:39:26"
+  },
+  {
+    "text": "Doesn't matter.",
+    "start": "00:39:25",
+    "end": "00:39:26"
+  },
+  {
+    "text": "Try to bring it back.",
+    "start": "00:39:26",
+    "end": "00:39:28"
+  },
+  {
+    "text": "Doesn't work out.",
+    "start": "00:39:26",
+    "end": "00:39:28"
+  },
+  {
+    "text": "Doesn't come back.",
+    "start": "00:39:28",
+    "end": "00:39:29"
+  },
+  {
+    "text": "Okay, dish the account.",
+    "start": "00:39:28",
+    "end": "00:39:29"
+  },
+  {
+    "text": "Let's start with a new account right now.",
+    "start": "00:39:29",
+    "end": "00:39:31"
+  },
+  {
+    "text": "Let's start the whole process all over again.",
+    "start": "00:39:31",
+    "end": "00:39:33"
+  },
+  {
+    "text": "Put a lot of work behind setting up the system.",
+    "start": "00:39:33",
+    "end": "00:39:36"
+  },
+  {
+    "text": ">> Wow, this is crazy.",
+    "start": "00:39:34",
+    "end": "00:39:37"
+  },
+  {
+    "text": "And look here.",
+    "start": "00:39:37",
+    "end": "00:39:38"
+  },
+  {
+    "text": "Here's the iPhone 1, iPhone 2, come down to iPhone 11.",
+    "start": "00:39:36",
+    "end": "00:39:40"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:39:40",
+    "end": "00:39:41"
+  },
+  {
+    "text": "Wow.",
+    "start": "00:39:41",
+    "end": "00:39:42"
+  },
+  {
+    "text": "This is insane.",
+    "start": "00:39:42",
+    "end": "00:39:44"
+  },
+  {
+    "text": "So, then you have a few categories here.",
+    "start": "00:39:42",
+    "end": "00:39:46"
+  },
+  {
+    "text": "There's like the content type it looks like and then notes on, you know, what kind of thing it is, how many times per day you're posting it, and then would you track like how many views >> on the right side like which is not present here.",
+    "start": "00:39:44",
+    "end": "00:39:59"
+  },
+  {
+    "text": "We would be tracking it would be a daily tracker basically on daily basis.",
+    "start": "00:39:59",
+    "end": "00:40:01"
+  },
+  {
+    "text": "How many views are we getting?",
+    "start": "00:40:01",
+    "end": "00:40:02"
+  },
+  {
+    "text": "How many likes are we getting?",
+    "start": "00:40:02",
+    "end": "00:40:05"
+  },
+  {
+    "text": "And then you track if something gets higher views.",
+    "start": "00:40:03",
+    "end": "00:40:06"
+  },
+  {
+    "text": "Why is it getting those high views?",
+    "start": "00:40:06",
+    "end": "00:40:07"
+  },
+  {
+    "text": "What is happening on that front?",
+    "start": "00:40:07",
+    "end": "00:40:10"
+  },
+  {
+    "text": ">> And there's like softwares that track this kind of stuff.",
+    "start": "00:40:08",
+    "end": "00:40:12"
+  },
+  {
+    "text": "But you're saying that it's worth it to do it manually because you're actually paying attention to every single stat because you have to write every single stat down.",
+    "start": "00:40:12",
+    "end": "00:40:22"
+  },
+  {
+    "text": "And that kind of gets you into the just into the flow state of knowing more of the art of it and like figuring out why did this actually do well or why didn't this do well.",
+    "start": "00:40:22",
+    "end": "00:40:31"
+  },
+  {
+    "text": "I think tools are really good when you're doing UGC because you can't go into huge piece of content, analyze the retention chart, see where people are dropping off, how many, what total watch time did this video get.",
+    "start": "00:40:31",
+    "end": "00:40:41"
+  },
+  {
+    "text": "But when you're putting out your own content, the best way, I think that's the golden gem you have, right?",
+    "start": "00:40:41",
+    "end": "00:40:45"
+  },
+  {
+    "text": "That you can actually dig into the content, analyze it, see what is happening, say where people are falling off.",
+    "start": "00:40:45",
+    "end": "00:40:50"
+  },
+  {
+    "text": "And you stop doing that if you're using a tool.",
+    "start": "00:40:50",
+    "end": "00:40:53"
+  },
+  {
+    "text": "You stop doing that if you're using something that's automatically tracking the views.",
+    "start": "00:40:53",
+    "end": "00:40:56"
+  },
+  {
+    "text": "You don't need to go into each account.",
+    "start": "00:40:56",
+    "end": "00:40:57"
+  },
+  {
+    "text": "You don't need to track what's happening.",
+    "start": "00:40:57",
+    "end": "00:40:59"
+  },
+  {
+    "text": "You don't need to see why things are working.",
+    "start": "00:40:58",
+    "end": "00:40:59"
+  },
+  {
+    "text": "You pick the top accounts and you see why things are working, right?",
+    "start": "00:40:59",
+    "end": "00:41:05"
+  },
+  {
+    "text": "But as you realize, Joseph, the the cream lies in realizing why something is not working rather than in realizing why is it working because when something doesn't work, you get to learn so much about what are you doing wrong and not repeat the same failures again.",
+    "start": "00:41:02",
+    "end": "00:41:17"
+  },
+  {
+    "text": ">> Yeah, that makes sense.",
+    "start": "00:41:15",
+    "end": "00:41:17"
+  },
+  {
+    "text": "And yeah, all of these all of these insights are going right back into the master prompt and the AI is now like generating better and better outputs.",
+    "start": "00:41:17",
+    "end": "00:41:28"
+  },
+  {
+    "text": "Um, it looks like you have like a nano banana image prompts too, which is cool.",
+    "start": "00:41:26",
+    "end": "00:41:34"
+  },
+  {
+    "text": ">> Um, that's like, yeah, one of the newer models.",
+    "start": "00:41:32",
+    "end": "00:41:35"
+  },
+  {
+    "text": "And you're doing like hyperrealistic vertical images, and that's probably good for like slideshows.",
+    "start": "00:41:35",
+    "end": "00:41:43"
+  },
+  {
+    "text": ">> Exactly.",
+    "start": "00:41:41",
+    "end": "00:41:42"
+  },
+  {
+    "text": "And we tried playing with a lot of models.",
+    "start": "00:41:42",
+    "end": "00:41:44"
+  },
+  {
+    "text": "We realized Nano Banana Pro was the best at generating realistic lifelike images for us.",
+    "start": "00:41:44",
+    "end": "00:41:49"
+  },
+  {
+    "text": "And we also realized that we could standardize the whole process to get the output from GPT regarding what kind of image should we generate and the prompt to generate that image as well.",
+    "start": "00:41:49",
+    "end": "00:41:59"
+  },
+  {
+    "text": ">> Is there anything you do in prompting that you feel is different from other people that you've seen?",
+    "start": "00:41:56",
+    "end": "00:42:04"
+  },
+  {
+    "text": ">> Two things I would say.",
+    "start": "00:42:01",
+    "end": "00:42:04"
+  },
+  {
+    "text": "One is the initial prompt we set in place.",
+    "start": "00:42:04",
+    "end": "00:42:07"
+  },
+  {
+    "text": "We try to give it as much context as we can.",
+    "start": "00:42:07",
+    "end": "00:42:10"
+  },
+  {
+    "text": "I know people who go to it and say that you know I want to put out a slideshow for Tik Tok.",
+    "start": "00:42:10",
+    "end": "00:42:12"
+  },
+  {
+    "text": "Help me generate something.",
+    "start": "00:42:12",
+    "end": "00:42:15"
+  },
+  {
+    "text": "That is really shallow.",
+    "start": "00:42:13",
+    "end": "00:42:15"
+  },
+  {
+    "text": "I think AI is this tool which works really well.",
+    "start": "00:42:15",
+    "end": "00:42:18"
+  },
+  {
+    "text": "The more you give it, the better context it has, the better it knows what is winning, the better it's able to give you something that wins as well.",
+    "start": "00:42:18",
+    "end": "00:42:24"
+  },
+  {
+    "text": "This is the first thing we do.",
+    "start": "00:42:24",
+    "end": "00:42:25"
+  },
+  {
+    "text": "Well, we provide a lot of context initially like to create each of this playbook.",
+    "start": "00:42:25",
+    "end": "00:42:30"
+  },
+  {
+    "text": "It takes me one working day.",
+    "start": "00:42:30",
+    "end": "00:42:30"
+  },
+  {
+    "text": "It takes me a whole day to put up this entire playbook.",
+    "start": "00:42:30",
+    "end": "00:42:33"
+  },
+  {
+    "text": "I have to collect the right formats.",
+    "start": "00:42:33",
+    "end": "00:42:34"
+  },
+  {
+    "text": "I have to collect the right screenshots.",
+    "start": "00:42:34",
+    "end": "00:42:35"
+  },
+  {
+    "text": "I have to make sure that they align with whatever product is.",
+    "start": "00:42:35",
+    "end": "00:42:38"
+  },
+  {
+    "text": "I have to make sure that I create the master form to firstly give an output that has the potential to go viral but also give an output for what we need which means it should have the title slide it should have these categories it should have an anobanana prompt as well once I do all of this then I put that into AI and then I test the prompt to see what is the output coming out if it comes out well then I pass it on to the team if it doesn't come out well then I go all over the process again this is one of the key steps which is setting it right in the first go the second thing which a lot of people ignore is iterating on it right because this is like us as well we have new information that comes in every single day we have new data points we have new way to improve on what we are doing but for your AI playbook is the same it needs to improve as well it needs to become better and it can only do it if you tell it what to do better if you expect it to get better by itself it doesn't happen as I told you as a second part of the process as well we feed it data back on what's working well we keep iterating on this playbook again and again and telling Hey, this works well.",
+    "start": "00:42:38",
+    "end": "00:43:37"
+  },
+  {
+    "text": "This doesn't work well.",
+    "start": "00:43:37",
+    "end": "00:43:39"
+  },
+  {
+    "text": "You know, it's like a cursor MD file for coding, but this is for Tik Tok.",
+    "start": "00:43:39",
+    "end": "00:43:42"
+  },
+  {
+    "text": "It's like a Tik Tok MD file you create.",
+    "start": "00:43:42",
+    "end": "00:43:47"
+  },
+  {
+    "text": ">> Yeah, that's crazy.",
+    "start": "00:43:44",
+    "end": "00:43:47"
+  },
+  {
+    "text": "One like random specific question.",
+    "start": "00:43:47",
+    "end": "00:43:49"
+  },
+  {
+    "text": "When you're iterating on the master prompt and you want to put in some new insight, do you use GPT or Claude to help create a new adjusted prompt or do you manually put in new context into the prompt?",
+    "start": "00:43:49",
+    "end": "00:44:06"
+  },
+  {
+    "text": "I do it manually because one thing I realized is that once we have the initial prompt structure laid out, it's more about me coming in and filling the gaps.",
+    "start": "00:44:06",
+    "end": "00:44:13"
+  },
+  {
+    "text": "I've tried doing that with AI but there are times when AI hallucinates or it fills some things which I don't want it to fill and I have to go over recursive or process of making it correct that path again in this manner.",
+    "start": "00:44:13",
+    "end": "00:44:22"
+  },
+  {
+    "text": "I know that we have something that's working really well.",
+    "start": "00:44:22",
+    "end": "00:44:24"
+  },
+  {
+    "text": "We keep that and I just keep adding on top of it or removing the parts that are not working.",
+    "start": "00:44:24",
+    "end": "00:44:30"
+  },
+  {
+    "text": ">> Mhm.",
+    "start": "00:44:28",
+    "end": "00:44:29"
+  },
+  {
+    "text": "So it's like it's like you know AI bakes this entire cake for us and then I come in and put the cherry in the right place or make sure the decoration is aligned well or the happy birthday sign is in the right manner.",
+    "start": "00:44:29",
+    "end": "00:44:40"
+  },
+  {
+    "text": ">> Mhm.",
+    "start": "00:44:37",
+    "end": "00:44:38"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:44:38",
+    "end": "00:44:39"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:44:39",
+    "end": "00:44:40"
+  },
+  {
+    "text": "That's interesting.",
+    "start": "00:44:40",
+    "end": "00:44:42"
+  },
+  {
+    "text": "When you reach out to creators and you're about to invest into organic social and maybe boosting those videos with paid ads, you don't want to just let the creators do whatever they want.",
+    "start": "00:44:40",
+    "end": "00:44:50"
+  },
+  {
+    "text": "Most of the app founders I talked to on this channel basically have the same content philosophy.",
+    "start": "00:44:48",
+    "end": "00:44:54"
+  },
+  {
+    "text": "The videos need to go viral but also convert and promote an app and ideally are like also repeatable.",
+    "start": "00:44:54",
+    "end": "00:44:59"
+  },
+  {
+    "text": "And those formats are like gems and really hard to find.",
+    "start": "00:44:59",
+    "end": "00:45:02"
+  },
+  {
+    "text": "That's why Tik Tok can sometimes feel like a lottery system.",
+    "start": "00:45:02",
+    "end": "00:45:05"
+  },
+  {
+    "text": "So what a lot of consumer club members do is they use this tool called spy talk which brain rot scrolls hundreds of thousands of Tik Toks and just finds the most viral ones that promote apps.",
+    "start": "00:45:05",
+    "end": "00:45:16"
+  },
+  {
+    "text": "So here I search for fitness, gym, workouts.",
+    "start": "00:45:16",
+    "end": "00:45:20"
+  },
+  {
+    "text": "Let's say you like run a fitness app.",
+    "start": "00:45:20",
+    "end": "00:45:23"
+  },
+  {
+    "text": "I'm going to sort by most viral.",
+    "start": "00:45:23",
+    "end": "00:45:24"
+  },
+  {
+    "text": "And here's this 106x outlier video that promotes a fitness app.",
+    "start": "00:45:24",
+    "end": "00:45:28"
+  },
+  {
+    "text": "And it shows a text hook.",
+    "start": "00:45:28",
+    "end": "00:45:30"
+  },
+  {
+    "text": "It shows the image in the background.",
+    "start": "00:45:30",
+    "end": "00:45:33"
+  },
+  {
+    "text": "And then on the second slide, it has this CTA in a really creative way.",
+    "start": "00:45:33",
+    "end": "00:45:36"
+  },
+  {
+    "text": "And Spy Talk has been the secret weapon for growth strategy for 11 Labs and Ammo and Voodoo, which is the app studio that owns Bereal.",
+    "start": "00:45:36",
+    "end": "00:45:43"
+  },
+  {
+    "text": "So I recommend Spy Talk.",
+    "start": "00:45:43",
+    "end": "00:45:46"
+  },
+  {
+    "text": "It really is the only other tool I explicitly recommend on this channel other than Superwall.",
+    "start": "00:45:46",
+    "end": "00:45:50"
+  },
+  {
+    "text": "So, was this one of the first Tik Tok accounts that went well and then you started basically replicating these formats across all these all the different phones and accounts?",
+    "start": "00:45:50",
+    "end": "00:46:00"
+  },
+  {
+    "text": ">> This was the OG Tik Tok account on which we up so much.",
+    "start": "00:45:58",
+    "end": "00:46:02"
+  },
+  {
+    "text": "Like I had to pull out some of the content on it because we were just we just terrible at it.",
+    "start": "00:46:02",
+    "end": "00:46:07"
+  },
+  {
+    "text": ">> Yeah, >> we made this account back two years ago and we had no idea what we were putting out, man.",
+    "start": "00:46:07",
+    "end": "00:46:12"
+  },
+  {
+    "text": "We're just launching random things on this account, trying out this, trying out that, seeing what works, what doesn't work.",
+    "start": "00:46:12",
+    "end": "00:46:18"
+  },
+  {
+    "text": "Uh so this account had a lot of crap on it and a lot of it is not available right now on the account but this was the account where we realized that hey this is something we can actually replicate we can push forward to other accounts as well and we started doing it from here.",
+    "start": "00:46:18",
+    "end": "00:46:32"
+  },
+  {
+    "text": ">> So overall you got 50 million views across all the accounts.",
+    "start": "00:46:29",
+    "end": "00:46:37"
+  },
+  {
+    "text": ">> Yeah across all the accounts across all of the content we put out.",
+    "start": "00:46:34",
+    "end": "00:46:40"
+  },
+  {
+    "text": "We managed to scale them to 50 million views with one caveat.",
+    "start": "00:46:40",
+    "end": "00:46:43"
+  },
+  {
+    "text": "It took me in the later part of those views to realize that certain kind of content performed better, certain kind of content did not for conversions.",
+    "start": "00:46:43",
+    "end": "00:46:52"
+  },
+  {
+    "text": "So I look at it from the BSC framework whenever we are picking out something.",
+    "start": "00:46:50",
+    "end": "00:46:57"
+  },
+  {
+    "text": "Wii is virality.",
+    "start": "00:46:54",
+    "end": "00:46:56"
+  },
+  {
+    "text": "I'll actually share this with you as well.",
+    "start": "00:46:56",
+    "end": "00:46:59"
+  },
+  {
+    "text": "So I put out something on X regarding how do we exactly find content.",
+    "start": "00:46:59",
+    "end": "00:47:03"
+  },
+  {
+    "text": ">> So we follow the VSC framework in which Vi is for virality.",
+    "start": "00:47:01",
+    "end": "00:47:06"
+  },
+  {
+    "text": "Something that can go viral.",
+    "start": "00:47:06",
+    "end": "00:47:07"
+  },
+  {
+    "text": "How we find this out?",
+    "start": "00:47:07",
+    "end": "00:47:10"
+  },
+  {
+    "text": "By picking content that has gone viral on accounts with less than 5,000 followers.",
+    "start": "00:47:10",
+    "end": "00:47:14"
+  },
+  {
+    "text": "Like we have a very structured approach for this.",
+    "start": "00:47:13",
+    "end": "00:47:15"
+  },
+  {
+    "text": "And if there's a piece of content that has gone viral on accounts with less than 5,000 followers and the content has got over 100,000 views, then we understand this content can go viral.",
+    "start": "00:47:15",
+    "end": "00:47:25"
+  },
+  {
+    "text": "Then what we try to see is is it trending right now?",
+    "start": "00:47:23",
+    "end": "00:47:26"
+  },
+  {
+    "text": "Is it present across other accounts as well?",
+    "start": "00:47:26",
+    "end": "00:47:28"
+  },
+  {
+    "text": "If it is, then it bears this check.",
+    "start": "00:47:28",
+    "end": "00:47:30"
+  },
+  {
+    "text": "Second part is scalability.",
+    "start": "00:47:30",
+    "end": "00:47:31"
+  },
+  {
+    "text": "Now this is something a lot of people ignore, but it's really important when you're doing Tik Tok farming at scale.",
+    "start": "00:47:31",
+    "end": "00:47:36"
+  },
+  {
+    "text": "If you cannot scale the content, if you can just have one hit, then it doesn't work for your product.",
+    "start": "00:47:36",
+    "end": "00:47:40"
+  },
+  {
+    "text": "You need to have content you can recreate yourself at scale and do it consistently to push it across five 10 accounts at the same time, multiple times a day.",
+    "start": "00:47:40",
+    "end": "00:47:48"
+  },
+  {
+    "text": "If you can't do that, man, if you have this brilliant video of you speaking and elaborating on something, but you have to manually record it every single time, it doesn't work.",
+    "start": "00:47:48",
+    "end": "00:47:56"
+  },
+  {
+    "text": "So find something that you can scale.",
+    "start": "00:47:56",
+    "end": "00:47:58"
+  },
+  {
+    "text": "Right now, what I would recommend everyone to check is we have a lot of AI tools available which allow you to do that.",
+    "start": "00:47:58",
+    "end": "00:48:03"
+  },
+  {
+    "text": "We use Sora quite extensively.",
+    "start": "00:48:03",
+    "end": "00:48:06"
+  },
+  {
+    "text": "We used the influencer.",
+    "start": "00:48:06",
+    "end": "00:48:06"
+  },
+  {
+    "text": "ai.",
+    "start": "00:48:06",
+    "end": "00:48:07"
+  },
+  {
+    "text": "We also use nano banana as I showed you.",
+    "start": "00:48:07",
+    "end": "00:48:10"
+  },
+  {
+    "text": "We use nano banana pro.",
+    "start": "00:48:10",
+    "end": "00:48:12"
+  },
+  {
+    "text": "We tried putting out videos with VO but they always got flagged for AI content.",
+    "start": "00:48:10",
+    "end": "00:48:16"
+  },
+  {
+    "text": "So we always found struggle with VO when we putting out content.",
+    "start": "00:48:14",
+    "end": "00:48:19"
+  },
+  {
+    "text": "And then the final part which took me too late to discover but which is the most important is the C part which is the convertability.",
+    "start": "00:48:19",
+    "end": "00:48:25"
+  },
+  {
+    "text": "Now this is the most important.",
+    "start": "00:48:25",
+    "end": "00:48:27"
+  },
+  {
+    "text": "If you go to the comments, if people are not asking what is the app, what is the product, where can I get this etc.",
+    "start": "00:48:27",
+    "end": "00:48:32"
+  },
+  {
+    "text": "then it is not content that converts.",
+    "start": "00:48:32",
+    "end": "00:48:34"
+  },
+  {
+    "text": "Then it's content that's getting views.",
+    "start": "00:48:34",
+    "end": "00:48:35"
+  },
+  {
+    "text": "Then it's content that's going viral, but it's not content that can convert.",
+    "start": "00:48:35",
+    "end": "00:48:38"
+  },
+  {
+    "text": "You need something that converts.",
+    "start": "00:48:38",
+    "end": "00:48:40"
+  },
+  {
+    "text": "You need something that's going to force people to try to find the product.",
+    "start": "00:48:40",
+    "end": "00:48:43"
+  },
+  {
+    "text": "They want to use the product.",
+    "start": "00:48:43",
+    "end": "00:48:45"
+  },
+  {
+    "text": "They're desperate for the product, right?",
+    "start": "00:48:44",
+    "end": "00:48:46"
+  },
+  {
+    "text": "They really want the product to be there.",
+    "start": "00:48:46",
+    "end": "00:48:48"
+  },
+  {
+    "text": "And this is the VSC framework we now utilize in pushing out anything.",
+    "start": "00:48:48",
+    "end": "00:48:54"
+  },
+  {
+    "text": "For me, with the 50 million views we came across, we struggled with the C part.",
+    "start": "00:48:52",
+    "end": "00:48:57"
+  },
+  {
+    "text": "Cart is something we didn't focus at at all.",
+    "start": "00:48:57",
+    "end": "00:48:59"
+  },
+  {
+    "text": "I'll tell you one of the things, right?",
+    "start": "00:48:59",
+    "end": "00:49:01"
+  },
+  {
+    "text": "the meme video you see, I would never put that out right now.",
+    "start": "00:49:01",
+    "end": "00:49:05"
+  },
+  {
+    "text": "Never.",
+    "start": "00:49:03",
+    "end": "00:49:03"
+  },
+  {
+    "text": "Even though it got views, it crossed over 300,000 views, I would never put that video out right now because I realized that that format doesn't convert.",
+    "start": "00:49:03",
+    "end": "00:49:11"
+  },
+  {
+    "text": "It's a lot of the work you're putting in from our side for a format that is not converting.",
+    "start": "00:49:11",
+    "end": "00:49:16"
+  },
+  {
+    "text": ">> Yeah, that that's a really interesting insight.",
+    "start": "00:49:15",
+    "end": "00:49:17"
+  },
+  {
+    "text": "And you and you said that the memes converted the lowest and then the slides would convert the next and then the hook reaction would be the next and then straight up like product video would be the highest converting.",
+    "start": "00:49:17",
+    "end": "00:49:33"
+  },
+  {
+    "text": ">> Exactly.",
+    "start": "00:49:32",
+    "end": "00:49:35"
+  },
+  {
+    "text": ">> Did you have anyam examples of that on this account or is it basically just showing the app straight up?",
+    "start": "00:49:33",
+    "end": "00:49:41"
+  },
+  {
+    "text": ">> Yeah, I'll show you one of the parts that working that we experimenting with right now.",
+    "start": "00:49:39",
+    "end": "00:49:44"
+  },
+  {
+    "text": "We've just started putting out this format.",
+    "start": "00:49:44",
+    "end": "00:49:46"
+  },
+  {
+    "text": "One of the format we know is going to lead to high conversion when we unlock it is this kind of video.",
+    "start": "00:49:46",
+    "end": "00:49:53"
+  },
+  {
+    "text": "If you can open any one of the first videos which is directly showing the product in play.",
+    "start": "00:49:51",
+    "end": "00:49:58"
+  },
+  {
+    "text": ">> So this is one of the we just begin experiments on this content.",
+    "start": "00:50:01",
+    "end": "00:50:05"
+  },
+  {
+    "text": "You can see the date is like one or two day old.",
+    "start": "00:50:05",
+    "end": "00:50:07"
+  },
+  {
+    "text": "So we're beginning the experiments on this content where we I'll tell you how we pick it.",
+    "start": "00:50:07",
+    "end": "00:50:11"
+  },
+  {
+    "text": "We go to Reddit.",
+    "start": "00:50:11",
+    "end": "00:50:13"
+  },
+  {
+    "text": "We locate screenshots where people are like, \"Hey, what do I reply to this?",
+    "start": "00:50:13",
+    "end": "00:50:16"
+  },
+  {
+    "text": "What do I say?",
+    "start": "00:50:16",
+    "end": "00:50:18"
+  },
+  {
+    "text": "I have no idea what to respond.",
+    "start": "00:50:15",
+    "end": "00:50:19"
+  },
+  {
+    "text": "\" We take those screenshots.",
+    "start": "00:50:19",
+    "end": "00:50:20"
+  },
+  {
+    "text": "We put that into our own product.",
+    "start": "00:50:20",
+    "end": "00:50:21"
+  },
+  {
+    "text": "We generate a reply and we show the product in action here using that reply.",
+    "start": "00:50:21",
+    "end": "00:50:30"
+  },
+  {
+    "text": ">> And this this is for a new app, right?",
+    "start": "00:50:27",
+    "end": "00:50:31"
+  },
+  {
+    "text": ">> And this is for the new product.",
+    "start": "00:50:30",
+    "end": "00:50:32"
+  },
+  {
+    "text": "So, we have just begun the experiments on this.",
+    "start": "00:50:32",
+    "end": "00:50:35"
+  },
+  {
+    "text": "But I know that if we manage to unlock this format, then this is going to convert really well.",
+    "start": "00:50:33",
+    "end": "00:50:39"
+  },
+  {
+    "text": "I would place it anywhere from zero to 0.",
+    "start": "00:50:39",
+    "end": "00:50:42"
+  },
+  {
+    "text": "5 to 1%.",
+    "start": "00:50:42",
+    "end": "00:50:43"
+  },
+  {
+    "text": "because you're just straight up demoing the product as the main point of the whole video.",
+    "start": "00:50:43",
+    "end": "00:50:49"
+  },
+  {
+    "text": ">> And one of the things I also learned I was watching I I this is also from the consumer club.",
+    "start": "00:50:47",
+    "end": "00:50:54"
+  },
+  {
+    "text": "So thank you Joseph in the end you know I said most of my early successes or early learnings we've got actually the zero to one of Tik Tok learning has been because of the club you put up.",
+    "start": "00:50:54",
+    "end": "00:51:05"
+  },
+  {
+    "text": ">> Now that's awesome.",
+    "start": "00:51:04",
+    "end": "00:51:06"
+  },
+  {
+    "text": ">> One of the things we also learned is that your product should be built for Tik Tok.",
+    "start": "00:51:05",
+    "end": "00:51:09"
+  },
+  {
+    "text": "What I mean by that is if you look at the flows on this product, if you look at the way it's positioned, like even the loader that comes in, this little AI animation, we built it so it would appear visually pleasing on Tik Tok.",
+    "start": "00:51:09",
+    "end": "00:51:19"
+  },
+  {
+    "text": "This is another lesson we learned that similar to what Cali did, right, as well.",
+    "start": "00:51:19",
+    "end": "00:51:23"
+  },
+  {
+    "text": "They built the product so it would be easily able to spread across social media.",
+    "start": "00:51:23",
+    "end": "00:51:26"
+  },
+  {
+    "text": "It has this little scanning feature which works really well.",
+    "start": "00:51:26",
+    "end": "00:51:30"
+  },
+  {
+    "text": "We use the same approach and we built the product.",
+    "start": "00:51:30",
+    "end": "00:51:32"
+  },
+  {
+    "text": "This is actually designed by my partner Laurian who's also my my wife Tubi.",
+    "start": "00:51:32",
+    "end": "00:51:36"
+  },
+  {
+    "text": "So she designed the entire product with a French touch and we built it so it would appear visually appealing on Tik Tok.",
+    "start": "00:51:36",
+    "end": "00:51:44"
+  },
+  {
+    "text": ">> Yeah, that makes a lot of sense.",
+    "start": "00:51:42",
+    "end": "00:51:47"
+  },
+  {
+    "text": "Yeah, this animation itself is just is very very eye-catching.",
+    "start": "00:51:47",
+    "end": "00:51:52"
+  },
+  {
+    "text": ">> And we spent so much time on that animation.",
+    "start": "00:51:50",
+    "end": "00:51:55"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:51:53",
+    "end": "00:51:54"
+  },
+  {
+    "text": "And then I like how obvious the home screen is.",
+    "start": "00:51:54",
+    "end": "00:51:57"
+  },
+  {
+    "text": "It's like decoder, >> replier, opener, and it's and everything's like really easy to understand.",
+    "start": "00:51:57",
+    "end": "00:52:05"
+  },
+  {
+    "text": "Yeah, this is interesting.",
+    "start": "00:52:05",
+    "end": "00:52:06"
+  },
+  {
+    "text": "It seems like this this type of content it doesn't need to get as many views and yeah like for it to get more downloads the you know >> five to 1% seems that'd be a lot of downloads even if you had had only a thousand views and you got 10 downloads for 1,000 views that's like it's actually a lot.",
+    "start": "00:52:06",
+    "end": "00:52:24"
+  },
+  {
+    "text": ">> I mean also we're putting out let's say between the content types we put out 200 pieces of content a day.",
+    "start": "00:52:22",
+    "end": "00:52:29"
+  },
+  {
+    "text": "So 10 downloads per content 200 pieces that's 2,000 downloads a week.",
+    "start": "00:52:29",
+    "end": "00:52:32"
+  },
+  {
+    "text": "If nothing goes viral that's 2,000 a week.",
+    "start": "00:52:32",
+    "end": "00:52:35"
+  },
+  {
+    "text": "Now, one of the things I also realized is that views can be an ego metric, right?",
+    "start": "00:52:35",
+    "end": "00:52:39"
+  },
+  {
+    "text": "Because I wanted to get views early.",
+    "start": "00:52:39",
+    "end": "00:52:41"
+  },
+  {
+    "text": "I thought there was a cool thing to do as a consumer founder.",
+    "start": "00:52:41",
+    "end": "00:52:43"
+  },
+  {
+    "text": "I realized that views don't matter if your product if your videos don't convert.",
+    "start": "00:52:43",
+    "end": "00:52:46"
+  },
+  {
+    "text": "And for the video to convert, it needs to show the product in action as blatantly as it can.",
+    "start": "00:52:46",
+    "end": "00:52:53"
+  },
+  {
+    "text": "Also, one more note.",
+    "start": "00:52:53",
+    "end": "00:52:53"
+  },
+  {
+    "text": "I don't know on on X, I've been receiving a lot of requests to collect all my all my Tik Tok farming learnings together, release a farming playbook.",
+    "start": "00:52:53",
+    "end": "00:53:00"
+  },
+  {
+    "text": "So, I'm doing that.",
+    "start": "00:53:00",
+    "end": "00:53:02"
+  },
+  {
+    "text": "That's the next thing I'm working on.",
+    "start": "00:53:02",
+    "end": "00:53:03"
+  },
+  {
+    "text": "I'm launching it for the X community.",
+    "start": "00:53:03",
+    "end": "00:53:05"
+  },
+  {
+    "text": "I'm putting out a farming playbook of all the lessons I learned from farming.",
+    "start": "00:53:05",
+    "end": "00:53:08"
+  },
+  {
+    "text": "How to set up your account, how to target the USF IP, how to choose the right proxy, how to, you know, set up the Tik Tok correctly so it doesn't get flagged, etc.",
+    "start": "00:53:08",
+    "end": "00:53:17"
+  },
+  {
+    "text": ", etc.",
+    "start": "00:53:17",
+    "end": "00:53:17"
+  },
+  {
+    "text": "So, that'll be cool.",
+    "start": "00:53:17",
+    "end": "00:53:17"
+  },
+  {
+    "text": "I'm I'm going to drop it this weekend or the week after.",
+    "start": "00:53:17",
+    "end": "00:53:22"
+  },
+  {
+    "text": ">> Okay, nice.",
+    "start": "00:53:19",
+    "end": "00:53:21"
+  },
+  {
+    "text": "Yeah, by the time we edit this episode, it'll probably be out.",
+    "start": "00:53:21",
+    "end": "00:53:25"
+  },
+  {
+    "text": "So, >> yeah, >> uh follows XAI on Twitter and you'll find it.",
+    "start": "00:53:25",
+    "end": "00:53:32"
+  },
+  {
+    "text": "Yeah, >> that's spelled.",
+    "start": "00:53:32",
+    "end": "00:53:33"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:53:33",
+    "end": "00:53:34"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:53:34",
+    "end": "00:53:35"
+  },
+  {
+    "text": ">> That's great.",
+    "start": "00:53:33",
+    "end": "00:53:34"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:53:34",
+    "end": "00:53:35"
+  },
+  {
+    "text": "The Tik Tok farming playbook.",
+    "start": "00:53:35",
+    "end": "00:53:37"
+  },
+  {
+    "text": "I love that >> cuz there's so many of those little things that you wouldn't expect that cost you, >> you know, weeks and months of learning.",
+    "start": "00:53:37",
+    "end": "00:53:46"
+  },
+  {
+    "text": "And yeah, that sounds very helpful.",
+    "start": "00:53:44",
+    "end": "00:53:48"
+  },
+  {
+    "text": "There's just so many like random things with the proxies and setting up phones and stuff.",
+    "start": "00:53:46",
+    "end": "00:53:53"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:53:51",
+    "end": "00:53:52"
+  },
+  {
+    "text": "And then when you combine that with the VSC framework that makes >> that kind of pulls it all together because you want to find you want to apply these like Tik Tok logistics and Tik Tok farming tactics to something that actually you know content that actually goes viral that actually converts and is also scalable or repeatable.",
+    "start": "00:53:52",
+    "end": "00:54:18"
+  },
+  {
+    "text": ">> I can uh I can share something with you on that.",
+    "start": "00:54:15",
+    "end": "00:54:19"
+  },
+  {
+    "text": "This is initial part of the document but in this I basically curated together what the structure is going to be.",
+    "start": "00:54:19",
+    "end": "00:54:25"
+  },
+  {
+    "text": "Now it's a comprehensive playbook.",
+    "start": "00:54:25",
+    "end": "00:54:29"
+  },
+  {
+    "text": "The amount of messages I receive every time I put out an expost.",
+    "start": "00:54:28",
+    "end": "00:54:32"
+  },
+  {
+    "text": "I have 50 people asking me, hey, how did this work?",
+    "start": "00:54:32",
+    "end": "00:54:33"
+  },
+  {
+    "text": "How did that work?",
+    "start": "00:54:33",
+    "end": "00:54:35"
+  },
+  {
+    "text": "How does that go through?",
+    "start": "00:54:35",
+    "end": "00:54:36"
+  },
+  {
+    "text": "So I said, okay, I'm going to compile all of the things I've learned together.",
+    "start": "00:54:36",
+    "end": "00:54:39"
+  },
+  {
+    "text": "As you'll notice on the left side, we've got the part one.",
+    "start": "00:54:39",
+    "end": "00:54:43"
+  },
+  {
+    "text": "We've got the foundations.",
+    "start": "00:54:41",
+    "end": "00:54:43"
+  },
+  {
+    "text": "Then how do you set up the hardware part, hardware and infra is really important.",
+    "start": "00:54:43",
+    "end": "00:54:48"
+  },
+  {
+    "text": "What is the network and geo control?",
+    "start": "00:54:48",
+    "end": "00:54:50"
+  },
+  {
+    "text": "What is the account creation SOP warm-up system content systems which has the VSC framework which you mentioned then content life cycle posting distribution which is part eight account health fail status recovery system in place go and scaling and team and operations like how do you manage to scale this with a team in place it's a lot of work building this is a lot of work but I know that it's going to help a lot of people out who have been coming into my inbox always ask me hey how do I manage this that and the thing is Joseph it's the same series questions they ask.",
+    "start": "00:54:50",
+    "end": "00:55:20"
+  },
+  {
+    "text": "It's around the same cities and I want to make sure that they have it available.",
+    "start": "00:55:20",
+    "end": "00:55:24"
+  },
+  {
+    "text": "Also, I'll be putting my ugly Google sheet template into this so they can use the same ugly Google sheet template.",
+    "start": "00:55:22",
+    "end": "00:55:31"
+  },
+  {
+    "text": ">> I love this so much.",
+    "start": "00:55:28",
+    "end": "00:55:30"
+  },
+  {
+    "text": "I feel like um yeah, a year ago when you joined Consumer Club, none of this was really in a playbook yet.",
+    "start": "00:55:30",
+    "end": "00:55:38"
+  },
+  {
+    "text": "Like nobody really knew.",
+    "start": "00:55:38",
+    "end": "00:55:38"
+  },
+  {
+    "text": "Everyone just kind of had ideas of how to do things and you know, some stuff was working, some stuff wasn't working.",
+    "start": "00:55:38",
+    "end": "00:55:46"
+  },
+  {
+    "text": "And now the space I feel like has evolved.",
+    "start": "00:55:46",
+    "end": "00:55:48"
+  },
+  {
+    "text": "so much and people that are like just getting into, you know, viral consumer apps, like the the playbooks are kind of like out there now.",
+    "start": "00:55:48",
+    "end": "00:55:57"
+  },
+  {
+    "text": "Um, but it is still a little bit confusing cuz like even though a bunch of people >> have made it work, there's still a lot of different opinions on like organic social and this seems like super helpful.",
+    "start": "00:55:57",
+    "end": "00:56:07"
+  },
+  {
+    "text": "So, last question to wrap this up.",
+    "start": "00:56:07",
+    "end": "00:56:10"
+  },
+  {
+    "text": "I yeah >> I'm curious if you have any mental model or approach to asking people for help because it seems like you use the community really really effectively and you learn so much and people were so willing to help out.",
+    "start": "00:56:10",
+    "end": "00:56:25"
+  },
+  {
+    "text": "But I'm sure there was also some part where you are like people just want to help you out for some reason.",
+    "start": "00:56:25",
+    "end": "00:56:31"
+  },
+  {
+    "text": "Like is there something that you you do to just make like r people up?",
+    "start": "00:56:31",
+    "end": "00:56:35"
+  },
+  {
+    "text": "Like what what's going on?",
+    "start": "00:56:35",
+    "end": "00:56:39"
+  },
+  {
+    "text": ">> R people up.",
+    "start": "00:56:37",
+    "end": "00:56:39"
+  },
+  {
+    "text": "There we go.",
+    "start": "00:56:39",
+    "end": "00:56:41"
+  },
+  {
+    "text": "Two things I always do.",
+    "start": "00:56:41",
+    "end": "00:56:41"
+  },
+  {
+    "text": "I always start with a small ask.",
+    "start": "00:56:41",
+    "end": "00:56:44"
+  },
+  {
+    "text": "So, I'm not going to try and get Joseph on a three-hour call and then initial get go be like, \"Hey, bro.",
+    "start": "00:56:44",
+    "end": "00:56:50"
+  },
+  {
+    "text": "I love the work you're doing.",
+    "start": "00:56:50",
+    "end": "00:56:51"
+  },
+  {
+    "text": "You want to come on a three-hour call with me?",
+    "start": "00:56:51",
+    "end": "00:56:53"
+  },
+  {
+    "text": "\" No.",
+    "start": "00:56:53",
+    "end": "00:56:54"
+  },
+  {
+    "text": "I will ask you for something small and I'll build up that trust because this is, you know, ma'am, in your inbox, the amount of inbounds you must be getting, the amount of people who need your help, who want your help, who you want to help out as well, but you have limited time right now.",
+    "start": "00:56:52",
+    "end": "00:57:05"
+  },
+  {
+    "text": "If everyone comes in, it's like, \"Joseph, can you get on a one-hour call with me?",
+    "start": "00:57:05",
+    "end": "00:57:08"
+  },
+  {
+    "text": "can you help me out with this thing?",
+    "start": "00:57:08",
+    "end": "00:57:10"
+  },
+  {
+    "text": "It's overwhelming.",
+    "start": "00:57:10",
+    "end": "00:57:12"
+  },
+  {
+    "text": "It's really hard to do.",
+    "start": "00:57:12",
+    "end": "00:57:12"
+  },
+  {
+    "text": "Also, it's really hard for you to filter out who's genuine, who's not.",
+    "start": "00:57:12",
+    "end": "00:57:15"
+  },
+  {
+    "text": "Then the second thing I do which is really important which a lot of people miss out is give something back.",
+    "start": "00:57:15",
+    "end": "00:57:20"
+  },
+  {
+    "text": "Don't just go in with the ask.",
+    "start": "00:57:20",
+    "end": "00:57:21"
+  },
+  {
+    "text": "A lot of people just go in saying that hey I want want want.",
+    "start": "00:57:21",
+    "end": "00:57:26"
+  },
+  {
+    "text": "They never want to give anything and that is why they don't receive anything as well.",
+    "start": "00:57:26",
+    "end": "00:57:30"
+  },
+  {
+    "text": "When you want something please give something as well.",
+    "start": "00:57:28",
+    "end": "00:57:32"
+  },
+  {
+    "text": "It doesn't matter if you need it right now or not.",
+    "start": "00:57:32",
+    "end": "00:57:36"
+  },
+  {
+    "text": "Joseph, right?",
+    "start": "00:57:36",
+    "end": "00:57:35"
+  },
+  {
+    "text": "I went in I told everyone this is what we achieved regarding retention on a product.",
+    "start": "00:57:35",
+    "end": "00:57:39"
+  },
+  {
+    "text": "This is something I can share with you.",
+    "start": "00:57:39",
+    "end": "00:57:41"
+  },
+  {
+    "text": "These are the learnings I have.",
+    "start": "00:57:41",
+    "end": "00:57:42"
+  },
+  {
+    "text": "I would always offer doesn't mean that they would take that learning right now but they appreciated the part where I try to put something back give something back and people tell me often that hey because I also mentor for an MBA program.",
+    "start": "00:57:42",
+    "end": "00:57:55"
+  },
+  {
+    "text": "I have 10 plus founders I'm working with right now.",
+    "start": "00:57:55",
+    "end": "00:57:58"
+  },
+  {
+    "text": "People always ask me that hey how do I ask for help right?",
+    "start": "00:57:58",
+    "end": "00:57:59"
+  },
+  {
+    "text": "No one is going to help me or no one wants to give help back or I don't have anything to offer them.",
+    "start": "00:57:59",
+    "end": "00:58:04"
+  },
+  {
+    "text": "I tell them it's not true.",
+    "start": "00:58:04",
+    "end": "00:58:04"
+  },
+  {
+    "text": "One of the things I did early in my career, man, when I came off the gym business, I had no idea in tech.",
+    "start": "00:58:04",
+    "end": "00:58:09"
+  },
+  {
+    "text": "You know what I offered people, Joseph?",
+    "start": "00:58:08",
+    "end": "00:58:12"
+  },
+  {
+    "text": "I offered them personal training advice.",
+    "start": "00:58:09",
+    "end": "00:58:12"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:58:12",
+    "end": "00:58:14"
+  },
+  {
+    "text": ">> I was like, I ran a chain of gyms.",
+    "start": "00:58:12",
+    "end": "00:58:15"
+  },
+  {
+    "text": "I understood a lot about how the body works, how to work on this method.",
+    "start": "00:58:15",
+    "end": "00:58:18"
+  },
+  {
+    "text": "I was a bodybuilder in the past.",
+    "start": "00:58:18",
+    "end": "00:58:19"
+  },
+  {
+    "text": "One thing I can help you with, maybe not on the tech side, but I can help you with your own health, own fitness.",
+    "start": "00:58:19",
+    "end": "00:58:24"
+  },
+  {
+    "text": ">> So, always there's something or the other you can give back.",
+    "start": "00:58:23",
+    "end": "00:58:27"
+  },
+  {
+    "text": ">> That's really good advice.",
+    "start": "00:58:25",
+    "end": "00:58:28"
+  },
+  {
+    "text": "I think that's something that people don't think about a lot.",
+    "start": "00:58:28",
+    "end": "00:58:30"
+  },
+  {
+    "text": "just I think people might have heard like oh give first but like if you're joining a discord community or you're on Twitter or you're like meeting people in person like not a lot of people just give first like that.",
+    "start": "00:58:30",
+    "end": "00:58:41"
+  },
+  {
+    "text": "I remember like the first day you joined the discord and you were just like hey guys here's like our our retention is like really amazing and here's like a few principles that are you know how we how we actually achieve that feel free to DM me uh if you have any more you know I can I'm happy to help other people and a bunch of people would DM you and like talk like ask you about retention but then those people were like people that are really good at organic Tik Tok >> so then naturally you just kind of got all the learnings and you don't have to reply to all those people that ask you about retention, but some of them are going to be like really useful to you as well.",
+    "start": "00:58:41",
+    "end": "00:59:14"
+  },
+  {
+    "text": "So, I think just that like give first mentality like helped so much.",
+    "start": "00:59:14",
+    "end": "00:59:19"
+  },
+  {
+    "text": "That's awesome advice.",
+    "start": "00:59:18",
+    "end": "00:59:20"
+  },
+  {
+    "text": "And >> thanks for telling your story, too.",
+    "start": "00:59:20",
+    "end": "00:59:23"
+  },
+  {
+    "text": "This is just really good to to hear the complete thing end to end.",
+    "start": "00:59:23",
+    "end": "00:59:26"
+  },
+  {
+    "text": "I I I think we've talked a couple of times, but I haven't like heard the whole thing end to end.",
+    "start": "00:59:26",
+    "end": "00:59:29"
+  },
+  {
+    "text": "So, really cool to hear the journey.",
+    "start": "00:59:29",
+    "end": "00:59:31"
+  },
+  {
+    "text": "Thanks again for being with >> Yes, sir.",
+    "start": "00:59:31",
+    "end": "00:59:33"
+  },
+  {
+    "text": "It's time for the gym now.",
+    "start": "00:59:33",
+    "end": "00:59:36"
+  },
+  {
+    "text": "I'm going to head to the gym and do a bit of working out.",
+    "start": "00:59:36",
+    "end": "00:59:39"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:59:37",
+    "end": "00:59:38"
+  },
+  {
+    "text": "Um, but yeah, this is amazing.",
+    "start": "00:59:38",
+    "end": "00:59:40"
+  },
+  {
+    "text": "Let me know if you need something else, brother.",
+    "start": "00:59:40",
+    "end": "00:59:43"
+  },
+  {
+    "text": ">> Yeah, >> apart from this as well.",
+    "start": "00:59:41",
+    "end": "00:59:45"
+  },
+  {
+    "text": "If I can just help with anything, you know, I'm here.",
+    "start": "00:59:45",
+    "end": "00:59:48"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:59:46",
+    "end": "00:59:47"
+  },
+  {
+    "text": "Awesome.",
+    "start": "00:59:47",
+    "end": "00:59:48"
+  },
+  {
+    "text": "Something you might not know, most of the founders I cover on this podcast are hanging out right now in the Consumer Club Discord sharing with each other what's working now for consumer apps.",
+    "start": "00:59:48",
+    "end": "00:59:57"
+  },
+  {
+    "text": "So, you can apply to join Consumer Club if that sounds interesting to you.",
+    "start": "00:59:57",
+    "end": "01:00:00"
+  },
+  {
+    "text": "And this is the Superwwell podcast.",
+    "start": "01:00:00",
+    "end": "01:00:01"
+  },
+  {
+    "text": "Of course, you got to check out superwall.",
+    "start": "01:00:01",
+    "end": "01:00:03"
+  },
+  {
+    "text": "com.",
+    "start": "01:00:03",
+    "end": "01:00:04"
+  },
+  {
+    "text": "We have more videos on the channel.",
+    "start": "01:00:04",
+    "end": "01:00:06"
+  }
+]

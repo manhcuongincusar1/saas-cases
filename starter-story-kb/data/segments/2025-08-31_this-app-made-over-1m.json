@@ -1,0 +1,121 @@
+{
+ "f": "2025-08-31_this-app-made-over-1m",
+ "vid": "VfNRd5Rk0cM",
+ "segments": [
+  {
+   "s": "01:11",
+   "e": "01:51",
+   "nut": ["2.0", "2.7"],
+   "tom": "Năm tư đại học Ania bị cơn hoảng loạn đầu tiên, ở xa nhà, không có bác sĩ gia đình; lục App Store thì chỉ thấy app quá lâm sàng hoặc app thôi miên, không cái nào nói được với cô — chính khoảng trống đó thành Rootd"
+  },
+  {
+   "s": "01:51",
+   "e": "02:40",
+   "nut": ["?"],
+   "moi": "Đọc review app đối thủ để tìm khoảng trống",
+   "tom": "Cách validate: tải hết app đang có rồi đọc review người dùng, thấy lặp lại một khoảng trống — không app nào giải thích cơn hoảng loạn là gì và cách vượt qua ngay lúc đang lên cơn",
+   "kq": "vài trăm user đầu tiên xin cô làm tiếp dù bản MVP còn lag và thiếu tính năng"
+  },
+  {
+   "s": "03:16",
+   "e": "04:11",
+   "nut": ["?"],
+   "moi": "Non-tech tự vẽ wireframe rồi tìm student developer",
+   "tom": "Không biết code: vẽ tay ra sổ cách trình bày thông tin sao cho người đang hoảng loạn vẫn dùng được, tự học làm wireframe bằng Photoshop và Illustrator; thuê agency thì không đủ tiền nên phải chờ, tới khi một sinh viên lập trình ngỏ lời làm cùng",
+   "kq": "MVP ra mắt nhờ dev sinh viên sau khi trượt agency"
+  },
+  {
+   "s": "04:11",
+   "e": "05:10",
+   "nut": ["?"],
+   "moi": "MVP chỉ một nút bấm — đúng khoảnh khắc aha",
+   "tom": "Dồn hết tiền tiết kiệm, có dev rồi thì chỉ mất vài tháng vì content và wireframe đã xong hết; bản đầu chỉ là nút panic attack dắt người dùng đi qua cơn, cộng công cụ thở và các bài học — lõi đó tới nay gần như không đổi"
+  },
+  {
+   "s": "05:10",
+   "e": "05:38",
+   "nut": ["?"],
+   "moi": "Đường cong tăng trưởng thật của app: chậm hai năm đầu",
+   "tom": "Năm 1 chỉ khoảng 10.000 lượt tải, năm 2 mới lên 100.000, năm 3 chạm 1 triệu — tới mốc 100.000 cô mới tin là có nhu cầu thật và quyết đi tiếp",
+   "kq": "hiện 4 triệu lượt tải, hơn $1M doanh thu"
+  },
+  {
+   "s": "05:38",
+   "e": "06:29",
+   "nut": ["?"],
+   "moi": "Thoả thuận làm 4 ngày/tuần với sếp để có 3 ngày build",
+   "tom": "Cô nói thẳng với công ty là đang khởi nghiệp, làm thuê 4 ngày và Rootd 3 ngày mỗi tuần, mất cuối tuần lẫn đời sống xã hội vài năm; chỉ nghỉ hẳn khi doanh thu nuôi được thoải mái hơn một năm",
+   "kq": "nghỉ việc sau khoảng 2,5–3 năm làm Rootd"
+  },
+  {
+   "s": "07:10",
+   "e": "07:38",
+   "nut": ["4.14"],
+   "tom": "Kênh tăng trưởng số một thời đầu là ngồi hàng giờ lướt post trên mạng xã hội, viết bình luận thật sự hữu ích rồi mới gắn link về Rootd — thủ công, không scale"
+  },
+  {
+   "s": "07:38",
+   "e": "08:12",
+   "nut": ["4.17"],
+   "tom": "Kênh thứ hai là PR tự thân: tìm nhà báo chuyên viết về sức khoẻ tinh thần rồi cold email hoặc nhắn LinkedIn; đa số không trả lời nhưng thỉnh thoảng trúng lớn — Cosmopolitan, Women's Health và cả Time",
+   "kq": "lên Time, Cosmopolitan, Women's Health hoàn toàn bằng cold email"
+  },
+  {
+   "s": "08:12",
+   "e": "08:42",
+   "nut": ["?"],
+   "moi": "Vòng lặp ASO: trang bán → trải nghiệm → review lặp lại đúng từ khoá",
+   "tom": "Kênh thứ ba là ASO, và mẹo lõi là để sản phẩm khớp đúng cái người dùng đang tìm: họ thấy trên product page, tải về dùng đúng như vậy, rồi tự dùng lại chính những từ khoá đó khi viết review"
+  },
+  {
+   "s": "08:42",
+   "e": "09:18",
+   "nut": ["?"],
+   "moi": "Trả lời câu hỏi bằng nội dung sản phẩm thay vì rao app",
+   "tom": "Cách comment cho ra kết quả: đừng mở bằng \"đây là app của tôi, tải đi\" mà lấy luôn nội dung một bài học trong app ra trả lời — ví dụ ai đó kể vừa bị lo âu lúc chạy bộ thì giải thích vì sao chuyện đó xảy ra và nó bình thường"
+  },
+  {
+   "s": "09:18",
+   "e": "10:01",
+   "nut": ["?"],
+   "moi": "Giữ đúng lời hứa trên trang bán để đẻ ra review tốt",
+   "tom": "Hai bước đầu của playbook: sản phẩm phải giao đúng thứ trang bán hứa (mới có review tốt và truyền miệng), và phải đọc review vì thường mọi thứ cần biết nằm ở đó — giả định của founder hay lệch với nhu cầu thật"
+  },
+  {
+   "s": "10:01",
+   "e": "10:32",
+   "nut": ["?"],
+   "moi": "Release đều hàng tuần cộng hợp tác tổ chức để mở phân phối",
+   "tom": "Hai bước sau: ra release mỗi tuần một lần để App Store thấy app còn được chăm, và bắt tay có chọn lọc — tổ chức wellness, vài hợp đồng B2B, rất nhiều nhóm trị liệu và phòng khám tâm lý đang giới thiệu Rootd"
+  },
+  {
+   "s": "10:32",
+   "e": "11:28",
+   "nut": ["?"],
+   "moi": "Lấy chất lượng review làm north star thay vì doanh thu",
+   "tom": "Chỉ số cô theo sát nhất không phải doanh thu hay lượt tải mà là rating — giữ 4.8/5 nhiều năm; dữ liệu sử dụng cho thấy người dùng hết cơn hoảng loạn trong dưới 2 phút",
+   "kq": "4.8/5, cắt cơn dưới 2 phút"
+  },
+  {
+   "s": "11:28",
+   "e": "13:03",
+   "nut": ["?"],
+   "moi": "Bộ tính năng của app sức khoẻ tinh thần đã có 4 triệu tải",
+   "tom": "Tour sản phẩm: mascot Ron, nút SOS đỏ hỏi bạn muốn dịu lại hay đối diện cơn rồi dắt qua các prompt kích hoạt hệ thần kinh phó giao cảm, công cụ thở sâu, bài học về lo âu, journal, hơn 100 visualization và sleep sound, mới nhất là game thư giãn"
+  },
+  {
+   "s": "13:03",
+   "e": "13:50",
+   "nut": ["?"],
+   "moi": "Founder tự đọc review kể cả khi đã giao việc trả lời",
+   "tom": "Tới giờ cô vẫn tự đọc toàn bộ review dù đã có người khác lo phần trả lời, chỉ để giữ mạch cảm nhận của người dùng — cô coi review là nơi chứa câu trả lời cho câu hỏi nên tập trung vào cái gì"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "00:55", "ly_do": "intro/hook của kênh"},
+  {"s": "02:40", "e": "03:16", "ly_do": "lời khuyên chung chung 'cứ tung MVP, đừng nghe người chê'"},
+  {"s": "06:29", "e": "07:10", "ly_do": "quảng bá Starter Story Build"},
+  {"s": "13:50", "e": "14:26", "ly_do": "lời khuyên chung về burnout và ăn mừng thành công nhỏ"},
+  {"s": "14:26", "e": "15:15", "ly_do": "lời cảm ơn và quảng bá Starter Story Build"}
+ ]
+}

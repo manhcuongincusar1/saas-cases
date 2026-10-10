@@ -1,0 +1,39 @@
+{
+ "f": "2025-05-21_from-zero-to-42k-month-in-90-days-with-ai",
+ "vid": "0T55DRYqeeA",
+ "segments": [
+  {"s":"02:05","e":"02:52","nut":["2.3","?"],"moi":"Bám vào khán giả sẵn có của công cụ đang hot thay vì tự nuôi khán giả",
+   "tom":"CodeGuide chỉ giải đúng một vấn đề — AI coding hay hallucinate — bằng cách dựng knowledge base quanh ý tưởng của user rồi gắn vào Cursor/Bolt; CJ nói thẳng: không tự tạo khán giả mới mà xài luôn khán giả của các tool AI coding","kq":"$42K MRR sau 3 tháng, 4.800 thành viên"},
+  {"s":"02:52","e":"03:39","nut":["2.3"],
+   "tom":"Vì sao cửa sổ AI coding đang mở: tiếng Anh giờ là ngôn ngữ lập trình phổ biến nhất (điều bất khả trước 2024), AI đã viết 25% code của Google, Cursor là công ty tăng nhanh nhất — biết prompt là deploy được app kiếm tiền"},
+  {"s":"03:39","e":"05:00","nut":["?"],"moi":"Công khai cam kết 12 startup trong 12 tháng để ép mình ship",
+   "tom":"Từ 2022 CJ đã viết tweet về AI prompting và thấy AI coding âm thầm bùng nổ; để ép mình học nghề, anh tuyên bố công khai sẽ làm 12 startup trong 12 tháng, code với AI 10–12 tiếng/ngày","kq":"build 11 sản phẩm, 10 chết, 1 thành CodeGuide"},
+  {"s":"05:00","e":"05:50","nut":["2.1","2.2"],
+   "tom":"Ý tưởng đến từ chính nỗi đau của mình: chạy agency làm MVP, mỗi dự án phải chat với ChatGPT 9–10 tiếng để dựng tài liệu kỹ thuật; anh gói chuỗi prompt đó thành workflow trên make.com và cắt 7 trong 9 tiếng","kq":"9 tiếng → 2 tiếng mỗi dự án"},
+  {"s":"05:50","e":"06:36","nut":["3.6","?"],"moi":"Quay demo màn hình quy trình của mình rồi đăng X để đo nhu cầu",
+   "tom":"Cách validate: quay clip màn hình 'cursor workflow lý tưởng của tôi' rồi đăng lên X, thấy cực nhiều người kêu khổ vì hallucination; dựng landing page bằng Bolt trong 20–30 phút và gom 1.800 email waitlist trong 2 tuần","kq":"1.800 email waitlist trong 2 tuần, chưa có sản phẩm"},
+  {"s":"06:36","e":"07:06","nut":["3.2"],
+   "tom":"Tầng validate thứ hai: DM từng người comment và từng beta user để hỏi hiện họ đang xử lý hallucination bằng cách nào — thấy không ai có cách tốt hơn hướng mình định làm thì mới quyết dồn lực build sản phẩm thật"},
+  {"s":"07:06","e":"08:22","nut":["?"],"moi":"Chia đôi vai với một người bạn: mình front-end + marketing, bạn back-end + CSKH",
+   "tom":"Tweet ra 400 retweet và 300 signup; CJ ngồi 10–12 tiếng viết ra UI nên như thế nào, 3 ngày dựng front-end, rồi tự thấy làm một mình không kịp nên rủ bạn: mình lo front-end và marketing, bạn lo back-end và CSKH","kq":"2 tuần từ UI thô ra web app, 100 user ngày đầu (24/12/2024)"},
+  {"s":"10:12","e":"11:00","nut":["4.1","?"],"moi":"Content–audience fit: đăng nội dung trước để moi pain point rồi mới build",
+   "tom":"Playbook nếu làm lại từ đầu: đẩy nội dung liên tục 14 ngày để hâm nóng khán giả, nghe ra các pain point rồi chọn cái to nhất, build sản phẩm giải đúng một vấn đề đó, tung ngược lại cho chính nhóm đó, rồi nhân đôi loại nội dung đang ăn"},
+  {"s":"11:00","e":"11:32","nut":["4.11"],
+   "tom":"Nhịp nội dung CJ gọi là 'tutorial marketing': 4 thread + 3 bài dài mỗi tuần; chọn một chủ đề, viết bản nháp, hôm sau đầu óc tỉnh táo mới sửa, rồi tự thiết kế ảnh minh hoạ bằng Canva và Figma"},
+  {"s":"11:32","e":"12:02","nut":["?"],"moi":"Cấu trúc bài tutorial: hook nêu vấn đề → blueprint đầy đủ → cài sản phẩm vào giữa",
+   "tom":"Khung mỗi bài: hook nói thẳng vấn đề, rồi trải ra blueprint giải pháp lý tưởng, và đặt SaaS của mình vào đúng một mắt xích trong đó — loại nội dung này được bookmark và share nên thuật toán đẩy, đồng thời xây uy tín"},
+  {"s":"12:02","e":"12:33","nut":["4.7"],
+   "tom":"Phễu chỉ có 2 bước: viết nội dung mỗi ngày rồi đẩy toàn bộ traffic về landing page waitlist để gom email — 100 khách trả tiền đầu tiên đến từ chính danh sách đó vì họ đã có nỗi đau và đã tin mình đủ để cho email"},
+  {"s":"12:33","e":"13:20","nut":["4.13","1.1"],
+   "tom":"Không có free trial vì phải chạy nhiều model AI đắt tiền; gói tháng $29 và sẽ tăng lên $39–49 trong 6 tháng, gói năm giảm mạnh 40% kèm perk từ quan hệ đối tác chính thức với Cursor, Windsurf, Bolt, Lovable"},
+  {"s":"13:20","e":"14:44","nut":["1.1","1.3"],
+   "tom":"Bóc chi phí ~$3.500/tháng: OpenAI API $2.800 là khoản to nhất, Claude API $300+, Gemini Flash đang free; Vercel $48, ConvertKit $45, Supabase $25, Hetzner $25, Cursor $20, Claude $20, Windsurf $15 — không đồng ads, traffic 100% từ X","kq":"$42K MRR với chi phí $3.500/tháng"},
+  {"s":"14:44","e":"15:30","nut":["?"],"moi":"Nhịp ngày cố định: 2 phiên deep work, chiều dành cho networking",
+   "tom":"Lịch giữ nguyên suốt một năm: dậy 5h, tắm, cầu nguyện, deep work 2 tiếng, đi bộ, phiên hai gồm research–code–viết nội dung, chiều nhận các cuộc gọi networking, tối nghe podcast, đọc 10 phút rồi lên lịch cho hôm sau"}
+ ],
+ "bo_qua": [
+  {"s":"08:22","e":"10:12","ly_do":"quảng bá Starter Story Build / AI app accelerator"},
+  {"s":"15:30","e":"16:34","ly_do":"CJ khen cộng đồng Starter Story, đoạn tự quảng bá"},
+  {"s":"17:52","e":"18:52","ly_do":"lời kết của Pat kèm kêu gọi vào Starter Story Build"}
+ ]
+}

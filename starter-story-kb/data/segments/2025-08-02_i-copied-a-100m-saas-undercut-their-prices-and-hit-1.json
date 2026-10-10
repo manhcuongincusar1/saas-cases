@@ -1,0 +1,111 @@
+{
+ "segments": [
+  {
+   "s": "01:04",
+   "e": "01:51",
+   "nut": [
+    "2.7",
+    "2.1"
+   ],
+   "tom": "Ý tưởng đến từ chính user của sản phẩm cũ — họ dùng chatbot builder như bản thay thế Typeform; Typeform vừa tăng giá, nhưng anh đi tìm thêm gap khác ngoài giá trên Twitter/Reddit/forum của Typeform",
+   "kq": "$11K MRR"
+  },
+  {
+   "s": "02:37",
+   "e": "03:09",
+   "nut": [
+    "2.B1"
+   ],
+   "tom": "Indie hacker không tạo được Uber hay Facebook tiếp theo — thay vì phát minh, hãy vào thị trường ĐÃ được validate có sẵn ông lớn, rồi tìm khe hở"
+  },
+  {
+   "s": "03:09",
+   "e": "03:57",
+   "nut": [
+    "2.7"
+   ],
+   "tom": "Quy trình 4 bước tìm khe hở: (1) search 'X alternative' trên Twitter/Reddit (2) tìm pain point — giá chỉ tính nếu QUÁ cao (3) nhắn thẳng chính những user đó kèm landing page cơ bản (4) làm công cụ migrate 1 click"
+  },
+  {
+   "s": "03:40",
+   "e": "03:57",
+   "nut": [
+    "?"
+   ],
+   "moi": "Công cụ migrate 1 click làm vũ khí chuyển đổi",
+   "tom": "Landing page cho dán URL Typeform vào, vài giây sau sinh ra bản uForm tương ứng — khách thấy ngay mình được gì"
+  },
+  {
+   "s": "04:13",
+   "e": "05:01",
+   "nut": [
+    "2.4",
+    "?"
+   ],
+   "moi": "Đọc review 1 sao để tìm sản phẩm đáng thay thế",
+   "tom": "Cách tự tìm cơ hội: soi sản phẩm có nhiều review 1 sao gần đây. Và tránh hẳn mạng xã hội / marketplace — không phải sân của indie hacker"
+  },
+  {
+   "s": "06:04",
+   "e": "06:52",
+   "nut": [
+    "3.7",
+    "3.B6"
+   ],
+   "tom": "MVP 2 tuần: không logo, không landing đẹp, chỉ thu được dữ liệu qua vài trường và tải CSV — không tích hợp gì. Vợ anh làm landing hiện tại SAU khi đã có 200+ user"
+  },
+  {
+   "s": "07:07",
+   "e": "07:38",
+   "nut": [
+    "1.3",
+    "?"
+   ],
+   "moi": "Chuẩn đối chiếu cho mô hình freemium",
+   "tom": "Số thật: 35.000 user đăng ký, ~500 trả tiền, chuyển đổi 1,5–2%, 35.000 khách truy cập/tháng, 90%+ tính năng miễn phí → $11K MRR",
+   "kq": "$11K MRR"
+  },
+  {
+   "s": "07:38",
+   "e": "08:28",
+   "nut": [
+    "1.1",
+    "?"
+   ],
+   "moi": "Cái giá ẩn của freemium: phải chống gian lận",
+   "tom": "Laravel + AWS + Cloudflare + Stripe; dùng OpenAI khá nhiều để phát hiện gian lận vì mô hình freemium hút rất nhiều user xấu tìm cách lách. Tổng chi phí dưới $1.200/tháng",
+   "kq": "chi phí <$1.200/th"
+  },
+  {
+   "s": "08:28",
+   "e": "08:58",
+   "nut": [
+    "?"
+   ],
+   "moi": "Messaging trước, rồi mới tới sản phẩm và hỗ trợ",
+   "tom": "Thông điệp phải cộng hưởng với đúng khách lý tưởng; sau đó chất lượng sản phẩm và hỗ trợ khách vừa giữ khách cũ vừa khiến họ giới thiệu người mới"
+  },
+  {
+   "s": "08:58",
+   "e": "09:28",
+   "nut": [
+    "2.10"
+   ],
+   "tom": "'Đừng build chỉ vì mình build được' — muốn SaaS nuôi được lối sống thì phải đi tìm cái người ta đang tìm trước, rồi mới build"
+  }
+ ],
+ "bo_qua": [
+  {
+   "s": "05:01",
+   "e": "06:04",
+   "ly_do": "quảng cáo Starter Story Build"
+  },
+  {
+   "s": "09:43",
+   "e": "10:15",
+   "ly_do": "quảng cáo Starter Story Build (cuối video)"
+  }
+ ],
+ "vid": "_KaFS4Dxs5k",
+ "f": "2025-08-02_i-copied-a-100m-saas-undercut-their-prices-and-hit-1"
+}

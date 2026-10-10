@@ -1,0 +1,104 @@
+{
+ "segments": [
+  {
+   "s": "02:19",
+   "e": "03:07",
+   "nut": [
+    "2.1"
+   ],
+   "tom": "Ý tưởng đến từ chính dịch vụ anh đang làm (creator-led services) — database là thứ anh tự cần dùng, build thử như thí nghiệm",
+   "kq": "$30K"
+  },
+  {
+   "s": "03:39",
+   "e": "05:15",
+   "nut": [
+    "?"
+   ],
+   "moi": "Quy trình build MVP 3 tầng bằng AI",
+   "tom": "Perplexity làm kế hoạch từng bước (khai mình là newbie hoàn toàn) → Bolt dựng MVP có giao diện → tải project vào Cursor để nối Supabase + Clerk auth",
+   "kq": "MVP không viết dòng code nào"
+  },
+  {
+   "s": "07:18",
+   "e": "07:49",
+   "nut": [
+    "?"
+   ],
+   "moi": "Landing page bằng template Framer miễn phí",
+   "tom": "Chọn template free bất kỳ, chỉ đổi font và nút, phần còn lại để sạch — mục tiêu là đưa lên mạng nhanh, không đánh bóng"
+  },
+  {
+   "s": "07:49",
+   "e": "08:20",
+   "nut": [
+    "?"
+   ],
+   "moi": "Dồn 80% công sức vào phần above-the-fold",
+   "tom": "Headline + subheading phải nói được: tiết kiệm thời gian, tiết kiệm tiền, hoặc giải một vấn đề đau — rồi một CTA lớn"
+  },
+  {
+   "s": "08:20",
+   "e": "09:10",
+   "nut": [
+    "?"
+   ],
+   "moi": "Thiết kế UI bằng shadcn + doodle Figma đưa vào Cursor",
+   "tom": "Prompt cố định 'clean, functional, modern' + shadcn components; flow onboarding thì vẽ nguệch ngoạc trong Figma rồi đưa vào Cursor kèm mô tả hành vi"
+  },
+  {
+   "s": "09:10",
+   "e": "09:58",
+   "nut": [
+    "?"
+   ],
+   "moi": "Gắn bài đăng vào cuộc tranh luận đang nóng",
+   "tom": "Bài 500K impression vì bám vào debate đang diễn ra ('AI code đã đủ tốt để build full SaaS chưa') — build-in-public đơn thuần không viral vì không tham gia cuộc chuyện lớn hơn",
+   "kq": "~500K impression"
+  },
+  {
+   "s": "10:13",
+   "e": "10:43",
+   "nut": [
+    "4.11"
+   ],
+   "tom": "Ship liên tục thay vì một lần ra mắt lớn kiểu startup VC; và copycat không sống nổi vì sao chép y nguyên — cần một cạnh mà AI không sao chép được"
+  },
+  {
+   "s": "10:59",
+   "e": "11:15",
+   "nut": [
+    "1.1",
+    "?"
+   ],
+   "moi": "Stack chi phí gần 0 cho micro-SaaS",
+   "tom": "Perplexity + Bolt + Cursor + Vercel (free) + Supabase (free) + API scraping — biên khoảng 90%",
+   "kq": "biên ~90%"
+  },
+  {
+   "s": "11:15",
+   "e": "11:46",
+   "nut": [
+    "2.1"
+   ],
+   "tom": "Người ta đánh giá thấp kiến thức ngành mình đã có — có chuyên môn sâu thì gần như đã sẵn một ý tưởng thắng để prompt ra"
+  },
+  {
+   "s": "12:32",
+   "e": "13:04",
+   "nut": [
+    "3.7"
+   ],
+   "tom": "Làm bản scrappy nhất có thể, gắn nút mua, đăng lên Twitter/TikTok theo cách scrappy nhất — sẽ bất ngờ vì số người thật sự muốn mua"
+  }
+ ],
+ "bo_qua": [
+  {
+   "s": "05:15",
+   "e": "07:18",
+   "ly_do": "quảng cáo Semrush"
+  }
+ ],
+ "vid": "jpSY4MlWX50",
+ "f": "2025-05-24_i-built-an-app-with-cursor-made-30k-and-quit-my-job"
+}

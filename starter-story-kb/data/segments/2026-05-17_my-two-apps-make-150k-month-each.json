@@ -1,0 +1,111 @@
+{
+ "f": "2026-05-17_my-two-apps-make-150k-month-each",
+ "vid": "32vqaJa90kw",
+ "segments": [
+  {
+   "s": "01:07",
+   "e": "01:55",
+   "nut": ["4.6"],
+   "tom": "Nicole ra 4 app trong 2 năm bằng cùng một hệ thống: Glam Up 1 triệu user sau 6 tháng đỉnh 150K MRR, Sprout 250K MRR sau 8 tháng, 2 app stealth đang ~200K MRR; cô lo design + phân phối, không code",
+   "kq": "4 app, mỗi app trên $100K/tháng"
+  },
+  {
+   "s": "01:55",
+   "e": "03:15",
+   "nut": ["4.13"],
+   "tom": "Glam Up ~2 triệu lượt tải, triệu user đầu trong 6 tháng; cả hai app hard paywall ngay, bán gói tuần hoặc tháng; traffic từ 100 triệu view/tháng nay lên 400-500 triệu qua TikTok, IG, YouTube Shorts",
+   "kq": "Sprout 250K MRR trên phần doanh thu chia"
+  },
+  {
+   "s": "03:15",
+   "e": "04:01",
+   "nut": ["?"],
+   "moi": "Gặp co-founder kỹ thuật qua vòng tròn YC / hacker house",
+   "tom": "Năm hai đại học đi backpacking, làm podcast TikTok được 10K follower trong 10 ngày, chuyển lên SF làm marketing ở startup và quen Aaron (YC, hacker house); một cuộc gọi 10 phút chốt làm app chung"
+  },
+  {
+   "s": "04:59",
+   "e": "05:56",
+   "nut": ["2.6", "2.9"],
+   "tom": "Ý tưởng Glam Up là bê UMAX (app looksmaxing cho nam) sang nữ + makeup vì App Store chưa có app nào như vậy; Sprout ra đời khi pivot khỏi mảng beauty sang sinh viên và người mới ra trường vì nhóm này chi mạnh hơn"
+  },
+  {
+   "s": "05:56",
+   "e": "06:40",
+   "nut": ["?"],
+   "moi": "Thiết kế app sao cho chính app lên hình viral được",
+   "tom": "Hai nửa của tăng trưởng: design consumer app (welcome page, onboarding, prime user để convert) và coi design là một phần của phân phối — app phải tự nhiên quay lên social được, rồi test format tới khi thắng thì scale"
+  },
+  {
+   "s": "06:40",
+   "e": "07:26",
+   "nut": ["?"],
+   "moi": "Quy mô reach thật cần cho app consumer $100K/tháng",
+   "tom": "Con số trần trụi: Glam Up đỉnh 40-50 triệu view/tháng TikTok cộng ~200 triệu Instagram; Sprout trung bình 100 triệu view/tháng, có tuần chạm 400 triệu; lúc scale mạnh quản ~200 creator hoạt động cùng lúc"
+  },
+  {
+   "s": "07:26",
+   "e": "08:33",
+   "nut": ["4.1", "4.2"],
+   "tom": "Bước 1 playbook: thử lần lượt Reddit marketing, faceless TikTok/IG (slideshow, đổi CTA), face UGC (người thật hoặc AI), có vốn thì thêm paid ads và influencer; mỗi kênh dồn 2-3 tuần, vắt kiệt hết biến thể rồi mới đổi"
+  },
+  {
+   "s": "08:33",
+   "e": "09:01",
+   "nut": ["4.6"],
+   "tom": "Bước 2: trước khi thuê ai phải hiểu app và nội dung sâu hơn chính creator — tự làm UGC, hoặc onboard 2-10 creator và huấn luyện đến khi họ viral rồi mới dựng hệ thống để scale"
+  },
+  {
+   "s": "09:01",
+   "e": "09:36",
+   "nut": ["?"],
+   "moi": "Nguồn tuyển UGC creator (inbound form + VA outbound)",
+   "tom": "Tuyển creator khớp format: talking head cần người nói giỏi, reaction cần biểu cảm; inbound bằng form đăng ký rải trong group chat UGC, IG, Reddit, Sideshift; outbound thuê VA nhắn micro influencer"
+  },
+  {
+   "s": "09:36",
+   "e": "10:25",
+   "nut": ["?"],
+   "moi": "Khoá học nội bộ đào tạo UGC creator",
+   "tom": "Onboard hai bước: phỏng vấn vibe check trước, rồi cho học khoá riêng của app gồm Typeform, các module video, content bank và quiz cuối mỗi module để kiểm tra chất lượng",
+   "kq": "hơn 50% creator qua khoá viral trong 2 tuần đầu"
+  },
+  {
+   "s": "10:25",
+   "e": "10:54",
+   "nut": ["?"],
+   "moi": "Cách quản đội UGC creator đông người",
+   "tom": "Ba kiểu quản creator: thuê influencer quản hộ, đôn creator top lên full-time quản phần còn lại, hoặc gom hết vào Discord; kèm call feedback hai tuần một lần hoặc hàng tháng"
+  },
+  {
+   "s": "10:54",
+   "e": "11:58",
+   "nut": ["4.6"],
+   "tom": "Bước 4 khi đã đủ lớn: dựng referral cho chính đội creator và làm dashboard theo dõi tăng trưởng — biến viral thành quy trình, vì video đầu có thể may nhưng viral đều thì không phải may"
+  },
+  {
+   "s": "11:58",
+   "e": "12:52",
+   "nut": ["4.12", "4.13"],
+   "tom": "Demo luồng: Glam Up bắt qua welcome page và bộ câu hỏi onboarding rồi mới tới upload selfie, trả tiền mới được scan mặt, color analysis, gợi ý sản phẩm; Sprout swipe phải là tự nộp đơn hộ trên site công ty"
+  },
+  {
+   "s": "12:52",
+   "e": "13:24",
+   "nut": ["?"],
+   "moi": "Stack app consumer (React Native + RevenueCat + Superwall)",
+   "tom": "Stack đầy đủ: React Native dựng app, RevenueCat theo dõi doanh thu, Superwall lo paywall, PostHog làm analytics, Sideshift tuyển UGC creator, Attio làm CRM quản creator"
+  },
+  {
+   "s": "14:06",
+   "e": "15:59",
+   "nut": ["4.11"],
+   "tom": "Pat và Gus chốt: cuộc chơi có level — đăng một video/tuần không cùng hạng với người vận hành 200 creator; điểm chung của người thành công là bẻ tăng trưởng thành các bước nhỏ rồi biến thành hệ thống"
+  }
+ ],
+ "bo_qua": [
+  {"s": "04:01", "e": "04:59", "ly_do": "quảng bá lead magnet Mobile App Growth Cheat Sheet (link HubSpot)"},
+  {"s": "13:24", "e": "14:06", "ly_do": "lời khuyên chung chung 'tận hưởng hành trình', không có chi tiết dùng được"},
+  {"s": "15:59", "e": "16:32", "ly_do": "tự quảng bá cheat sheet lần hai và chào kết"}
+ ]
+}

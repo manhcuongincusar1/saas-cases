@@ -1,0 +1,116 @@
+{
+ "f": "2026-08-12_the-lazy-method-how-i-build-10k-month-apps",
+ "vid": "zrsGDDLP7WM",
+ "segments": [
+  {
+   "s": "01:24",
+   "e": "01:53",
+   "nut": ["?"],
+   "moi": "Danh mục nhiều app nhỏ dùng chung một khuôn tính năng",
+   "tom": "Hai app: Overlow (fitness, log reps + quét cơ thể ra kết quả) khoảng $800/tháng chạy thụ động, và Glowly (looksmaxing, quét mặt rồi chỉ cách cải thiện ngoại hình) khoảng $10K/tháng — cùng một khuôn 'quét ra kết quả'.",
+   "kq": "$10K + $800/tháng"
+  },
+  {
+   "s": "02:01",
+   "e": "02:36",
+   "nut": ["?"],
+   "moi": "Dùng thu nhập freelance nuôi vòng lặp thử startup",
+   "tom": "16 tuổi thử dropshipping và bán like/follower, sau đại học nhảy vào NFT/crypto, rồi tìm được freelance web design — chính dòng tiền freelance mới cho phép anh liên tục rót vốn và test startup mới tới khi trúng."
+  },
+  {
+   "s": "02:56",
+   "e": "03:28",
+   "nut": ["4.3"],
+   "tom": "Đã thử UGC và influencer nhưng phải quản người, quản thanh toán và không nhìn ra content nào thực sự đẻ ra subscription; nên đổi sang paid ads: làm vài ad thắng rồi sống trên chúng suốt 4–5 tháng."
+  },
+  {
+   "s": "03:28",
+   "e": "03:59",
+   "nut": ["1.5"],
+   "tom": "Mục tiêu không phải giữ app mà bán cho người scale tốt hơn (ví dụ ai có sẵn chương trình UGC): chỉ validate là nó chạy được, đẩy đủ doanh thu để bán được, rồi lặp lại vòng đó — phần vui nhất với anh."
+  },
+  {
+   "s": "04:04",
+   "e": "04:44",
+   "nut": ["4.1", "4.3"],
+   "tom": "AI khiến content gần như miễn phí: làm 10–20 video biến thể của cùng một format rồi ném hết vào máy trộn. Campaign subscription cho CPA $16 trong khi LTV mỗi khách trả tiền $30–35 — thắng thì nhân lên, ads như xổ số.",
+   "kq": "CPA $16 so với LTV $30–35"
+  },
+  {
+   "s": "05:35",
+   "e": "06:05",
+   "nut": ["2.B1"],
+   "tom": "Ý tưởng nằm ngay trong feed Instagram/TikTok mình đang lướt — đó là dữ liệu về thứ người ta muốn, dùng cho cả ý tưởng app lẫn content; góc designer là lấy thứ đang chạy rồi làm đẹp hơn, không phát minh mới."
+  },
+  {
+   "s": "06:20",
+   "e": "06:40",
+   "nut": ["?"],
+   "moi": "Bộ lọc: app phải có viral feature gói trong 1 screenshot",
+   "tom": "Bộ lọc chốt app của Will: không đụng vào ý tưởng nào trừ khi nó có một viral feature tự giải thích được trong đúng một screenshot, và sản phẩm phải bán được một sự biến đổi cho người dùng."
+  },
+  {
+   "s": "06:40",
+   "e": "07:10",
+   "nut": ["4.12"],
+   "tom": "Phễu có hai chặng — quảng cáo và trong app. Onboarding của anh dài 12–15 bước để kể câu chuyện, tới paywall thì đưa insight cá nhân hoá, người dùng thấy app đang làm việc cho mình nên conversion tăng mạnh."
+  },
+  {
+   "s": "07:16",
+   "e": "07:43",
+   "nut": ["4.3", "4.1"],
+   "tom": "Ads TikTok phải trông native với TikTok: clone đúng thứ người ta đang xem — meme, format nói thẳng vào camera — và hook bằng cách không nhắc gì tới app trong 3–4 giây đầu tiên."
+  },
+  {
+   "s": "07:43",
+   "e": "08:15",
+   "nut": ["4.1"],
+   "tom": "Sau hook mới lồng app vào, giữ thật kín đáo và khâu nó thành một phần của câu chuyện, chỉ cần cho thấy viral feature đang chạy; tìm được ad thắng thì tăng chi 20% mỗi 3 ngày cho tới khi cạn."
+  },
+  {
+   "s": "08:16",
+   "e": "08:36",
+   "nut": ["?"],
+   "moi": "Stack tối giản cho app iOS sống bằng paid ads",
+   "tom": "Stack cố tình giữ mỏng, đúng ba thứ: RevenueCat theo dõi subscription, Claude CLI để code, và AppsFlyer làm mobile measurement partner đo attribution cho quảng cáo."
+  },
+  {
+   "s": "08:36",
+   "e": "09:15",
+   "nut": ["?"],
+   "moi": "Personal brand như moat duy nhất AI không lấy được",
+   "tom": "Lời khuyên: bắt đầu đơn giản và gom thắng nhỏ, bám Twitter hút thông tin từ người đã làm được; và xây personal brand ngay trong lúc học — đó là moat duy nhất mà AI không lấy được."
+  },
+  {
+   "s": "10:16",
+   "e": "10:46",
+   "nut": ["?"],
+   "moi": "Dùng AI chạy trọn khâu creative và vận hành ads",
+   "tom": "Đúng thời điểm cho paid ads vì AI đã làm được cả chuỗi: sinh video quảng cáo, nghĩ hook, viết script, phân tích ads, thậm chí dùng Claude điều khiển browser để quản chiến dịch — cửa sổ này không mở mãi."
+  },
+  {
+   "s": "11:01",
+   "e": "11:50",
+   "nut": ["3.B1"],
+   "tom": "Ads không phải cách để validate ý tưởng: Will khỏi cần validate vì app nằm trong category đã chứng minh sẵn (fitness, looksmaxing) — thứ anh thật sự test chỉ là creative và video có đủ tốt không."
+  },
+  {
+   "s": "11:50",
+   "e": "12:06",
+   "nut": ["2.B1"],
+   "tom": "Điều đúng nhất Will làm không phải kỹ thuật mà là chọn build trong category đã được validate sẵn — nhất là với app đầu tiên, cứ nhặt thứ đang chạy rồi làm bản của mình."
+  }
+ ],
+ "bo_qua": [
+  {
+   "s": "04:46",
+   "e": "05:29",
+   "ly_do": "quảng bá database 30 ý tưởng app của Starter Story"
+  },
+  {
+   "s": "12:06",
+   "e": "12:35",
+   "ly_do": "quảng bá lại database ý tưởng app cuối video"
+  }
+ ]
+}

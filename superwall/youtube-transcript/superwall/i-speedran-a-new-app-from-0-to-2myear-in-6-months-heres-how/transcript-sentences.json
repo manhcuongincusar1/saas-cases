@@ -1,0 +1,2817 @@
+[
+  {
+    "text": "This is Daniel.",
+    "start": "00:00:00",
+    "end": "00:00:02"
+  },
+  {
+    "text": "He took a dating profile analyzer app from zero to $2 million ARR in 6 months.",
+    "start": "00:00:02",
+    "end": "00:00:07"
+  },
+  {
+    "text": "But here's what's interesting.",
+    "start": "00:00:07",
+    "end": "00:00:09"
+  },
+  {
+    "text": "He built his distribution before he wrote even a single line of code.",
+    "start": "00:00:09",
+    "end": "00:00:12"
+  },
+  {
+    "text": "And by the time he actually shipped the app, he already had thousands of paying customers.",
+    "start": "00:00:12",
+    "end": "00:00:17"
+  },
+  {
+    "text": "Today, he's running his distribution playbook at Cow AI, one of the fastest growing consumer apps on the planet, which just got acquired by MyFitnessPal.",
+    "start": "00:00:17",
+    "end": "00:00:25"
+  },
+  {
+    "text": "So in this video, I convinced him to show you exactly how he pulled it off.",
+    "start": "00:00:25",
+    "end": "00:00:29"
+  },
+  {
+    "text": "We'll go over the exact pre- launch playbook he ran on Instagram that had strangers paying him $15 before there was even an app.",
+    "start": "00:00:29",
+    "end": "00:00:35"
+  },
+  {
+    "text": "The TikTok system that batches an entire month of viral posts in under 2 hours, and the paywall structure that doubled his revenue per user overnight.",
+    "start": "00:00:35",
+    "end": "00:00:45"
+  },
+  {
+    "text": "Let's get into it.",
+    "start": "00:00:44",
+    "end": "00:00:45"
+  },
+  {
+    "text": "This is the Superwall podcast.",
+    "start": "00:00:45",
+    "end": "00:00:46"
+  },
+  {
+    "text": "I'm Joseph Choi, founder of Consumer Club, a Discord where top consumer app founders trade alpha on what's working now in growth.",
+    "start": "00:00:46",
+    "end": "00:00:53"
+  },
+  {
+    "text": "I've been talking to members doing a million ARR, and they tell me they've been using these two tools.",
+    "start": "00:00:53",
+    "end": "00:00:57"
+  },
+  {
+    "text": "Superwall has this free AI tool trained on 422 profit- able paywall experiments across thousands of successful apps.",
+    "start": "00:00:57",
+    "end": "00:01:03"
+  },
+  {
+    "text": "You upload a screenshot of your paywall, and it gives you an experiment idea to make more revenue with the same number of users at paywallexperiment.",
+    "start": "00:01:03",
+    "end": "00:01:10"
+  },
+  {
+    "text": "com.",
+    "start": "00:01:10",
+    "end": "00:01:10"
+  },
+  {
+    "text": "And if your app's doing at least 100K MRR, we host vetted dinners in SF and New York to hang out and network with other top app founders.",
+    "start": "00:01:10",
+    "end": "00:01:17"
+  },
+  {
+    "text": "You can apply with the type form in the description.",
+    "start": "00:01:16",
+    "end": "00:01:18"
+  },
+  {
+    "text": "Also, these app founders have been telling me they use Rorke.",
+    "start": "00:01:18",
+    "end": "00:01:22"
+  },
+  {
+    "text": "I met Daniel, the founder of Rorke, at a dinner, and I got genuinely really excited when he told me about Rorke Max, which is out now and has honestly changed the game for coding mobile apps.",
+    "start": "00:01:22",
+    "end": "00:01:32"
+  },
+  {
+    "text": "It's AI that one-shots full native iOS apps with Swift code, camera sensors, haptics, payments, the whole stack.",
+    "start": "00:01:29",
+    "end": "00:01:38"
+  },
+  {
+    "text": "And as you vibe code with Rorke, you can install prototypes directly onto your iPhone with one click, and then publish to the App Store in two clicks.",
+    "start": "00:01:38",
+    "end": "00:01:44"
+  },
+  {
+    "text": "If you've been waiting for AI coding that actually does native iOS apps well, this is it.",
+    "start": "00:01:44",
+    "end": "00:01:47"
+  },
+  {
+    "text": "I got you guys a discount.",
+    "start": "00:01:47",
+    "end": "00:01:49"
+  },
+  {
+    "text": "You can use the code Superwall or use the link below.",
+    "start": "00:01:49",
+    "end": "00:01:51"
+  },
+  {
+    "text": "Co-founder Sway AI, uh you boosted to $2 million ARR in 6 months.",
+    "start": "00:01:51",
+    "end": "00:01:55"
+  },
+  {
+    "text": "It's pretty insane.",
+    "start": "00:01:55",
+    "end": "00:01:57"
+  },
+  {
+    "text": "Tell me about Sway.",
+    "start": "00:01:57",
+    "end": "00:01:59"
+  },
+  {
+    "text": ">> Yeah, Sway is uh so it was like in summer of 2024, I launched Sway with two co-founders and basically the idea is it's an app that analyzes your dating profile and like gives you feedback.",
+    "start": "00:01:58",
+    "end": "00:02:12"
+  },
+  {
+    "text": "I think the idea for that was like based off of I guess one like seeing other apps in this niche growing pretty quickly.",
+    "start": "00:02:12",
+    "end": "00:02:18"
+  },
+  {
+    "text": "Like I know that you're probably familiar with like Riz GPT and Umax.",
+    "start": "00:02:18",
+    "end": "00:02:20"
+  },
+  {
+    "text": "I'd say like this idea is kind of a mixture of the two.",
+    "start": "00:02:20",
+    "end": "00:02:25"
+  },
+  {
+    "text": "It's a combination of both ideas where it's in the dating niche but also like gives you an analysis of your like current profile or in your appearance.",
+    "start": "00:02:25",
+    "end": "00:02:32"
+  },
+  {
+    "text": "We were trying out a lot of different ideas like me and one of my co-founders before this idea and one of the ideas that we were exploring was like an AI personal fi- financial advisor but we learned that uh personal finance apps are a little bit hard to monetize and so we were thinking of like what are some apps that do really good at monetization and then we stumbled upon like the dating niche as being like they have like some of the most highest monetizing apps like Tinder and >> That's an interesting point on the niche.",
+    "start": "00:02:32",
+    "end": "00:02:59"
+  },
+  {
+    "text": "Like yeah, personal finance of course you would you know, it's associated with money so you you know, there's probably a lot of money in the niche itself.",
+    "start": "00:02:59",
+    "end": "00:03:07"
+  },
+  {
+    "text": "But then for dating, yeah, I mean people pay so much for Tinder and Hinge and these like dating apps.",
+    "start": "00:03:07",
+    "end": "00:03:14"
+  },
+  {
+    "text": "And this is interesting cuz with Riz GPT it was sort of like how like what to say on in the conversations.",
+    "start": "00:03:14",
+    "end": "00:03:23"
+  },
+  {
+    "text": "But then this seems like it's like get more matches which is a little bit of a different value prop.",
+    "start": "00:03:21",
+    "end": "00:03:28"
+  },
+  {
+    "text": ">> By the time we had started working on this, there was already so many clones.",
+    "start": "00:03:27",
+    "end": "00:03:31"
+  },
+  {
+    "text": "I think we didn't want to do something exactly like what they were doing but try and like come up with something novel and like a new unique idea.",
+    "start": "00:03:30",
+    "end": "00:03:37"
+  },
+  {
+    "text": "As far as I know, there wasn't any other apps that were doing like profile analysis.",
+    "start": "00:03:37",
+    "end": "00:03:41"
+  },
+  {
+    "text": "And the idea actually came from I could share my screen.",
+    "start": "00:03:40",
+    "end": "00:03:43"
+  },
+  {
+    "text": "If you just look up like the Hinge Reddit and you see like what people are searching on there, you'll notice that people are just uploading pictures of themselves and their profile and people are like asking for feedback on how that they can improve their profile.",
+    "start": "00:03:43",
+    "end": "00:03:56"
+  },
+  {
+    "text": "Like my co-founders and I like we saw that and we're like, okay, what if we could productize this?",
+    "start": "00:03:56",
+    "end": "00:04:01"
+  },
+  {
+    "text": "It takes a lot to want to share something publicly online like this.",
+    "start": "00:04:01",
+    "end": "00:04:04"
+  },
+  {
+    "text": "There might be like even a bigger audience that's more willing to get feedback in a more private way through an app.",
+    "start": "00:04:04",
+    "end": "00:04:10"
+  },
+  {
+    "text": "And so yeah, that was the basis of that that idea.",
+    "start": "00:04:10",
+    "end": "00:04:16"
+  },
+  {
+    "text": ">> I also feel like the just like getting matches is like a it's like a different problem that you're solving compared to like you already have the match and then you're trying to figure out what to say to your match.",
+    "start": "00:04:13",
+    "end": "00:04:27"
+  },
+  {
+    "text": "Do you feel like this is a harder problem that people are dealing with on on dating apps?",
+    "start": "00:04:27",
+    "end": "00:04:33"
+  },
+  {
+    "text": ">> What we've learned is that if you have a great profile, texting is like the secondary part.",
+    "start": "00:04:31",
+    "end": "00:04:38"
+  },
+  {
+    "text": "It's like not as important, but the most important piece is the profile because if you got a pro have a good profile like the texting is it'll flow a lot easier.",
+    "start": "00:04:38",
+    "end": "00:04:48"
+  },
+  {
+    "text": ">> At the time you were this was like December 2023.",
+    "start": "00:04:45",
+    "end": "00:04:50"
+  },
+  {
+    "text": "So it's like a couple of years ago.",
+    "start": "00:04:50",
+    "end": "00:04:52"
+  },
+  {
+    "text": "Yeah, and then what what did you do for distribution?",
+    "start": "00:04:52",
+    "end": "00:04:56"
+  },
+  {
+    "text": ">> We tested a few different things.",
+    "start": "00:04:55",
+    "end": "00:04:58"
+  },
+  {
+    "text": "So I think what's interesting is we actually had distribution before we launched the product.",
+    "start": "00:04:58",
+    "end": "00:05:01"
+  },
+  {
+    "text": "One of my co-founders started like an Instagram account and started posting like these videos.",
+    "start": "00:05:01",
+    "end": "00:05:08"
+  },
+  {
+    "text": "Basically the concept is like how I cook on Hinge and basically it gives you like prompts on things you can say like on your profile.",
+    "start": "00:05:08",
+    "end": "00:05:14"
+  },
+  {
+    "text": "And so it was like very actionable things that people can add to their profile, but some of them were like more kind of funny and humorous.",
+    "start": "00:05:13",
+    "end": "00:05:21"
+  },
+  {
+    "text": "So some of them like did quite well on the algorithm after only like a couple weeks of posting.",
+    "start": "00:05:21",
+    "end": "00:05:25"
+  },
+  {
+    "text": "And so we added like a link on our bio to join the pre-order of our app.",
+    "start": "00:05:25",
+    "end": "00:05:30"
+  },
+  {
+    "text": "And then the other piece which was I think kind of smart as well, which I recommend doing is we had like proof of willingness to pay from our audience.",
+    "start": "00:05:30",
+    "end": "00:05:40"
+  },
+  {
+    "text": "And so what we did was in the first couple weeks of posting on Instagram, we asked our followers to DM us for a profile review and then we'd ask them like for payment.",
+    "start": "00:05:38",
+    "end": "00:05:51"
+  },
+  {
+    "text": "So like I think we was like asking for like $15 and if you send us screenshots of your profile, we'll give you like feedback manually.",
+    "start": "00:05:51",
+    "end": "00:05:57"
+  },
+  {
+    "text": "People were actually paying us before we built the app to get feedback on their profile, um just based off of like the traction we have been getting on our social media and our on our Instagram specifically.",
+    "start": "00:05:57",
+    "end": "00:06:06"
+  },
+  {
+    "text": "And so I think that was like a good way to get like a proof of concept out in terms of like um that this was actually an idea that people are willing to pay for.",
+    "start": "00:06:06",
+    "end": "00:06:17"
+  },
+  {
+    "text": ">> So would you make like dedicated videos just about like hey, does anyone like send send us money and we'll give and you'll like review your profile or is it more of like a small call to action at the end of the normal the normal videos from the page?",
+    "start": "00:06:14",
+    "end": "00:06:32"
+  },
+  {
+    "text": ">> Yeah, it was more just like in the caption of the video.",
+    "start": "00:06:30",
+    "end": "00:06:35"
+  },
+  {
+    "text": "But the main video itself was like designed for virality.",
+    "start": "00:06:33",
+    "end": "00:06:37"
+  },
+  {
+    "text": "I actually started posting on like TikTok for the first time ever.",
+    "start": "00:06:37",
+    "end": "00:06:40"
+  },
+  {
+    "text": "It was like my first like month ever posting on TikTok.",
+    "start": "00:06:40",
+    "end": "00:06:43"
+  },
+  {
+    "text": "I saw what was like what people were doing well on other TikTok slideshow apps and thought about like how we can adapt it for our own audience.",
+    "start": "00:06:43",
+    "end": "00:06:50"
+  },
+  {
+    "text": "So I actually made all these designs in Figma, but all the text I didn't even come up with.",
+    "start": "00:06:50",
+    "end": "00:06:56"
+  },
+  {
+    "text": "The text is like based off of another page that I saw that was doing quite well.",
+    "start": "00:06:56",
+    "end": "00:07:00"
+  },
+  {
+    "text": "I think the TikTok was called TikTok account was called like men's improvement or something like that.",
+    "start": "00:07:00",
+    "end": "00:07:04"
+  },
+  {
+    "text": ">> Mhm.",
+    "start": "00:07:03",
+    "end": "00:07:07"
+  },
+  {
+    "text": ">> And so I took like the most viral videos um and slideshows from that TikTok page and repurposed them for our account.",
+    "start": "00:07:04",
+    "end": "00:07:14"
+  },
+  {
+    "text": ">> Did you use like some kind of automation to make make all these slides like faster?",
+    "start": "00:07:12",
+    "end": "00:07:19"
+  },
+  {
+    "text": ">> Yeah, we did like a mixture of like Canva as well as um Figma.",
+    "start": "00:07:17",
+    "end": "00:07:22"
+  },
+  {
+    "text": "So we like designed the background in Figma and then we did like an Excel sheet where like it auto populated all the all the slides.",
+    "start": "00:07:22",
+    "end": "00:07:29"
+  },
+  {
+    "text": "So it would take like seconds to create each one.",
+    "start": "00:07:29",
+    "end": "00:07:32"
+  },
+  {
+    "text": "And so like only within like an hour or two you can like batch up a month's worth of content.",
+    "start": "00:07:32",
+    "end": "00:07:37"
+  },
+  {
+    "text": "And so it made creating these videos uh really easy.",
+    "start": "00:07:37",
+    "end": "00:07:40"
+  },
+  {
+    "text": ">> This these these videos are all getting a lot of views.",
+    "start": "00:07:39",
+    "end": "00:07:43"
+  },
+  {
+    "text": "It's like 18K, like 10 to like 50K views on every video.",
+    "start": "00:07:43",
+    "end": "00:07:49"
+  },
+  {
+    "text": "And they're all It's all simple.",
+    "start": "00:07:47",
+    "end": "00:07:51"
+  },
+  {
+    "text": "It's like, \"Oh, five mistakes when flirting over tech.",
+    "start": "00:07:51",
+    "end": "00:07:52"
+  },
+  {
+    "text": "\" Dating advice from Sway AI app.",
+    "start": "00:07:52",
+    "end": "00:07:54"
+  },
+  {
+    "text": "And then you kind of you CTA in every single slide.",
+    "start": "00:07:54",
+    "end": "00:07:59"
+  },
+  {
+    "text": "Which is pretty pretty good.",
+    "start": "00:07:57",
+    "end": "00:08:00"
+  },
+  {
+    "text": "I feel like a lot of these slideshows are like I imagine they're kind of low converting cuz they don't actually plug the app, but yours actually plugs the app in every slide, not just like the last slide or anything.",
+    "start": "00:08:00",
+    "end": "00:08:11"
+  },
+  {
+    "text": ">> I think what's the interesting note though is if you scroll to the bottom of that page, you'll notice that I actually started off with doing the these like aesthetic carousels where it was like more of like these pictures in the background, which were fully unbranded.",
+    "start": "00:08:10",
+    "end": "00:08:25"
+  },
+  {
+    "text": "If you're starting a brand new account and it's like fully branded, I almost feel like it wouldn't have gone as viral initially.",
+    "start": "00:08:25",
+    "end": "00:08:32"
+  },
+  {
+    "text": "I think initially in the first like couple weeks, the whole goal was to get the account warmed up and start getting traction.",
+    "start": "00:08:32",
+    "end": "00:08:39"
+  },
+  {
+    "text": "And then once we started getting traction and a few videos started popping off, then um like I had the idea of like adding the branding to it.",
+    "start": "00:08:39",
+    "end": "00:08:48"
+  },
+  {
+    "text": ">> So in order to like, you know, not appear too spammy and like brand um associated, you just it was mostly uh no CTA except on the last slide.",
+    "start": "00:08:46",
+    "end": "00:08:58"
+  },
+  {
+    "text": "So you would put the CTA on the last slide, which which is more of a hard sell actually.",
+    "start": "00:08:58",
+    "end": "00:09:04"
+  },
+  {
+    "text": "And and then actually it looks like some of them you you put no call to action at all.",
+    "start": "00:09:04",
+    "end": "00:09:09"
+  },
+  {
+    "text": ">> Yeah, there's it did it like a mixture.",
+    "start": "00:09:07",
+    "end": "00:09:10"
+  },
+  {
+    "text": "I was like testing out like different ideas like whether we should add it, whether we shouldn't.",
+    "start": "00:09:09",
+    "end": "00:09:15"
+  },
+  {
+    "text": "And then once we like started getting traction and it was like guaranteed views, then we just made the whole branding like, you know, the orange theme and all that.",
+    "start": "00:09:14",
+    "end": "00:09:24"
+  },
+  {
+    "text": ">> This seems like a really good one.",
+    "start": "00:09:22",
+    "end": "00:09:26"
+  },
+  {
+    "text": "Do Do you remember this like doing well and how many like how how many downloads this got you?",
+    "start": "00:09:26",
+    "end": "00:09:30"
+  },
+  {
+    "text": "Cuz this is like 600,000 views and there was a call to action at the end.",
+    "start": "00:09:30",
+    "end": "00:09:34"
+  },
+  {
+    "text": "And then in the comments people are saying like, \"Have you tried this app?",
+    "start": "00:09:34",
+    "end": "00:09:37"
+  },
+  {
+    "text": "What's the link for the app?",
+    "start": "00:09:37",
+    "end": "00:09:40"
+  },
+  {
+    "text": "\" >> Yeah, I think those early ones like they had some traction, but I'd say the downloads weren't like insane.",
+    "start": "00:09:40",
+    "end": "00:09:46"
+  },
+  {
+    "text": "But if you go I still remember the day if you go all the way to the top, the one that's pinned.",
+    "start": "00:09:44",
+    "end": "00:09:50"
+  },
+  {
+    "text": "I remember it was Christmas day actually, and I just put up this post and actually like had logged out of the account and like completely forgot about it.",
+    "start": "00:09:50",
+    "end": "00:09:59"
+  },
+  {
+    "text": "I came back a couple days later and it was already at like um like couple million views, but we had started seeing that I think that was like one of our highest days ever.",
+    "start": "00:09:59",
+    "end": "00:10:10"
+  },
+  {
+    "text": "Um just I guess because people were at home on Christmas Day as well as it just caught the algorithm, but I think that day specifically we did like 5 or 6K in like revenue just off that one day, which is kind of crazy.",
+    "start": "00:10:08",
+    "end": "00:10:21"
+  },
+  {
+    "text": "I think that was like our biggest day at that point.",
+    "start": "00:10:21",
+    "end": "00:10:25"
+  },
+  {
+    "text": ">> 5 or 6K from one single TikTok.",
+    "start": "00:10:22",
+    "end": "00:10:26"
+  },
+  {
+    "text": "And it was like 4 million views.",
+    "start": "00:10:26",
+    "end": "00:10:28"
+  },
+  {
+    "text": ">> Yeah, I mean it helps that it was heavily branded, too.",
+    "start": "00:10:27",
+    "end": "00:10:31"
+  },
+  {
+    "text": "So.",
+    "start": "00:10:31",
+    "end": "00:10:31"
+  },
+  {
+    "text": ">> Yeah, no definitely.",
+    "start": "00:10:30",
+    "end": "00:10:32"
+  },
+  {
+    "text": ">> But this is also during the time when we started running ads as well.",
+    "start": "00:10:31",
+    "end": "00:10:35"
+  },
+  {
+    "text": "If you started doing these like UGC tactics, I think it only gets you so far, right?",
+    "start": "00:10:35",
+    "end": "00:10:41"
+  },
+  {
+    "text": ">> What was that like revenue number that you got to before you were able to like scale further with ads?",
+    "start": "00:10:38",
+    "end": "00:10:47"
+  },
+  {
+    "text": ">> Um I'd say probably like 30 to 40K a month, and then once we started that doing ads, it became a lot a lot easier.",
+    "start": "00:10:45",
+    "end": "00:10:53"
+  },
+  {
+    "text": ">> 30-40K a month.",
+    "start": "00:10:51",
+    "end": "00:10:55"
+  },
+  {
+    "text": "That makes sense.",
+    "start": "00:10:53",
+    "end": "00:10:55"
+  },
+  {
+    "text": "And then when you run ads, were you just like did you just repeat like use the same organic slides or videos and then put those into the ads and just like run them as ads or boost them?",
+    "start": "00:10:55",
+    "end": "00:11:07"
+  },
+  {
+    "text": ">> We didn't do that.",
+    "start": "00:11:05",
+    "end": "00:11:07"
+  },
+  {
+    "text": "We actually uh what we had what we had did was we got this one influencer, his name was Defunct Sibling.",
+    "start": "00:11:07",
+    "end": "00:11:14"
+  },
+  {
+    "text": "Um we were working with a few different influencers, but he was one that we really enjoyed working with.",
+    "start": "00:11:13",
+    "end": "00:11:19"
+  },
+  {
+    "text": "And um we got him to create some videos and um create some ads for us.",
+    "start": "00:11:18",
+    "end": "00:11:26"
+  },
+  {
+    "text": "And the ads ran on his page, and so it was like running to his audience, and so he has a big following, right?",
+    "start": "00:11:24",
+    "end": "00:11:31"
+  },
+  {
+    "text": "So all these people that were to see our ads, they are familiar with his content.",
+    "start": "00:11:31",
+    "end": "00:11:35"
+  },
+  {
+    "text": "It worked quite well for them quite well for us.",
+    "start": "00:11:35",
+    "end": "00:11:38"
+  },
+  {
+    "text": ">> You would have him make a video exclusively for an ad creative, not like make an organic video and then boost it later.",
+    "start": "00:11:36",
+    "end": "00:11:46"
+  },
+  {
+    "text": ">> Yeah, I mean, this is before the time when we like really like understood how to like create a video for ads versus creating an ad for organic.",
+    "start": "00:11:44",
+    "end": "00:11:54"
+  },
+  {
+    "text": "And so, he was like really promoting the the app quite hard in his organic videos, which I mean, sometimes they did quite well even on on the organic videos, but when we started repurposing those videos for ads, it worked a lot better.",
+    "start": "00:11:54",
+    "end": "00:12:10"
+  },
+  {
+    "text": ">> You got to like 30, say like 30, 40k MRR just from organic, from slides, from from him, the influencer, um and then like posting on TikTok and Instagram.",
+    "start": "00:12:06",
+    "end": "00:12:19"
+  },
+  {
+    "text": "And then you got to 2 million ARR.",
+    "start": "00:12:19",
+    "end": "00:12:22"
+  },
+  {
+    "text": "So, that's about like four to five times the just organic revenue.",
+    "start": "00:12:22",
+    "end": "00:12:27"
+  },
+  {
+    "text": "So, you you scaled pretty significantly like from starting paid.",
+    "start": "00:12:27",
+    "end": "00:12:33"
+  },
+  {
+    "text": ">> What what were your like biggest takeaways or learnings from from running paid to 2 mil ARR?",
+    "start": "00:12:31",
+    "end": "00:12:39"
+  },
+  {
+    "text": ">> Yeah, I think the videos that we had saw that when you post them as an ad, they were they would still get a lot of engagement and people commenting on the ad.",
+    "start": "00:12:37",
+    "end": "00:12:46"
+  },
+  {
+    "text": "And so, there are some videos that were I guess like a bit controversial that we had posted as an ad and then there were people like commenting in the comment section.",
+    "start": "00:12:45",
+    "end": "00:12:52"
+  },
+  {
+    "text": "I think those ads performed quite well for us.",
+    "start": "00:12:52",
+    "end": "00:12:54"
+  },
+  {
+    "text": "And I think the other piece is when we started scaling, we ran into like issues of not having enough creative.",
+    "start": "00:12:54",
+    "end": "00:13:01"
+  },
+  {
+    "text": "So, I think that's another piece is making sure that you have an easy way to scale the number of videos that you create.",
+    "start": "00:13:01",
+    "end": "00:13:08"
+  },
+  {
+    "text": "Since we're only relying on like one influencer to create videos for us, it was hard to like get a a big variety of creative.",
+    "start": "00:13:08",
+    "end": "00:13:15"
+  },
+  {
+    "text": "And I think the niche, like the dating niche in general, is a bit tough because I think there's not a lot of like big influencers that are willing to work with apps cuz they're selling their own program, right?",
+    "start": "00:13:15",
+    "end": "00:13:26"
+  },
+  {
+    "text": ">> So, you feel like with dating creators, they're making a lot of money already, like selling dating coaching basically or courses.",
+    "start": "00:13:24",
+    "end": "00:13:32"
+  },
+  {
+    "text": "And then for fitness influencers, they just like I guess you could sell fitness training, but from in your experience, they just the most fitness creators are just not like making that much money.",
+    "start": "00:13:32",
+    "end": "00:13:45"
+  },
+  {
+    "text": ">> Yeah, I'd say it's that, but also it doesn't conflict with their business.",
+    "start": "00:13:42",
+    "end": "00:13:47"
+  },
+  {
+    "text": "So, for CalA I, it's a calorie tracking app where you're like tracking your your meals, whereas what they're selling as a product themselves is the fitness coaching.",
+    "start": "00:13:46",
+    "end": "00:13:57"
+  },
+  {
+    "text": "And so, it doesn't conflict, right?",
+    "start": "00:13:57",
+    "end": "00:13:59"
+  },
+  {
+    "text": "With our app with Sway, the product kind of conflicts with their offerings because they offer what they offer is like giving feedback on your profile and photos.",
+    "start": "00:13:59",
+    "end": "00:14:09"
+  },
+  {
+    "text": "And that's basically what we provide, but in an AI form.",
+    "start": "00:14:09",
+    "end": "00:14:13"
+  },
+  {
+    "text": "And so, if they're promoting the app, it kind of cannibalizes their own product.",
+    "start": "00:14:13",
+    "end": "00:14:17"
+  },
+  {
+    "text": ">> I see.",
+    "start": "00:14:15",
+    "end": "00:14:16"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:14:16",
+    "end": "00:14:18"
+  },
+  {
+    "text": "That's a good insight.",
+    "start": "00:14:18",
+    "end": "00:14:18"
+  },
+  {
+    "text": "It has to work with the with the creator's existing business model.",
+    "start": "00:14:18",
+    "end": "00:14:23"
+  },
+  {
+    "text": "That is that is a big advantage that CalA I seems to have.",
+    "start": "00:14:21",
+    "end": "00:14:26"
+  },
+  {
+    "text": "So, I want to talk about the the product also.",
+    "start": "00:14:26",
+    "end": "00:14:30"
+  },
+  {
+    "text": "So, like you are the head of product at CalA I.",
+    "start": "00:14:30",
+    "end": "00:14:35"
+  },
+  {
+    "text": "You co-founded Sway.",
+    "start": "00:14:35",
+    "end": "00:14:35"
+  },
+  {
+    "text": "Did you have a team with you building Sway?",
+    "start": "00:14:35",
+    "end": "00:14:38"
+  },
+  {
+    "text": "You said you had a couple of co-founders.",
+    "start": "00:14:38",
+    "end": "00:14:40"
+  },
+  {
+    "text": "Were you like what was your role in in Sway?",
+    "start": "00:14:40",
+    "end": "00:14:44"
+  },
+  {
+    "text": ">> Yeah, two co-founders, Luis and Charles.",
+    "start": "00:14:42",
+    "end": "00:14:46"
+  },
+  {
+    "text": "And Charles is more like a iOS engineer, so he built the app.",
+    "start": "00:14:44",
+    "end": "00:14:48"
+  },
+  {
+    "text": "And Luis helped like helped with marketing and more like operations with the app.",
+    "start": "00:14:48",
+    "end": "00:14:53"
+  },
+  {
+    "text": "And so, I was like doing design and like product.",
+    "start": "00:14:53",
+    "end": "00:14:56"
+  },
+  {
+    "text": ">> I feel like there's a lot of teams that kind of have the engineering and then the marketing, but then to actually build like a good product, you need someone It could be a third person or it could be like one one or the other of, you know, the marketing or the coding person, but someone needs to like worry about, okay, what is the user experience actually going to be like?",
+    "start": "00:14:54",
+    "end": "00:15:16"
+  },
+  {
+    "text": "Like what are the screens?",
+    "start": "00:15:16",
+    "end": "00:15:19"
+  },
+  {
+    "text": "Um how do how do you make it easy for the for people to understand the product?",
+    "start": "00:15:17",
+    "end": "00:15:22"
+  },
+  {
+    "text": "Were there certain decisions that went into Sway that you feel like made a big impact on the monetization, like how much money it made, and also just like the usefulness of the product, and that got people willing to, you know, pay and retain as users?",
+    "start": "00:15:22",
+    "end": "00:15:39"
+  },
+  {
+    "text": ">> Yeah, I'd say that I mean the LTV of this app is very high as opposed to any other app I've worked like I've seen.",
+    "start": "00:15:38",
+    "end": "00:15:46"
+  },
+  {
+    "text": "But yeah, I can walk through that.",
+    "start": "00:15:44",
+    "end": "00:15:47"
+  },
+  {
+    "text": "I actually like I can share like some like the onboarding flow as well as like the paywall design maybe.",
+    "start": "00:15:47",
+    "end": "00:15:50"
+  },
+  {
+    "text": "Yeah, this is like the onboarding.",
+    "start": "00:15:50",
+    "end": "00:15:52"
+  },
+  {
+    "text": "The way I think about onboarding is like it needs to like the goal of onboarding before paywall is to like raise your motivation and increase like your intention to purchase the app.",
+    "start": "00:15:52",
+    "end": "00:16:02"
+  },
+  {
+    "text": "There's like a lot of visuals explaining what the app does and then questions to personalize the app experience.",
+    "start": "00:16:02",
+    "end": "00:16:08"
+  },
+  {
+    "text": "Started by like clarifying like why the user is there.",
+    "start": "00:16:08",
+    "end": "00:16:11"
+  },
+  {
+    "text": "It's I feel like it's very similar to like a sales funnel where like you clarify like why they're there, explain and label their problem, and then sell the dream result.",
+    "start": "00:16:11",
+    "end": "00:16:22"
+  },
+  {
+    "text": "Like you'll see like the dream result of like what other members are experiencing.",
+    "start": "00:16:22",
+    "end": "00:16:28"
+  },
+  {
+    "text": "Um personalizing through the questions, and then like as well as explaining why this app is for them.",
+    "start": "00:16:25",
+    "end": "00:16:34"
+  },
+  {
+    "text": "And then we show them the dream result also on the paywall.",
+    "start": "00:16:32",
+    "end": "00:16:36"
+  },
+  {
+    "text": "So this was like the first version of the paywall where you can after you go through that onboarding, you would be able to see your action plan now.",
+    "start": "00:16:36",
+    "end": "00:16:44"
+  },
+  {
+    "text": "And if you like tap continue, you get to unlock the entire app.",
+    "start": "00:16:44",
+    "end": "00:16:49"
+  },
+  {
+    "text": "And that was like the first version of the paywall, and I just wanted like to convey the feeling that you get a lot of value from the subscription.",
+    "start": "00:16:49",
+    "end": "00:16:56"
+  },
+  {
+    "text": "So you see it's like a carousel of like eight slides of all the things you get as part of your subscription.",
+    "start": "00:16:56",
+    "end": "00:17:01"
+  },
+  {
+    "text": "And so that was one thing that we had did with the paywall.",
+    "start": "00:17:01",
+    "end": "00:17:04"
+  },
+  {
+    "text": "I think the other unique thing that I think is similar to the way like Calia thinks about it is the onboarding is like very sequential and like a one-flow process where the user doesn't really need to think, but they're like guided on this like one-path journey towards the paywall, and then after the paywall, you show them like the aha moment of the app.",
+    "start": "00:17:04",
+    "end": "00:17:23"
+  },
+  {
+    "text": "And so, like we're just getting the profile rated.",
+    "start": "00:17:23",
+    "end": "00:17:26"
+  },
+  {
+    "text": "And so, they would go through this process of like uploading screenshots of the profile, and then it would analyze it, and then similar to like to like UMAX, it would give you like a rating and feedback on your on the images that are on your profile, as well as feedback on your prompts.",
+    "start": "00:17:26",
+    "end": "00:17:42"
+  },
+  {
+    "text": "Because the prompts were actually something that we were going viral for on Instagram, and so that's the other reason why I wanted to add that here.",
+    "start": "00:17:42",
+    "end": "00:17:52"
+  },
+  {
+    "text": ">> Did you see that uh people actually did the the share actions?",
+    "start": "00:17:49",
+    "end": "00:17:55"
+  },
+  {
+    "text": "Like were your your users using those?",
+    "start": "00:17:55",
+    "end": "00:17:59"
+  },
+  {
+    "text": ">> I'd say prob- probably not as we had thought, and I think it makes a lot of sense cuz I think it's the type of thing that you would want like private feedback on.",
+    "start": "00:17:56",
+    "end": "00:18:05"
+  },
+  {
+    "text": "And I mean, that was the whole hypothesis of this product was >> Yeah.",
+    "start": "00:18:05",
+    "end": "00:18:11"
+  },
+  {
+    "text": ">> Um the idea is people don't want to ask like their friend or like people that they know, and so like using a product to get feedback in a more private way made more sense.",
+    "start": "00:18:08",
+    "end": "00:18:18"
+  },
+  {
+    "text": "And I think that's actually the reason why we like monetized so heavily or like we focused on monetization as opposed to like keeping the prices lower to fuel growth, which is like the opposite of CaliAI because I think with CaliAI, the prices are intentionally a lot lower as opposed to everyone else on the market.",
+    "start": "00:18:18",
+    "end": "00:18:37"
+  },
+  {
+    "text": ">> Uh so, you do um additional in-app purchases for credits?",
+    "start": "00:18:35",
+    "end": "00:18:41"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:18:39",
+    "end": "00:18:40"
+  },
+  {
+    "text": "I mean, we started Once we after we launched, we noticed that people were going through this flow like multiple times, more than we had anticipated.",
+    "start": "00:18:40",
+    "end": "00:18:48"
+  },
+  {
+    "text": "And so, we added this as a way to like like further monetize the power users.",
+    "start": "00:18:48",
+    "end": "00:18:53"
+  },
+  {
+    "text": "And I think this paywall itself, I think like contributes to like over 10%.",
+    "start": "00:18:53",
+    "end": "00:18:57"
+  },
+  {
+    "text": "I think like 11% of revenue like comes from like the additional upsell here.",
+    "start": "00:18:57",
+    "end": "00:19:01"
+  },
+  {
+    "text": "The biggest upsell of this app actually is we added these photo packs, which is AI optimized photos where you can like look at these AI photos, and then we'll you upload pictures of your face and then we'll create pictures based off of the look here.",
+    "start": "00:19:01",
+    "end": "00:19:16"
+  },
+  {
+    "text": "We go through this flow, you would purchase these photo packs and then upload pictures of yourself and then we'll email you you in that photo pack if that makes sense.",
+    "start": "00:19:16",
+    "end": "00:19:26"
+  },
+  {
+    "text": ">> And how what were what was the pricing on each of the packs?",
+    "start": "00:19:24",
+    "end": "00:19:28"
+  },
+  {
+    "text": ">> We did like a 10-pack and then a one-pack and the pricing was like that.",
+    "start": "00:19:27",
+    "end": "00:19:33"
+  },
+  {
+    "text": "It's like $14.",
+    "start": "00:19:30",
+    "end": "00:19:32"
+  },
+  {
+    "text": "99 and $49.",
+    "start": "00:19:32",
+    "end": "00:19:34"
+  },
+  {
+    "text": "99 for the 10-photo pack.",
+    "start": "00:19:34",
+    "end": "00:19:34"
+  },
+  {
+    "text": "I think what is unique about this is something that I had saw from other apps is ones that were offering and defaulting to an annual plan are the ones that like had a pretty good like LTV.",
+    "start": "00:19:34",
+    "end": "00:19:45"
+  },
+  {
+    "text": "We default to the annual plan in order to like collect more revenue up front to fuel the growth.",
+    "start": "00:19:45",
+    "end": "00:19:51"
+  },
+  {
+    "text": "We also tried out weekly plan, but that's like a lot slower growth, right?",
+    "start": "00:19:51",
+    "end": "00:19:55"
+  },
+  {
+    "text": ">> That's crazy.",
+    "start": "00:19:53",
+    "end": "00:19:54"
+  },
+  {
+    "text": "Yeah, I didn't know that this is one of the most highly monetized niches on the App Store, but it makes sense.",
+    "start": "00:19:54",
+    "end": "00:19:59"
+  },
+  {
+    "text": "I mean, people just want people love looking at their own face and making themselves look better.",
+    "start": "00:19:59",
+    "end": "00:20:08"
+  },
+  {
+    "text": "And AI is very good at doing that and there's like a wow effect um with that.",
+    "start": "00:20:07",
+    "end": "00:20:13"
+  },
+  {
+    "text": ">> I think the other reason why it does so well is the photo packs for us.",
+    "start": "00:20:11",
+    "end": "00:20:17"
+  },
+  {
+    "text": "Like there's no cap to how much you can spend.",
+    "start": "00:20:17",
+    "end": "00:20:18"
+  },
+  {
+    "text": "And so, I think that's another insight from the App Store is there's this topic of whales on the App Store of people There's like certain people that will download an app and spend like thousands of dollars on an app.",
+    "start": "00:20:18",
+    "end": "00:20:34"
+  },
+  {
+    "text": "And I think that's a a lot of how the big apps like Tinder, Hinge, Bumble make a lot of money is the people that There are a few people that like the top 1% are spending like the majority of they make up the majority of the revenue.",
+    "start": "00:20:32",
+    "end": "00:20:48"
+  },
+  {
+    "text": ">> Yeah, actually yeah, that makes sense.",
+    "start": "00:20:47",
+    "end": "00:20:50"
+  },
+  {
+    "text": "So, if you give the people opportunity to buy consumables, there you'll naturally have whales, right?",
+    "start": "00:20:48",
+    "end": "00:20:55"
+  },
+  {
+    "text": "That >> Yeah, I mean, the same thing with gaming, right?",
+    "start": "00:20:55",
+    "end": "00:20:58"
+  },
+  {
+    "text": ">> Clash of Clans.",
+    "start": "00:20:56",
+    "end": "00:20:58"
+  },
+  {
+    "text": "I remember I probably spent like $200 as a teenager on this game.",
+    "start": "00:20:58",
+    "end": "00:21:01"
+  },
+  {
+    "text": "That was like a lot of money for me.",
+    "start": "00:21:01",
+    "end": "00:21:04"
+  },
+  {
+    "text": "But there's people that are spending like tens of thousands of dollars on this.",
+    "start": "00:21:03",
+    "end": "00:21:08"
+  },
+  {
+    "text": ">> That was the insight actually came from one of my co-founders.",
+    "start": "00:21:06",
+    "end": "00:21:10"
+  },
+  {
+    "text": "He built his own game and he noticed that it monetized really well and it's the same sort of insight that like he he had the insight of that there are whales on the App Store.",
+    "start": "00:21:10",
+    "end": "00:21:20"
+  },
+  {
+    "text": ">> I was curious to ask you you you said you would you put the aha moment after the paywall or would you put it before?",
+    "start": "00:21:18",
+    "end": "00:21:28"
+  },
+  {
+    "text": "Like would you let people upload their pictures and then make them pay or would you like make them pay after the like the question and answer and like the the pictures and then like let them upload the pictures?",
+    "start": "00:21:26",
+    "end": "00:21:39"
+  },
+  {
+    "text": ">> Yeah, it's a good question.",
+    "start": "00:21:37",
+    "end": "00:21:40"
+  },
+  {
+    "text": "We actually explored both.",
+    "start": "00:21:40",
+    "end": "00:21:41"
+  },
+  {
+    "text": "If you let people upload photos before the paywall, you risk them leaving the app and not not never coming back again because they would have to go like to their other app and then upload screenshots.",
+    "start": "00:21:41",
+    "end": "00:21:53"
+  },
+  {
+    "text": "We explored that, but what we had saw was just the simplicity of like going through the onboarding and not asking people to do too much.",
+    "start": "00:21:53",
+    "end": "00:22:01"
+  },
+  {
+    "text": "So, they don't have to think before they hit the paywall.",
+    "start": "00:22:00",
+    "end": "00:22:03"
+  },
+  {
+    "text": "Like just performed a lot better.",
+    "start": "00:22:03",
+    "end": "00:22:04"
+  },
+  {
+    "text": "But, I think if there's a way to show the insight and like the aha moment or like lead up to the aha moment, I think it would have been better if they could do it before the paywall.",
+    "start": "00:22:04",
+    "end": "00:22:14"
+  },
+  {
+    "text": ">> So, let me show you this.",
+    "start": "00:22:12",
+    "end": "00:22:14"
+  },
+  {
+    "text": "A lot of app founders I talk to you have a feeling their app has viral potential, but don't want to be the person brain rot scrolling an hour a day hunting for formats or worse burning thousands on creators shooting videos that just flop.",
+    "start": "00:22:14",
+    "end": "00:22:26"
+  },
+  {
+    "text": "Recently, I've been telling every founder I meet about SpyTalk.",
+    "start": "00:22:25",
+    "end": "00:22:30"
+  },
+  {
+    "text": "It's basically an AI TikTok viral marketer that I've seen a lot of top app growth teams using.",
+    "start": "00:22:30",
+    "end": "00:22:33"
+  },
+  {
+    "text": "You just paste a link to your app >> agent scrolls hundreds of thousands of TikToks for you, finds the outlier videos from competitors who've already cracked the best formats that are driving installs in the niche of your app and then it remixes the hooks, the angles and then it makes playbooks so you can pretty much copy-paste virality.",
+    "start": "00:22:33",
+    "end": "00:22:50"
+  },
+  {
+    "text": "And then it alerts you when it detects new breakout formats that would also work for your app.",
+    "start": "00:22:49",
+    "end": "00:22:54"
+  },
+  {
+    "text": "This is the only growth tool I 100% vouch for on this channel because there's a ton of gen AI content tools out there, but none of them tell you what to make.",
+    "start": "00:22:54",
+    "end": "00:23:02"
+  },
+  {
+    "text": "SpyTalk makes sure you're never in the dark about what's actually working now.",
+    "start": "00:23:02",
+    "end": "00:23:06"
+  },
+  {
+    "text": "I'll put the link in the description.",
+    "start": "00:23:06",
+    "end": "00:23:07"
+  },
+  {
+    "text": "Can we go through the psychology a little bit again?",
+    "start": "00:23:07",
+    "end": "00:23:08"
+  },
+  {
+    "text": "It was really interesting to hear you kind of describe the journey of like, you know, showing the dream outcome, like explaining what the app is, and that whole sequence of questions.",
+    "start": "00:23:08",
+    "end": "00:23:21"
+  },
+  {
+    "text": "Like, is there some sort of method to the way that you order the screens?",
+    "start": "00:23:21",
+    "end": "00:23:24"
+  },
+  {
+    "text": "Like, it looks like right here there's like you just describe the app with really clear images.",
+    "start": "00:23:24",
+    "end": "00:23:29"
+  },
+  {
+    "text": "Is there a a method to kind of like the ordering of this?",
+    "start": "00:23:29",
+    "end": "00:23:35"
+  },
+  {
+    "text": ">> Yeah, I think this is a something that I learned a lot when it comes to like we got a lot of feedback in written emails of people.",
+    "start": "00:23:32",
+    "end": "00:23:40"
+  },
+  {
+    "text": "We didn't have this initially, so initially we'd just go straight into the questions.",
+    "start": "00:23:40",
+    "end": "00:23:46"
+  },
+  {
+    "text": "And so I think this is a lot a lot of what I see on other apps doing is they they just look at I think like Calion just go straight into the questions, but I think it misses the whole point.",
+    "start": "00:23:44",
+    "end": "00:23:55"
+  },
+  {
+    "text": "And what we would get a lot of questions about is like what does this app even do?",
+    "start": "00:23:55",
+    "end": "00:24:00"
+  },
+  {
+    "text": "Like, what am I even subscribing for?",
+    "start": "00:23:58",
+    "end": "00:24:01"
+  },
+  {
+    "text": "These are actually videos, but they're not playing right now, but they're videos that explain the problem as well as explaining how the app solves that problem.",
+    "start": "00:24:00",
+    "end": "00:24:09"
+  },
+  {
+    "text": "And then once people are like have that context, then asking questions makes sense, right?",
+    "start": "00:24:09",
+    "end": "00:24:14"
+  },
+  {
+    "text": "It's like because otherwise you're just you're asking someone questions and they have no context why they're giving you this information.",
+    "start": "00:24:14",
+    "end": "00:24:20"
+  },
+  {
+    "text": ">> You're you're giving a lot of information and value even before they have to ask answer any questions.",
+    "start": "00:24:19",
+    "end": "00:24:27"
+  },
+  {
+    "text": "And then in between your questions you're also giving continuously giving more value as well.",
+    "start": "00:24:27",
+    "end": "00:24:31"
+  },
+  {
+    "text": "Is there a is there an ordering to the to the types of questions that you ask?",
+    "start": "00:24:31",
+    "end": "00:24:36"
+  },
+  {
+    "text": "Is it basically just problem problem questions and then solution questions?",
+    "start": "00:24:36",
+    "end": "00:24:40"
+  },
+  {
+    "text": ">> I think less about the ordering and more about the simplicity of how easy it is to come up with an answer.",
+    "start": "00:24:39",
+    "end": "00:24:45"
+  },
+  {
+    "text": "So I think that's why a lot of these companies like will offer a like multiple choice just being that so easy to for the user to like quickly tap one and give an answer.",
+    "start": "00:24:45",
+    "end": "00:24:55"
+  },
+  {
+    "text": "Because I had seen other apps where like they ask us these questions that like are actually like kind of hard for you to come up with an answer for.",
+    "start": "00:24:55",
+    "end": "00:25:01"
+  },
+  {
+    "text": "The whole point of onboarding is they don't want to slow people down.",
+    "start": "00:25:01",
+    "end": "00:25:04"
+  },
+  {
+    "text": "You want to get them ramped up, get them going before the paywall.",
+    "start": "00:25:04",
+    "end": "00:25:07"
+  },
+  {
+    "text": ">> This is really helpful to to see the whole onboarding and everything.",
+    "start": "00:25:06",
+    "end": "00:25:11"
+  },
+  {
+    "text": "It is I can I can see how a lot of this translates to Calorie Ai too with like making the the onboarding smooth and making it high converting.",
+    "start": "00:25:11",
+    "end": "00:25:21"
+  },
+  {
+    "text": "Um but then I want to like dig into that story now.",
+    "start": "00:25:21",
+    "end": "00:25:25"
+  },
+  {
+    "text": "Like how did you how did you get into Calorie Ai?",
+    "start": "00:25:23",
+    "end": "00:25:26"
+  },
+  {
+    "text": "Like how did you meet the team and um and get started working with them?",
+    "start": "00:25:26",
+    "end": "00:25:31"
+  },
+  {
+    "text": ">> We came across the apps that Blake was working on.",
+    "start": "00:25:29",
+    "end": "00:25:32"
+  },
+  {
+    "text": "And so and then we had noticed like early on that he was working on this new app and we had saw that um like I had seen that it was growing quite quickly.",
+    "start": "00:25:32",
+    "end": "00:25:41"
+  },
+  {
+    "text": "And so we reached out.",
+    "start": "00:25:41",
+    "end": "00:25:41"
+  },
+  {
+    "text": "Was talking to Zach initially.",
+    "start": "00:25:41",
+    "end": "00:25:45"
+  },
+  {
+    "text": "And yeah, I ended up joining the team last year.",
+    "start": "00:25:45",
+    "end": "00:25:45"
+  },
+  {
+    "text": "Since then, been working on like a number of different things.",
+    "start": "00:25:45",
+    "end": "00:25:49"
+  },
+  {
+    "text": "When I joined like the app was actually already already in a pretty good state.",
+    "start": "00:25:49",
+    "end": "00:25:53"
+  },
+  {
+    "text": "Like I mean, they were already doing like a couple million a month but when I I by the time I joined.",
+    "start": "00:25:53",
+    "end": "00:25:57"
+  },
+  {
+    "text": "Everything from the onboarding to paywall conversion rate like was quite high.",
+    "start": "00:25:57",
+    "end": "00:26:01"
+  },
+  {
+    "text": "They were like above industry standard.",
+    "start": "00:26:01",
+    "end": "00:26:03"
+  },
+  {
+    "text": "And so a lot of my focus like when I joined the team was focusing on features that would improve retention and get people to stay subscribed through the trial period because they would you know it is a three-day trial period.",
+    "start": "00:26:03",
+    "end": "00:26:15"
+  },
+  {
+    "text": "Ensuring that people have like enough of value that they get throughout that three-day period in order to stay subscribed.",
+    "start": "00:26:15",
+    "end": "00:26:21"
+  },
+  {
+    "text": ">> Yeah, like you said earlier like the the free trials can give people a chance to try out the app and it's probably higher converting than just a pure paywall, but you're going to lose a lot of people to just trial cancellations unless you show them a ton of value.",
+    "start": "00:26:19",
+    "end": "00:26:36"
+  },
+  {
+    "text": "Overall, it like what is the philosophy for that?",
+    "start": "00:26:36",
+    "end": "00:26:39"
+  },
+  {
+    "text": "Like I imagine if you give too much value, then they just cancel cuz they feel like they got they got everything.",
+    "start": "00:26:39",
+    "end": "00:26:44"
+  },
+  {
+    "text": "But I guess with a app like Calorie Ai, you're supposed to like the the the real value is um you know logging your food every day or you know consistently.",
+    "start": "00:26:44",
+    "end": "00:26:55"
+  },
+  {
+    "text": ">> What what was your like like main, I guess like North Star goal for what to do with the user in those 3 days?",
+    "start": "00:26:53",
+    "end": "00:27:03"
+  },
+  {
+    "text": ">> Yeah, a lot of it was like classic things that other apps think about when it comes to retention.",
+    "start": "00:27:01",
+    "end": "00:27:09"
+  },
+  {
+    "text": "So, like making the app like less buggy is clearly one of them, but I think improving the core logging experience, like we did like a redesign of like the core screens in the app when it comes to like logging a meal, we redesigned like the food database, um the camera, the food detail page, things that people experience like all the time.",
+    "start": "00:27:07",
+    "end": "00:27:27"
+  },
+  {
+    "text": "Was also thinking about We had saw that there was a lot of clones of Calorie Ai, and so I guess the question is like how do you like create features that would work on Calorie Ai that wouldn't work on any other these clones, as well as like over retention feature.",
+    "start": "00:27:27",
+    "end": "00:27:43"
+  },
+  {
+    "text": "So, like one of the ideas that we had had, which we had shipped um like earlier on when I was when I joined Calorie Ai was a groups feature, like a community feed, where people can join their friends, and then like stay accountable together, and log foods together.",
+    "start": "00:27:43",
+    "end": "00:27:57"
+  },
+  {
+    "text": "So, that was one.",
+    "start": "00:27:57",
+    "end": "00:28:00"
+  },
+  {
+    "text": "Another one was like streaks.",
+    "start": "00:27:57",
+    "end": "00:28:00"
+  },
+  {
+    "text": "So, making sure that people would come back on a daily basis to log their meals.",
+    "start": "00:28:00",
+    "end": "00:28:05"
+  },
+  {
+    "text": "Things like from the most retentive apps like Duolingo, the insight for groups was like Strava, and trying to build like a network effect within the app.",
+    "start": "00:28:05",
+    "end": "00:28:14"
+  },
+  {
+    "text": ">> Does Does Calorie Ai have leaderboards?",
+    "start": "00:28:12",
+    "end": "00:28:16"
+  },
+  {
+    "text": ">> Yeah, we have leaderboards on groups.",
+    "start": "00:28:14",
+    "end": "00:28:17"
+  },
+  {
+    "text": "So, you can see like who has the longest streak and things like that.",
+    "start": "00:28:16",
+    "end": "00:28:22"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:28:19",
+    "end": "00:28:21"
+  },
+  {
+    "text": "And do people just get auto added to a group?",
+    "start": "00:28:21",
+    "end": "00:28:24"
+  },
+  {
+    "text": "Are they just always in a group?",
+    "start": "00:28:24",
+    "end": "00:28:25"
+  },
+  {
+    "text": "Or do you like join specific groups with your friends?",
+    "start": "00:28:25",
+    "end": "00:28:29"
+  },
+  {
+    "text": ">> Yeah, we started off with specific fruit groups for your friends, and then we later added public groups where you can like see others on the community and what they're doing.",
+    "start": "00:28:27",
+    "end": "00:28:39"
+  },
+  {
+    "text": ">> What What are the groups like based on?",
+    "start": "00:28:36",
+    "end": "00:28:41"
+  },
+  {
+    "text": "Is it like for the public ones?",
+    "start": "00:28:39",
+    "end": "00:28:43"
+  },
+  {
+    "text": "Is it um like around shared interests or demographics or anything?",
+    "start": "00:28:43",
+    "end": "00:28:47"
+  },
+  {
+    "text": "Or is it kind of just the goal is to just get everyone in a group in general so that they have that community feeling?",
+    "start": "00:28:47",
+    "end": "00:28:54"
+  },
+  {
+    "text": ">> Yeah, there's another app like Ladder is another great example of this of an app that has groups.",
+    "start": "00:28:53",
+    "end": "00:28:58"
+  },
+  {
+    "text": "Is we like I had seen that like a lot of people will ask questions related to like specific topics.",
+    "start": "00:28:58",
+    "end": "00:29:03"
+  },
+  {
+    "text": "So, say for example on Calia you can ask questions for with other people who are wanting to lose weight.",
+    "start": "00:29:03",
+    "end": "00:29:11"
+  },
+  {
+    "text": "And then you can join a group that are people that are wanting to bulk up and gain muscle.",
+    "start": "00:29:11",
+    "end": "00:29:15"
+  },
+  {
+    "text": "There's different groups for that.",
+    "start": "00:29:15",
+    "end": "00:29:16"
+  },
+  {
+    "text": "Also like groups that where you can share recipes and meal prep, things like that.",
+    "start": "00:29:16",
+    "end": "00:29:22"
+  },
+  {
+    "text": ">> So, that that's a you're you're sort of like building a social network a little bit.",
+    "start": "00:29:20",
+    "end": "00:29:23"
+  },
+  {
+    "text": "It's this that seems like a a a big product challenge.",
+    "start": "00:29:23",
+    "end": "00:29:28"
+  },
+  {
+    "text": ">> Yeah, I think it's a mixture of like trying to get retention working, but also like product led growth.",
+    "start": "00:29:27",
+    "end": "00:29:33"
+  },
+  {
+    "text": "And so, you'll see like in the other screenshot on the right there was like up being up the upload progress photos.",
+    "start": "00:29:33",
+    "end": "00:29:38"
+  },
+  {
+    "text": "Not only do we get people we get people like to take pictures and they can upload it to like Instagram their Instagram story and show off like how many how much weight did they lose or how much weight did they gain.",
+    "start": "00:29:38",
+    "end": "00:29:50"
+  },
+  {
+    "text": "And so, we get a lot of people like uploading that to social media.",
+    "start": "00:29:48",
+    "end": "00:29:53"
+  },
+  {
+    "text": "We also get a lot of people uploading their actual meals and the calories and like showing that they tracked it with Calia.",
+    "start": "00:29:53",
+    "end": "00:29:58"
+  },
+  {
+    "text": "Another like product led feature for growth was like milestones where you can like get badges for like the number of days you logged in a row.",
+    "start": "00:29:58",
+    "end": "00:30:08"
+  },
+  {
+    "text": "So, say you log like a full year of days every single day, then you can like post that on your story.",
+    "start": "00:30:08",
+    "end": "00:30:14"
+  },
+  {
+    "text": ">> That's cool.",
+    "start": "00:30:13",
+    "end": "00:30:14"
+  },
+  {
+    "text": "So, you're you're you're hoping that people will post that on their Instagram story.",
+    "start": "00:30:14",
+    "end": "00:30:20"
+  },
+  {
+    "text": ">> So, these are like all the all different ideas we've tried.",
+    "start": "00:30:18",
+    "end": "00:30:22"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:30:22",
+    "end": "00:30:23"
+  },
+  {
+    "text": ">> What what is it like working with a team?",
+    "start": "00:30:21",
+    "end": "00:30:24"
+  },
+  {
+    "text": "Like uh I mean, you've you've done a bunch of different things.",
+    "start": "00:30:24",
+    "end": "00:30:27"
+  },
+  {
+    "text": "Like you've been at your own startup, you've been at pretty large companies, um other entrepreneurial things.",
+    "start": "00:30:27",
+    "end": "00:30:35"
+  },
+  {
+    "text": "What is it like like being at a a scrappy like fast-growing startup like Calia.",
+    "start": "00:30:35",
+    "end": "00:30:41"
+  },
+  {
+    "text": "But I say startup, but it's like I don't even know if you would call it a startup.",
+    "start": "00:30:41",
+    "end": "00:30:45"
+  },
+  {
+    "text": "It's like you know, like it's like a you guys are bootstrapped.",
+    "start": "00:30:43",
+    "end": "00:30:48"
+  },
+  {
+    "text": "Um but you seems like you kind of operate like a startup.",
+    "start": "00:30:48",
+    "end": "00:30:52"
+  },
+  {
+    "text": ">> I think that that's what probably the biggest takeaway from Cal-I is the co-founders.",
+    "start": "00:30:50",
+    "end": "00:30:55"
+  },
+  {
+    "text": "They they all talk about like moving with speed and being very fast.",
+    "start": "00:30:55",
+    "end": "00:30:59"
+  },
+  {
+    "text": "It's actually like a lesson I've learned from other teams I've been a part of.",
+    "start": "00:30:59",
+    "end": "00:31:05"
+  },
+  {
+    "text": "I think he said something about how human motivation only lasts like about 2 weeks.",
+    "start": "00:31:05",
+    "end": "00:31:11"
+  },
+  {
+    "text": "So, like if you have like this insight to work on this like new feature, human motivation only lasts for like 2 weeks to work on it and like really full it like finish it.",
+    "start": "00:31:09",
+    "end": "00:31:17"
+  },
+  {
+    "text": "That's another thing I saw like at Robinhood too is like we launched Robinhood Crypto, which like got went really viral when I was there.",
+    "start": "00:31:17",
+    "end": "00:31:27"
+  },
+  {
+    "text": "And that product went from idea to being launched within a matter of a month, which was pretty fast in comparison to like most big companies.",
+    "start": "00:31:24",
+    "end": "00:31:34"
+  },
+  {
+    "text": "And so, I think that's like probably the biggest takeaway is like once you have like a big project where you can get like the whole company to rally behind, I think being able to move fast is a key differentiator.",
+    "start": "00:31:34",
+    "end": "00:31:46"
+  },
+  {
+    "text": ">> I'm curious, what did you do?",
+    "start": "00:31:44",
+    "end": "00:31:47"
+  },
+  {
+    "text": "What was your role in the crypto rollout?",
+    "start": "00:31:47",
+    "end": "00:31:51"
+  },
+  {
+    "text": ">> Yeah, I worked on like the trade flow experience.",
+    "start": "00:31:49",
+    "end": "00:31:52"
+  },
+  {
+    "text": "But like other designers like worked on like the branding here and things like that.",
+    "start": "00:31:52",
+    "end": "00:31:57"
+  },
+  {
+    "text": ">> I I'm curious about Snap, too, cuz I've I've met some designers from Snap, and they're always it's always interesting to meet a designer from Snap.",
+    "start": "00:31:55",
+    "end": "00:32:05"
+  },
+  {
+    "text": "I feel like the the like design org at various parts of Snap is very interesting.",
+    "start": "00:32:05",
+    "end": "00:32:12"
+  },
+  {
+    "text": "And it seems like you were at a pretty interesting role, too, where you building like new platforms and like new things.",
+    "start": "00:32:12",
+    "end": "00:32:21"
+  },
+  {
+    "text": "Did you learn a lot about design from Snap?",
+    "start": "00:32:18",
+    "end": "00:32:25"
+  },
+  {
+    "text": ">> Yeah, I'd say Snapchat is the complete opposite from when I uh spent time at Meta.",
+    "start": "00:32:22",
+    "end": "00:32:29"
+  },
+  {
+    "text": "So, Meta is like very data-driven.",
+    "start": "00:32:29",
+    "end": "00:32:31"
+  },
+  {
+    "text": "Um people think about a lot of AB testing.",
+    "start": "00:32:31",
+    "end": "00:32:33"
+  },
+  {
+    "text": "I mean, I was on the growth team, so it made sense.",
+    "start": "00:32:33",
+    "end": "00:32:37"
+  },
+  {
+    "text": "But at Snap, I'd say it was different being that I think the the company leans a lot more towards like an intuitive feeling on features.",
+    "start": "00:32:37",
+    "end": "00:32:46"
+  },
+  {
+    "text": "So, I mean, they were the team that came up with stories.",
+    "start": "00:32:44",
+    "end": "00:32:47"
+  },
+  {
+    "text": "And so, they think about like the psychology behind features a lot more and like a lot we have like discussions and things like that when working on new features.",
+    "start": "00:32:47",
+    "end": "00:32:56"
+  },
+  {
+    "text": "And the design team at Snap is quite small as well, I think.",
+    "start": "00:32:56",
+    "end": "00:32:58"
+  },
+  {
+    "text": "Even though there's like thousands of employees, I think the core product design team was like only like like 10 or 15 people.",
+    "start": "00:32:58",
+    "end": "00:33:06"
+  },
+  {
+    "text": ">> I feel like that like when people see a really well-designed app, it's just sort of like a I don't know.",
+    "start": "00:33:04",
+    "end": "00:33:12"
+  },
+  {
+    "text": "It's just like this gut feeling where you just know oh, this is like this is well-designed.",
+    "start": "00:33:12",
+    "end": "00:33:18"
+  },
+  {
+    "text": "It just feels good.",
+    "start": "00:33:18",
+    "end": "00:33:18"
+  },
+  {
+    "text": "And I can't Personally, I can't always pinpoint like exactly like what it is it about the app that makes it like well-designed.",
+    "start": "00:33:18",
+    "end": "00:33:27"
+  },
+  {
+    "text": "Sway is definitely one of those apps for me personally.",
+    "start": "00:33:27",
+    "end": "00:33:29"
+  },
+  {
+    "text": "Like I just it just feels well-designed.",
+    "start": "00:33:29",
+    "end": "00:33:32"
+  },
+  {
+    "text": "And then Caly AI, of course, is also well-designed.",
+    "start": "00:33:32",
+    "end": "00:33:36"
+  },
+  {
+    "text": "But, I mean, you can see it in your background.",
+    "start": "00:33:36",
+    "end": "00:33:39"
+  },
+  {
+    "text": "Like Snap, Robinhood, like these are all very like very tasteful like mobile experiences.",
+    "start": "00:33:37",
+    "end": "00:33:44"
+  },
+  {
+    "text": "I want to figure out like what is what's in your brain?",
+    "start": "00:33:44",
+    "end": "00:33:48"
+  },
+  {
+    "text": "Like how do you get like your design taste?",
+    "start": "00:33:48",
+    "end": "00:33:51"
+  },
+  {
+    "text": "Is there And I guess like is there I mean, obviously like it it's just like partly it's like the experience of just spending time with these uh with these companies um and working with them.",
+    "start": "00:33:49",
+    "end": "00:34:04"
+  },
+  {
+    "text": "But, I'm also just curious about like your day-to-day and your like personal philosophy or routines um for spending time with like great design and curating that taste.",
+    "start": "00:34:04",
+    "end": "00:34:15"
+  },
+  {
+    "text": ">> I think trying to have like building like a mood board of things that you think are like great designs.",
+    "start": "00:34:14",
+    "end": "00:34:20"
+  },
+  {
+    "text": "So, like I have I save like all the apps that I think are like really well-designed and will constantly like go back to them and look at them and think about like what makes them much better.",
+    "start": "00:34:20",
+    "end": "00:34:30"
+  },
+  {
+    "text": "And like see how I can like get inspiration from them, but I think like one lesson I actually got from Robinhood when we're working on the Robinhood crypto feature, which is like so long so long ago, but I think still sits with me is how much the team thought about like branding and I mean, I don't think I'm like the like great at branding, but I think like the idea of like being very intentional with coming up with like lots of different variations and I think it helps with growth a lot if you can have a product that looks unique from anything else that exists on the market.",
+    "start": "00:34:30",
+    "end": "00:35:07"
+  },
+  {
+    "text": "P It'll stand out and people will be more curious to try it out.",
+    "start": "00:35:05",
+    "end": "00:35:09"
+  },
+  {
+    "text": "And I think that's what happened with Robinhood crypto is cuz there was a lot of other crypto apps that had existed at the time but nothing had looked quite like this.",
+    "start": "00:35:09",
+    "end": "00:35:18"
+  },
+  {
+    "text": "They were a lot They looked a lot more like, you know, Coinbase is one example or is more of like a banking product, whereas this looks more like a looks like a video game almost.",
+    "start": "00:35:16",
+    "end": "00:35:26"
+  },
+  {
+    "text": "I think being able to think of it like that, like what's going to catch people's attention is a good way to >> thinking about it when it comes to branding.",
+    "start": "00:35:26",
+    "end": "00:35:33"
+  },
+  {
+    "text": ">> Do you use that at all with Calorie Ai?",
+    "start": "00:35:31",
+    "end": "00:35:35"
+  },
+  {
+    "text": "Like There There's some aspects of it where it like doesn't feel like a calorie tracker, you know?",
+    "start": "00:35:33",
+    "end": "00:35:39"
+  },
+  {
+    "text": "It like feels very sleek.",
+    "start": "00:35:39",
+    "end": "00:35:40"
+  },
+  {
+    "text": "The scanner itself you know, is a a a novel feature compared to uh the existing calorie trackers that were out before Calorie Ai existed.",
+    "start": "00:35:40",
+    "end": "00:35:50"
+  },
+  {
+    "text": "But are you are you trying to be like on the edge in in the in the way that you described with Robinhood crypto or are you trying to be more like minimal and not stand out like too much?",
+    "start": "00:35:50",
+    "end": "00:36:04"
+  },
+  {
+    "text": ">> Yeah, I think the way the main thing I'm thinking about like for Calorie Ai is like making sure it's like really simple to understand because the main way that Calorie Ai grows as you know, is like through influencer marketing.",
+    "start": "00:36:03",
+    "end": "00:36:16"
+  },
+  {
+    "text": "And so, the app needs to be like really clear like what's happening.",
+    "start": "00:36:16",
+    "end": "00:36:19"
+  },
+  {
+    "text": "We every single video that influencers post, they show three core screens, which is like the the camera, the loading screen, and the food detail page.",
+    "start": "00:36:19",
+    "end": "00:36:28"
+  },
+  {
+    "text": "If you look at those videos, it needs to be pretty clear like what is the app doing and like how it works.",
+    "start": "00:36:28",
+    "end": "00:36:34"
+  },
+  {
+    "text": "And I think that's like something that we have worked on a lot as well, which is like how do we make that like those three three screens as like easy to understand as possible.",
+    "start": "00:36:34",
+    "end": "00:36:44"
+  },
+  {
+    "text": ">> So, is this the three screens?",
+    "start": "00:36:42",
+    "end": "00:36:46"
+  },
+  {
+    "text": "It's like the scan and then the home page where you see all the calories and then the the logging where you adjust the the numbers.",
+    "start": "00:36:46",
+    "end": "00:36:53"
+  },
+  {
+    "text": ">> Yeah, exactly.",
+    "start": "00:36:51",
+    "end": "00:36:53"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:36:53",
+    "end": "00:36:54"
+  },
+  {
+    "text": ">> Yeah, it is very clear.",
+    "start": "00:36:53",
+    "end": "00:36:55"
+  },
+  {
+    "text": "Is that different than how you approach Sway design?",
+    "start": "00:36:55",
+    "end": "00:36:58"
+  },
+  {
+    "text": ">> Yeah, I mean Sway was different being that we didn't really try and grow with influencers where of them using the app because it just didn't really make sense.",
+    "start": "00:36:57",
+    "end": "00:37:07"
+  },
+  {
+    "text": "But with Calorie Ai, it was people need to show themselves using using the app.",
+    "start": "00:37:05",
+    "end": "00:37:11"
+  },
+  {
+    "text": "It's actually like if I were to like work on like a new app idea, it's kind of how I would think about it as well is the app idea needs to be really easy to understand on social media.",
+    "start": "00:37:10",
+    "end": "00:37:19"
+  },
+  {
+    "text": "I know there's like a few things that makes up a good app idea which I've been like trying to like piece together from looking at Calorie Ai, I think from the product side, I think it comes down to being like simple and easy to understand in marketing videos.",
+    "start": "00:37:19",
+    "end": "00:37:32"
+  },
+  {
+    "text": "Then another piece is working on a novel app idea.",
+    "start": "00:37:32",
+    "end": "00:37:36"
+  },
+  {
+    "text": "So, I think like with Calorie Ai, it was taking a picture and counting the calories.",
+    "start": "00:37:34",
+    "end": "00:37:38"
+  },
+  {
+    "text": "It's like very unique and there's no other app at that at that time that was really doing that at a large scale.",
+    "start": "00:37:38",
+    "end": "00:37:43"
+  },
+  {
+    "text": "And I think that helps with like fast growth is like these novel ideas.",
+    "start": "00:37:43",
+    "end": "00:37:47"
+  },
+  {
+    "text": "And then I think the apps that will sustain and have durable growth over time like, you know, the scale that Calorie Ai is at now is if it's in a big market.",
+    "start": "00:37:47",
+    "end": "00:37:57"
+  },
+  {
+    "text": "And so, calorie tracking's in such a big market now.",
+    "start": "00:37:57",
+    "end": "00:37:59"
+  },
+  {
+    "text": "Like calorie tracking like MyFitnessPal is a massive company and so, I think if you can come up with an idea that has those aspects of being a novel idea, like easy to understand, and in a big market, I think those are like good ways of thinking about it.",
+    "start": "00:37:59",
+    "end": "00:38:15"
+  },
+  {
+    "text": ">> Do you think as like for for new apps, do you think it's better to look in categories that don't have as much innovation or go for categories that already have a bunch of new startups trying to tackle like the same innovation.",
+    "start": "00:38:14",
+    "end": "00:38:29"
+  },
+  {
+    "text": "Like for example, like you know, calorie tracking was a pretty old space.",
+    "start": "00:38:29",
+    "end": "00:38:33"
+  },
+  {
+    "text": "Like nobody was really in it or like no new people were really in it until Calia.",
+    "start": "00:38:33",
+    "end": "00:38:38"
+  },
+  {
+    "text": "Versus something like AI therapy is like everyone's just like buzzing an app for AI therapy and like trying to tackle that because it's just inherently like a novel experience.",
+    "start": "00:38:38",
+    "end": "00:38:49"
+  },
+  {
+    "text": "Do you have a preference for what types of markets you would want to enter?",
+    "start": "00:38:49",
+    "end": "00:38:53"
+  },
+  {
+    "text": ">> Yeah, that's a good question.",
+    "start": "00:38:52",
+    "end": "00:38:55"
+  },
+  {
+    "text": "I think the benefit of going with a a market that's already established is you know it's a problem that people want solved.",
+    "start": "00:38:55",
+    "end": "00:39:00"
+  },
+  {
+    "text": "Whereas if you go into AI like AI therapy idea, like you don't know whether people are actually going to want this problem solved.",
+    "start": "00:39:00",
+    "end": "00:39:08"
+  },
+  {
+    "text": "But if you have anecdotal evidence of like another big app, I think that's a helpful indicator that this is something that people will want.",
+    "start": "00:39:08",
+    "end": "00:39:15"
+  },
+  {
+    "text": "And then applying a novel idea in that existing niche that's already really popular, I think that's probably like the better way of testing new ideas as opposed to completely doing like blank slate, like having no idea whether one, the novel solution is correct and two, whether people actually want that problem solved.",
+    "start": "00:39:15",
+    "end": "00:39:31"
+  },
+  {
+    "text": "It's like you're solving too many variables at that point.",
+    "start": "00:39:31",
+    "end": "00:39:35"
+  },
+  {
+    "text": ">> I mean, I I want to do a thought exercise based on what you just said about or what you would say a little bit earlier about how to think about like your your framework for novelty, which is you look at the biggest apps in a certain category and then you think about what is the thing that people dislike about it the most and then just make that your idea.",
+    "start": "00:39:33",
+    "end": "00:39:55"
+  },
+  {
+    "text": "And let's just use like the therapy example.",
+    "start": "00:39:55",
+    "end": "00:39:58"
+  },
+  {
+    "text": "Like this is I found this recently.",
+    "start": "00:39:58",
+    "end": "00:40:00"
+  },
+  {
+    "text": "They're running a ton of Facebook ads and they're absolutely printing on Sensor Tower, they're making 800k a month plus 200k a month from Android.",
+    "start": "00:40:00",
+    "end": "00:40:12"
+  },
+  {
+    "text": "It's like a mill a month.",
+    "start": "00:40:12",
+    "end": "00:40:15"
+  },
+  {
+    "text": "I don't know what the margin is, but I mean, they're running a lot of Facebook ads.",
+    "start": "00:40:15",
+    "end": "00:40:19"
+  },
+  {
+    "text": "But, anyway, I think the the kind of like mood tracking / kind of like introspection and therapy self-development space is seems to be growing and there's a a couple of apps and like I don't know, ask any person in your real life, like have you heard of this app?",
+    "start": "00:40:17",
+    "end": "00:40:36"
+  },
+  {
+    "text": "They probably will say no.",
+    "start": "00:40:36",
+    "end": "00:40:39"
+  },
+  {
+    "text": "So, it's not quite it hasn't reached like full mainstream yet, but I feel like it's growing pretty fast.",
+    "start": "00:40:39",
+    "end": "00:40:43"
+  },
+  {
+    "text": "Do you have any intuition around what you think could be like the the problems with the space or like what people would dislike the most about it?",
+    "start": "00:40:43",
+    "end": "00:40:54"
+  },
+  {
+    "text": ">> Yeah, I think I mean, the way I think about it is I feel like it's probably less about the idea here specifically and more about what they're doing with marketing.",
+    "start": "00:40:53",
+    "end": "00:41:01"
+  },
+  {
+    "text": "There actually might like if you think if you look into their marketing, I'd assume there's probably uh a niche on social media that they're tapping into that's like really big.",
+    "start": "00:41:01",
+    "end": "00:41:12"
+  },
+  {
+    "text": "So, say like for Calia, like there's so many fitness influencers that are posting videos.",
+    "start": "00:41:12",
+    "end": "00:41:15"
+  },
+  {
+    "text": "Another popular niche on social media is like motivation niche.",
+    "start": "00:41:15",
+    "end": "00:41:20"
+  },
+  {
+    "text": "So, I could see like apps being built there.",
+    "start": "00:41:20",
+    "end": "00:41:23"
+  },
+  {
+    "text": "A lot of them like inspirational videos that I see going viral online.",
+    "start": "00:41:23",
+    "end": "00:41:25"
+  },
+  {
+    "text": "I don't know, things like that.",
+    "start": "00:41:25",
+    "end": "00:41:26"
+  },
+  {
+    "text": "I think if you can find like a content niche that's very viral online and you can plug the app into it, I think those are also good ideas that you don't need like an existing apps to validate it, right?",
+    "start": "00:41:26",
+    "end": "00:41:36"
+  },
+  {
+    "text": "As long as it's like a big content niche on social media.",
+    "start": "00:41:36",
+    "end": "00:41:40"
+  },
+  {
+    "text": ">> You suspect that this app is doing really well not because of the app idea, but because there there's a there's like a cultural movement or like a a trend content-wise that they're tapping into and this just happens to be the solution.",
+    "start": "00:41:38",
+    "end": "00:41:56"
+  },
+  {
+    "text": ">> Another app is Astra that this app kind of reminds me of.",
+    "start": "00:41:54",
+    "end": "00:41:58"
+  },
+  {
+    "text": "If you look on social media, like people talking about their horoscopes is such a popular content niche on at least on TikTok and they tapped into that even though I don't think there's like a ton of apps that do well in this category, but these guys were like doing quite well at least last year.",
+    "start": "00:41:58",
+    "end": "00:42:14"
+  },
+  {
+    "text": "So, I mean the way they did here is like the soulmate idea where you can see like a picture of your soulmate in the background.",
+    "start": "00:42:14",
+    "end": "00:42:21"
+  },
+  {
+    "text": "And that was like their And the soulmate's something that's like gone viral multiple times with different apps before.",
+    "start": "00:42:21",
+    "end": "00:42:26"
+  },
+  {
+    "text": "And so, it's like it's not really a new idea, but they're like framing it as one.",
+    "start": "00:42:26",
+    "end": "00:42:30"
+  },
+  {
+    "text": "So.",
+    "start": "00:42:30",
+    "end": "00:42:31"
+  },
+  {
+    "text": ">> This doesn't quite apply to Cal AI.",
+    "start": "00:42:29",
+    "end": "00:42:32"
+  },
+  {
+    "text": "I mean, it does apply to Cal AI actually.",
+    "start": "00:42:32",
+    "end": "00:42:34"
+  },
+  {
+    "text": "But the thing is with Cal AI it's just such a broad solution that it can solve a lot of different problems.",
+    "start": "00:42:34",
+    "end": "00:42:40"
+  },
+  {
+    "text": "So, like there might be a a problem that's really popular on social media like a very specific type of strength training or whatever like science-based lifting or whatever.",
+    "start": "00:42:38",
+    "end": "00:42:48"
+  },
+  {
+    "text": "And then it's going viral on social media and then you can plug Cal AI into that content niche as a solution.",
+    "start": "00:42:48",
+    "end": "00:42:56"
+  },
+  {
+    "text": "And it's not it's not so much that you're like creating a product around the niche, but you're just like if you have a broad enough niche, you can you can tap into different demographics or psychographics, I guess.",
+    "start": "00:42:56",
+    "end": "00:43:07"
+  },
+  {
+    "text": ">> I I think the other way that Cal AI thinks about it is like how many influencers are there in the niche that can promote the video or that can promote the product in their videos.",
+    "start": "00:43:06",
+    "end": "00:43:16"
+  },
+  {
+    "text": "And then how expensive are those influencers?",
+    "start": "00:43:15",
+    "end": "00:43:17"
+  },
+  {
+    "text": "With Cal AI there's just so many fitness influencers and they're also like not super they're like reasonably priced as opposed to like say you go into like the beauty niche where they're getting brand deals from these makeup companies.",
+    "start": "00:43:17",
+    "end": "00:43:29"
+  },
+  {
+    "text": "I think that's like a tough niche to like come up with like a female looks maxing app and you're trying to promote it through these people who are getting brand deals from like makeup companies because they have such big margins, but yeah, trying to find those niches where you can like distribute on social media where the people are creating the videos like aren't so expensive and there's a lot of them.",
+    "start": "00:43:29",
+    "end": "00:43:50"
+  },
+  {
+    "text": ">> On on the topic of like new you know, new app founders um and ideas, are there any interesting niches in general today that you're that you've been looking at that you feel like are there there could be a some interesting ideas that live within those niches?",
+    "start": "00:43:48",
+    "end": "00:44:06"
+  },
+  {
+    "text": ">> Yeah, I think there's so many it's hard to like just pick one.",
+    "start": "00:44:04",
+    "end": "00:44:08"
+  },
+  {
+    "text": "Before I join Cali AI, I can even show you like some designs of like apps that I was exploring.",
+    "start": "00:44:08",
+    "end": "00:44:13"
+  },
+  {
+    "text": "There's ways you could do it where it's like you do the influencer route where you do what Cali AI did is just find like a big niche and a big product and then try and get all the influencers to promote it.",
+    "start": "00:44:13",
+    "end": "00:44:29"
+  },
+  {
+    "text": "Or I think what's a more interesting like thought experiment which I haven't seen many other company or many other app founders do is kind of like do the opposite where you build a lot of apps, but then you also like work with like individual influencers who are really big promote their app.",
+    "start": "00:44:26",
+    "end": "00:44:42"
+  },
+  {
+    "text": "And so that's something that like I was like working on exploring as well before joining Cali AI is like what if you approach like the biggest YouTubers and the biggest people on Instagram and give them equity in your company.",
+    "start": "00:44:42",
+    "end": "00:44:56"
+  },
+  {
+    "text": "But nowadays with like five coding you can build an app and so quickly now.",
+    "start": "00:44:56",
+    "end": "00:45:00"
+  },
+  {
+    "text": "And so you can just turn out apps and then work with these big influencers who who can promote it themselves and feel like they have ownership in it.",
+    "start": "00:45:00",
+    "end": "00:45:06"
+  },
+  {
+    "text": "And so that's another strategy of doing it.",
+    "start": "00:45:06",
+    "end": "00:45:08"
+  },
+  {
+    "text": "So I can share some like of the apps I was exploring previously.",
+    "start": "00:45:08",
+    "end": "00:45:12"
+  },
+  {
+    "text": "So this is one I was was exploring recently.",
+    "start": "00:45:12",
+    "end": "00:45:15"
+  },
+  {
+    "text": "It was like a sleep tracking app.",
+    "start": "00:45:15",
+    "end": "00:45:17"
+  },
+  {
+    "text": "Um there's a lot of apps on the App Store that do sleep sounds as well as like sleep alarms and there's apps like Opal that will block your apps at bedtime.",
+    "start": "00:45:17",
+    "end": "00:45:28"
+  },
+  {
+    "text": "There's that I mean this is at the time when I wasn't really thinking about like coming up with a novel idea.",
+    "start": "00:45:28",
+    "end": "00:45:35"
+  },
+  {
+    "text": "I think if you have the right distribution network, I think like any of any of these ideas could work.",
+    "start": "00:45:35",
+    "end": "00:45:39"
+  },
+  {
+    "text": "Um like language learning where you're like going after Duolingo could be interesting.",
+    "start": "00:45:39",
+    "end": "00:45:44"
+  },
+  {
+    "text": "Like a workout app could be interesting.",
+    "start": "00:45:44",
+    "end": "00:45:47"
+  },
+  {
+    "text": "I was exploring a lot of different app niches before this.",
+    "start": "00:45:47",
+    "end": "00:45:51"
+  },
+  {
+    "text": "Um like the plant identifier app.",
+    "start": "00:45:49",
+    "end": "00:45:52"
+  },
+  {
+    "text": ">> many niches.",
+    "start": "00:45:51",
+    "end": "00:45:53"
+  },
+  {
+    "text": "Wow.",
+    "start": "00:45:53",
+    "end": "00:45:54"
+  },
+  {
+    "text": ">> Yeah, we're exploring like a lot of them and the idea was if you just turn out a ton of different apps and get influencers to promote it themselves and feel like they have ownership on it.",
+    "start": "00:45:52",
+    "end": "00:46:05"
+  },
+  {
+    "text": "Individually, you can just build so many of these different apps and get people to promote it and you just work on the next app as they're promoting it if that makes sense.",
+    "start": "00:46:03",
+    "end": "00:46:15"
+  },
+  {
+    "text": ">> What would What would your approach be in approaching these influencers?",
+    "start": "00:46:13",
+    "end": "00:46:18"
+  },
+  {
+    "text": "Like the big ones and you want to give them equity.",
+    "start": "00:46:18",
+    "end": "00:46:20"
+  },
+  {
+    "text": "Is it just like spray and pray or would you just like hunt them down until they respond to you?",
+    "start": "00:46:20",
+    "end": "00:46:25"
+  },
+  {
+    "text": "Like how What would your Would you Would you have a strategy in like trying to close a deal with one of these bigger influencers?",
+    "start": "00:46:25",
+    "end": "00:46:33"
+  },
+  {
+    "text": ">> Well, the guys that I was working with before, they had like a connection with a talent agency and so they had connections with these influencers who could connect us with those like big guys that have like millions of followers.",
+    "start": "00:46:32",
+    "end": "00:46:46"
+  },
+  {
+    "text": "And then that talent agency would get a cut of the equity as well.",
+    "start": "00:46:44",
+    "end": "00:46:49"
+  },
+  {
+    "text": "And another probably just as good option is just do the spray and pray.",
+    "start": "00:46:49",
+    "end": "00:46:53"
+  },
+  {
+    "text": ">> What do you think about distribution these days?",
+    "start": "00:46:51",
+    "end": "00:46:54"
+  },
+  {
+    "text": "I know you're on the product side, but I'm sure you've like you've been like super embedded in these teams.",
+    "start": "00:46:54",
+    "end": "00:47:00"
+  },
+  {
+    "text": "Like do you think that is there certain growth strategies that are dying out?",
+    "start": "00:46:58",
+    "end": "00:47:04"
+  },
+  {
+    "text": "Are there any ones that are that you're paying attention to that are coming up?",
+    "start": "00:47:02",
+    "end": "00:47:08"
+  },
+  {
+    "text": ">> I think influencers is a pretty cool niche.",
+    "start": "00:47:06",
+    "end": "00:47:08"
+  },
+  {
+    "text": "I mean, Cali AI has proven that out.",
+    "start": "00:47:08",
+    "end": "00:47:10"
+  },
+  {
+    "text": "What you'll notice if you look at other apps on the App Store is all the apps that have done just primarily UGC or primarily done what we did with Sway, which is like the slideshows or the create your own content, it's harder to scale, right?",
+    "start": "00:47:10",
+    "end": "00:47:24"
+  },
+  {
+    "text": "You can only create as much content as you can push out yourself as opposed to doing influencers, you can just keep stacking up influencers to create posting videos and then you're also The key with influencers you have a guaranteed views.",
+    "start": "00:47:24",
+    "end": "00:47:39"
+  },
+  {
+    "text": "As opposed to doing UGC, you're hoping and praying that you get a month where you go viral.",
+    "start": "00:47:36",
+    "end": "00:47:42"
+  },
+  {
+    "text": "And so it's less consistent.",
+    "start": "00:47:42",
+    "end": "00:47:43"
+  },
+  {
+    "text": "I think I mean, paid ads also is when Cali AI took had it like a big inflection point is when we started like really ramping up on paid ads.",
+    "start": "00:47:43",
+    "end": "00:47:51"
+  },
+  {
+    "text": "The same as the app I was working on before.",
+    "start": "00:47:51",
+    "end": "00:47:53"
+  },
+  {
+    "text": "It's like once we started doing paid ads is when it really started scaling.",
+    "start": "00:47:51",
+    "end": "00:47:56"
+  },
+  {
+    "text": "And so I mean, if you can get paid ads to work, it's the best option, but it's also kind of hard to do, right?",
+    "start": "00:47:56",
+    "end": "00:48:01"
+  },
+  {
+    "text": ">> I get your point about organic.",
+    "start": "00:48:00",
+    "end": "00:48:03"
+  },
+  {
+    "text": "Like, you if you're if you're the one posting your own videos, you're limited by how much you can post and how many accounts you can create.",
+    "start": "00:48:03",
+    "end": "00:48:09"
+  },
+  {
+    "text": "And that's why people will create like all these other accounts.",
+    "start": "00:48:09",
+    "end": "00:48:12"
+  },
+  {
+    "text": "Um but if your content strategy is is not fresh across every account, then you're you saturate your your own format like pretty quickly compared to like influencers.",
+    "start": "00:48:11",
+    "end": "00:48:23"
+  },
+  {
+    "text": "They have all these built-in audiences.",
+    "start": "00:48:23",
+    "end": "00:48:27"
+  },
+  {
+    "text": "Um so if you're building a a new app today, would you just go straight to influencers?",
+    "start": "00:48:25",
+    "end": "00:48:30"
+  },
+  {
+    "text": ">> I think influencers are a great way of testing the idea really quickly.",
+    "start": "00:48:29",
+    "end": "00:48:35"
+  },
+  {
+    "text": "Cuz with influencers, you're testing one variable is whether you're getting downloads and whether you can like people are going to pay for it.",
+    "start": "00:48:33",
+    "end": "00:48:41"
+  },
+  {
+    "text": "Whereas with UGC, you're testing whether you can go viral and whether people are going to pay for it.",
+    "start": "00:48:41",
+    "end": "00:48:45"
+  },
+  {
+    "text": "You're testing multiple variables at a time.",
+    "start": "00:48:45",
+    "end": "00:48:48"
+  },
+  {
+    "text": "It also takes more time to go viral, right?",
+    "start": "00:48:48",
+    "end": "00:48:50"
+  },
+  {
+    "text": "You have to keep posting until you start getting views.",
+    "start": "00:48:50",
+    "end": "00:48:51"
+  },
+  {
+    "text": "I think influencers are a great way of testing out an idea nowadays, but there's only a certain Like, I don't think all ideas work with influencers.",
+    "start": "00:48:51",
+    "end": "00:48:58"
+  },
+  {
+    "text": ">> Yeah, last thing I wanted to ask you about is just Cal-A I acquisition.",
+    "start": "00:48:57",
+    "end": "00:49:04"
+  },
+  {
+    "text": "So you guys got acquired by MyFitnessPal in the past week or so.",
+    "start": "00:49:04",
+    "end": "00:49:07"
+  },
+  {
+    "text": "What what was that like internally for you?",
+    "start": "00:49:07",
+    "end": "00:49:11"
+  },
+  {
+    "text": ">> We're we're staying the same pretty much at this point.",
+    "start": "00:49:09",
+    "end": "00:49:13"
+  },
+  {
+    "text": "The teams are um still working as usual.",
+    "start": "00:49:13",
+    "end": "00:49:16"
+  },
+  {
+    "text": "Um the apps are going to be living as like separate products, and so I don't think much will change.",
+    "start": "00:49:16",
+    "end": "00:49:21"
+  },
+  {
+    "text": ">> Was it like a big moment for you guys like um within the team?",
+    "start": "00:49:19",
+    "end": "00:49:23"
+  },
+  {
+    "text": "I know it's probably been at like a a couple months cuz you were not allowed like able to announce it until a couple months later, right?",
+    "start": "00:49:23",
+    "end": "00:49:30"
+  },
+  {
+    "text": "I think Zach said the the the sale actually closed in December or or so.",
+    "start": "00:49:30",
+    "end": "00:49:34"
+  },
+  {
+    "text": "Um but was that like a milestone feeling for you?",
+    "start": "00:49:34",
+    "end": "00:49:39"
+  },
+  {
+    "text": "Cuz also like in your career, you've done a lot of like you've worked at a lot of companies, and then you started your own, and then, you know, you join a team.",
+    "start": "00:49:39",
+    "end": "00:49:49"
+  },
+  {
+    "text": "I guess that How did How did it feel to like be be inside Cal-A I as it's getting acquired?",
+    "start": "00:49:49",
+    "end": "00:49:54"
+  },
+  {
+    "text": ">> Yeah, I think it was crazy for the fact that I think we as a team had looked at MyFitnessPal as being like untouchable and like being this app that is so big, there's no way we can get to that point.",
+    "start": "00:49:52",
+    "end": "00:50:05"
+  },
+  {
+    "text": "I think it was cool validation for the co-founders just to like see that what they were able to create in a short period of time.",
+    "start": "00:50:03",
+    "end": "00:50:10"
+  },
+  {
+    "text": "I think they they had they started the company only like 2 years ago or a little bit less than that.",
+    "start": "00:50:10",
+    "end": "00:50:17"
+  },
+  {
+    "text": ">> It is pretty insane.",
+    "start": "00:50:14",
+    "end": "00:50:17"
+  },
+  {
+    "text": "I remember Zach talking about MyFitnessPal as the big giant beast and Cali's eyes kind of like going up against them and yeah, it's a it is it's a pretty crazy moment for this whole industry seeing that fully bootstrapped team just started by 17-year-old kids getting acquired by this huge app.",
+    "start": "00:50:17",
+    "end": "00:50:38"
+  },
+  {
+    "text": ">> You know, it was only a few months ago when people were dogging on AI rappers.",
+    "start": "00:50:36",
+    "end": "00:50:42"
+  },
+  {
+    "text": "Like I think this is only like a couple months ago, right?",
+    "start": "00:50:42",
+    "end": "00:50:44"
+  },
+  {
+    "text": "Like probably 2025.",
+    "start": "00:50:43",
+    "end": "00:50:46"
+  },
+  {
+    "text": "People were talking about how AI rappers are there's no value in it.",
+    "start": "00:50:46",
+    "end": "00:50:51"
+  },
+  {
+    "text": ">> That's so funny.",
+    "start": "00:50:49",
+    "end": "00:50:52"
+  },
+  {
+    "text": "Yeah, I feel like the biggest Yeah, like the biggest uh companies and acquisitions right now are are like what you would call AI rappers like us.",
+    "start": "00:50:51",
+    "end": "00:51:01"
+  },
+  {
+    "text": "What's what's next for you?",
+    "start": "00:50:58",
+    "end": "00:51:02"
+  },
+  {
+    "text": "Um I mean, you're still at Cali.",
+    "start": "00:51:02",
+    "end": "00:51:03"
+  },
+  {
+    "text": "ai.",
+    "start": "00:51:03",
+    "end": "00:51:03"
+  },
+  {
+    "text": "Um but yeah, what's next for you and I guess like where where can people find you?",
+    "start": "00:51:03",
+    "end": "00:51:09"
+  },
+  {
+    "text": ">> Yeah, at Cali.",
+    "start": "00:51:07",
+    "end": "00:51:08"
+  },
+  {
+    "text": "ai.",
+    "start": "00:51:08",
+    "end": "00:51:09"
+  },
+  {
+    "text": "Um I think there's a long way to go with Cali.",
+    "start": "00:51:09",
+    "end": "00:51:11"
+  },
+  {
+    "text": "ai in terms of growth.",
+    "start": "00:51:11",
+    "end": "00:51:12"
+  },
+  {
+    "text": "But yeah, also always interested in like new app ideas or new apps.",
+    "start": "00:51:12",
+    "end": "00:51:17"
+  },
+  {
+    "text": "Down to chat with anyone if they want to reach out.",
+    "start": "00:51:17",
+    "end": "00:51:18"
+  },
+  {
+    "text": "There's LinkedIn or X.",
+    "start": "00:51:18",
+    "end": "00:51:20"
+  },
+  {
+    "text": ">> You want?",
+    "start": "00:51:19",
+    "end": "00:51:22"
+  },
+  {
+    "text": ">> Thanks so much, Daniel.",
+    "start": "00:51:20",
+    "end": "00:51:21"
+  },
+  {
+    "text": "It was great to hear your story.",
+    "start": "00:51:21",
+    "end": "00:51:24"
+  },
+  {
+    "text": ">> Cool, man.",
+    "start": "00:51:22",
+    "end": "00:51:23"
+  },
+  {
+    "text": "Yeah, I appreciate it.",
+    "start": "00:51:23",
+    "end": "00:51:24"
+  },
+  {
+    "text": "It was awesome.",
+    "start": "00:51:24",
+    "end": "00:51:27"
+  },
+  {
+    "text": ">> Something you might not know, most of the founders I cover on this podcast are hanging out right now in the Consumer Club Discord sharing with each other what's working now for consumer apps.",
+    "start": "00:51:25",
+    "end": "00:51:35"
+  },
+  {
+    "text": "So you can apply to join Consumer Club if that sounds interesting to you.",
+    "start": "00:51:35",
+    "end": "00:51:38"
+  },
+  {
+    "text": "And this is the Superwall podcast.",
+    "start": "00:51:38",
+    "end": "00:51:39"
+  },
+  {
+    "text": "Of course, you got to check out superwall.",
+    "start": "00:51:39",
+    "end": "00:51:41"
+  },
+  {
+    "text": "com.",
+    "start": "00:51:41",
+    "end": "00:51:42"
+  },
+  {
+    "text": "We have more videos on the channel.",
+    "start": "00:51:42",
+    "end": "00:51:43"
+  },
+  {
+    "text": "So dig into those to learn from app founders who are willing to share super tactical stuff about app growth.",
+    "start": "00:51:43",
+    "end": "00:51:49"
+  }
+]

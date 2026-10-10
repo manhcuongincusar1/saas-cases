@@ -1,0 +1,130 @@
+{
+ "f": "2026-08-22_he-built-100-apps-and-made-0-can-he-fix-it-in-30-day",
+ "vid": "AoE1yX9ogCM",
+ "segments": [
+  {
+   "s": "00:48",
+   "e": "01:20",
+   "nut": ["3.B8"],
+   "tom": "Product designer từng làm cho Nike và Samsung, tự thách thức build 100 app trong 60 ngày và ra được 72 cái — rồi đứng hình, không biết làm gì tiếp và không thu về đồng doanh thu nào.",
+   "kq": "72 app trong 60 ngày, $0 doanh thu"
+  },
+  {
+   "s": "02:09",
+   "e": "02:41",
+   "nut": ["3.B8"],
+   "tom": "Pat chẩn đoán vấn đề không nằm ở sản phẩm mà ở chứng nghiện build, shiny object syndrome và sợ bị từ chối; kê đơn cai hẳn 30 ngày — không feature mới, không dự án mới — và đặt mục tiêu $1.000 doanh thu."
+  },
+  {
+   "s": "02:41",
+   "e": "02:56",
+   "nut": ["3.2", "4.11"],
+   "tom": "Hai điều không thương lượng: mỗi ngày 2 cuộc nói chuyện với khách qua điện thoại hoặc gặp mặt — một cuộc 15 phút đáng giá hơn cả 70 app — và mỗi ngày 1 bài trên đúng MỘT nền tảng, ghi lại hành trình."
+  },
+  {
+   "s": "05:02",
+   "e": "05:38",
+   "nut": ["4.B1"],
+   "tom": "30 ngày đầu không chọn nổi kênh nên rải khắp nơi: X, LinkedIn, Reddit, YouTube — và gần như không thu được gì; X im lặng, còn Reddit ngốn công nuôi, phải hữu ích và không được quảng cáo sản phẩm."
+  },
+  {
+   "s": "05:38",
+   "e": "06:10",
+   "nut": ["2.0"],
+   "tom": "Phần gọi khách gãy vì anh không có một mối quan hệ nào trong giới content creation: mở được vài cuộc nhưng không rút ra insight đáng kể, cả 30 ngày chỉ bán được đúng một người gói attn.design $99.",
+   "kq": "$99 sau 30 ngày đầu"
+  },
+  {
+   "s": "06:10",
+   "e": "06:53",
+   "nut": ["?"],
+   "moi": "Chấm 30 ngày đầu bằng tín hiệu, không bằng doanh thu",
+   "tom": "Hết 30 ngày đầu coi như hỏng về doanh thu, nhưng anh đã vào guồng làm content — thứ Pat gọi là tín hiệu: trong khung 30 ngày đừng chấm bằng doanh thu mà chấm bằng tín hiệu sẽ dẫn tới doanh thu."
+  },
+  {
+   "s": "06:53",
+   "e": "07:42",
+   "nut": ["4.10", "4.9"],
+   "tom": "Tín hiệu chỉ về LinkedIn nên anh bê format vlog vốn phổ biến trên YouTube sang đó: LinkedIn đầy video launch và phỏng vấn chuyên gia nhưng không có vlog, nên tạo được pattern break và post video bắt đầu ăn impression."
+  },
+  {
+   "s": "07:42",
+   "e": "07:57",
+   "nut": ["2.9", "2.0"],
+   "tom": "Reframe khách: anh đang nhắm sai người. Trên LinkedIn đầy người giống anh — chuyên gia lâu năm muốn xây personal brand nhưng không biết làm content hay video — nên anh thu hẹp đúng vào nhóm đó."
+  },
+  {
+   "s": "08:08",
+   "e": "08:43",
+   "nut": ["?"],
+   "moi": "Đọc khả năng chi trả từ chân dung người bấm link",
+   "tom": "Content chủ yếu dạng editorial kiểu 'cách bọn tôi làm việc'; 250 lượt bấm link, phần lớn là professional ở các thành phố chi tiêu cao — founder, co-founder, product manager — tức nhóm sẵn sàng trả tiền."
+  },
+  {
+   "s": "08:58",
+   "e": "09:32",
+   "nut": ["4.14", "3.2"],
+   "tom": "Khi đã có người quan tâm thì cold outreach; ai chịu nói chuyện thì anh làm mockup miễn phí cho riêng họ, gửi demo cá nhân hoá cả nền tảng và lấy feedback sản phẩm từ chính các editor có thể thành khách."
+  },
+  {
+   "s": "09:42",
+   "e": "10:05",
+   "nut": ["?"],
+   "moi": "Sản phẩm cửa ngõ bản free dẫn sang gói trả tiền",
+   "tom": "Sau 60 ngày tổng doanh thu $6.500. attn.design đóng vai cửa ngõ: bản free để lấy cảm hứng và học, còn gói pro $99 hiện có 5 khách trả tiền.",
+   "kq": "$6.500 sau 60 ngày"
+  },
+  {
+   "s": "10:05",
+   "e": "10:33",
+   "nut": ["?"],
+   "moi": "Gói agency giá cao cho nhóm khách không nằm trong dự tính",
+   "tom": "ViewMagnet — sản phẩm anh không kỳ vọng — mới thành ngôi sao khi các agency phát hiện dùng được nó để quản nhiều creator cùng lúc, quản lead magnet, offer và xem analytics, nên chịu mua gói giá cao hơn."
+  },
+  {
+   "s": "10:33",
+   "e": "11:09",
+   "nut": ["?"],
+   "moi": "Giai đoạn rải bừa là học phí để tìm đúng kênh",
+   "tom": "Phần lớn doanh thu rơi vào nửa sau của 30 ngày cuối; và chính giai đoạn rải bừa X, Reddit ở 30 ngày đầu mới là học phí giúp anh crack được LinkedIn — bỏ ở tháng đầu là mất luôn kết quả."
+  },
+  {
+   "s": "11:19",
+   "e": "11:36",
+   "nut": ["2.0", "2.1"],
+   "tom": "Bài học 1: phải sống trong chính vấn đề mình giải; đứng ngoài thì rất khó hiểu cảm xúc của khách và không biết cái gì mới khiến họ móc ví — đúng chỗ anh gãy trong 30 ngày đầu."
+  },
+  {
+   "s": "11:36",
+   "e": "12:08",
+   "nut": ["4.9"],
+   "tom": "Bài học 2: bắt đầu ở nơi mình đã có network. Anh thử một loạt nền tảng vì nghe nói ngon, cuối cùng quay về LinkedIn — chỗ đã dựa vào suốt sự nghiệp và có sẵn uy tín — và đó mới là nơi ra tín hiệu."
+  },
+  {
+   "s": "12:08",
+   "e": "12:39",
+   "nut": ["?"],
+   "moi": "Chỉnh positioning theo giai đoạn khách đang đứng",
+   "tom": "Bài học 3: gặp khách ở đúng chỗ họ đang đứng. Positioning đổi từ 'thư viện attention cho YouTuber' sang nói thẳng về LinkedIn — nơi chuyên gia bắt đầu thành creator — vì không phải ai cũng cùng giai đoạn với anh."
+  },
+  {
+   "s": "12:39",
+   "e": "12:53",
+   "nut": ["?"],
+   "moi": "Video vừa là kênh tiếp cận vừa là bằng chứng sản phẩm chạy",
+   "tom": "Bài học 4: video là ngôn ngữ của internet và mọi nền tảng đang ưu tiên nó; muốn chạm tới nhóm sẽ mua thì video vừa là cách tiếp cận vừa là cách chứng minh sản phẩm chạy thật."
+  }
+ ],
+ "bo_qua": [
+  {
+   "s": "03:50",
+   "e": "04:48",
+   "ly_do": "quảng bá database 100 ý tưởng side project của Starter Story"
+  },
+  {
+   "s": "13:24",
+   "e": "13:39",
+   "ly_do": "kêu gọi đăng ký tham gia Starter Story challenge"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "f": "2024-01-13_the-1-8m-solopreneur-playbook",
+ "vid": "vedkm3ZmHIE",
+ "segments": [
+  {
+   "s": "00:57",
+   "e": "01:59",
+   "nut": ["2.6"],
+   "tom": "Brett đang làm graphic designer 9-5 (landing page, logo, brand) thì tình cờ thấy một website bán 'unlimited graphic design' theo phí subscription cố định thay vì tính theo dự án hay theo giờ — và bên đó có cả mặt bằng lẫn nhân viên nên rõ ràng đang ăn. Anh sao chép đúng mô hình nhưng lược sạch: khách mua thẳng trên web không cần sales call, và anh tự làm một mình như side project. 12 tiếng và $29 để dựng một landing page đơn giản đặt tên DesignJoy",
+   "kq": "khách trả tiền đầu tiên trong vòng 24 giờ, chi phí khởi động $29"
+  },
+  {
+   "s": "01:59",
+   "e": "03:20",
+   "nut": ["?"],
+   "moi": "Cố tình định giá thấp vô lý để có khách đầu tiên trong 24 giờ",
+   "tom": "Bước một trong playbook: anh cố tình bán rẻ đến mức vô lý — $449/tháng cho không giới hạn yêu cầu thiết kế — và có khách trả tiền trong chưa tới 24 giờ, trong khi phần lớn người khác mất hàng tháng để có khách đầu và bỏ cuộc trước đó. Mức giá ấy không scale được, nhưng đổi lại anh có tốc độ và đà, đồng thời gạt cái tôi sang bên để cày hàng nghìn lượt làm việc gần như miễn phí — chính đống rep đó biến anh thành designer đẳng cấp"
+  },
+  {
+   "s": "03:20",
+   "e": "03:49",
+   "nut": ["?"],
+   "moi": "Nâng giá theo bậc mỗi khi cầu tăng",
+   "tom": "Khi ngách bắt đầu để ý và nhu cầu tăng, anh nâng giá theo bậc: $449 → $1.000 → $3.000 → $5.000 và hiện tại là $8.000/tháng cho mỗi khách. Ở mức đó anh chỉ cần 16 khách trả $5.000/tháng là chạm khoảng $1 triệu/năm",
+   "kq": "16 khách × $5.000/tháng ≈ $1 triệu/năm"
+  },
+  {
+   "s": "03:49",
+   "e": "05:33",
+   "nut": ["?"],
+   "moi": "Ranh giới vận hành: async qua Trello + mỗi khách chỉ 1 yêu cầu tại một thời điểm",
+   "tom": "Khi khách tràn tới, anh làm 16 tiếng/ngày và sắp burnout — nhưng thay vì thuê người anh dựng hai ranh giới cứng. Một: mọi yêu cầu thiết kế phải gửi bất đồng bộ qua một bảng Trello, không call, không họp, tất cả phải viết ra. Hai: mỗi khách chỉ được có ĐÚNG MỘT yêu cầu đang chạy, không được đổi hay gửi thêm cho tới khi cái đó xong. Hệ quả ngược đời: khách phải bỏ công viết yêu cầu cho thật đầy đủ nên gửi ÍT yêu cầu hơn, và cả hai bên tiết kiệm vô số giờ họp. Khách nào không chịu nổi ranh giới thì thôi, anh chỉ làm với người chịu"
+  },
+  {
+   "s": "05:33",
+   "e": "06:30",
+   "nut": ["?"],
+   "moi": "Phân loại khách $500 và khách $5.000 rồi chủ động leo lên",
+   "tom": "Bước ba: có hai loại khách. Khách $500 thì rẻ, quấy rầy bằng những yêu cầu vụn vặt, hay đòi hoàn tiền, và bản thân họ cũng không kiếm được nhiều. Khách $5.000 thì giàu — miễn mình giao hàng đúng là họ không làm phiền, luôn trả tiền, và không bỏ sau một tháng. Lúc mới mở, Brett hút toàn khách $500; trả xong học phí thì anh chuyển nhanh sang nhóm công ty không chớp mắt khi nhìn thấy hoá đơn $5.000/tháng"
+  },
+  {
+   "s": "06:30",
+   "e": "07:26",
+   "nut": ["2.7"],
+   "tom": "Vì sao khách thấy $5.000/tháng là hời — vì các lựa chọn còn lại đều tệ: thuê designer in-house lương $200.000/năm, mất hàng tháng tuyển và có thể vớ phải người lười; thuê agency sang trả theo dự án $30.000–40.000 và chờ vài tuần tới vài tháng; hoặc lọc hàng trăm nghìn designer rẻ trên Upwork/Fiverr để mò kim đáy bể. Còn Brett là designer đã chứng minh, trả việc trong 48 giờ, mua bằng một cú click và huỷ bất cứ lúc nào như huỷ Netflix"
+  },
+  {
+   "s": "07:26",
+   "e": "09:19",
+   "nut": ["1.1", "1.3"],
+   "tom": "Bước bốn — 'cầu cao, chạm ít' — giải thích vì sao productized service không hợp mọi loại dịch vụ. Phía doanh thu: thiết kế website là việc TÁC ĐỘNG CAO, website thường là ấn tượng đầu tiên của khách với một startup và đẹp hay xấu ăn thẳng vào tỉ lệ chuyển đổi, nên công ty sẵn sàng trả nhiều. Phía chi phí: là solopreneur nên chi phí tiền mặt gần bằng 0, chi phí duy nhất là thời gian — mà anh chỉ làm 6 tiếng/ngày dù lúc nào cũng có trên 16 khách, vì thiết kế web/branding CHẠM ÍT: dựng xong một landing page đẳng cấp trong vài tiếng và sau đó lâu lâu mới phải đụng lại. Ngược lại, dịch vụ kế toán hay dựng video đóng gói sẽ không lời bằng vì cầu thấp hơn và tốn thời gian thực hiện hơn nhiều",
+   "kq": "6 tiếng/ngày phục vụ 16+ khách, chi phí tiền mặt gần bằng 0"
+  },
+  {
+   "s": "09:19",
+   "e": "11:09",
+   "nut": ["?"],
+   "moi": "Build once sell forever: biến kiến thức tích luỹ thành sản phẩm số",
+   "tom": "Bước năm giải cái kẹt cuối của productized service: dù đóng gói thế nào thì vẫn là đổi giờ lấy tiền. Năm 2019 anh bỏ 6 tiếng làm Scribbles — bộ template tải về cho designer khác dùng, bán $4,99 và được tải hơn 25.000 lần. Vài năm sau anh nâng lên một bậc với khoá học Productize Yourself dạy designer khác tự mở dịch vụ đóng gói, giá cao hơn nhiều. Đáng chú ý là anh không chuyển hẳn sang bán khoá học mà vẫn tiếp tục phục vụ khách và cày rep trên DesignJoy",
+   "kq": "info product chiếm 29% thu nhập; Scribbles $4,99 × hơn 25.000 lượt tải"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "00:57", "ly_do": "intro/hook của kênh, giới thiệu nhân vật"},
+  {"s": "11:09", "e": "11:39", "ly_do": "lời kết của người dẫn và chào tạm biệt"}
+ ]
+}

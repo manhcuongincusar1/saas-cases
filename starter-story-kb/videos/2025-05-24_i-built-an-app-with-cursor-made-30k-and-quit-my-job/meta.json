@@ -1,0 +1,519 @@
+{
+  "id": "jpSY4MlWX50",
+  "title": "I Built an App with Cursor, Made $30K, and Quit My Job.",
+  "upload_date": "20250524",
+  "duration": 841,
+  "view_count": 725187,
+  "like_count": 20321,
+  "comment_count": 531,
+  "description": "This is how Paulius Masalskas built a $30K app using AI.\n*Ship Your First iOS App in 7 Days:* https://clickhubspot.com/6kda\n\nStart your 7-day free trial with Semrush → https://go.starterstory.com/semrushpaulius\n\n🛠️ Want to start building with AI? Check out Starter Story Build → https://build.starterstory.com/build/ai-build-accelerator?utm_source=youtube&utm_campaign=paulius\n\nFollow Paulius's Journey: https://x.com/0xPaulius\n\n🔔 Follow the Second Channel: ‪@StarterStoryBuild‬ \n🏁 We're hiring: starterstory.com/jobs\n\nChapters:\n0:00 - Intro\n0:58 - Who is Paulius\n1:24 - Paulius' backstory\n2:24 - How Paulius found an idea for his app\n3:06 - Launch experience\n3:43 - How to build MVPs with AI\n5:20 - Figure out what your customers want\n7:19 - How to design with AI\n7:55 - What to focus on in a landing page\n8:29 - How to design UI/UX using AI\n9:14 - Marketing strategy\n10:06 - Building in public\n10:55 - Tech stack and costs\n11:25 - Biggest lessons learned\n11:55 - Day in the life\n12:27 - Advice to entrepreneurs\n13:10 - Final word\n\nThis video is an educational case study of one founder’s experience. It is not financial advice and does not guarantee any income or results. Every business is different and your results may vary.",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 58,
+      "title": "Intro"
+    },
+    {
+      "start": 58,
+      "end": 84,
+      "title": "Who is Paulius"
+    },
+    {
+      "start": 84,
+      "end": 144,
+      "title": "Paulius' backstory"
+    },
+    {
+      "start": 144,
+      "end": 186,
+      "title": "How Paulius found an idea for his app"
+    },
+    {
+      "start": 186,
+      "end": 223,
+      "title": "Launch experience"
+    },
+    {
+      "start": 223,
+      "end": 320,
+      "title": "How to build MVPs with AI"
+    },
+    {
+      "start": 320,
+      "end": 439,
+      "title": "Figure out what your customers want"
+    },
+    {
+      "start": 439,
+      "end": 475,
+      "title": "How to design with AI"
+    },
+    {
+      "start": 475,
+      "end": 509,
+      "title": "What to focus on in a landing page"
+    },
+    {
+      "start": 509,
+      "end": 554,
+      "title": "How to design UI/UX using AI"
+    },
+    {
+      "start": 554,
+      "end": 606,
+      "title": "Marketing strategy"
+    },
+    {
+      "start": 606,
+      "end": 655,
+      "title": "Building in public"
+    },
+    {
+      "start": 655,
+      "end": 685,
+      "title": "Tech stack and costs"
+    },
+    {
+      "start": 685,
+      "end": 715,
+      "title": "Biggest lessons learned"
+    },
+    {
+      "start": 715,
+      "end": 747,
+      "title": "Day in the life"
+    },
+    {
+      "start": 747,
+      "end": 790,
+      "title": "Advice to entrepreneurs"
+    },
+    {
+      "start": 790,
+      "end": 841,
+      "title": "Final word"
+    }
+  ],
+  "heatmap": [
+    {
+      "s": 0,
+      "v": 0.10284735732203867
+    },
+    {
+      "s": 8,
+      "v": 0.09344437019587162
+    },
+    {
+      "s": 16,
+      "v": 0.0990678155662149
+    },
+    {
+      "s": 25,
+      "v": 0.020535061110327074
+    },
+    {
+      "s": 33,
+      "v": 0.005889023099524903
+    },
+    {
+      "s": 42,
+      "v": 0.028006653394934928
+    },
+    {
+      "s": 50,
+      "v": 0.1871804961432822
+    },
+    {
+      "s": 58,
+      "v": 0.49314263360894006
+    },
+    {
+      "s": 67,
+      "v": 0.6203195113898131
+    },
+    {
+      "s": 75,
+      "v": 0.4128560011877937
+    },
+    {
+      "s": 84,
+      "v": 0.13713095726984773
+    },
+    {
+      "s": 92,
+      "v": 0.10768151591800838
+    },
+    {
+      "s": 101,
+      "v": 0.10036179083595027
+    },
+    {
+      "s": 109,
+      "v": 0.06552505117448387
+    },
+    {
+      "s": 117,
+      "v": 0.058362575846403114
+    },
+    {
+      "s": 126,
+      "v": 0.04168461641622874
+    },
+    {
+      "s": 134,
+      "v": 0.04835900495281414
+    },
+    {
+      "s": 143,
+      "v": 0.20809045361163214
+    },
+    {
+      "s": 151,
+      "v": 0.19243418004362095
+    },
+    {
+      "s": 159,
+      "v": 0.27084870824338164
+    },
+    {
+      "s": 168,
+      "v": 0.3808093136631899
+    },
+    {
+      "s": 176,
+      "v": 0.3229611182068971
+    },
+    {
+      "s": 185,
+      "v": 0.24893535072791784
+    },
+    {
+      "s": 193,
+      "v": 0.22665317286340467
+    },
+    {
+      "s": 202,
+      "v": 0.26709815961733363
+    },
+    {
+      "s": 210,
+      "v": 0.17838986505192325
+    },
+    {
+      "s": 218,
+      "v": 0.2933045476904582
+    },
+    {
+      "s": 227,
+      "v": 0.3024550832481337
+    },
+    {
+      "s": 235,
+      "v": 0.32287440299187303
+    },
+    {
+      "s": 244,
+      "v": 0.4533676589314917
+    },
+    {
+      "s": 252,
+      "v": 0.4773039972172539
+    },
+    {
+      "s": 261,
+      "v": 0.4023087430673336
+    },
+    {
+      "s": 269,
+      "v": 0.35136424769824726
+    },
+    {
+      "s": 277,
+      "v": 0.3168050313977351
+    },
+    {
+      "s": 286,
+      "v": 0.2679571884077509
+    },
+    {
+      "s": 294,
+      "v": 0.18984192016082932
+    },
+    {
+      "s": 303,
+      "v": 0.19540412662551299
+    },
+    {
+      "s": 311,
+      "v": 0.3036746439188376
+    },
+    {
+      "s": 319,
+      "v": 0.2790645290727742
+    },
+    {
+      "s": 328,
+      "v": 0.181275143769641
+    },
+    {
+      "s": 336,
+      "v": 0.1912043330859864
+    },
+    {
+      "s": 345,
+      "v": 0.22835732827153354
+    },
+    {
+      "s": 353,
+      "v": 0.23654580706054532
+    },
+    {
+      "s": 362,
+      "v": 0.210244382281846
+    },
+    {
+      "s": 370,
+      "v": 0.22220434551043408
+    },
+    {
+      "s": 378,
+      "v": 0.2554346329787192
+    },
+    {
+      "s": 387,
+      "v": 0.23655006687118435
+    },
+    {
+      "s": 395,
+      "v": 0.2092678124374005
+    },
+    {
+      "s": 404,
+      "v": 0.1527903018641336
+    },
+    {
+      "s": 412,
+      "v": 0.12173238573460414
+    },
+    {
+      "s": 421,
+      "v": 0.10516221767558066
+    },
+    {
+      "s": 429,
+      "v": 0.12347454922060531
+    },
+    {
+      "s": 437,
+      "v": 0.43062697354199414
+    },
+    {
+      "s": 446,
+      "v": 0.4677491098667492
+    },
+    {
+      "s": 454,
+      "v": 0.4306927859652778
+    },
+    {
+      "s": 463,
+      "v": 0.23509139543430027
+    },
+    {
+      "s": 471,
+      "v": 0.19871376833952706
+    },
+    {
+      "s": 479,
+      "v": 0.15773873235712949
+    },
+    {
+      "s": 488,
+      "v": 0.13309888139106263
+    },
+    {
+      "s": 496,
+      "v": 0.21979111325073952
+    },
+    {
+      "s": 505,
+      "v": 0.2076145270935308
+    },
+    {
+      "s": 513,
+      "v": 0.16022910351335726
+    },
+    {
+      "s": 522,
+      "v": 0.2772833338334758
+    },
+    {
+      "s": 530,
+      "v": 0.3886914163040702
+    },
+    {
+      "s": 538,
+      "v": 0.3157549055207435
+    },
+    {
+      "s": 547,
+      "v": 0.27866205952185524
+    },
+    {
+      "s": 555,
+      "v": 0.16203187849104794
+    },
+    {
+      "s": 564,
+      "v": 0.2411957701236117
+    },
+    {
+      "s": 572,
+      "v": 0.2683831034280785
+    },
+    {
+      "s": 580,
+      "v": 0.15685741385988006
+    },
+    {
+      "s": 589,
+      "v": 0.15698400288379274
+    },
+    {
+      "s": 597,
+      "v": 0.20677331355768527
+    },
+    {
+      "s": 606,
+      "v": 0.15110805641227604
+    },
+    {
+      "s": 614,
+      "v": 0.1396006072541686
+    },
+    {
+      "s": 623,
+      "v": 0.2995527652878598
+    },
+    {
+      "s": 631,
+      "v": 0.31247412484935355
+    },
+    {
+      "s": 639,
+      "v": 0.16399783063364395
+    },
+    {
+      "s": 648,
+      "v": 0.24945871304433684
+    },
+    {
+      "s": 656,
+      "v": 0.28886810350794995
+    },
+    {
+      "s": 665,
+      "v": 0.7769653629100681
+    },
+    {
+      "s": 673,
+      "v": 1.0
+    },
+    {
+      "s": 682,
+      "v": 0.29072571116444773
+    },
+    {
+      "s": 690,
+      "v": 0.13805000315977234
+    },
+    {
+      "s": 698,
+      "v": 0.17294749465552683
+    },
+    {
+      "s": 707,
+      "v": 0.15719524326098577
+    },
+    {
+      "s": 715,
+      "v": 0.09340381944033105
+    },
+    {
+      "s": 724,
+      "v": 0.06593146682905682
+    },
+    {
+      "s": 732,
+      "v": 0.06698335111625407
+    },
+    {
+      "s": 740,
+      "v": 0.09692376041058301
+    },
+    {
+      "s": 749,
+      "v": 0.06691941267943369
+    },
+    {
+      "s": 757,
+      "v": 0.08127499929931893
+    },
+    {
+      "s": 766,
+      "v": 0.09047764323829979
+    },
+    {
+      "s": 774,
+      "v": 0.06428231746412152
+    },
+    {
+      "s": 783,
+      "v": 0.03981467512195049
+    },
+    {
+      "s": 791,
+      "v": 0.01970104632424366
+    },
+    {
+      "s": 799,
+      "v": 0.01052645439408342
+    },
+    {
+      "s": 808,
+      "v": 0.014459530952745863
+    },
+    {
+      "s": 816,
+      "v": 0.012643596792577231
+    },
+    {
+      "s": 825,
+      "v": 0.02685837025341209
+    },
+    {
+      "s": 833,
+      "v": 0.0
+    }
+  ],
+  "thumbnail": "https://i.ytimg.com/vi_webp/jpSY4MlWX50/maxresdefault.webp",
+  "webpage_url": "https://www.youtube.com/watch?v=jpSY4MlWX50",
+  "tags": [
+    "starterstory",
+    "starters story",
+    "starter story",
+    "starter stories",
+    "starter story ideas",
+    "how i built it",
+    "micro-saas ideas",
+    "micro saas ideas",
+    "indie hackers",
+    "saas ideas",
+    "saas",
+    "business ideas",
+    "how i built it: ai apps",
+    "ai app business",
+    "paulius",
+    "creatorhunter"
+  ]
+}

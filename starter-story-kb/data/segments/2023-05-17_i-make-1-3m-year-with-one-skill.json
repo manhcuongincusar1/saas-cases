@@ -1,0 +1,109 @@
+{
+ "f": "2023-05-17_i-make-1-3m-year-with-one-skill",
+ "vid": "dXKzST0FE-A",
+ "segments": [
+  {
+   "s": "00:55",
+   "e": "01:26",
+   "nut": ["?"],
+   "moi": "Dịch vụ đóng gói (productized service) bán như sản phẩm",
+   "tom": "Bán thiết kế dạng subscription: khách chọn một gói có sẵn giá khoảng $5.000/tháng rồi đăng ký, không báo giá từng dự án. Không contractor, không nhân viên, chưa từng có bất kỳ ai giúp",
+   "kq": "$1,3 triệu/năm, 0 nhân viên"
+  },
+  {
+   "s": "01:26",
+   "e": "01:56",
+   "nut": ["?"],
+   "moi": "Vận hành theo queue: mỗi khách một board, xử lý tuần tự từng yêu cầu",
+   "tom": "Mỗi khách được một board Trello riêng và có quyền truy cập ngay lập tức (chính đây là điểm bán của mô hình), tự nhập yêu cầu thiết kế vào hàng đợi; anh ta làm lần lượt từng cái, mỗi yêu cầu tốn 30 phút đến 1 tiếng, gửi đi, nhận feedback, lặp lại — cùng lúc phục vụ 20 khách như vậy",
+   "kq": "20 khách cùng lúc do 1 người phục vụ"
+  },
+  {
+   "s": "01:56",
+   "e": "02:23",
+   "nut": ["?"],
+   "moi": "Vận hành 100% async, không họp với khách",
+   "tom": "Sau khi onboard xong thì không có cuộc Zoom nào, thậm chí gần như không trao đổi qua Slack — mọi thứ chạy bất đồng bộ, nhờ vậy anh ta dành trọn cả ngày chỉ để làm thiết kế"
+  },
+  {
+   "s": "02:23",
+   "e": "02:49",
+   "nut": ["2.6"],
+   "tom": "Ý tưởng: thấy một agency khác đang chạy mô hình subscription này cho graphic design, còn anh ta là web designer (landing page, product design), nên bê nguyên mô hình sang đúng mảng mình giỏi và làm bản chất lượng cao nhất. Dựng xong trong một ngày thứ Bảy: site một trang bằng Webflow, dựng cấu trúc board Trello, launch trên Product Hunt — tổng khoảng 6–7 tiếng",
+   "kq": "sản phẩm ra mắt sau 6–7 tiếng"
+  },
+  {
+   "s": "02:49",
+   "e": "03:16",
+   "nut": ["?"],
+   "moi": "Giai đoạn chồng lấn: giữ việc full-time trong lúc business chạy",
+   "tom": "Giữ job full-time suốt 3,5 năm trong lúc chạy Design Joy — làm việc của Design Joy ngay trong các cuộc họp Zoom với team công ty (nhưng vẫn xong việc chính); chỉ nghỉ hẳn khi Design Joy đã ra $80.000/THÁNG",
+   "kq": "$80K/tháng tại thời điểm nghỉ việc, sau 3,5 năm"
+  },
+  {
+   "s": "03:16",
+   "e": "04:08",
+   "nut": ["?"],
+   "moi": "Gói unlimited requests giá cố định thay vì tính giờ",
+   "tom": "Không tính giờ, không báo giá từng dự án, không viết proposal — chỉ có các gói dựng sẵn, tất cả đều unlimited requests, dùng nhiều hay ít vẫn trả cùng giá. Khác retainer ở chỗ retainer vẫn phải đếm giờ. Hệ quả: có khách chỉ gửi 1 yêu cầu thành ra trả tương đương $5.000/giờ, có khách gửi nhiều thì xuống khoảng $300/giờ",
+   "kq": "đơn giá thực tế dao động $300–5.000/giờ"
+  },
+  {
+   "s": "04:08",
+   "e": "04:33",
+   "nut": ["?"],
+   "moi": "Đóng gói đúng phần việc mình làm NHANH, bỏ hẳn phần còn lại",
+   "tom": "Cách productize bất kỳ nghề nào (viết nội dung, sản xuất video, làm thumbnail YouTube, thiết kế): tìm những việc mình làm NHANH chứ không phải mọi việc mình làm được — anh ta chỉ nhận branding, product design và landing page, bỏ hẳn phần còn lại vì làm chậm; gói lại, định giá vừa hấp dẫn vừa đáng công, rồi dựng một trang web"
+  },
+  {
+   "s": "04:33",
+   "e": "05:04",
+   "nut": ["1.1"],
+   "tom": "Chi phí vận hành đúng $176/tháng: Figma để thiết kế, Webflow để hosting, Adobe và Shutterstock (bộ này $100/tháng, đắt nhất); mọi công cụ còn lại kể cả Trello và Airtable đều xài bản miễn phí",
+   "kq": "$176/tháng cho business $1,3 triệu/năm"
+  },
+  {
+   "s": "05:04",
+   "e": "05:58",
+   "nut": ["?"],
+   "moi": "Product Hunt + build in public + Twitter làm kênh lead duy nhất",
+   "tom": "Chưa tiêu một xu cho marketing: ra mắt trên Product Hunt (có hệ thống upvote và lượng truy cập lớn, chỉ cần thành công vừa phải là có khách ngay), rồi build in public và tham gia một loạt cộng đồng. Hiện nay hầu hết lead đến mỗi khi anh ta tweet — mới lên Twitter khoảng một năm và lượng follower cũng chỉ ở mức vừa phải",
+   "kq": "$0 chi cho marketing"
+  },
+  {
+   "s": "05:58",
+   "e": "06:29",
+   "nut": ["?"],
+   "moi": "Ra bản tối giản nhất có thể rồi xem có ai cắn câu",
+   "tom": "Luôn làm mức tối thiểu tuyệt đối: Design Joy là một site một trang dựng trong 6 tiếng; khoá học thì ngồi luôn trong xe hơi thu mấy file audio rồi upload là xong. Thà tung thứ tối giản ra xem có ai cắn câu, còn hơn bỏ hàng tuần hàng tháng xây thứ cuối cùng có thể thất bại"
+  },
+  {
+   "s": "07:23",
+   "e": "07:51",
+   "nut": ["?"],
+   "moi": "Tự học kỹ năng bằng nhái lại tác phẩm tốt và làm dự án giả",
+   "tom": "Không học trường lớp về thiết kế: ngồi trong phần mềm cả ngày bắt chước lại những thiết kế tốt đã có sẵn để thuộc công cụ và hiểu cách ra được kết quả đó; liên tục bao quanh mình bằng thiết kế đẹp trên Dribbble và các trang landing page inspo, theo dõi designer giỏi; và làm dự án giả — chọn một sản phẩm có sẵn rồi tự rebrand hoặc redesign nó"
+  },
+  {
+   "s": "07:51",
+   "e": "08:45",
+   "nut": ["?"],
+   "moi": "Ngày làm việc 4–5 tiếng của solopreneur có con nhỏ",
+   "tom": "Dậy khoảng 7:30, trông con tới 10:30 trong lúc vợ đi gym, bắt đầu làm việc quãng 11:30–12h và làm tới 16–17h, phần còn lại dành cho gia đình — tức toàn bộ business $1,3 triệu/năm chạy trong khoảng 5 tiếng làm việc mỗi ngày"
+  },
+  {
+   "s": "09:21",
+   "e": "10:18",
+   "nut": ["?"],
+   "moi": "BẪY — kéo dài giai đoạn chồng lấn quá lâu vì bất an",
+   "tom": "Lý do giữ job tới tận mốc $80K/tháng là sự bất an, không tin thứ mình làm sẽ bền — anh ta hình dung Design Joy như sao băng, đến nhanh và có thể tắt nhanh; nỗi lo đó gây stress kéo dài. Khi cuối cùng nghỉ việc thì doanh thu GẤP ĐÔI ngay tháng sau, và anh ta cho rằng nếu tự tin sớm hơn thì đã tới vị trí hiện tại từ 2 năm trước",
+   "kq": "doanh thu gấp đôi ngay tháng đầu sau khi nghỉ việc"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "00:55", "ly_do": "intro dựng sẵn của kênh"},
+  {"s": "06:29", "e": "07:23", "ly_do": "quảng bá Starter Story ($1 dùng thử 7 ngày)"},
+  {"s": "08:45", "e": "09:21", "ly_do": "chuyện chơi game với bạn bè, không có nội dung kinh doanh"},
+  {"s": "10:47", "e": "10:52", "ly_do": "câu đùa kết video"}
+ ]
+}

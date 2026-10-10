@@ -1,0 +1,38 @@
+{
+ "f": "2026-01-04_how-i-built-my-first-saas-without-an-audience-25k-mo",
+ "vid": "FCGpgPZqmkY",
+ "segments": [
+  {"s":"01:20","e":"02:08","nut":["?"],"moi":"Hai bậc giá: khách của đối tác phân phối rẻ hơn khách ngoài",
+   "tom":"Launch Fast là tool research sản phẩm Amazon cho private label seller: ngày 0 launch cùng Legacy X, 30 ngày 10K MRR, 60 ngày 17–18K, 90 ngày 21,8K; $50/tháng cho khách Legacy X, $199 cho công chúng","kq":"$21,8K MRR sau 90 ngày, Chrome extension 330 user active"},
+  {"s":"02:24","e":"03:12","nut":["2.9","2.0"],
+   "tom":"Làm corporate job kèm 2 brand Amazon, biết Cursor qua Twitter, build 10–12 project chết yểu; chỉ thắng khi nhận ra mình có domain knowledge Amazon mà dev không có","kq":"10–12 project trước đó không ra nổi production"},
+  {"s":"03:12","e":"03:59","nut":["2.1","2.2","2.7"],
+   "tom":"Ý tưởng đến từ bực bội thật: mỗi sản phẩm phải bỏ 20–30 giờ research, copy-paste số liệu vào Google Sheets; tool có sẵn trông giải quyết vấn đề trên giấy nhưng không đụng tới nút thắt thật"},
+  {"s":"03:59","e":"04:31","nut":["?"],"moi":"Đổi equity lấy phân phối của bên đã có khán giả",
+   "tom":"Zero audience là zero distribution, nên thay vì mất vài năm xây khán giả, anh nhớ ra khoá coaching Legacy X từng mua 2 năm trước đang có hàng nghìn seller Amazon active và chọn đổi equity lấy đường vào"},
+  {"s":"04:31","e":"06:05","nut":["3.7","?"],"moi":"Chia 48 giờ dựng MVP thành từng khối giờ có mục tiêu",
+   "tom":"Pitch 'cho tôi 48 giờ, không ràng buộc' rồi chia: 4 giờ đầu map SOP và data của họ, giờ 5–12 dùng Cursor build core, 13–20 fix bug, 21–30 làm UI/branding, 31–40 test edge case, cuối cùng quay demo gửi đi","kq":"hôm sau đối tác gọi bảo nghỉ việc làm full-time"},
+  {"s":"06:05","e":"06:38","nut":["?"],"moi":"Đổi equity lấy phân phối của bên đã có khán giả",
+   "tom":"Lý do chịu mất equity: thời gian quý hơn cổ phần, và 50% của 20K MRR vẫn hơn 50% của 0 — đổi lại có validation tức thì cùng tập khách hàng dựng sẵn"},
+  {"s":"07:23","e":"08:26","nut":["2.0","2.1"],
+   "tom":"Các project chết trước đó (AI tạo video lyric, tự động apply job) anh không biết end user cần gì; với Amazon thì hiểu từ A tới Z seller mới vướng gì, cần data nào — đó là khác biệt duy nhất","kq":"trước đó là cả nghĩa địa project trên GitHub"},
+  {"s":"08:41","e":"09:29","nut":["2.10","2.B1"],
+   "tom":"Bước 1–2 của playbook: viết ra 3–5 ngành mình có kiến thức sâu, rồi soi ngành nào đã có SaaS kiếm được tiền bằng Sensor Tower, Ahrefs, Google Search Console — không cần ý tưởng độc, cần thực thi tốt hơn"},
+  {"s":"09:29","e":"09:59","nut":["2.7","?"],"moi":"Đào review site và group để lấy khuyết điểm của tool đang có",
+   "tom":"Bước 3–4: đào Reddit, Facebook group, Twitter và site review để chốt user là ai, đích của họ là gì, tool hiện tại hỏng chỗ nào; rồi build đúng một feature ROI cao nhất mà dễ làm nhất"},
+  {"s":"09:59","e":"10:32","nut":["?"],"moi":"Đổi equity lấy phân phối của bên đã có khán giả",
+   "tom":"Bước 5: liệt kê 5 đối tác đang nắm sẵn tệp khách (công ty coaching, community, nhóm influencer), gửi demo và đề nghị chia phần, chốt liên hệ được 3 bên ngay trong tuần này"},
+  {"s":"10:32","e":"11:02","nut":["4.14","?"],"moi":"Ship 1 cải tiến mỗi ngày suốt 30 ngày đầu sau launch",
+   "tom":"Bước 6: sau launch cam kết ship ít nhất 1 cải tiến mỗi ngày suốt 30 ngày, lấy từ feature request và bug thật; và bỏ đủ 1.000 giờ vào một project thì gần như chắc thắng"},
+  {"s":"11:02","e":"12:20","nut":["?"],"moi":"Stack vibe-code chuẩn AI cho founder non-technical",
+   "tom":"Stack đi từ ý tưởng tới MVP trong 48 giờ: Cursor viết code, Vercel deploy thẳng bằng CLI, Supabase làm DB/auth/storage qua Supabase MCP, Resend gửi email onboarding, Apify cào dữ liệu, TypeScript + Next.js","kq":"chi phí gần như chỉ có Cursor bản max $200/tháng"},
+  {"s":"12:20","e":"13:06","nut":["?"],"moi":"Ship trong cuối tuần rồi đưa cho 10 người thật dùng",
+   "tom":"Lời khuyên: ngừng lên kế hoạch, ship một thứ ngay cuối tuần này, đưa cho ít nhất 10 người xem, nghe phản hồi rồi ship tiếp — AI đã xoá khoảng cách giữa ý tưởng và thực thi"},
+  {"s":"13:21","e":"14:22","nut":["?"],"moi":"Đổi equity lấy phân phối của bên đã có khán giả",
+   "tom":"Pat và Gus chốt: đổi khoảng 50% equity nhưng vẫn còn ~$10K/tháng lợi nhuận thuần; app đầu tiên bán nửa để mua sẵn khách hàng là deal tốt, các app sau thì không cần làm vậy nữa","kq":"~$10K/tháng lợi nhuận thuần phần của founder"}
+ ],
+ "bo_qua": [
+  {"s":"06:38","e":"07:23","ly_do":"quảng bá Starter Story Build"},
+  {"s":"14:22","e":"14:58","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

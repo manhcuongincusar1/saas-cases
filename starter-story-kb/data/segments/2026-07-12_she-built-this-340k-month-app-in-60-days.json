@@ -1,0 +1,101 @@
+{
+ "f": "2026-07-12_she-built-this-340k-month-app-in-60-days",
+ "vid": "Eg93po_DAYo",
+ "segments": [
+  {
+   "s": "01:33",
+   "e": "02:21",
+   "nut": ["2.N1"],
+   "tom": "Stella nhận mô tả ước mơ của người dùng rồi sinh visualization đọc bằng giọng 'phiên bản tương lai đã đạt được' cộng affirmation riêng mỗi ngày; hai tháng đầu đã vượt $300K MRR nhờ 1,2 triệu follower Instagram và 2,8 triệu TikTok.",
+   "kq": "$350–360K MRR, 12.000 khách trả phí, 200.000+ lượt tải"
+  },
+  {
+   "s": "02:36",
+   "e": "03:24",
+   "nut": ["4.6"],
+   "tom": "Phản bác 'chị có sẵn follower nên dễ': sau khi ra Stella cô mở TikTok mới, vài tháng lên hơn 40.000 follower, một account khác chỉ spam post cũng 700.000. Cái cần là kỹ năng viral, không phải brand có sẵn.",
+   "kq": "account mới: 40.000 follower trong vài tháng"
+  },
+  {
+   "s": "03:39",
+   "e": "04:26",
+   "nut": ["2.9"],
+   "tom": "Ba video TikTok đầu đời đã viral khi cô còn học sư phạm; sau đó monetize social, rồi làm brand trên TikTok Shop bảy con số/tháng, rồi nhảy sang app khi thấy lỗ hổng: app trên store do nam build nên gần như không giải vấn đề của nữ."
+  },
+  {
+   "s": "05:27",
+   "e": "06:14",
+   "nut": ["2.8", "2.9"],
+   "tom": "Cô nghe meditation và visualization hằng ngày, thấy trên thị trường không có cái nào tuỳ biến theo đúng mục tiêu cụ thể của từng người — và giờ AI làm được chuyện đó, nên đó chính là app cần build."
+  },
+  {
+   "s": "06:29",
+   "e": "07:00",
+   "nut": ["?"],
+   "moi": "Vibe code MVP trong 2 ngày rồi hoàn thiện dần",
+   "tom": "Cô dựng bằng Claude Code, dùng cả Claude thường vì khả năng design rất tốt, cộng Google AI Studio; MVP xong trong khoảng 2 ngày, cả app mất 2–3 tháng. Tốc độ là thành phần số một."
+  },
+  {
+   "s": "07:30",
+   "e": "08:18",
+   "nut": ["2.9", "2.B3"],
+   "tom": "Luận điểm của cô: phụ nữ nắm phân phối và đa số influencer là nữ; thứ duy nhất chắn đường là rào cản kỹ thuật, giờ Claude Code và Cursor đã xoá gần hết. Sản phẩm tốt nhất không thắng, sản phẩm được biết đến nhiều nhất mới thắng."
+  },
+  {
+   "s": "08:18",
+   "e": "08:48",
+   "nut": ["?"],
+   "moi": "Biến hate comment thành nhiên liệu thuật toán",
+   "tom": "Phụ nữ dùng AI trong sản phẩm hay bị cancel; đợt đầu bị chửi cô suýt bỏ mạng xã hội, sau đó đổi cách nhìn: hate đẩy video lên trong thuật toán, và những video gây tranh cãi nhất chính là video thành công nhất."
+  },
+  {
+   "s": "09:18",
+   "e": "10:09",
+   "nut": ["4.1", "4.6"],
+   "tom": "Công thức viral của cô: chọn niche, tra đúng nội dung đang viral nhất trong niche đó, học tâm lý khiến người ta hành động rồi tái tạo lại vô hạn — cùng một format cô làm lại suốt nhiều năm vẫn nổ và vẫn ra đơn."
+  },
+  {
+   "s": "10:09",
+   "e": "10:25",
+   "nut": ["?"],
+   "moi": "Làm ngược: có video nổ rồi mới hỏi nhét sản phẩm nào vào",
+   "tom": "Khi một video nổ, cô làm ngược lại: hỏi sản phẩm nào có thể nhét vào video đó một cách tự nhiên, vừa giúp video viral hơn vừa giải đúng vấn đề khiến người xem muốn thoát TikTok đi tải app ngay."
+  },
+  {
+   "s": "10:25",
+   "e": "11:27",
+   "nut": ["4.1"],
+   "tom": "Video ăn nhất: cô đọc chuỗi affirmation, có người hỏi 'làm sao nhớ hết' rồi chỉ sang Stella. Mẹo lõi là mở đầu bằng 'lặp lại 7 ngày' hoặc 'nghe 3 lần' để người xem buộc phải save — save đẩy engagement, engagement đẩy viral."
+  },
+  {
+   "s": "11:27",
+   "e": "11:59",
+   "nut": ["?"],
+   "moi": "ManyChat biến comment thành lượt tải và review",
+   "tom": "Trên Instagram cô dùng ManyChat: bảo người xem comment 'download' để được gửi affirmation riêng, và ngay trong luồng chat đó còn nhờ họ review app để cô cảm ơn từng người."
+  },
+  {
+   "s": "11:59",
+   "e": "12:32",
+   "nut": ["4.1"],
+   "tom": "Video chỉ nhắc tên Stella mà không cho thấy use case thì convert kém hẳn; một video 300K view có demo lại ra đơn rất tốt — phải cân giữa video để viral và video để chuyển đổi."
+  },
+  {
+   "s": "13:19",
+   "e": "14:04",
+   "nut": ["?"],
+   "moi": "Làm content trước, để comment chỉ ra sản phẩm cần build",
+   "tom": "Cô làm ngược quy trình chuẩn: dựng content và phân phối trước rồi mới build sản phẩm, vì lúc đang làm content thì lỗ hổng lộ ra rất rõ qua comment kiểu 'ước gì có cái này' hay 'tôi đang khổ vì chuyện này'."
+  },
+  {
+   "s": "15:35",
+   "e": "16:21",
+   "nut": ["2.B3"],
+   "tom": "Nhận xét khép lại: $300K không rơi xuống vì sẵn follower, mà vì nhiều năm làm content và hiểu khán giả. Developer từng là vua vì giữ chìa khoá kỹ thuật, giờ chìa khoá đó hết giá — người làm content mới là vua."
+  }
+ ],
+ "bo_qua": [
+  {"s": "04:26", "e": "05:12", "ly_do": "quảng cáo iOS bootcamp miễn phí của Starter Story"},
+  {"s": "16:21", "e": "16:36", "ly_do": "nhắc lại quảng cáo iOS bootcamp ở cuối video"}
+ ]
+}

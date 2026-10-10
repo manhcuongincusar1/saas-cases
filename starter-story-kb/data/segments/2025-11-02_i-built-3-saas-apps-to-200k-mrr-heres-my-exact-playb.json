@@ -1,0 +1,117 @@
+{
+ "f": "2025-11-02_i-built-3-saas-apps-to-200k-mrr-heres-my-exact-playb",
+ "vid": "67zh8_yiPh4",
+ "segments": [
+  {
+   "s": "00:52",
+   "e": "01:26",
+   "nut": ["?"],
+   "moi": "Xây danh mục nhiều SaaS nhỏ bằng cùng một playbook",
+   "tom": "Mike đang có 3 SaaS chạy hơn $200K/tháng và 2 cái nữa sắp ra; mục tiêu 5 năm là $1 triệu MRR với team nhỏ nhất có thể và không gọi một đồng vốn nào — cả 5 sản phẩm dùng chung đúng một playbook",
+   "kq": ">$200K MRR, bootstrapped hoàn toàn"
+  },
+  {
+   "s": "01:26",
+   "e": "02:12",
+   "nut": ["2.B2", "2.7"],
+   "tom": "Toàn ngách 'chán': Curator.io gom social media lên website và sự kiện, Frill.co thu feedback rồi cắm vào roadmap và changelog, Juno.co làm digital signage cho quán cà phê/gym/trường học, Fluke.co làm tour onboarding no-code cho SaaS"
+  },
+  {
+   "s": "02:58",
+   "e": "03:14",
+   "nut": ["2.7"],
+   "tom": "Cả cách làm xoay quanh giảm rủi ro: đi tìm sản phẩm đang ăn nên làm ra dù UX của nó tệ, rồi làm lại tử tế — nhờ vậy nhóm chưa từng có một business thất bại nào",
+   "kq": "chưa có business nào thất bại"
+  },
+  {
+   "s": "03:14",
+   "e": "03:45",
+   "nut": ["?"],
+   "moi": "Đội hình 4 đồng sáng lập chia đều 25% để chống rạn nứt",
+   "tom": "Mỗi công ty luôn mở với đúng 4 co-founder chia đều 25%: một front-end dev, một back-end dev, một designer, và một người lo hết phần còn lại — chia đều để triệt cái lý do giết nhiều startup nhất là founder cãi nhau"
+  },
+  {
+   "s": "03:45",
+   "e": "04:30",
+   "nut": ["?"],
+   "moi": "Ngưỡng $10K MRR mới bắt đầu chia lợi nhuận cho founder",
+   "tom": "Nuôi công ty tới khoảng $10K MRR là đủ bù chi phí, qua mốc đó mới chia lợi nhuận và bắt đầu trả lương cho nhau; đây là business để lấy lương to chứ không phải để exit to, nên không đổ ngược tiền vào ads hay nhân sự"
+  },
+  {
+   "s": "05:47",
+   "e": "06:18",
+   "nut": ["2.B1", "3.B6"],
+   "tom": "Bước 1–2 của playbook 10 bước: chọn ý tưởng đã có người làm vì ý tưởng mới thì phải đi validate còn cái cũ đã chắc có người cần; rồi nhìn đối thủ xem khách của họ cần nhất cái gì để chốt MVP 'đủ tốt' và tung ra thật nhanh"
+  },
+  {
+   "s": "06:18",
+   "e": "06:48",
+   "nut": ["3.7", "4.13"],
+   "tom": "Bước 3–4: bán lifetime deal trả một lần $59 hay $100 để có tiền mặt sớm, và không bao giờ phát tài khoản miễn phí — người trả tiền mới thật sự dùng, mới chịu chửi sản phẩm và cho feedback"
+  },
+  {
+   "s": "06:48",
+   "e": "07:20",
+   "nut": ["3.7", "4.9"],
+   "tom": "Bước 5 là cày bán private LTD ở đúng chỗ khách sống: nhóm Reddit, nhóm Facebook kín, X, và các cộng đồng chuyên săn lifetime deal — Frill gọi được khoảng $30.000 chỉ từ đợt private LTD này",
+   "kq": "$30K từ private LTD"
+  },
+  {
+   "s": "07:20",
+   "e": "07:36",
+   "nut": ["4.5"],
+   "tom": "Bước 6, lấy tiền LTD đi viết content ngay và không bao giờ là quá sớm: landing page, blog post, trang so sánh đối thủ, trang 'alternative to X' — lên càng sớm thì Google và ChatGPT càng có thời gian index và đổ traffic về"
+  },
+  {
+   "s": "07:36",
+   "e": "08:24",
+   "nut": ["1.6", "4.17"],
+   "tom": "Bước 7 lên AppSumo: hoặc tự đăng ở marketplace phí thấp, hoặc làm với sales team của họ ở gói Select — cái được là database khổng lồ họ mail tới; mục tiêu là đóng cả vòng LTD với $100K trong túi đủ nuôi content 1–2 năm",
+   "kq": "mục tiêu $100K tiền mặt từ LTD"
+  },
+  {
+   "s": "08:24",
+   "e": "08:40",
+   "nut": ["?"],
+   "moi": "Đóng vòng lifetime deal bằng một đợt cuối tăng giá",
+   "tom": "Bước 8 là một đợt private LTD cuối cùng: nhích giá lên chút, gửi cho mailing list với thông điệp đây là lần cuối lifetime deal còn tồn tại, rồi đóng vĩnh viễn — bán bằng đúng nỗi sợ bỏ lỡ"
+  },
+  {
+   "s": "08:40",
+   "e": "09:12",
+   "nut": ["?"],
+   "moi": "Biến khách lifetime deal thành nguồn review Trustpilot/G2",
+   "tom": "Bước 9 là lúc sống chết: nhờ chính khách LTD viết review thật trên Trustpilot và G2 — họ chịu làm vì đã bỏ tiền và muốn mình sống, và đám review đó kéo domain ranking lên"
+  },
+  {
+   "s": "09:12",
+   "e": "09:44",
+   "nut": ["4.17", "4.9"],
+   "tom": "Bước 10: trước kia là Quora, giờ là Reddit — quét các subreddit tìm người đang hỏi về đối thủ rồi trả lời thật thà; đây là đoạn tiền LTD cạn dần nên phải kịp gom đủ MRR để sống sót"
+  },
+  {
+   "s": "09:58",
+   "e": "10:31",
+   "nut": ["?"],
+   "moi": "Tránh business phụ thuộc API mình không kiểm soát",
+   "tom": "Một vùng nhóm này tuyệt đối không đụng: business lấy AI làm lõi — vì phải dựa vào một API mình không kiểm soát, không quyết được giá lẫn điều khoản, tức là đặt cả công ty vào rủi ro nền tảng"
+  },
+  {
+   "s": "10:31",
+   "e": "11:03",
+   "nut": ["2.7"],
+   "tom": "Ý tưởng anh thấy khó thua: công cụ documentation — cái đang có thì làm dở, cái làm tốt thì đắt cắt cổ; và documentation tử tế đang thành chìa khoá để AI hiểu và giới thiệu đúng sản phẩm của mình"
+  },
+  {
+   "s": "11:03",
+   "e": "12:05",
+   "nut": ["?"],
+   "moi": "Stack và bộ công cụ vận hành cho team SaaS nhỏ",
+   "tom": "Front-end tuỳ team quen Vue hay React, backend vẫn chủ yếu PHP + Laravel; công cụ chạy việc: Willow Voice để đọc thay gõ, Granola ghi biên bản họp, Framer làm website (website không còn là việc của team tech), v0 để prototype rồi mới đưa qua Figma"
+  }
+ ],
+ "bo_qua": [
+  {"s": "04:30", "e": "05:35", "ly_do": "quảng cáo HubSpot for Startups (sponsor)"},
+  {"s": "12:52", "e": "13:35", "ly_do": "tổng kết + quảng cáo Starter Story Build"}
+ ]
+}

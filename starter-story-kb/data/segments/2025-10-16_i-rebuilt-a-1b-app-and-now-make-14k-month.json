@@ -1,0 +1,40 @@
+{
+ "f": "2025-10-16_i-rebuilt-a-1b-app-and-now-make-14k-month",
+ "vid": "88BbTpbWVpY",
+ "segments": [
+  {"s":"01:03","e":"01:51","nut":["?"],"moi":"Đường doanh thu 7 tháng của app thay chỗ Skype",
+   "tom":"Ra mắt tháng 3/2025, vài ngày sau khi Microsoft tuyên bố đóng Skype: tháng đầu $4.000, tháng ba $10.800, tháng sáu $13.300; 10.000 user đăng ký, 4.500 khách cá nhân trả tiền, 20 khách doanh nghiệp, 27.000 cuộc gọi trong tháng 9","kq":"$14K/tháng sau 7 tháng"},
+  {"s":"02:06","e":"03:06","nut":["2.7","?"],"moi":"Bán credit trả theo mức dùng trong thị trường quen subscription",
+   "tom":"Gọi quốc tế ngay trên trình duyệt bằng VoIP: cuộc 10 phút bình thường tốn $50–100 thì đây chỉ vài cent; khác biệt là trả theo mức dùng, trong khi đối thủ bắt mua subscription $30/tháng hoặc mua ghế cho từng nhân viên"},
+  {"s":"03:06","e":"04:09","nut":["?"],"moi":"Chuỗi project chết tích đủ kỹ năng cho cú trúng sau này",
+   "tom":"Vốn học làm nhà ngoại giao ở Nga rồi chuyển sang Áo, tự học code trong hai tháng bằng sách và khoá online, đi làm thuê thấy không hợp nên freelance nuôi thân và luôn có một dự án riêng chạy song song","kq":"các project đầu đều xấu và không có user"},
+  {"s":"04:09","e":"05:10","nut":["2.1","2.3"],
+   "tom":"Đi lại nhiều nên biết cơ quan nhà nước, ngân hàng, sở di trú không dùng messenger, chỉ gọi điện và gọi từ nước ngoài rất đắt; khi Microsoft đóng Skype và Peter Levels tweet kêu gọi ai đó làm bản thay thế, anh nghĩ sao không phải mình","kq":"prototype cuối tuần, có sale vài phút sau khi đăng"},
+  {"s":"05:10","e":"05:41","nut":["?"],"moi":"Next.js + Cursor, phần giao diện AI làm dở thì sửa tay",
+   "tom":"Trước đây chỉ React, JavaScript, HTML, CSS; từ khi có Next.js thì dùng làm framework full-stack cho cả ứng dụng, code với Cursor và các LLM nhưng phần thiết kế chúng làm hay xấu nên phải chỉnh tay khá nhiều"},
+  {"s":"06:28","e":"07:15","nut":["4.9","?"],"moi":"Chọn Reddit vì có triệu impression mà không cần follower",
+   "tom":"Lúc đó anh chỉ có 60 follower Twitter suốt nhiều năm, nhưng rành Reddit — nơi kiếm được hàng triệu impression mà không cần follower nào; bài đầu chỉ là ảnh chụp tính năng lõi (giao diện web dialer sạch sẽ) kèm vài câu mô tả"},
+  {"s":"07:15","e":"07:46","nut":["4.9","4.1"],
+   "tom":"Đăng vào các sub cho dân du lịch thì bị chặn rất nhanh nhưng vẫn kịp có người thấy, và sale đầu tiên đến chỉ vài phút sau bài Reddit đầu; sau đó chuyển sang các sub entrepreneur, nơi được phép tự quảng bá và gắn link","kq":"150 user trong tuần đầu"},
+  {"s":"07:46","e":"08:34","nut":["3.6","2.3"],
+   "tom":"Lần này khác vì đây không phải ý tưởng mà là thị trường đã validate: trước hết bằng tweet của Peter Levels, sau đó bằng chính đơn hàng từ Reddit; cộng với thời điểm Microsoft đóng Skype tạo virality cho mọi bài liên quan"},
+  {"s":"08:49","e":"09:20","nut":["2.7"],
+   "tom":"Bước 1 của playbook: chọn thị trường mà đối thủ là khủng long — mảng gọi quốc tế có công ty đã tồn tại 20–30 năm, chậm thích ứng; nhu cầu đã được chứng minh còn mình thắng nhanh ở chỗ dễ dùng và đẹp"},
+  {"s":"09:20","e":"09:50","nut":["4.1","?"],"moi":"Kể chuyện kỹ sư đơn độc thay chỗ gã khổng lồ",
+   "tom":"Bước 2: dựng MVP thật nhanh rồi đăng khắp X, Reddit, LinkedIn — không cần hoàn hảo nhưng phải đẹp, dễ dùng và tính năng lõi (gọi ra được) chạy ngon; và phải có câu chuyện, của anh là một kỹ sư đơn độc đứng vào chỗ của một công ty khổng lồ"},
+  {"s":"09:50","e":"10:38","nut":["4.5","?"],"moi":"Xin tác giả blog thay tên đối thủ vừa rút bằng tên mình",
+   "tom":"Bước 3: đối thủ lớn rút đi vẫn để lại vô số bài viết nhắc tên — anh tra keyword như Skype alternative, tìm các bài đang top, lần ra tác giả qua X, LinkedIn hay email và xin họ thêm tên mình; nhiều người đồng ý, có người thay hẳn Skype bằng Yatafone"},
+  {"s":"10:38","e":"11:11","nut":["4.14","3.2"],
+   "tom":"Bước 4: suốt 6 tháng anh nhắn tin cho từng khách trả tiền hỏi cảm nhận và trải nghiệm — mệt nhưng nhờ đó vẽ được bản đồ phân khúc user, và bắt được trải nghiệm tệ sớm trước khi nó biến thành review xấu"},
+  {"s":"11:11","e":"11:56","nut":["3.7","?"],"moi":"Bán gói enterprise chưa tồn tại rồi code ngay trong đêm",
+   "tom":"Bước 5: làm bản B2B càng sớm càng tốt vì séc to và churn thấp — gói enterprise ra đời vì một người nhắn lúc nửa đêm hỏi có không, anh trả lời có (dù chưa hề có) rồi code xuyên đêm để sáng hôm sau demo trực tiếp","kq":"khách đó vẫn trả khoảng $1.000/tháng"},
+  {"s":"11:56","e":"12:26","nut":["1.1","?"],"moi":"Chi phí biên 35% doanh thu vì phải trả Twilio",
+   "tom":"Stack: Cursor để code và viết copy, Vercel hosting, Ahrefs nghiên cứu keyword, Stripe thu tiền; anh tự code hệ thống xử lý support và admin panel bằng Cursor để trụ được một mình, còn chi phí lớn nhất là Twilio ăn khoảng 35% doanh thu tháng"},
+  {"s":"12:41","e":"13:29","nut":["4.5","?"],"moi":"Sitemap thiếu tiền tố www khiến Google bỏ qua toàn bộ trang",
+   "tom":"Lời khuyên cuối là làm SEO từ ngày đầu và kiên nhẫn hàng tháng; dù ra thị trường trước, anh vẫn bị đối thủ vượt hạng — lần ra mới thấy sitemap không có tiền tố www nên Google bỏ qua sạch các trang cần index"}
+ ],
+ "bo_qua": [
+  {"s":"05:41","e":"06:28","ly_do":"quảng bá Starter Story Build giữa video"},
+  {"s":"13:44","e":"14:24","ly_do":"outro quảng bá Starter Story Build"}
+ ]
+}

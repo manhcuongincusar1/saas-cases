@@ -1,0 +1,114 @@
+{
+ "f": "2026-03-01_i-make-15k-month-from-one-website",
+ "vid": "qIlX7cQ2UdU",
+ "segments": [
+  {
+   "s": "00:47",
+   "e": "01:17",
+   "nut": ["?"],
+   "moi": "Tài sản nằm im nhiều năm rồi bật lên khi được marketing đúng",
+   "tom": "Site game unblocked duckmath.org ra đời 4 năm trước và nằm im gần hết thời gian đó; riêng 4 tháng cuối nhảy từ 5.000 lên 150.000 daily active user và từ khoảng $1K lên $15K/tháng",
+   "kq": "$15K/tháng, 150.000 DAU"
+  },
+  {
+   "s": "01:17",
+   "e": "02:19",
+   "nut": ["?"],
+   "moi": "Kiếm tiền bằng AdSense theo thời gian ở lại và số trang xem",
+   "tom": "Kiếm tiền thuần bằng Google AdSense: kéo người từ mọi kênh social về site rồi giữ ở lại lâu nhất có thể, ~1,5 triệu user/tháng và mỗi user ra khoảng 1 cent; ngày thường $600-700, site vừa bán vài tuần trước",
+   "kq": "$600-700/ngày AdSense, bán $120.000"
+  },
+  {
+   "s": "02:50",
+   "e": "03:21",
+   "nut": ["?"],
+   "moi": "Sao chép nguyên mô hình của một creator thấy ngay trên feed",
+   "tom": "Ý tưởng đến từ việc lướt TikTok thấy một đứa nhỏ tuổi hơn khoe site game unblocked của nó; dựng lại trong 1-2 tuần, xấu tệ, rồi đăng TikTok 5 ngày/tuần suốt 2 năm mà gần như không ra gì",
+   "kq": "2 năm đăng đều, gần như không ra tiền"
+  },
+  {
+   "s": "03:21",
+   "e": "03:52",
+   "nut": ["4.1"],
+   "tom": "Một ngày tình cờ Duckmath ra $240 hoàn toàn thụ động dù bị bỏ bê 2 năm — đó là tín hiệu để quay lại đổ toàn lực marketing: soi đối thủ đang làm gì, làm video tốt nhất có thể và đánh bằng thuần số lượng",
+   "kq": "$240 trong một ngày thụ động"
+  },
+  {
+   "s": "04:07",
+   "e": "04:38",
+   "nut": ["?"],
+   "moi": "No-code trước, viết lại bằng code khi đã có người dùng",
+   "tom": "Bản đầu dựng trên Google Sites kéo thả, chỉ nhúng iframe game lấy từ nơi khác — nhìn tệ nhưng chạy được; được vài nghìn người dùng thì học React ở kỳ internship và viết lại toàn site, sau đó vibe coding bằng AI nên gần như không đụng code nữa"
+  },
+  {
+   "s": "04:38",
+   "e": "05:10",
+   "nut": ["?"],
+   "moi": "A/B test tăng số trang mỗi phiên để tăng doanh thu quảng cáo",
+   "tom": "Không biết thiết kế nên copy luôn bố cục của người khác; về sau A/B test để vừa giữ người ở lại lâu vừa đẩy họ click qua nhiều trang — càng nhiều trang thì càng nhiều lượt hiện quảng cáo, càng nhiều tiền"
+  },
+  {
+   "s": "05:26",
+   "e": "05:57",
+   "nut": ["4.11", "4.10"],
+   "tom": "Ba tài khoản TikTok, mỗi ngày 3 video, 5 ngày/tuần, cross-post sang Instagram Reels, YouTube Shorts và Snapchat — Snapchat ít ai để ý nhưng đều đặn trên 20.000 view; hôm sau soi engagement video hôm trước rồi làm ngay 3 cái mới"
+  },
+  {
+   "s": "05:57",
+   "e": "06:28",
+   "nut": ["4.6", "4.1"],
+   "tom": "Nghiên cứu rồi copy thẳng các video ăn nhất của đối thủ và làm gấp đôi công: họ đăng 1 lần/ngày hoặc 1 lần/tuần thì mình đăng nhiều hơn với chất lượng tương đương; sau đó kèm cặp một người khác quay theo đúng format để rảnh tay"
+  },
+  {
+   "s": "06:28",
+   "e": "07:31",
+   "nut": ["4.1", "4.10"],
+   "tom": "Video ăn nhất: 2,1 triệu view TikTok, làm trong 30 phút, chỉ quay laptop bằng điện thoại, chất lượng tệ nhưng hook hình ảnh mạnh rồi chỉ thẳng vào link; đúng video đó lên Instagram được 3,2 triệu view, tổng 5 triệu — và đây là tập thứ 30 của một series đổi hook",
+   "kq": "5 triệu view, ước khoảng $1.000 từ một video"
+  },
+  {
+   "s": "08:18",
+   "e": "09:05",
+   "nut": ["?"],
+   "moi": "Chủ động chào bán cho bên đã từng mua đối thủ cùng ngách",
+   "tom": "Một năm trước khi bán, thấy một công ty lớn mua lại site game nhỏ giống mình nên chủ động liên hệ đúng bên đó kèm toàn bộ số liệu; bị ép giá $100.000, ra counter-offer, chốt xong chuyển tiền qua escrow",
+   "kq": "chốt $120.000 (bị lowball $100K trước đó)"
+  },
+  {
+   "s": "09:21",
+   "e": "10:23",
+   "nut": ["1.4", "4.6"],
+   "tom": "Playbook 2026: chọn ngách mà mình đã biết cách marketing (biết tiếp cận sinh viên thì làm tool học bằng AI), dựng MVP trong 2-3 ngày bằng AI, mổ 10-20 video ăn nhất của đối thủ tìm điểm chung ở hook và CTA, rồi đăng TikTok mỗi ngày"
+  },
+  {
+   "s": "10:38",
+   "e": "11:40",
+   "nut": ["?"],
+   "moi": "Stack chi phí gần bằng 0 cho site kiếm tiền quảng cáo",
+   "tom": "Cloudflare lo hosting, domain và lưu static data; Supabase $20 cho backend, auth, leaderboard và coin; đổi Google Analytics sang PostHog rồi xin được startup program tặng $50.000 credit để A/B test; AdSense chỉ cần dán một snippet, không phải nói chuyện với ai"
+  },
+  {
+   "s": "11:40",
+   "e": "12:11",
+   "nut": ["4.10", "4.14"],
+   "tom": "Repurpose.io tự lấy video TikTok đăng sang YouTube, Instagram và Snapchat nên không tốn thêm công; Discord cộng đồng lên 7.000 thành viên để hype tính năng mới; và trả bạn gái $200/tuần để quay thêm khoảng 5 video"
+  },
+  {
+   "s": "12:11",
+   "e": "12:57",
+   "nut": ["?"],
+   "moi": "Lì đủ lâu ở mức thấp, nhưng biết lúc nào nên buông",
+   "tom": "Bài học lớn nhất là lì: suốt 4 năm không bỏ, vẫn đăng TikTok đều và sửa site từng chút, chính nhờ vậy mới có cái ngày $240 bất ngờ — nhưng kèm vế thứ hai: phải biết lúc nào nên bỏ dự án"
+  },
+  {
+   "s": "13:59",
+   "e": "15:16",
+   "nut": ["2.B2"],
+   "tom": "Phân biệt 'ego business' — thứ người ngoài vỗ tay vì nghe nghiêm túc, kiểu B2B SaaS — với business mình thật sự nên làm; game và website nghe kém sang nhưng ra tiền, mà ra tiền mới là hướng đúng"
+  }
+ ],
+ "bo_qua": [
+  {"s": "07:31", "e": "08:18", "ly_do": "quảng bá organic short form playbook của Starter Story Build"},
+  {"s": "15:48", "e": "16:20", "ly_do": "tự quảng bá Starter Story Build"}
+ ]
+}

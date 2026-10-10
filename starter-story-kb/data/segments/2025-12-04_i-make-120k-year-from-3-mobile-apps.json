@@ -1,0 +1,81 @@
+{
+ "f": "2025-12-04_i-make-120k-year-from-3-mobile-apps",
+ "vid": "SJOFUBNHYqU",
+ "segments": [
+  {
+   "s": "01:34",
+   "e": "02:06",
+   "nut": ["?"],
+   "moi": "Bộ chỉ số chuẩn của app mobile niche",
+   "tom": "Số thật của 3 app: $10,4K/tháng toàn subscription, hơn 20.000 lượt tải gần như 100% organic từ App Store và search, 1.500 subscriber trả tiền, free→paid 8% (cao vì app niche), retention free→paid ngày 30 là 61%.",
+   "kq": "$10,4K/tháng, 120K ARR sau 10 tháng"
+  },
+  {
+   "s": "02:06",
+   "e": "03:23",
+   "nut": ["?"],
+   "moi": "Danh mục app cùng một tệp khán giả để tái dùng kênh phân phối",
+   "tom": "Ba app đều trong health & wellness: Go Polar (track cold plunge/sauna qua Apple Watch), SunSeek (phơi nắng sáng + vitamin D), Posture AI (sửa tư thế dân văn phòng), sắp có Tempo. Cùng tệp nên user chồng lấn — ra app mới là bán cho khách cũ, không phải marketing cold."
+  },
+  {
+   "s": "03:38",
+   "e": "04:40",
+   "nut": ["?"],
+   "moi": "Vào chỗ nhìn thấy hàng nghìn founder để học nghề trước khi tự làm",
+   "tom": "Bỏ đại học sau năm nhất, email hàng loạt entrepreneur và investor gặp trên Twitter/podcast, xin được việc ở quỹ angel Launch và ở đó 7 năm — ngồi call với hàng nghìn founder xem họ build gì, kiếm user đầu ra sao, rồi mới tự làm."
+  },
+  {
+   "s": "04:40",
+   "e": "05:58",
+   "nut": ["2.8", "2.1"],
+   "tom": "Go Polar sinh ra vì anh muốn track cold plunge/sauna mà App Store không có app nào làm tốt. Nguyên tắc: tự mình đau thì làm hơn đối thủ và chịu chăm chút chi tiết — build app vốn khó, không yêu thì không bỏ công vào phần chi tiết."
+  },
+  {
+   "s": "08:01",
+   "e": "08:47",
+   "nut": ["2.8"],
+   "tom": "Playbook bước 1–3: chốt cái mình quan tâm sâu (với anh là health & wellness); bước 2 để ý vấn đề gặp phải khi thật sự làm hoạt động đó, nó tự nổi lên; bước 3 build MVP thật nhanh bằng Lovable, Replit hoặc Bolt, đừng phân tích lâu."
+  },
+  {
+   "s": "08:47",
+   "e": "09:03",
+   "nut": ["?"],
+   "moi": "Nghĩ phân phối từ ngày 0, tự làm creator trong niche của mình",
+   "tom": "Bước 4: nghĩ phân phối từ ngày 0, trước cả khi launch. Niche nào cũng có creator; mà nếu giải chính vấn đề của mình thì tự làm content được vì biết rõ vì sao build — cứ nói về nó trên các nền tảng là khán giả tự tới."
+  },
+  {
+   "s": "09:03",
+   "e": "09:49",
+   "nut": ["?"],
+   "moi": "Lập product studio, coi mỗi app là một lượt luyện tay",
+   "tom": "Bước 5: đủ reps. Sản phẩm đầu của phần lớn founder không nổ, cái thứ 3–4–5 mới nên hình. Anh lập the wellness company như product studio vì không biết cái nào thắng — SunSeek ngay ngày đầu đã chỉn chu hơn Go Polar nhờ reps."
+  },
+  {
+   "s": "09:49",
+   "e": "11:39",
+   "nut": ["?"],
+   "moi": "Tính năng lõi đo lường được làm điểm bán của app wellness",
+   "tom": "Demo: Go Polar tách hoạt động nóng/lạnh kèm nhịp tim và nhiệt độ nước; SunSeek đếm phút nắng sáng và có lux calculator chĩa thẳng vào mặt trời; Posture AI dựng máy vào tường scan tư thế rồi chỉ chỗ lệch; Tempo gộp wearable + xét nghiệm ra healthspan score 81."
+  },
+  {
+   "s": "11:39",
+   "e": "12:10",
+   "nut": ["?"],
+   "moi": "Stack chạy nhiều app mobile cùng lúc",
+   "tom": "Stack: Figma design, Claude Code + Xcode cho app, Supabase backend, iMessage làm support, RevenueCat cho subscription/paywall, Sentry crash log, PostHog analytics, Linear để quản nhiều app, CapCut, Framer landing, Lovable test MVP trước khi build thật."
+  },
+  {
+   "s": "12:10",
+   "e": "12:26",
+   "nut": ["1.1", "1.3"],
+   "tom": "Toàn bộ tool tốn ~$300/tháng, Apple cắt 15% vì doanh thu dưới $1 triệu — biên vẫn giữ quanh 80–85%.",
+   "kq": "biên 80–85%, chi phí tool $300/tháng"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "01:04", "ly_do": "intro/hook của kênh"},
+  {"s": "05:58", "e": "07:30", "ly_do": "quảng cáo Avalara AvaTax (sponsor)"},
+  {"s": "12:26", "e": "12:57", "ly_do": "lời khuyên chung chung 'if you care about it, ship it'"},
+  {"s": "12:57", "e": "13:52", "ly_do": "lời cảm ơn và quảng bá Starter Story Build"}
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "f": "2025-10-01_my-two-apps-made-30m",
+ "vid": "w8oUlfgvcTI",
+ "segments": [
+  {"s":"01:18","e":"02:19","nut":["2.1","2.2"],
+   "tom":"Mở công ty thế chấp năm 19 tuổi rồi bị khủng hoảng 2008 xoá sạch; thấy người trong văn phòng hỏi mua danh sách loan officer nên bán list, làm agency đó 10 năm (2007–2017) và liên tục vấp chất lượng dữ liệu","kq":"mất trắng sau 2008, xoay sang agency bán data"},
+  {"s":"02:34","e":"03:04","nut":["2.1","2.7"],
+   "tom":"Data mua từ vendor chỉ đúng 50–60%, tự scrape đúng 40–50%, mỗi list phải verify email và gửi số điện thoại sang call center ở Philippines — chỗ đau đó thành UpLead: nhập ICP, export ra data đã verify real-time"},
+  {"s":"03:04","e":"03:52","nut":["2.7","2.6"],
+   "tom":"Signaturely ra đời 2020 khi ký giấy chuyển hẳn lên mạng: soi thấy DocuSign là ông lớn đã lên sàn nhưng sản phẩm rối, nên làm bản đơn giản tới mức bà ngoại cũng dùng được, rồi kéo khách bằng SEO và cold email","kq":"1,6 triệu user"},
+  {"s":"04:07","e":"04:23","nut":["2.7","2.B1"],
+   "tom":"Bước 1 của framework: chỉ chọn thị trường đã có product-market fit sẵn — theo lời anh, không phải Steve Jobs, GPA hồi đi học 1.5, nên vào chỗ đã chứng minh có người mua thì dễ hơn nhiều"},
+  {"s":"04:23","e":"04:38","nut":["?"],"moi":"Đọc review 1–2 sao của đối thủ lớn để tìm góc khác biệt",
+   "tom":"Bước 2: góc riêng không được chỉ là rẻ hơn — vào đọc review 1 và 2 sao của các ông lớn trong ngành, cái người ta chê chính là twist của mình, và họ cũng là nhóm khách dễ kéo về nhất"},
+  {"s":"04:38","e":"05:09","nut":["2.B3"],
+   "tom":"Bước 3 khó nhất là kéo khách có lãi, phải sở hữu một kỹ năng thật (cold email, cold call, SEO hoặc ads — anh tự học qua sách và YouTube); bước 4 là chịu làm và chịu ngã","kq":"thất bại hơn 20 business trước khi có 2 cái ăn"},
+  {"s":"05:24","e":"06:27","nut":["2.7","4.5"],
+   "tom":"Ba thị trường anh sẽ nhảy vào năm 2025: CRM siêu đơn giản, phần mềm payroll cho SMB (copy nguyên playbook SEO template và tool của FreshBooks), và tool analytics website có thêm phần đo nhắc tên trên LLM"},
+  {"s":"07:42","e":"08:14","nut":["1.3","?"],"moi":"Chỉ số thật của hai SaaS bootstrap không gọi vốn",
+   "tom":"UpLead: hơn 4.000 khách, hơn $30M doanh số, 100.000 lượt truy cập web mỗi tháng; Signaturely: 1,6 triệu user, hơn $1,5M doanh số, 800.000 lượt truy cập mỗi tháng — cả hai đều không gọi một xu vốn","kq":"$30M + $1,5M doanh số, zero funding"},
+  {"s":"08:29","e":"09:17","nut":["?"],"moi":"Mẫu cold email ngắn neo vào tên đối thủ lớn",
+   "tom":"Nguyên văn email đem về $1M ARR đầu tiên: tiêu đề chỉ Hi James, mở bằng đã xem LinkedIn của anh, chào hàng neo vào ZoomInfo nhưng có verify email real-time và rẻ hơn, chốt bằng câu xin dùng thử miễn phí","kq":"$1M ARR đầu tiên thuần cold email"},
+  {"s":"09:17","e":"10:03","nut":["4.5","4.1"],
+   "tom":"Signaturely đi từ 0 lên 1,6 triệu user gần như thuần SEO: một tool ký tên online free (gõ hoặc vẽ tay rồi tải về) đẩy sang ký tài liệu, cộng loạt template hợp đồng marketing, xây dựng, cho thuê nhà","kq":"1.000 khách đầu tiên từ tool + template"}
+ ],
+ "bo_qua": [
+  {"s":"06:27","e":"07:42","ly_do":"quảng cáo Vanta (SOC 2 compliance), giảm $1.000 cho người xem Starter Story"},
+  {"s":"10:50","e":"11:33","ly_do":"outro quảng bá chương trình Starter Story Build"}
+ ]
+}

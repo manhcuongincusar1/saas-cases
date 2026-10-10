@@ -1,0 +1,27 @@
+{
+ "f": "2024-10-21_9-things-that-make-me-1-8m-year",
+ "vid": "GFnBp8lMIf4",
+ "segments": [
+  {"s":"00:31","e":"01:38","nut":["3.7"],
+   "tom":"Pat dùng Loom thay cho email: mọi lần góp ý, giao việc hay dạy người trong team đều quay Loom. Anh quay 5 phút giải thích toàn bộ flow Klaviyo của mình gửi cho Pieter Levels chơi cho vui; Levels bảo đây là thứ giá trị nhất anh từng xem và nên đem bán. Pat tạo một link thanh toán Stripe, đưa lên mạng và thu về $20.000 trong một ngày chỉ bằng pre-order, không phải làm gì thêm","kq":"$20.000 trong 1 ngày từ pre-order một video 5 phút"},
+  {"s":"03:00","e":"04:17","nut":["?"],"moi":"Giai đoạn chồng lấn: deep work sáng sớm trước giờ đi làm",
+   "tom":"Hồi còn làm 9–5, Pat chỉ còn vài tiếng mỗi ngày và làm việc rất tán loạn (Twitter mở, mười thứ mở). Sau khi đọc Deep Work anh đổi cách: dậy sớm, ra Starbucks đầu phố, đeo tai nghe bật playlist, chặn hết website, tắt điện thoại và làm đúng những việc khó nhất, đáng sợ nhất — code, viết, giao việc","kq":"365 ngày sau thì business ra tiền và nghỉ được việc"},
+  {"s":"06:08","e":"06:56","nut":["?"],"moi":"Một bài Reddit chỉ 'kha khá' cũng đẻ ra tệp email đầu tiên",
+   "tom":"Pat dựng Starter Story xong tưởng sẽ nổ, thực tế không ai vào. Sau vài tháng loay hoay tìm khách, anh đăng đúng một bài lên Reddit — bài đó cũng chẳng viral gì, chỉ tầm 400 upvote — nhưng kéo về khoảng 1.000 người đăng ký email và từ đó ra những khách hàng đầu tiên","kq":"~400 upvote → ~1.000 email → khách đầu tiên"},
+  {"s":"06:56","e":"07:27","nut":["4.1"],
+   "tom":"Cách chơi Reddit: dân Reddit ghét spam và ngửi được mùi chào hàng từ xa. Nên vào đúng subreddit của mình, sort theo top posts và tìm những bài đang khoe startup một cách kín đáo — nhìn là hiểu format phải viết thế nào. Đừng bỏ cuộc sau lần đầu, cứ đăng tiếp"},
+  {"s":"09:04","e":"10:05","nut":["2.B3"],
+   "tom":"Đứng cạnh tấm plaque 100.000 sub, Pat nói thẳng: build sản phẩm gì hay sản phẩm tốt cỡ nào không quan trọng bằng phân phối nó ra sao. YouTube là một trong những cách tốt nhất vì phía sau màn hình là người thật, mình dựng được quan hệ với họ và một video có thể đổi đời qua đêm; anh cho rằng vẫn chưa muộn để bắt đầu"},
+  {"s":"11:07","e":"11:52","nut":["?"],"moi":"Kinh tế học của email list: chi phí công cụ so với doanh thu nó đẻ ra",
+   "tom":"Starter Story có list 250.000–300.000 người, trả Klaviyo khoảng $4.000/tháng để gửi vài triệu email mỗi tháng. Pat gọi đó là rẻ so với doanh thu nó tạo ra: trung bình $80.000–120.000/tháng. Chi tiết vui: Klaviyo chính là nhà tài trợ đầu tiên của Starter Story, CEO của họ gửi séc $12.000 để tài trợ newsletter","kq":"$4K/tháng chi phí → $80–120K/tháng doanh thu"},
+  {"s":"11:52","e":"12:37","nut":["?"],"moi":"Hai chuỗi email tối thiểu: welcome sequence và nhắc bỏ giỏ hàng",
+   "tom":"Không nhất thiết phải Klaviyo, nhưng bắt buộc phải có chiến lược email — Pat coi đây là thứ bị bỏ quên nhiều nhất. Tối thiểu hai thứ: welcome sequence 1–5 email kể một câu chuyện khi có người đăng ký, và chuỗi nhắc khi khách vào trang thanh toán mà không mua, kèm mã giảm giá nếu cần. Mọi business kiếm nhiều tiền đều làm đúng hai cái flow này"}
+ ],
+ "bo_qua": [
+  {"s":"04:17","e":"05:05","ly_do":"tự quảng bá Starter Story Academy + deep work checklist"},
+  {"s":"01:38","e":"03:00","ly_do":"đoạn về trà và bỏ cà phê, thuần đời sống cá nhân"},
+  {"s":"05:05","e":"06:08","ly_do":"khoe MacBook Pro 16 inch, không phục vụ khung"},
+  {"s":"07:42","e":"09:04","ly_do":"sở thích chơi tennis, không phục vụ khung"},
+  {"s":"10:05","e":"11:07","ly_do":"chuyện nghiện nicotine, không phục vụ khung"}
+ ]
+}

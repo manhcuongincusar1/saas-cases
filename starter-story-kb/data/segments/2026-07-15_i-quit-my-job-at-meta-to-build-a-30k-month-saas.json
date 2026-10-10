@@ -1,0 +1,86 @@
+{
+ "f": "2026-07-15_i-quit-my-job-at-meta-to-build-a-30k-month-saas",
+ "vid": "2_lpZ503ZGg",
+ "segments": [
+  {
+   "s": "01:17",
+   "e": "01:49",
+   "nut": ["?"],
+   "moi": "Vận hành SaaS $30K/tháng song song job full-time",
+   "tom": "LiveTourney là SaaS giúp sân golf chạy giải đấu, khoảng 150 sân đang dùng; trong lúc đó Matt vẫn làm senior software engineer ở team AI của Meta và thấy không kham nổi hai việc nữa.",
+   "kq": "$350K ARR, run rate ~$800K/năm"
+  },
+  {
+   "s": "02:51",
+   "e": "03:21",
+   "nut": ["2.7", "2.1"],
+   "tom": "Anh chơi giải ở sân địa phương, thấy chẳng ai dùng gì để tính điểm; hỏi pro sao không xài Golf Genius thì nhận đúng câu 'quá phức tạp, quá đắt' — anh coi đó là cơ hội và build cho chính giải đầu tiên, làm đêm và cuối tuần."
+  },
+  {
+   "s": "03:21",
+   "e": "04:06",
+   "nut": ["?"],
+   "moi": "Stack tối giản Next.js + Firebase cho SaaS B2B nhỏ",
+   "tom": "Chỉ là web app: Next.js lo render, Google Firebase làm backend. Người chơi đến sân được phát scorecard, quét QR vào thẳng leaderboard, nhập điểm theo nhóm và bảng xếp hạng cập nhật real-time."
+  },
+  {
+   "s": "05:38",
+   "e": "06:09",
+   "nut": ["?"],
+   "moi": "Giữ job full-time làm lưới an toàn tới khi hết kham nổi",
+   "tom": "Kế hoạch của anh luôn là ôm cả hai càng lâu càng tốt để build ở nhịp bền mà không phải chịu rủi ro mất lương và benefits; chỉ tới khi có hai con nhỏ thì hai việc cùng lúc mới thành bất khả thi."
+  },
+  {
+   "s": "06:24",
+   "e": "06:55",
+   "nut": ["?"],
+   "moi": "Đếm số đợt layoff để thấy job security cũng là rủi ro",
+   "tom": "Giá thật của việc ôm cả hai: 6h sáng dậy fix bug, nửa đêm Chủ nhật cố đẩy feature mới. Đổi lại, 6 năm ở Meta anh đã chứng kiến hơn 6 đợt layoff, nên cái gọi là an toàn cũng chẳng còn là bảo đảm."
+  },
+  {
+   "s": "07:41",
+   "e": "08:11",
+   "nut": ["?"],
+   "moi": "Nghỉ việc sau khi đã có doanh thu, không nghỉ để đi tìm",
+   "tom": "Pat kể lúc anh nghỉ việc chỉ còn $12.000 trong tài khoản và chính thế bí đó đẩy anh đi; nhưng phần lớn người nghỉ việc rồi mới đi tìm thì không biết ưu tiên gì — Matt đã xong phần khó là ra doanh thu và có khách."
+  },
+  {
+   "s": "08:28",
+   "e": "08:59",
+   "nut": ["?"],
+   "moi": "Chốt cứng khung 6h–9h sáng để build khi còn đi làm",
+   "tom": "Lời khuyên cho người vừa đi làm vừa build: cắt hẳn một khung giờ cố định trong ngày và giữ đúng nó — với anh là 6h đến 9h sáng, dậy sớm làm cho xong trước khi vào ca chính."
+  },
+  {
+   "s": "08:59",
+   "e": "09:30",
+   "nut": ["2.0", "2.8"],
+   "tom": "Anh tìm ra ý tưởng vì làm đúng thứ mình mê nên không thấy như đang đi làm; Pat bổ sung: nhiều người build phần mềm cho nha sĩ trong khi không phải nha sĩ, chẳng hiểu gì về họ, đi được 3 tháng là bỏ."
+  },
+  {
+   "s": "10:32",
+   "e": "11:05",
+   "nut": ["?"],
+   "moi": "Ngưỡng nghỉ việc là chuyện khẩu vị rủi ro, không phải con số",
+   "tom": "Pat chốt: kênh này từng phỏng vấn người ở lại job tới khi business ra $80.000/tháng mới nghỉ. Nghỉ lúc nào rốt cuộc là chuyện chịu được bao nhiêu rủi ro, và chuyện đó quan trọng hơn cả việc chọn ý tưởng nào."
+  },
+  {
+   "s": "11:39",
+   "e": "12:40",
+   "nut": ["?"],
+   "moi": "Chốt nghỉ việc ở mốc business đã sẵn sàng nuôi mình",
+   "tom": "Ba tuần sau anh gọi lại báo đã nghỉ Meta: đợt layoff tuần trước anh không bị (bị thì còn dễ quyết hơn), phải tự 1-1 với sếp như đi chia tay. Lý do chốt là business đã đủ chín để anh vào full-time.",
+   "kq": "nghỉ Meta, all-in ở mốc ~$350K ARR"
+  },
+  {
+   "s": "13:13",
+   "e": "13:29",
+   "nut": ["?"],
+   "moi": "Job full-time chặn luôn kênh phân phối cá nhân",
+   "tom": "Một cái giá ít ai nói: suốt thời gian ở Meta anh không được nói về sản phẩm trên LinkedIn hay mạng xã hội; việc đầu tiên sau khi nghỉ là bắt đầu công khai kể chuyện mình đang build gì."
+  }
+ ],
+ "bo_qua": [
+  {"s": "04:36", "e": "05:38", "ly_do": "quảng cáo database 100+ ý tưởng micro SaaS làm cùng HubSpot"}
+ ]
+}

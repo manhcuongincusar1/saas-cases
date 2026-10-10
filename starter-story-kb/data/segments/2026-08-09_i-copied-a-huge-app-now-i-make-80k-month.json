@@ -1,0 +1,107 @@
+{
+ "f": "2026-08-09_i-copied-a-huge-app-now-i-make-80k-month",
+ "vid": "GQ27QVp3SzQ",
+ "segments": [
+  {
+   "s": "01:01",
+   "e": "02:03",
+   "nut": ["2.6"],
+   "tom": "App đếm calo bằng AI kiểu Cal AI nhưng làm riêng cho thị trường Israel bằng tiếng Hebrew: chụp ảnh món ăn ra calo + macro. Ra mắt 6/2025 với $1K tháng đầu, tăng đều tới hơn $81K vào tháng 4/2026.",
+   "kq": "$81K/tháng sau 11 tháng"
+  },
+  {
+   "s": "02:18",
+   "e": "02:50",
+   "nut": ["2.6", "2.B1"],
+   "tom": "Đang làm marketing thuê cho người khác thì nghe podcast của Zach — founder Cal AI — kể scale lên $1M/tháng, và nhận ra app đã tồn tại không thành vấn đề nếu thị trường mình chưa ai biết tới nó."
+  },
+  {
+   "s": "03:03",
+   "e": "03:51",
+   "nut": ["?"],
+   "moi": "Timeline thật dựng app iOS bằng AI khi không biết code",
+   "tom": "Không phải dev, chỉ biết chút code tự học; Cursor vừa ra nên thử prompt AI: 2 tuần có bản chạy đủ tính năng chính, tổng 2 tháng mới lên App Store — phần lâu nhất là chờ Apple duyệt developer program và review."
+  },
+  {
+   "s": "04:06",
+   "e": "04:38",
+   "nut": ["2.6"],
+   "tom": "Tháng 3/2025 đang tìm ý tưởng thì nghe podcast Cal AI và chốt ngay: bản địa hoá thứ đã thắng là nước zero-to-one dễ nhất. Kèm quy tắc — thị trường nhỏ như Israel thì niche phải cực lớn, không vào vertical tí hon."
+  },
+  {
+   "s": "05:32",
+   "e": "05:58",
+   "nut": ["2.6"],
+   "tom": "Không phải clone 1:1 nhưng lõi sản phẩm gần y hệt Cal AI; khác biệt chỉ nằm ở tiếng Hebrew và một loạt chỉnh nhỏ cho hợp cách người Israel ăn và nói về đồ ăn."
+  },
+  {
+   "s": "05:58",
+   "e": "06:28",
+   "nut": ["2.B3"],
+   "tom": "Ai cũng dựng được app bằng Cursor trong 2 tuần nên khác biệt thật là brand và phân phối: mua được một user với nửa giá đối thủ thì dòng tiền dư ra cho phép chi nhiều hơn họ để tăng trưởng."
+  },
+  {
+   "s": "06:43",
+   "e": "07:15",
+   "nut": ["4.3", "4.18"],
+   "tom": "Kênh nào cũng chạy được — influencer, paid ads, SEO — câu hỏi là kênh nào hiệu quả nhất cho thị trường của mình; anh chọn paid ads vì CPM Israel thấp hơn Mỹ nhiều nên có lãi mà không cần test tốn kém."
+  },
+  {
+   "s": "07:15",
+   "e": "07:30",
+   "nut": ["4.1", "4.10"],
+   "tom": "Mổ content viral nhất của các app cùng loại ở Mỹ cộng content fitness/nutrition viral nhất ở Israel, dựng creative quảng cáo từ đó — 4 tháng lên khoảng $20K/tháng.",
+   "kq": "$20K/tháng sau 4 tháng"
+  },
+  {
+   "s": "07:30",
+   "e": "08:00",
+   "nut": ["4.16", "4.4"],
+   "tom": "Đợi có traction và social proof rồi mới đụng influencer lớn: thay vì trả cả gia tài cho một story, anh chia % doanh thu để lợi ích gắn nhau và có 2 gương mặt nổi tiếng đại diện app — đây là cú đẩy 20K lên 80K.",
+   "kq": "$20K → $80K/tháng"
+  },
+  {
+   "s": "08:17",
+   "e": "08:48",
+   "nut": ["4.16"],
+   "tom": "Hợp đồng với influencer viết theo timeline công việc: rõ số lượng content phải giao và số ngày quay/thu mỗi tháng; phần chia là rev-share trên toàn bộ doanh thu đến từ Israel."
+  },
+  {
+   "s": "08:48",
+   "e": "09:50",
+   "nut": ["4.16"],
+   "tom": "Phải có social proof rồi mới tiếp cận mega influencer, và chính việc đợi tới $20K/tháng giúp đàm phán deal tốt hơn hẳn 50/50; ăn chia doanh thu khiến họ nhắc app cả ở chỗ không được trả tiền như show TV."
+  },
+  {
+   "s": "09:54",
+   "e": "10:20",
+   "nut": ["?"],
+   "moi": "Stack và chi phí hàng tháng của app iOS một người",
+   "tom": "Stack một người: Claude cho code và AI agent $200/tháng, PostHog analytics $20, RevenueCat quản lý subscription, Supabase database/storage $35, Expo cho in-app update $100."
+  },
+  {
+   "s": "11:06",
+   "e": "12:07",
+   "nut": ["2.B1", "2.6"],
+   "tom": "App Store có hàng trăm app đếm calo và producer đã dùng 10 cái mà không thấy chúng là clone của nhau; người Israel nghĩ về ăn uống khác người Mỹ nên app tiếng Hebrew hợp thị trường đó hơn cả Cal AI."
+  },
+  {
+   "s": "12:38",
+   "e": "13:09",
+   "nut": ["4.18", "2.3"],
+   "tom": "Thị trường nhiều nước vẫn trống; nhiều founder kể họ chạy paid ads ở Argentina trước vì metric đẹp hơn. Và vấn đề mới liên tục xuất hiện — AI vừa mở ra API chụp món ăn ra calo khá chính xác."
+  }
+ ],
+ "bo_qua": [
+  {
+   "s": "04:54",
+   "e": "05:27",
+   "ly_do": "quảng bá database 30 ý tưởng app iOS của Starter Story"
+  },
+  {
+   "s": "13:09",
+   "e": "13:45",
+   "ly_do": "quảng bá lại database 30 ý tưởng app cuối video"
+  }
+ ]
+}

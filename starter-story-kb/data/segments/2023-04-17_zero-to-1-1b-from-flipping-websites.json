@@ -1,0 +1,118 @@
+{
+ "f": "2023-04-17_zero-to-1-1b-from-flipping-websites",
+ "vid": "Km0FNcBI9CM",
+ "segments": [
+  {
+   "s": "00:51",
+   "e": "01:47",
+   "nut": ["?"],
+   "moi": "Lật website nhỏ để học quy trình mua–bán business",
+   "tom": "Bắt đầu 2008–2009 bằng mua bán tên miền, nhưng không hiểu tên miền có giá trị gì nên chuyển sang mua website đã có doanh thu; deal đầu tiên mua $100, nuôi cho ra chút tiền mỗi tháng rồi bán cuối tháng — tiền mua đặt hết trên thẻ tín dụng vì không có vốn",
+   "kq": "$100 → $500 ở deal đầu tiên"
+  },
+  {
+   "s": "01:47",
+   "e": "02:43",
+   "nut": ["?"],
+   "moi": "Dịch vụ tiếp theo lộ ra từ chính yêu cầu của học viên/khán giả",
+   "tom": "2010 tốt nghiệp, không có vốn để sống bằng nghề mua-bán nên viết sách và bán khoá học về mua bán website/domain, đủ trả tiền nhà; rồi học viên bắt đầu nhắn 'tôi có business, anh bán hộ được không' — không phải bỏ vốn, đúng quy trình mình đã rành, lại được trả phí, thế là tình cờ bước vào M&A. Thời điểm đó không có M&A firm hay broker nào làm cỡ deal này, và ngân hàng đầu tư lớn thì không thèm nghe máy",
+   "kq": "$30.000 từ khoá học thành vốn mở firm"
+  },
+  {
+   "s": "02:43",
+   "e": "03:39",
+   "nut": ["?"],
+   "moi": "Tự đặt ràng buộc tài chính để ép mình chốt deal",
+   "tom": "Cơ chế tự ép: đầu mỗi tháng nạp tối đa hạn mức thẻ tín dụng để mua site, phải bán xong trước cuối tháng, không thì bắt đầu bị tính lãi — chính cái deadline lãi suất đó là động lực chốt deal. Chọn nghề này thay vì đi bưng bê vì chỉ cần laptop và internet, làm giờ nào cũng được"
+  },
+  {
+   "s": "04:07",
+   "e": "05:26",
+   "nut": ["?"],
+   "moi": "Thuê người cho đúng phần mình dở để thoát kiếp freelancer",
+   "tom": "Bản thân hoàn toàn không rành kỹ thuật (server, sửa code) dù nghề là mua bán website, nên việc đầu tiên là mở văn phòng nhỏ thuê 2 người lo kỹ thuật còn mình chỉ đi bán. Sau đó partner Ismael từ một ngân hàng đầu tư lớn gia nhập, áp nguyên bộ quy trình làm deal nhiều tỉ đô vào những deal lúc ấy lớn nhất mới $30.000 — vì nếu mãi làm một mình thì không scale được",
+   "kq": "deal lớn nhất thời điểm đó $30.000"
+  },
+  {
+   "s": "05:26",
+   "e": "06:20",
+   "nut": ["?"],
+   "moi": "Đo bằng dữ liệu rồi cắt hẳn mảng không ra tiền",
+   "tom": "Partner chỉ ra bằng số: đang chạy 4 mảng, 80% thời gian đổ vào những mảng gần như không ra tiền, còn mảng làm ra 80% doanh thu chỉ chiếm 20% thời gian — quyết định dừng hẳn các mảng kia thay vì cố duy trì"
+  },
+  {
+   "s": "06:20",
+   "e": "07:45",
+   "nut": ["?"],
+   "moi": "Chủ động email chủ business để mua (outbound acquisition)",
+   "tom": "Thứ tự: chốt ngân sách trước, rồi chọn mô hình mình thấy thoải mái (blog hay SaaS đều được), sau đó email thẳng chủ business — tin nhắn đầu chưa cần nói muốn mua. Tránh tin nhắn chung chung kiểu 'thích thứ anh đang xây, gọi điện nhé' vì founder bận luôn từ chối; nói rõ 'tôi đang tìm mua business, cái của anh có vẻ hợp, nói chuyện được không' thì người quan tâm sẽ tự phản hồi. Deal cỡ $10.000 thì không cần thuê firm hay tư vấn chuyên nghiệp"
+  },
+  {
+   "s": "08:12",
+   "e": "09:32",
+   "nut": ["1.5"],
+   "tom": "Ba dấu hiệu business đáng mua: (1) evergreen — không phải sản phẩm bất biến mà là ngách/khán giả còn quan tâm mãi; (2) có khách quay lại hoặc recurring — không bắt buộc là SaaS, một newsletter gửi đều cũng tính, vì $100 tiền marketing bỏ vào khách cũ luôn hiệu quả hơn đi thuyết phục người lạ; (3) đang tăng trưởng — người mua gần như luôn trả giá cao hơn cho business đang lớn"
+  },
+  {
+   "s": "09:32",
+   "e": "10:54",
+   "nut": ["?"],
+   "moi": "Deal lớn đầu tiên đến từ referral của khách cũ",
+   "tom": "Bước ngoặt là lần đầu bán được business 8 chữ số (trên $10 triệu) — trước đó cả ngành chỉ giao dịch cỡ $100.000 đến $1 triệu. Deal tới từ giới thiệu của một khách cũ đã từng bán business nhỏ qua họ; khách biết firm chưa từng làm deal cỡ đó nhưng vẫn tin vì có người bảo chứng. Bán $1 triệu và bán $20 triệu về bản chất không khác nhau, chỉ kỹ thuật hơn và nhiều luật sư/kế toán hơn",
+   "kq": "deal đầu tiên trên $10 triệu, sau đó cộng dồn thành thường xuyên"
+  },
+  {
+   "s": "11:21",
+   "e": "11:52",
+   "nut": ["?"],
+   "moi": "Thang phí môi giới M&A giảm dần theo quy mô deal",
+   "tom": "Phí bắt đầu từ 15% với giao dịch nhỏ rồi giảm bậc dần theo quy mô: bán $100.000 thì trả khoảng 15%, bán $100 triệu thì phí thấp hơn nhiều; business nhiều tỉ đô thì phí còn thấp nữa",
+   "kq": "phí 15% ở deal nhỏ"
+  },
+  {
+   "s": "11:52",
+   "e": "12:45",
+   "nut": ["1.5", "1.B1"],
+   "tom": "Business nhỏ được định giá theo bội số LỢI NHUẬN chứ không phải doanh thu — thông tin sai lan truyền vì với business một người thì hai con số gần bằng nhau (hay gặp: $50.000/tháng doanh thu, $5.000 chi phí). Khoảng phổ biến là 4–10 lần lợi nhuận năm; business tốt cao hơn, business tệ thấp hơn hoặc không bán được; có khách recurring, đang tăng trưởng và ở ngách sống lâu thì nằm giữa khoảng trở lên",
+   "kq": "bội số 4–10 lần lợi nhuận năm"
+  },
+  {
+   "s": "13:10",
+   "e": "14:33",
+   "nut": ["?"],
+   "moi": "Mua business thay vì tự khởi nghiệp, chọn cái kỹ năng mình bù đúng chỗ yếu chủ cũ",
+   "tom": "Nhược điểm duy nhất của việc mua là cần tiền, còn lại đều là ưu điểm — và tuyệt đối đừng mua business chưa ra tiền. Chọn cái mà kỹ năng mình bổ sung cho chỗ chủ cũ yếu: ví dụ SaaS nhỏ của một founder cực kỹ thuật nhưng mù marketing, mình giỏi marketing thì vào chạy SEO, social, email. Hai biến số đáng sợ nhất — có ai chịu trả tiền không, sản phẩm có chạy không — đã được loại bỏ sẵn"
+  },
+  {
+   "s": "14:33",
+   "e": "15:27",
+   "nut": ["?"],
+   "moi": "Chốt trước mình thật sự muốn gì trước khi vào bàn đàm phán",
+   "tom": "Trước khi đàm phán phải tự trả lời: mình cần nhiều tiền mặt nhất, hay cần thời gian bàn giao ngắn nhất, hay cần người mua giữ nguyên team? Các offer không bao giờ giống nhau — người trả cao nhất thường đòi mình ở lại làm 2 năm, người trả thấp hơn thì cho rời sau 3 tháng"
+  },
+  {
+   "s": "15:27",
+   "e": "16:19",
+   "nut": ["?"],
+   "moi": "Chọn trận để đánh trong đàm phán, cho bên kia thắng vài điểm",
+   "tom": "Sai lầm tệ nhất là bên kia đưa danh sách 10 điểm thì cãi lại cả 10 — làm vậy khả năng thành công tụt hẳn. Cách đúng: rà danh sách, chọn ra vài điểm mình thật sự quan tâm rồi chỉ đánh ở đó, chấp nhận để bên kia thắng những điểm còn lại; đàm phán đẹp nhất là khi thứ người mua coi trọng khác với thứ người bán coi trọng"
+  },
+  {
+   "s": "16:19",
+   "e": "17:17",
+   "nut": ["?"],
+   "moi": "Phải có ít nhất một chút vốn — $100 mở ra lựa chọn, $0 thì không",
+   "tom": "Với người tay trắng: không nhất thiết phải là business, flip cái gì cũng được; nhưng phải kiếm cho được chút vốn — đi làm vài ngày, vay mượn, làm gì cũng được — vì gần như không ai cho gì với $0, còn với $100 thì đã có rất nhiều thứ mua được"
+  },
+  {
+   "s": "17:17",
+   "e": "18:37",
+   "nut": ["?"],
+   "moi": "Vài deal đầu chỉ để học quy trình và tạo track record, không để kiếm sống",
+   "tom": "Đừng tính deal đầu theo tiền công giờ: mục tiêu là học cách bán, cách đàm phán, tích chuyên môn ngành — $100 thành $150 hay $200 cũng được. Mua $100 bán $200 không nuôi sống được ai, nhưng đúng kỹ năng đó áp vào mua $1 triệu bán $2 triệu (hoặc $10 triệu bán $20 triệu) thì được. Và một track record nhỏ nhưng lặp lại kiểu 'tôi đã biến $10.000 thành $20.000 nhiều lần' chính là thứ để sau này gọi nhà đầu tư"
+  }
+ ],
+ "bo_qua": [
+  {"s": "00:00", "e": "00:51", "ly_do": "intro dựng sẵn của kênh, nội dung lặp lại ở phần sau"}
+ ]
+}

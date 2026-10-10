@@ -1,0 +1,3212 @@
+[
+  {
+    "text": "This accidentally viral Tik Tok video made these engineers $600,000 a year with their app.",
+    "start": "00:00:00",
+    "end": "00:00:08"
+  },
+  {
+    "text": ">> We discovered this one format we call the feed in.",
+    "start": "00:00:06",
+    "end": "00:00:09"
+  },
+  {
+    "text": "For some reason, it was just like I hacked the Instagram algorithm.",
+    "start": "00:00:09",
+    "end": "00:00:15"
+  },
+  {
+    "text": ">> The crazy thing is to me they replicated the same exact video 300 times and it's still working for them.",
+    "start": "00:00:13",
+    "end": "00:00:20"
+  },
+  {
+    "text": "So while everyone else is getting caught up in the hamster wheel of chasing the latest trends, these three guys cracked the code that most marketers would kill for how to go viral on demand.",
+    "start": "00:00:20",
+    "end": "00:00:29"
+  },
+  {
+    "text": "and they've used a skill going viral to pull more than 300 million views, over a million app downloads, and they've built a multiple sixfigure business all from their basement.",
+    "start": "00:00:29",
+    "end": "00:00:38"
+  },
+  {
+    "text": "So, you said you estimate this one format, you've posted multiple times, and it's gotten over 200 million views.",
+    "start": "00:00:38",
+    "end": "00:00:44"
+  },
+  {
+    "text": "I would say potentially even 300 million.",
+    "start": "00:00:44",
+    "end": "00:00:47"
+  },
+  {
+    "text": ">> The funniest part is that they're not even marketers, they're engineers, and they stumbled into something that shouldn't work, but does.",
+    "start": "00:00:46",
+    "end": "00:00:54"
+  },
+  {
+    "text": ">> We were like, are we going viral somewhere?",
+    "start": "00:00:52",
+    "end": "00:00:54"
+  },
+  {
+    "text": "Like, what's happening?",
+    "start": "00:00:54",
+    "end": "00:00:56"
+  },
+  {
+    "text": "Turned out we just had a bug and everyone opening the app was getting hit by and overnight that was just our biggest boost probably like 25% for us.",
+    "start": "00:00:55",
+    "end": "00:01:04"
+  },
+  {
+    "text": "So in this interview with Peter the app's co-founder we're going to uncover exactly what they discovered and find out what makes this strategy so powerful to the point that they're still using it years later.",
+    "start": "00:01:03",
+    "end": "00:01:12"
+  },
+  {
+    "text": "Hopefully this will change how you think about content creation and viral app growth.",
+    "start": "00:01:12",
+    "end": "00:01:16"
+  },
+  {
+    "text": "And for those who don't know, this interview is brought to you by Superwall, the all-in-one platform for paywall management and revenue analytics for your mobile apps.",
+    "start": "00:01:16",
+    "end": "00:01:24"
+  },
+  {
+    "text": "Let's get into it.",
+    "start": "00:01:23",
+    "end": "00:01:24"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:01:24",
+    "end": "00:01:25"
+  },
+  {
+    "text": "Why don't you tell us about your app?",
+    "start": "00:01:25",
+    "end": "00:01:28"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:01:26",
+    "end": "00:01:27"
+  },
+  {
+    "text": "So, we've been running Stronger Now for probably two and a half to three years.",
+    "start": "00:01:27",
+    "end": "00:01:31"
+  },
+  {
+    "text": "I founded out it with one of my best friends from back in back in secondary school actually.",
+    "start": "00:01:31",
+    "end": "00:01:38"
+  },
+  {
+    "text": "Um and then my brother as well.",
+    "start": "00:01:38",
+    "end": "00:01:39"
+  },
+  {
+    "text": "We bootstrapped it.",
+    "start": "00:01:39",
+    "end": "00:01:40"
+  },
+  {
+    "text": "We were initially a hardware business actually.",
+    "start": "00:01:39",
+    "end": "00:01:42"
+  },
+  {
+    "text": "Completely different idea.",
+    "start": "00:01:42",
+    "end": "00:01:45"
+  },
+  {
+    "text": "Um ended up pivoting towards this.",
+    "start": "00:01:45",
+    "end": "00:01:47"
+  },
+  {
+    "text": "I went off into management consulting.",
+    "start": "00:01:47",
+    "end": "00:01:49"
+  },
+  {
+    "text": "Had to kind of put Stronger on hold for a bit.",
+    "start": "00:01:49",
+    "end": "00:01:51"
+  },
+  {
+    "text": "But while that was going on, my co-founder Jack kept growing it.",
+    "start": "00:01:50",
+    "end": "00:01:54"
+  },
+  {
+    "text": "And eventually we just kind of took off on Tik Tok.",
+    "start": "00:01:54",
+    "end": "00:01:55"
+  },
+  {
+    "text": "Ended up doing really great there.",
+    "start": "00:01:55",
+    "end": "00:01:57"
+  },
+  {
+    "text": "I think we were one of the first apps to kind of start using Tik Tok marketing particularly organic.",
+    "start": "00:01:57",
+    "end": "00:02:03"
+  },
+  {
+    "text": "And back then like it was great.",
+    "start": "00:02:03",
+    "end": "00:02:04"
+  },
+  {
+    "text": "You know, vibe coding wasn't a thing.",
+    "start": "00:02:04",
+    "end": "00:02:06"
+  },
+  {
+    "text": "You know, you had no competition.",
+    "start": "00:02:06",
+    "end": "00:02:07"
+  },
+  {
+    "text": "So we quickly ended up going up the charts which for a workout tracking app was uh quite impressive I feel given how saturated the industry is.",
+    "start": "00:02:07",
+    "end": "00:02:16"
+  },
+  {
+    "text": "And even now, like I don't know why anyone would go and make a workout tracker because, you know, you can vibe code it up in two, three days.",
+    "start": "00:02:16",
+    "end": "00:02:25"
+  },
+  {
+    "text": "So, we've been building that out for yeah, I'd say two and a half to three years now and starting to look to begin to expand our portfolio and have other consumer apps as well.",
+    "start": "00:02:25",
+    "end": "00:02:36"
+  },
+  {
+    "text": ">> That's awesome.",
+    "start": "00:02:33",
+    "end": "00:02:35"
+  },
+  {
+    "text": "I want to dig in really deep into the into the viral Tik Tok stuff, but yeah, can you give us some like highle stats on how the apps are doing?",
+    "start": "00:02:35",
+    "end": "00:02:46"
+  },
+  {
+    "text": ">> Yeah, I think we've probably got 1.",
+    "start": "00:02:43",
+    "end": "00:02:48"
+  },
+  {
+    "text": "2 two million users I would guess on stronger at this point ARR around about 600,000.",
+    "start": "00:02:48",
+    "end": "00:02:55"
+  },
+  {
+    "text": "Our biggest market would be US, but in terms of penetration, still the UK.",
+    "start": "00:02:52",
+    "end": "00:02:59"
+  },
+  {
+    "text": "So, we've got a lot of room to grow.",
+    "start": "00:02:59",
+    "end": "00:03:00"
+  },
+  {
+    "text": "Um, particularly in the US, that's kind of where where you want to focus next.",
+    "start": "00:03:00",
+    "end": "00:03:04"
+  },
+  {
+    "text": "And then we just launched our second app there maybe a couple of weeks ago.",
+    "start": "00:03:04",
+    "end": "00:03:09"
+  },
+  {
+    "text": "Um, which is a gamified focus app.",
+    "start": "00:03:09",
+    "end": "00:03:10"
+  },
+  {
+    "text": "So, that's going to be an interesting one for us.",
+    "start": "00:03:10",
+    "end": "00:03:11"
+  },
+  {
+    "text": "It's like the Forest app meets Farmville.",
+    "start": "00:03:11",
+    "end": "00:03:15"
+  },
+  {
+    "text": ">> Super interesting.",
+    "start": "00:03:13",
+    "end": "00:03:16"
+  },
+  {
+    "text": "So, like a million users and 600K ARR.",
+    "start": "00:03:16",
+    "end": "00:03:18"
+  },
+  {
+    "text": "That feels like a lot of revenue for for the users.",
+    "start": "00:03:18",
+    "end": "00:03:21"
+  },
+  {
+    "text": "Like do you think the gamification has something to do with that?",
+    "start": "00:03:21",
+    "end": "00:03:25"
+  },
+  {
+    "text": ">> Definitely.",
+    "start": "00:03:23",
+    "end": "00:03:25"
+  },
+  {
+    "text": "Whenever we first started it, I feel like our monetization was really bad.",
+    "start": "00:03:25",
+    "end": "00:03:29"
+  },
+  {
+    "text": "Um we weren't active on Twitter back then.",
+    "start": "00:03:29",
+    "end": "00:03:32"
+  },
+  {
+    "text": "We didn't really know any other founders.",
+    "start": "00:03:32",
+    "end": "00:03:35"
+  },
+  {
+    "text": "We kind of just stumbled upon let's build a workout app and we really didn't know what we were doing in terms of monetization.",
+    "start": "00:03:35",
+    "end": "00:03:41"
+  },
+  {
+    "text": "We didn't have best principles put in place and our LTB per user was super low.",
+    "start": "00:03:41",
+    "end": "00:03:46"
+  },
+  {
+    "text": "Over time, we've used tools, you know, such as Super Wall, for example, to be able to AB test and actually optimize that LTV per user.",
+    "start": "00:03:46",
+    "end": "00:03:53"
+  },
+  {
+    "text": "And at the end of the day, your category defines what your macro limit is in terms of LTV per download.",
+    "start": "00:03:53",
+    "end": "00:04:01"
+  },
+  {
+    "text": "Like, we are a workout tracker.",
+    "start": "00:03:59",
+    "end": "00:04:03"
+  },
+  {
+    "text": "Our value prop is against a pen and paper.",
+    "start": "00:04:03",
+    "end": "00:04:05"
+  },
+  {
+    "text": "You know, if it was a workout planner, our value prop will be against personal trainer.",
+    "start": "00:04:03",
+    "end": "00:04:07"
+  },
+  {
+    "text": "You can charge more.",
+    "start": "00:04:07",
+    "end": "00:04:10"
+  },
+  {
+    "text": "I think by AB testing, we've been able to improve monetization a lot to the point where in terms of workout trackers, we're probably one of the best at monetizing per user.",
+    "start": "00:04:10",
+    "end": "00:04:19"
+  },
+  {
+    "text": ">> Okay, so that now we just added more stuff to to the agenda.",
+    "start": "00:04:17",
+    "end": "00:04:22"
+  },
+  {
+    "text": "I want to go into payw walls, uh viral Tik Toks, but first let's like what what is the app?",
+    "start": "00:04:22",
+    "end": "00:04:27"
+  },
+  {
+    "text": "What is stronger?",
+    "start": "00:04:26",
+    "end": "00:04:29"
+  },
+  {
+    "text": ">> So stronger is a gamified workout tracker.",
+    "start": "00:04:27",
+    "end": "00:04:30"
+  },
+  {
+    "text": "Think Straa, but for strength tracking.",
+    "start": "00:04:30",
+    "end": "00:04:33"
+  },
+  {
+    "text": "It allows you to compare your physique to other people with the same body weight as you.",
+    "start": "00:04:33",
+    "end": "00:04:39"
+  },
+  {
+    "text": "You can see if you have elite chest muscles, novice legs, and also see what your friends have been doing in the gym.",
+    "start": "00:04:39",
+    "end": "00:04:45"
+  },
+  {
+    "text": "So, we like to think of it as the social media for the gym as well.",
+    "start": "00:04:45",
+    "end": "00:04:50"
+  },
+  {
+    "text": ">> That's awesome.",
+    "start": "00:04:48",
+    "end": "00:04:50"
+  },
+  {
+    "text": "I love the whole category of like Strava 4X.",
+    "start": "00:04:50",
+    "end": "00:04:54"
+  },
+  {
+    "text": "I've seen your guys Tik Toks.",
+    "start": "00:04:54",
+    "end": "00:04:55"
+  },
+  {
+    "text": "I think I saw them more than a year ago.",
+    "start": "00:04:55",
+    "end": "00:04:58"
+  },
+  {
+    "text": "It was the first time I they just popped on my feed.",
+    "start": "00:04:58",
+    "end": "00:05:02"
+  },
+  {
+    "text": "And this thing that you're showing right here, like this uh kind of like the anatomy diagram with all the different colors.",
+    "start": "00:05:02",
+    "end": "00:05:08"
+  },
+  {
+    "text": "It's super eye-catching.",
+    "start": "00:05:08",
+    "end": "00:05:10"
+  },
+  {
+    "text": "How did you come up with that?",
+    "start": "00:05:10",
+    "end": "00:05:14"
+  },
+  {
+    "text": ">> Yeah, I remember it's probably like six or seven years ago now.",
+    "start": "00:05:11",
+    "end": "00:05:17"
+  },
+  {
+    "text": "I remember seeing a Twitter thread with a web app where you could put in, you know, your bench press, your squat, whatever, and it would spit out your performance metrics.",
+    "start": "00:05:17",
+    "end": "00:05:25"
+  },
+  {
+    "text": "And I remember thinking, \"No way, that's so cool.",
+    "start": "00:05:25",
+    "end": "00:05:28"
+  },
+  {
+    "text": "\" and it was a super viral thread, but there was nobody doing it on a mobile app.",
+    "start": "00:05:28",
+    "end": "00:05:32"
+  },
+  {
+    "text": "And whenever we were doing the workout tracker at the time, we were talking to we we didn't go down the investment route, we got a lot of grant funding from government agencies back in Northern Ireland and whenever we did like our startup pitches, everyone always says, \"Don't go down the workout tracking app sector.",
+    "start": "00:05:32",
+    "end": "00:05:48"
+  },
+  {
+    "text": "You're just going to be a commodity.",
+    "start": "00:05:48",
+    "end": "00:05:50"
+  },
+  {
+    "text": "It's hard to stand out.",
+    "start": "00:05:50",
+    "end": "00:05:50"
+  },
+  {
+    "text": "\" But we had this real insight that what if we actually were to quantify how strong people were and enable them to assign some sort of status to their strength.",
+    "start": "00:05:50",
+    "end": "00:05:59"
+  },
+  {
+    "text": "So no longer would you be telling people, oh, I can bench, you know, 100 kg for, you know, five reps and be met with blank stare.",
+    "start": "00:05:59",
+    "end": "00:06:09"
+  },
+  {
+    "text": "You could say, I'm actually an elite lifter because this is what this translate to on the heat map.",
+    "start": "00:06:09",
+    "end": "00:06:14"
+  },
+  {
+    "text": "is really trying to think of something that makes it easier to visualize that progress and people can be proud of.",
+    "start": "00:06:14",
+    "end": "00:06:20"
+  },
+  {
+    "text": "Um, so that's why we decided to implement it.",
+    "start": "00:06:20",
+    "end": "00:06:23"
+  },
+  {
+    "text": "It was kind of our way to stand out in the crowded market and it was also going to be like our main marketing asset, too.",
+    "start": "00:06:23",
+    "end": "00:06:29"
+  },
+  {
+    "text": ">> That's cool.",
+    "start": "00:06:27",
+    "end": "00:06:29"
+  },
+  {
+    "text": "Yeah, I was about to say like it makes for a cool product, but then the heat map is also just visually it's so eye-catching and it looks really good on Tik Tok slideshows and like Instagram real slideshows.",
+    "start": "00:06:29",
+    "end": "00:06:43"
+  },
+  {
+    "text": "show some of the results that you've gotten w with this format cuz I know you've posted this specific format a bunch of times and it does like really well.",
+    "start": "00:06:43",
+    "end": "00:06:55"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:06:52",
+    "end": "00:06:53"
+  },
+  {
+    "text": "So, we discovered this one format we call the fade in.",
+    "start": "00:06:53",
+    "end": "00:06:58"
+  },
+  {
+    "text": "It's about 6 seconds long.",
+    "start": "00:06:58",
+    "end": "00:06:59"
+  },
+  {
+    "text": "Just fades in from black and shows an image.",
+    "start": "00:06:59",
+    "end": "00:07:03"
+  },
+  {
+    "text": "And we discovered that for some reason it was just like I hacked the Instagram algorithm.",
+    "start": "00:07:03",
+    "end": "00:07:09"
+  },
+  {
+    "text": "Watch time was crazy.",
+    "start": "00:07:09",
+    "end": "00:07:09"
+  },
+  {
+    "text": "Like I think the average watch time on some of our videos was over double that of the video length, which suggests the average person actually watches it twice.",
+    "start": "00:07:09",
+    "end": "00:07:18"
+  },
+  {
+    "text": "And the the format's kind of getting faded out a little bit now.",
+    "start": "00:07:18",
+    "end": "00:07:21"
+  },
+  {
+    "text": "Like once you find a winning format and start spamming it, it's always going to go that way.",
+    "start": "00:07:21",
+    "end": "00:07:26"
+  },
+  {
+    "text": "But we were able to get I would guess it's probably between 150 to 200 million views at least from it.",
+    "start": "00:07:26",
+    "end": "00:07:30"
+  },
+  {
+    "text": "We have a couple of videos hit 40 million.",
+    "start": "00:07:30",
+    "end": "00:07:32"
+  },
+  {
+    "text": "Um, I'd have to scroll down quite far to be able to find them.",
+    "start": "00:07:32",
+    "end": "00:07:34"
+  },
+  {
+    "text": "But like, for example, there's >> Oh, there's one 143,000 likes.",
+    "start": "00:07:34",
+    "end": "00:07:40"
+  },
+  {
+    "text": "So, that the views on that must be like, yeah, multiple millions.",
+    "start": "00:07:40",
+    "end": "00:07:44"
+  },
+  {
+    "text": ">> And at the end of the day, the conversion ends up being quite low for it.",
+    "start": "00:07:43",
+    "end": "00:07:46"
+  },
+  {
+    "text": "But when it's so easy to go viral with it, it's a a no-brainer for us.",
+    "start": "00:07:46",
+    "end": "00:07:52"
+  },
+  {
+    "text": "It's the kind of thing that takes me maybe like a couple of hours each week to schedule content for, I build internal tooling to be able to help us with producing things like this.",
+    "start": "00:07:50",
+    "end": "00:08:01"
+  },
+  {
+    "text": "And then once you just find that format, it's a matter of how quickly can you horizontally scale it because if you find a winner that goes super viral once, chances are it will go super viral again and again if you hit enough.",
+    "start": "00:08:01",
+    "end": "00:08:12"
+  },
+  {
+    "text": "You take the bat.",
+    "start": "00:08:12",
+    "end": "00:08:15"
+  },
+  {
+    "text": ">> So you said you estimate this one format you've posted multiple times and it's gotten in aggregate like over 200 million views over all the videos that you posted.",
+    "start": "00:08:12",
+    "end": "00:08:25"
+  },
+  {
+    "text": ">> Yeah, I would say potentially even 300 million.",
+    "start": "00:08:22",
+    "end": "00:08:26"
+  },
+  {
+    "text": "I've never added it up, but like I know two, three months ago we did 100 million view month with it and I've been doing it for like five, six months and it is slowing down now.",
+    "start": "00:08:26",
+    "end": "00:08:36"
+  },
+  {
+    "text": "It definitely has.",
+    "start": "00:08:36",
+    "end": "00:08:38"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:08:36",
+    "end": "00:08:40"
+  },
+  {
+    "text": ">> So then in the beginning like once you found that first format, what did you what do you do with that?",
+    "start": "00:08:38",
+    "end": "00:08:44"
+  },
+  {
+    "text": "Like what does horizontal scaling look like for you guys?",
+    "start": "00:08:44",
+    "end": "00:08:48"
+  },
+  {
+    "text": ">> I think we weren't very good at horizontal scaling at the start.",
+    "start": "00:08:46",
+    "end": "00:08:52"
+  },
+  {
+    "text": "We discovered quite a few different formats which worked super well.",
+    "start": "00:08:52",
+    "end": "00:08:55"
+  },
+  {
+    "text": "you know, Tik Tok slideshows, the feedins, and at first we just posted it a few times and we thought, no, we don't want to, you know, spam everyone's feeds with stuff like, let's just do it a few times.",
+    "start": "00:08:55",
+    "end": "00:09:05"
+  },
+  {
+    "text": "And we thought that it wouldn't work to have, you know, five accounts posting the exact same content.",
+    "start": "00:09:05",
+    "end": "00:09:12"
+  },
+  {
+    "text": "But it was actually one of our competitors opened our eyes to it.",
+    "start": "00:09:10",
+    "end": "00:09:16"
+  },
+  {
+    "text": "Um, I don't like them, but I really respect them.",
+    "start": "00:09:16",
+    "end": "00:09:18"
+  },
+  {
+    "text": "But they really scaled their revenue just by copying this format.",
+    "start": "00:09:18",
+    "end": "00:09:24"
+  },
+  {
+    "text": "And whereas we had you know one two accounts posting uh these guys were ripping like maybe 10 accounts um and quite quickly I seen their download volume starting to really ratchet up and that was a bit of an eye openener for me um because one I felt like we were being more creative and coming up with you know the cool ideas but at the end of the day that doesn't matter to the market that if someone else can find a way to get that scene you know to do to take whatever you come up with and do 10 iterations of it um they're ultimately going to win.",
+    "start": "00:09:24",
+    "end": "00:09:56"
+  },
+  {
+    "text": "So that was a bit of an eye openener for us and we started to think about okay once we've got one in format how can we make this replicable um how can we AB test it to optimize it and get it better you know how can we get that average watch time up from say 6 seconds to 9 seconds through a very scientific testing process and then build out internal tooling to allow us to do so and then also your distributions so whether that's talking to reposters doing it yourselves having burner forms whatever >> so When you say 10 accounts, are you literally posting the same exact video, all the different accounts?",
+    "start": "00:09:54",
+    "end": "00:10:31"
+  },
+  {
+    "text": "Like, is that what your competitor did or you tweaking the video a little bit each time?",
+    "start": "00:10:31",
+    "end": "00:10:34"
+  },
+  {
+    "text": "Cuz I feel like if you post the same exact video, some people have said that that kind of hurts the engagement if Tik Tok sees it's like literally the same thing.",
+    "start": "00:10:34",
+    "end": "00:10:46"
+  },
+  {
+    "text": ">> No, I think the key is to do micro adjustments, but um AI makes that very easy to do.",
+    "start": "00:10:44",
+    "end": "00:10:50"
+  },
+  {
+    "text": "Um, you can find one hook and you can just change a couple of words from it.",
+    "start": "00:10:50",
+    "end": "00:10:54"
+  },
+  {
+    "text": "You could change, for example, with this image here, you could change it to light mode background.",
+    "start": "00:10:54",
+    "end": "00:11:00"
+  },
+  {
+    "text": "It's a fully new video.",
+    "start": "00:11:00",
+    "end": "00:11:01"
+  },
+  {
+    "text": "AI won't detect that at all.",
+    "start": "00:11:01",
+    "end": "00:11:02"
+  },
+  {
+    "text": "So, there's lots of different ways you can do a similar video without it being exactly the same.",
+    "start": "00:11:02",
+    "end": "00:11:08"
+  },
+  {
+    "text": "And I think that's where tools like Figma come into place.",
+    "start": "00:11:08",
+    "end": "00:11:09"
+  },
+  {
+    "text": "You know, you can have different iterations where maybe you change the legend, maybe you change the background.",
+    "start": "00:11:09",
+    "end": "00:11:16"
+  },
+  {
+    "text": "Um, you change a few different words in the hook and it then becomes a new video and the algorithm wouldn't categorize it as spam.",
+    "start": "00:11:15",
+    "end": "00:11:24"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:11:21",
+    "end": "00:11:23"
+  },
+  {
+    "text": "And do you think you should use the same sound for all these or are you like following trending sounds too and using them to like pick up on trends?",
+    "start": "00:11:23",
+    "end": "00:11:35"
+  },
+  {
+    "text": ">> We've mostly used the same sound.",
+    "start": "00:11:33",
+    "end": "00:11:36"
+  },
+  {
+    "text": "I think it becomes quite recognizable.",
+    "start": "00:11:36",
+    "end": "00:11:39"
+  },
+  {
+    "text": "It's almost like a brand sound at this point.",
+    "start": "00:11:36",
+    "end": "00:11:40"
+  },
+  {
+    "text": "It's like a silly let me know song by Future that um we use for it.",
+    "start": "00:11:40",
+    "end": "00:11:46"
+  },
+  {
+    "text": "I think you could probably look for more viral sounds, but overall particularly on Instagram, I don't think viral sounds are all that important.",
+    "start": "00:11:46",
+    "end": "00:11:53"
+  },
+  {
+    "text": "I think Tik Tok they have a lot more relevance, but in my experience, I've never found the sound to be make or break on Instagram.",
+    "start": "00:11:53",
+    "end": "00:12:03"
+  },
+  {
+    "text": ">> So, is there a formula for going viral?",
+    "start": "00:11:59",
+    "end": "00:12:05"
+  },
+  {
+    "text": "because you said, you know, you're sort of you guys were sort of the pioneers in making the format and then your competitors copied and it seems like when people copy you, they're kind of late to the game, right?",
+    "start": "00:12:03",
+    "end": "00:12:16"
+  },
+  {
+    "text": "So, you've already extracted a lot of the value out of it by showing it to people on the for you page for the first time and then when they copy, it's just not as effective.",
+    "start": "00:12:16",
+    "end": "00:12:25"
+  },
+  {
+    "text": "Well, I feel like being in your position is actually better, but what is maybe you can give us some of the sauce like how do you how do you actually like invent these ideas, these like viral ideas?",
+    "start": "00:12:25",
+    "end": "00:12:42"
+  },
+  {
+    "text": ">> I think good content does one of two things.",
+    "start": "00:12:40",
+    "end": "00:12:43"
+  },
+  {
+    "text": "It either educates our entertains.",
+    "start": "00:12:43",
+    "end": "00:12:46"
+  },
+  {
+    "text": "For us, we kind of try to think bucket it into those two areas.",
+    "start": "00:12:46",
+    "end": "00:12:52"
+  },
+  {
+    "text": "And for our entertain thing, it's very much Jim Bro humor.",
+    "start": "00:12:50",
+    "end": "00:12:54"
+  },
+  {
+    "text": "Like I show a lot of people who, you know, aren't our target market this content and they're like, \"How on earth did this get that many views, like million views, it's just not good.",
+    "start": "00:12:54",
+    "end": "00:13:02"
+  },
+  {
+    "text": "It's not funny.",
+    "start": "00:13:02",
+    "end": "00:13:04"
+  },
+  {
+    "text": "It's brain raw.",
+    "start": "00:13:04",
+    "end": "00:13:06"
+  },
+  {
+    "text": "\" And I'm like, \"It is, but people engage with it.",
+    "start": "00:13:06",
+    "end": "00:13:07"
+  },
+  {
+    "text": "\" Some people find it funny.",
+    "start": "00:13:07",
+    "end": "00:13:10"
+  },
+  {
+    "text": "And on the educate side of things, I try to think what's actually useful.",
+    "start": "00:13:10",
+    "end": "00:13:14"
+  },
+  {
+    "text": "What would people want to see here?",
+    "start": "00:13:14",
+    "end": "00:13:15"
+  },
+  {
+    "text": "What would make someone click save on a slideshow?",
+    "start": "00:13:15",
+    "end": "00:13:19"
+  },
+  {
+    "text": "So, for example, that could be workout tips, you know, more scientific at like a very specific kind of level and that could be applied to lots of different verticals because I think the entertaining branch is harder to do.",
+    "start": "00:13:19",
+    "end": "00:13:30"
+  },
+  {
+    "text": "I think you need to have a little bit of flare or at least beyond Tik Tok to kind of know what the humor is on those platforms.",
+    "start": "00:13:30",
+    "end": "00:13:39"
+  },
+  {
+    "text": "And I don't think anybody can do that, but I think on the educate side of things, everybody can.",
+    "start": "00:13:39",
+    "end": "00:13:43"
+  },
+  {
+    "text": "It literally just is an AB test.",
+    "start": "00:13:43",
+    "end": "00:13:47"
+  },
+  {
+    "text": "How good's the hook for this?",
+    "start": "00:13:46",
+    "end": "00:13:48"
+  },
+  {
+    "text": "How good's the content?",
+    "start": "00:13:48",
+    "end": "00:13:48"
+  },
+  {
+    "text": "How many people are saving this, sharing it?",
+    "start": "00:13:48",
+    "end": "00:13:50"
+  },
+  {
+    "text": "And you can apply that to any vertical.",
+    "start": "00:13:50",
+    "end": "00:13:53"
+  },
+  {
+    "text": "It could be, you know, finance tips, you know, it could be five ways I cut my calories down.",
+    "start": "00:13:53",
+    "end": "00:14:00"
+  },
+  {
+    "text": "Things which are super specific, replicable, again, you could get an AI to do a lot of that sort of stuff.",
+    "start": "00:14:00",
+    "end": "00:14:05"
+  },
+  {
+    "text": "And if you do enough iterations and test each time to say, \"Okay, the hook performed better here than it did in the previous one.",
+    "start": "00:14:05",
+    "end": "00:14:12"
+  },
+  {
+    "text": "This audio was better.",
+    "start": "00:14:10",
+    "end": "00:14:13"
+  },
+  {
+    "text": "You know, this angle worked really well.",
+    "start": "00:14:13",
+    "end": "00:14:15"
+  },
+  {
+    "text": "\" Eventually, you will converge upon a winning format if you just keep looking at watch time and engagement rates.",
+    "start": "00:14:15",
+    "end": "00:14:22"
+  },
+  {
+    "text": ">> You're Yeah, sounds like you're super deep in the analytics.",
+    "start": "00:14:20",
+    "end": "00:14:25"
+  },
+  {
+    "text": "Do you also just scroll a lot?",
+    "start": "00:14:25",
+    "end": "00:14:27"
+  },
+  {
+    "text": "Like, are you like what does your for you page look like?",
+    "start": "00:14:27",
+    "end": "00:14:31"
+  },
+  {
+    "text": ">> Yeah, it really depends upon which phone I'm using.",
+    "start": "00:14:29",
+    "end": "00:14:32"
+  },
+  {
+    "text": "Um, that's been the interesting thing with starting a second app because it's a completely different target market.",
+    "start": "00:14:32",
+    "end": "00:14:40"
+  },
+  {
+    "text": "I try to constrain my view into what I imagine our target market would engage with.",
+    "start": "00:14:40",
+    "end": "00:14:47"
+  },
+  {
+    "text": "So for me that means just liking Jim Bro stuff, seeing if there's a new influencer coming up.",
+    "start": "00:14:47",
+    "end": "00:14:54"
+  },
+  {
+    "text": "Um, you know, what's trending in that specific market?",
+    "start": "00:14:52",
+    "end": "00:14:55"
+  },
+  {
+    "text": "And sometimes I see a video that I'm like, \"Oh, I find that funny.",
+    "start": "00:14:55",
+    "end": "00:14:58"
+  },
+  {
+    "text": "\" And I have to think, would the average, you know, 20-year-old gym bro find this funny?",
+    "start": "00:14:58",
+    "end": "00:15:03"
+  },
+  {
+    "text": "And if it's not, I try to quickly swipe up on it to keep that FIP specific to our um ideal customer profile there.",
+    "start": "00:15:03",
+    "end": "00:15:12"
+  },
+  {
+    "text": ">> You're like method acting.",
+    "start": "00:15:10",
+    "end": "00:15:13"
+  },
+  {
+    "text": "You're like becoming your your customer.",
+    "start": "00:15:13",
+    "end": "00:15:15"
+  },
+  {
+    "text": "That's really cool.",
+    "start": "00:15:15",
+    "end": "00:15:16"
+  },
+  {
+    "text": "I love I love that approach.",
+    "start": "00:15:16",
+    "end": "00:15:16"
+  },
+  {
+    "text": "So you said education versus entertainment and you said that entertainment is actually more difficult to do because you have to follow these trends.",
+    "start": "00:15:16",
+    "end": "00:15:26"
+  },
+  {
+    "text": ">> But then it's weird because I hear a lot of people say you just go viral with entertainment content, it doesn't actually convert.",
+    "start": "00:15:24",
+    "end": "00:15:33"
+  },
+  {
+    "text": "Clearly that's not true with you guys.",
+    "start": "00:15:33",
+    "end": "00:15:36"
+  },
+  {
+    "text": "You're converting really well and you're getting 600k ARR from these reels.",
+    "start": "00:15:36",
+    "end": "00:15:42"
+  },
+  {
+    "text": "So, do you ever do education content or is it just pure entertainment and you're converting people off of the the logo like with the app store logo right there where you say the name of your app?",
+    "start": "00:15:42",
+    "end": "00:15:56"
+  },
+  {
+    "text": ">> Mostly entertainment.",
+    "start": "00:15:53",
+    "end": "00:15:56"
+  },
+  {
+    "text": "I think education is an area where we could do a lot better in and where our focus will likely be going soon because I think entertainment attracts a certain crowd is the younger you know Gen Z crowd.",
+    "start": "00:15:56",
+    "end": "00:16:08"
+  },
+  {
+    "text": "I think if you want to go for a more profitable market to say you know 25 plus lifters they are going to be wanting more educational kind of based things.",
+    "start": "00:16:08",
+    "end": "00:16:15"
+  },
+  {
+    "text": "You look at the biggest consumer apps, what they put out.",
+    "start": "00:16:15",
+    "end": "00:16:20"
+  },
+  {
+    "text": "I look at, for example, Runna, Londonbased company, and like a lot of their content is, you know, motivational, but also very educational, too.",
+    "start": "00:16:20",
+    "end": "00:16:27"
+  },
+  {
+    "text": "And they've built a phenomenal brand and just rocketed it up the charts.",
+    "start": "00:16:27",
+    "end": "00:16:31"
+  },
+  {
+    "text": "And I think they're kind of what we aspire to in the fitness scene.",
+    "start": "00:16:31",
+    "end": "00:16:36"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:16:35",
+    "end": "00:16:36"
+  },
+  {
+    "text": "Can we look at their account?",
+    "start": "00:16:36",
+    "end": "00:16:40"
+  },
+  {
+    "text": ">> I think they mostly post via their influencers.",
+    "start": "00:16:37",
+    "end": "00:16:41"
+  },
+  {
+    "text": "So, their main account is Oh, it is actually quite big.",
+    "start": "00:16:41",
+    "end": "00:16:45"
+  },
+  {
+    "text": "I think it's mostly they've grown via their influencers, but they'll do different workout routines for each influencer and they're all quite professional runners.",
+    "start": "00:16:45",
+    "end": "00:16:54"
+  },
+  {
+    "text": ">> Types of videos do you like the best from Runna?",
+    "start": "00:16:53",
+    "end": "00:16:58"
+  },
+  {
+    "text": ">> I think I seen some of their slideshows, but I don't know if I'll be able to find them because they were advert slideshows.",
+    "start": "00:16:56",
+    "end": "00:17:01"
+  },
+  {
+    "text": "So, I don't know if I can find them search >> like really draws you to them like what makes you aspire to kind of their their content.",
+    "start": "00:17:01",
+    "end": "00:17:10"
+  },
+  {
+    "text": "I think for them it's quite similar to there's a British clothing brand called Represent which does very well and what they do is they sell a lifestyle.",
+    "start": "00:17:10",
+    "end": "00:17:20"
+  },
+  {
+    "text": "I think that's what brands like Runner Represent do incredibly well.",
+    "start": "00:17:20",
+    "end": "00:17:26"
+  },
+  {
+    "text": "Whether that's the founders themselves leading the lifestyle, whether that's brand ambassadors leading it, you know, going out, eating clean, doing a lot of running.",
+    "start": "00:17:26",
+    "end": "00:17:36"
+  },
+  {
+    "text": "And I think content which shows them living that lifestyle and being fulfilled and having a real sense of community is what works super well.",
+    "start": "00:17:36",
+    "end": "00:17:43"
+  },
+  {
+    "text": "I think that's something which we lack with stronger.",
+    "start": "00:17:43",
+    "end": "00:17:46"
+  },
+  {
+    "text": "I think having like branded events and stuff like that is just incredible.",
+    "start": "00:17:46",
+    "end": "00:17:50"
+  },
+  {
+    "text": "It's a lot harder to do when you're bootstrapped and you know a threeperson team.",
+    "start": "00:17:50",
+    "end": "00:17:55"
+  },
+  {
+    "text": "But I think if you can nail that sense of community, you almost have your own army of people creating content for you who tell their friends, but you know, oh, I'm going to this meet up, you know, I'm going to this running thing, whatever.",
+    "start": "00:17:55",
+    "end": "00:18:10"
+  },
+  {
+    "text": "And I think the lifestyle content is what helps create that.",
+    "start": "00:18:06",
+    "end": "00:18:12"
+  },
+  {
+    "text": "It's all very aesthetically towed, different ambassadors which target different niches.",
+    "start": "00:18:12",
+    "end": "00:18:16"
+  },
+  {
+    "text": "You know, you might have one ambassador that's more for hybrid athletes, you know, who actually like, you know, lift weights.",
+    "start": "00:18:16",
+    "end": "00:18:23"
+  },
+  {
+    "text": "Some people for like more long distance and I think that's the way a lot of the market's going to go where you have hyper specific niches and people who can like relate to their content within that vertical.",
+    "start": "00:18:23",
+    "end": "00:18:34"
+  },
+  {
+    "text": "So rather than the brand try to appeal to everybody, the brand has like their set of values.",
+    "start": "00:18:34",
+    "end": "00:18:41"
+  },
+  {
+    "text": "They have ambassadors under that and each ambassador can kind of hyperarget one specific niche.",
+    "start": "00:18:41",
+    "end": "00:18:47"
+  },
+  {
+    "text": "And that way the brand doesn't have to have 10 different brand strategies in place.",
+    "start": "00:18:47",
+    "end": "00:18:52"
+  },
+  {
+    "text": "Each ambassador can have their different brand strategy.",
+    "start": "00:18:52",
+    "end": "00:18:55"
+  },
+  {
+    "text": "And even there's workout apps like ladder do that as well incredibly well.",
+    "start": "00:18:55",
+    "end": "00:18:59"
+  },
+  {
+    "text": "Different workout types, different target markets.",
+    "start": "00:18:59",
+    "end": "00:19:03"
+  },
+  {
+    "text": "And I think that's what separates some of the bigger players in the market.",
+    "start": "00:19:01",
+    "end": "00:19:06"
+  },
+  {
+    "text": "You know, those doing, you know, a few million a month versus those doing, you know, say 50k a month.",
+    "start": "00:19:06",
+    "end": "00:19:11"
+  },
+  {
+    "text": "That's an insight that I feel like most consumer app founders are not even aware of at all.",
+    "start": "00:19:11",
+    "end": "00:19:19"
+  },
+  {
+    "text": "Like the the concept of building a brand that people really love because that's how you get the ambassadors.",
+    "start": "00:19:16",
+    "end": "00:19:24"
+  },
+  {
+    "text": "Like I feel like people do it in the opposite direction where they're like, \"Okay, we have an app.",
+    "start": "00:19:24",
+    "end": "00:19:29"
+  },
+  {
+    "text": "Okay, now how do we get 100 ambassadors?",
+    "start": "00:19:29",
+    "end": "00:19:31"
+  },
+  {
+    "text": "\" And then they cold email 10,000 people.",
+    "start": "00:19:31",
+    "end": "00:19:34"
+  },
+  {
+    "text": "Then like if if you don't have something that's like cool or relevant, then it's so it's just so much more uphill to get those people to just really love your brand and just want to work for it.",
+    "start": "00:19:34",
+    "end": "00:19:48"
+  },
+  {
+    "text": "Is that what you're saying?",
+    "start": "00:19:48",
+    "end": "00:19:51"
+  },
+  {
+    "text": "Like you're basically like you have to be a cool brand like that leans into lifestyle in order to get those ambassadors.",
+    "start": "00:19:49",
+    "end": "00:19:58"
+  },
+  {
+    "text": ">> Yeah, I think so.",
+    "start": "00:19:56",
+    "end": "00:19:58"
+  },
+  {
+    "text": "And I think the quality of ambassadors is so much more important than quantity.",
+    "start": "00:19:58",
+    "end": "00:20:03"
+  },
+  {
+    "text": "looking on Twitter now, you see so many people who are like spamming influencers, you know, and like you maybe do like a one-off deal with them.",
+    "start": "00:20:03",
+    "end": "00:20:11"
+  },
+  {
+    "text": "Um, that works out, it might not work out, but you see a lot of other apps are doing super well and they tend to have, you know, three to four ambassadors who pull in most of the heavy lifting.",
+    "start": "00:20:11",
+    "end": "00:20:22"
+  },
+  {
+    "text": "If you can find the right ambassador and find terms which work for them, it's it's just a parole principle like um you need to just identify which one of those are actually going to build your brand, who actually has an engaged community and move away from that kind of spray and prey approach to very targeted, a clear brand definition and a reason for why that ambassador has a synergy with your brand.",
+    "start": "00:20:22",
+    "end": "00:20:48"
+  },
+  {
+    "text": "I feel like that goes Yeah, it's very very high level.",
+    "start": "00:20:48",
+    "end": "00:20:50"
+  },
+  {
+    "text": "Like I think a lot of people are when they're getting that first 10, 20, 50k a month uh and revenue game sort of is just brute forcing it and seeing how many users you can reach.",
+    "start": "00:20:50",
+    "end": "00:21:05"
+  },
+  {
+    "text": "But are you doing the brand first approach for your new app as well or are you going to kind of brute force it like you did with with Stronger with the reels?",
+    "start": "00:21:05",
+    "end": "00:21:14"
+  },
+  {
+    "text": ">> It's an interesting question.",
+    "start": "00:21:12",
+    "end": "00:21:15"
+  },
+  {
+    "text": "I think to start with it'll be a little bit of brute force until we can identify who this actually resonates with.",
+    "start": "00:21:15",
+    "end": "00:21:23"
+  },
+  {
+    "text": "We have an hypothesis of who it resonates with, but right now we don't know if that's actually going to be the case.",
+    "start": "00:21:23",
+    "end": "00:21:28"
+  },
+  {
+    "text": "It could be that you know our data shows actually it's not students use this the most.",
+    "start": "00:21:28",
+    "end": "00:21:33"
+  },
+  {
+    "text": "It's people who are nostalgic for Farmville because it does have that kind of art aesthetic and in which case we would then want to revisit our brand and say like okay how does this change things for us?",
+    "start": "00:21:31",
+    "end": "00:21:44"
+  },
+  {
+    "text": "Ultimately, there's kind of two ways to build a company.",
+    "start": "00:21:44",
+    "end": "00:21:47"
+  },
+  {
+    "text": "One, you can either define your brand and then hope that people resonate with that where you're very like visionary.",
+    "start": "00:21:47",
+    "end": "00:21:54"
+  },
+  {
+    "text": "It's almost like Steve Jobs at Apple back then like he was like, \"No, I know what the consumer wants the consumer doesn't know.",
+    "start": "00:21:54",
+    "end": "00:21:58"
+  },
+  {
+    "text": "\" Are two where you have a relatively malleable product to start with um and you start to see who it resonates with and then you start to ship your brand in collaboration with the audience who it resonates with most at that time.",
+    "start": "00:21:58",
+    "end": "00:22:13"
+  },
+  {
+    "text": ">> Gotcha.",
+    "start": "00:22:11",
+    "end": "00:22:13"
+  },
+  {
+    "text": "That's that's really interesting.",
+    "start": "00:22:13",
+    "end": "00:22:15"
+  },
+  {
+    "text": "I want to learn more about how this makes money.",
+    "start": "00:22:15",
+    "end": "00:22:20"
+  },
+  {
+    "text": "Do you have payw wall screens or um screenshots or or anything that you could that we could look at?",
+    "start": "00:22:20",
+    "end": "00:22:30"
+  },
+  {
+    "text": ">> Yeah, I could probably let me let me just check.",
+    "start": "00:22:26",
+    "end": "00:22:32"
+  },
+  {
+    "text": "I'm not sure how much I can go into on it, but um probably not the dashboard of it, but I could show a couple of payw walls.",
+    "start": "00:22:32",
+    "end": "00:22:38"
+  },
+  {
+    "text": ">> What I would say about our payw wall strategy is we don't do anything that fancy over time.",
+    "start": "00:22:37",
+    "end": "00:22:42"
+  },
+  {
+    "text": "we've got a lot better at monetization, but I think the main variable that's changed is how often we show a payw wall and also how hard that payw wall is.",
+    "start": "00:22:42",
+    "end": "00:22:51"
+  },
+  {
+    "text": "I think it's quite easy to get bogged down in, oh, what if I change, you know, the work from get stronger faster to lock your workout faster and people think that's going to make a meaningful difference.",
+    "start": "00:22:51",
+    "end": "00:23:03"
+  },
+  {
+    "text": "It's just not.",
+    "start": "00:23:03",
+    "end": "00:23:02"
+  },
+  {
+    "text": "I think it's much more important to spend time looking at the macro level.",
+    "start": "00:23:02",
+    "end": "00:23:07"
+  },
+  {
+    "text": "You know, one, how many times do people actually see this pay wall?",
+    "start": "00:23:06",
+    "end": "00:23:11"
+  },
+  {
+    "text": "Which features is it attached to?",
+    "start": "00:23:11",
+    "end": "00:23:12"
+  },
+  {
+    "text": "does it line up with the feature messaging and that's much more meaningful rather than testing like the small changes especially we get a lot of volume but in order to actually get a meaningful statistical data coming through on a micro change like that it's going to take like a couple of months I think people do like run the experiment for you know a week and are like oh this one had you know 2% difference and they don't realize that's just standard deviations like you actually need to have an awful lot more volume coming through for that to be statistically significant Which is why I think particular in the early days just focus on the macro things which is what Superwal is great at doing.",
+    "start": "00:23:12",
+    "end": "00:23:47"
+  },
+  {
+    "text": "You know you can test a video one you can test a multi-stage payw wall you can test you know something which has more of like your app based stuff in it.",
+    "start": "00:23:47",
+    "end": "00:23:54"
+  },
+  {
+    "text": "And I think that's the way we approach it.",
+    "start": "00:23:54",
+    "end": "00:23:57"
+  },
+  {
+    "text": "We try to do more macrobased changes and then once you find a macro winner then you can kind of narrow in and start doing some of those microcopy changes but I think people are too quick to go on to the micro level.",
+    "start": "00:23:57",
+    "end": "00:24:08"
+  },
+  {
+    "text": "What's the biggest macro change you made that you feel like big difference?",
+    "start": "00:24:08",
+    "end": "00:24:13"
+  },
+  {
+    "text": ">> Moving to a hard pay wall.",
+    "start": "00:24:12",
+    "end": "00:24:16"
+  },
+  {
+    "text": "Weaver premium for ages and it worked quite well.",
+    "start": "00:24:16",
+    "end": "00:24:18"
+  },
+  {
+    "text": "I think the main challenge that we had there was if you can give people an excuse to not pay, they won't.",
+    "start": "00:24:18",
+    "end": "00:24:26"
+  },
+  {
+    "text": "We accidentally turned the app into a hard payw wall.",
+    "start": "00:24:26",
+    "end": "00:24:27"
+  },
+  {
+    "text": "One time we forgot to change a toggle or something like that.",
+    "start": "00:24:27",
+    "end": "00:24:32"
+  },
+  {
+    "text": "My brother runs the payw wall designs and um all of a sudden our phones were just like pinging.",
+    "start": "00:24:32",
+    "end": "00:24:35"
+  },
+  {
+    "text": "It was on New Year's Eve.",
+    "start": "00:24:35",
+    "end": "00:24:37"
+  },
+  {
+    "text": "I remember we were playing a game of Monopoly at the time and we were like, are we going viral somewhere?",
+    "start": "00:24:36",
+    "end": "00:24:41"
+  },
+  {
+    "text": "Like what's happening?",
+    "start": "00:24:41",
+    "end": "00:24:42"
+  },
+  {
+    "text": "Turned out we just had a bug and everyone opening the app was getting hit by a hard pay wall and it really couldn't go to work unless they paid.",
+    "start": "00:24:42",
+    "end": "00:24:48"
+  },
+  {
+    "text": "But it was only for a couple of hours and at that point we were like if putting a hard payw wall actually leads to so many more people converting, we didn't have that many complaints ever.",
+    "start": "00:24:48",
+    "end": "00:25:00"
+  },
+  {
+    "text": "Um shouldn't we just go for hard payw wall from the start?",
+    "start": "00:24:58",
+    "end": "00:25:02"
+  },
+  {
+    "text": "So now we do still have free functionality but in order to access that you have to have started a like a free trial and if you cancel it then you can see the free version after your trial expires.",
+    "start": "00:25:02",
+    "end": "00:25:12"
+  },
+  {
+    "text": "That's still a premium model there.",
+    "start": "00:25:12",
+    "end": "00:25:15"
+  },
+  {
+    "text": "But we make people opt in and actually try out pro first and overnight that was just our biggest boost probably like 25% for us.",
+    "start": "00:25:15",
+    "end": "00:25:22"
+  },
+  {
+    "text": "It seems quite obvious but it was a tough decision because it does reduce your K factor like the number of people that actually share the app with their friends.",
+    "start": "00:25:22",
+    "end": "00:25:28"
+  },
+  {
+    "text": "And to be honest with you we don't even measure that.",
+    "start": "00:25:28",
+    "end": "00:25:31"
+  },
+  {
+    "text": "We probably should have that better instrumented, but I think it has been a winner for us overall.",
+    "start": "00:25:31",
+    "end": "00:25:38"
+  },
+  {
+    "text": ">> Interesting.",
+    "start": "00:25:35",
+    "end": "00:25:37"
+  },
+  {
+    "text": "Is is that viral share loop and K factor actually a a part of your strategy at all?",
+    "start": "00:25:37",
+    "end": "00:25:43"
+  },
+  {
+    "text": "I feel like subscription apps, it's always like pretty hard to K factor there.",
+    "start": "00:25:43",
+    "end": "00:25:49"
+  },
+  {
+    "text": ">> Yeah, agreed.",
+    "start": "00:25:47",
+    "end": "00:25:49"
+  },
+  {
+    "text": "I don't think I think if we were still a free app, K factor would be on the radar.",
+    "start": "00:25:49",
+    "end": "00:25:54"
+  },
+  {
+    "text": "The reason being the social network would become much more powerful if you have all your friends on it.",
+    "start": "00:25:54",
+    "end": "00:25:59"
+  },
+  {
+    "text": "But nobody sends a paid app to their friends says oh you should get this so we can see each other's list.",
+    "start": "00:25:59",
+    "end": "00:26:07"
+  },
+  {
+    "text": "It's just not going to happen.",
+    "start": "00:26:07",
+    "end": "00:26:08"
+  },
+  {
+    "text": "So for us it was quite a big branching product strategy.",
+    "start": "00:26:08",
+    "end": "00:26:12"
+  },
+  {
+    "text": "It was like do we go down the route of fully premium in which case you would want to incentivize getting as many people as possible or do you decide to go down the you know hard pay wall route.",
+    "start": "00:26:10",
+    "end": "00:26:22"
+  },
+  {
+    "text": "Yeah, that makes sense.",
+    "start": "00:26:22",
+    "end": "00:26:26"
+  },
+  {
+    "text": "I wanted to ask you about your product decisions.",
+    "start": "00:26:26",
+    "end": "00:26:29"
+  },
+  {
+    "text": "I think you take a very unique approach to this where it seems like a lot of the like the product itself has a lot of inherent virality on social media like it looks really good the reals and the Tik Tok.",
+    "start": "00:26:27",
+    "end": "00:26:41"
+  },
+  {
+    "text": "How intentional are you about designing the product with growth in mind?",
+    "start": "00:26:41",
+    "end": "00:26:47"
+  },
+  {
+    "text": ">> Our team actually doesn't have any designers on board.",
+    "start": "00:26:46",
+    "end": "00:26:49"
+  },
+  {
+    "text": "None of us have any design experience.",
+    "start": "00:26:49",
+    "end": "00:26:51"
+  },
+  {
+    "text": "My co-founder Jack does most of the design stuff and it was him came up with the bright colors and stuff for the strength score heat map.",
+    "start": "00:26:51",
+    "end": "00:26:59"
+  },
+  {
+    "text": "I think over time we've just kind of picked up better principles by studying what other apps do how that looks.",
+    "start": "00:26:59",
+    "end": "00:27:06"
+  },
+  {
+    "text": "But we have always tried to think how does this look as a screenshot because ultimately it's those screenshots are what make us money.",
+    "start": "00:27:06",
+    "end": "00:27:13"
+  },
+  {
+    "text": "Tik Tok slideshows carousels is our bread and butter even more so than that Instagram feed in format.",
+    "start": "00:27:13",
+    "end": "00:27:19"
+  },
+  {
+    "text": "I think that is has always been like a fairly defining bit of our product decisions.",
+    "start": "00:27:19",
+    "end": "00:27:24"
+  },
+  {
+    "text": "Even like we do weightlifted milestones.",
+    "start": "00:27:24",
+    "end": "00:27:26"
+  },
+  {
+    "text": "So we add up all the volume you've ever lifted.",
+    "start": "00:27:26",
+    "end": "00:27:29"
+  },
+  {
+    "text": "So you might get a badge to say you've lifted the Empire State Building R a Boeing 747 and we try to make that as cool looking as possible and then we can kind of showcase that in our social media marketing too.",
+    "start": "00:27:29",
+    "end": "00:27:40"
+  },
+  {
+    "text": "It is always in the back of the mind.",
+    "start": "00:27:40",
+    "end": "00:27:42"
+  },
+  {
+    "text": "How much curiosity will this invoke in people?",
+    "start": "00:27:42",
+    "end": "00:27:45"
+  },
+  {
+    "text": "And also, is it obvious when you take a screenshot what it is?",
+    "start": "00:27:45",
+    "end": "00:27:48"
+  },
+  {
+    "text": "Because that is the one criticism I have of our feed in format.",
+    "start": "00:27:48",
+    "end": "00:27:53"
+  },
+  {
+    "text": "Quite often people don't realize it's actually from a workout tracker.",
+    "start": "00:27:52",
+    "end": "00:27:57"
+  },
+  {
+    "text": "Um, we've added the app logo there to try and make it, you know, a little bit more obvious, but I think if it was to be more obvious and it was like a screenshot, it would perform better in terms of conversion.",
+    "start": "00:27:57",
+    "end": "00:28:06"
+  },
+  {
+    "text": "Maybe less in terms of virality, but in terms of conversion, certainly a lot better.",
+    "start": "00:28:06",
+    "end": "00:28:12"
+  },
+  {
+    "text": "So you have the heat map and then you also have the uh total volume lifted.",
+    "start": "00:28:12",
+    "end": "00:28:17"
+  },
+  {
+    "text": "Then you also have the ranks, right?",
+    "start": "00:28:17",
+    "end": "00:28:20"
+  },
+  {
+    "text": "Like it it looks like uh competitive gaming ranking system with badges and stuff like that, right?",
+    "start": "00:28:20",
+    "end": "00:28:28"
+  },
+  {
+    "text": "Do you have that a big part of the the Tik Tok strategy too?",
+    "start": "00:28:25",
+    "end": "00:28:31"
+  },
+  {
+    "text": ">> A little bit, but not that much.",
+    "start": "00:28:29",
+    "end": "00:28:33"
+  },
+  {
+    "text": "It's more of an evolution of the heat map where we decided to add a rank alongside each aspect.",
+    "start": "00:28:33",
+    "end": "00:28:38"
+  },
+  {
+    "text": "And we weren't actually the first to do that.",
+    "start": "00:28:38",
+    "end": "00:28:41"
+  },
+  {
+    "text": "That was one of our competitors.",
+    "start": "00:28:41",
+    "end": "00:28:42"
+  },
+  {
+    "text": "They'd copied the strength score, but they kind of evolved it and went down the full gamification route.",
+    "start": "00:28:42",
+    "end": "00:28:48"
+  },
+  {
+    "text": "It was like League of Legends for the gym, which was such a great insight to see.",
+    "start": "00:28:46",
+    "end": "00:28:51"
+  },
+  {
+    "text": "They just went down one hyper specific niche and ended up performing brilliantly because of it.",
+    "start": "00:28:51",
+    "end": "00:28:58"
+  },
+  {
+    "text": "I think we were probably trying to do too many things.",
+    "start": "00:28:58",
+    "end": "00:29:00"
+  },
+  {
+    "text": "We want to, you know, have the social worker app, but also gamify it, but also give you a lot of good stats.",
+    "start": "00:29:00",
+    "end": "00:29:08"
+  },
+  {
+    "text": "And I think by just choosing one thing you can have a lot of clarity on your like Tik Toks which you produce which they did.",
+    "start": "00:29:06",
+    "end": "00:29:13"
+  },
+  {
+    "text": "So they ended up with those ranking systems and now we have it in place as well.",
+    "start": "00:29:13",
+    "end": "00:29:18"
+  },
+  {
+    "text": "It's not as core of a feature to us.",
+    "start": "00:29:18",
+    "end": "00:29:20"
+  },
+  {
+    "text": "We don't want to overly gamify it because I think that kind of system resonates very strongly in like the 15 to 23 year old age category.",
+    "start": "00:29:20",
+    "end": "00:29:32"
+  },
+  {
+    "text": "I think beyond that it starts to look a little bit goofy and ultimately it's 30 year olds are where the money is.",
+    "start": "00:29:32",
+    "end": "00:29:38"
+  },
+  {
+    "text": "Um if you can get like a 30 to 40 market that's much better.",
+    "start": "00:29:38",
+    "end": "00:29:40"
+  },
+  {
+    "text": "So you want to have a little bit of gamification but don't make it too childish.",
+    "start": "00:29:40",
+    "end": "00:29:44"
+  },
+  {
+    "text": "At least that's our thesis behind how we approach it.",
+    "start": "00:29:44",
+    "end": "00:29:48"
+  },
+  {
+    "text": ">> That's a really good insight.",
+    "start": "00:29:46",
+    "end": "00:29:48"
+  },
+  {
+    "text": "Yeah because I feel like a lot of people would just copy because they see a feature and they see oh this app is making money.",
+    "start": "00:29:48",
+    "end": "00:29:54"
+  },
+  {
+    "text": "I'm just going to copy that feature.",
+    "start": "00:29:54",
+    "end": "00:29:55"
+  },
+  {
+    "text": "But that feature exists because they're appealing to a certain market.",
+    "start": "00:29:55",
+    "end": "00:29:59"
+  },
+  {
+    "text": "And if you implemented that, you might push away your older users, which is who you're trying to attract.",
+    "start": "00:29:59",
+    "end": "00:30:07"
+  },
+  {
+    "text": "So, yeah, that makes sense.",
+    "start": "00:30:07",
+    "end": "00:30:08"
+  },
+  {
+    "text": "Did we forget to look at your Tik Tok?",
+    "start": "00:30:08",
+    "end": "00:30:10"
+  },
+  {
+    "text": "Were we looking at your your IG most of the time?",
+    "start": "00:30:10",
+    "end": "00:30:14"
+  },
+  {
+    "text": ">> We've got a few Tik Toks floating around.",
+    "start": "00:30:12",
+    "end": "00:30:16"
+  },
+  {
+    "text": ">> So, is your Tik Tok and Instagram strategy different?",
+    "start": "00:30:14",
+    "end": "00:30:20"
+  },
+  {
+    "text": ">> Yeah, pretty much completely different.",
+    "start": "00:30:18",
+    "end": "00:30:22"
+  },
+  {
+    "text": "Um, it's my brother mostly handles this page.",
+    "start": "00:30:20",
+    "end": "00:30:23"
+  },
+  {
+    "text": "This is our main account and it's all just two to three slide carousels which perform really well for us.",
+    "start": "00:30:23",
+    "end": "00:30:32"
+  },
+  {
+    "text": "Um I think historically this has probably been a lot higher converting than Instagram.",
+    "start": "00:30:32",
+    "end": "00:30:36"
+  },
+  {
+    "text": "In the past year it's probably worked less well just because you got so much competition.",
+    "start": "00:30:36",
+    "end": "00:30:42"
+  },
+  {
+    "text": "You know it's not as novel anymore.",
+    "start": "00:30:42",
+    "end": "00:30:43"
+  },
+  {
+    "text": "Now there's you know 20 workout apps doing the same thing.",
+    "start": "00:30:43",
+    "end": "00:30:45"
+  },
+  {
+    "text": "It's it's a continual race to try and find formats which you can use and you know get first mover advantage of for a while before it's like milk dry.",
+    "start": "00:30:45",
+    "end": "00:30:56"
+  },
+  {
+    "text": "But this is the bread and butter and ultimately where we went viral the very first time and that was what let us get the product kind of launched.",
+    "start": "00:30:54",
+    "end": "00:31:05"
+  },
+  {
+    "text": ">> You went viral on Tik Tok first and then you started Instagram stuff.",
+    "start": "00:31:02",
+    "end": "00:31:09"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:31:07",
+    "end": "00:31:10"
+  },
+  {
+    "text": "So I can remember the day we went viral for the first time.",
+    "start": "00:31:10",
+    "end": "00:31:13"
+  },
+  {
+    "text": "My co-founder Jack was working in a garden center at the time and um the app wasn't ready.",
+    "start": "00:31:13",
+    "end": "00:31:19"
+  },
+  {
+    "text": "It was very basic back then.",
+    "start": "00:31:19",
+    "end": "00:31:20"
+  },
+  {
+    "text": "There was no string score, nothing like that.",
+    "start": "00:31:20",
+    "end": "00:31:22"
+  },
+  {
+    "text": "But the full idea was at the end of the workout we would total up your volume and then we would compare it to a list of different objects.",
+    "start": "00:31:22",
+    "end": "00:31:30"
+  },
+  {
+    "text": "So you might say you deadlifted, you know, 10 Donald Trumps or something like that.",
+    "start": "00:31:30",
+    "end": "00:31:36"
+  },
+  {
+    "text": "It was just little carts which would show up at the end like no images or anything even attached to it.",
+    "start": "00:31:36",
+    "end": "00:31:41"
+  },
+  {
+    "text": "And then we also had this little timeline thing we made in Canva which was where we as you added up things you could see like the Easter Island hedge lifted a Stonehenge slab different things like that.",
+    "start": "00:31:41",
+    "end": "00:31:53"
+  },
+  {
+    "text": "And we did a video kind of panning up that super basic as I said like none of us have any art background.",
+    "start": "00:31:53",
+    "end": "00:31:59"
+  },
+  {
+    "text": "It was all made using Canva assets but he made like a short video while in the bathroom actually at work on like a little break posted it and came back and his phone had just blown up.",
+    "start": "00:31:59",
+    "end": "00:32:08"
+  },
+  {
+    "text": "It was we'd never had anything like it.",
+    "start": "00:32:08",
+    "end": "00:32:11"
+  },
+  {
+    "text": "Like all of a sudden because the app wasn't available, people just started following the page because they were like, \"I need this.",
+    "start": "00:32:11",
+    "end": "00:32:17"
+  },
+  {
+    "text": "Like remind me whenever it's out.",
+    "start": "00:32:17",
+    "end": "00:32:19"
+  },
+  {
+    "text": "\" And we had like maybe 15,000 followers within the first week.",
+    "start": "00:32:19",
+    "end": "00:32:23"
+  },
+  {
+    "text": "The app wasn't ready.",
+    "start": "00:32:23",
+    "end": "00:32:25"
+  },
+  {
+    "text": "We had no coding tools back then.",
+    "start": "00:32:25",
+    "end": "00:32:27"
+  },
+  {
+    "text": "You know, we couldn't vibe it up.",
+    "start": "00:32:27",
+    "end": "00:32:29"
+  },
+  {
+    "text": "Superjack just had to log in for like the next week, two weeks, get it out there.",
+    "start": "00:32:29",
+    "end": "00:32:35"
+  },
+  {
+    "text": "And it was basic, but I think because of the sense of community that came from that one video, people just loved it.",
+    "start": "00:32:35",
+    "end": "00:32:43"
+  },
+  {
+    "text": "We would find people recommending it on like other videos.",
+    "start": "00:32:43",
+    "end": "00:32:46"
+  },
+  {
+    "text": "It's something that we've never really experienced since.",
+    "start": "00:32:46",
+    "end": "00:32:50"
+  },
+  {
+    "text": "I think it was quite unique in that we were first to market there.",
+    "start": "00:32:50",
+    "end": "00:32:54"
+  },
+  {
+    "text": "Not many brands were doing it.",
+    "start": "00:32:54",
+    "end": "00:32:55"
+  },
+  {
+    "text": "People weren't really engaging with, you know, consumer brands on that space, particularly ones which were founder.",
+    "start": "00:32:55",
+    "end": "00:33:01"
+  },
+  {
+    "text": "I think the fact that it was clear the founder had posted it himself and that was really what allowed us to take off.",
+    "start": "00:33:01",
+    "end": "00:33:08"
+  },
+  {
+    "text": "I don't think without that video we'd be where we are today.",
+    "start": "00:33:08",
+    "end": "00:33:13"
+  },
+  {
+    "text": ">> Well, first of all, you guys built the app in less than two weeks.",
+    "start": "00:33:10",
+    "end": "00:33:15"
+  },
+  {
+    "text": "That's so cool.",
+    "start": "00:33:15",
+    "end": "00:33:18"
+  },
+  {
+    "text": ">> No, it it was almost finished.",
+    "start": "00:33:16",
+    "end": "00:33:19"
+  },
+  {
+    "text": "It just needed a lot of like polish.",
+    "start": "00:33:19",
+    "end": "00:33:22"
+  },
+  {
+    "text": ">> But you just finished it.",
+    "start": "00:33:20",
+    "end": "00:33:23"
+  },
+  {
+    "text": "Okay, I see.",
+    "start": "00:33:23",
+    "end": "00:33:24"
+  },
+  {
+    "text": "That's crazy.",
+    "start": "00:33:22",
+    "end": "00:33:23"
+  },
+  {
+    "text": "But then like the video like like the app wasn't even done and you just made a video that showed a viral concept from inside the app, right?",
+    "start": "00:33:23",
+    "end": "00:33:33"
+  },
+  {
+    "text": "And you're just >> Was that feature even finished yet or it was just Canva?",
+    "start": "00:33:33",
+    "end": "00:33:39"
+  },
+  {
+    "text": ">> Still just Canva.",
+    "start": "00:33:38",
+    "end": "00:33:39"
+  },
+  {
+    "text": "Mostly I think it was an early version had just went into the app and I think it had only been I think Jack had coded up maybe 3 4 days before that and so it was still very new.",
+    "start": "00:33:39",
+    "end": "00:33:51"
+  },
+  {
+    "text": "But that was the moment we were like, okay, if we launch this, there is going to be some degree of product market fit.",
+    "start": "00:33:51",
+    "end": "00:33:56"
+  },
+  {
+    "text": "There's going to be a lot of word of mouth for it.",
+    "start": "00:33:55",
+    "end": "00:33:58"
+  },
+  {
+    "text": "And yeah, I just wish we could get that buzz back now.",
+    "start": "00:33:58",
+    "end": "00:34:03"
+  },
+  {
+    "text": "It was incredible to see because whenever we launched, we rocketed up the charts.",
+    "start": "00:34:03",
+    "end": "00:34:08"
+  },
+  {
+    "text": "I think at one point, the highest we ever reached was number three in health and fitness, which was just incredible to see because like, you know, bootstrap back in the day, we didn't know a lot of all the marketing concepts.",
+    "start": "00:34:08",
+    "end": "00:34:19"
+  },
+  {
+    "text": "We didn't know how to monetize stuff.",
+    "start": "00:34:19",
+    "end": "00:34:21"
+  },
+  {
+    "text": "Well, the amount of resources which are available today, you know, you've got Discords, Twitter threads, everything.",
+    "start": "00:34:21",
+    "end": "00:34:27"
+  },
+  {
+    "text": "It just wasn't public back then.",
+    "start": "00:34:27",
+    "end": "00:34:28"
+  },
+  {
+    "text": "You had to hop on calls and actually, you know, talk to consumer finders to try and learn it.",
+    "start": "00:34:28",
+    "end": "00:34:34"
+  },
+  {
+    "text": "I don't think we realize just how lucky it is and how much the industry has changed in the past couple of years.",
+    "start": "00:34:34",
+    "end": "00:34:39"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:34:39",
+    "end": "00:34:41"
+  },
+  {
+    "text": ">> It is almost like drop shipping as people say.",
+    "start": "00:34:39",
+    "end": "00:34:46"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:34:43",
+    "end": "00:34:44"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:34:44",
+    "end": "00:34:45"
+  },
+  {
+    "text": "I mean, that's crazy.",
+    "start": "00:34:45",
+    "end": "00:34:48"
+  },
+  {
+    "text": "So then after your first video, you had all this attention.",
+    "start": "00:34:48",
+    "end": "00:34:51"
+  },
+  {
+    "text": "You you had like thousands of followers and then how do you follow up from that?",
+    "start": "00:34:51",
+    "end": "00:34:56"
+  },
+  {
+    "text": "Like you you build the app, but then if I'm if I'm imagining myself in your shoes, like I would be so scared to post the next video.",
+    "start": "00:34:56",
+    "end": "00:35:03"
+  },
+  {
+    "text": "Like is it going to hit just as as hard as the first one?",
+    "start": "00:35:03",
+    "end": "00:35:07"
+  },
+  {
+    "text": "Like how did you follow up for the first video?",
+    "start": "00:35:07",
+    "end": "00:35:12"
+  },
+  {
+    "text": "So, we got a lot of comments about people saying like, I lifted, you know, I bench pressed 220 pounds for five reps.",
+    "start": "00:35:09",
+    "end": "00:35:19"
+  },
+  {
+    "text": "What is that?",
+    "start": "00:35:19",
+    "end": "00:35:21"
+  },
+  {
+    "text": "And then we would just stitch that video.",
+    "start": "00:35:21",
+    "end": "00:35:23"
+  },
+  {
+    "text": "Um, it was Jack himself was doing it.",
+    "start": "00:35:23",
+    "end": "00:35:25"
+  },
+  {
+    "text": "He would just like record and be like, you've lifted, type it in on it, and then show it his phone up to the camera and it would be like, that's two blue wheels or like that's 500 bowling balls, something random.",
+    "start": "00:35:25",
+    "end": "00:35:37"
+  },
+  {
+    "text": "and people just kept commenting with different random objects.",
+    "start": "00:35:37",
+    "end": "00:35:41"
+  },
+  {
+    "text": "So, we had a series of videos kind of went viral and I'm sure a lot of like the the likes on this Tik Tok page like we've got about 4.",
+    "start": "00:35:41",
+    "end": "00:35:47"
+  },
+  {
+    "text": "9 million there.",
+    "start": "00:35:47",
+    "end": "00:35:49"
+  },
+  {
+    "text": "I'm sure a lot of them probably came from that early stretch of home runs then.",
+    "start": "00:35:49",
+    "end": "00:35:54"
+  },
+  {
+    "text": ">> That's a really good playbook actually.",
+    "start": "00:35:53",
+    "end": "00:35:56"
+  },
+  {
+    "text": "I feel like that could I don't know.",
+    "start": "00:35:54",
+    "end": "00:35:58"
+  },
+  {
+    "text": "Do you feel like that could be done today where the Well, there's a few pieces to that.",
+    "start": "00:35:58",
+    "end": "00:36:02"
+  },
+  {
+    "text": "There's like post the almost like the engagement bait video as the first one and you you show the the concept and it baits people to say, \"Hey, what you know uh convert my thing into whatever you know the meme is that you just posted.",
+    "start": "00:36:02",
+    "end": "00:36:18"
+  },
+  {
+    "text": "\" Then the cool thing about that is like in every single stitch video or reply comment video you do, you can type it in in the phone and then show the thing and if the app name is right there or you mention it somehow, it creates this like infinite loop of content.",
+    "start": "00:36:18",
+    "end": "00:36:36"
+  },
+  {
+    "text": "Do you feel like you could do that today?",
+    "start": "00:36:36",
+    "end": "00:36:38"
+  },
+  {
+    "text": "I think we probably should get back on that.",
+    "start": "00:36:38",
+    "end": "00:36:38"
+  },
+  {
+    "text": "I think it would really resonate today, particularly in the AI world where so much content is, you know, Hicksfield generated videos where like people don't actually know who they're engaging with.",
+    "start": "00:36:38",
+    "end": "00:36:50"
+  },
+  {
+    "text": "If you can see it's actually a person who's spent time to build this app, I think it resonates a lot more and people like that kind of human connection of seeing like, oh, that's kind of a cool app.",
+    "start": "00:36:50",
+    "end": "00:37:02"
+  },
+  {
+    "text": "Like, I wish I could build something like that, too.",
+    "start": "00:37:02",
+    "end": "00:37:05"
+  },
+  {
+    "text": "They respect the journey that you were on to actually build that as well.",
+    "start": "00:37:03",
+    "end": "00:37:09"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:37:06",
+    "end": "00:37:07"
+  },
+  {
+    "text": "So, I think it's also a lot harder for other people to replicate because most people vibe coding out apps don't want to put their face on camera now.",
+    "start": "00:37:07",
+    "end": "00:37:17"
+  },
+  {
+    "text": "Like, if you marketing strategy, it's all faceless stuff.",
+    "start": "00:37:15",
+    "end": "00:37:19"
+  },
+  {
+    "text": "So, that can kind of be your edge.",
+    "start": "00:37:19",
+    "end": "00:37:21"
+  },
+  {
+    "text": "I think it's getting harder and harder to find edges, but being able to show your face and look, you know, presentable on camera is actually a decent one which people should take advantage of more.",
+    "start": "00:37:21",
+    "end": "00:37:34"
+  },
+  {
+    "text": ">> That's so true.",
+    "start": "00:37:31",
+    "end": "00:37:34"
+  },
+  {
+    "text": "talking head videos are still like, yes, there's UGC and yes, it's getting like AI UGC is getting better every week, every month, but you can still look better as a as a human face.",
+    "start": "00:37:34",
+    "end": "00:37:45"
+  },
+  {
+    "text": "Like, there's still I think there's still pretty large alpha gap in just acting like a super normal human on camera and talking and showing the showing the phone and everything.",
+    "start": "00:37:45",
+    "end": "00:37:58"
+  },
+  {
+    "text": "It kind of reminds me of Twitch streaming.",
+    "start": "00:37:58",
+    "end": "00:38:00"
+  },
+  {
+    "text": "like people want to be shouted out on the stream.",
+    "start": "00:37:58",
+    "end": "00:38:02"
+  },
+  {
+    "text": "So, they're like spamming chat, they're doing donations, and then they want to see like the person like interacting with them.",
+    "start": "00:38:02",
+    "end": "00:38:09"
+  },
+  {
+    "text": "And that like human connection is very powerful still.",
+    "start": "00:38:09",
+    "end": "00:38:13"
+  },
+  {
+    "text": "I don't think I've really seen that kind of thing happen on short form as much.",
+    "start": "00:38:11",
+    "end": "00:38:17"
+  },
+  {
+    "text": "I mean, there's short form streaming, too, but you could just do a video series like with the replies like you're saying.",
+    "start": "00:38:17",
+    "end": "00:38:21"
+  },
+  {
+    "text": "That's really that's that's cool.",
+    "start": "00:38:21",
+    "end": "00:38:22"
+  },
+  {
+    "text": "I want to see more people doing that.",
+    "start": "00:38:22",
+    "end": "00:38:24"
+  },
+  {
+    "text": "More more face content on the timeline.",
+    "start": "00:38:24",
+    "end": "00:38:27"
+  },
+  {
+    "text": "But wait, can we look at this?",
+    "start": "00:38:27",
+    "end": "00:38:31"
+  },
+  {
+    "text": "Your first these pinned videos.",
+    "start": "00:38:28",
+    "end": "00:38:33"
+  },
+  {
+    "text": "Are these like some of the early ones too?",
+    "start": "00:38:33",
+    "end": "00:38:37"
+  },
+  {
+    "text": ">> Probably from 2023.",
+    "start": "00:38:33",
+    "end": "00:38:37"
+  },
+  {
+    "text": "Uh, this was back in the David Gogggins kind of era.",
+    "start": "00:38:37",
+    "end": "00:38:40"
+  },
+  {
+    "text": "Who's going to carry >> who's going to >> It's just like a little bit of engagement bit intentionally.",
+    "start": "00:38:40",
+    "end": "00:38:47"
+  },
+  {
+    "text": "You'll see some of the muscles aren't, you know, all elite people will be saying, \"Oh, he doesn't like pool day or whatever like that.",
+    "start": "00:38:47",
+    "end": "00:38:54"
+  },
+  {
+    "text": "\" And it's funny looking at the UI, I can see how much it's changed already.",
+    "start": "00:38:54",
+    "end": "00:38:58"
+  },
+  {
+    "text": "Like even the blur and stuff there.",
+    "start": "00:38:58",
+    "end": "00:38:59"
+  },
+  {
+    "text": "It's actually cool to see how the products evolved since then.",
+    "start": "00:38:59",
+    "end": "00:39:04"
+  },
+  {
+    "text": ">> I like that one because it it's really obvious that it's a app UI.",
+    "start": "00:39:01",
+    "end": "00:39:07"
+  },
+  {
+    "text": "There's like the share to Instagram button.",
+    "start": "00:39:07",
+    "end": "00:39:09"
+  },
+  {
+    "text": "There's like the >> download button.",
+    "start": "00:39:09",
+    "end": "00:39:11"
+  },
+  {
+    "text": "You can kind of see that it's an interface.",
+    "start": "00:39:11",
+    "end": "00:39:15"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:39:13",
+    "end": "00:39:14"
+  },
+  {
+    "text": "No, I think it's super effective.",
+    "start": "00:39:14",
+    "end": "00:39:18"
+  },
+  {
+    "text": "I think people like when content feels authentic.",
+    "start": "00:39:15",
+    "end": "00:39:19"
+  },
+  {
+    "text": "Um, I think if you do remove all those like, you know, share things like that.",
+    "start": "00:39:19",
+    "end": "00:39:23"
+  },
+  {
+    "text": "Yes, it might look a little bit better, but people know it's an advert then.",
+    "start": "00:39:23",
+    "end": "00:39:26"
+  },
+  {
+    "text": "Whereas, if it's an app screenshot, they're like, \"Oh, this is actual legit content.",
+    "start": "00:39:26",
+    "end": "00:39:31"
+  },
+  {
+    "text": "\" Because any self-respecting company would have like removed, you know, all the extra stuff that's not needed there.",
+    "start": "00:39:31",
+    "end": "00:39:39"
+  },
+  {
+    "text": "I think by looking less professional on Tik Tok, you actually perform much better.",
+    "start": "00:39:39",
+    "end": "00:39:44"
+  },
+  {
+    "text": "Like, you shouldn't have overly polished Tik Tok videos.",
+    "start": "00:39:44",
+    "end": "00:39:46"
+  },
+  {
+    "text": "It should look a little bit rough.",
+    "start": "00:39:46",
+    "end": "00:39:47"
+  },
+  {
+    "text": "So, what's your process for finding the next winning format?",
+    "start": "00:39:47",
+    "end": "00:39:51"
+  },
+  {
+    "text": "I know we kind of broke down content strategy in general, but what do you like what are you doing right now to find like to hunt for the next format?",
+    "start": "00:39:51",
+    "end": "00:40:00"
+  },
+  {
+    "text": ">> Look for whatever is working not just within your industry, but in other industries, you know, if there's like a finance tracking app taking off, look at their formats and be like, \"Okay, how could I actually reformat this, reskin this, and make it more relevant to the workout niche?",
+    "start": "00:39:58",
+    "end": "00:40:14"
+  },
+  {
+    "text": "\" Because in general when you find a format that's working the risk is people just blindly follow the format and then complain like oh it didn't you know work for me I think you have to think of it scientifically and be like okay why did people engage with this and once you know why they engaged with it you know what was it that spoke to them you know what this enable them to learn or to see for themselves they didn't know before kind of break it down then you can kind of reverse engineer it and adapt it to your niche and that might mean it looks very different but until you can understand why a video was went viral.",
+    "start": "00:40:14",
+    "end": "00:40:45"
+  },
+  {
+    "text": "I don't think you can properly replicate it and move across different niches.",
+    "start": "00:40:45",
+    "end": "00:40:49"
+  },
+  {
+    "text": "But that's kind of the way I look at it now.",
+    "start": "00:40:49",
+    "end": "00:40:51"
+  },
+  {
+    "text": "It's seeing what other industries have replicable formats.",
+    "start": "00:40:51",
+    "end": "00:40:54"
+  },
+  {
+    "text": "And by replicable, I mean it's not just like a one-time funny thing.",
+    "start": "00:40:54",
+    "end": "00:40:59"
+  },
+  {
+    "text": "It's like something you can, you know, do 10 iterations of and people would still get value from.",
+    "start": "00:40:58",
+    "end": "00:41:05"
+  },
+  {
+    "text": "And then it's just a matter of try a few ones, see how the watch time evolves.",
+    "start": "00:41:05",
+    "end": "00:41:10"
+  },
+  {
+    "text": "And then you do iterations, test different angles, hooks, and try and see what's your limiting factor there and optimize over time.",
+    "start": "00:41:10",
+    "end": "00:41:18"
+  },
+  {
+    "text": ">> Pretty much tracks with your actual story, too.",
+    "start": "00:41:16",
+    "end": "00:41:19"
+  },
+  {
+    "text": "Like how you found the Twitter original image on Twitter and it wasn't even really for an app like this, but you changed the format enough to translate it into your own industry and then it went viral.",
+    "start": "00:41:19",
+    "end": "00:41:33"
+  },
+  {
+    "text": "you didn't just like screenshot the tweet and then post it somewhere else like kind and I have to reverse engineer like what about this resonated and then take the lessons of that into your own and actually be creative with it.",
+    "start": "00:41:33",
+    "end": "00:41:47"
+  },
+  {
+    "text": ">> At the end of the day, it's like a science.",
+    "start": "00:41:46",
+    "end": "00:41:48"
+  },
+  {
+    "text": "I think people tend to think of content as an art and like something you're either born with or you're not.",
+    "start": "00:41:48",
+    "end": "00:41:55"
+  },
+  {
+    "text": "But I remember when I brought my brother on board, he was like, \"Oh, I don't really want to do like Tik Tok content.",
+    "start": "00:41:54",
+    "end": "00:42:00"
+  },
+  {
+    "text": "\" And I was like, \"Trust me, like you'll learn it.",
+    "start": "00:42:00",
+    "end": "00:42:01"
+  },
+  {
+    "text": "\" and now he just kills it with everything he does.",
+    "start": "00:42:01",
+    "end": "00:42:04"
+  },
+  {
+    "text": "Like he's it just comes naturally to him.",
+    "start": "00:42:04",
+    "end": "00:42:06"
+  },
+  {
+    "text": "If you put in the number of reps and you're intentional about what you're testing, you'll learn it.",
+    "start": "00:42:06",
+    "end": "00:42:11"
+  },
+  {
+    "text": "Like all three of us are engineers, so like we kind of had that scientific testing process drilled into us back at university.",
+    "start": "00:42:11",
+    "end": "00:42:18"
+  },
+  {
+    "text": "And I think subconsciously that's kind of the way we always thought about it.",
+    "start": "00:42:18",
+    "end": "00:42:22"
+  },
+  {
+    "text": "It's like breaking it down into different things, whether that's your hook, your body, like, and then using analytics to see, you know, what actually is the bottleneck here because if your hook's not good, you know, the rest doesn't get seen.",
+    "start": "00:42:22",
+    "end": "00:42:33"
+  },
+  {
+    "text": "It's almost like a funnel.",
+    "start": "00:42:33",
+    "end": "00:42:36"
+  },
+  {
+    "text": "Every piece of content is a funnel in and of itself.",
+    "start": "00:42:36",
+    "end": "00:42:37"
+  },
+  {
+    "text": "And you want to get as many people to, you know, go through the funnel and actually go and end up downloading from the app store.",
+    "start": "00:42:37",
+    "end": "00:42:46"
+  },
+  {
+    "text": "And if you can just do enough experiments to optimize each stage of the funnel on a format which is replicable, you're guaranteed to win.",
+    "start": "00:42:46",
+    "end": "00:42:54"
+  },
+  {
+    "text": ">> That's actually really cool to see that to hear that you guys are all engineers and you just do all the marketing yourself.",
+    "start": "00:42:52",
+    "end": "00:42:58"
+  },
+  {
+    "text": "Like I feel like a lot of people just if they're technical, they're just like, \"Oh, it's almost like a limiting belief.",
+    "start": "00:42:58",
+    "end": "00:43:05"
+  },
+  {
+    "text": "They're just like, oh, I'm just not good at marketing, so I'm just going to hire someone to do it.",
+    "start": "00:43:05",
+    "end": "00:43:08"
+  },
+  {
+    "text": "\" Then like they hire the person to do it and the person's not really embedded into the team.",
+    "start": "00:43:08",
+    "end": "00:43:13"
+  },
+  {
+    "text": "They don't have equity.",
+    "start": "00:43:13",
+    "end": "00:43:13"
+  },
+  {
+    "text": "So a lot of times like sometimes it works sometimes it doesn't but you guys just learned you you turned I mean coding is a science like you just realized that marketing is also a science and it's just another skill that you can learn.",
+    "start": "00:43:13",
+    "end": "00:43:27"
+  },
+  {
+    "text": "Are you still doing all of marketing yourself?",
+    "start": "00:43:27",
+    "end": "00:43:29"
+  },
+  {
+    "text": "I know you said you built some internal tools to automate some stuff but have you hired like marketing people?",
+    "start": "00:43:29",
+    "end": "00:43:37"
+  },
+  {
+    "text": ">> Um pretty much all ourselves right now.",
+    "start": "00:43:34",
+    "end": "00:43:38"
+  },
+  {
+    "text": "Um, we've worked with agencies a little bit before, but I think with agencies the incentives never fully align and you will have good experiences.",
+    "start": "00:43:37",
+    "end": "00:43:46"
+  },
+  {
+    "text": "I just think that from first principles, if one company's using an agency versus one company has it inhouse, the in-house team is always going to win because they're not having to pay, you know, 20% margin there.",
+    "start": "00:43:46",
+    "end": "00:43:56"
+  },
+  {
+    "text": "So, that's kind of the way we think.",
+    "start": "00:43:56",
+    "end": "00:43:58"
+  },
+  {
+    "text": "We want to in-house as much stuff as possible.",
+    "start": "00:43:58",
+    "end": "00:44:01"
+  },
+  {
+    "text": "We would only use an agency if it's to allow us to gain knowledge which we previously don't have or which we believe don't believe we could actually get.",
+    "start": "00:44:01",
+    "end": "00:44:10"
+  },
+  {
+    "text": "I think for most stuff now we've been around.",
+    "start": "00:44:10",
+    "end": "00:44:13"
+  },
+  {
+    "text": "We know most of the you know the tricks of the trade.",
+    "start": "00:44:13",
+    "end": "00:44:15"
+  },
+  {
+    "text": "So you work with a few affiliates, not that many anymore.",
+    "start": "00:44:15",
+    "end": "00:44:21"
+  },
+  {
+    "text": "Mostly ourselves, myself and my brother Joseph do almost all of the content which is going to get challenging now.",
+    "start": "00:44:18",
+    "end": "00:44:25"
+  },
+  {
+    "text": "We have two apps.",
+    "start": "00:44:24",
+    "end": "00:44:25"
+  },
+  {
+    "text": "We're probably going to look to expand the team there.",
+    "start": "00:44:25",
+    "end": "00:44:29"
+  },
+  {
+    "text": "a more structured affiliate program in place, but for now it's almost all us and internal tooling.",
+    "start": "00:44:29",
+    "end": "00:44:34"
+  },
+  {
+    "text": ">> Love to to see that.",
+    "start": "00:44:33",
+    "end": "00:44:35"
+  },
+  {
+    "text": "Yeah, I feel like agencies can work, but like usually you want to outsource your stuff after you figure it out yourself or if you're going to hire an agency, right?",
+    "start": "00:44:35",
+    "end": "00:44:44"
+  },
+  {
+    "text": "You got to kind of instruct them and like the general direction like the strategy because you're you're the one that knows your audience and your product the best.",
+    "start": "00:44:44",
+    "end": "00:44:53"
+  },
+  {
+    "text": ">> You use them more for scaling.",
+    "start": "00:44:51",
+    "end": "00:44:54"
+  },
+  {
+    "text": "when you find something that wins and maybe you haven't got the ops team put in place to be able to say okay let's get this pumped out across you know 50 accounts there's a lot of agencies which are capable of doing that in which case you're happy enough to pay the 20% margin you know the unit economics you know it works and eventually you can inhouse it it just lets you stand up that function quite quickly but in terms of like actually finding a winning format I think you need to do that yourself and it's not to say agencies can't do it they most definitely can it's more that you will understand your audience so much better.",
+    "start": "00:44:54",
+    "end": "00:45:27"
+  },
+  {
+    "text": "You'll make much better product decisions if you're the one that actually gets in the customer's shoes and creates content that resonates with them.",
+    "start": "00:45:27",
+    "end": "00:45:34"
+  },
+  {
+    "text": ">> That's a really interesting point.",
+    "start": "00:45:33",
+    "end": "00:45:36"
+  },
+  {
+    "text": "I'm gonna give a like a 30 secondond rant on agencies now because you made me think about like I know that there's agencies that can do that completely zero to one process where they find you the creators they think of the formats find that like initial winning format essentially hiring like a CMO at that point like or like a marketing co-founder and they're they're doing the job of finding product market fit that job is worth a lot more than the agency fee that you're paying them.",
+    "start": "00:45:36",
+    "end": "00:46:08"
+  },
+  {
+    "text": "So, either scamming them or they're scamming you, right?",
+    "start": "00:46:08",
+    "end": "00:46:11"
+  },
+  {
+    "text": "So, that's why I think that there's very very few people that know how to do the zero to one process of finding like content market fit and don't take equity or decide to just build their own apps because that skill is like extremely valuable.",
+    "start": "00:46:11",
+    "end": "00:46:26"
+  },
+  {
+    "text": "I do know a couple people like that, but they're not like a fully scaled out agency.",
+    "start": "00:46:26",
+    "end": "00:46:30"
+  },
+  {
+    "text": "They'll like specialize in that zero to one and just charge high price for that.",
+    "start": "00:46:30",
+    "end": "00:46:35"
+  },
+  {
+    "text": "So I think if they do have equity it makes a lot more sense.",
+    "start": "00:46:35",
+    "end": "00:46:37"
+  },
+  {
+    "text": "Was it Charlie Munger said I think it was Charlie Munger said show me the incentives and I'll show you the outcome.",
+    "start": "00:46:37",
+    "end": "00:46:41"
+  },
+  {
+    "text": "It might have been it was one of like a it was a very generic quote person but I think that's so true like if the incentives are if they have equity to like grow the equity then it's going to make a lot more sense.",
+    "start": "00:46:41",
+    "end": "00:46:53"
+  },
+  {
+    "text": "If the incentives are to like increase your monthly retainer it's going to be a very different business model and approach.",
+    "start": "00:46:53",
+    "end": "00:47:00"
+  },
+  {
+    "text": "And it's it's just human nature.",
+    "start": "00:46:58",
+    "end": "00:47:00"
+  },
+  {
+    "text": "It's how it works.",
+    "start": "00:47:00",
+    "end": "00:47:02"
+  },
+  {
+    "text": ">> Not to like on agencies or anything.",
+    "start": "00:47:00",
+    "end": "00:47:03"
+  },
+  {
+    "text": "I I had I know a bunch of agency owners and some freelancers and there's a lot of them that are actually really good and I do know like people that specialize in specific things and some people that do like end to end but like you said like you use it to scale once you have something or it's an early investment do a lot of experiments and iterate if they're really willing to like do that with you.",
+    "start": "00:47:03",
+    "end": "00:47:23"
+  },
+  {
+    "text": "At the end of the day, I think distribution is becoming more important than product and just general businesses like advice is never outsource the most crucial thing for you.",
+    "start": "00:47:23",
+    "end": "00:47:33"
+  },
+  {
+    "text": "You need to have some form of control our ability to do it.",
+    "start": "00:47:33",
+    "end": "00:47:37"
+  },
+  {
+    "text": "Otherwise, like what happens if let's say your agency decides, oh, we're actually only dealing with bigger clients.",
+    "start": "00:47:37",
+    "end": "00:47:43"
+  },
+  {
+    "text": "Do you just drop your revenue to nothing?",
+    "start": "00:47:43",
+    "end": "00:47:44"
+  },
+  {
+    "text": "Look, I think that's why it's important to in-house.",
+    "start": "00:47:44",
+    "end": "00:47:46"
+  },
+  {
+    "text": "It's not that people aren't capable of it.",
+    "start": "00:47:46",
+    "end": "00:47:48"
+  },
+  {
+    "text": "It's just that if something is so crucial to your business scaling, I want to have some level of control and investment in it.",
+    "start": "00:47:48",
+    "end": "00:47:56"
+  },
+  {
+    "text": ">> Yeah, that makes a lot of sense.",
+    "start": "00:47:54",
+    "end": "00:47:58"
+  },
+  {
+    "text": "You have some uh interesting opinions on like the app industry because you've seen it for a few years now.",
+    "start": "00:47:58",
+    "end": "00:48:05"
+  },
+  {
+    "text": "So, do you have any takes on like the whole apps with a new drop shipping and do you think AI is really going to make it even more competitive?",
+    "start": "00:48:05",
+    "end": "00:48:14"
+  },
+  {
+    "text": "Like I mean some people say it's a bubble.",
+    "start": "00:48:14",
+    "end": "00:48:17"
+  },
+  {
+    "text": "I don't know.",
+    "start": "00:48:17",
+    "end": "00:48:18"
+  },
+  {
+    "text": "Do you have any like hot takes around the whole like evolution of the consumer app space?",
+    "start": "00:48:16",
+    "end": "00:48:24"
+  },
+  {
+    "text": ">> Thinking back to when we first started, we didn't have any competition for quite some time.",
+    "start": "00:48:22",
+    "end": "00:48:29"
+  },
+  {
+    "text": "Like the strength score, we probably had 12 months where nobody else was doing it.",
+    "start": "00:48:29",
+    "end": "00:48:35"
+  },
+  {
+    "text": "And I wish we'd capitalized more then went in harder.",
+    "start": "00:48:35",
+    "end": "00:48:39"
+  },
+  {
+    "text": "I think like the growth of competition has made us have to work harder to be able to actually continue to scale.",
+    "start": "00:48:39",
+    "end": "00:48:45"
+  },
+  {
+    "text": "I think it definitely has become more challenging to grow a business because at the end of the day like if you come up with a cool feature there's very few features which people can't vibe code up in a week or two.",
+    "start": "00:48:45",
+    "end": "00:48:56"
+  },
+  {
+    "text": "That's one of the reasons we're working on our new app because it's an isometric tile based game.",
+    "start": "00:48:56",
+    "end": "00:49:01"
+  },
+  {
+    "text": "If you try to get clawed or something like that to do it right now it can't.",
+    "start": "00:49:01",
+    "end": "00:49:05"
+  },
+  {
+    "text": "Maybe in a year's time it'll be able to do so, but for now we've got a little bit of a distribution advantage there just because it doesn't understand the mathematics involved with those kind of game engines.",
+    "start": "00:49:05",
+    "end": "00:49:16"
+  },
+  {
+    "text": "My sense is that network effects are going to become more and more powerful because in a world where anyone can code up an app which is hyper specific to your personal needs.",
+    "start": "00:49:16",
+    "end": "00:49:31"
+  },
+  {
+    "text": "So say for example 4 years ago if I went to go to the gym I would have had like maybe a few workout trackers but they were all very generic.",
+    "start": "00:49:27",
+    "end": "00:49:37"
+  },
+  {
+    "text": "Now I think people can make much more specific ones.",
+    "start": "00:49:37",
+    "end": "00:49:42"
+  },
+  {
+    "text": "You can have high rocks training workout tracker.",
+    "start": "00:49:39",
+    "end": "00:49:43"
+  },
+  {
+    "text": "You can have it perfectly adapted to each individual niche which would lend itself towards fragmentation of the overall market.",
+    "start": "00:49:43",
+    "end": "00:49:51"
+  },
+  {
+    "text": "But I think that network effects is kind of your moat against that.",
+    "start": "00:49:51",
+    "end": "00:49:55"
+  },
+  {
+    "text": "If you can find something where each incremental user adds value to the business and to your value prop, then you become more interesting as you scale.",
+    "start": "00:49:55",
+    "end": "00:50:03"
+  },
+  {
+    "text": "Like it's like like d apps for example are us as a workout tracker.",
+    "start": "00:50:03",
+    "end": "00:50:10"
+  },
+  {
+    "text": "If we had, you know, a million people actively posting workouts on social, it's going to be pretty hard for a new competitor to come in as a social workout tracking app because they don't have that network effect advantage.",
+    "start": "00:50:10",
+    "end": "00:50:22"
+  },
+  {
+    "text": "I think that's the way I want to think about the industry in the future.",
+    "start": "00:50:22",
+    "end": "00:50:25"
+  },
+  {
+    "text": "It's where can you actually find remote either technical or social which will prevent people from being able to copy you within one to two weeks or alternately how can you build out internal tools and systems which allow you to mass produce content in ways which your rivals can't see.",
+    "start": "00:50:25",
+    "end": "00:50:45"
+  },
+  {
+    "text": "So, your rivals are going to be able to go on and see your Instagram, see your Tik Tok.",
+    "start": "00:50:45",
+    "end": "00:50:49"
+  },
+  {
+    "text": "They can go on, see your pay walls.",
+    "start": "00:50:48",
+    "end": "00:50:51"
+  },
+  {
+    "text": "They can see everything about you.",
+    "start": "00:50:51",
+    "end": "00:50:52"
+  },
+  {
+    "text": "They can't actually see what tools you have behind the scenes, which allow you to, you know, click one button and all of a sudden you've got like 20 social boosts.",
+    "start": "00:50:52",
+    "end": "00:51:01"
+  },
+  {
+    "text": "That was a gem.",
+    "start": "00:50:59",
+    "end": "00:51:01"
+  },
+  {
+    "text": "That was really interesting.",
+    "start": "00:51:01",
+    "end": "00:51:02"
+  },
+  {
+    "text": "I just Yeah, I feel like that was that was very valuable insight.",
+    "start": "00:51:02",
+    "end": "00:51:07"
+  },
+  {
+    "text": "It's like there's three sounds like you're saying there's three modes.",
+    "start": "00:51:06",
+    "end": "00:51:11"
+  },
+  {
+    "text": "There's like mass distribution which in reality is the tools behind that mass distribution technical mode which is harder to do but it sounds like you're saying games could be of that current frontier where AI has a lot of trouble vibe coding like somewhat complex games that have some kind of backend logic to them.",
+    "start": "00:51:08",
+    "end": "00:51:31"
+  },
+  {
+    "text": "Then network effects where like at the end of the day there's still humans using these products and that's not like just use AI to just fully exploit that.",
+    "start": "00:51:31",
+    "end": "00:51:44"
+  },
+  {
+    "text": "So you have like real humans interacting with each other and adding value to the products.",
+    "start": "00:51:41",
+    "end": "00:51:46"
+  },
+  {
+    "text": "That's interesting.",
+    "start": "00:51:46",
+    "end": "00:51:49"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:51:49",
+    "end": "00:51:50"
+  },
+  {
+    "text": ">> Coming back full circle to like the branding discussion earlier.",
+    "start": "00:51:48",
+    "end": "00:51:53"
+  },
+  {
+    "text": "I think brand becomes even more important.",
+    "start": "00:51:53",
+    "end": "00:51:56"
+  },
+  {
+    "text": "My sense is also that some apps have actually benefited from the number of copycats which pop up.",
+    "start": "00:51:56",
+    "end": "00:52:00"
+  },
+  {
+    "text": "Like for example, I'll take Cali as the obvious example.",
+    "start": "00:52:00",
+    "end": "00:52:04"
+  },
+  {
+    "text": "If you have somebody makes an app called like Cal's AI or something silly like that, like a very obvious copycat.",
+    "start": "00:52:01",
+    "end": "00:52:10"
+  },
+  {
+    "text": "If someone goes and searches for that app on the app store, who do you think is going to show up number two?",
+    "start": "00:52:10",
+    "end": "00:52:15"
+  },
+  {
+    "text": "Like obviously Cali, and they're going to have so many more review volume, things like that.",
+    "start": "00:52:15",
+    "end": "00:52:19"
+  },
+  {
+    "text": "Like if I'm a user and I see K's AI, which I've just seen an ad for, and I see Cali below it, and one of them has like 100x review volume, I'm going to go for the one which clearly has a lot more social proof there.",
+    "start": "00:52:19",
+    "end": "00:52:31"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:52:30",
+    "end": "00:52:33"
+  },
+  {
+    "text": ">> So, it's almost as if they get free distribution by way of people copying.",
+    "start": "00:52:31",
+    "end": "00:52:37"
+  },
+  {
+    "text": "And I think there's going to be a lot of different examples of that show up where the first mover and the biggest one to go to market.",
+    "start": "00:52:36",
+    "end": "00:52:43"
+  },
+  {
+    "text": "The flood of copycats effectively helps create a new category like Gal is the like food scanning industry and if they can be the category defining player where if you think oh that's the food scanning app people are going to inherently just download it anyway when they see you on Apple search.",
+    "start": "00:52:43",
+    "end": "00:53:02"
+  },
+  {
+    "text": ">> Yeah I love that.",
+    "start": "00:52:59",
+    "end": "00:53:02"
+  },
+  {
+    "text": "That's so interesting.",
+    "start": "00:53:02",
+    "end": "00:53:04"
+  },
+  {
+    "text": "People keep talking about like shortiz competitors now.",
+    "start": "00:53:02",
+    "end": "00:53:06"
+  },
+  {
+    "text": "It's like short was kind of one of the first ones to do the whole like you know multi-account automation thing and now people are launching shortiz competitors and you know some of them are inside consumer club and I find myself even calling them like oh here's a here's a new short competitor but then what am I doing I'm giving more brand awareness to shortize and like no matter like yeah no matter like if it's if it's differentiated and the new one is better in some way like you're still kind of like there is a big f first mover um like brand advantage like you said >> like you're taking a slice of the pie but you're also massively growing the pie and whoever has the biggest slice of the pie is going to benefit more there that's the way I think about it particularly given that you think about it as increasing the radius of the pie like the surface area is going to increase at a much greater rate than you taking that small slice so yeah I think it's been an overall benefit to have so many copycats just like spamming stuff >> and it's very specific to industries that might not be the case in all industries.",
+    "start": "00:53:06",
+    "end": "00:54:07"
+  },
+  {
+    "text": "Like there are some shameful copycats out there, but it's just the way of it now.",
+    "start": "00:54:07",
+    "end": "00:54:12"
+  },
+  {
+    "text": "It's part of the game.",
+    "start": "00:54:12",
+    "end": "00:54:14"
+  },
+  {
+    "text": "Just have to deal with it.",
+    "start": "00:54:13",
+    "end": "00:54:14"
+  },
+  {
+    "text": ">> Yeah.",
+    "start": "00:54:14",
+    "end": "00:54:16"
+  },
+  {
+    "text": ">> Like it used to really frustrate me and it still does sometimes when I say it, but I think I've just got used to I'm like, \"Oh, cool.",
+    "start": "00:54:14",
+    "end": "00:54:21"
+  },
+  {
+    "text": "Have they done anything novel?",
+    "start": "00:54:21",
+    "end": "00:54:22"
+  },
+  {
+    "text": "\" And if they have done something cool, I'm like, \"Oh, cool.",
+    "start": "00:54:22",
+    "end": "00:54:26"
+  },
+  {
+    "text": "I'm going to pinch that back.",
+    "start": "00:54:26",
+    "end": "00:54:30"
+  },
+  {
+    "text": "\" >> That's awesome.",
+    "start": "00:54:30",
+    "end": "00:54:29"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:54:29",
+    "end": "00:54:30"
+  },
+  {
+    "text": "Um, cool.",
+    "start": "00:54:30",
+    "end": "00:54:31"
+  },
+  {
+    "text": "This was awesome.",
+    "start": "00:54:31",
+    "end": "00:54:31"
+  },
+  {
+    "text": "Thanks so much for all the insights.",
+    "start": "00:54:31",
+    "end": "00:54:34"
+  },
+  {
+    "text": "I learned a lot.",
+    "start": "00:54:34",
+    "end": "00:54:36"
+  },
+  {
+    "text": "Yeah, thanks very much for having me.",
+    "start": "00:54:35",
+    "end": "00:54:38"
+  },
+  {
+    "text": "It's been very enjoyable.",
+    "start": "00:54:36",
+    "end": "00:54:40"
+  },
+  {
+    "text": ">> By the way, Peter's a member of Consumer Club.",
+    "start": "00:54:38",
+    "end": "00:54:40"
+  },
+  {
+    "text": "This is the online community that I run for consumer app founders.",
+    "start": "00:54:40",
+    "end": "00:54:46"
+  },
+  {
+    "text": "He has been in the club for a few months now and has been contributing his knowledge and learning from other founders in Consumer Club.",
+    "start": "00:54:46",
+    "end": "00:54:51"
+  },
+  {
+    "text": "So, just wanted to give a quick shout out to Peter.",
+    "start": "00:54:51",
+    "end": "00:54:55"
+  },
+  {
+    "text": "Thanks for being a member of Consumer Club and a user of Superwall, the sponsor of this podcast.",
+    "start": "00:54:55",
+    "end": "00:54:58"
+  },
+  {
+    "text": "Check out the YouTube channel as well.",
+    "start": "00:54:58",
+    "end": "00:55:00"
+  },
+  {
+    "text": "There's a lot more interviews that we're posting in the coming weeks and months.",
+    "start": "00:55:00",
+    "end": "00:55:05"
+  }
+]

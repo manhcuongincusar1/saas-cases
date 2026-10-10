@@ -1,0 +1,36 @@
+{
+ "f": "2026-04-05_how-this-app-makes-35k-month",
+ "vid": "rGLXc1GmsaI",
+ "segments": [
+  {"s":"01:03","e":"02:22","nut":["4.13"],
+   "tom":"Money AI (app ghi chi tiêu bằng giọng nói) mất 1 năm rưỡi tự làm mới lên $300 MRR; giờ hơn $35K MRR, và A/B test cho thấy hard paywall kèm 7 ngày dùng thử ăn hơn hẳn mô hình freemium cũ","kq":"$300 MRR → hơn $35K MRR"},
+  {"s":"02:53","e":"03:41","nut":["2.8","2.7"],
+   "tom":"Làm cho chính mình: thử đủ app ghi chi tiêu rồi bỏ hết vì quá cồng kềnh, đúng lúc AI vừa đủ dùng nên ghép hai thứ lại; app trước tốn 2 năm build rồi chẳng ai quan tâm nên lần này ship v1 trong 1–2 tháng","kq":"v1 trong 1–2 tháng thay vì 2 năm như app trước"},
+  {"s":"04:13","e":"04:43","nut":["4.4"],
+   "tom":"Một influencer lớn ở Colombia tự nhắn tới vì thấy social handle gắn trong app; chốt điều khoản xong anh ta đăng 3 video/tháng trên kênh chính, video đầu cuối 2024 làm MRR nhân 10 trong một tuần","kq":"gần $8K MRR sau một tháng"},
+  {"s":"05:13","e":"06:15","nut":["4.16"],
+   "tom":"Hợp đồng hiện tại là % lợi nhuận cộng retainer cố định hàng tháng — trước đó chia theo % doanh thu nhưng không scale nổi; ăn theo lợi nhuận nên creator tự nghĩ ý tưởng và chỉ làm 3 video story-driven chất lượng mỗi tháng"},
+  {"s":"07:03","e":"08:30","nut":["4.4","4.1"],
+   "tom":"Từng video một: clip walkthrough đơn giản đầu tiên cộng một clip nữa kéo $300 lên $7.8K MRR, clip ngắn kế thêm hơn $5K lên $13K, video kể chuyện được Apple mời dự WWDC 21/6 đạt 1,7 triệu view và thêm gần $5K","kq":"từ $300 lên hơn $35K MRR, tăng hơn 10.000%"},
+  {"s":"09:23","e":"10:25","nut":["4.4"],
+   "tom":"Bước 1–2: chọn creator khớp lifestyle và tông giọng, có trả lời bình luận (vì khán giả sẽ hỏi về app), và không thuần tech mà tech pha lifestyle để khán giả quan tâm câu chuyện; rồi follow, comment thật trước khi nhắn"},
+  {"s":"10:25","e":"11:47","nut":["4.4"],
+   "tom":"Bước 3–4: đừng gửi 'I love your content, let's collaborate' — nhắc đúng một video, một câu đùa cụ thể của họ, rồi nối sang chỗ khớp giữa khán giả của họ và sản phẩm, để không giống một cú thuê người"},
+  {"s":"11:47","e":"13:04","nut":["4.4"],
+   "tom":"Bước 5, quan trọng nhất: nói thẳng sẽ trả tiền ngay từ email đầu và dẫn số app cùng ngách kiếm $50–100K/tháng tra trên Sensor Tower; viết cực ngắn vì creator nhận hàng trăm mail mỗi tuần, cộng điểm nếu quay video cá nhân hoá"},
+  {"s":"13:04","e":"13:33","nut":["?"],"moi":"Để social handle ngay trong app để creator tự tìm tới",
+   "tom":"Việc nên làm đầu tiên khi ship app: gắn social handle của mình vào trong app — creator thấy app hay do một người làm sẽ tự nhắn tới, và khi họ chủ động thì mình đàm phán được điều khoản tốt hơn nhiều"},
+  {"s":"13:33","e":"14:08","nut":["?"],"moi":"Săn creator ở thị trường ngoài Mỹ",
+   "tom":"Đừng chỉ nhìn creator Mỹ: dev người Đức bắt tay creator Colombia và vẫn ra $35K MRR — creator giỏi ở các thị trường khác vừa nhiều vừa rẻ hơn, App Store các nước đó cũng lớn"},
+  {"s":"14:08","e":"15:25","nut":["?"],"moi":"Giảm ma sát nhập liệu bằng voice và Shortcuts",
+   "tom":"App không có cả tab, chỉ hiện phân bổ chi tiêu và danh sách; nói 'coffee at Starbucks, 50 bucks' là tự tạo giao dịch kèm tag và category, automation Apple Pay qua Shortcuts tự ghi khi vừa thanh toán, thêm AI reports hỏi nên cắt khoản nào để tiết kiệm 300 euro/tháng"},
+  {"s":"15:25","e":"16:28","nut":["?"],"moi":"Stack và chi phí vận hành thật của app $35K MRR",
+   "tom":"Native Xcode (free), Claude Code max $100/tháng, RevenueCat cho stats và A/B test ~$400/tháng, Appwrite lo backend/auth/database $25, OpenAI cho tác vụ nhẹ + Anthropic cho phân tích sâu ~$200, Helm lifetime $175, Figma bản free"},
+  {"s":"16:28","e":"17:20","nut":["4.2"],
+   "tom":"Tiếc nuối lớn nhất: sợ Meta Ads đốt tiền nên né mãi, trong khi chính video của creator là creative sẵn có để chạy ads — mới bật vài tuần đã thấy kết quả tốt, lẽ ra phải lên tàu sớm hơn nhiều"}
+ ],
+ "bo_qua": [
+  {"s":"08:30","e":"09:23","ly_do":"quảng cáo organic short-form playbook của Starter Story"},
+  {"s":"18:04","e":"21:50","ly_do":"Pat và Gus bình luận rồi quảng bá Starter Story Build"}
+ ]
+}

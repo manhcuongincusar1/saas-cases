@@ -1,0 +1,1407 @@
+[
+  {
+    "text": "In about 30 days, we hit a million ARR, did 500k in a month, and we almost all got kicked out of school and sued.",
+    "start": "00:00:00",
+    "end": "00:00:11"
+  },
+  {
+    "text": ">> That's wild.",
+    "start": "00:00:08",
+    "end": "00:00:10"
+  },
+  {
+    "text": "How many views did you get total like lifetime for this one product?",
+    "start": "00:00:10",
+    "end": "00:00:16"
+  },
+  {
+    "text": ">> Around like 220 million views.",
+    "start": "00:00:13",
+    "end": "00:00:17"
+  },
+  {
+    "text": "I made the video, posted it, and 30 minutes later I looked over at my co-founder and said, \"That's it.",
+    "start": "00:00:17",
+    "end": "00:00:21"
+  },
+  {
+    "text": "That video is going to hit at least 10 million views.",
+    "start": "00:00:21",
+    "end": "00:00:25"
+  },
+  {
+    "text": "\" >> Today we're sitting down with Dan Kwan, the mastermind behind some of the most viral app launches of the past few years.",
+    "start": "00:00:25",
+    "end": "00:00:29"
+  },
+  {
+    "text": "He's built Conch AI, which hit 500k in revenue from a single viral video.",
+    "start": "00:00:29",
+    "end": "00:00:33"
+  },
+  {
+    "text": "He's launched anime fitness apps that generated 50k a month, and most recently he built a Duolingo-style Bible study app that reached 75k monthly recurring revenue in just 14 days.",
+    "start": "00:00:33",
+    "end": "00:00:45"
+  },
+  {
+    "text": "Dan has cracked the code on turning cultural movements into million-dollar businesses.",
+    "start": "00:00:45",
+    "end": "00:00:48"
+  },
+  {
+    "text": "From riding the wave of student frustration with busy work to tapping into the anime communities' obsession with leveling up in real life.",
+    "start": "00:00:48",
+    "end": "00:00:56"
+  },
+  {
+    "text": "But here's what makes this conversation different from other app builder interviews.",
+    "start": "00:00:54",
+    "end": "00:00:59"
+  },
+  {
+    "text": "Dan gets super super tactical about how he spots these cultural waves before they peak, how he creates content that feels authentic while driving massive conversions, and his unique approach to what he calls Frankensteining viral content.",
+    "start": "00:00:59",
+    "end": "00:01:12"
+  },
+  {
+    "text": "He even breaks down the psychology behind why certain marketing approaches work, including his us versus them positioning strategy, and how he decides whether to build a personal brand or create a movement.",
+    "start": "00:01:12",
+    "end": "00:01:21"
+  },
+  {
+    "text": "Dan walks us through his TikTok shop playbook, reveals how he structures deals with content creators, and shares how modern AI coding tools are letting him ship products in weeks instead of months.",
+    "start": "00:01:21",
+    "end": "00:01:32"
+  },
+  {
+    "text": ">> For those who don't know, this interview is brought to you by Superwall, the all-in-one platform for paywall management and revenue analytics for your mobile apps.",
+    "start": "00:01:31",
+    "end": "00:01:38"
+  },
+  {
+    "text": "I'm your host, Joseph Choi, founder of Consumer Club.",
+    "start": "00:01:38",
+    "end": "00:01:41"
+  },
+  {
+    "text": "Let's get into it.",
+    "start": "00:01:41",
+    "end": "00:01:42"
+  },
+  {
+    "text": "Tell me the story behind Conch.",
+    "start": "00:01:42",
+    "end": "00:01:43"
+  },
+  {
+    "text": "Conch was actually my first AI startup.",
+    "start": "00:01:43",
+    "end": "00:01:46"
+  },
+  {
+    "text": "Before that, I was doing social media.",
+    "start": "00:01:46",
+    "end": "00:01:48"
+  },
+  {
+    "text": "I was kind of like an influencer.",
+    "start": "00:01:48",
+    "end": "00:01:53"
+  },
+  {
+    "text": "And two of my college friends approached me on campus one day asking me to help market their tech startup.",
+    "start": "00:01:50",
+    "end": "00:02:00"
+  },
+  {
+    "text": "I knew nothing about tech, but I was kind of itching to get into something new, and these guys told me about ChatGPT.",
+    "start": "00:02:00",
+    "end": "00:02:06"
+  },
+  {
+    "text": "It was like the end of 2022, beginning of 2023, and the first time I interfaced with ChatGPT, I was like mind-blown.",
+    "start": "00:02:06",
+    "end": "00:02:11"
+  },
+  {
+    "text": "I was like, \"I'm going to cheat on all my tests, all my essays.",
+    "start": "00:02:11",
+    "end": "00:02:13"
+  },
+  {
+    "text": "\" Like that's the first thing.",
+    "start": "00:02:13",
+    "end": "00:02:14"
+  },
+  {
+    "text": "I was like, \"I don't need to care about any school work ever again.",
+    "start": "00:02:14",
+    "end": "00:02:17"
+  },
+  {
+    "text": "\" And they were building a tool called Pandora, or ChatGPT for Google Docs.",
+    "start": "00:02:17",
+    "end": "00:02:23"
+  },
+  {
+    "text": "So it was a Chrome extension.",
+    "start": "00:02:23",
+    "end": "00:02:25"
+  },
+  {
+    "text": "And I started marketing it.",
+    "start": "00:02:25",
+    "end": "00:02:28"
+  },
+  {
+    "text": "I made two weeks of videos for them, and we did like around 100k views, but not many conversions, and I just continued to hack away at that point.",
+    "start": "00:02:28",
+    "end": "00:02:36"
+  },
+  {
+    "text": "But what ended up happening was Edward Tian came out with an AI detection tool called GPT-3.",
+    "start": "00:02:36",
+    "end": "00:02:44"
+  },
+  {
+    "text": "And the moment I saw that, I >> this one?",
+    "start": "00:05:25",
+    "end": "00:05:28"
+  },
+  {
+    "text": "Yeah, so it feels more like an actual student getting caught in class.",
+    "start": "00:05:28",
+    "end": "00:05:34"
+  },
+  {
+    "text": "Like the whole goal with the best UGC-style content is to lean into one extreme, like where it where the cringe factor is super high, and it feels so much like an ad that like it feels like one of your friends from high school made it.",
+    "start": "00:05:31",
+    "end": "00:05:46"
+  },
+  {
+    "text": "Or we lean so far into this video feels so real, and it's just something that I saw on my Snap story.",
+    "start": "00:05:46",
+    "end": "00:05:54"
+  },
+  {
+    "text": "And you can see this in a lot of other videos where we're using like Snap-style captions, which was kind of meta for a while.",
+    "start": "00:05:53",
+    "end": "00:05:59"
+  },
+  {
+    "text": "Um not so much anymore, but we can go down a whole laundry list of of how to make content feel natural, but it's often different from what it was a couple months ago.",
+    "start": "00:05:59",
+    "end": "00:06:10"
+  },
+  {
+    "text": "I feel like there's kind of a marketing alpha ladder, and like everything comes from Snapchat.",
+    "start": "00:06:10",
+    "end": "00:06:17"
+  },
+  {
+    "text": "It's like Snapchat is like real culture, and then it kind of bubbles up to Instagram and TikTok, and then marketers kind of start noticing it, and then like the people start adopting the same language.",
+    "start": "00:06:14",
+    "end": "00:06:28"
+  },
+  {
+    "text": "So would you consider this caption like a Snap-style caption, or was that other videos?",
+    "start": "00:06:28",
+    "end": "00:06:33"
+  },
+  {
+    "text": "That is definitely like a Snap-style caption, but if you go to uh some of the newer videos, um which were made by some UGC creators, that's like a Snap-style caption where it's filmed natively in the Snap app.",
+    "start": "00:06:33",
+    "end": "00:06:48"
+  },
+  {
+    "text": ">> Oh, it's filmed natively.",
+    "start": "00:06:46",
+    "end": "00:06:48"
+  },
+  {
+    "text": "So is it lower quality?",
+    "start": "00:06:48",
+    "end": "00:06:49"
+  },
+  {
+    "text": "Yeah, but that's usually not an issue.",
+    "start": "00:06:49",
+    "end": "00:06:51"
+  },
+  {
+    "text": "If If anything, I'd say the lower quality, the more you're leaning into the realistic pillar of a video.",
+    "start": "00:06:51",
+    "end": "00:07:00"
+  },
+  {
+    "text": ">> Like subconsciously, you kind of recognize the lower frame rate and kind of like the the lower pixelation from seeing Snap videos or like Snap stories.",
+    "start": "00:06:58",
+    "end": "00:07:10"
+  },
+  {
+    "text": "That's so interesting.",
+    "start": "00:07:08",
+    "end": "00:07:11"
+  },
+  {
+    "text": "And then the caption is like \"How the F is this kid acing every exam?",
+    "start": "00:07:11",
+    "end": "00:07:14"
+  },
+  {
+    "text": "\" Zooms in, and then it's like, \"Oh, I'm using this AI website.",
+    "start": "00:07:14",
+    "end": "00:07:16"
+  },
+  {
+    "text": "\" So it's like straight-up demo.",
+    "start": "00:07:16",
+    "end": "00:07:20"
+  },
+  {
+    "text": "Like I've seen this type of video more lately, like maybe last year, this year.",
+    "start": "00:07:17",
+    "end": "00:07:24"
+  },
+  {
+    "text": "So do you feel like this style of video still works today, where I would say I would categorize this as it's sort of the tongue-in-cheek, like it feels like it was made by a kid that built a a side project, and they're like, \"Hey, here's my thing.",
+    "start": "00:07:22",
+    "end": "00:07:37"
+  },
+  {
+    "text": "It helps you do your homework and and stuff.",
+    "start": "00:07:37",
+    "end": "00:07:42"
+  },
+  {
+    "text": "\" >> Yeah, I think it still works um definitely, especially on X um amongst founders.",
+    "start": "00:07:42",
+    "end": "00:07:46"
+  },
+  {
+    "text": "We have people leaning to the extremely professional, high-budget, we're talking like mid-six-figure videos, but there's always still that scrappy element that makes it feel like it's coming from a founder with a real personality.",
+    "start": "00:07:46",
+    "end": "00:07:59"
+  },
+  {
+    "text": "I actually forget which startup it was, but they did a a launch video just using slides.",
+    "start": "00:07:59",
+    "end": "00:08:05"
+  },
+  {
+    "text": "Just using Google Slides.",
+    "start": "00:08:05",
+    "end": "00:08:06"
+  },
+  {
+    "text": "And I mean, Roy from from Cruely also did um he did like the the billboards in New York, right?",
+    "start": "00:08:06",
+    "end": "00:08:11"
+  },
+  {
+    "text": "Which feels super scrappy.",
+    "start": "00:08:11",
+    "end": "00:08:13"
+  },
+  {
+    "text": "It doesn't even feel like it's something from a VC-backed founder.",
+    "start": "00:08:12",
+    "end": "00:08:17"
+  },
+  {
+    "text": ">> Yeah, it's just like a white blank with black text.",
+    "start": "00:08:16",
+    "end": "00:08:23"
+  },
+  {
+    "text": "So that's one style of like really leaning into, \"Hey, this is an ad.",
+    "start": "00:08:23",
+    "end": "00:08:27"
+  },
+  {
+    "text": "\" It's like obviously an ad, but it's also entertaining.",
+    "start": "00:08:27",
+    "end": "00:08:30"
+  },
+  {
+    "text": "And then there's kind of the more stealth, like super native type content.",
+    "start": "00:08:30",
+    "end": "00:08:34"
+  },
+  {
+    "text": "And then you also had this 4 million view one, ChatGPT just broke university.",
+    "start": "00:08:34",
+    "end": "00:08:39"
+  },
+  {
+    "text": "And then here's your voiceover, \"No, half the assignments you get as students are just busy work.",
+    "start": "00:08:39",
+    "end": "00:08:45"
+  },
+  {
+    "text": "\" I noticed like also with this 4 million view video and the 30 million, you're sort of like building a movement in a way where there's like the enemy, which is pointless bureaucracy, pointless memorization of facts, and like boring school that feels like prison.",
+    "start": "00:08:45",
+    "end": "00:09:02"
+  },
+  {
+    "text": ">> [laughter] >> Um Yeah, and then Definitely like Yeah.",
+    "start": "00:09:02",
+    "end": "00:09:06"
+  },
+  {
+    "text": "Is kind of like us versus them positioning.",
+    "start": "00:09:05",
+    "end": "00:09:07"
+  },
+  {
+    "text": "Do you do that with a lot of your marketing?",
+    "start": "00:09:07",
+    "end": "00:09:10"
+  },
+  {
+    "text": ">> Depends on the company, but yeah, I mean, this is just standard human desire.",
+    "start": "00:09:09",
+    "end": "00:09:14"
+  },
+  {
+    "text": "Like humans love to gossip.",
+    "start": "00:09:14",
+    "end": "00:09:18"
+  },
+  {
+    "text": "Humans love taking sides.",
+    "start": "00:09:15",
+    "end": "00:09:19"
+  },
+  {
+    "text": "Um so anything that's going viral online is often outraging one group.",
+    "start": "00:09:19",
+    "end": "00:09:24"
+  },
+  {
+    "text": "So if you can either lean into the outrage and act kind of as one of those people in that crowd, in the angry crowd, in the sad crowd, whatever it is, or lean into the opposing side.",
+    "start": "00:09:24",
+    "end": "00:09:36"
+  },
+  {
+    "text": "Whichever side has the larger or louder emotion is what I'd say about that.",
+    "start": "00:09:36",
+    "end": "00:09:40"
+  },
+  {
+    "text": "For example, like when I was working on TikTok shop products, it was more about the small business factor and building a cult around one person.",
+    "start": "00:09:40",
+    "end": "00:09:49"
+  },
+  {
+    "text": "And then what happened after that?",
+    "start": "00:09:49",
+    "end": "00:09:51"
+  },
+  {
+    "text": ">> Yeah, that's kind of where things got a little out of hand.",
+    "start": "00:09:49",
+    "end": "00:09:53"
+  },
+  {
+    "text": "Being my first startup, our school basically threatened to sue us.",
+    "start": "00:09:53",
+    "end": "00:09:55"
+  },
+  {
+    "text": "We got a letter of intent, a cease and desist because we were using their logo on our website and a couple different schools, but we were on the local news around Villanova because some high school students were using Conch to bypass AI detection and that word got to our school and Conch was in our LinkedIn bios at the time.",
+    "start": "00:09:55",
+    "end": "00:10:14"
+  },
+  {
+    "text": "We were a little naive and weren't building in stealth and yeah, it led to a whole legal battle with their school.",
+    "start": "00:10:14",
+    "end": "00:10:22"
+  },
+  {
+    "text": ">> That's wild.",
+    "start": "00:10:20",
+    "end": "00:10:21"
+  },
+  {
+    "text": "How many views did you get total like lifetime for this one product?",
+    "start": "00:10:21",
+    "end": "00:10:28"
+  },
+  {
+    "text": ">> Around like 220 something million views and we ended up around 2.",
+    "start": "00:10:25",
+    "end": "00:10:31"
+  },
+  {
+    "text": "2 million in revenue.",
+    "start": "00:10:31",
+    "end": "00:10:32"
+  },
+  {
+    "text": "Most of that was all organic.",
+    "start": "00:10:32",
+    "end": "00:10:36"
+  },
+  {
+    "text": "We did test paid, but didn't like the margins on it, so it kind of just ended up being like a passive passive income stream and we sold the company early this year actually.",
+    "start": "00:10:33",
+    "end": "00:10:47"
+  },
+  {
+    "text": "How was that process of getting acquired?",
+    "start": "00:10:47",
+    "end": "00:10:48"
+  },
+  {
+    "text": ">> good.",
+    "start": "00:10:47",
+    "end": "00:10:48"
+  },
+  {
+    "text": "We actually talked to like three or four different buyers.",
+    "start": "00:10:48",
+    "end": "00:10:54"
+  },
+  {
+    "text": "Since the whole school situation happened, we were just so early at the time that they were definitely people interested considering our margins and numbers, but looking back on it, there were some competitors of ours that would pretend to acquire us and then just basically take info from us and we just we had no clue, but I think I learned a lot of like the expensive lessons early on with Conch, so as it has a special place in my heart just considering it being the first, but also all the little mistakes that came along with it.",
+    "start": "00:10:53",
+    "end": "00:11:25"
+  },
+  {
+    "text": ">> Yeah, I wanted to ask you about e-commerce and TikTok Shop cuz you said you got started in social media.",
+    "start": "00:11:23",
+    "end": "00:11:32"
+  },
+  {
+    "text": "You've also done viral marketing for a TikTok Shop and e-commerce brands as well.",
+    "start": "00:11:30",
+    "end": "00:11:34"
+  },
+  {
+    "text": "I'd love to hear like what you've done in the e-commerce world and also if you see any overlaps and what app founders can learn from the e-com space.",
+    "start": "00:11:34",
+    "end": "00:11:45"
+  },
+  {
+    "text": "First of all, I'd say it's all the same game.",
+    "start": "00:11:43",
+    "end": "00:11:46"
+  },
+  {
+    "text": "There's no real difference in how you should be thinking about marketing.",
+    "start": "00:11:46",
+    "end": "00:11:51"
+  },
+  {
+    "text": "Obviously, you should have a bit of a different approach, but yeah, my background in e-com actually started when I tried drop shipping when I was like 15 or 16.",
+    "start": "00:11:50",
+    "end": "00:11:58"
+  },
+  {
+    "text": "I didn't really make much money off of it and then after Conch, after a couple other different projects, I ended up working on a TikTok Shop accelerator.",
+    "start": "00:11:58",
+    "end": "00:12:07"
+  },
+  {
+    "text": "It ended up being Agents for TikTok Shop and we ran with that for about like 8 months.",
+    "start": "00:12:07",
+    "end": "00:12:12"
+  },
+  {
+    "text": "He's still running the company, but yeah, we got backed by Science Inc, which is a CPG focused venture studio and at that point my good friend he had gotten his shop to number one on TikTok and kind of learned the ins and outs of what makes a shop successful there and that included like affiliate strategy, paid ads, organic, which is what I was running along with the actual software product and customer support.",
+    "start": "00:12:12",
+    "end": "00:12:40"
+  },
+  {
+    "text": "So, all that's like automated with AI just through all the learnings from working with the different brands.",
+    "start": "00:12:40",
+    "end": "00:12:46"
+  },
+  {
+    "text": "Our biggest brand was Final Boss Sour, which was number one in the food and beverage category for just overall TikTok Shop revenue.",
+    "start": "00:12:46",
+    "end": "00:12:55"
+  },
+  {
+    "text": "What would you want to know about TikTok Shop in particular?",
+    "start": "00:12:55",
+    "end": "00:13:00"
+  },
+  {
+    "text": "Are are we considering like the organic strategies, affiliate, paid ads?",
+    "start": "00:12:56",
+    "end": "00:13:03"
+  },
+  {
+    "text": "I guess starting from organic, can you share any strategies for getting your first winning formats?",
+    "start": "00:13:03",
+    "end": "00:13:09"
+  },
+  {
+    "text": "Cuz I think a lot of people want to find those, you know, winning short-form video formats that get a lot of views, but also convert to product.",
+    "start": "00:13:09",
+    "end": "00:13:17"
+  },
+  {
+    "text": "How do you think about that for e-com?",
+    "start": "00:13:17",
+    "end": "00:13:19"
+  },
+  {
+    "text": "I guess going back to your first point and mine of how everything is pretty much the same game, the scrappy style content that we saw work well with Conch actually worked even better with TikTok Shop brands.",
+    "start": "00:13:19",
+    "end": "00:13:33"
+  },
+  {
+    "text": "So, TikTok as a platform just boosts the likelihood of normal top videos going viral in the first place, which is why everyone should be posting shop content if they don't know what to do and they want a side hustle where they're just reviewing products, but some of the best videos that come from affiliates basically just read like Amazon reviews.",
+    "start": "00:13:33",
+    "end": "00:13:49"
+  },
+  {
+    "text": "And then, I mean, what you're seeing there with Final Boss Sour is founder-led content where yes, Final Boss Sour is a VC-backed company.",
+    "start": "00:13:49",
+    "end": "00:13:59"
+  },
+  {
+    "text": "They make millions of dollars a month, but the content feels like it's being shot in the founder's kitchen and their bedroom.",
+    "start": "00:13:59",
+    "end": "00:14:08"
+  },
+  {
+    "text": "We can go down high production style content.",
+    "start": "00:14:08",
+    "end": "00:14:09"
+  },
+  {
+    "text": "There's no problem with that and that actually does have its place on TikTok Shop, but the small business factor combined with there's a couple different pillars that we were using to activate with a lot of our brands.",
+    "start": "00:14:09",
+    "end": "00:14:20"
+  },
+  {
+    "text": "One of the major ones was small business factor and then number two was focusing on like the clearance of your products that you can often put a flash sale on an item and that automatically boosts both the product and the brand on TikTok Shop in terms of getting it in front of people on their for you pages, but getting people to convert or the click-through to conversion rate, that is the major factor in See, that's actually a video I made for Final Boss Sour.",
+    "start": "00:14:20",
+    "end": "00:14:48"
+  },
+  {
+    "text": "We made way too much sour candies, so we're putting it on sale.",
+    "start": "00:14:48",
+    "end": "00:14:51"
+  },
+  {
+    "text": "Not the typical junk you see filled with sugar and chemicals, but real fruit covered in real sour.",
+    "start": "00:14:51",
+    "end": "00:14:58"
+  },
+  {
+    "text": "Just look at the ingredients list.",
+    "start": "00:14:58",
+    "end": "00:15:00"
+  },
+  {
+    "text": "Some of you guys are snagging these 18-pack variety boxes for less than $20, so this definitely isn't going to last much longer.",
+    "start": "00:15:00",
+    "end": "00:15:06"
+  },
+  {
+    "text": "So again, super super super scrappy and I actually made that because when I first joined Dimension and Final Boss Sour's team, they were trying to go viral on organic.",
+    "start": "00:15:06",
+    "end": "00:15:17"
+  },
+  {
+    "text": "They were getting views, but nothing was converting.",
+    "start": "00:15:17",
+    "end": "00:15:21"
+  },
+  {
+    "text": "So, with TikTok Shop you really have to start to understand how to nail content that not only goes viral, but more so converts.",
+    "start": "00:15:21",
+    "end": "00:15:29"
+  },
+  {
+    "text": "And so, this video has been rinsed and repeated by all the UGC creators that we brought on to Dimension and every single time it's hit.",
+    "start": "00:15:29",
+    "end": "00:15:37"
+  },
+  {
+    "text": "We've mixed it with a couple different narratives like Keith Lee review to Final Boss Sour and that ended up making Final Boss Sour go nuclear, especially when combining it with the small business factor, with the clearance sale.",
+    "start": "00:15:37",
+    "end": "00:15:51"
+  },
+  {
+    "text": "Final Boss Sour as a product is literally made for TikTok Shop.",
+    "start": "00:15:51",
+    "end": "00:15:54"
+  },
+  {
+    "text": "Basically, if you look at any of their product pictures, you just get an instant picture of value and the fact that there's so much in the boxes.",
+    "start": "00:15:54",
+    "end": "00:16:05"
+  },
+  {
+    "text": "All the content from the actual brand side, we're not talking about videos, just product hero images and whatnot, how how gamified the product is, how they do limited drops, how there's a character associated with the brand.",
+    "start": "00:16:05",
+    "end": "00:16:16"
+  },
+  {
+    "text": "They teach so many lessons in terms of product, which makes the actual organic marketing storytelling that much easier.",
+    "start": "00:16:16",
+    "end": "00:16:24"
+  },
+  {
+    "text": "That's so interesting.",
+    "start": "00:16:24",
+    "end": "00:16:27"
+  },
+  {
+    "text": "It's like gamifying candy.",
+    "start": "00:16:27",
+    "end": "00:16:27"
+  },
+  {
+    "text": "Like you you would normally think about gamification for apps, but it's like founder-led like people are buying into the story and like people are getting hyped up for new flavor drops like kind of like a streetwear brand.",
+    "start": "00:16:27",
+    "end": "00:16:40"
+  },
+  {
+    "text": "Can you use that for apps too, do you think?",
+    "start": "00:16:40",
+    "end": "00:16:44"
+  },
+  {
+    "text": ">> What in particular are you asking me?",
+    "start": "00:16:42",
+    "end": "00:16:46"
+  },
+  {
+    "text": "Kind of the gamification aspect that you're describing.",
+    "start": "00:16:44",
+    "end": "00:16:47"
+  },
+  {
+    "text": "I think even like with the Stand Store, he does a bunch of founder-led marketing, which is pretty different as a product.",
+    "start": "00:16:47",
+    "end": "00:16:54"
+  },
+  {
+    "text": "It's like a link-in-bio app, but overall, I think if you're a founder and you're scared to do any sort of founder-led marketing, then you shouldn't be building your app.",
+    "start": "00:16:54",
+    "end": "00:17:03"
+  },
+  {
+    "text": "It's almost to that degree because the content doesn't need to be super high production.",
+    "start": "00:17:03",
+    "end": "00:17:07"
+  },
+  {
+    "text": "You don't need to be really good at editing.",
+    "start": "00:17:07",
+    "end": "00:17:09"
+  },
+  {
+    "text": "If you just hop on and talk about your product and you're so excited about your product and you really understand your ICP or ideal customer profile, that resonates like Gen Z, Gen A goes off of vibes.",
+    "start": "00:17:09",
+    "end": "00:17:22"
+  },
+  {
+    "text": "So, it's not about all the little tips and tricks.",
+    "start": "00:17:22",
+    "end": "00:17:24"
+  },
+  {
+    "text": "The founder's biggest influencer in a sense.",
+    "start": "00:17:24",
+    "end": "00:17:27"
+  },
+  {
+    "text": "Like you should be willing to make the most content for your app, at least in terms of cold starts.",
+    "start": "00:17:27",
+    "end": "00:17:33"
+  },
+  {
+    "text": "That makes sense.",
+    "start": "00:17:33",
+    "end": "00:17:32"
+  },
+  {
+    "text": "Do you do that too with any new products that you're working on with any of the apps?",
+    "start": "00:17:32",
+    "end": "00:17:37"
+  },
+  {
+    "text": "Like are you leaning into founder-led content?",
+    "start": "00:17:37",
+    "end": "00:17:41"
+  },
+  {
+    "text": ">> on two different apps after Dimension.",
+    "start": "00:17:38",
+    "end": "00:17:44"
+  },
+  {
+    "text": "One was a super hacky scrappy app called Arise.",
+    "start": "00:17:41",
+    "end": "00:17:45"
+  },
+  {
+    "text": "It's a Solo Leveling inspired fitness app.",
+    "start": "00:17:45",
+    "end": "00:17:50"
+  },
+  {
+    "text": "This was probably next to the the other app I'm going to talk about, which is called Shepherd and it's the Duolingo for Bible study, but next to that app, I think it was the fastest cold start I've given an app.",
+    "start": "00:17:50",
+    "end": "00:18:05"
+  },
+  {
+    "text": "We just used carousels about fans of Solo Leveling being excited about the idea of the system existing in real life.",
+    "start": "00:18:05",
+    "end": "00:18:16"
+  },
+  {
+    "text": "So, like there were already a bunch of anime fanatics just posting we need the system in real life.",
+    "start": "00:18:16",
+    "end": "00:18:24"
+  },
+  {
+    "text": "So, everyone already wanted an app and there were already a couple out, but none of them were optimized.",
+    "start": "00:18:24",
+    "end": "00:18:29"
+  },
+  {
+    "text": "They had no long onboarding flow, no social features.",
+    "start": "00:18:29",
+    "end": "00:18:33"
+  },
+  {
+    "text": "They weren't optimized to convert actually.",
+    "start": "00:18:32",
+    "end": "00:18:34"
+  },
+  {
+    "text": "Most of them were running ads, which anyone in the app space knows does not generate much revenue and it's probably the worst way to monetize your app.",
+    "start": "00:18:34",
+    "end": "00:18:43"
+  },
+  {
+    "text": "But yeah, we just basically milked that format, partnered with a couple different influencers.",
+    "start": "00:18:43",
+    "end": "00:18:48"
+  },
+  {
+    "text": "What did your influencer deals look like for this?",
+    "start": "00:18:48",
+    "end": "00:18:51"
+  },
+  {
+    "text": "I mean, it varied, but most of the influencers and meme pages we worked with were happy with like a one to two dollar CPM and typically we're looking at around like a six or seven dollar RPM.",
+    "start": "00:18:51",
+    "end": "00:19:06"
+  },
+  {
+    "text": "So, most of the influencer deals are what pushed this app to around 50K a month, similar 70-80% margins to to the other consumer apps I've been working on.",
+    "start": "00:19:04",
+    "end": "00:19:14"
+  },
+  {
+    "text": "That's so interesting.",
+    "start": "00:19:14",
+    "end": "00:19:16"
+  },
+  {
+    "text": "It's like it seems like the framework for this was just like find a large group of people that are really passionate about a thing and then just make an app that's sort of like based on that IP, so they're super fans of Solo Leveling and they doesn't really exist in real life.",
+    "start": "00:19:16",
+    "end": "00:19:35"
+  },
+  {
+    "text": "I mean, it goes back to the point of building a movement.",
+    "start": "00:19:35",
+    "end": "00:19:38"
+  },
+  {
+    "text": "You're either building the cult or finding the cult and definitely better to build the cult in terms of long-term or in terms of LTV, but with this it was just such an obvious play with the season two finale of Solo Leveling coming out at the time, So, we were kind of riding like a momentum wave.",
+    "start": "00:19:38",
+    "end": "00:19:55"
+  },
+  {
+    "text": "I like to say that pretty much every product or project I've worked on has stemmed from some sort of momentum wave and an existing cult.",
+    "start": "00:19:55",
+    "end": "00:20:06"
+  },
+  {
+    "text": ">> Conch was an existing cult or you building the cult?",
+    "start": "00:20:04",
+    "end": "00:20:09"
+  },
+  {
+    "text": ">> Also a mix of the two because I mean just going through the American school system both in high school and in college, pretty much everyone hates busy work and so that that sort of mind share against university and higher academia already exists.",
+    "start": "00:20:07",
+    "end": "00:20:23"
+  },
+  {
+    "text": "And I And I think there's definitely a place for school.",
+    "start": "00:20:23",
+    "end": "00:20:26"
+  },
+  {
+    "text": "Like we shouldn't just get rid of the school system entirely, but those emotions are definitely stronger in students and only getting stronger.",
+    "start": "00:20:25",
+    "end": "00:20:34"
+  },
+  {
+    "text": "I mean every single college kid that I know says that chat GPT is still something that most professors are against and it seems like the detection or detectors are still coming out and working and it's what the these professors are using.",
+    "start": "00:20:34",
+    "end": "00:20:51"
+  },
+  {
+    "text": "So, I've even seen more startups around the AI detection bypass feature go viral even recently and some of them are doing billions of views.",
+    "start": "00:20:51",
+    "end": "00:20:58"
+  },
+  {
+    "text": "It's still a huge movement.",
+    "start": "00:20:58",
+    "end": "00:21:00"
+  },
+  {
+    "text": "People are still capitalizing on it.",
+    "start": "00:21:00",
+    "end": "00:21:03"
+  },
+  {
+    "text": "What do you think is a big movement right now?",
+    "start": "00:21:03",
+    "end": "00:21:06"
+  },
+  {
+    "text": "Social super saturated already, but I think with the recent events like freedom of speech is is huge.",
+    "start": "00:21:06",
+    "end": "00:21:11"
+  },
+  {
+    "text": "So, if someone built an app in that space with the right storytelling, you could really see some some crazy breakout community.",
+    "start": "00:21:11",
+    "end": "00:21:21"
+  },
+  {
+    "text": "I think I think some something in the debate debate field would be would be really interesting and also the Christian community has been definitely gaining a lot of momentum and we're seeing like revival in in in Christianity right now.",
+    "start": "00:21:21",
+    "end": "00:21:36"
+  },
+  {
+    "text": "And so, alongside that and and also being like a Christian a Christian that struggled with like getting in the Bible every single day, that's also why I ended up building the app Shepherd which was more recent about three or four months ago.",
+    "start": "00:21:33",
+    "end": "00:21:49"
+  },
+  {
+    "text": "Shepherd kind of started between my co-founder on Conch and Arise and I where we were both just like we want to build something that actually feels more purpose-driven.",
+    "start": "00:21:49",
+    "end": "00:22:02"
+  },
+  {
+    "text": "And again growing up Christian but not really being able to get in the Bible consistently, we just thought why not build like a Tamagotchi style app for it and kind of going back to the the small business factor, the founder should be the biggest influencer of their app sort of angle.",
+    "start": "00:21:59",
+    "end": "00:22:15"
+  },
+  {
+    "text": "This also blew up.",
+    "start": "00:22:15",
+    "end": "00:22:17"
+  },
+  {
+    "text": "It was like seven videos and we did like 20 million views in two weeks got over 100,000 downloads and nothing was optimized for this.",
+    "start": "00:22:17",
+    "end": "00:22:28"
+  },
+  {
+    "text": "We literally ideated or conceptualized with like AI and just some calls.",
+    "start": "00:22:28",
+    "end": "00:22:32"
+  },
+  {
+    "text": "It was like a two-week build two-week build alongside a two-week growth sprint.",
+    "start": "00:22:32",
+    "end": "00:22:37"
+  },
+  {
+    "text": "Yeah, I mean the app broke a ton.",
+    "start": "00:22:35",
+    "end": "00:22:38"
+  },
+  {
+    "text": "There were a lot of issues, but we got it to 75k MRR in those two weeks and we're currently working on tightening like the social loops that exist in the app because we think the bigger play is is K factor and basically getting people to invite prayer prayer and and accountability buddies for consistently reading the Bible.",
+    "start": "00:22:38",
+    "end": "00:22:57"
+  },
+  {
+    "text": "And that was all from how many videos?",
+    "start": "00:22:57",
+    "end": "00:23:00"
+  },
+  {
+    "text": "It was like seven videos and then we continued to get more videos up after the fact and I think about a month ago my co-founder halted all all creator ops just because the whole conversation around social loops.",
+    "start": "00:23:00",
+    "end": "00:23:14"
+  },
+  {
+    "text": "I don't think there's any videos of the new app on the social pages at the moment.",
+    "start": "00:23:14",
+    "end": "00:23:21"
+  },
+  {
+    "text": ">> Wait, so is this the account where the most viral videos were or were they on like creator accounts?",
+    "start": "00:23:18",
+    "end": "00:23:27"
+  },
+  {
+    "text": "Some on creator accounts, but the most viral videos were on Instagram actually.",
+    "start": "00:23:27",
+    "end": "00:23:31"
+  },
+  {
+    "text": "I mean this is arguable either way, but I would say it's much easier to grow an Instagram account from scratch.",
+    "start": "00:23:31",
+    "end": "00:23:38"
+  },
+  {
+    "text": "So, the premise of the app is to basically become a shepherd to your own lamb or soul by consistently reading the Bible and encouraging other like shepherds to pray.",
+    "start": "00:23:38",
+    "end": "00:23:47"
+  },
+  {
+    "text": "So, we're kind of gamifying Christianity in a in a sense.",
+    "start": "00:23:47",
+    "end": "00:23:52"
+  },
+  {
+    "text": "Yeah, it combines so many interesting concepts.",
+    "start": "00:23:52",
+    "end": "00:23:57"
+  },
+  {
+    "text": "It's like the movement which is Christianity and people wanting to invest more in their faith and then there's the actual I guess like the format or the form factor of the app which is like the Tamagotchi style.",
+    "start": "00:23:54",
+    "end": "00:24:11"
+  },
+  {
+    "text": "This one is definitely has a little bit more depth to it where you're you're taking care of your soul or you're taking care of your faith.",
+    "start": "00:24:11",
+    "end": "00:24:20"
+  },
+  {
+    "text": "Were the most successful videos all from this one account?",
+    "start": "00:24:18",
+    "end": "00:24:22"
+  },
+  {
+    "text": "Yep.",
+    "start": "00:24:22",
+    "end": "00:24:23"
+  },
+  {
+    "text": "Yep.",
+    "start": "00:24:23",
+    "end": "00:24:23"
+  },
+  {
+    "text": "So, this with this one we got like super scrappy.",
+    "start": "00:24:23",
+    "end": "00:24:26"
+  },
+  {
+    "text": "I call it Frankensteining but I mean I did it with Conch.",
+    "start": "00:24:24",
+    "end": "00:24:30"
+  },
+  {
+    "text": "You basically just find videos that have already gone viral related to your subject matter and you stitch them together.",
+    "start": "00:24:30",
+    "end": "00:24:38"
+  },
+  {
+    "text": "That's kind of like where it's up to whoever's creating the content.",
+    "start": "00:24:38",
+    "end": "00:24:41"
+  },
+  {
+    "text": "These are just like podcast clips of of Bryce Crawford who's huge influencer in the Christian space and then there's other clips on the page of of basically just hooks that I formed from looking up the phrase Bible reading.",
+    "start": "00:24:41",
+    "end": "00:24:54"
+  },
+  {
+    "text": "This was like very standard hook demo which is kind of why we phased it out.",
+    "start": "00:24:54",
+    "end": "00:24:59"
+  },
+  {
+    "text": "Because it's such a meaningful app, we didn't want it to be an app where it required like the hacky UGC influencer route and there's also just so much potential in terms of bringing this into schools and and churches through natural social loops like we saw in apps like NGL and Gas app TBH.",
+    "start": "00:24:59",
+    "end": "00:25:17"
+  },
+  {
+    "text": "You guys kind of did this yourself.",
+    "start": "00:25:17",
+    "end": "00:25:22"
+  },
+  {
+    "text": "You you got your own creators for some of these other formats.",
+    "start": "00:25:20",
+    "end": "00:25:24"
+  },
+  {
+    "text": "You're just getting hooks that already exist.",
+    "start": "00:25:24",
+    "end": "00:25:26"
+  },
+  {
+    "text": ">> It's a mix of the two, but we just got really scrappy because we had just started seeing like content market fit with Arise.",
+    "start": "00:25:25",
+    "end": "00:25:33"
+  },
+  {
+    "text": "Arise was at like 7k a month.",
+    "start": "00:25:33",
+    "end": "00:25:35"
+  },
+  {
+    "text": "That's when my co-founder Dante and I started going back and forth on this idea of a Tamagotchi Bible reading app.",
+    "start": "00:25:35",
+    "end": "00:25:42"
+  },
+  {
+    "text": "And then in two weeks we launched or like two three weeks we launched.",
+    "start": "00:25:42",
+    "end": "00:25:48"
+  },
+  {
+    "text": "It literally was a concept to to chart.",
+    "start": "00:25:48",
+    "end": "00:25:49"
+  },
+  {
+    "text": "So, we were on like number 10 on reference for charts for a week or so, but like I said we paused on all the organic because we realized this is not like an app we should be pushing such a hacky version of.",
+    "start": "00:25:49",
+    "end": "00:26:01"
+  },
+  {
+    "text": "So, the last couple months have just been my co-founder dialed on on product.",
+    "start": "00:26:01",
+    "end": "00:26:06"
+  },
+  {
+    "text": "A couple of random thing I just came up with, but as you look at this demo, what is like something unique or interesting that you're like, oh I actually really like that.",
+    "start": "00:26:06",
+    "end": "00:26:14"
+  },
+  {
+    "text": "From my perspective, it seems like all taste is is just having an opinion.",
+    "start": "00:26:14",
+    "end": "00:26:18"
+  },
+  {
+    "text": "That's very true.",
+    "start": "00:26:18",
+    "end": "00:26:19"
+  },
+  {
+    "text": "I mean that's the same way we can think about content as well.",
+    "start": "00:26:19",
+    "end": "00:26:22"
+  },
+  {
+    "text": "Even with content like when I would try to get my friends who either ran brands or wanted to build their own personal brand as like an influencer online, the only way you know how your taste falls on that spectrum of like is there an ideal viewer persona or consumer persona for my video content or for the app I'm building is by putting your opinion out there.",
+    "start": "00:26:22",
+    "end": "00:26:42"
+  },
+  {
+    "text": "So, I love that you said that.",
+    "start": "00:26:42",
+    "end": "00:26:43"
+  },
+  {
+    "text": "It just seems like you need to have an opinion because that's that's super on the money and like I said, the more people that are building apps and more people that are making content the better because we just have so much diversity in terms of what's coming out and often times the best content and products are like amalgamations of all these different opinions or style taste whatever word you want to use.",
+    "start": "00:26:43",
+    "end": "00:27:08"
+  },
+  {
+    "text": "That's really interesting.",
+    "start": "00:27:07",
+    "end": "00:27:09"
+  },
+  {
+    "text": "So, you mentioned that in the new version of Shepherd there's going to be a social component where people can kind of interact with each other in their Bible study.",
+    "start": "00:27:09",
+    "end": "00:27:16"
+  },
+  {
+    "text": "So, I'm going through some of the messaging flows in Spot and Prod.",
+    "start": "00:27:16",
+    "end": "00:27:21"
+  },
+  {
+    "text": "The thing with Spot and Prod is that so many of the designs that you see on here are really unique, but it's more like I'd say the micro animations on the site that are really useful, but at the end of the day you would always want to develop like your your own brand identity.",
+    "start": "00:27:21",
+    "end": "00:27:37"
+  },
+  {
+    "text": "In regards to Shepherd for example, a lot of like the micro animations and art style came from Duolingo.",
+    "start": "00:27:37",
+    "end": "00:27:43"
+  },
+  {
+    "text": "So, Duolingo was kind of getting canceled at the time and we thought it would be really funny and viral if we built off of that momentum wave where Duolingo is getting canceled, the owl is getting canceled, but that's why you should interface with the lamb instead.",
+    "start": "00:27:43",
+    "end": "00:27:58"
+  },
+  {
+    "text": "It was like God first lamb over the AI first owl because the the Duolingo owl was getting canceled for using AI in all of its videos.",
+    "start": "00:27:58",
+    "end": "00:28:07"
+  },
+  {
+    "text": "It was kind of like us versus them.",
+    "start": "00:28:07",
+    "end": "00:28:09"
+  },
+  {
+    "text": "We had like an AI chat feature we added to the app very briefly and we had like some backlash in our Discord.",
+    "start": "00:28:09",
+    "end": "00:28:15"
+  },
+  {
+    "text": "Like we had like we still have I think like 10,000 members in our Discord off that initial push and some people were just not happy to see AI because of how much the original contact stemmed around being against Duolingo's AI first initiative.",
+    "start": "00:28:15",
+    "end": "00:28:30"
+  },
+  {
+    "text": "In that case, do you listen to those users or do you kind of like try to convince them that some AI could be good?",
+    "start": "00:28:28",
+    "end": "00:28:34"
+  },
+  {
+    "text": "I would say always listen to your user especially if it's like a common theme throughout your community.",
+    "start": "00:28:34",
+    "end": "00:28:42"
+  },
+  {
+    "text": "You should always be listening to your user because they're the ones that you're building for.",
+    "start": "00:28:42",
+    "end": "00:28:46"
+  },
+  {
+    "text": "Obviously if it's going completely against your values and that's a one thing, but we got rid of the AI chat feature and turned it into more of like a custom devotional feature where it would generate a devotional for you, but all the customer-facing copy does not contain AI.",
+    "start": "00:28:46",
+    "end": "00:29:01"
+  },
+  {
+    "text": "I'm curious in general like you've worked on a lot of apps.",
+    "start": "00:29:01",
+    "end": "00:29:03"
+  },
+  {
+    "text": "You seem to be very good at the zero to one.",
+    "start": "00:29:03",
+    "end": "00:29:06"
+  },
+  {
+    "text": "You're good at design.",
+    "start": "00:29:06",
+    "end": "00:29:09"
+  },
+  {
+    "text": "You're good at market sense I guess like even just like idea selection.",
+    "start": "00:29:07",
+    "end": "00:29:13"
+  },
+  {
+    "text": "What role do you want to play going forward?",
+    "start": "00:29:13",
+    "end": "00:29:15"
+  },
+  {
+    "text": "Do you like the incubation stuff or are you looking for more technical co-founders to build new projects?",
+    "start": "00:29:15",
+    "end": "00:29:22"
+  },
+  {
+    "text": "What's next for you?",
+    "start": "00:29:22",
+    "end": "00:29:22"
+  },
+  {
+    "text": "I'm definitely still a big fan of doing cold starts or doing zero to one.",
+    "start": "00:29:22",
+    "end": "00:29:28"
+  },
+  {
+    "text": "So, I am working on some apps nights and weekends hacking away just because we're in like the AI bubble or like it's very similar to the dot com bubble and because apps are so easy to build and run UGC and influencer programs around.",
+    "start": "00:29:26",
+    "end": "00:29:41"
+  },
+  {
+    "text": "Once you have all the systems in place at least, it's it doesn't take too much overhead.",
+    "start": "00:29:39",
+    "end": "00:29:46"
+  },
+  {
+    "text": "So, definitely continuing down that path, but whether it's a a big cultural movement or something completely unrelated to software, something maybe going back to the flaws and inefficiencies with the school system.",
+    "start": "00:29:46",
+    "end": "00:30:00"
+  },
+  {
+    "text": "Like I don't know.",
+    "start": "00:29:58",
+    "end": "00:30:01"
+  },
+  {
+    "text": "I thought about it because I know my skill set is useful in all these different tech companies.",
+    "start": "00:30:01",
+    "end": "00:30:07"
+  },
+  {
+    "text": "Like I've I've had a lot of different offers in doing the growth and the cold starts for YC companies and companies that have bigger budgets, but I think I'm looking for something to dive into and work on for years because the last, I don't know, five, six companies I've worked on have only been for a couple months at a time.",
+    "start": "00:30:05",
+    "end": "00:30:24"
+  },
+  {
+    "text": "I'm personally just really excited to see what you do.",
+    "start": "00:30:24",
+    "end": "00:30:28"
+  },
+  {
+    "text": "If you had to give advice to an app founder who's built the product already and they're trying to figure out the marketing, do you think that all products can fit into, you know, like one of your two major, kind of like, marketing frameworks, like the founder-led versus the, kind of, writing a movement or any of the other frameworks or think about your ideas with the marketing in mind first?",
+    "start": "00:30:28",
+    "end": "00:30:49"
+  },
+  {
+    "text": "Yeah, I think the majority of the apps I've worked on, I wasn't thinking about the the marketing first, but I always get into the shoes of the ICP.",
+    "start": "00:30:49",
+    "end": "00:30:59"
+  },
+  {
+    "text": "Like I become the ideal customer profile.",
+    "start": "00:30:59",
+    "end": "00:31:02"
+  },
+  {
+    "text": "And to your question about whether any founder with any product can make their app go viral, I think you can.",
+    "start": "00:31:02",
+    "end": "00:31:08"
+  },
+  {
+    "text": "It's more a matter of, like, conversions and retention, but once you get a taste of virality and see an influx of users and kind of get past that initial excitement, that's kind of where you're seeing whether there's actual cracks in your product's capabilities and like the product story itself, in a sense.",
+    "start": "00:31:08",
+    "end": "00:31:26"
+  },
+  {
+    "text": "But if I was just like a technical founder that was able to build good products, I would say the fastest way you can find content market fit is just by posting about your product.",
+    "start": "00:31:26",
+    "end": "00:31:37"
+  },
+  {
+    "text": "Like don't get lost in the sauce of figuring out a specific format.",
+    "start": "00:31:37",
+    "end": "00:31:43"
+  },
+  {
+    "text": "Just share your product on Tik Tok, on Instagram to start and just gather data points around what kind of content's working.",
+    "start": "00:31:40",
+    "end": "00:31:49"
+  },
+  {
+    "text": "Also, look up phrases that are loosely related to the problem or the problem you're solving or the community you're targeting and stitch those videos.",
+    "start": "00:31:49",
+    "end": "00:31:58"
+  },
+  {
+    "text": "Start a conversation with the community you're going against or building for your app, brand, whatever it is.",
+    "start": "00:31:58",
+    "end": "00:32:07"
+  },
+  {
+    "text": "And that's where you'll learn whether you're good at sales or closing.",
+    "start": "00:32:07",
+    "end": "00:32:13"
+  },
+  {
+    "text": "You have those two different approaches and with the influencers, you should be able to convert them into full-time UGC creators, meaning they're running an account posting purely for your brand, but you basically have those three different frameworks you can use to build a viral engine for your company and don't touch paid until you've cracked at least five winning formats.",
+    "start": "00:32:11",
+    "end": "00:32:34"
+  },
+  {
+    "text": "You're likely not going to see high ROI on your time.",
+    "start": "00:32:34",
+    "end": "00:32:37"
+  },
+  {
+    "text": "That's a really cool way of thinking about it.",
+    "start": "00:32:37",
+    "end": "00:32:40"
+  },
+  {
+    "text": "Thanks so much for being on the pod.",
+    "start": "00:32:40",
+    "end": "00:32:40"
+  },
+  {
+    "text": "I learned a lot.",
+    "start": "00:32:40",
+    "end": "00:32:42"
+  },
+  {
+    "text": ">> Yeah, bro.",
+    "start": "00:32:41",
+    "end": "00:32:42"
+  },
+  {
+    "text": "Anytime.",
+    "start": "00:32:42",
+    "end": "00:32:43"
+  },
+  {
+    "text": "Thanks for having me.",
+    "start": "00:32:43",
+    "end": "00:32:43"
+  },
+  {
+    "text": "If you found that insightful, you might like Consumer Club.",
+    "start": "00:32:43",
+    "end": "00:32:46"
+  },
+  {
+    "text": "It's a private group for consumer app founders to talk to each other about the latest tactics.",
+    "start": "00:32:46",
+    "end": "00:32:52"
+  },
+  {
+    "text": "Median revenue of the members is about a million ARR.",
+    "start": "00:32:49",
+    "end": "00:32:53"
+  },
+  {
+    "text": "So, check that out.",
+    "start": "00:32:53",
+    "end": "00:32:56"
+  },
+  {
+    "text": "Also, use Superwall.",
+    "start": "00:32:56",
+    "end": "00:32:56"
+  },
+  {
+    "text": "They're the best.",
+    "start": "00:32:56",
+    "end": "00:32:57"
+  },
+  {
+    "text": "Also, there's a ton more of these episodes on the Superwall channel.",
+    "start": "00:32:57",
+    "end": "00:33:01"
+  },
+  {
+    "text": "So, watch those other ones if you want to dig in.",
+    "start": "00:33:01",
+    "end": "00:33:04"
+  }
+]

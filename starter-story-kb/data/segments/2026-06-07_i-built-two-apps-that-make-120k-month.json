@@ -1,0 +1,99 @@
+{
+ "f": "2026-06-07_i-built-two-apps-that-make-120k-month",
+ "vid": "xWnqY2Mav4s",
+ "segments": [
+  {
+   "s": "00:57",
+   "e": "01:30",
+   "nut": ["?"],
+   "moi": "Đường dài 6 năm của một app sinh ra từ sở thích",
+   "tom": "Cardstock ra mắt cách đây 6 năm, khởi đầu là ba người trong tầng hầm kiếm vài trăm đô một tháng, nay là năm người vừa đi khắp thế giới vừa vận hành",
+   "kq": "1,5 triệu đô/năm; hai app cộng lại $120K/tháng"
+  },
+  {
+   "s": "01:30",
+   "e": "02:51",
+   "nut": ["?"],
+   "moi": "Nhân bản y hệt một app sang cộng đồng sưu tầm khác",
+   "tom": "Cardstock quét thẻ thể thao ra giá thị trường và theo dõi giá trị bộ sưu tập: ~15.000 sub, 75K MRR, 13.000 lượt tải/tháng; Scanemon là bản y hệt cho thẻ Pokémon, mới một năm đã 3.400 sub và 17K MRR",
+   "kq": "Scanemon hút 16.000 khách mới/tháng, nhiều hơn cả Cardstock"
+  },
+  {
+   "s": "02:51",
+   "e": "03:58",
+   "nut": ["?"],
+   "moi": "Rủ bạn chưa biết code vào chia rev-share từ lúc doanh thu gần bằng 0",
+   "tom": "Kyle tự học từ trại code, chán khoá iOS nên tự làm game Snake rồi mới tới Cardstock; lúc bắt đầu chỉ có một mình, thấy bạn sắp phải đi làm Kohl's nên rủ vào chia ba doanh thu dù chưa có đồng nào và họ chưa biết code, anh dạy luôn"
+  },
+  {
+   "s": "04:44",
+   "e": "05:23",
+   "nut": ["?"],
+   "moi": "Build app native bằng Swift và tra Stack Overflow (thời trước AI)",
+   "tom": "Cardstock viết bằng Swift với SwiftUI, lưu dữ liệu bằng Core Data, và anh build gần như chỉ bằng tra Stack Overflow; sau đó mới gắn SDK ngoài như RevenueCat cho subscription và dựng server AWS EC2 cho database thẻ"
+  },
+  {
+   "s": "05:23",
+   "e": "06:05",
+   "nut": ["?"],
+   "moi": "So sánh 6 tháng thủ công (2019) với MVP 1 ngày bằng Cursor agent (2025)",
+   "tom": "Cardstock bắt đầu mùa đông 2019, xong thì đăng bài update lên Reddit và có lượt tải gần như ngay; tổng khoảng 6 tháng từ ý tưởng tới xong, giữa còn nghỉ 3 tháng. Scanemon năm 2025 để agent của Cursor sinh gần hết, MVP xong trong một ngày"
+  },
+  {
+   "s": "06:05",
+   "e": "06:28",
+   "nut": ["?"],
+   "moi": "Stack vận hành đội app nhỏ năm 2026",
+   "tom": "Bộ đồ nghề hiện tại: Codex qua gói ChatGPT, Cursor, Claude cho việc riêng của anh, Notion và Slack để điều phối, Framer dựng web, Supabase với Railway ở backend, CodeRabbit review code, WhisperFlow và Granola cho họp"
+  },
+  {
+   "s": "06:28",
+   "e": "07:21",
+   "nut": ["2.8", "2.0"],
+   "tom": "Sưu tầm thẻ từ bé, anh muốn catalog bộ sưu tập nhưng nhận ra dù sắp xếp giỏi cỡ nào, không đứng cạnh đống thẻ thì cũng chẳng nhớ thẻ nào là thẻ nào; nghĩ tới số hoá lên điện thoại, lên App Store tìm thì không có app nào nên tự build"
+  },
+  {
+   "s": "07:59",
+   "e": "08:40",
+   "nut": ["2.1", "2.8"],
+   "tom": "Bước 1-2: mở một note trên điện thoại ghi mọi vấn đề gặp phải — nếu không thấy việc nào chậm, lặp đi lặp lại và nhọc trong ngày của mình thì tức là đang không để ý; rồi chốt giải pháp tối thiểu nhất, nhanh nhất, giải đúng vấn đề đó"
+  },
+  {
+   "s": "08:40",
+   "e": "09:20",
+   "nut": ["?"],
+   "moi": "Để AI tự dựng paywall Superwall/RevenueCat, kể cả lái browser",
+   "tom": "Bước 3 build: người ta đánh giá quá cao độ khó của việc làm app; đến khâu thu tiền thì gắn Superwall hoặc RevenueCat, và AI giờ tự dựng được — nó lái luôn được browser để đi qua từng bước cấu hình paywall"
+  },
+  {
+   "s": "09:20",
+   "e": "09:45",
+   "nut": ["4.1", "4.B1"],
+   "tom": "Kênh ăn nhất là TikTok slideshow vì đơn giản và lặp lại được: chốt một format rồi cân giữa cái ra view và cái ra chuyển đổi; attribution vốn khó, nhưng nếu chỉ làm đúng một kênh thì lại thành dễ đo"
+  },
+  {
+   "s": "09:45",
+   "e": "10:11",
+   "nut": ["4.4"],
+   "tom": "Dùng Noise để rải TikTok slideshow tới creator: họ nhận template có sẵn, đăng lên, mình trả tiền theo số view thu về; ai còn thời gian thì cứ tự đăng bằng vài tài khoản của mình để validate trước"
+  },
+  {
+   "s": "10:11",
+   "e": "11:01",
+   "nut": ["?"],
+   "moi": "Tính năng lõi của app scanner: nhận diện, giá giao dịch gần nhất, sửa tay",
+   "tom": "Demo: quét xong hiện thẻ khớp cùng giá thị trường, bấm vào xem được các lần bán gần nhất — thứ dân sưu tầm quan tâm nhất; khớp sai thì sửa tay để nhận cả thẻ chưa từng có trong dữ liệu, rồi thêm vào bộ sưu tập kèm tổng giá trị"
+  },
+  {
+   "s": "12:08",
+   "e": "14:21",
+   "nut": ["2.8"],
+   "tom": "Pat và Gus chốt: đây là cửa sổ hẹp mà build quanh sở thích lại ra business triệu đô — vài năm trước khó, sau này tự động hoá hết thì chưa biết; giờ AI cho phép thấy vấn đề trong ngày và ship trong vài giờ để test thị trường"
+  }
+ ],
+ "bo_qua": [
+  {"s": "03:58", "e": "04:44", "ly_do": "quảng bá database 'million-dollar problems' (link HubSpot)"},
+  {"s": "11:01", "e": "12:08", "ly_do": "lời khuyên chung chung 'cứ hỏi, người ta sẵn lòng giúp' và lời cảm ơn"},
+  {"s": "14:21", "e": "14:50", "ly_do": "tự quảng bá database lần hai và chào kết"}
+ ]
+}

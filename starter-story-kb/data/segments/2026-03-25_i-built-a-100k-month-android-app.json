@@ -1,0 +1,42 @@
+{
+ "f": "2026-03-25_i-built-a-100k-month-android-app",
+ "vid": "0pp4X58q_0s",
+ "segments": [
+  {"s":"01:34","e":"02:37","nut":["?"],"moi":"Bóc dashboard app subscription theo nền tảng",
+   "tom":"Joinable (AI calorie counter): Play Store gần 1 triệu lượt tải, RevenueCat 28 ngày gần nhất $125K doanh thu, MRR ~$80K, 30K subscriber đang trả tiền / 40K tổng — 80% doanh thu đến từ Android","kq":"gần $1M ARR, 18 tháng từ dưới $1.000"},
+  {"s":"02:37","e":"03:39","nut":["2.0","2.7"],
+   "tom":"Anh tự giảm từ 125kg xuống 80kg bằng cách đếm calo mỗi ngày, xài qua gần hết app đối thủ nên thấy cả thị trường đều rối rắm — làm lại đúng giá trị đó nhưng đơn giản hết mức","kq":"đơn giản là tính năng bán hàng chính"},
+  {"s":"04:11","e":"05:20","nut":["1.4"],
+   "tom":"Bootstrap nên chọn Android bằng số: CPM/chi phí mỗi view trên iOS đắt gần gấp 4 lần, còn report State of Subscription Apps 2025 của RevenueCat cho thấy iOS chỉ convert tốt hơn Android ~20%"},
+  {"s":"05:43","e":"06:13","nut":["?"],"moi":"Product Hunt làm nước đi phân phối ngày 0",
+   "tom":"Marketing ngày 0 là launch Product Hunt: lên trang chủ, được vài trăm lượt cài, đúng 2 lượt chuyển thành subscriber trả tiền — bấy nhiêu đã đủ coi là validate có người chịu trả","kq":"2 subscriber đầu tiên = tín hiệu đủ để đi tiếp"},
+  {"s":"06:13","e":"07:01","nut":["4.3"],
+   "tom":"Meta ads: không đủ tiền chạy iOS nên chỉ chạy campaign Android ở Mỹ, hoá ra conversion ngang iOS mà rẻ hơn nhiều, lại có spillover kéo cả cài đặt iOS — nên dồn hẳn vào Android"},
+  {"s":"07:01","e":"07:32","nut":["?"],"moi":"Chấp nhận ads hoà vốn khi bootstrap",
+   "tom":"Dashboard Google Ads toàn thời gian: chi gần $500.000, doanh thu attributed về gần đúng chừng đó — hoà vốn 100%; bootstrap nên buộc campaign phải tự nuôi, không được lỗ để đổi volume","kq":"ROAS ~1.0, tăng trưởng bị giới hạn bởi dòng tiền"},
+  {"s":"07:32","e":"08:35","nut":["4.17"],
+   "tom":"Một campaign Google App phủ hết display network, Google search, YouTube, Discover và Play Store; Play Store ad là kênh mạnh nhất — search 'calorie counter' trên Play Store là ra họ đầu tiên"},
+  {"s":"09:53","e":"10:40","nut":["?"],"moi":"Dựng attribution trước khi đổ đồng ads đầu tiên",
+   "tom":"Bước 1 của playbook: gắn attribution & measurement, bắn về Google Ads các event install, chạm paywall, bắt đầu free trial, mua — kèm cả giá trị giao dịch, để thuật toán có cái mà tối ưu"},
+  {"s":"10:40","e":"11:44","nut":["?"],"moi":"Nuôi thuật toán bằng install campaign và flood asset",
+   "tom":"Bước 2: chạy install campaign trước để thuật toán có nhịp tim và biết CPI/CPM từng nước; Google App campaign đòi 5 headline + 5 description + tối đa 20 ảnh + 20 video — chưa có thì dùng stock cũng được"},
+  {"s":"11:44","e":"12:48","nut":["4.B5"],
+   "tom":"Bước 3: bắt đầu $10–15/ngày rồi tăng dần trong lúc thay asset; đừng chỉnh vặt màu hay font mà phải swing lớn với ảnh/video khác hẳn — và nhớ sửa luôn asset Play Store vì App campaign lấy từ đó"},
+  {"s":"12:48","e":"13:36","nut":["?"],"moi":"Quy tắc ngân sách 10× CPA để thuật toán học được",
+   "tom":"Bước 4: chuyển sang campaign tCPA khi asset đã ổn, ngân sách ngày phải bằng 10 lần CPI/CPA — free trial tốn $15 thì cần $150/ngày, vì Google cần 10 event mục tiêu mỗi ngày mới tối ưu nổi"},
+  {"s":"13:36","e":"14:10","nut":["?"],"moi":"Vòng lặp tăng conversion rate rồi mới tăng ngân sách",
+   "tom":"Bước 5–6: sau 1–2 tháng có đủ dữ liệu thì biết CAC và bắt đầu scale; tăng ngân sách theo best practice Google song song với tối ưu paywall, giá, mô hình — conversion lên tới đâu, budget lên tới đó"},
+  {"s":"14:38","e":"16:12","nut":["2.6","2.8"],
+   "tom":"Hai năm qua số app iOS mới tăng gấp 5 còn Android chỉ gấp 2, nên bão hoà nằm ở iOS; cơ hội là port những app đã thắng trên iOS mà Android chưa có, và những vấn đề ngách giao nhau chưa ai thèm giải"},
+  {"s":"16:43","e":"18:02","nut":["?"],"moi":"Đơn giản hoá triệt để làm điểm khác biệt của sản phẩm",
+   "tom":"Demo: gõ 'yogurt, granola, blueberries, almonds' ra ngay calo và macro tách theo từng nguyên liệu; gõ '1 tiếng vinyasa yoga' ra calo đốt; chụp ảnh đĩa ăn thì tự nhận nguyên liệu và khẩu phần"},
+  {"s":"18:02","e":"19:08","nut":["?"],"moi":"Stack và chi phí tool hàng tháng của app triệu đô",
+   "tom":"Backend nằm gọn trong hệ Google (Firebase, GA4, BigQuery, GCP) + RevenueCat quản subscription; tool tháng: Claude Code/Cowork $100, OpenAI $20, Copilot $39, CodeRabbit $30, Fixer $30, n8n $24, AppFollow $180, Webflow $18"},
+  {"s":"19:08","e":"19:55","nut":["?"],"moi":"Xây kỹ năng làm content song song với sản phẩm",
+   "tom":"Tiếc nuối duy nhất: gần một thập kỷ không dùng mạng xã hội nên giờ thiếu hẳn kỹ năng làm content so với mọi đồng nghiệp — lẽ ra phải document hành trình từ đầu, giờ mới bắt đầu"}
+ ],
+ "bo_qua": [
+  {"s":"08:35","e":"09:10","ly_do":"quảng cáo mobile app growth cheat sheet của Starter Story"},
+  {"s":"20:25","e":"24:15","ly_do":"Pat và Gus bình luận lại, không thêm chi tiết mới"}
+ ]
+}

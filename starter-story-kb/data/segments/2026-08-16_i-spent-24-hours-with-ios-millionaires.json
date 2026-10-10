@@ -1,0 +1,96 @@
+{
+ "f": "2026-08-16_i-spent-24-hours-with-ios-millionaires",
+ "vid": "sAr9FWEQZAk",
+ "segments": [
+  {
+   "s": "01:22",
+   "e": "02:11",
+   "nut": ["?"],
+   "moi": "Nền tảng nhiều lần thất bại trước cú trúng lớn",
+   "tom": "Blake 25 tuổi, mấy app đầu tay hồi đại học đều thất bại rồi mới chuyển sang app AI; Zach 19, code từ năm 7 tuổi, đưa app lên App Store năm 12, công ty đầu tiên hồi lớp 10 lên 5 triệu user và bán năm 16.",
+   "kq": "công ty trước kiếm $60K/năm, bán năm 16 tuổi"
+  },
+  {
+   "s": "02:26",
+   "e": "02:42",
+   "nut": ["?"],
+   "moi": "Đường cong doanh thu thật của một app AI trúng lớn",
+   "tom": "Đường cong Cal AI: tháng đầu $30K, tháng thứ hai hơn $100K, tới tháng thứ 8 đã chạm $1 triệu/tháng, và năm nay đang trên đà khoảng $50 triệu doanh thu.",
+   "kq": "$1M/tháng sau 8 tháng, ~$50M/năm"
+  },
+  {
+   "s": "03:36",
+   "e": "03:55",
+   "nut": ["?"],
+   "moi": "Chia rõ domain giữa co-founder để khỏi cãi nhau",
+   "tom": "Bốn người gần như không cãi nhau vì mỗi người ôm đúng một mảng chuyên môn — CEO, CTO, CMO/COO, co-founder kiêm advisor — và tin tuyệt đối để người kia tự quyết trong mảng của mình."
+  },
+  {
+   "s": "04:48",
+   "e": "05:35",
+   "nut": ["?"],
+   "moi": "Ghép co-founder từ mạng quan hệ đã có sẵn",
+   "tom": "Đội hình mọc từ quan hệ có sẵn: Zach và Henry quen nhau ở coding camp năm 10 tuổi rồi chơi game và làm project chung, Zach DM Blake để bắt tay, và khi Cal AI tăng tốc thì kéo Jake từ Study Buddy về làm COO."
+  },
+  {
+   "s": "05:38",
+   "e": "06:35",
+   "nut": ["?"],
+   "moi": "Xử lý quyết định bán công ty giữa các co-founder",
+   "tom": "Cuối 2024 nhận các offer mua lại tầm tám chữ số thấp, cả team giằng co giữa tiền đổi đời và niềm tin sản phẩm còn tăng được; họ gọi nhau liên tục, giữ giao tiếp mở và chốt tập thể là không bán.",
+   "kq": "từ chối offer 8 chữ số, sau này bán giá cao hơn nhiều"
+  },
+  {
+   "s": "07:39",
+   "e": "08:25",
+   "nut": ["?"],
+   "moi": "Đo cơ hội bằng tỷ trọng của mình trên tổng thị trường",
+   "tom": "Cal AI $50 triệu/năm nghe khổng lồ nhưng chỉ bằng 1/2000 của App Store — cả chiếc bánh là $100 tỷ, tăng hơn 10% mỗi năm và trong khoảng 6 năm nữa có thể vượt $200 tỷ chỉ riêng iOS."
+  },
+  {
+   "s": "08:29",
+   "e": "09:05",
+   "nut": ["2.B1"],
+   "tom": "Copy app vẫn đưa được lên $10K hoặc cả $100K/tháng, nhưng kết quả lớn chỉ đến khi build cái mới; Blake nói thẳng nếu DM đầu tiên của Zach là 'tôi vừa clone app kia' thì anh đã không thèm trả lời."
+  },
+  {
+   "s": "09:15",
+   "e": "09:45",
+   "nut": ["2.1", "2.8"],
+   "tom": "Giải đúng vấn đề của chính mình thì mọi thứ khớp: biết mình cần gì nên thiết kế app rất trực quan, và marketing chính là marketing cho bản thân nên trúng pain point; chưa có ý tưởng thì đi tìm thứ thật sự giúp được mình."
+  },
+  {
+   "s": "10:25",
+   "e": "10:49",
+   "nut": ["?"],
+   "moi": "Cảm giác thật sau khi exit",
+   "tom": "Bán xong không sướng ngay vì cả team đang ở các bang khác nhau, không có buổi ăn mừng nào; sáu tháng sau đó cảm giác chủ yếu là nhẹ nhõm — biết mình có hỏng việc gì cũng vẫn sống thoải mái."
+  },
+  {
+   "s": "11:42",
+   "e": "12:07",
+   "nut": ["?"],
+   "moi": "Bán cuốc xẻng cho làn sóng người tự build app",
+   "tom": "Sau khi bán, Zach làm 10X App Builder — 'Shopify cho app': ngoài viết code còn lo cả khâu ideation, host backend cho người dùng và thiết kế trang Instagram cho sản phẩm của họ."
+  },
+  {
+   "s": "12:07",
+   "e": "12:35",
+   "nut": ["4.8"],
+   "tom": "Blake làm Flow, một brand gồm bộ công cụ cho productivity và sức khoẻ, đồng thời quay lại toàn bộ quá trình build lên YouTube để cho người ta thấy làm founder thật sự trông như thế nào."
+  },
+  {
+   "s": "12:46",
+   "e": "13:11",
+   "nut": ["2.B1"],
+   "tom": "Kết luận của Pat: cơ hội iOS vẫn còn dù App Store ngập app — lấy ý tưởng đã rõ ràng rồi đặt lên đó spin của mình, khác ở tính năng, khác ở cách tiếp cận, hoặc khác ở kênh phân phối."
+  }
+ ],
+ "bo_qua": [
+  {
+   "s": "06:56",
+   "e": "07:34",
+   "ly_do": "quảng cáo tài nguyên miễn phí 'ship iOS app trong 7 ngày' làm cùng HubSpot"
+  }
+ ]
+}
