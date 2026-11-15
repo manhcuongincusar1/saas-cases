@@ -2,16 +2,12 @@
 
 > 60 video · 46.6 giờ · kênh [@SuperwallHQ](https://www.youtube.com/@SuperwallHQ/videos) · tải ngày 2026-09-02 · cập nhật 2026-11-11 (+3 video 08/10–12/10 và buổi livestream 16/07 từ tab Live; transcript 4 video này lấy qua bảng "Bản chép lời" của YouTube trên Chrome, mốc thời gian theo đoạn caption ~8 giây; đợt trước 08/10: +1 video 05/10)
 
-Mỗi video có: `transcript.md` (bản đọc, kèm timestamp) · `meta.json` (metadata + chapters) · `transcript-sentences.json` (tách câu, để search/xử lý bằng script) · `transcript-raw.json` · `imgs/cover.jpg`
+Mỗi video có: `transcript.md` (bản đọc, kèm timestamp) · `meta.json` (metadata + chapters) · `transcript-raw.json` (caption gốc) · `imgs/cover.jpg`
+
+Thư mục này chỉ giữ dữ liệu gốc từ YouTube. Knowledge base `app-growth-decisions` cũ (thẻ quyết định, case, benchmark) đã gỡ ngày 15/11/2026, lấy lại trong git commit `34ce9c8`.
 
 
 ---
-
-## Knowledge base cho agent
-
-Kho này là nguồn của skill **`app-growth-decisions`** (`~/.claude/skills/app-growth-decisions/`): 9 thẻ quyết định, 43 hồ sơ case, 195 benchmark và 96 playbook, đã soát lại với transcript ngày 08/10/2026. 4 video thêm ngày 11/11/2026 đã vào thẻ quyết định và 1 case mới (Wrestle AI / Brawler), chưa vào bảng benchmark/playbook. Agent tự gọi skill khi bạn cần ra quyết định về app.
-Thêm video mới: tải vào `superwall/`, rồi làm theo mục "Adding new videos" trong `SKILL.md` của skill.
-
 
 ## Tra theo chủ đề
 
