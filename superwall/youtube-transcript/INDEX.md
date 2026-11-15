@@ -1,6 +1,6 @@
 # Superwall YouTube — Index Transcript
 
-> 60 video · 46.6 giờ · kênh [@SuperwallHQ](https://www.youtube.com/@SuperwallHQ/videos) · tải ngày 2026-09-02 · cập nhật 2026-11-11 (+3 video 08/10–12/10 và buổi livestream 16/07 từ tab Live; transcript 4 video này lấy qua bảng "Bản chép lời" của YouTube trên Chrome, mốc thời gian theo đoạn caption ~8 giây; đợt trước 08/10: +1 video 05/10)
+> 61 video · 46.9 giờ · kênh [@SuperwallHQ](https://www.youtube.com/@SuperwallHQ/videos) · tải ngày 2026-09-02 · cập nhật 2026-11-15 (+1 video 14/11, transcript lấy qua bảng "Bản chép lời" trên Chrome; đợt 11/11: +3 video 08/10–12/10 và buổi livestream 16/07 từ tab Live, cũng lấy qua Chrome, mốc thời gian theo đoạn caption ~8 giây; đợt trước 08/10: +1 video 05/10)
 
 Mỗi video có: `transcript.md` (bản đọc, kèm timestamp) · `meta.json` (metadata + chapters) · `transcript-raw.json` (caption gốc) · `imgs/cover.jpg`
 
@@ -12,8 +12,9 @@ Thư mục này chỉ giữ dữ liệu gốc từ YouTube. Knowledge base `app-
 ## Tra theo chủ đề
 
 
-**Paywall & Monetization** (59)
+**Paywall & Monetization** (60)
 
+- [I Studied 100+ Profitable Apps, Here’s What Actually Works](./superwall/i-studied-100-profitable-apps-heres-what-actually-works/transcript.md) · 13:33
 - [Meet the ex-wrestler making $41k/mo with AI apps](./superwall/meet-the-ex-wrestler-making-41kmo-with-ai-apps/transcript.md) · 46:58
 - [What 500M App Downloads Taught Me About Human Psychology](./superwall/what-500m-app-downloads-taught-me-about-human-psychology/transcript.md) · 10:35
 - [The 1 Billion Views Content Strategy Every App Should Steal in 2026](./superwall/the-1-billion-views-content-strategy-every-app-should-steal-in-2026/transcript.md) · 53:24
@@ -74,8 +75,9 @@ Thư mục này chỉ giữ dữ liệu gốc từ YouTube. Knowledge base `app-
 - [How I Grow Viral Apps to 1M+ Downloads (just copy me)](./superwall/how-i-grow-viral-apps-to-1m-downloads-just-copy-me/transcript.md) · 38:33
 - [The Secrets of Consumer Club: Insights from Joseph Choi - Superwall Podcast](./superwall/the-secrets-of-consumer-club-insights-from-joseph-choi-superwall-podcast/transcript.md) · 1:31:54
 
-**UGC & Content** (59)
+**UGC & Content** (60)
 
+- [I Studied 100+ Profitable Apps, Here’s What Actually Works](./superwall/i-studied-100-profitable-apps-heres-what-actually-works/transcript.md) · 13:33
 - [Meet the ex-wrestler making $41k/mo with AI apps](./superwall/meet-the-ex-wrestler-making-41kmo-with-ai-apps/transcript.md) · 46:58
 - [If I Had to Start a $1M App From Scratch, I'd Do This](./superwall/if-i-had-to-start-a-1m-app-from-scratch-id-do-this/transcript.md) · 9:49
 - [What 500M App Downloads Taught Me About Human Psychology](./superwall/what-500m-app-downloads-taught-me-about-human-psychology/transcript.md) · 10:35
@@ -136,8 +138,9 @@ Thư mục này chỉ giữ dữ liệu gốc từ YouTube. Knowledge base `app-
 - [How I Grow Viral Apps to 1M+ Downloads (just copy me)](./superwall/how-i-grow-viral-apps-to-1m-downloads-just-copy-me/transcript.md) · 38:33
 - [The Secrets of Consumer Club: Insights from Joseph Choi - Superwall Podcast](./superwall/the-secrets-of-consumer-club-insights-from-joseph-choi-superwall-podcast/transcript.md) · 1:31:54
 
-**Paid Ads** (36)
+**Paid Ads** (37)
 
+- [I Studied 100+ Profitable Apps, Here’s What Actually Works](./superwall/i-studied-100-profitable-apps-heres-what-actually-works/transcript.md) · 13:33
 - [Meet the ex-wrestler making $41k/mo with AI apps](./superwall/meet-the-ex-wrestler-making-41kmo-with-ai-apps/transcript.md) · 46:58
 - [If I Had to Start a $1M App From Scratch, I'd Do This](./superwall/if-i-had-to-start-a-1m-app-from-scratch-id-do-this/transcript.md) · 9:49
 - [How To Grow Your App 23x Faster Than The Competition](./superwall/how-to-grow-your-app-23x-faster-than-the-competition/transcript.md) · 53:54
@@ -175,8 +178,9 @@ Thư mục này chỉ giữ dữ liệu gốc từ YouTube. Knowledge base `app-
 - [My App Makes $600k/Year Using This Easy Growth Strategy (copy me)](./superwall/my-app-makes-600kyear-using-this-easy-growth-strategy-copy-me/transcript.md) · 55:05
 - [Meet The Guy Who Solved Growing Apps (Hunter Isaacson Interview)](./superwall/meet-the-guy-who-solved-growing-apps-hunter-isaacson-interview/transcript.md) · 29:49
 
-**Growth & ASO** (59)
+**Growth & ASO** (60)
 
+- [I Studied 100+ Profitable Apps, Here’s What Actually Works](./superwall/i-studied-100-profitable-apps-heres-what-actually-works/transcript.md) · 13:33
 - [Meet the ex-wrestler making $41k/mo with AI apps](./superwall/meet-the-ex-wrestler-making-41kmo-with-ai-apps/transcript.md) · 46:58
 - [If I Had to Start a $1M App From Scratch, I'd Do This](./superwall/if-i-had-to-start-a-1m-app-from-scratch-id-do-this/transcript.md) · 9:49
 - [What 500M App Downloads Taught Me About Human Psychology](./superwall/what-500m-app-downloads-taught-me-about-human-psychology/transcript.md) · 10:35
@@ -324,74 +328,83 @@ Thư mục này chỉ giữ dữ liệu gốc từ YouTube. Knowledge base `app-
 
 | # | Video | Dài | Ngày | Transcript | YouTube |
 |---|---|---|---|---|---|
-| 1 | Meet the ex-wrestler making $41k/mo with AI apps | 46:58 | 2026-10-12 | [md](./superwall/meet-the-ex-wrestler-making-41kmo-with-ai-apps/transcript.md) | [▶](https://www.youtube.com/watch?v=7yLgHeYeQAE) |
-| 2 | If I Had to Start a $1M App From Scratch, I'd Do This | 9:49 | 2026-10-11 | [md](./superwall/if-i-had-to-start-a-1m-app-from-scratch-id-do-this/transcript.md) | [▶](https://www.youtube.com/watch?v=TCRUvJ-Fq9U) |
-| 3 | What 500M App Downloads Taught Me About Human Psychology | 10:35 | 2026-10-08 | [md](./superwall/what-500m-app-downloads-taught-me-about-human-psychology/transcript.md) | [▶](https://www.youtube.com/watch?v=Qh314MypshM) |
-| 4 | The 1 Billion Views Content Strategy Every App Should Steal in 2026 | 53:24 | 2026-10-05 | [md](./superwall/the-1-billion-views-content-strategy-every-app-should-steal-in-2026/transcript.md) | [▶](https://www.youtube.com/watch?v=VGJWRjz6nq8) |
-| 5 | How To Grow Your App 23x Faster Than The Competition | 53:54 | 2026-09-27 | [md](./superwall/how-to-grow-your-app-23x-faster-than-the-competition/transcript.md) | [▶](https://www.youtube.com/watch?v=SuUJgmbQrVc) |
-| 6 | 1,000 Hours of Studying The Most Profitable Apps in 17 Minutes | 17:00 | 2026-09-23 | [md](./superwall/1000-hours-of-studying-the-most-profitable-apps-in-17-minutes/transcript.md) | [▶](https://www.youtube.com/watch?v=0mOLs315i04) |
-| 7 | The NEW App Content Strategy Dominating in 2026 | 42:14 | 2026-09-13 | [md](./superwall/the-new-app-content-strategy-dominating-in-2026/transcript.md) | [▶](https://www.youtube.com/watch?v=ka3gqzmUuvc) |
-| 8 | How to Build an $18M/Year Apple Watch App (FREE MASTERCLASS) | 51:42 | 2026-08-30 | [md](./superwall/how-to-build-an-18myear-apple-watch-app-free-masterclass/transcript.md) | [▶](https://www.youtube.com/watch?v=tv5hEdmbUTM) |
-| 9 | Meet The Marketing Genius Behind Cal AI | 51:43 | 2026-08-25 | [md](./superwall/meet-the-marketing-genius-behind-cal-ai/transcript.md) | [▶](https://www.youtube.com/watch?v=l0vswWcGmMs) |
-| 10 | #1 UGC EXPERT Reveals How To Market Consumer Apps | 44:02 | 2026-08-03 | [md](./superwall/1-ugc-expert-reveals-how-to-market-consumer-apps/transcript.md) | [▶](https://www.youtube.com/watch?v=F2dVvzvwtBY) |
-| 11 | $16M AI CEOs: How to Make $1.3M/Month With AI Apps | 54:57 | 2026-07-28 | [md](./superwall/16m-ai-ceos-how-to-make-13mmonth-with-ai-apps/transcript.md) | [▶](https://www.youtube.com/watch?v=oxr_Dz1vhdU) |
-| 12 | Beginners Guide to Buying & Selling Apps 2026 | 49:22 | 2026-07-19 | [md](./superwall/beginners-guide-to-buying-selling-apps-2026/transcript.md) | [▶](https://www.youtube.com/watch?v=Y6RstwPUWdU) |
-| 13 | Growing $1,000,000/year Apps in 60 Mins – LIVE Coaching | 1:02:33 | 2026-07-16 | [md](./superwall/growing-1000000year-apps-in-60-mins-live-coaching/transcript.md) | [▶](https://www.youtube.com/watch?v=sYosUxgngEE) |
-| 14 | $172M of App Building Advice in 50 Minutes | 50:48 | 2026-07-08 | [md](./superwall/172m-of-app-building-advice-in-50-minutes/transcript.md) | [▶](https://www.youtube.com/watch?v=u4tpE9AvBpc) |
-| 15 | I speedran an ai app to $100k in 70 days. | 52:32 | 2026-06-28 | [md](./superwall/i-speedran-an-ai-app-to-100k-in-70-days/transcript.md) | [▶](https://www.youtube.com/watch?v=mOpYezjqU9c) |
-| 16 | How to Build a $2M/Month App (Copy Me) | 1:01:12 | 2026-06-21 | [md](./superwall/how-to-build-a-2mmonth-app-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=GUkXzJ2S6Z8) |
-| 17 | The 14-Year-Old Who Built a $14k/Month AI App | 28:07 | 2026-06-07 | [md](./superwall/the-14-year-old-who-built-a-14kmonth-ai-app/transcript.md) | [▶](https://www.youtube.com/watch?v=qYYeu0E-1SI) |
-| 18 | I Studied 1,000,000 UGC Ads, This Is What Will Grow  Your App | 50:46 | 2026-06-01 | [md](./superwall/i-studied-1000000-ugc-ads-this-is-what-will-grow-your-app/transcript.md) | [▶](https://www.youtube.com/watch?v=qnDdabj8Fok) |
-| 19 | The EXACT System to Go From 0-$10M+ With Your App | 51:17 | 2026-05-24 | [md](./superwall/the-exact-system-to-go-from-0-10m-with-your-app/transcript.md) | [▶](https://www.youtube.com/watch?v=CdBuMyrqWCs) |
-| 20 | The NEW Short Form Strategy Dominating For App Growth | 58:21 | 2026-05-21 | [md](./superwall/the-new-short-form-strategy-dominating-for-app-growth/transcript.md) | [▶](https://www.youtube.com/watch?v=eh1SDHX84vQ) |
-| 21 | she makes $400k/mo from ai apps (while in college) | 56:25 | 2026-05-11 | [md](./superwall/she-makes-400kmo-from-ai-apps-while-in-college/transcript.md) | [▶](https://www.youtube.com/watch?v=Bf12MNPO-Js) |
-| 22 | I speedran a new app from 0 to $2m/year in 6 months (here's how) | 51:48 | 2026-05-05 | [md](./superwall/i-speedran-a-new-app-from-0-to-2myear-in-6-months-heres-how/transcript.md) | [▶](https://www.youtube.com/watch?v=ukGtpnfBpvU) |
-| 23 | Copy This Facebook Ads Strategy, It'll Blow Up Your App | 46:03 | 2026-04-26 | [md](./superwall/copy-this-facebook-ads-strategy-itll-blow-up-your-app/transcript.md) | [▶](https://www.youtube.com/watch?v=7JtttjbTRAQ) |
-| 24 | How I built a $500k/mo ai app (so you can just copy me) | 58:20 | 2026-04-19 | [md](./superwall/how-i-built-a-500kmo-ai-app-so-you-can-just-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=s9qQPM92JNs) |
-| 25 | COPY this ai app's $6.7m/yr marketing strategy | 52:20 | 2026-04-12 | [md](./superwall/copy-this-ai-apps-67myr-marketing-strategy/transcript.md) | [▶](https://www.youtube.com/watch?v=E_4gRy4O03w) |
-| 26 | 0 to $300k/mo in 45 days with my ai app (just copy me) | 57:23 | 2026-03-29 | [md](./superwall/0-to-300kmo-in-45-days-with-my-ai-app-just-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=PFfo4JySptw) |
-| 27 | I speedran an ai app from 0 to $1m/yr in 10 months | 56:51 | 2026-03-23 | [md](./superwall/i-speedran-an-ai-app-from-0-to-1myr-in-10-months/transcript.md) | [▶](https://www.youtube.com/watch?v=zFfBuyKoaDM) |
-| 28 | The Stupid Simple Content Strategy That's Making Apps Go Viral | 52:48 | 2026-03-15 | [md](./superwall/the-stupid-simple-content-strategy-thats-making-apps-go-viral/transcript.md) | [▶](https://www.youtube.com/watch?v=I10xtUiXfeY) |
-| 29 | I speedran an ai app from 0 to $100k exit in 26 days | 57:42 | 2026-03-09 | [md](./superwall/i-speedran-an-ai-app-from-0-to-100k-exit-in-26-days/transcript.md) | [▶](https://www.youtube.com/watch?v=yw5iIgO4PbY) |
-| 30 | Meet The 18y/o Who Solved UGC Marketing (100M Views in 2 Weeks) | 54:02 | 2026-03-01 | [md](./superwall/meet-the-18yo-who-solved-ugc-marketing-100m-views-in-2-weeks/transcript.md) | [▶](https://www.youtube.com/watch?v=szgT-8gXd3s) |
-| 31 | Copy This UGC Strategy, It'll Make Your App Go Viral | 55:08 | 2026-02-23 | [md](./superwall/copy-this-ugc-strategy-itll-make-your-app-go-viral/transcript.md) | [▶](https://www.youtube.com/watch?v=RVnnqTrSKZY) |
-| 32 | Full App Growth Guide 2026 - How to Make Viral Content to Get Users & Make Your App Retentive | 1:00:10 | 2026-02-16 | [md](./superwall/full-app-growth-guide-2026-how-to-make-viral-content-to-get-users-make-your-app-retentive/transcript.md) | [▶](https://www.youtube.com/watch?v=pb4JIH8FubE) |
-| 33 | I made 4,000 app paywalls and learned this | 56:50 | 2026-02-08 | [md](./superwall/i-made-4000-app-paywalls-and-learned-this/transcript.md) | [▶](https://www.youtube.com/watch?v=lkwX_kc0NS8) |
-| 34 | this 14 yr old makes $100k/mo PROFIT building apps with ai (here's how) | 44:20 | 2026-02-01 | [md](./superwall/this-14-yr-old-makes-100kmo-profit-building-apps-with-ai-heres-how/transcript.md) | [▶](https://www.youtube.com/watch?v=FIgn-1kbzZw) |
-| 35 | Meet The Guy Who Solved App Growth on TikTok | 39:09 | 2026-01-25 | [md](./superwall/meet-the-guy-who-solved-app-growth-on-tiktok/transcript.md) | [▶](https://www.youtube.com/watch?v=_aNVPMvd8WU) |
-| 36 | Meet The Guy Dominating The App Store | 54:09 | 2026-01-17 | [md](./superwall/meet-the-guy-dominating-the-app-store/transcript.md) | [▶](https://www.youtube.com/watch?v=DcDOgWGh4bc) |
-| 37 | The App Marketing Strategy No One Talks About | 57:26 | 2026-01-11 | [md](./superwall/the-app-marketing-strategy-no-one-talks-about/transcript.md) | [▶](https://www.youtube.com/watch?v=SyVVLbMgAXc) |
-| 38 | he had nothing.. until he built a stupid simple $30k/mo app with AI | 55:41 | 2026-01-04 | [md](./superwall/he-had-nothing-until-he-built-a-stupid-simple-30kmo-app-with-ai/transcript.md) | [▶](https://www.youtube.com/watch?v=CyaWU1qxQg4) |
-| 39 | He Went From Struggling to Make $1 From His App to Turning Down $1M | 48:25 | 2025-12-21 | [md](./superwall/he-went-from-struggling-to-make-1-from-his-app-to-turning-down-1m/transcript.md) | [▶](https://www.youtube.com/watch?v=CtqEbgutSb4) |
-| 40 | This 23 Yr Old Genius Makes $1M/Year with No-Code Apps. Here's How | 48:06 | 2025-12-17 | [md](./superwall/this-23-yr-old-genius-makes-1myear-with-no-code-apps-heres-how/transcript.md) | [▶](https://www.youtube.com/watch?v=zpTXi8WxeM0) |
-| 41 | How I Built the #1 App on The App Store (Twice) | 42:12 | 2025-12-06 | [md](./superwall/how-i-built-the-1-app-on-the-app-store-twice/transcript.md) | [▶](https://www.youtube.com/watch?v=jZ1W85VdIBk) |
-| 42 | How I make $42k/mo passively with simple no-code apps (copy me) | 1:02:39 | 2025-11-28 | [md](./superwall/how-i-make-42kmo-passively-with-simple-no-code-apps-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=CAi50V_eIRA) |
-| 43 | Our app makes $750k/mo thanks to this UGC strategy | 57:05 | 2025-11-23 | [md](./superwall/our-app-makes-750kmo-thanks-to-this-ugc-strategy/transcript.md) | [▶](https://www.youtube.com/watch?v=Ca_VnMTosRo) |
-| 44 | He went from 0 to $150k by building an ai fashion app (no-code) | 32:12 | 2025-11-21 | [md](./superwall/he-went-from-0-to-150k-by-building-an-ai-fashion-app-no-code/transcript.md) | [▶](https://www.youtube.com/watch?v=9655E10fxsk) |
-| 45 | Our No-Code Apps Made $50M Using THIS Paywall | 43:03 | 2025-11-16 | [md](./superwall/our-no-code-apps-made-50m-using-this-paywall/transcript.md) | [▶](https://www.youtube.com/watch?v=24QMRDXck70) |
-| 46 | this ai study app makes $100k/mo. here's how (no-code) | 25:44 | 2025-11-02 | [md](./superwall/this-ai-study-app-makes-100kmo-heres-how-no-code/transcript.md) | [▶](https://www.youtube.com/watch?v=zdbimhZjm7k) |
-| 47 | He made $2.2M from building simple apps. Here's how (no-code) | 33:02 | 2025-10-26 | [md](./superwall/he-made-22m-from-building-simple-apps-heres-how-no-code/transcript.md) | [▶](https://www.youtube.com/watch?v=2cDIFx4WWD0) |
-| 48 | Copy This Growth Strategy, It'll Blow Up Your App | 26:26 | 2025-10-22 | [md](./superwall/copy-this-growth-strategy-itll-blow-up-your-app/transcript.md) | [▶](https://www.youtube.com/watch?v=D7eaHcznLZU) |
-| 49 | Our App Makes $30K/Month Profit Using This Simple Strategy (copy us) | 1:05:52 | 2025-10-18 | [md](./superwall/our-app-makes-30kmonth-profit-using-this-simple-strategy-copy-us/transcript.md) | [▶](https://www.youtube.com/watch?v=PdudtXwEsOQ) |
-| 50 | How to Make Viral Content 100% Using AI in 2025 | 27:59 | 2025-10-09 | [md](./superwall/how-to-make-viral-content-100-using-ai-in-2025/transcript.md) | [▶](https://www.youtube.com/watch?v=kMO0VYTBC7U) |
-| 51 | He Built a Simple $120k/Yr App, Then Sold It For Multiple 6 Figures! | 23:45 | 2025-09-28 | [md](./superwall/he-built-a-simple-120kyr-app-then-sold-it-for-multiple-6-figures/transcript.md) | [▶](https://www.youtube.com/watch?v=NmIHgCRd04E) |
-| 52 | This 20yr old girl is a marketing genius… | 23:27 | 2025-09-14 | [md](./superwall/this-20yr-old-girl-is-a-marketing-genius/transcript.md) | [▶](https://www.youtube.com/watch?v=MsJNJfFeOCg) |
-| 53 | I Built a $30k/mo App That Helps You Quit Smoking | 32:14 | 2025-08-28 | [md](./superwall/i-built-a-30kmo-app-that-helps-you-quit-smoking/transcript.md) | [▶](https://www.youtube.com/watch?v=cYcU4_HQdIk) |
-| 54 | My App Makes $600k/Year Using This Easy Growth Strategy (copy me) | 55:05 | 2025-08-15 | [md](./superwall/my-app-makes-600kyear-using-this-easy-growth-strategy-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=si3HzkBTPl4) |
-| 55 | This app makes $2m/year using this ridiculously easy strategy | 32:31 | 2025-08-03 | [md](./superwall/this-app-makes-2myear-using-this-ridiculously-easy-strategy/transcript.md) | [▶](https://www.youtube.com/watch?v=r_JUxa3RZgM) |
-| 56 | Meet The Guy Who Solved Growing Apps (Hunter Isaacson Interview) | 29:49 | 2025-07-25 | [md](./superwall/meet-the-guy-who-solved-growing-apps-hunter-isaacson-interview/transcript.md) | [▶](https://www.youtube.com/watch?v=DTree0unT_0) |
-| 57 | The Secret Behind Weirdly Viral Apps | 44:30 | 2025-07-17 | [md](./superwall/the-secret-behind-weirdly-viral-apps/transcript.md) | [▶](https://www.youtube.com/watch?v=_a4ch3pk_U0) |
-| 58 | This App Makes $2M/Year With This Viral TikTok Strategy | 45:03 | 2025-07-07 | [md](./superwall/this-app-makes-2myear-with-this-viral-tiktok-strategy/transcript.md) | [▶](https://www.youtube.com/watch?v=AtYlYzw40vo) |
-| 59 | How I Grow Viral Apps to 1M+ Downloads (just copy me) | 38:33 | 2025-06-23 | [md](./superwall/how-i-grow-viral-apps-to-1m-downloads-just-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=lXGmWdFLsuM) |
-| 60 | The Secrets of Consumer Club: Insights from Joseph Choi - Superwall Podcast | 1:31:54 | 2025-04-04 | [md](./superwall/the-secrets-of-consumer-club-insights-from-joseph-choi-superwall-podcast/transcript.md) | [▶](https://www.youtube.com/watch?v=_9agAuKOOPg) |
+| 1 | I Studied 100+ Profitable Apps, Here’s What Actually Works | 13:33 | 2026-11-14 | [md](./superwall/i-studied-100-profitable-apps-heres-what-actually-works/transcript.md) | [▶](https://www.youtube.com/watch?v=2sLUhYP6a6k) |
+| 2 | Meet the ex-wrestler making $41k/mo with AI apps | 46:58 | 2026-10-12 | [md](./superwall/meet-the-ex-wrestler-making-41kmo-with-ai-apps/transcript.md) | [▶](https://www.youtube.com/watch?v=7yLgHeYeQAE) |
+| 3 | If I Had to Start a $1M App From Scratch, I'd Do This | 9:49 | 2026-10-11 | [md](./superwall/if-i-had-to-start-a-1m-app-from-scratch-id-do-this/transcript.md) | [▶](https://www.youtube.com/watch?v=TCRUvJ-Fq9U) |
+| 4 | What 500M App Downloads Taught Me About Human Psychology | 10:35 | 2026-10-08 | [md](./superwall/what-500m-app-downloads-taught-me-about-human-psychology/transcript.md) | [▶](https://www.youtube.com/watch?v=Qh314MypshM) |
+| 5 | The 1 Billion Views Content Strategy Every App Should Steal in 2026 | 53:24 | 2026-10-05 | [md](./superwall/the-1-billion-views-content-strategy-every-app-should-steal-in-2026/transcript.md) | [▶](https://www.youtube.com/watch?v=VGJWRjz6nq8) |
+| 6 | How To Grow Your App 23x Faster Than The Competition | 53:54 | 2026-09-27 | [md](./superwall/how-to-grow-your-app-23x-faster-than-the-competition/transcript.md) | [▶](https://www.youtube.com/watch?v=SuUJgmbQrVc) |
+| 7 | 1,000 Hours of Studying The Most Profitable Apps in 17 Minutes | 17:00 | 2026-09-23 | [md](./superwall/1000-hours-of-studying-the-most-profitable-apps-in-17-minutes/transcript.md) | [▶](https://www.youtube.com/watch?v=0mOLs315i04) |
+| 8 | The NEW App Content Strategy Dominating in 2026 | 42:14 | 2026-09-13 | [md](./superwall/the-new-app-content-strategy-dominating-in-2026/transcript.md) | [▶](https://www.youtube.com/watch?v=ka3gqzmUuvc) |
+| 9 | How to Build an $18M/Year Apple Watch App (FREE MASTERCLASS) | 51:42 | 2026-08-30 | [md](./superwall/how-to-build-an-18myear-apple-watch-app-free-masterclass/transcript.md) | [▶](https://www.youtube.com/watch?v=tv5hEdmbUTM) |
+| 10 | Meet The Marketing Genius Behind Cal AI | 51:43 | 2026-08-25 | [md](./superwall/meet-the-marketing-genius-behind-cal-ai/transcript.md) | [▶](https://www.youtube.com/watch?v=l0vswWcGmMs) |
+| 11 | #1 UGC EXPERT Reveals How To Market Consumer Apps | 44:02 | 2026-08-03 | [md](./superwall/1-ugc-expert-reveals-how-to-market-consumer-apps/transcript.md) | [▶](https://www.youtube.com/watch?v=F2dVvzvwtBY) |
+| 12 | $16M AI CEOs: How to Make $1.3M/Month With AI Apps | 54:57 | 2026-07-28 | [md](./superwall/16m-ai-ceos-how-to-make-13mmonth-with-ai-apps/transcript.md) | [▶](https://www.youtube.com/watch?v=oxr_Dz1vhdU) |
+| 13 | Beginners Guide to Buying & Selling Apps 2026 | 49:22 | 2026-07-19 | [md](./superwall/beginners-guide-to-buying-selling-apps-2026/transcript.md) | [▶](https://www.youtube.com/watch?v=Y6RstwPUWdU) |
+| 14 | Growing $1,000,000/year Apps in 60 Mins – LIVE Coaching | 1:02:33 | 2026-07-16 | [md](./superwall/growing-1000000year-apps-in-60-mins-live-coaching/transcript.md) | [▶](https://www.youtube.com/watch?v=sYosUxgngEE) |
+| 15 | $172M of App Building Advice in 50 Minutes | 50:48 | 2026-07-08 | [md](./superwall/172m-of-app-building-advice-in-50-minutes/transcript.md) | [▶](https://www.youtube.com/watch?v=u4tpE9AvBpc) |
+| 16 | I speedran an ai app to $100k in 70 days. | 52:32 | 2026-06-28 | [md](./superwall/i-speedran-an-ai-app-to-100k-in-70-days/transcript.md) | [▶](https://www.youtube.com/watch?v=mOpYezjqU9c) |
+| 17 | How to Build a $2M/Month App (Copy Me) | 1:01:12 | 2026-06-21 | [md](./superwall/how-to-build-a-2mmonth-app-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=GUkXzJ2S6Z8) |
+| 18 | The 14-Year-Old Who Built a $14k/Month AI App | 28:07 | 2026-06-07 | [md](./superwall/the-14-year-old-who-built-a-14kmonth-ai-app/transcript.md) | [▶](https://www.youtube.com/watch?v=qYYeu0E-1SI) |
+| 19 | I Studied 1,000,000 UGC Ads, This Is What Will Grow  Your App | 50:46 | 2026-06-01 | [md](./superwall/i-studied-1000000-ugc-ads-this-is-what-will-grow-your-app/transcript.md) | [▶](https://www.youtube.com/watch?v=qnDdabj8Fok) |
+| 20 | The EXACT System to Go From 0-$10M+ With Your App | 51:17 | 2026-05-24 | [md](./superwall/the-exact-system-to-go-from-0-10m-with-your-app/transcript.md) | [▶](https://www.youtube.com/watch?v=CdBuMyrqWCs) |
+| 21 | The NEW Short Form Strategy Dominating For App Growth | 58:21 | 2026-05-21 | [md](./superwall/the-new-short-form-strategy-dominating-for-app-growth/transcript.md) | [▶](https://www.youtube.com/watch?v=eh1SDHX84vQ) |
+| 22 | she makes $400k/mo from ai apps (while in college) | 56:25 | 2026-05-11 | [md](./superwall/she-makes-400kmo-from-ai-apps-while-in-college/transcript.md) | [▶](https://www.youtube.com/watch?v=Bf12MNPO-Js) |
+| 23 | I speedran a new app from 0 to $2m/year in 6 months (here's how) | 51:48 | 2026-05-05 | [md](./superwall/i-speedran-a-new-app-from-0-to-2myear-in-6-months-heres-how/transcript.md) | [▶](https://www.youtube.com/watch?v=ukGtpnfBpvU) |
+| 24 | Copy This Facebook Ads Strategy, It'll Blow Up Your App | 46:03 | 2026-04-26 | [md](./superwall/copy-this-facebook-ads-strategy-itll-blow-up-your-app/transcript.md) | [▶](https://www.youtube.com/watch?v=7JtttjbTRAQ) |
+| 25 | How I built a $500k/mo ai app (so you can just copy me) | 58:20 | 2026-04-19 | [md](./superwall/how-i-built-a-500kmo-ai-app-so-you-can-just-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=s9qQPM92JNs) |
+| 26 | COPY this ai app's $6.7m/yr marketing strategy | 52:20 | 2026-04-12 | [md](./superwall/copy-this-ai-apps-67myr-marketing-strategy/transcript.md) | [▶](https://www.youtube.com/watch?v=E_4gRy4O03w) |
+| 27 | 0 to $300k/mo in 45 days with my ai app (just copy me) | 57:23 | 2026-03-29 | [md](./superwall/0-to-300kmo-in-45-days-with-my-ai-app-just-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=PFfo4JySptw) |
+| 28 | I speedran an ai app from 0 to $1m/yr in 10 months | 56:51 | 2026-03-23 | [md](./superwall/i-speedran-an-ai-app-from-0-to-1myr-in-10-months/transcript.md) | [▶](https://www.youtube.com/watch?v=zFfBuyKoaDM) |
+| 29 | The Stupid Simple Content Strategy That's Making Apps Go Viral | 52:48 | 2026-03-15 | [md](./superwall/the-stupid-simple-content-strategy-thats-making-apps-go-viral/transcript.md) | [▶](https://www.youtube.com/watch?v=I10xtUiXfeY) |
+| 30 | I speedran an ai app from 0 to $100k exit in 26 days | 57:42 | 2026-03-09 | [md](./superwall/i-speedran-an-ai-app-from-0-to-100k-exit-in-26-days/transcript.md) | [▶](https://www.youtube.com/watch?v=yw5iIgO4PbY) |
+| 31 | Meet The 18y/o Who Solved UGC Marketing (100M Views in 2 Weeks) | 54:02 | 2026-03-01 | [md](./superwall/meet-the-18yo-who-solved-ugc-marketing-100m-views-in-2-weeks/transcript.md) | [▶](https://www.youtube.com/watch?v=szgT-8gXd3s) |
+| 32 | Copy This UGC Strategy, It'll Make Your App Go Viral | 55:08 | 2026-02-23 | [md](./superwall/copy-this-ugc-strategy-itll-make-your-app-go-viral/transcript.md) | [▶](https://www.youtube.com/watch?v=RVnnqTrSKZY) |
+| 33 | Full App Growth Guide 2026 - How to Make Viral Content to Get Users & Make Your App Retentive | 1:00:10 | 2026-02-16 | [md](./superwall/full-app-growth-guide-2026-how-to-make-viral-content-to-get-users-make-your-app-retentive/transcript.md) | [▶](https://www.youtube.com/watch?v=pb4JIH8FubE) |
+| 34 | I made 4,000 app paywalls and learned this | 56:50 | 2026-02-08 | [md](./superwall/i-made-4000-app-paywalls-and-learned-this/transcript.md) | [▶](https://www.youtube.com/watch?v=lkwX_kc0NS8) |
+| 35 | this 14 yr old makes $100k/mo PROFIT building apps with ai (here's how) | 44:20 | 2026-02-01 | [md](./superwall/this-14-yr-old-makes-100kmo-profit-building-apps-with-ai-heres-how/transcript.md) | [▶](https://www.youtube.com/watch?v=FIgn-1kbzZw) |
+| 36 | Meet The Guy Who Solved App Growth on TikTok | 39:09 | 2026-01-25 | [md](./superwall/meet-the-guy-who-solved-app-growth-on-tiktok/transcript.md) | [▶](https://www.youtube.com/watch?v=_aNVPMvd8WU) |
+| 37 | Meet The Guy Dominating The App Store | 54:09 | 2026-01-17 | [md](./superwall/meet-the-guy-dominating-the-app-store/transcript.md) | [▶](https://www.youtube.com/watch?v=DcDOgWGh4bc) |
+| 38 | The App Marketing Strategy No One Talks About | 57:26 | 2026-01-11 | [md](./superwall/the-app-marketing-strategy-no-one-talks-about/transcript.md) | [▶](https://www.youtube.com/watch?v=SyVVLbMgAXc) |
+| 39 | he had nothing.. until he built a stupid simple $30k/mo app with AI | 55:41 | 2026-01-04 | [md](./superwall/he-had-nothing-until-he-built-a-stupid-simple-30kmo-app-with-ai/transcript.md) | [▶](https://www.youtube.com/watch?v=CyaWU1qxQg4) |
+| 40 | He Went From Struggling to Make $1 From His App to Turning Down $1M | 48:25 | 2025-12-21 | [md](./superwall/he-went-from-struggling-to-make-1-from-his-app-to-turning-down-1m/transcript.md) | [▶](https://www.youtube.com/watch?v=CtqEbgutSb4) |
+| 41 | This 23 Yr Old Genius Makes $1M/Year with No-Code Apps. Here's How | 48:06 | 2025-12-17 | [md](./superwall/this-23-yr-old-genius-makes-1myear-with-no-code-apps-heres-how/transcript.md) | [▶](https://www.youtube.com/watch?v=zpTXi8WxeM0) |
+| 42 | How I Built the #1 App on The App Store (Twice) | 42:12 | 2025-12-06 | [md](./superwall/how-i-built-the-1-app-on-the-app-store-twice/transcript.md) | [▶](https://www.youtube.com/watch?v=jZ1W85VdIBk) |
+| 43 | How I make $42k/mo passively with simple no-code apps (copy me) | 1:02:39 | 2025-11-28 | [md](./superwall/how-i-make-42kmo-passively-with-simple-no-code-apps-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=CAi50V_eIRA) |
+| 44 | Our app makes $750k/mo thanks to this UGC strategy | 57:05 | 2025-11-23 | [md](./superwall/our-app-makes-750kmo-thanks-to-this-ugc-strategy/transcript.md) | [▶](https://www.youtube.com/watch?v=Ca_VnMTosRo) |
+| 45 | He went from 0 to $150k by building an ai fashion app (no-code) | 32:12 | 2025-11-21 | [md](./superwall/he-went-from-0-to-150k-by-building-an-ai-fashion-app-no-code/transcript.md) | [▶](https://www.youtube.com/watch?v=9655E10fxsk) |
+| 46 | Our No-Code Apps Made $50M Using THIS Paywall | 43:03 | 2025-11-16 | [md](./superwall/our-no-code-apps-made-50m-using-this-paywall/transcript.md) | [▶](https://www.youtube.com/watch?v=24QMRDXck70) |
+| 47 | this ai study app makes $100k/mo. here's how (no-code) | 25:44 | 2025-11-02 | [md](./superwall/this-ai-study-app-makes-100kmo-heres-how-no-code/transcript.md) | [▶](https://www.youtube.com/watch?v=zdbimhZjm7k) |
+| 48 | He made $2.2M from building simple apps. Here's how (no-code) | 33:02 | 2025-10-26 | [md](./superwall/he-made-22m-from-building-simple-apps-heres-how-no-code/transcript.md) | [▶](https://www.youtube.com/watch?v=2cDIFx4WWD0) |
+| 49 | Copy This Growth Strategy, It'll Blow Up Your App | 26:26 | 2025-10-22 | [md](./superwall/copy-this-growth-strategy-itll-blow-up-your-app/transcript.md) | [▶](https://www.youtube.com/watch?v=D7eaHcznLZU) |
+| 50 | Our App Makes $30K/Month Profit Using This Simple Strategy (copy us) | 1:05:52 | 2025-10-18 | [md](./superwall/our-app-makes-30kmonth-profit-using-this-simple-strategy-copy-us/transcript.md) | [▶](https://www.youtube.com/watch?v=PdudtXwEsOQ) |
+| 51 | How to Make Viral Content 100% Using AI in 2025 | 27:59 | 2025-10-09 | [md](./superwall/how-to-make-viral-content-100-using-ai-in-2025/transcript.md) | [▶](https://www.youtube.com/watch?v=kMO0VYTBC7U) |
+| 52 | He Built a Simple $120k/Yr App, Then Sold It For Multiple 6 Figures! | 23:45 | 2025-09-28 | [md](./superwall/he-built-a-simple-120kyr-app-then-sold-it-for-multiple-6-figures/transcript.md) | [▶](https://www.youtube.com/watch?v=NmIHgCRd04E) |
+| 53 | This 20yr old girl is a marketing genius… | 23:27 | 2025-09-14 | [md](./superwall/this-20yr-old-girl-is-a-marketing-genius/transcript.md) | [▶](https://www.youtube.com/watch?v=MsJNJfFeOCg) |
+| 54 | I Built a $30k/mo App That Helps You Quit Smoking | 32:14 | 2025-08-28 | [md](./superwall/i-built-a-30kmo-app-that-helps-you-quit-smoking/transcript.md) | [▶](https://www.youtube.com/watch?v=cYcU4_HQdIk) |
+| 55 | My App Makes $600k/Year Using This Easy Growth Strategy (copy me) | 55:05 | 2025-08-15 | [md](./superwall/my-app-makes-600kyear-using-this-easy-growth-strategy-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=si3HzkBTPl4) |
+| 56 | This app makes $2m/year using this ridiculously easy strategy | 32:31 | 2025-08-03 | [md](./superwall/this-app-makes-2myear-using-this-ridiculously-easy-strategy/transcript.md) | [▶](https://www.youtube.com/watch?v=r_JUxa3RZgM) |
+| 57 | Meet The Guy Who Solved Growing Apps (Hunter Isaacson Interview) | 29:49 | 2025-07-25 | [md](./superwall/meet-the-guy-who-solved-growing-apps-hunter-isaacson-interview/transcript.md) | [▶](https://www.youtube.com/watch?v=DTree0unT_0) |
+| 58 | The Secret Behind Weirdly Viral Apps | 44:30 | 2025-07-17 | [md](./superwall/the-secret-behind-weirdly-viral-apps/transcript.md) | [▶](https://www.youtube.com/watch?v=_a4ch3pk_U0) |
+| 59 | This App Makes $2M/Year With This Viral TikTok Strategy | 45:03 | 2025-07-07 | [md](./superwall/this-app-makes-2myear-with-this-viral-tiktok-strategy/transcript.md) | [▶](https://www.youtube.com/watch?v=AtYlYzw40vo) |
+| 60 | How I Grow Viral Apps to 1M+ Downloads (just copy me) | 38:33 | 2025-06-23 | [md](./superwall/how-i-grow-viral-apps-to-1m-downloads-just-copy-me/transcript.md) | [▶](https://www.youtube.com/watch?v=lXGmWdFLsuM) |
+| 61 | The Secrets of Consumer Club: Insights from Joseph Choi - Superwall Podcast | 1:31:54 | 2025-04-04 | [md](./superwall/the-secrets-of-consumer-club-insights-from-joseph-choi-superwall-podcast/transcript.md) | [▶](https://www.youtube.com/watch?v=_9agAuKOOPg) |
 
 
 ## Mục lục chi tiết theo chương
 
-_42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đó trên YouTube._
+_42/61 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đó trên YouTube._
 
 
-### 1. Meet the ex-wrestler making $41k/mo with AI apps
+
+### 1. I Studied 100+ Profitable Apps, Here’s What Actually Works
+
+`13:33 | 2026-11-14 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO`  
+[transcript](./superwall/i-studied-100-profitable-apps-heres-what-actually-works/transcript.md) · [YouTube](https://www.youtube.com/watch?v=2sLUhYP6a6k)
+
+- _(video này không có chapters)_
+
+### 2. Meet the ex-wrestler making $41k/mo with AI apps
 
 `46:58 | 2026-10-12 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/meet-the-ex-wrestler-making-41kmo-with-ai-apps/transcript.md) · [YouTube](https://www.youtube.com/watch?v=7yLgHeYeQAE)
@@ -412,21 +425,21 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`37:18`](https://www.youtube.com/watch?v=7yLgHeYeQAE&t=2238s) Building a Social Feed to Improve Retention
 - [`43:36`](https://www.youtube.com/watch?v=7yLgHeYeQAE&t=2616s) Why Clarity Matters in Marketing and Product Design
 
-### 2. If I Had to Start a $1M App From Scratch, I'd Do This
+### 3. If I Had to Start a $1M App From Scratch, I'd Do This
 
 `9:49 | 2026-10-11 | UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/if-i-had-to-start-a-1m-app-from-scratch-id-do-this/transcript.md) · [YouTube](https://www.youtube.com/watch?v=TCRUvJ-Fq9U)
 
 - _(video này không có chapters)_
 
-### 3. What 500M App Downloads Taught Me About Human Psychology
+### 4. What 500M App Downloads Taught Me About Human Psychology
 
 `10:35 | 2026-10-08 | Paywall & Monetization · UGC & Content · Growth & ASO`  
 [transcript](./superwall/what-500m-app-downloads-taught-me-about-human-psychology/transcript.md) · [YouTube](https://www.youtube.com/watch?v=Qh314MypshM)
 
 - _(video này không có chapters)_
 
-### 4. The 1 Billion Views Content Strategy Every App Should Steal in 2026
+### 5. The 1 Billion Views Content Strategy Every App Should Steal in 2026
 
 `53:24 | 2026-10-05 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/the-1-billion-views-content-strategy-every-app-should-steal-in-2026/transcript.md) · [YouTube](https://www.youtube.com/watch?v=VGJWRjz6nq8)
@@ -447,7 +460,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`38:37`](https://www.youtube.com/watch?v=VGJWRjz6nq8&t=2317s) Green Screen Formats and Creator Volume
 - [`43:16`](https://www.youtube.com/watch?v=VGJWRjz6nq8&t=2596s) Reposting and Doubling Down on Winning Videos
 
-### 5. How To Grow Your App 23x Faster Than The Competition
+### 6. How To Grow Your App 23x Faster Than The Competition
 
 `53:54 | 2026-09-27 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/how-to-grow-your-app-23x-faster-than-the-competition/transcript.md) · [YouTube](https://www.youtube.com/watch?v=SuUJgmbQrVc)
@@ -465,14 +478,14 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`41:14`](https://www.youtube.com/watch?v=SuUJgmbQrVc&t=2474s) AI for Creator Recruitment and Operations
 - [`43:21`](https://www.youtube.com/watch?v=SuUJgmbQrVc&t=2601s) Sideshift V3 and Paid Ads
 
-### 6. 1,000 Hours of Studying The Most Profitable Apps in 17 Minutes
+### 7. 1,000 Hours of Studying The Most Profitable Apps in 17 Minutes
 
 `17:00 | 2026-09-23 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/1000-hours-of-studying-the-most-profitable-apps-in-17-minutes/transcript.md) · [YouTube](https://www.youtube.com/watch?v=0mOLs315i04)
 
 - _(video này không có chapters)_
 
-### 7. The NEW App Content Strategy Dominating in 2026
+### 8. The NEW App Content Strategy Dominating in 2026
 
 `42:14 | 2026-09-13 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/the-new-app-content-strategy-dominating-in-2026/transcript.md) · [YouTube](https://www.youtube.com/watch?v=ka3gqzmUuvc)
@@ -490,7 +503,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`35:21`](https://www.youtube.com/watch?v=ka3gqzmUuvc&t=2121s) Post Seeding and Comment Seeding
 - [`39:02`](https://www.youtube.com/watch?v=ka3gqzmUuvc&t=2342s) The Four Channels of Distribution
 
-### 8. How to Build an $18M/Year Apple Watch App (FREE MASTERCLASS)
+### 9. How to Build an $18M/Year Apple Watch App (FREE MASTERCLASS)
 
 `51:42 | 2026-08-30 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/how-to-build-an-18myear-apple-watch-app-free-masterclass/transcript.md) · [YouTube](https://www.youtube.com/watch?v=tv5hEdmbUTM)
@@ -501,7 +514,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`26:48`](https://www.youtube.com/watch?v=tv5hEdmbUTM&t=1608s) Screen by Screen: Why the Data Sync Comes First
 - [`34:53`](https://www.youtube.com/watch?v=tv5hEdmbUTM&t=2093s) FOMO Over Benefits: What Actually Closes the Sale
 
-### 9. Meet The Marketing Genius Behind Cal AI
+### 10. Meet The Marketing Genius Behind Cal AI
 
 `51:43 | 2026-08-25 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/meet-the-marketing-genius-behind-cal-ai/transcript.md) · [YouTube](https://www.youtube.com/watch?v=l0vswWcGmMs)
@@ -513,7 +526,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`20:44`](https://www.youtube.com/watch?v=l0vswWcGmMs&t=1244s) The 15 Second Rule: Why Seamless Beats Ads
 - [`34:35`](https://www.youtube.com/watch?v=l0vswWcGmMs&t=2075s) Two Thousand Emails a Day: Inside the Outreach Machine
 
-### 10. #1 UGC EXPERT Reveals How To Market Consumer Apps
+### 11. #1 UGC EXPERT Reveals How To Market Consumer Apps
 
 `44:02 | 2026-08-03 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/1-ugc-expert-reveals-how-to-market-consumer-apps/transcript.md) · [YouTube](https://www.youtube.com/watch?v=F2dVvzvwtBY)
@@ -532,7 +545,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`38:23`](https://www.youtube.com/watch?v=F2dVvzvwtBY&t=2303s) Using AI Agents for UGC
 - [`43:38`](https://www.youtube.com/watch?v=F2dVvzvwtBY&t=2618s) Wrap Up
 
-### 11. $16M AI CEOs: How to Make $1.3M/Month With AI Apps
+### 12. $16M AI CEOs: How to Make $1.3M/Month With AI Apps
 
 `54:57 | 2026-07-28 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/16m-ai-ceos-how-to-make-13mmonth-with-ai-apps/transcript.md) · [YouTube](https://www.youtube.com/watch?v=oxr_Dz1vhdU)
@@ -550,7 +563,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`47:58`](https://www.youtube.com/watch?v=oxr_Dz1vhdU&t=2878s) The Infinite Search Space
 - [`52:43`](https://www.youtube.com/watch?v=oxr_Dz1vhdU&t=3163s) Verticals They're Excited About
 
-### 12. Beginners Guide to Buying & Selling Apps 2026
+### 13. Beginners Guide to Buying & Selling Apps 2026
 
 `49:22 | 2026-07-19 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/beginners-guide-to-buying-selling-apps-2026/transcript.md) · [YouTube](https://www.youtube.com/watch?v=Y6RstwPUWdU)
@@ -568,14 +581,14 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`40:51`](https://www.youtube.com/watch?v=Y6RstwPUWdU&t=2451s) Buying Apps Like Real Estate
 - [`48:47`](https://www.youtube.com/watch?v=Y6RstwPUWdU&t=2927s) Wrap Up
 
-### 13. Growing $1,000,000/year Apps in 60 Mins – LIVE Coaching
+### 14. Growing $1,000,000/year Apps in 60 Mins – LIVE Coaching
 
 `1:02:33 | 2026-07-16 | Paywall & Monetization · UGC & Content`  
 [transcript](./superwall/growing-1000000year-apps-in-60-mins-live-coaching/transcript.md) · [YouTube](https://www.youtube.com/watch?v=sYosUxgngEE)
 
 - _(video này không có chapters)_
 
-### 14. $172M of App Building Advice in 50 Minutes
+### 15. $172M of App Building Advice in 50 Minutes
 
 `50:48 | 2026-07-08 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/172m-of-app-building-advice-in-50-minutes/transcript.md) · [YouTube](https://www.youtube.com/watch?v=u4tpE9AvBpc)
@@ -592,7 +605,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`43:09`](https://www.youtube.com/watch?v=u4tpE9AvBpc&t=2589s) Rule Six: Sell Before You Need To (Your Exit Alternative)
 - [`48:18`](https://www.youtube.com/watch?v=u4tpE9AvBpc&t=2898s) Early-Stage Levers for the Six-Figure Founder
 
-### 15. I speedran an ai app to $100k in 70 days.
+### 16. I speedran an ai app to $100k in 70 days.
 
 `52:32 | 2026-06-28 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/i-speedran-an-ai-app-to-100k-in-70-days/transcript.md) · [YouTube](https://www.youtube.com/watch?v=mOpYezjqU9c)
@@ -628,7 +641,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`50:06`](https://www.youtube.com/watch?v=mOpYezjqU9c&t=3006s) Platform Constraints: Why TikTok Rejects Peptide Ads While Meta Succeeds
 - [`51:29`](https://www.youtube.com/watch?v=mOpYezjqU9c&t=3089s) Outro: Post-Launch Plans, Future Hiring, and Final Growth Alpha Breakdown
 
-### 16. How to Build a $2M/Month App (Copy Me)
+### 17. How to Build a $2M/Month App (Copy Me)
 
 `1:01:12 | 2026-06-21 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/how-to-build-a-2mmonth-app-copy-me/transcript.md) · [YouTube](https://www.youtube.com/watch?v=GUkXzJ2S6Z8)
@@ -653,7 +666,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`55:30`](https://www.youtube.com/watch?v=GUkXzJ2S6Z8&t=3330s) Capitalizing on Cultural Micro-Trends (ADHD, Toxic Attachments) in Mental Wellness Creatives
 - [`1:00:29`](https://www.youtube.com/watch?v=GUkXzJ2S6Z8&t=3629s) Where to Connect with Marcus Burke
 
-### 17. The 14-Year-Old Who Built a $14k/Month AI App
+### 18. The 14-Year-Old Who Built a $14k/Month AI App
 
 `28:07 | 2026-06-07 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/the-14-year-old-who-built-a-14kmonth-ai-app/transcript.md) · [YouTube](https://www.youtube.com/watch?v=qYYeu0E-1SI)
@@ -680,7 +693,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`24:27`](https://www.youtube.com/watch?v=qYYeu0E-1SI&t=1467s) 2026 Consumer App Trend Predictions: AI Model Arbitrage & Viral Party Formats
 - [`25:57`](https://www.youtube.com/watch?v=qYYeu0E-1SI&t=1557s) The Speedrun Playbook: How to Launch to $10K/Month From Scratch
 
-### 18. I Studied 1,000,000 UGC Ads, This Is What Will Grow  Your App
+### 19. I Studied 1,000,000 UGC Ads, This Is What Will Grow  Your App
 
 `50:46 | 2026-06-01 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/i-studied-1000000-ugc-ads-this-is-what-will-grow-your-app/transcript.md) · [YouTube](https://www.youtube.com/watch?v=qnDdabj8Fok)
@@ -706,7 +719,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`44:06`](https://www.youtube.com/watch?v=qnDdabj8Fok&t=2646s) Payout optimization: Capitalizing on the "free view" framework
 - [`45:45`](https://www.youtube.com/watch?v=qnDdabj8Fok&t=2745s) What to expect: Realistic CPM progression over the first 90 days
 
-### 19. The EXACT System to Go From 0-$10M+ With Your App
+### 20. The EXACT System to Go From 0-$10M+ With Your App
 
 `51:17 | 2026-05-24 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/the-exact-system-to-go-from-0-10m-with-your-app/transcript.md) · [YouTube](https://www.youtube.com/watch?v=CdBuMyrqWCs)
@@ -744,7 +757,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`48:02`](https://www.youtube.com/watch?v=CdBuMyrqWCs&t=2882s) Why TikTok Shop Talent Makes a Great First Marketing Hire
 - [`49:13`](https://www.youtube.com/watch?v=CdBuMyrqWCs&t=2953s) Advice for Solopreneurs Just Starting Out
 
-### 20. The NEW Short Form Strategy Dominating For App Growth
+### 21. The NEW Short Form Strategy Dominating For App Growth
 
 `58:21 | 2026-05-21 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/the-new-short-form-strategy-dominating-for-app-growth/transcript.md) · [YouTube](https://www.youtube.com/watch?v=eh1SDHX84vQ)
@@ -764,7 +777,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`44:00`](https://www.youtube.com/watch?v=eh1SDHX84vQ&t=2640s) How to Find High Converting Formats Before You Build Your App
 - [`52:00`](https://www.youtube.com/watch?v=eh1SDHX84vQ&t=3120s) Current Numbers: 50 to 100 New Accounts Per Week
 
-### 21. she makes $400k/mo from ai apps (while in college)
+### 22. she makes $400k/mo from ai apps (while in college)
 
 `56:25 | 2026-05-11 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/she-makes-400kmo-from-ai-apps-while-in-college/transcript.md) · [YouTube](https://www.youtube.com/watch?v=Bf12MNPO-Js)
@@ -781,7 +794,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`44:42`](https://www.youtube.com/watch?v=Bf12MNPO-Js&t=2682s) The Paywall Test That Showed a 50% Conversion Increase
 - [`53:16`](https://www.youtube.com/watch?v=Bf12MNPO-Js&t=3196s) Advice Most App Founders Never Hear
 
-### 22. I speedran a new app from 0 to $2m/year in 6 months (here's how)
+### 23. I speedran a new app from 0 to $2m/year in 6 months (here's how)
 
 `51:48 | 2026-05-05 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/i-speedran-a-new-app-from-0-to-2myear-in-6-months-heres-how/transcript.md) · [YouTube](https://www.youtube.com/watch?v=ukGtpnfBpvU)
@@ -810,7 +823,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`48:57`](https://www.youtube.com/watch?v=ukGtpnfBpvU&t=2937s) The Cal AI acquisition by MyFitnessPal
 - [`51:07`](https://www.youtube.com/watch?v=ukGtpnfBpvU&t=3067s) Final Thoughts
 
-### 23. Copy This Facebook Ads Strategy, It'll Blow Up Your App
+### 24. Copy This Facebook Ads Strategy, It'll Blow Up Your App
 
 `46:03 | 2026-04-26 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/copy-this-facebook-ads-strategy-itll-blow-up-your-app/transcript.md) · [YouTube](https://www.youtube.com/watch?v=7JtttjbTRAQ)
@@ -828,7 +841,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`32:03`](https://www.youtube.com/watch?v=7JtttjbTRAQ&t=1923s) The Exit: Negotiating a 7-figure deal with private equity.
 - [`41:12`](https://www.youtube.com/watch?v=7JtttjbTRAQ&t=2472s) Screens.design: Building a library to analyze top-performing apps.
 
-### 24. How I built a $500k/mo ai app (so you can just copy me)
+### 25. How I built a $500k/mo ai app (so you can just copy me)
 
 `58:20 | 2026-04-19 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/how-i-built-a-500kmo-ai-app-so-you-can-just-copy-me/transcript.md) · [YouTube](https://www.youtube.com/watch?v=s9qQPM92JNs)
@@ -844,7 +857,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`40:50`](https://www.youtube.com/watch?v=s9qQPM92JNs&t=2450s) Coaching and Content Creation
 - [`52:03`](https://www.youtube.com/watch?v=s9qQPM92JNs&t=3123s) Y Combinator Experience
 
-### 25. COPY this ai app's $6.7m/yr marketing strategy
+### 26. COPY this ai app's $6.7m/yr marketing strategy
 
 `52:20 | 2026-04-12 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/copy-this-ai-apps-67myr-marketing-strategy/transcript.md) · [YouTube](https://www.youtube.com/watch?v=E_4gRy4O03w)
@@ -864,7 +877,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`45:02`](https://www.youtube.com/watch?v=E_4gRy4O03w&t=2702s) Future Innovations and Opportunities
 - [`51:00`](https://www.youtube.com/watch?v=E_4gRy4O03w&t=3060s) Closing Remarks
 
-### 26. 0 to $300k/mo in 45 days with my ai app (just copy me)
+### 27. 0 to $300k/mo in 45 days with my ai app (just copy me)
 
 `57:23 | 2026-03-29 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/0-to-300kmo-in-45-days-with-my-ai-app-just-copy-me/transcript.md) · [YouTube](https://www.youtube.com/watch?v=PFfo4JySptw)
@@ -881,7 +894,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`48:02`](https://www.youtube.com/watch?v=PFfo4JySptw&t=2882s) Bootstrapping Challenges
 - [`53:14`](https://www.youtube.com/watch?v=PFfo4JySptw&t=3194s) Future Growth and Vision
 
-### 27. I speedran an ai app from 0 to $1m/yr in 10 months
+### 28. I speedran an ai app from 0 to $1m/yr in 10 months
 
 `56:51 | 2026-03-23 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/i-speedran-an-ai-app-from-0-to-1myr-in-10-months/transcript.md) · [YouTube](https://www.youtube.com/watch?v=zFfBuyKoaDM)
@@ -900,7 +913,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`44:34`](https://www.youtube.com/watch?v=zFfBuyKoaDM&t=2674s) Subscription and Pricing Strategy
 - [`52:10`](https://www.youtube.com/watch?v=zFfBuyKoaDM&t=3130s) Future of App Monetization"
 
-### 28. The Stupid Simple Content Strategy That's Making Apps Go Viral
+### 29. The Stupid Simple Content Strategy That's Making Apps Go Viral
 
 `52:48 | 2026-03-15 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/the-stupid-simple-content-strategy-thats-making-apps-go-viral/transcript.md) · [YouTube](https://www.youtube.com/watch?v=I10xtUiXfeY)
@@ -920,7 +933,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`47:30`](https://www.youtube.com/watch?v=I10xtUiXfeY&t=2850s) The Coordinated Push: How to chart on the App Store in 24 hours
 - [`52:15`](https://www.youtube.com/watch?v=I10xtUiXfeY&t=3135s) The Equity Shift: Why the value of distribution is outstripping development
 
-### 29. I speedran an ai app from 0 to $100k exit in 26 days
+### 30. I speedran an ai app from 0 to $100k exit in 26 days
 
 `57:42 | 2026-03-09 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/i-speedran-an-ai-app-from-0-to-100k-exit-in-26-days/transcript.md) · [YouTube](https://www.youtube.com/watch?v=yw5iIgO4PbY)
@@ -945,7 +958,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`48:55`](https://www.youtube.com/watch?v=yw5iIgO4PbY&t=2935s) Due Diligence: Fact-checking users
 - [`54:03`](https://www.youtube.com/watch?v=yw5iIgO4PbY&t=3243s) Ideation Checklist: The 100k/month market validation rule
 
-### 30. Meet The 18y/o Who Solved UGC Marketing (100M Views in 2 Weeks)
+### 31. Meet The 18y/o Who Solved UGC Marketing (100M Views in 2 Weeks)
 
 `54:02 | 2026-03-01 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/meet-the-18yo-who-solved-ugc-marketing-100m-views-in-2-weeks/transcript.md) · [YouTube](https://www.youtube.com/watch?v=szgT-8gXd3s)
@@ -971,7 +984,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`48:21`](https://www.youtube.com/watch?v=szgT-8gXd3s&t=2901s) Prediction: The next mainstream AI photo/video social giant
 - [`51:43`](https://www.youtube.com/watch?v=szgT-8gXd3s&t=3103s) Advice for founders: Record your own content to gain intuition
 
-### 31. Copy This UGC Strategy, It'll Make Your App Go Viral
+### 32. Copy This UGC Strategy, It'll Make Your App Go Viral
 
 `55:08 | 2026-02-23 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/copy-this-ugc-strategy-itll-make-your-app-go-viral/transcript.md) · [YouTube](https://www.youtube.com/watch?v=RVnnqTrSKZY)
@@ -1000,7 +1013,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`50:03`](https://www.youtube.com/watch?v=RVnnqTrSKZY&t=3003s) The Leap: Quitting Big Tech to go all-in on an idea
 - [`54:10`](https://www.youtube.com/watch?v=RVnnqTrSKZY&t=3250s) Outro
 
-### 32. Full App Growth Guide 2026 - How to Make Viral Content to Get Users & Make Your App Retentive
+### 33. Full App Growth Guide 2026 - How to Make Viral Content to Get Users & Make Your App Retentive
 
 `1:00:10 | 2026-02-16 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/full-app-growth-guide-2026-how-to-make-viral-content-to-get-users-make-your-app-retentive/transcript.md) · [YouTube](https://www.youtube.com/watch?v=pb4JIH8FubE)
@@ -1024,7 +1037,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`46:58`](https://www.youtube.com/watch?v=pb4JIH8FubE&t=2818s) Deep dive into the VSC framework
 - [`56:09`](https://www.youtube.com/watch?v=pb4JIH8FubE&t=3369s) Networking: The "Small Ask" and "Give First" approach
 
-### 33. I made 4,000 app paywalls and learned this
+### 34. I made 4,000 app paywalls and learned this
 
 `56:50 | 2026-02-08 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/i-made-4000-app-paywalls-and-learned-this/transcript.md) · [YouTube](https://www.youtube.com/watch?v=lkwX_kc0NS8)
@@ -1045,7 +1058,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`46:40`](https://www.youtube.com/watch?v=lkwX_kc0NS8&t=2800s) When a native "Swift UI" look outperforms custom design
 - [`54:13`](https://www.youtube.com/watch?v=lkwX_kc0NS8&t=3253s) The best stage of growth to start AB testing paywalls
 
-### 34. this 14 yr old makes $100k/mo PROFIT building apps with ai (here's how)
+### 35. this 14 yr old makes $100k/mo PROFIT building apps with ai (here's how)
 
 `44:20 | 2026-02-01 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/this-14-yr-old-makes-100kmo-profit-building-apps-with-ai-heres-how/transcript.md) · [YouTube](https://www.youtube.com/watch?v=FIgn-1kbzZw)
@@ -1065,7 +1078,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`38:19`](https://www.youtube.com/watch?v=FIgn-1kbzZw&t=2299s) Aligning incentives through equity and partnership
 - [`43:56`](https://www.youtube.com/watch?v=FIgn-1kbzZw&t=2636s) Next Steps
 
-### 35. Meet The Guy Who Solved App Growth on TikTok
+### 36. Meet The Guy Who Solved App Growth on TikTok
 
 `39:09 | 2026-01-25 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/meet-the-guy-who-solved-app-growth-on-tiktok/transcript.md) · [YouTube](https://www.youtube.com/watch?v=_aNVPMvd8WU)
@@ -1087,7 +1100,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`36:44`](https://www.youtube.com/watch?v=_aNVPMvd8WU&t=2204s) Anyone can learn to go viral
 - [`38:46`](https://www.youtube.com/watch?v=_aNVPMvd8WU&t=2326s) Next Steps
 
-### 36. Meet The Guy Dominating The App Store
+### 37. Meet The Guy Dominating The App Store
 
 `54:09 | 2026-01-17 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/meet-the-guy-dominating-the-app-store/transcript.md) · [YouTube](https://www.youtube.com/watch?v=DcDOgWGh4bc)
@@ -1109,7 +1122,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`42:00`](https://www.youtube.com/watch?v=DcDOgWGh4bc&t=2520s) Flow app corporate wellness model
 - [`49:41`](https://www.youtube.com/watch?v=DcDOgWGh4bc&t=2981s) Flow app today + Next Steps
 
-### 37. The App Marketing Strategy No One Talks About
+### 38. The App Marketing Strategy No One Talks About
 
 `57:26 | 2026-01-11 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/the-app-marketing-strategy-no-one-talks-about/transcript.md) · [YouTube](https://www.youtube.com/watch?v=SyVVLbMgAXc)
@@ -1134,7 +1147,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`52:03`](https://www.youtube.com/watch?v=SyVVLbMgAXc&t=3123s) Why copywriting is the key lever
 - [`55:00`](https://www.youtube.com/watch?v=SyVVLbMgAXc&t=3300s) Closing thoughts and sign-off
 
-### 38. he had nothing.. until he built a stupid simple $30k/mo app with AI
+### 39. he had nothing.. until he built a stupid simple $30k/mo app with AI
 
 `55:41 | 2026-01-04 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/he-had-nothing-until-he-built-a-stupid-simple-30kmo-app-with-ai/transcript.md) · [YouTube](https://www.youtube.com/watch?v=CyaWU1qxQg4)
@@ -1156,7 +1169,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`51:01`](https://www.youtube.com/watch?v=CyaWU1qxQg4&t=3061s) The exact moment he quit his job (and why $20k/month)
 - [`55:18`](https://www.youtube.com/watch?v=CyaWU1qxQg4&t=3318s) Final thoughts & lessons learned
 
-### 39. He Went From Struggling to Make $1 From His App to Turning Down $1M
+### 40. He Went From Struggling to Make $1 From His App to Turning Down $1M
 
 `48:25 | 2025-12-21 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/he-went-from-struggling-to-make-1-from-his-app-to-turning-down-1m/transcript.md) · [YouTube](https://www.youtube.com/watch?v=CtqEbgutSb4)
@@ -1174,7 +1187,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`42:51`](https://www.youtube.com/watch?v=CtqEbgutSb4&t=2571s) Picking app ideas that actually make money
 - [`46:26`](https://www.youtube.com/watch?v=CtqEbgutSb4&t=2786s) Scaling with reinvestment and hiring
 
-### 40. This 23 Yr Old Genius Makes $1M/Year with No-Code Apps. Here's How
+### 41. This 23 Yr Old Genius Makes $1M/Year with No-Code Apps. Here's How
 
 `48:06 | 2025-12-17 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/this-23-yr-old-genius-makes-1myear-with-no-code-apps-heres-how/transcript.md) · [YouTube](https://www.youtube.com/watch?v=zpTXi8WxeM0)
@@ -1195,7 +1208,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`43:10`](https://www.youtube.com/watch?v=zpTXi8WxeM0&t=2590s) Sunk Cost Traps & When to Sell Apps
 - [`46:22`](https://www.youtube.com/watch?v=zpTXi8WxeM0&t=2782s) Daily Habits, Leverage & Founder Mindset
 
-### 41. How I Built the #1 App on The App Store (Twice)
+### 42. How I Built the #1 App on The App Store (Twice)
 
 `42:12 | 2025-12-06 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/how-i-built-the-1-app-on-the-app-store-twice/transcript.md) · [YouTube](https://www.youtube.com/watch?v=jZ1W85VdIBk)
@@ -1215,7 +1228,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`37:33`](https://www.youtube.com/watch?v=jZ1W85VdIBk&t=2253s) Advice for Consumer App Builders
 - [`40:52`](https://www.youtube.com/watch?v=jZ1W85VdIBk&t=2452s) Final Thoughts & Next Steps
 
-### 42. How I make $42k/mo passively with simple no-code apps (copy me)
+### 43. How I make $42k/mo passively with simple no-code apps (copy me)
 
 `1:02:39 | 2025-11-28 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/how-i-make-42kmo-passively-with-simple-no-code-apps-copy-me/transcript.md) · [YouTube](https://www.youtube.com/watch?v=CAi50V_eIRA)
@@ -1230,7 +1243,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`41:02`](https://www.youtube.com/watch?v=CAi50V_eIRA&t=2462s) Scaling with TikTok slideshows, Noise & UGC
 - [`53:58`](https://www.youtube.com/watch?v=CAi50V_eIRA&t=3238s) Community, learning from others & closing remarks
 
-### 43. Our app makes $750k/mo thanks to this UGC strategy
+### 44. Our app makes $750k/mo thanks to this UGC strategy
 
 `57:05 | 2025-11-23 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/our-app-makes-750kmo-thanks-to-this-ugc-strategy/transcript.md) · [YouTube](https://www.youtube.com/watch?v=Ca_VnMTosRo)
@@ -1251,7 +1264,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`55:02`](https://www.youtube.com/watch?v=Ca_VnMTosRo&t=3302s) How the acquisition process felt for Matt
 - [`56:36`](https://www.youtube.com/watch?v=Ca_VnMTosRo&t=3396s) Next Steps
 
-### 44. He went from 0 to $150k by building an ai fashion app (no-code)
+### 45. He went from 0 to $150k by building an ai fashion app (no-code)
 
 `32:12 | 2025-11-21 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/he-went-from-0-to-150k-by-building-an-ai-fashion-app-no-code/transcript.md) · [YouTube](https://www.youtube.com/watch?v=9655E10fxsk)
@@ -1268,7 +1281,7 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`25:52`](https://www.youtube.com/watch?v=9655E10fxsk&t=1552s) How to copy this creator-led model in other niches
 - [`30:39`](https://www.youtube.com/watch?v=9655E10fxsk&t=1839s) Reid’s mindset, product-market-fit journey & next steps
 
-### 45. Our No-Code Apps Made $50M Using THIS Paywall
+### 46. Our No-Code Apps Made $50M Using THIS Paywall
 
 `43:03 | 2025-11-16 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/our-no-code-apps-made-50m-using-this-paywall/transcript.md) · [YouTube](https://www.youtube.com/watch?v=24QMRDXck70)
@@ -1294,105 +1307,105 @@ _42/60 video có chapters. Bấm timestamp để nhảy thẳng tới đoạn đ
 - [`40:46`](https://www.youtube.com/watch?v=24QMRDXck70&t=2446s) Must-have paywall placements and quick wins for new apps
 - [`42:29`](https://www.youtube.com/watch?v=24QMRDXck70&t=2549s) Outro - Next Steps
 
-### 46. this ai study app makes $100k/mo. here's how (no-code)
+### 47. this ai study app makes $100k/mo. here's how (no-code)
 
 `25:44 | 2025-11-02 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/this-ai-study-app-makes-100kmo-heres-how-no-code/transcript.md) · [YouTube](https://www.youtube.com/watch?v=zdbimhZjm7k)
 
 - _(video này không có chapters)_
 
-### 47. He made $2.2M from building simple apps. Here's how (no-code)
+### 48. He made $2.2M from building simple apps. Here's how (no-code)
 
 `33:02 | 2025-10-26 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/he-made-22m-from-building-simple-apps-heres-how-no-code/transcript.md) · [YouTube](https://www.youtube.com/watch?v=2cDIFx4WWD0)
 
 - _(video này không có chapters)_
 
-### 48. Copy This Growth Strategy, It'll Blow Up Your App
+### 49. Copy This Growth Strategy, It'll Blow Up Your App
 
 `26:26 | 2025-10-22 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/copy-this-growth-strategy-itll-blow-up-your-app/transcript.md) · [YouTube](https://www.youtube.com/watch?v=D7eaHcznLZU)
 
 - _(video này không có chapters)_
 
-### 49. Our App Makes $30K/Month Profit Using This Simple Strategy (copy us)
+### 50. Our App Makes $30K/Month Profit Using This Simple Strategy (copy us)
 
 `1:05:52 | 2025-10-18 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/our-app-makes-30kmonth-profit-using-this-simple-strategy-copy-us/transcript.md) · [YouTube](https://www.youtube.com/watch?v=PdudtXwEsOQ)
 
 - _(video này không có chapters)_
 
-### 50. How to Make Viral Content 100% Using AI in 2025
+### 51. How to Make Viral Content 100% Using AI in 2025
 
 `27:59 | 2025-10-09 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/how-to-make-viral-content-100-using-ai-in-2025/transcript.md) · [YouTube](https://www.youtube.com/watch?v=kMO0VYTBC7U)
 
 - _(video này không có chapters)_
 
-### 51. He Built a Simple $120k/Yr App, Then Sold It For Multiple 6 Figures!
+### 52. He Built a Simple $120k/Yr App, Then Sold It For Multiple 6 Figures!
 
 `23:45 | 2025-09-28 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code · Buy / Sell / Exit`  
 [transcript](./superwall/he-built-a-simple-120kyr-app-then-sold-it-for-multiple-6-figures/transcript.md) · [YouTube](https://www.youtube.com/watch?v=NmIHgCRd04E)
 
 - _(video này không có chapters)_
 
-### 52. This 20yr old girl is a marketing genius…
+### 53. This 20yr old girl is a marketing genius…
 
 `23:27 | 2025-09-14 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/this-20yr-old-girl-is-a-marketing-genius/transcript.md) · [YouTube](https://www.youtube.com/watch?v=MsJNJfFeOCg)
 
 - _(video này không có chapters)_
 
-### 53. I Built a $30k/mo App That Helps You Quit Smoking
+### 54. I Built a $30k/mo App That Helps You Quit Smoking
 
 `32:14 | 2025-08-28 | Paywall & Monetization · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/i-built-a-30kmo-app-that-helps-you-quit-smoking/transcript.md) · [YouTube](https://www.youtube.com/watch?v=cYcU4_HQdIk)
 
 - _(video này không có chapters)_
 
-### 54. My App Makes $600k/Year Using This Easy Growth Strategy (copy me)
+### 55. My App Makes $600k/Year Using This Easy Growth Strategy (copy me)
 
 `55:05 | 2025-08-15 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/my-app-makes-600kyear-using-this-easy-growth-strategy-copy-me/transcript.md) · [YouTube](https://www.youtube.com/watch?v=si3HzkBTPl4)
 
 - _(video này không có chapters)_
 
-### 55. This app makes $2m/year using this ridiculously easy strategy
+### 56. This app makes $2m/year using this ridiculously easy strategy
 
 `32:31 | 2025-08-03 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/this-app-makes-2myear-using-this-ridiculously-easy-strategy/transcript.md) · [YouTube](https://www.youtube.com/watch?v=r_JUxa3RZgM)
 
 - _(video này không có chapters)_
 
-### 56. Meet The Guy Who Solved Growing Apps (Hunter Isaacson Interview)
+### 57. Meet The Guy Who Solved Growing Apps (Hunter Isaacson Interview)
 
 `29:49 | 2025-07-25 | Paywall & Monetization · UGC & Content · Paid Ads · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/meet-the-guy-who-solved-growing-apps-hunter-isaacson-interview/transcript.md) · [YouTube](https://www.youtube.com/watch?v=DTree0unT_0)
 
 - _(video này không có chapters)_
 
-### 57. The Secret Behind Weirdly Viral Apps
+### 58. The Secret Behind Weirdly Viral Apps
 
 `44:30 | 2025-07-17 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/the-secret-behind-weirdly-viral-apps/transcript.md) · [YouTube](https://www.youtube.com/watch?v=_a4ch3pk_U0)
 
 - _(video này không có chapters)_
 
-### 58. This App Makes $2M/Year With This Viral TikTok Strategy
+### 59. This App Makes $2M/Year With This Viral TikTok Strategy
 
 `45:03 | 2025-07-07 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/this-app-makes-2myear-with-this-viral-tiktok-strategy/transcript.md) · [YouTube](https://www.youtube.com/watch?v=AtYlYzw40vo)
 
 - _(video này không có chapters)_
 
-### 59. How I Grow Viral Apps to 1M+ Downloads (just copy me)
+### 60. How I Grow Viral Apps to 1M+ Downloads (just copy me)
 
 `38:33 | 2025-06-23 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/how-i-grow-viral-apps-to-1m-downloads-just-copy-me/transcript.md) · [YouTube](https://www.youtube.com/watch?v=lXGmWdFLsuM)
 
 - _(video này không có chapters)_
 
-### 60. The Secrets of Consumer Club: Insights from Joseph Choi - Superwall Podcast
+### 61. The Secrets of Consumer Club: Insights from Joseph Choi - Superwall Podcast
 
 `1:31:54 | 2025-04-04 | Paywall & Monetization · UGC & Content · Growth & ASO · Build & No-Code`  
 [transcript](./superwall/the-secrets-of-consumer-club-insights-from-joseph-choi-superwall-podcast/transcript.md) · [YouTube](https://www.youtube.com/watch?v=_9agAuKOOPg)

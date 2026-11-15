@@ -1,6 +1,6 @@
 # Starter Story — dữ liệu gốc YouTube
 
-> 199 video · 50.1 giờ · 48.3 triệu lượt xem · kênh [@starterstory](https://www.youtube.com/@starterstory)
+> 200 video · 50.4 giờ · 48.3 triệu lượt xem · kênh [@starterstory](https://www.youtube.com/@starterstory) (+1 video kênh phụ [@StarterStoryBuild](https://www.youtube.com/@StarterStoryBuild))
 
 Chỉ giữ dữ liệu gốc lấy từ YouTube. Phần phân tích cũ (`case.md`, playbooks, `index.md`, `data/cases.csv`, web app, script) đã gỡ ngày 15/11/2026, lấy lại trong git commit `34ce9c8`.
 
@@ -10,7 +10,7 @@ Chỉ giữ dữ liệu gốc lấy từ YouTube. Phần phân tích cũ (`case.
 starter-story-kb/
 ├── README.md                 ← file này (mục lục video)
 ├── videos/<ngày>_<tiêu-đề>/
-│   ├── transcript.md         ← transcript có timestamp + mô tả gốc + chapters
+│   ├── transcript.md         ← transcript có timestamp + mô tả gốc + chapters (video mới: lấy qua bảng chép lời trên Chrome)
 │   ├── meta.json             ← metadata gốc (yt-dlp): views, likes, chapters, tags...
 │   └── screenshots/          ← ảnh 720p theo chapter (181 video đầu; video thêm sau không có)
 ├── _raw/
@@ -32,6 +32,7 @@ duckdb -c "SELECT title, upload_date, view_count::INT AS views FROM read_json_au
 | 08/11/2026 | [How I Made $1M Building 30 Micro-Apps](videos/2026-11-08_how-i-made-1m-building-30-micro-apps/transcript.md) | 16:53 | 74,973 |  |  | [▶](https://www.youtube.com/watch?v=X2T92MVx7xs) |
 | 04/11/2026 | [I turned a viral idea into a $25K/month app](videos/2026-11-04_i-turned-a-viral-idea-into-a-25k-month-app/transcript.md) | 12:04 | 48,512 |  |  | [▶](https://www.youtube.com/watch?v=KgS3hbpxTzE) |
 | 01/11/2026 | [How I Built It: $400K/Month iOS App](videos/2026-11-01_how-i-built-it-400k-month-ios-app/transcript.md) | 12:23 | 170,099 |  |  | [▶](https://www.youtube.com/watch?v=hnxn16HtLIk) |
+| 29/10/2026 | [We Built a $2M App: This is How We Grew It _(Starter Story Build)_](videos/2026-10-29_we-built-a-2m-app-this-is-how-we-grew-it/transcript.md) | 20:15 | 78,767 |  |  | [▶](https://www.youtube.com/watch?v=N2oWiwbBnmQ) |
 | 28/10/2026 | [I Make $30K/Month From the Most Boring Website on the Internet](videos/2026-10-28_i-make-30k-month-from-the-most-boring-website-on-the/transcript.md) | 13:07 | 215,329 |  |  | [▶](https://www.youtube.com/watch?v=pwvnH9S4j60) |
 | 25/10/2026 | [I Built a $10K/Month App in 88 Days](videos/2026-10-25_i-built-a-10k-month-app-in-88-days/transcript.md) | 18:45 | 50,679 |  |  | [▶](https://www.youtube.com/watch?v=g9J_-5w9Nrs) |
 | 21/10/2026 | [I quit my job to build this micro-saas. Now it makes $30K/month](videos/2026-10-21_i-quit-my-job-to-build-this-micro-saas-now-it-makes/transcript.md) | 15:58 | 147,610 |  |  | [▶](https://www.youtube.com/watch?v=RSlhgyAXsBI) |
