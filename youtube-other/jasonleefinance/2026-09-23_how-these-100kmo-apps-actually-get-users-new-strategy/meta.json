@@ -1,0 +1,77 @@
+{
+  "videoId": "qGIWJBw1dyU",
+  "title": "How these $100K/mo apps actually get users (New Strategy)",
+  "channel": "Jason Lee",
+  "channelHandle": "@jasonleefinance",
+  "channelId": "UCSm7riYU-NTWWFlG9XJBcRA",
+  "description": "🎯 Get Arcads AI: https://go.heyjasonlee.com/arcads\n📂 Download the FREE Silent UGC skill: https://www.thebreadcrumb.co/resources/silent-ugc\n\n0:00 Intro\n0:52 The Problem\n1:52 Silent UGC\n4:10 Tools You Need\n5:35 Preparing References\n6:18 Cloning Repo\n9:52 Result\n10:10 Creating Multiple Videos at Once\n11:18 Results\n12:10 Caveats / Best Practices\n14:10 The Cost\n\nI used Claude Code and Seedance 2.5 to clone viral TikTok ads and market an app for 83 cents per video. This is called silent UGC, and it's the exact format apps making $100K to $300K per month are using to get users without hiring a single influencer. \n\nConnect with me: jasonlee.partners@gmail.com\n\n#claudecode #mobileappideas #startupideas",
+  "duration": 969,
+  "publishDate": "2026-09-23",
+  "viewCount": 178077,
+  "url": "https://www.youtube.com/watch?v=qGIWJBw1dyU",
+  "coverImage": "imgs/cover.jpg",
+  "thumbnailUrl": "https://i.ytimg.com/vi/qGIWJBw1dyU/maxresdefault.jpg",
+  "language": {
+    "code": "en",
+    "name": "English",
+    "isGenerated": true
+  },
+  "transcriptSource": "YouTube transcript panel via Chrome (segments ~8s), SHA-256 verified",
+  "chapters": [
+    {
+      "title": "Intro",
+      "start": 0,
+      "end": 52
+    },
+    {
+      "title": "The Problem",
+      "start": 52,
+      "end": 112
+    },
+    {
+      "title": "Silent UGC",
+      "start": 112,
+      "end": 250
+    },
+    {
+      "title": "Tools You Need",
+      "start": 250,
+      "end": 335
+    },
+    {
+      "title": "Preparing References",
+      "start": 335,
+      "end": 378
+    },
+    {
+      "title": "Cloning Repo",
+      "start": 378,
+      "end": 592
+    },
+    {
+      "title": "Result",
+      "start": 592,
+      "end": 610
+    },
+    {
+      "title": "Creating Multiple Videos at Once",
+      "start": 610,
+      "end": 678
+    },
+    {
+      "title": "Results",
+      "start": 678,
+      "end": 730
+    },
+    {
+      "title": "Caveats / Best Practices",
+      "start": 730,
+      "end": 850
+    },
+    {
+      "title": "The Cost",
+      "start": 850,
+      "end": 969
+    }
+  ]
+}

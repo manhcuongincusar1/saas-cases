@@ -1,0 +1,14 @@
+- {v: s9qQPM, ts: "00:46:33", who: "Morrie (Pingo)", use: "founder kể: đẩy gói năm vì LTV và ARPU cao hơn (mục con A)"}
+- {v: zFfBuy, ts: "00:44:16", who: "Kobe (Sunflower)", use: "founder kể: đặt điều mình muốn người dùng chọn làm mặc định, gói năm (mục con A)"}
+- {v: RSlhgy, ts: "08:51", who: "Charlie (Links)", use: "founder kể: chọn giá thấp để nhiều khách trả ít hơn là ít khách trả nhiều (mục con A)"}
+- {v: 3X4Vne, ts: "11:25", who: "Avneesh (Savewise)", use: "founder kể: lý do chuyển hướng bán gói trọn đời, khách ghét subscription (mục con B)"}
+- {v: DkmStH, ts: "10:16", who: "Umberto (Floga)", use: "founder kể: không hiện giá trước ngày launch lifetime để người ta không quyết theo giá (mục con B)"}
+- {v: hYW9YD, ts: "00:30", who: "Pat Walls", use: "lời khuyên của host: bootstrap thì đừng bắt đầu bằng subscription (mục con B, phản ví dụ cho paywall subscription)"}
+- {v: si3Hzk, ts: "00:24:12", who: "Peter (Stronger)", use: "founder kể: lý do chuyển sang hard paywall (mục con C)"}
+- {v: Y6Rstw, ts: "00:29:15", who: "Steve Young", use: "lời khuyên của expert: hard paywall như một phép thử product-market fit (mục con C)"}
+- {v: lkwX_k, ts: "00:12:57", who: "Jonathan Parra", use: "lời khuyên của expert (Superwall): có app người dùng trả ở gói tuần nhiều hơn so với gói năm (mục con C)"}
+- {v: cYcU4_, ts: "00:09:07", who: "Clear 30", use: "founder kể: phần lớn người dùng quyết định trả tiền trong 5 phút đầu, nên onboarding là việc chính (mục con D)"}
+- {v: CwHD6F, ts: "03:40", who: "Connor Burd (Payout)", use: "founder kể: đa số người dùng chỉ thấy onboarding nếu có phần bị khoá sau paywall (mục con D)"}
+- {v: 24QMRD, ts: "00:34:17", who: "Vahe Baghdasaryan", use: "lời khuyên của expert: chỉ giảm giá gói năm, không giảm gói tuần hoặc tháng (mục con E)"}
+- {v: lkwX_k, ts: "00:01:05", who: "Jonathan Parra", use: "lời khuyên của expert (Superwall): thiết kế và đóng gói giá là đòn bẩy lớn khi thử paywall (mục con F)"}
+- {v: Qh314M, ts: "00:07:51", who: "Joseph Choi", use: "lời khuyên của host: giữ lời hứa của video khi người dùng mở app, trước khi tối ưu paywall (mục con D)"}

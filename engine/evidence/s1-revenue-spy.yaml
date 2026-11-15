@@ -1,0 +1,271 @@
+- transcript: starter-story-kb/videos/2025-10-30_i-vibe-coded-a-12k-month-mobile-app-stoppr-breakdown/transcript.md
+  ts: 00:01:05
+  speaker: David
+  kind: result
+  case: 'Stopper (David Adias): clone Quitter, 5.000 USD tháng đầu, 12.000 USD/tháng sau 5 tháng'
+  what: 'Kết quả sau khi clone app: tháng đầu thu 5.000 USD, sau 5 tháng đạt 12.000 USD/tháng.'
+  text: My name is David. I made an app that makes $12,000 per month. I built that app 5 months ago, and
+    to fund the idea for my app, I cloned a very successful app, and first month of revenue, I made $5,000.
+- transcript: starter-story-kb/videos/2025-10-30_i-vibe-coded-a-12k-month-mobile-app-stoppr-breakdown/transcript.md
+  ts: 00:06:04
+  speaker: David
+  kind: tool
+  case: Stopper (David Adias)
+  what: Dùng Sensor Tower để xác nhận doanh thu MRR của app đối thủ trước khi clone.
+  text: To confirm the revenue, you have to go to Sensor Tower to have a sense of what the app is making
+    as a monthly recurring revenue.
+- transcript: starter-story-kb/videos/2025-10-30_i-vibe-coded-a-12k-month-mobile-app-stoppr-breakdown/transcript.md
+  ts: 00:08:10
+  speaker: David
+  kind: step
+  case: Stopper (David Adias)
+  what: 'Cách clone: copy gần như 1-1 từng màn hình của app đã thành công rồi đổi nội dung.'
+  text: Fastest way to make some money right now is to do one-to-one copy of a very successful app. And
+    when I say one-to-one copy, I mean like you copy each screen, you copy each word.
+- transcript: starter-story-kb/videos/2025-10-30_i-vibe-coded-a-12k-month-mobile-app-stoppr-breakdown/transcript.md
+  ts: 00:08:26
+  speaker: Pat Walls
+  kind: pitfall
+  case: Stopper (David Adias)
+  what: 'Host cảnh báo: được copy app nhưng không copy niche, tránh lấy khách của đối thủ.'
+  text: The only thing that I think that you shouldn't do is don't copy the niche. You don't want to go
+    and take their customers, take everything they did, and put it to a different niche.
+- transcript: starter-story-kb/videos/2025-11-09_i-flipped-4-apps-and-made-500-000/transcript.md
+  ts: 00:07:05
+  speaker: '?'
+  kind: step
+  case: Founder 4 app (Pray Screen), flip tổng 500.000 USD
+  what: 'Bước 1 tìm ý tưởng: xem top 1 từng category trên App Store, rồi tìm các app cùng làm việc đó
+    ở top 20.'
+  text: So, I'd say like step one is spotting trends in the App Store. And how you do that is actually
+    pretty simple. You just essentially go to the App Store and be able to see, okay, who is currently
+    number one in the different categories.
+- transcript: starter-story-kb/videos/2025-11-09_i-flipped-4-apps-and-made-500-000/transcript.md
+  ts: 00:07:21
+  speaker: '?'
+  kind: threshold
+  case: Founder 4 app (Pray Screen), ngưỡng 100K-500K MRR
+  what: 'Lọc bằng Sensor Tower: các app cùng ngách phải có doanh thu từ 100K đến 500K MRR thì mới đáng
+    làm.'
+  text: Then I go to Sensor Tower to be able to see, okay, what's actually the revenue numbers of each.
+    And if I see all of them are doing, you know, over 100k MRR or over 500k MRR, then I know, okay, cool,
+    there's something here for sure.
+- transcript: starter-story-kb/videos/2025-11-09_i-flipped-4-apps-and-made-500-000/transcript.md
+  ts: 00:10:32
+  speaker: '?'
+  kind: step
+  case: Founder 4 app (Pray Screen), mốc bán 10K-20K MRR
+  what: 'Chiến lược bán: đẩy app lên khoảng 10-20K MRR rồi mới tìm người mua, thay vì bán lúc đang yếu.'
+  text: For me, I love to get them to about 10k to 20k MRR before then looking for a buyer.
+- transcript: starter-story-kb/videos/2025-11-09_i-flipped-4-apps-and-made-500-000/transcript.md
+  ts: 00:11:04
+  speaker: '?'
+  kind: result
+  case: Founder 4 app (Pray Screen), định giá 2-4x EBITDA
+  what: Mức định giá khi bán app thường là khoảng 2-4 lần EBITDA, tuỳ người mua (ước lượng của founder,
+    không có số xác minh).
+  text: In terms of valuations, they vary depending on the buyer but I've seen between like two to four
+    X EBITDA I would say.
+- transcript: starter-story-kb/videos/2026-10-04_this-crazy-simple-app-makes-50k-month/transcript.md
+  ts: 05:31
+  speaker: Lino
+  kind: tool
+  case: Lino, app ~50K/tháng
+  what: Dùng Sensor Tower cho nghiên cứu đối thủ và ý tưởng.
+  text: I use Sensor Tower basically for competitor and idea research.
+- transcript: starter-story-kb/videos/2026-10-04_this-crazy-simple-app-makes-50k-month/transcript.md
+  ts: 08:49
+  speaker: Lino
+  kind: step
+  case: Lino, app ~50K/tháng
+  what: Tìm ngách nóng trên Sensor Tower; chỉ chọn ngách có nhiều app cùng đạt trên 10K/tháng.
+  text: Then, I would go on to Sensor Tower and start looking up some ideas you have for apps and start
+    trying to find the hot niche right now. The way to find this is by looking up potential app ideas
+    in there, and if there are a ton of apps in that niche consistently doing over 10k a month, then that's
+    a niche you want to build in.
+- transcript: starter-story-kb/videos/2026-07-19_this-stupidly-simple-app-makes-100k-month/transcript.md
+  ts: 04:40
+  speaker: '?'
+  kind: step
+  case: App dự đoán chiều cao (~100K/tháng); app tương tự rao bán khoảng 20.000 USD trên acquire.com
+  what: 'Tìm ý tưởng bằng cách xem listing trên acquire.com: app tương tự đã có người mua, nên coi là
+    đã được kiểm chứng.'
+  text: I first saw this idea when I was looking on website literally websites like acquire.com cuz I
+    was like I don't know any good ideas. I want to find a validated idea and I saw an app that's pretty
+    similar to this for sale for around $20,000.
+- transcript: starter-story-kb/videos/2026-07-19_this-stupidly-simple-app-makes-100k-month/transcript.md
+  ts: 06:42
+  speaker: '?'
+  kind: counterexample
+  case: Calorie tracker (đã có Cal AI)
+  what: 'Ví dụ ngược: ý tưởng đã có đối thủ mạnh vẫn có app đạt khoảng 30K/tháng, nên không bỏ ý tưởng
+    chỉ vì đã có người làm.'
+  text: Whereas even in today's age, like there's still calorie trackers doing 30K a month when you have
+    Cali. Like that does not make sense to me at all.
+- transcript: starter-story-kb/videos/2026-08-09_i-copied-a-huge-app-now-i-make-80k-month/transcript.md
+  ts: 04:06
+  speaker: '?'
+  kind: step
+  case: Cal AI bản địa hoá (Israel), ~80K/tháng
+  what: Chọn app đã chứng minh (Cal AI) rồi làm bản địa hoá cho một thị trường nhỏ hơn, thay vì ý tưởng
+    mới.
+  text: Although my original plan was to build something big for the US market, the chance to take a proven
+    winner and be the first to localize it to my local market was the simplest zero to one move for me,
+    the way I saw it.
+- transcript: starter-story-kb/videos/2026-08-09_i-copied-a-huge-app-now-i-make-80k-month/transcript.md
+  ts: 05:58
+  speaker: '?'
+  kind: pitfall
+  case: Cal AI bản địa hoá (Israel)
+  what: Clone sản phẩm thì dễ; khác biệt nằm ở thương hiệu và phân phối, không phải ở sản phẩm.
+  text: The real differentiation, and I want to be very clear about this because I think a lot of builders
+    are missing it, is the brand and distribution. Almost anyone can build an app with cursor in 2 weeks,
+    but I think about it like this.
+- transcript: starter-story-kb/videos/2026-08-09_i-copied-a-huge-app-now-i-make-80k-month/transcript.md
+  ts: 06:59
+  speaker: '?'
+  kind: result
+  case: Cal AI bản địa hoá (Israel), ~20K/tháng sau 4 tháng
+  what: 'Tăng trưởng bằng quảng cáo trả tiền dựa trên creative lấy từ nội dung viral của app tương tự:
+    đạt ~20K/tháng sau 4 tháng.'
+  text: I studied the most viral content from similar apps in the US and the most viral fitness and nutrition
+    content in Israel. Based on that, I created the creatives and I used them in the ad campaigns. That
+    got me to around 20K per month in 4 months.
+- transcript: starter-story-kb/videos/2025-10-19_i-found-a-business-for-sale-and-rebuilt-it-into-20k/transcript.md
+  ts: 00:01:02
+  speaker: Adrian
+  kind: step
+  case: 'Adrian: scraping API, ~20K/tháng'
+  what: 'Không tự nghĩ ý tưởng mới: copy một app đang kiếm tiền tìm được trên sàn môi giới business.'
+  text: Hey, my name is Adrian. I'm a soloreneur. I built a SAS to 20K a month. And I found this idea
+    not by coming up with something new, but rather I copied a successful app I found on an online business
+    brokerage and built it myself.
+- transcript: starter-story-kb/videos/2025-10-19_i-found-a-business-for-sale-and-rebuilt-it-into-20k/transcript.md
+  ts: 00:02:22
+  speaker: Adrian
+  kind: tool
+  case: Micro Acquire / Acquire.com, scraping API
+  what: Nguồn ý tưởng là listing bán business trên Micro Acquire / Acquire.com, do một follower gửi qua
+    Twitter.
+  text: One of my followers on Twitter actually DM'd me telling me to check out this listing for Micro
+    Acquire or Acquire.com. And it was a scraping API.
+- transcript: starter-story-kb/videos/2025-10-19_i-found-a-business-for-sale-and-rebuilt-it-into-20k/transcript.md
+  ts: 00:03:23
+  speaker: Adrian
+  kind: threshold
+  case: 'Scraping API được rao bán: 30K MRR, dưới 100 khách, chỉ có SEO'
+  what: 'Lý do chọn: nhẩm từ MRR 30K và dưới 100 khách hàng, thấy có thể làm được; số liệu do listing
+    cung cấp, chưa xác minh.'
+  text: they were doing 30,000 monthly recurring. They were around for 3 years, only got their customers
+    from SEO, and they had less than 100 customers. So doing that math in my head, I was like, I could
+    probably do that.
+- transcript: starter-story-kb/videos/2025-10-19_i-found-a-business-for-sale-and-rebuilt-it-into-20k/transcript.md
+  ts: 00:04:24
+  speaker: '?'
+  kind: pitfall
+  case: 'Adrian: scraping API, ~20K/tháng'
+  what: 'Cảnh báo của người phỏng vấn: clone được sản phẩm nhưng khó là lấy khách, tăng trưởng và scale.'
+  text: I think a lot of people watching this may be similar to you software developer. They have the
+    skills to build something like this. But the hard part is getting customers, growing, scaling this
+    and replicating what this business that you sort of cloned had already done.
+- transcript: superwall/youtube-transcript/superwall/172m-of-app-building-advice-in-50-minutes/transcript.md
+  ts: 00:00:00
+  speaker: '?'
+  kind: result
+  case: 'Waking Up (thiền): 25K downloads, hơn 1 triệu USD/tháng'
+  what: 'Soi Sensor Tower: 25K lượt tải/tháng nhưng doanh thu trên 1 triệu USD/tháng nhờ giá cao; lấy
+    làm ví dụ cho việc doanh thu không tỉ lệ với download.'
+  text: When I look on SensorTower, this app only gets around 25k downloads a month, but it's pumping
+    over a million dollars in revenue a month because it's charging at such a premium price point.
+- transcript: superwall/youtube-transcript/superwall/172m-of-app-building-advice-in-50-minutes/transcript.md
+  ts: 00:04:19
+  speaker: Josh
+  kind: step
+  case: 'Blue Throne (Josh): mua app đã có product-market fit'
+  what: 'Chiến lược của Blue Throne: mua các app đã đạt zero-to-one (có product-market fit) rồi scale,
+    thay vì tự build từ đầu.'
+  text: To find the apps that have done the zero to one, that have found product market fit, acquire them,
+    pay the premium for them because they have found product market fit, and scale them, and do that one
+    to 10.
+- transcript: superwall/youtube-transcript/superwall/172m-of-app-building-advice-in-50-minutes/transcript.md
+  ts: 00:13:13
+  speaker: Josh
+  kind: step
+  case: Blue Throne (Josh)
+  what: 'Ước lượng kích thước thị trường: chia thị trường theo category trên Sensor Tower rồi lấy top
+    performer, vì top 30 app thường chiếm phần lớn thị phần.'
+  text: Generally, what I'm doing is I'm I'm going on Sensor Tower and I'm essentially cutting markets
+    into like categories that that actually make logical sense, and I'm taking the top, you know, performers
+    and using that to size the markets up cuz often, you know, the top 30 apps are basically the majority
+    kind of the lion's share of the market.
+- transcript: superwall/youtube-transcript/superwall/beginners-guide-to-buying-selling-apps-2026/transcript.md
+  ts: 00:10:53
+  speaker: '?'
+  kind: step
+  case: Ngách painkiller (ví dụ Migraine Buddy ~50K/tháng)
+  what: Bắt đầu từ category, xếp theo RPI (revenue per install) để tìm category có chuyển đổi cao nhất.
+  text: I like to start off with the category. Figure out which categories have the highest like RPI,
+    revenue per install, right? And you really want to think through that.
+- transcript: superwall/youtube-transcript/superwall/beginners-guide-to-buying-selling-apps-2026/transcript.md
+  ts: 00:12:42
+  speaker: '?'
+  kind: threshold
+  case: Keyword migraine tracker (Migraine Buddy ~50K/tháng)
+  what: 'Ngưỡng cạnh tranh tự đánh giá: top 2-3 kết quả chỉ có 100+ reviews và ít người dùng keyword trong
+    title thì có thể vượt; không tin độ khó của công cụ ASO.'
+  text: Because if there's not a lot of people targeting that keyword in their title and the number two
+    or three apps only have a 100 plus reviews, then I know I could probably beat them.
+- transcript: superwall/youtube-transcript/superwall/beginners-guide-to-buying-selling-apps-2026/transcript.md
+  ts: 00:24:45
+  speaker: '?'
+  kind: tool
+  case: Keyword app ngách (ví dụ Insight Timer)
+  what: Khi thấy app top có ít rating mà vẫn đứng cao, dùng Sensor Tower để xem họ có chạy quảng cáo ở
+    đâu, từ đó đoán vì sao họ đứng top.
+  text: I mean you can look that up right like through sensor tower. You can be like are they advertising
+    anywhere?
+- transcript: starter-story-kb/videos/2024-09-24_how-i-built-it-40k-month-iphone-app/transcript.md
+  ts: 00:04:11
+  speaker: '?'
+  kind: tool
+  case: Puff Count (app bỏ thuốc lá/vape)
+  what: 'Validate ý tưởng: xem Sensor Tower các app cai thuốc/cai rượu đang làm tốt, kết hợp Google Trends
+    và TikTok.'
+  text: I did market research I looked at sensor Tower looked at other you know quit drinking or quit
+    smoking cigarettes apps and I saw that they were crushing it looked at Google Trends saw that vaping
+    was on the rise
+- transcript: starter-story-kb/videos/2024-09-24_how-i-built-it-40k-month-iphone-app/transcript.md
+  ts: 00:05:15
+  speaker: '?'
+  kind: step
+  case: Puff Count (app bỏ thuốc lá/vape)
+  what: Khi đã có đối thủ kiếm tiền trong ngách, ghi lại tính năng, onboarding và UI của họ làm khung
+    cho app mình.
+  text: and you're seeing who's making money in your niche in the Market On the App Store you should be
+    taking note of everything their features their onboarding their UI
+- transcript: superwall/youtube-transcript/superwall/i-speedran-a-new-app-from-0-to-2myear-in-6-months-heres-how/transcript.md
+  ts: 00:02:12
+  speaker: '?'
+  kind: step
+  case: Sway AI, 2M ARR sau 6 tháng
+  what: Chọn ngách (hẹn hò) vì thấy app cùng ngách tăng trưởng nhanh và có doanh thu cao; các ý tưởng
+    tài chính cá nhân khó kiếm tiền hơn.
+  text: I think the idea for that was like based off of I guess one like seeing other apps in this niche
+    growing pretty quickly.
+- transcript: superwall/youtube-transcript/superwall/i-speedran-a-new-app-from-0-to-2myear-in-6-months-heres-how/transcript.md
+  ts: 00:02:59
+  speaker: '?'
+  kind: pitfall
+  case: Sway AI, 2M ARR sau 6 tháng
+  what: Ngách đã có quá nhiều clone khi họ bắt đầu, nên họ chọn hướng khác biệt thay vì copy y hệt.
+  text: By the time we had started working on this, there was already so many clones.
+- transcript: starter-story-kb/videos/2025-07-26_i-cloned-3-apps-and-now-make-35k-month/transcript.md
+  ts: 00:11:11
+  speaker: '?'
+  kind: step
+  case: Founder clone 3 app (khoảng 35K/tháng)
+  what: 'Không cần sáng tạo: tìm thứ đang hiệu quả trong cộng đồng, forum, clone ý tưởng, build MVP trong
+    2 tuần rồi chạy ads ngay.'
+  text: You just need to see what is working on ex in communities, on forums, and build your own alternative,
+    your own version of a product. If you like the product and see that it's working, just clone the idea,
+    build an MVP in two weeks and launch ads immediately.

@@ -1,3 +1,12 @@
 .DS_Store
 __pycache__/
 *.pyc
+
+# Private product code lives in its own private repo (github.com/manhcuongincusar1/quiltkit)
+product-1k/
+
+# Private: $10k MRR plan + code (own local repo, not pushed)
+product-10k/
+
+# Private: second $1k MRR product (Hairmint), own local repo, not pushed
+product-1k-2/

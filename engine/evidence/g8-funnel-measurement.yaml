@@ -1,0 +1,99 @@
+- transcript: starter-story-kb/videos/2025-09-20_the-1m-mobile-app-playbook/transcript.md
+  ts: '17:46'
+  speaker: Steven
+  kind: quote
+  case: ''
+  what: 'founder kể: coi mỗi bước là một phễu và tối ưu từ trên xuống'
+  text: Everything is a funnel.
+- transcript: starter-story-kb/videos/2026-10-25_i-built-a-10k-month-app-in-88-days/transcript.md
+  ts: '10:29'
+  speaker: Frederick
+  kind: quote
+  case: ''
+  what: 'founder kể: nhắm hoà vốn ngay ở giao dịch đầu khi tính P&L từng khách'
+  text: I'd recommend aiming for profitability on the initial transactions alone.
+- transcript: starter-story-kb/videos/2026-10-25_i-built-a-10k-month-app-in-88-days/transcript.md
+  ts: '12:40'
+  speaker: Frederick
+  kind: quote
+  case: ''
+  what: 'bẫy: quảng cáo cần tiền trước, vài tuần đầu của founder này chưa có lãi'
+  text: Paid ads take a lot of money upfront. I was not profitable for the first like couple of weeks.
+    You need to have a little bit of risk tolerance when you're going into it because you might not see
+    profit at all.
+- transcript: starter-story-kb/videos/2026-09-09_how-i-built-this-160k-month-gym-app/transcript.md
+  ts: '12:27'
+  speaker: Mauro
+  kind: quote
+  case: ''
+  what: 'founder kể: thêm một màn hình ở cuối onboarding, retention tăng 3% nhờ A/B test'
+  text: It increased 3% retention adding one screen. That is why you have to AB test everything.
+- transcript: superwall/youtube-transcript/superwall/full-app-growth-guide-2026-how-to-make-viral-content-to-get-users-make-your-app-retentive/transcript.md
+  ts: 00:52:39
+  speaker: An
+  kind: quote
+  case: ''
+  what: 'founder kể: lượt xem không có nghĩa nếu video không đưa tới chuyển đổi'
+  text: I realized that views don't matter if your product if your videos don't convert.
+- transcript: superwall/youtube-transcript/superwall/the-14-year-old-who-built-a-14kmonth-ai-app/transcript.md
+  ts: 00:19:03
+  speaker: Evan Yadegari
+  kind: quote
+  case: ''
+  what: 'founder kể: từng chỉ để ý follower và lượt xem, sau coi là sai lầm lớn'
+  text: I would just care about followers and views, but in reality, that's a huge mistake.
+- transcript: starter-story-kb/videos/2026-04-05_how-this-app-makes-35k-month/transcript.md
+  ts: 06:00
+  speaker: Flo
+  kind: quote
+  case: ''
+  what: 'founder kể: ít video nhiều view nhưng số đó chuyển đổi khá cao'
+  text: We don't get millions of views mostly, but those that we get, they do convert at a fairly high
+    rate.
+- transcript: superwall/youtube-transcript/superwall/how-i-built-a-500kmo-ai-app-so-you-can-just-copy-me/transcript.md
+  ts: 00:24:44
+  speaker: Morrie
+  kind: quote
+  case: ''
+  what: 'founder kể: 20-30% creator đứng đầu tạo phần lớn lượt xem, phần cuối là tiền chi bỏ đi'
+  text: The top 20-30% of creators are doing most of the views. The bottom percent are doing none of them
+    and they're kind of dead spend.
+- transcript: starter-story-kb/videos/2025-11-18_how-we-built-it-30k-month-mobile-app/transcript.md
+  ts: 06:04
+  speaker: Eyal Hazan hoặc Yahli Hazan
+  kind: quote
+  case: ''
+  what: 'founder kể: đọc analytics và nói chuyện với người dùng để thấy chỗ hành vi không khớp thiết kế'
+  text: Using analytics platforms like Posthog and simply talking to enough users, you see that there
+    is a pattern of human behavior that doesn't align with how the app is designed.
+- transcript: starter-story-kb/videos/2026-07-05_this-insanely-simple-app-makes-50k-month/transcript.md
+  ts: '14:59'
+  speaker: Jake
+  kind: quote
+  case: ''
+  what: 'ý kiến ngược của founder: chỉ tập trung đầu phễu, vì marketing là kỹ năng đáng giá nhất lúc này'
+  text: Focus on top of funnel only. That is the most valuable skill right now is marketing.
+- transcript: superwall/youtube-transcript/superwall/1-ugc-expert-reveals-how-to-market-consumer-apps/transcript.md
+  ts: 00:00:17
+  speaker: Nick Lawton
+  kind: rule
+  case: ''
+  what: 'lời của expert (bán nền tảng UGC): UGC tạo bằng AI nhiều view nhưng chuyển đổi kém'
+  text: AI UGC, great for vanity views, terrible for conversions at the end of the day. I've not seen
+    it convert.
+- transcript: superwall/youtube-transcript/superwall/if-i-had-to-start-a-1m-app-from-scratch-id-do-this/transcript.md
+  ts: 00:07:41
+  speaker: Joseph Choi
+  kind: rule
+  case: ''
+  what: 'lời khuyên của host: creator nhiều view mà không có người trả tiền thì đừng chi thêm'
+  text: However, if one creator is getting a lot of views, but I'm not getting any paying users, there's
+    no point in spending money there.
+- transcript: superwall/youtube-transcript/superwall/the-1-billion-views-content-strategy-every-app-should-steal-in-2026/transcript.md
+  ts: 00:43:17
+  speaker: Dawson Gibbs
+  kind: rule
+  case: ''
+  what: 'ngưỡng của expert (chủ agency UGC): khi nào bảo creator đăng lại video'
+  text: Whenever a video gets like 10,000 to 20,000 views and it has an engagement rate of like at least
+    3%, we will then tell those creators to double down and repost that same video

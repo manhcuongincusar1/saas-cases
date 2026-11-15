@@ -1,0 +1,220 @@
+- transcript: starter-story-kb/videos/2025-08-31_this-app-made-over-1m/transcript.md
+  ts: 00:02:07
+  speaker: '?'
+  kind: step
+  case: Rooted (app hỗ trợ panic attack), 'made over 1M'
+  what: Founder đọc review của các app đối thủ, thấy một khoảng trống chung (chưa có nội dung nhận diện
+    và xử lý panic attack) rồi làm MVP lấp khoảng trống đó.
+  text: So my idea at the time was to download and try existing apps. And uh I noticed a common theme
+    in the user reviews that there was this gap when it came to identifying what a panic attack is and
+    also solutions for how to
+- transcript: starter-story-kb/videos/2025-08-31_this-app-made-over-1m/transcript.md
+  ts: 00:09:44
+  speaker: '?'
+  kind: step
+  case: Rooted (app hỗ trợ panic attack), 'made over 1M'
+  what: Founder khuyên bước 2 là lắng nghe user, coi user review là nguồn thông tin quan trọng nhất và
+    hơn giả định của mình về việc user cần gì.
+  text: Step two, listen to your users. So user reviews are super important. Oftentimes everything you
+    need to know is written in the user reviews and sometimes your own assumption of what a user needs
+    might not actually be what they do need.
+- transcript: starter-story-kb/videos/2025-08-31_this-app-made-over-1m/transcript.md
+  ts: 00:10:32
+  speaker: '?'
+  kind: result
+  case: Rooted (app hỗ trợ panic attack), rating 4.8/5
+  what: 'Founder coi rating và user review là chỉ số quan trọng nhất (hơn doanh thu) và cho rằng việc
+    theo dõi review là lý do app tăng trưởng; con số: giữ rating 4.8.'
+  text: Well, for me, and I think especially being in the mental health space, it's been about user reviews.
+    So, our rating, we've been able to maintain a 4.8 out of five rating.
+- transcript: starter-story-kb/videos/2026-05-24_i-built-a-30k-month-in-35-days/transcript.md
+  ts: 09:02
+  speaker: '?'
+  kind: step
+  case: App peptide/GLP, 30K/tháng sau 35 ngày
+  what: Sau khi tìm app đã có trên thị trường để xác nhận nhu cầu, bước tiếp theo là đọc từng review của
+    các app đó để tìm ý tưởng.
+  text: Uh next step is what I would do is look for these other apps and come up with ideas off of it.
+    I would literally go through every single review on all these apps.
+- transcript: starter-story-kb/videos/2026-05-24_i-built-a-30k-month-in-35-days/transcript.md
+  ts: 09:19
+  speaker: '?'
+  kind: tool
+  case: App peptide/GLP, 30K/tháng sau 35 ngày
+  what: Gom review của đối thủ (điều người ta thích, không thích, ước có gì) rồi đưa cho Claude hoặc ChatGPT
+    để sinh ý tưởng app làm nền tảng.
+  text: Um like I said before, find what people like, what they don't like, what they wish the app had,
+    and then take all that and give it to Claude or ChatGPT and have them come up with your app idea so
+    that you have at least a foundation of what you want to build.
+- transcript: starter-story-kb/videos/2026-05-24_i-built-a-30k-month-in-35-days/transcript.md
+  ts: 09:34
+  speaker: '?'
+  kind: result
+  case: Founder khác rebrand app; tăng trưởng ~350% (con số không chắc chắn, người nói dùng 'or something
+    like that')
+  what: Một founder gom review, lý do hủy trên Stripe và yêu cầu hỗ trợ, đưa vào Claude để rebrand app;
+    sau rebrand tăng khoảng 350%.
+  text: they took all their reviews, they took all their cancellation reasons in stripe, they took all
+    their support requests, they pumped it into Claude and they completely rebranded their app and then
+    after the rebrand they grew like 350% or something like that.
+- transcript: starter-story-kb/videos/2026-02-05_i-make-16k-month-even-in-a-tiny-niche/transcript.md
+  ts: 00:10:02
+  speaker: '?'
+  kind: step
+  case: App ngách hẹp, 16K/tháng
+  what: 'Bước 2: đọc G2 review của sản phẩm hiện có, xem video YouTube về nó, ghi lại pain point và điều
+    người ta không thích ở công cụ.'
+  text: Second step is Google what already exists on the market. Research their G2 reviews, maybe Absumo
+    reviews, Capterara. If there are any YouTube videos, watch every single one of them and understand
+    what are the pain points, what people say they [music] don't like about the tool, etc.
+- transcript: starter-story-kb/videos/2026-02-11_how-i-built-a-12k-month-micro-saas/transcript.md
+  ts: 00:07:02
+  speaker: Bikash
+  kind: step
+  case: Bikash, micro SaaS 12K/tháng
+  what: 'Touchpoint 1 của hệ thu thập nỗi đau: vào các cộng đồng khách hàng hay tụ tập, đọc thầm, lập
+    danh sách và tìm nỗi đau lặp lại hằng ngày.'
+  text: I silently go there and I read through those conversation. I make a list and see if there's a
+    pain that is being repeated day after day.
+- transcript: starter-story-kb/videos/2026-02-11_how-i-built-a-12k-month-micro-saas/transcript.md
+  ts: 00:08:19
+  speaker: Bikash
+  kind: threshold
+  case: Bikash, micro SaaS 12K/tháng
+  what: 'Touchpoint 4: tìm video trong ngách có ít view nhưng nhiều comment; số comment cao là tín hiệu
+    nỗi đau chưa được giải quyết, rồi liệt kê các phản đối của khách.'
+  text: And the fourth touchpoint for harvesting customer pain is YouTube comments. I go to my niche,
+    find out videos that has not high views but high number of comments. High comments signals customer
+    pain which is unresolved and then make a list of all the objections that the customers have
+- transcript: superwall/youtube-transcript/superwall/he-made-22m-from-building-simple-apps-heres-how-no-code/transcript.md
+  ts: 00:28:09
+  speaker: '?'
+  kind: result
+  case: Shepherd (app Kinh Thánh, nhóm Spot and Prod), 22M
+  what: Tính năng AI chat bị phản đối trong Discord (cộng đồng khoảng 10.000 thành viên), founder bỏ tính
+    năng và thay bằng tính năng devotional không dùng chữ AI.
+  text: We had like an AI chat feature we added to the app very briefly and we had like some backlash
+    in our Discord.
+- transcript: superwall/youtube-transcript/superwall/he-made-22m-from-building-simple-apps-heres-how-no-code/transcript.md
+  ts: 00:28:09
+  speaker: '?'
+  kind: step
+  case: Shepherd (app Kinh Thánh, nhóm Spot and Prod), 22M
+  what: 'Nguyên tắc: nếu phản đối trong cộng đồng là một chủ đề lặp lại thì phải lắng nghe user, vì họ
+    là người app được xây cho.'
+  text: I would say always listen to your user especially if it's like a common theme throughout your
+    community. You should always be listening to your user because they're the ones that you're building
+    for.
+- transcript: superwall/youtube-transcript/superwall/i-speedran-an-ai-app-to-100k-in-70-days/transcript.md
+  ts: 00:34:01
+  speaker: '?'
+  kind: step
+  case: App peptide/GLP, 100K trong 70 ngày
+  what: 'Thu feedback từ nhiều kênh hằng tuần: email, review trong app, tin nhắn Instagram/TikTok DM,
+    và nói chuyện với creator.'
+  text: Uh there's a thing in the app, you know, where they can do that. We get emails. We go through
+    all our reviews. We get Instagram messages, TikTok DMs. Um we talk to all our creators.
+- transcript: superwall/youtube-transcript/superwall/i-speedran-an-ai-app-to-100k-in-70-days/transcript.md
+  ts: 00:34:14
+  speaker: '?'
+  kind: step
+  case: App peptide/GLP, 100K trong 70 ngày; cập nhật 2-3 lần/tuần
+  what: Mời user gọi video để xem họ thích gì, không thích gì, muốn cải thiện gì, rồi đưa vào app; đội
+    ngũ phát hành 2-3 bản cập nhật mỗi tuần.
+  text: We'll walk through the app with them, see what they like, what they don't like, what they think
+    could be better, and then we'll take that feedback and, you know, add to the app.
+- transcript: superwall/youtube-transcript/superwall/if-i-had-to-start-a-1m-app-from-scratch-id-do-this/transcript.md
+  ts: 00:04:09
+  speaker: '?'
+  kind: step
+  case: Video 'If I had to start a 1M app from scratch' (Superwall)
+  what: 'Dùng bình luận dưới nội dung trước khi có app: bình luận cho biết trải nghiệm thật của người
+    xem, dùng để sửa app và chọn marketing.'
+  text: And that is what gets people talking in the comments. And if you get that feedback from the comments,
+    that information is literally gold because it tells me firsthand about the experiences of people and
+    how I can make the app better for the users and how I can do the marketing that will get the most
+    views, get the most downloads.
+- transcript: superwall/youtube-transcript/superwall/the-secrets-of-consumer-club-insights-from-joseph-choi-superwall-podcast/transcript.md
+  ts: 00:04:19
+  speaker: Joseph Choi
+  kind: step
+  case: Joseph Choi / Consumer Club (podcast Superwall)
+  what: 'Xem TikTok để biết thị trường muốn gì: nội dung người ta tiêu thụ cho thấy nỗi đau và điều người
+    ta hay nói về.'
+  text: It's really just like start with the market. Like understand what does the market want? And one
+    way to do that is to look at TikTok and see what people are like what content are people consuming
+    cuz that's an insight into like what are the pain points, what do people talk about?
+- transcript: starter-story-kb/videos/2026-11-04_i-turned-a-viral-idea-into-a-25k-month-app/transcript.md
+  ts: 08:13
+  speaker: '?'
+  kind: step
+  case: Canary (app học ngoại ngữ qua lời bài hát), 25K/tháng
+  what: Tìm ý tưởng app bằng cách xem người ta phàn nàn hoặc đang vật lộn với điều gì trên mạng xã hội
+    (ví dụ người theo dõi không nhớ gì sau khi học Duolingo).
+  text: do a product for and you can see what people complain about or what they're struggling with.
+- transcript: starter-story-kb/videos/2025-10-01_my-two-apps-made-30m/transcript.md
+  ts: 00:04:23
+  speaker: '?'
+  kind: step
+  case: Signature League (1,6 triệu user) và một app DocuSign-like, 2 công ty ~30M
+  what: 'Tạo điểm khác biệt: đọc review 1 và 2 sao của các đối thủ lớn để xem họ phàn nàn gì, rồi làm
+    đúng điều đó vì đó là khách dễ chốt nhất.'
+  text: So, go look at the one and two star reviews and see what people are complaining about. See what
+    they dislike about the best players in the market. That's our twist. Our twist is what people dislike
+    about the biggest companies in the space because those are the easiest customers to go after and acquire.
+- transcript: starter-story-kb/videos/2026-07-26_this-simple-app-makes-18k-month/transcript.md
+  ts: '10:35'
+  speaker: '?'
+  kind: step
+  case: App Pomodoro mèo, gần 20K/tháng
+  what: 'Khi chọn đối thủ để học: đọc toàn bộ App Store review, mạng xã hội, rồi lấy cơ chế từ ngành khác
+    để làm khác đi.'
+  text: deeper on your competitions, like study all the App Store reviews, social media, everything and
+    then think about how you can remix features or mechanics from other industries.
+- transcript: starter-story-kb/videos/2025-08-09_how-i-used-reddit-to-build-a-25k-month-business/transcript.md
+  ts: 00:06:29
+  speaker: Avneesh
+  kind: tool
+  case: Avneesh, 25K/tháng (Reddit và Facebook, không chạy ads)
+  what: 'Bước 4: đặt cảnh báo từ khoá (F5bot) để nhận email mỗi khi có người nhắc đến chủ đề, rồi đọc
+    toàn bộ bài để tìm nhu cầu và phản hồi về sản phẩm.'
+  text: Step four is you want to set up keyword alerts on a product like F5bot for anytime people are
+    talking about your product or topic areas.
+- transcript: starter-story-kb/videos/2025-08-09_how-i-used-reddit-to-build-a-25k-month-business/transcript.md
+  ts: 00:05:12
+  speaker: Avneesh
+  kind: step
+  case: Avneesh, 25K/tháng (Reddit và Facebook, không chạy ads)
+  what: Khi mới vào cộng đồng Reddit/Facebook, không đăng bài ngay; trước hết chú ý người ta đang nói
+    gì và nói như thế nào.
+  text: Some of the things that I would try to pay attention to were what were the kinds of things people
+    were talking about? How were they talking about them?
+- transcript: starter-story-kb/videos/2026-01-07_how-i-grew-my-app-to-13k-month-even-though-i-hate-ma/transcript.md
+  ts: 00:12:16
+  speaker: '?'
+  kind: tool
+  case: App 13K/tháng; công cụ Featurebase
+  what: Dùng Featurebase để thu feature request và báo lỗi từ khách hàng (một kênh thu feedback có cấu
+    trúc).
+  text: And I use Featurebase for getting feature requests and bug reports from customers.
+- transcript: starter-story-kb/videos/2025-10-26_i-vibe-coded-a-20k-month-mobile-app-in-14-days/transcript.md
+  ts: 00:07:31
+  speaker: '?'
+  kind: step
+  case: App vibe-coded, 20K/tháng trong 14 ngày
+  what: 'Trước khi làm app mới hoàn toàn: xem TikTok/Instagram xem có ai nói về vấn đề đó không, và đọc
+    comment để biết người ta có đang hỏi cách giải quyết không (đường đi để marketing).'
+  text: What I'd usually do when I'm making something brand new is go look on Tik Tok, Instagram, see
+    if anyone's talking about the problem that you're trying to solve. [music] You want to make sure that
+    there's an easy path for you to market this app by looking at the comments and seeing like are people
+    asking questions
+- transcript: starter-story-kb/videos/2025-12-17_my-mobile-app-made-800k-in-365-days/transcript.md
+  ts: 00:09:36
+  speaker: '?'
+  kind: pitfall
+  case: Glow Up (app thử trang điểm), 800K trong 365 ngày
+  what: Founder cho biết app xin review sau khi user đã thấy kết quả, nên review thường là 5 sao và rating
+    trên App Store cao lên; ví dụ này cho thấy review được xin ở thời điểm nào cũng ảnh hưởng đến những
+    gì bạn đọc được.
+  text: used to get the actual results and then we do ask to leave a rating, [music] a review. Usually
+    they leave a fivestar review. Then the reviews gets pretty high in the app store

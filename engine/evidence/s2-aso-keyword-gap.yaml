@@ -1,0 +1,201 @@
+- transcript: superwall/youtube-transcript/superwall/beginners-guide-to-buying-selling-apps-2026/transcript.md
+  ts: 00:12:42
+  speaker: Steve
+  kind: threshold
+  case: Steve (mua và flip app, 2026)
+  what: 'Không tin con số độ khó của tool ASO; tự xem tiêu đề và số review của top 2-3 app: nếu ít người
+    nhắm từ khoá trong tiêu đề và top 2-3 chỉ có khoảng 100+ review thì có cơ hội vượt.'
+  text: I don't care what any ASO tool says about the difficulty. That's a clear indication to me that,
+    hey, is this a competitive keyword or not? Because if there's not a lot of people targeting that keyword
+    in their title and the number two or three apps only have a 100 plus reviews, then I know I could
+    probably beat them.
+- transcript: superwall/youtube-transcript/superwall/beginners-guide-to-buying-selling-apps-2026/transcript.md
+  ts: 00:15:34
+  speaker: Steve
+  kind: threshold
+  case: Steve (app mua lại, keyword ~30)
+  what: Ngưỡng lượng tìm kiếm từ khoá khoảng 30 trở lên là mức Steve dùng để chọn từ khoá; ông thừa nhận
+    không chắc 30 là lượt tìm/ngày.
+  text: So, I'm looking for keyword volume, the search volume for around 30ish and up.
+- transcript: superwall/youtube-transcript/superwall/beginners-guide-to-buying-selling-apps-2026/transcript.md
+  ts: 00:21:51
+  speaker: Steve
+  kind: step
+  case: Steve (Green Noise app)
+  what: 'Mẹo đặt subtitle theo gợi ý autofill của App Store: lấy cụm autofill của từ khoá chính (green
+    noise for better sleep) làm subtitle.'
+  text: The subtitle was green noise for better sleep because when you search for green noise, the the
+    autofill result is green noise for better sleep. So, I was just like, let's just call the subtitle
+    that. I just didn't have time to fully optimize the the ASO.
+- transcript: superwall/youtube-transcript/superwall/beginners-guide-to-buying-selling-apps-2026/transcript.md
+  ts: 00:16:16
+  speaker: Steve
+  kind: counterexample
+  case: Steve (app keyword ~125k/năm)
+  what: 'Giới hạn của ASO: vài từ khoá đủ đưa app lên 6 chữ số/năm, nhưng lên 7 chữ số khó hơn nhiều.'
+  text: If you're trying to build a six-figure business you can do that with ASO. To get to like a seven
+    figure it's a little bit harder.
+- transcript: superwall/youtube-transcript/superwall/how-i-make-42kmo-passively-with-simple-no-code-apps-copy-me/transcript.md
+  ts: 00:00:43
+  speaker: '?'
+  kind: step
+  case: Kyle (app scan thẻ bài, ~$4.99)
+  what: 'Lợi thế chính của app là ASO: Kyle dành khoảng 2 tuần nghiên cứu từ khoá, tìm cụm có người tìm
+    kiếm nhưng ít đối thủ.'
+  text: Kyle's secret weapon is ASO, app store optimization. He spent two weeks researching keywords like
+    baseball card scanner and find value for baseball cards.
+- transcript: superwall/youtube-transcript/superwall/how-i-make-42kmo-passively-with-simple-no-code-apps-copy-me/transcript.md
+  ts: 00:15:01
+  speaker: Kyle
+  kind: step
+  case: Kyle (app scan thẻ bài)
+  what: 'Cụm từ khoá cuối cùng đưa vào tên app: ''card stock sports card scanner'' và ''find value for
+    baseball cards'', vì ''baseball card scanner'' không vừa số ký tự cho phép.'
+  text: So we had like the whole thing is this card stock sports card scanner. So because baseball card
+    scanner doesn't fit in the keyword amount and then it was like find value for baseball cards I think
+    was our thing.
+- transcript: superwall/youtube-transcript/superwall/how-i-make-42kmo-passively-with-simple-no-code-apps-copy-me/transcript.md
+  ts: 00:15:27
+  speaker: Kyle
+  kind: result
+  case: Kyle (app scan thẻ bài) ~9-10k/tháng recurring
+  what: 'Kết quả: sau khi leo top từ khoá, app kiếm khoảng 9-10k/tháng recurring trong nhiều năm mà gần
+    như không marketing.'
+  text: I was making like 14K I guess not recurring, like probably like 9 or 10K recurring revenue, but
+    for a long time without any marketing for like a couple years all through college when I was growing.
+- transcript: superwall/youtube-transcript/superwall/how-i-make-42kmo-passively-with-simple-no-code-apps-copy-me/transcript.md
+  ts: 00:17:06
+  speaker: Kyle
+  kind: counterexample
+  case: Kyle (app scan thẻ bài)
+  what: 'Trước khi làm ASO: title không có từ khoá, gần như không có subtitle, chỉ có ''card stock'',
+    nên app gần như không có lượt tải thụ động.'
+  text: Dude, I'm almost certain I had like I didn't even have keywords in the title. I'm pretty sure
+    it was just card stock and then find like I don't even think I had a subtitle.
+- transcript: starter-story-kb/videos/2025-10-23_how-i-built-a-30k-month-mobile-app/transcript.md
+  ts: 00:00:15
+  speaker: '?'
+  kind: result
+  case: John McEvoy (Momego) 5 triệu lượt tải
+  what: Momego đạt hơn 5 triệu lượt tải nhờ một chiến thuật ASO gần như miễn phí; John nói ASO 'chủ yếu
+    là nghiên cứu và kiên nhẫn'.
+  text: has been downloaded over 5 million times thanks to one simple strategy that costs him $0. >> App
+    Store optimization, it's really just about research and patience.
+- transcript: starter-story-kb/videos/2025-10-23_how-i-built-a-30k-month-mobile-app/transcript.md
+  ts: 00:04:57
+  speaker: John McEvoy
+  kind: step
+  case: John McEvoy (Momego)
+  what: 'Bước 1 của ASO: tìm từ khoá theo địa điểm cụ thể (vd New York subway, Chicago train) và đưa vào
+    title + metadata.'
+  text: location specific keywords, things like New York subway, Chicago train. Add those to the title
+    and metadata of the app. That will start process of the appearing in searches for those specific keywords.
+- transcript: starter-story-kb/videos/2025-10-23_how-i-built-a-30k-month-mobile-app/transcript.md
+  ts: 00:06:17
+  speaker: John McEvoy
+  kind: step
+  case: John McEvoy (Momego)
+  what: 'Bước 2: gõ vài ký tự đầu vào ô tìm kiếm App Store, xem danh sách gợi ý; các cụm được gợi ý là
+    từ khoá có lượng tìm kiếm cao nhất.'
+  text: characters into search. You'll see a list come up, and most people when you start typing, we'll
+    see the list appear and tap on the first or second entry. So, by looking at those lists, I was able
+    to determine what are the most high impact keywords people are searching for.
+- transcript: starter-story-kb/videos/2025-10-23_how-i-built-a-30k-month-mobile-app/transcript.md
+  ts: 00:06:33
+  speaker: John McEvoy
+  kind: result
+  case: John McEvoy (Momego)
+  what: Từ khoá ít người cạnh tranh, nhắm đúng chỗ đúng lúc thì dễ lọt top 5 cho từ khoá đó.
+  text: because they are very specific, they don't have a huge popularity. So by targeting those keywords
+    specifically in the right place at the right time, you can quite easily get into [music] the top five
+    for a keyword.
+- transcript: starter-story-kb/videos/2025-12-11_i-make-10k-month-from-28-apps/transcript.md
+  ts: 00:03:10
+  speaker: Max
+  kind: tool
+  case: Max (28 app, 10k/tháng)
+  what: 'Quy trình tìm ý tưởng: bắt đầu từ từ khoá trên App Store, dùng tool ASO Astro để tìm ý tưởng
+    chính, chọn một danh mục hoặc nhu cầu muốn tự làm.'
+  text: user has a problem, they open the app store and start searching by entering search term or a keyword
+    into the search bar. And here's my process. First of all, my main source of ideas is a well-known
+    ASO tool Astro.
+- transcript: starter-story-kb/videos/2025-12-11_i-make-10k-month-from-28-apps/transcript.md
+  ts: 00:03:40
+  speaker: Max
+  kind: threshold
+  case: Max (28 app, 10k/tháng)
+  what: 'Ngưỡng lọc từ khoá: độ phổ biến tối thiểu khoảng 20% và độ khó khoảng 60-70% (câu bị cắt; phần
+    ''difficulty'' nằm ở mốc 03:57; bản chép lời viết ''keyboard'' cho ''keyword'').'
+  text: When I do my research, I make sure the keyboard has at least 20% of popularity and 60 or 70%
+- transcript: starter-story-kb/videos/2025-12-11_i-make-10k-month-from-28-apps/transcript.md
+  ts: 00:03:57
+  speaker: Max
+  kind: threshold
+  case: Max (28 app, 10k/tháng)
+  what: 'Ngưỡng doanh thu đối thủ: kiểm tra doanh thu đối thủ trên Sensor Tower, cần ít nhất khoảng 100-200
+    (EUR/USD) mỗi tháng mới đáng làm.'
+  text: difficulty. When I find interesting keywords, I usually check top competitors and look at their
+    monthly revenue, which you could do with a sensor tower or a similar tools. My benchmark is at least
+    100 or €200 per month.
+- transcript: starter-story-kb/videos/2025-08-31_this-app-made-over-1m/transcript.md
+  ts: 00:08:28
+  speaker: '?'
+  kind: step
+  case: Founder app 1M (4M+ lượt tải)
+  what: 'Vòng lặp ASO: trang sản phẩm khớp với điều người dùng tìm, rồi chính người dùng dùng đúng từ
+    khoá đó trong review, và review lại củng cố thứ hạng.'
+  text: They download the app, they use it, and then they use the same keywords to describe their experience
+    via the user reviews. That was like the holy circle. And if you can get that loop going, it I think
+    it's a really strong presence for app store optimization.
+- transcript: starter-story-kb/videos/2025-06-21_how-i-built-it-15k-month-mobile-app/transcript.md
+  ts: 00:07:12
+  speaker: Sebastian
+  kind: step
+  case: Sebastian (habit tracker, 15k/tháng)
+  what: Ngân sách Apple Search Ads chỉ 100 USD/tháng, dùng như chiến thuật tăng thứ hạng (giả thuyết Apple
+    ưu ái developer có chạy ads).
+  text: Another important aspect are search ads. Um I just I won a super simple and lowbudget Apple search
+    ads campaign. Um, I only spent $100 per month on it.
+- transcript: starter-story-kb/videos/2025-06-21_how-i-built-it-15k-month-mobile-app/transcript.md
+  ts: 00:08:00
+  speaker: Sebastian
+  kind: step
+  case: Sebastian (habit tracker, 15k/tháng)
+  what: Đặt từ khoá chính 'habit tracker' ngay đầu tên app; kết hợp gom review bằng cách hỏi đánh giá
+    ngay sau khi người dùng hoàn thành habit đầu tiên.
+  text: habit tracker keyword and that's why I put it right at the start of my app name. Another important
+    aspect of ASO is um gathering user reviews for your app.
+- transcript: starter-story-kb/videos/2025-06-21_how-i-built-it-15k-month-mobile-app/transcript.md
+  ts: 00:09:53
+  speaker: Sebastian
+  kind: tool
+  case: Sebastian (habit tracker, 15k/tháng)
+  what: 'Tool nghiên cứu từ khoá ASO: Astro, cho xem độ phổ biến và độ khó của từ khoá trên App Store.'
+  text: ASO optimizations, I used a tool called Astro. It yeah, it allows you to search for keywords on
+    the app store and see their popularity and difficulty.
+- transcript: superwall/youtube-transcript/superwall/172m-of-app-building-advice-in-50-minutes/transcript.md
+  ts: 00:22:04
+  speaker: '?'
+  kind: pitfall
+  case: Founder app 172M (TikTok và ASO)
+  what: 'Cái bẫy đo lường: download từ TikTok bị gán nhầm thành ASO vì người dùng lướt TikTok rồi tự tìm
+    app trên App Store, nên khó tách tác động của TikTok ra khỏi ASO.'
+  text: The way that gets attributed is it looks like organic on the back end because people are going
+    to close the TikTok app open App Store on their phone search your app and then it looks like an ASO
+    download.
+- transcript: starter-story-kb/videos/2026-03-25_i-built-a-100k-month-android-app/transcript.md
+  ts: '18:52'
+  speaker: '?'
+  kind: tool
+  case: Founder app Android 100k/tháng
+  what: 'Chi phí công cụ ASO: AppFollow cho ASO tốn khoảng 180 USD/tháng, nằm trong danh sách chi phí
+    vận hành của app.'
+  text: AppFollow for ASO, app store optimization, that cost us $180 a month.
+- transcript: starter-story-kb/videos/2025-12-11_i-make-10k-month-from-28-apps/transcript.md
+  ts: 00:05:47
+  speaker: Max
+  kind: threshold
+  case: Max (28 app, 10k/tháng)
+  what: 'Bổ sung tay (không do subagent): lúc demo trong Astro, Max nói lại ngưỡng lọc từ khoá: popularity
+    từ 20, difficulty 70.'
+  text: uh say starting from 20 and difficulty uh 70.

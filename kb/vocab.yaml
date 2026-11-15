@@ -1,0 +1,224 @@
+# Từ vựng chung cho kb/ và journey/ — BẢN KHOÁ sau lô 1 (15/11/2026, duyệt bởi "me").
+# check.py dùng file này để kiểm. Thêm giá trị mới ở đây (kèm giải thích) trước khi dùng; lô 2 chỉ được đề xuất qua `other` + tactic_note.
+
+channel_slug: [starter-story, starter-story-build, superwall, jason-lee]   # jason-lee: kênh lẻ user thêm 15/11 (transcript ở youtube-other/)
+kind: [founder_case, expert_talk, host_essay]
+depth: [full, mention]
+evidence: [measured, claimed, opinion]
+# Vai trò người nói: host/expert → câu của họ vào `rules`; founder → vào `quotes`.
+role_rules: {host: rules, expert: rules, founder: quotes}
+
+stage: [mindset, find-idea, validate, build, launch, monetize, grow, retain, scale]
+
+# revenue.basis và revenue.unit (đóng). `other` bắt buộc có revenue.note giải thích.
+revenue_basis: [mrr, monthly, arr, annual, last_28_days, last_30_days, lifetime, best_month, other]
+revenue_unit: [usd, eur, gbp, other]
+
+idea_origin:
+  - own_pain
+  - domain_expertise
+  - audience_signal
+  - user_request
+  - niche_down
+  - passion_skin
+  - adjacent_expansion
+  - revenue_scouting
+  - trend_copy
+  - timing_trigger        # luật mới, mùa vụ, sự kiện, sản phẩm/nền tảng mới (đếm số case rồi quyết M5 là ống kính hay chiến lược)
+  - others_pain           # nỗi đau của NGƯỜI KHÁC mà founder quan sát/được kể (founder không thuộc nhóm khách); thêm 15/11 theo "me"
+  - serendipity           # tình cờ: nghịch thiết bị/công cụ rồi ra ý tưởng, không đi tìm; thêm 15/11 theo "me"
+
+channel:
+  - facebook_groups
+  - reddit
+  - seo
+  - appsumo
+  - platform_marketplace
+  - app_store_search      # tìm kiếm ORGANIC trên App Store/Play (ASO). Apple Search Ads là paid_apple_search
+  - own_audience
+  - founder_led_content
+  - youtube_founder
+  - instagram_reels
+  - tiktok_organic
+  - influencer_partner
+  - influencer_paid
+  - ugc_creators
+  - clipping
+  - paid_meta
+  - paid_tiktok
+  - paid_google
+  - paid_apple_search
+  - paid_unspecified      # nói có chạy paid ads nhưng không nêu nền tảng
+  - word_of_mouth
+  - b2b_deals
+  - hacker_news           # thêm 15/11 theo "me"
+  - press_pr              # báo chí/TV/PR (TechCrunch, Dr. Oz...)
+  - discord
+  - github
+  - x_organic             # đăng/thread/space trên X không trả tiền (quảng cáo X trả tiền vẫn là paid_unspecified)
+  - affiliate
+  # quảng cáo trên meme page (trả tiền) = influencer_paid kèm note
+
+quote_theme:
+  - ship-ugly
+  - sell-before-build
+  - builder-trap
+  - many-bets
+  - focus-one-thing
+  - persistence
+  - action-over-research
+  - emotional-bottleneck
+  - right-audience
+  - clarity
+  - revenue-first
+  - risk-and-leap
+  - learn-from-others
+  - passion-fuel
+  - stuck-on-one-thing
+
+# demand_signal.kind (đóng) → level suy ra (thang 0–8 của VALIDATE.md). Haiku chọn LOẠI bằng chứng; check.py kiểm level khớp.
+# Video không nói thì demand_signal = null. kind=paid đòi q có tiền thật (số tiền, "paid", "bucks", "revenue"...).
+demand_kind:
+  built_first: 0                              # build xong rồi mới chờ/đi tìm người dùng
+  friends_praise: 1                           # bạn bè/người quen khen
+  content_views: 2                            # nội dung về vấn đề có nhiều view
+  similar_product_revenue: 3                  # app/sản phẩm tương tự đang bán, có doanh thu
+  self_reported_pain_or_free_waitlist: 4      # người ta tự kể nỗi đau/dữ liệu của mình, hoặc đăng ký waitlist MIỄN PHÍ
+  buy_intent_comments: 5                      # comment hỏi mua
+  repeated_interviews: 6                      # cùng một nỗi đau lặp lại qua nhiều cuộc gọi
+  inbound_requests: 7                         # người lạ chủ động xin sản phẩm HOẶC xin dịch vụ/tư vấn (nới 15/11)
+  paid: 8                                     # có người trả tiền thật khi sản phẩm còn thô
+
+# Chiến thuật (trường `tactic` của step ở các chặng find-idea, validate, launch, monetize, grow, retain).
+# Mỗi tactic: chapter (find | validate | grow — cookbook lọc theo 3 câu hỏi của user) và def ("là gì / KHÔNG tính").
+# Không chắc thì dùng `other` + `tactic_note`: gắn sai tệ hơn gắn other. `tactic_note` dùng được cho MỌI tactic (ghi biến thể);
+# bắt buộc khi `other`. Step chỉ ghi VIỆC ĐÃ LÀM hoặc quy trình có bước cụ thể mà expert mô tả; lời khuyên chung vào quotes/rules.
+tactic:
+  s1-revenue-spy:
+    chapter: find
+    def: "Soi doanh thu/top charts/Sensor Tower/TrustMRR/Acquire/Flippa để chọn ngách đã có tiền. KHÔNG tính: tự nghĩ ý tưởng từ trải nghiệm (s5); chỉ xem lượt tải."
+  s2-aso-keyword-gap:
+    chapter: find
+    def: "Chọn từ khoá App Store/Play có người tìm mà đối thủ yếu (autofill, độ khó, rating top 3) để quyết LÀM GÌ. KHÔNG tính: tối ưu tiêu đề/subtitle cho app đã có (g2)."
+  s2-google-trends-volume:
+    chapter: find
+    def: "Dùng Google Trends hoặc công cụ volume (Ahrefs, Semrush, Keyword Planner) để đo lượng tìm kiếm trên web cho ý tưởng. KHÔNG tính: viết nội dung SEO cho sản phẩm đã có (g2)."
+  s3-competitor-reviews:
+    chapter: find
+    def: "Đọc review/comment của đối thủ hoặc khách của họ (App Store, G2, Capterra, YouTube comment) để tìm nỗi đau và khe hở. KHÔNG tính: đọc feedback của chính khách mình sau launch (g5)."
+  s3-reddit-pain-mining:
+    chapter: find
+    def: "Đọc Reddit/forum/Facebook group/Discord để tìm nỗi đau lặp lại và cách họ mô tả. KHÔNG tính: đăng bài quảng bá/giới thiệu sản phẩm vào đó (g1)."
+  s4-tiktok-comment-mining:
+    chapter: find
+    def: "Xem nội dung TikTok/Instagram/YouTube trong ngách và comment (người ta hỏi 'app gì', than gì) để tìm nhu cầu hoặc ngách. KHÔNG tính: đăng nội dung của mình (g3)."
+  s5-insider:
+    chapter: find
+    def: "Founder thuộc chính nhóm khách của sản phẩm: ý tưởng bắt nguồn từ nỗi đau riêng, nghề, hoặc đam mê/cộng đồng mình đang ở trong; ghi loại nào (pain, nghề, đam mê) ở tactic_note. KHÔNG tính: founder chỉ 'thấy trend', xem app khác (s1, s11), hay bắt sóng thay đổi (s12)."
+  s5-insider-pain:
+    chapter: find
+    def: "TÊN CŨ của s5-insider; không dùng cho file mới (finalize tự đổi tên)."
+  s11-copy-or-localize-proven:
+    chapter: find
+    def: "Chép, bản địa hoá hoặc remix một app/sản phẩm đã chạy tốt (đổi thị trường, ngôn ngữ, ngách, chủ đề, cách làm đẹp hơn). KHÔNG tính: chỉ soi doanh thu để chọn ngách (s1); thu hẹp ngách (s9)."
+  s12-timing-shift:
+    chapter: find
+    def: "Bắt một thay đổi vừa xảy ra để làm hoặc đổi sản phẩm: API/tính năng nền tảng mới, khả năng AI mới, luật mới, mùa vụ, sự kiện, trend đang bùng. KHÔNG tính: chép một app cụ thể (s11)."
+  s6-upwork-demand:
+    chapter: find
+    def: "Xem chợ thuê người (Upwork, Fiverr, job board) để biết việc nào đang được trả tiền. KHÔNG tính: tuyển người làm cho mình."
+  s9-niche-narrowing:
+    chapter: find
+    def: "Chọn hoặc thu hẹp ngách: ngách hẹp ít đối thủ, loại ngách bão hoà, người dùng hỏi một ngách con rồi thu hẹp, mở sang đối tượng/nền tảng/ngách kề của sản phẩm đang chạy. KHÔNG tính: chọn ngách bằng số doanh thu đối thủ (s1)."
+  s7-preorder-buy-button:
+    chapter: validate
+    def: "Nhận tiền khi sản phẩm CHƯA tồn tại: pre-order, trang bán + nút mua, waitlist trả phí, hoặc dịch vụ làm tay bán trước (ghi tactic_note 'dịch vụ làm tay'). KHÔNG tính: waitlist miễn phí (ghi vào demand_signal); để sản phẩm xấu đã chạy trên mạng chờ người lạ trả (other)."
+  s13-others-pain-or-inbound:
+    chapter: find
+    def: "Ý tưởng từ nỗi đau của NGƯỜI KHÁC mà founder quan sát hoặc được kể (bạn bè, người quen, một câu chuyện), hoặc từ một lời nhờ/lời mời đến tay (lời mời tài trợ, tin nhắn, tranh cãi trên mạng); founder KHÔNG thuộc nhóm khách. Founder thuộc nhóm khách là s5-insider."
+  s14-test-with-target-group:
+    chapter: validate
+    def: "Thử bản chưa hoàn thiện với đúng nhóm khách hoặc bạn bè tại một nơi/dịp có sẵn (sự kiện, câu lạc bộ, nhóm bạn) để xem họ có dùng/cam kết không. KHÔNG tính: nhận tiền trước (s7), đăng nội dung (s8), phỏng vấn có cấu trúc (s10)."
+  s8-content-demand-test:
+    chapter: validate
+    def: "Đăng nội dung hoặc dựng page về chủ đề/ý tưởng TRƯỚC khi build xong để đo nhu cầu (view, follow, share, waitlist). KHÔNG tính: bán/nhận tiền trước (s7); đăng nội dung quảng bá sản phẩm đã có (g3)."
+  s10-customer-interviews:
+    chapter: validate
+    def: "Nói chuyện hoặc thu phản hồi CÓ CHỦ ĐÍCH với khách, follower, user (kiểu Mom Test, gọi, email onboarding, Discord feedback), TRƯỚC hoặc SAU launch (sau launch ghi tactic_note 'sau launch'), để tìm nỗi đau, nhóm khách trả tiền, việc cần sửa. KHÔNG tính: đọc review/comment công khai (s3, s4); gọi điện giữ chân user đã trả (g5)."
+  g1-first-10-users:
+    chapter: grow
+    def: "Cách có 10–100 người dùng/khách đầu tiên: group, DM, cộng đồng, bạn bè, audience sẵn có. KHÔNG tính: kênh tăng trưởng lâu dài (g2, g3, g6), nền tảng launch (g9)."
+  g2-aso-seo-organic:
+    chapter: grow
+    def: "ASO/SEO để người ta tìm thấy sản phẩm ĐANG CÓ (tiêu đề, subtitle, landing page dày chữ, blog, nội dung SEO, CTA trong bài). KHÔNG tính: chọn từ khoá để chọn ý tưởng (s2)."
+  g3-organic-content-formats:
+    chapter: grow
+    def: "ĐĂNG GÌ: format, hook, CTA, series, founder-led content, repost, nội dung organic. KHÔNG tính: tiền trả cho nền tảng quảng cáo (g6); làm việc với creator/agency (g7)."
+  g4-pricing-paywall:
+    chapter: grow
+    def: "Giá, gói (tháng/năm/tuần), paywall, trial, freemium, onboarding dẫn tới trả tiền, khuyến mãi. KHÔNG tính: chọn ngách theo doanh thu đối thủ (s1)."
+  g5-retention:
+    chapter: grow
+    def: "Giữ chân/kích hoạt lại người dùng đã cài hoặc đã trả: thông báo, feed, gọi điện cho user, analytics power user, giảm churn. KHÔNG tính: thu feedback để chọn ý tưởng (s3, s10)."
+  g6-paid-ads:
+    chapter: grow
+    def: "Mọi khoản trả cho nền tảng quảng cáo (Meta, TikTok, Google, Apple Search Ads...), kể cả chạy từ ngày đầu; chạy trước hay sau organic ghi ở tactic_note. KHÔNG tính: trả creator/clipper/agency (g7)."
+  g7-creator-ops:
+    chapter: grow
+    def: "Làm việc với NGƯỜI để tạo/phân phối nội dung (creator, UGC, clipper, agency, influencer): tuyển, chọn, duyệt video, trả (retainer, CPM, % ad spend, thưởng creator giới thiệu creator, clipping trả theo view), quản, giữ, thăng; quyết thuê hay không. KHÔNG tính: đăng gì (g3); tiền cho nền tảng quảng cáo (g6); referral giữa người dùng trong sản phẩm (g10)."
+  g10-referral-viral-loop:
+    chapter: grow
+    def: "Vòng giới thiệu/lan truyền NGAY TRONG sản phẩm giữa người dùng: mời bạn để mở khoá, referral trả bằng credit, mẫu chia sẻ có tên app. KHÔNG tính: thưởng cho creator giới thiệu creator (g7); truyền miệng tự nhiên không có cơ chế (g1/g3)."
+  g8-funnel-measurement:
+    chapter: grow
+    def: "Đo và quyết bằng số: phễu view→cài→trả, CAC/LTV/P&L từng khách, so kênh hoặc nhóm người dùng, attribution (tên miền riêng, UTM), power user. KHÔNG tính: chỉ nêu con số doanh thu (đó là numbers)."
+  g9-launch-platforms:
+    chapter: grow
+    def: "Launch hoặc lấy khách qua nền tảng/ưu đãi có sẵn người dùng: lifetime deal, AppSumo, Product Hunt, directory, marketplace/chợ ứng dụng. KHÔNG tính: quảng cáo trả tiền (g6); group/DM (g1)."
+  # --- thêm 15/11 theo "me": cụm other có từ 3 founder độc lập. Id đã dành nhưng CHƯA đủ 3 founder (giữ other): g13-affiliate-program, g15-cross-sell-own-products, g16-email-list-lead-magnet ---
+  s15-idea-filter-criteria:
+    chapter: find
+    def: "Founder nêu TIÊU CHÍ lọc ý tưởng (dễ build, thị trường rộng, ít cạnh tranh, rủi ro nền tảng, mình tự làm được, có đường tới khách) và đã dùng chúng để chọn/loại. KHÔNG tính: chọn ngách bằng doanh thu đối thủ (s1); thu hẹp ngách (s9)."
+  g11-positioning-messaging:
+    chapter: grow
+    def: "Định vị, thông điệp, copy, landing page: đổi cách nói sản phẩm là gì/cho ai, viết landing riêng một ICP, dùng câu của người xem làm thông điệp, thí nghiệm trang đưa tới magic moment. KHÔNG tính: chọn đăng gì mỗi ngày (g3); giá và paywall (g4); tối ưu từ khoá store/SEO (g2)."
+  g12-outbound-b2b:
+    chapter: grow
+    def: "Bán/hợp tác với DOANH NGHIỆP một cách chủ động: cold email, đề xuất hợp tác bằng bằng chứng, chốt gói/hợp đồng cho công ty hoặc agency, B2B qua sales call. KHÔNG tính: PR báo chí (g14); creator/agency làm nội dung (g7); nền tảng launch (g9)."
+  g14-press-pr:
+    chapter: grow
+    def: "Báo chí, TV, PR miễn phí: được báo viết/đài/TV đưa tin hoặc founder chủ động gửi nhà báo. KHÔNG tính: influencer (g7); đăng ở Product Hunt/directory (g9)."
+  other:
+    chapter: any
+    def: "Chiến thuật có thật nhưng không khớp định nghĩa nào ở trên. BẮT BUỘC tactic_note (một câu mô tả)."
+
+# Lợi thế không công bằng của founder (G4). Chỉ ghi khi video NÓI hoặc thể hiện rõ; không suy đoán.
+unfair_advantage:
+  - existing_audience     # có audience/follower trước khi làm sản phẩm
+  - domain_expertise      # nghề/chuyên môn sâu trong ngách
+  - capital               # vốn tự có hoặc vay/huy động đáng kể
+  - cofounder             # có co-founder/đối tác bổ trợ
+  - technical_skill       # tự code/làm sản phẩm được
+  - network               # quan hệ (influencer, nhà đầu tư, khách sẵn)
+  - prior_success         # đã có exit/doanh nghiệp trước
+  - luck                  # founder tự nhận là may mắn/đúng thời điểm
+  - none_stated           # video nói rõ không có lợi thế nào đặc biệt
+
+# Các trường bắt buộc của mỗi case có depth: full trong file schema 2 (null nếu video không nói; cấm suy đoán).
+# Mỗi trường khác null (và `revenue`) phải có `q` (đoạn nguyên văn ≤ ~25 từ làm chỗ dựa); không có q khớp thì bị --prune đưa về null/[].
+case_required_v2:
+  - community_at_discovery
+  - demand_signal
+  - prior_failures
+  - unfair_advantage
+  - time_to_revenue
+  - first_users
+  - idea_origin
+  - build
+
+# Các mốc của time_to_revenue (G5). Mỗi mốc là null hoặc {months: SỐ, value: lời founder, q, ts}.
+time_milestones: [first_dollar, to_1k_mrr, to_10k_mrr, to_current]
+numbers_unit: [usd, usd_per_month, usd_per_day, percent, ratio, count, views, downloads, users, months, days, minutes, words, other]   # khoá 15/11 theo "me"; check.py chưa bắt buộc cho file cũ
+
+# Chặng bắt buộc có `tactic`.
+tactic_stages: [find-idea, validate, launch, monetize, grow, retain]

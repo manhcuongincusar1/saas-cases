@@ -1,0 +1,102 @@
+- transcript: starter-story-kb/videos/2026-08-22_he-built-100-apps-and-made-0-can-he-fix-it-in-30-day/transcript.md
+  ts: 02:41
+  speaker: Host (không nêu tên)
+  kind: rule
+  case: ''
+  what: 'lời khuyên của host: một cuộc nói chuyện 15 phút đáng giá hơn 70 app tự build'
+  text: The information that you will get from one single 15minute conversation is more valuable than
+    the 70 apps that you could build.
+- transcript: starter-story-kb/videos/2026-08-30_the-insanely-obvious-secret-behind-this-69k-month-sa/transcript.md
+  ts: '10:31'
+  speaker: Gaurav
+  kind: quote
+  case: ''
+  what: 'founder khuyên (Fastlane): nhắn người trên Twitter và gọi, kể cả phải trả tiền cho họ'
+  text: Try DMing people on Twitter, and get on a call with them, even if you have to pay them
+- transcript: starter-story-kb/videos/2026-08-30_the-insanely-obvious-secret-behind-this-69k-month-sa/transcript.md
+  ts: '10:01'
+  speaker: Pat Walls
+  kind: rule
+  case: ''
+  what: 'lời của host: nói chuyện với khách là cơ chế để biết nên bán ở đâu, không phải lời giải'
+  text: talking to customers isn't the solution, but it is the mechanism to figuring out where to market.
+- transcript: starter-story-kb/videos/2025-12-07_i-built-4-saas-apps-to-100k-mrr-heres-my-exact-playb/transcript.md
+  ts: '17:56'
+  speaker: Pat Walls
+  kind: rule
+  case: ''
+  what: 'lời của host: builder cần ra khỏi hang và nói chuyện với người dùng'
+  text: Personally, I think the playbook's amazing, but the biggest piece that he talked about is the
+    need for builders to get out of their shell, to get out of their cave, and talk to people.
+- transcript: starter-story-kb/videos/2025-12-07_i-built-4-saas-apps-to-100k-mrr-heres-my-exact-playb/transcript.md
+  ts: '17:09'
+  speaker: Tibo
+  kind: quote
+  case: ''
+  what: 'founder khuyên (nhánh sau launch): nói chuyện với người dùng mỗi ngày để hiểu tình huống cốt
+    lõi của họ'
+  text: Talk to your user every day and understand their core situation.
+- transcript: starter-story-kb/videos/2026-10-14_i-built-this-app-for-my-dad-now-it-makes-18k-month/transcript.md
+  ts: '10:43'
+  speaker: Kourosh
+  kind: quote
+  case: ''
+  what: 'founder kể kết quả các cuộc gọi user (Voicy, sau khi đã có người dùng): với nhóm anh phục vụ
+    công cụ đọc chính tả là thuốc giảm đau, với người khác chỉ là vitamin'
+  text: I think dictation tools to you and me are vitamins. They make us a little bit better. But, to
+    the people that I'm serving, it's a painkiller.
+- transcript: starter-story-kb/videos/2026-10-14_i-built-this-app-for-my-dad-now-it-makes-18k-month/transcript.md
+  ts: '14:50'
+  speaker: Gus
+  kind: rule
+  case: ''
+  what: 'lời của host: cần nói chuyện với đúng người mình muốn họ dùng sản phẩm'
+  text: And if you're watching this, well, you need to talk to people that you want to potentially use
+    your product.
+- transcript: starter-story-kb/videos/2026-04-12_i-made-1-5m-from-an-app-youve-never-heard-of/transcript.md
+  ts: 05:38
+  speaker: Jordan
+  kind: quote
+  case: ''
+  what: 'founder kể (Parakeet Chat): vì nhà tù khép kín, build MVP rồi đưa liên hệ bên trong dùng thử,
+    validate và build là một'
+  text: So, in this step, validating the idea and building the MVP were the same thing. I had to build
+    the MVP, get it in front of them in order validate it.
+- transcript: starter-story-kb/videos/2026-04-12_i-made-1-5m-from-an-app-youve-never-heard-of/transcript.md
+  ts: 07:11
+  speaker: Jordan
+  kind: quote
+  case: ''
+  what: 'founder khuyên: chấp nhận ý tưởng có thể chết khi validate'
+  text: Accept that you must validate and you must be willing to let your idea die.
+- transcript: starter-story-kb/videos/2026-02-11_how-i-built-a-12k-month-micro-saas/transcript.md
+  ts: '10:54'
+  speaker: Pat Walls
+  kind: rule
+  case: ''
+  what: 'lời của host về BulkMockup: điểm đặc biệt là anh thật sự nói chuyện với khách (nhánh sau launch)'
+  text: What I think is really special about what you do is that you actually talk to customers.
+- transcript: starter-story-kb/videos/2025-12-02_how-i-built-it-30k-month-micro-saas-subscribr-breakd/transcript.md
+  ts: 08:57
+  speaker: Gil
+  kind: quote
+  case: ''
+  what: 'bẫy: không có audience thì không có ai để bán hay nói chuyện (Subscribr dựng email list trước)'
+  text: step one is you have to build an audience because if you don't have an audience, you don't have
+    anyone to sell to.
+- transcript: starter-story-kb/videos/2025-08-31_this-app-made-over-1m/transcript.md
+  ts: '13:10'
+  speaker: Ania Wysocka
+  kind: quote
+  case: ''
+  what: 'founder khuyên (Rootd, nhánh sau launch): nghe người dùng thật kỹ vì câu trả lời nằm ở họ'
+  text: I would suggest that you listen to users very closely. They will have the answers you need.
+- transcript: starter-story-kb/videos/2026-03-11_how-this-250k-month-saas-got-its-first-100-users-ste/transcript.md
+  ts: 04:14
+  speaker: Joseph
+  kind: quote
+  case: ''
+  what: 'founder kể (Super Demo): sau khi nói chuyện với hơn 100 founder B2B SaaS, kết luận người ta ghét
+    làm demo và ghét giọng mình'
+  text: People hated creating product demos. People hated the sound of their own voice and that's when
+    I realized hey, there's something to run with here.
