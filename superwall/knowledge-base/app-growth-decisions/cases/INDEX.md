@@ -1,8 +1,8 @@
 # Case index
 
-42 case files, grouped by **primary channel**. Headlines are condensed from each file's frontmatter, where every number is verified to the second. When this table and a case file disagree, trust the case file. Decision cards live in `../decisions/` and are named in the last column.
+43 case files, grouped by **primary channel**. Headlines are condensed from each file's frontmatter, where every number is verified to the second. When this table and a case file disagree, trust the case file. Decision cards live in `../decisions/` and are named in the last column.
 
-Read [FORMAT.md](../FORMAT.md) for the evidence labels. Conflicts of interest to keep in mind: **sideshift**, **noise**, **clover-labs**, **dawson-gibbs-ugc** and **marcus-burke-meta-ads** sell services; **blue-throne-mna** and **green-noise-steve-young** buy apps; **rizzgpt-umax** comes from outside the Superwall corpus.
+Read [FORMAT.md](../FORMAT.md) for the evidence labels. Conflicts of interest to keep in mind: **sideshift**, **noise**, **clover-labs**, **dawson-gibbs-ugc** and **marcus-burke-meta-ads** sell services; **blue-throne-mna** and **green-noise-steve-young** buy apps; **rizzgpt-umax** comes from outside the Superwall corpus; **wrestle-ai-brawler**'s founder was on the growth team of Rork, a show sponsor.
 
 ## 1. TikTok / Reels — hired UGC creator programs
 
@@ -47,6 +47,7 @@ Read [FORMAT.md](../FORMAT.md) for the evidence labels. Conflicts of interest to
 | [fitted](fitted.md) | Fitted | AI closet / outfit generator | One creator (equity co-founder) on TikTok + Reels; ads on winners | 500M+ views, ~600k downloads, ~$150k lifetime subs; ~95% of distribution from one creator; no PMF yet | ugc-creators (creator equity), build-or-kill (views ≠ PMF) |
 | [payout](payout.md) | Payout | Class-action settlement finder | Creator-owned organic short-form + coordinated pushes → Meta ads | $217k in 5 months; one video ≈ $5–10k; 5 creators posting on one day = $9,700 | ugc-creators (creator-founders, formats that convert) |
 | [locked-evan-yadegari](locked-evan-yadegari.md) | Locked | Gen Z gamified productivity | Influencer DM outreach with minimum-view-clause deals | >$14k/mo; one ~1M-view video ≈ $3k; ~10% download → paid; RPM $3–4 vs CPM $1–2; 5–10k creators DM'd | ugc-creators (4 deal structures, pricing against RPM), choose-channel |
+| [wrestle-ai-brawler](wrestle-ai-brawler.md) | Wrestle AI, Brawler, AdMax | AI video-analysis coach for combat sports; abs | 50/50 partnership with the sport's top creator + ~10 creators (Wrestle AI); Meta/TikTok ads (Brawler, AdMax) | ~$41k MRR / $84k in 28 days across 3 apps; 100k+ downloads; $8k week one from a pre-order; break-even CPA ~$40; one stitch ad $20k+ → ~$60k | ugc-creators (creator equity, un-sponsored niche), paid-ads (raw vs polished, CPA vs break-even), onboarding-retention (daily feature, founder calls) |
 
 ## 4. Founder-led social, pre-selling, viral loops
 

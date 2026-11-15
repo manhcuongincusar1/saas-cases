@@ -117,15 +117,21 @@ def fetch_meta(vid):
 
 
 def fetch_subs_json3(vid, workdir):
+    """Ưu tiên track 'en-orig' (auto-caption gốc). Ở video có lồng tiếng tự động, track 'en'
+    là bản dịch máy ngược từ ngôn ngữ khác (tlang=en): sai nguyên văn và hay bị YouTube trả 429."""
     out_tpl = os.path.join(workdir, vid)
-    run(["yt-dlp", "--write-auto-subs", "--sub-lang", "en", "--sub-format", "json3",
-         "--skip-download", "-o", out_tpl, f"https://www.youtube.com/watch?v={vid}"],
-        retries=6, backoff=40)
-    p = out_tpl + ".en.json3"
-    if not os.path.exists(p):
-        return None
-    with open(p, encoding="utf-8") as fh:
-        return json.load(fh)
+    for lang in ("en-orig", "en"):
+        run(["yt-dlp", "--write-auto-subs", "--sub-lang", lang, "--sub-format", "json3",
+             "--skip-download", "-o", out_tpl, f"https://www.youtube.com/watch?v={vid}"],
+            retries=6, backoff=40)
+        p = f"{out_tpl}.{lang}.json3"
+        if os.path.exists(p):
+            if lang == "en":
+                print(f"  ⚠ {vid} không có track en-orig — dùng track 'en', có thể là bản dịch máy",
+                      file=sys.stderr)
+            with open(p, encoding="utf-8") as fh:
+                return json.load(fh)
+    return None
 
 
 def events_to_lines(data, chunk_ms=15500):

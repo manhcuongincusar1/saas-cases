@@ -15,7 +15,7 @@
 
 | File | Nội dung |
 |---|---|
-| [`case.md`](case.md) | **Phân tích đầy đủ** — ý tưởng, validate, GTM, áp dụng ở VN |
+| [`case.md`](case.md) | **Phân tích đầy đủ** — ý tưởng, validate, GTM, áp dụng cho tôi |
 | [`transcript.md`](transcript.md) | Transcript gốc, có timestamp |
 | [`meta.json`](meta.json) | Metadata gốc (chapters, heatmap, mô tả) |
 | [`screenshots/`](screenshots/) | 0 ảnh 720p |
@@ -39,12 +39,12 @@ Piotr built Visualizee, an AI rendering tool that lets architects and designers 
 
 > Các đoạn founder nhắc tới con số, kèm timestamp để tua thẳng tới đó trong video.
 
-- `00:16` around $100 per month. But the first two years were a real nightmare. This continued until 6 months ago when he made one simple change that took his SaaS revenue from over $ 150 to over $10,000 per month. So I invited
-- `01:04` Piotr, and I created Visual AI—an AI rendering tool for architects and interior designers. He now brings in $10,000 a month. I started it almost 3 years ago, but the first 2 years were a nightmare. I was actually stuck at $100 a month,
-- `02:56` Boom, and the car is there. You can currently start a 7-day free trial. And after that you have to pay $5 or $80 per month, depending on how much you want to render. I now have about 300 active followers . As for daily
-- `04:34` So, I decided to create a layer of artificial intelligence that would help people first understand what they want, ask clarifying questions, and then create the perfect query for them. It helped me grow from $150 a month to almost $10,000 a month.
-- `09:08` Let's change the subject a bit. What is the tech stack and tools behind a solo product that generates $10,000 in MRR? So, I use Cursor, and more recently Cloud Code. These are the two main tools on which I actually build products. Then
-- `12:56` there are over 50 Claude shells that are bringing in over $10,000 per month. Listen, ChatGPT and Claude have billions of users. They love this chat interface, and the lesson here is obvious: everything ingenious is simple. In the description below you will s…
+- `00:17` >> But, for the two first years, it was a nightmare. >> That was until he made one simple change just 6 months ago that skyrocketed his SaaS from over $150 to over $10,000 a month. So, I asked Piotr to come on to the channel to break all of this down.
+- `01:08` interior designers. Now, it makes 10K per month. I launched almost 3 years ago. But, for the two first years, it was a nightmare. I was actually stuck at $100 per month. But, now, after pivot 6 months ago, the revenue exploded. I did
+- `03:01` days for free and after that you have $35 per month or $80 per month, [music] depending on how much you want to render. Currently, I have around 300 active subscribers. When it comes to daily stats, now it's over 300 daily on the landing …
+- `04:44` perfect prompt for them. It helped me go from $150 per month to nearly $10,000 per month. >> What I think is so cool about Piotr's story is that actually simplifying his product down to essentially a ChatGPT wrapper is what actually created the g…
+- `09:15` yours that's doing $10,000 MRR? >> So, I'm using Cursor, and recently I also bought code. So, those are the two major ones that I actually built products. Then there is a 4 AI. It's actually the third-party service that provides GPU. There is Ahrefs to monitor
+- `12:54` …here, which is over 50 Claude wrappers that are making over $10,000 a month. Look, ChatGPT and Claude, they have billions of users. They love this chat interface. And clearly the lesson here was keep it simple. In that…
 
 ## Chương
 

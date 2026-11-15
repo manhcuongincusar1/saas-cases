@@ -2,7 +2,7 @@
   "vi": {
     "lang": "vi", "dir": "ltr", "native": "Tiếng Việt", "vnAxis": true,
     "title": "Sổ Cái Indie",
-    "kicker": "Starter Story · 180 case study",
+    "kicker": "Starter Story · 199 case study",
     "h1": "Sổ cái của những người tự làm ra tiền",
     "sub": "Ý tưởng đến từ đâu, họ validate thế nào, và bán cho ai — đọc để lấy cơ chế, đừng đọc để lấy kỳ vọng.",
     "unit": "case", "statRev": "có số doanh thu", "statMedian": "trung vị", "perMonth": "/tháng",
@@ -17,7 +17,7 @@
     "fStatus": "Trạng thái", "fScope": "Phạm vi tìm",
     "under": "dưới", "from": "từ", "exactly": "đúng", "upTo": "đến",
     "stUnread": "Chưa đọc", "stRead": "Đã đọc", "stSaved": "Đã lưu",
-    "scName": "Tên & mô tả", "scFull": "Toàn văn 180 case",
+    "scName": "Tên & mô tả", "scFull": "Toàn văn 199 case",
     "mVn": "VN", "mDiff": "Khó", "min": "phút",
     "factRev": "Doanh thu / tháng", "factVn": "Khả thi ở VN", "factDiff": "Độ khó",
     "factRead": "Đọc trong", "factViews": "Lượt xem",
@@ -46,13 +46,13 @@
     "thAuto": "Tự động", "thLight": "Sáng", "thDark": "Tối",
     "back": "Quay lại", "fontBtn": "Cỡ chữ", "saveBtn": "Lưu",
     "aboutKicker": "Ghi chú của người làm kho", "aboutH1": "Về kho này",
-    "about": "Toàn bộ nội dung ở đây được rút ra từ kênh YouTube [Starter Story](https://www.youtube.com/@starterstory) — **180 video, 45,6 giờ, 45,7 triệu lượt xem** — đọc transcript rồi viết lại thành case study phục vụ đúng ba việc: **tìm ý tưởng · validate · go-to-market**.\n\n> **Thiên lệch cần nhớ khi đọc.** Đây là kênh phỏng vấn **người thành công**. Với mỗi founder $100K/tháng ở đây, có hàng nghìn người làm đúng như vậy mà không có kết quả. Đọc để lấy **cơ chế**, đừng đọc để lấy **kỳ vọng**.\n\n## Hai con số để lọc nhanh\n\n- **Khả thi ở VN (1–5)** — mức độ sao chép được ở điều kiện Việt Nam: ARPU thấp, thanh toán quốc tế, rào cản ngôn ngữ.\n- **Độ khó (1–5)** — độ khó thực thi, tính cả kỹ năng và thời gian phải bỏ ra.\n\nCả hai là **đánh giá chủ quan** của người viết khi đọc từng case, không phải số liệu từ video.\n\n## Con số doanh thu\n\nĐều theo lời founder kể trên video, thường có show dashboard. Mục *Cơ sở của con số* trong Hồ sơ đầy đủ ghi rõ đó là **MRR**, **doanh thu tháng**, hay **tổng tích luỹ** — vì các founder dùng lẫn lộn ba khái niệm này.\n\n## Ảnh chụp màn hình\n\nBản web này không kèm 1.622 ảnh chụp để giữ nhẹ cho điện thoại. Mỗi mốc ảnh trong bài đã được đổi thành **link tua thẳng tới đúng giây đó trong video gốc**.\n\n## Đọc offline\n\nToàn bộ 180 case nằm trong chính trang này. Tải xong một lần là đọc được cả khi mất mạng. Tiến độ đọc, case đã lưu và cỡ chữ lưu trong trình duyệt của anh.\n\n## Nguồn & bản quyền\n\nĐây là **tài liệu nghiên cứu cá nhân**. Phần phân tích là của người viết, có trích dẫn ngắn và dẫn nguồn tới video gốc — không phải bản sao nội dung kênh."
+    "about": "Toàn bộ nội dung ở đây được rút ra từ kênh YouTube [Starter Story](https://www.youtube.com/@starterstory) — **199 video, 50,1 giờ, 48,3 triệu lượt xem** — đọc transcript rồi viết lại thành case study phục vụ đúng ba việc: **tìm ý tưởng · validate · go-to-market**.\n\n> **Thiên lệch cần nhớ khi đọc.** Đây là kênh phỏng vấn **người thành công**. Với mỗi founder $100K/tháng ở đây, có hàng nghìn người làm đúng như vậy mà không có kết quả. Đọc để lấy **cơ chế**, đừng đọc để lấy **kỳ vọng**.\n\n## Hai con số để lọc nhanh\n\n- **Khả thi ở VN (1–5)** — mức độ sao chép được ở điều kiện thị trường Việt Nam: ARPU thấp, thanh toán quốc tế, rào cản ngôn ngữ. Chỉ case viết trước 11/2026 có điểm này; case mới hơn phân tích theo góc founder ở VN bán cho khách global nên không chấm và không hiện thanh VN.\n- **Độ khó (1–5)** — độ khó thực thi, tính cả kỹ năng và thời gian phải bỏ ra.\n\nCả hai là **đánh giá chủ quan** của người viết khi đọc từng case, không phải số liệu từ video. Mọi case đều có độ khó.\n\n## Con số doanh thu\n\nĐều theo lời founder kể trên video, thường có show dashboard. Mục *Cơ sở của con số* trong Hồ sơ đầy đủ ghi rõ đó là **MRR**, **doanh thu tháng**, hay **tổng tích luỹ** — vì các founder dùng lẫn lộn ba khái niệm này.\n\n## Ảnh chụp màn hình\n\nBản web này không kèm 1.622 ảnh chụp để giữ nhẹ cho điện thoại. Mỗi mốc ảnh trong bài đã được đổi thành **link tua thẳng tới đúng giây đó trong video gốc**.\n\n## Đọc offline\n\nToàn bộ 199 case nằm trong chính trang này. Tải xong một lần là đọc được cả khi mất mạng. Tiến độ đọc, case đã lưu và cỡ chữ lưu trong trình duyệt của anh.\n\n## Nguồn & bản quyền\n\nĐây là **tài liệu nghiên cứu cá nhân**. Phần phân tích là của người viết, có trích dẫn ngắn và dẫn nguồn tới video gốc — không phải bản sao nội dung kênh."
   },
 
   "en": {
     "lang": "en", "dir": "ltr", "native": "English", "vnAxis": false,
     "title": "The Indie Ledger",
-    "kicker": "Starter Story · 180 case studies",
+    "kicker": "Starter Story · 199 case studies",
     "h1": "The ledger of people who made their own money",
     "sub": "Where the idea came from, how they validated it, who they sold to — read for the mechanism, not for the expectation.",
     "unit": "cases", "statRev": "with revenue figures", "statMedian": "median", "perMonth": "/mo",
@@ -67,7 +67,7 @@
     "fStatus": "Status", "fScope": "Search scope",
     "under": "under", "from": "from", "exactly": "exactly", "upTo": "up to",
     "stUnread": "Unread", "stRead": "Read", "stSaved": "Saved",
-    "scName": "Title & summary", "scFull": "Full text, 180 cases",
+    "scName": "Title & summary", "scFull": "Full text, 199 cases",
     "mVn": "", "mDiff": "Difficulty", "min": "min",
     "factRev": "Revenue / month", "factVn": "", "factDiff": "Difficulty",
     "factRead": "Read time", "factViews": "Views",
@@ -96,13 +96,13 @@
     "thAuto": "Auto", "thLight": "Light", "thDark": "Dark",
     "back": "Back", "fontBtn": "Text size", "saveBtn": "Save",
     "aboutKicker": "Notes from the compiler", "aboutH1": "About this library",
-    "about": "Everything here is drawn from the YouTube channel [Starter Story](https://www.youtube.com/@starterstory) — **180 videos, 45.6 hours, 45.7 million views** — transcribed, read, and rewritten as case studies serving exactly three jobs: **find an idea · validate it · go to market**.\n\n> **The bias to hold in mind.** This is a channel that interviews **winners**. For every $100K/month founder here, thousands did the same things and got nothing. Read for the **mechanism**, not for the **expectation**.\n\n## Difficulty (1–5)\n\nHow hard this is to execute, counting both the skill and the time it demands. It is a **subjective judgment** made while reading each case, not a figure from the video.\n\n## Revenue figures\n\nAll of them come from what the founder said on camera, usually with a dashboard shown. The *What the number means* row in the full profile records whether it is **MRR**, **monthly revenue**, or **lifetime total** — founders use the three interchangeably.\n\n## Screenshots\n\nThis edition ships without the 1,622 screenshots, to stay light on a phone. Every screenshot marker in the text became a **link that jumps to that exact second of the original video**.\n\n## Reading offline\n\nAll 180 cases live inside this page. Load it once and it reads without a connection. Your reading progress, saved cases, and text size stay in your browser.\n\n## Source & rights\n\nThis is **personal research**. The analysis is the compiler's own, with short quotations and links back to the source videos — not a copy of the channel's content.\n\n*This edition is translated from the Vietnamese original. Sections about applying a case under Vietnamese market conditions have been removed.*"
+    "about": "Everything here is drawn from the YouTube channel [Starter Story](https://www.youtube.com/@starterstory) — **199 videos, 50.1 hours, 48.3 million views** — transcribed, read, and rewritten as case studies serving exactly three jobs: **find an idea · validate it · go to market**.\n\n> **The bias to hold in mind.** This is a channel that interviews **winners**. For every $100K/month founder here, thousands did the same things and got nothing. Read for the **mechanism**, not for the **expectation**.\n\n## Difficulty (1–5)\n\nHow hard this is to execute, counting both the skill and the time it demands. It is a **subjective judgment** made while reading each case, not a figure from the video.\n\n## Revenue figures\n\nAll of them come from what the founder said on camera, usually with a dashboard shown. The *What the number means* row in the full profile records whether it is **MRR**, **monthly revenue**, or **lifetime total** — founders use the three interchangeably.\n\n## Screenshots\n\nThis edition ships without the 1,622 screenshots, to stay light on a phone. Every screenshot marker in the text became a **link that jumps to that exact second of the original video**.\n\n## Reading offline\n\nAll 199 cases live inside this page. Load it once and it reads without a connection. Your reading progress, saved cases, and text size stay in your browser.\n\n## Source & rights\n\nThis is **personal research**. The analysis is the compiler's own, with short quotations and links back to the source videos — not a copy of the channel's content.\n\n*This edition is translated from the Vietnamese original. Sections about applying a case under Vietnamese market conditions have been removed.*"
   },
 
   "zh-Hans": {
     "lang": "zh-Hans", "dir": "ltr", "native": "简体中文", "vnAxis": false,
     "title": "独立开发者账本",
-    "kicker": "Starter Story · 180 个案例",
+    "kicker": "Starter Story · 199 个案例",
     "h1": "自己挣到钱的人的账本",
     "sub": "点子从哪来、怎么验证、卖给谁——读的是机制，不是期望。",
     "unit": "个案例", "statRev": "有营收数字", "statMedian": "中位数", "perMonth": "/月",
@@ -117,7 +117,7 @@
     "fStatus": "状态", "fScope": "搜索范围",
     "under": "低于", "from": "不低于", "exactly": "恰好", "upTo": "不超过",
     "stUnread": "未读", "stRead": "已读", "stSaved": "已收藏",
-    "scName": "标题与简介", "scFull": "全文 180 个案例",
+    "scName": "标题与简介", "scFull": "全文 199 个案例",
     "mVn": "", "mDiff": "难度", "min": "分钟",
     "factRev": "月营收", "factVn": "", "factDiff": "难度",
     "factRead": "阅读时长", "factViews": "观看量",
@@ -146,13 +146,13 @@
     "thAuto": "跟随系统", "thLight": "浅色", "thDark": "深色",
     "back": "返回", "fontBtn": "字号", "saveBtn": "收藏",
     "aboutKicker": "整理者的说明", "aboutH1": "关于这个案例库",
-    "about": "这里的全部内容来自 YouTube 频道 [Starter Story](https://www.youtube.com/@starterstory)——**180 个视频、45.6 小时、4570 万次观看**——把字幕读完后重写成案例，只服务三件事：**找点子 · 验证 · 找到客户**。\n\n> **读之前要记住的偏差。** 这是一个只采访**成功者**的频道。这里每有一个月入 10 万美元的创始人，就有成千上万人做了同样的事却毫无结果。读它是为了拿**机制**，不是为了拿**期望**。\n\n## 难度（1–5）\n\n执行起来有多难，把所需的技能和时间都算进去。这是整理者读每个案例时的**主观判断**，不是视频里的数据。\n\n## 营收数字\n\n全部来自创始人在镜头前说的话，通常有后台截图。完整档案里的*这个数字指什么*一栏写明它是 **MRR**、**当月营收**还是**累计总额**——因为创始人经常把这三者混着用。\n\n## 截图\n\n这个版本不含那 1622 张截图，为的是在手机上足够轻。文中每个截图节点都改成了**直接跳到原视频那一秒的链接**。\n\n## 离线阅读\n\n全部 180 个案例就在这一个页面里。加载一次之后断网也能读。阅读进度、收藏和字号都存在你自己的浏览器里。\n\n## 来源与版权\n\n这是**个人研究资料**。分析部分为整理者本人所写，含少量引用并链接回原视频——不是频道内容的复制。\n\n*本版由越南语原版翻译而来。原版中关于在越南市场条件下如何套用的段落已移除。*"
+    "about": "这里的全部内容来自 YouTube 频道 [Starter Story](https://www.youtube.com/@starterstory)——**199 个视频、50.1 小时、4830 万次观看**——把字幕读完后重写成案例，只服务三件事：**找点子 · 验证 · 找到客户**。\n\n> **读之前要记住的偏差。** 这是一个只采访**成功者**的频道。这里每有一个月入 10 万美元的创始人，就有成千上万人做了同样的事却毫无结果。读它是为了拿**机制**，不是为了拿**期望**。\n\n## 难度（1–5）\n\n执行起来有多难，把所需的技能和时间都算进去。这是整理者读每个案例时的**主观判断**，不是视频里的数据。\n\n## 营收数字\n\n全部来自创始人在镜头前说的话，通常有后台截图。完整档案里的*这个数字指什么*一栏写明它是 **MRR**、**当月营收**还是**累计总额**——因为创始人经常把这三者混着用。\n\n## 截图\n\n这个版本不含那 1622 张截图，为的是在手机上足够轻。文中每个截图节点都改成了**直接跳到原视频那一秒的链接**。\n\n## 离线阅读\n\n全部 199 个案例就在这一个页面里。加载一次之后断网也能读。阅读进度、收藏和字号都存在你自己的浏览器里。\n\n## 来源与版权\n\n这是**个人研究资料**。分析部分为整理者本人所写，含少量引用并链接回原视频——不是频道内容的复制。\n\n*本版由越南语原版翻译而来。原版中关于在越南市场条件下如何套用的段落已移除。*"
   },
 
   "zh-Hant": {
     "lang": "zh-Hant", "dir": "ltr", "native": "繁體中文", "vnAxis": false,
     "title": "獨立開發者帳本",
-    "kicker": "Starter Story · 180 個案例",
+    "kicker": "Starter Story · 199 個案例",
     "h1": "自己賺到錢的人的帳本",
     "sub": "點子從哪來、怎麼驗證、賣給誰——讀的是機制，不是期望。",
     "unit": "個案例", "statRev": "有營收數字", "statMedian": "中位數", "perMonth": "/月",
@@ -167,7 +167,7 @@
     "fStatus": "狀態", "fScope": "搜尋範圍",
     "under": "低於", "from": "不低於", "exactly": "恰好", "upTo": "不超過",
     "stUnread": "未讀", "stRead": "已讀", "stSaved": "已收藏",
-    "scName": "標題與簡介", "scFull": "全文 180 個案例",
+    "scName": "標題與簡介", "scFull": "全文 199 個案例",
     "mVn": "", "mDiff": "難度", "min": "分鐘",
     "factRev": "月營收", "factVn": "", "factDiff": "難度",
     "factRead": "閱讀時間", "factViews": "觀看數",
@@ -196,13 +196,13 @@
     "thAuto": "跟隨系統", "thLight": "淺色", "thDark": "深色",
     "back": "返回", "fontBtn": "字級", "saveBtn": "收藏",
     "aboutKicker": "整理者的說明", "aboutH1": "關於這個案例庫",
-    "about": "這裡的全部內容來自 YouTube 頻道 [Starter Story](https://www.youtube.com/@starterstory)——**180 部影片、45.6 小時、4570 萬次觀看**——把字幕讀完後重寫成案例，只服務三件事：**找點子 · 驗證 · 打進市場**。\n\n> **讀之前要記住的偏差。** 這是一個只採訪**成功者**的頻道。這裡每有一位月入 10 萬美元的創辦人，就有成千上萬人做了同樣的事卻毫無結果。讀它是為了拿**機制**，不是為了拿**期望**。\n\n## 難度（1–5）\n\n執行起來有多難，把所需的技能與時間都算進去。這是整理者讀每個案例時的**主觀判斷**，不是影片裡的數據。\n\n## 營收數字\n\n全部來自創辦人在鏡頭前說的話，通常有後台截圖。完整檔案裡的*這個數字指什麼*一欄寫明它是 **MRR**、**當月營收**還是**累計總額**——因為創辦人經常把這三者混著用。\n\n## 截圖\n\n這個版本不含那 1622 張截圖，為的是在手機上夠輕。文中每個截圖節點都改成了**直接跳到原影片那一秒的連結**。\n\n## 離線閱讀\n\n全部 180 個案例就在這一個頁面裡。載入一次之後斷網也能讀。閱讀進度、收藏與字級都存在你自己的瀏覽器裡。\n\n## 來源與版權\n\n這是**個人研究資料**。分析部分為整理者本人所寫，含少量引用並連回原影片——不是頻道內容的複製。\n\n*本版由越南語原版翻譯而來。原版中關於在越南市場條件下如何套用的段落已移除。*"
+    "about": "這裡的全部內容來自 YouTube 頻道 [Starter Story](https://www.youtube.com/@starterstory)——**199 部影片、50.1 小時、4830 萬次觀看**——把字幕讀完後重寫成案例，只服務三件事：**找點子 · 驗證 · 打進市場**。\n\n> **讀之前要記住的偏差。** 這是一個只採訪**成功者**的頻道。這裡每有一位月入 10 萬美元的創辦人，就有成千上萬人做了同樣的事卻毫無結果。讀它是為了拿**機制**，不是為了拿**期望**。\n\n## 難度（1–5）\n\n執行起來有多難，把所需的技能與時間都算進去。這是整理者讀每個案例時的**主觀判斷**，不是影片裡的數據。\n\n## 營收數字\n\n全部來自創辦人在鏡頭前說的話，通常有後台截圖。完整檔案裡的*這個數字指什麼*一欄寫明它是 **MRR**、**當月營收**還是**累計總額**——因為創辦人經常把這三者混著用。\n\n## 截圖\n\n這個版本不含那 1622 張截圖，為的是在手機上夠輕。文中每個截圖節點都改成了**直接跳到原影片那一秒的連結**。\n\n## 離線閱讀\n\n全部 199 個案例就在這一個頁面裡。載入一次之後斷網也能讀。閱讀進度、收藏與字級都存在你自己的瀏覽器裡。\n\n## 來源與版權\n\n這是**個人研究資料**。分析部分為整理者本人所寫，含少量引用並連回原影片——不是頻道內容的複製。\n\n*本版由越南語原版翻譯而來。原版中關於在越南市場條件下如何套用的段落已移除。*"
   },
 
   "hi": {
     "lang": "hi", "dir": "ltr", "native": "हिन्दी", "vnAxis": false,
     "title": "इंडी लेजर",
-    "kicker": "Starter Story · 180 केस स्टडी",
+    "kicker": "Starter Story · 199 केस स्टडी",
     "h1": "जिन्होंने अपना पैसा खुद बनाया, उनका बहीखाता",
     "sub": "आइडिया कहाँ से आया, उसे परखा कैसे, बेचा किसे — तरीका पढ़ने के लिए, उम्मीद बाँधने के लिए नहीं।",
     "unit": "केस", "statRev": "में रेवेन्यू का आँकड़ा", "statMedian": "मध्यमान", "perMonth": "/माह",
@@ -217,7 +217,7 @@
     "fStatus": "स्थिति", "fScope": "खोज का दायरा",
     "under": "से कम", "from": "से", "exactly": "ठीक", "upTo": "तक",
     "stUnread": "बिना पढ़े", "stRead": "पढ़े गए", "stSaved": "सहेजे गए",
-    "scName": "शीर्षक और सार", "scFull": "पूरा टेक्स्ट, 180 केस",
+    "scName": "शीर्षक और सार", "scFull": "पूरा टेक्स्ट, 199 केस",
     "mVn": "", "mDiff": "कठिनाई", "min": "मिन",
     "factRev": "रेवेन्यू / माह", "factVn": "", "factDiff": "कठिनाई",
     "factRead": "पढ़ने का समय", "factViews": "व्यूज़",
@@ -246,13 +246,13 @@
     "thAuto": "स्वतः", "thLight": "हल्का", "thDark": "गहरा",
     "back": "वापस", "fontBtn": "अक्षर का आकार", "saveBtn": "सहेजें",
     "aboutKicker": "संकलनकर्ता की टिप्पणी", "aboutH1": "इस लाइब्रेरी के बारे में",
-    "about": "यहाँ की सारी सामग्री YouTube चैनल [Starter Story](https://www.youtube.com/@starterstory) से ली गई है — **180 वीडियो, 45.6 घंटे, 4.57 करोड़ व्यूज़** — ट्रांसक्रिप्ट पढ़कर केस स्टडी के रूप में दोबारा लिखी गई, सिर्फ़ तीन कामों के लिए: **आइडिया ढूँढना · परखना · बाज़ार तक पहुँचना**।\n\n> **पढ़ते समय यह पूर्वाग्रह याद रखें।** यह चैनल सिर्फ़ **सफल लोगों** का इंटरव्यू लेता है। यहाँ हर एक $100K/माह वाले फ़ाउंडर के पीछे हज़ारों लोग हैं जिन्होंने बिल्कुल यही किया और कुछ नहीं मिला। इसे **तरीका** लेने के लिए पढ़ें, **उम्मीद** बाँधने के लिए नहीं।\n\n## कठिनाई (1–5)\n\nइसे करना कितना मुश्किल है — कौशल और लगने वाला समय दोनों जोड़कर। यह हर केस पढ़ते समय संकलनकर्ता का **व्यक्तिगत आकलन** है, वीडियो का आँकड़ा नहीं।\n\n## रेवेन्यू के आँकड़े\n\nसब कुछ वही है जो फ़ाउंडर ने कैमरे पर कहा, अक्सर डैशबोर्ड दिखाकर। पूरे प्रोफ़ाइल में *यह आँकड़ा क्या दर्शाता है* पंक्ति बताती है कि वह **MRR** है, **महीने का रेवेन्यू** है, या **कुल जमा** — क्योंकि फ़ाउंडर तीनों को आपस में मिलाकर बोलते हैं।\n\n## स्क्रीनशॉट\n\nफ़ोन पर हल्का रखने के लिए इस संस्करण में 1,622 स्क्रीनशॉट नहीं हैं। लेख का हर स्क्रीनशॉट पड़ाव अब **मूल वीडियो के ठीक उसी सेकंड पर ले जाने वाला लिंक** है।\n\n## ऑफ़लाइन पढ़ना\n\nपूरे 180 केस इसी पेज के अंदर हैं। एक बार लोड हो जाने के बाद बिना इंटरनेट भी पढ़ सकते हैं। पढ़ने की प्रगति, सहेजे गए केस और अक्षर का आकार आपके ब्राउज़र में रहते हैं।\n\n## स्रोत और अधिकार\n\nयह **निजी शोध सामग्री** है। विश्लेषण संकलनकर्ता का अपना है, छोटे उद्धरण और मूल वीडियो के लिंक के साथ — चैनल की सामग्री की नक़ल नहीं।\n\n*यह संस्करण वियतनामी मूल से अनूदित है। वियतनाम की बाज़ार परिस्थितियों पर लागू करने वाले हिस्से हटा दिए गए हैं।*"
+    "about": "यहाँ की सारी सामग्री YouTube चैनल [Starter Story](https://www.youtube.com/@starterstory) से ली गई है — **199 वीडियो, 50.1 घंटे, 4.83 करोड़ व्यूज़** — ट्रांसक्रिप्ट पढ़कर केस स्टडी के रूप में दोबारा लिखी गई, सिर्फ़ तीन कामों के लिए: **आइडिया ढूँढना · परखना · बाज़ार तक पहुँचना**।\n\n> **पढ़ते समय यह पूर्वाग्रह याद रखें।** यह चैनल सिर्फ़ **सफल लोगों** का इंटरव्यू लेता है। यहाँ हर एक $100K/माह वाले फ़ाउंडर के पीछे हज़ारों लोग हैं जिन्होंने बिल्कुल यही किया और कुछ नहीं मिला। इसे **तरीका** लेने के लिए पढ़ें, **उम्मीद** बाँधने के लिए नहीं।\n\n## कठिनाई (1–5)\n\nइसे करना कितना मुश्किल है — कौशल और लगने वाला समय दोनों जोड़कर। यह हर केस पढ़ते समय संकलनकर्ता का **व्यक्तिगत आकलन** है, वीडियो का आँकड़ा नहीं।\n\n## रेवेन्यू के आँकड़े\n\nसब कुछ वही है जो फ़ाउंडर ने कैमरे पर कहा, अक्सर डैशबोर्ड दिखाकर। पूरे प्रोफ़ाइल में *यह आँकड़ा क्या दर्शाता है* पंक्ति बताती है कि वह **MRR** है, **महीने का रेवेन्यू** है, या **कुल जमा** — क्योंकि फ़ाउंडर तीनों को आपस में मिलाकर बोलते हैं।\n\n## स्क्रीनशॉट\n\nफ़ोन पर हल्का रखने के लिए इस संस्करण में 1,622 स्क्रीनशॉट नहीं हैं। लेख का हर स्क्रीनशॉट पड़ाव अब **मूल वीडियो के ठीक उसी सेकंड पर ले जाने वाला लिंक** है।\n\n## ऑफ़लाइन पढ़ना\n\nपूरे 199 केस इसी पेज के अंदर हैं। एक बार लोड हो जाने के बाद बिना इंटरनेट भी पढ़ सकते हैं। पढ़ने की प्रगति, सहेजे गए केस और अक्षर का आकार आपके ब्राउज़र में रहते हैं।\n\n## स्रोत और अधिकार\n\nयह **निजी शोध सामग्री** है। विश्लेषण संकलनकर्ता का अपना है, छोटे उद्धरण और मूल वीडियो के लिंक के साथ — चैनल की सामग्री की नक़ल नहीं।\n\n*यह संस्करण वियतनामी मूल से अनूदित है। वियतनाम की बाज़ार परिस्थितियों पर लागू करने वाले हिस्से हटा दिए गए हैं।*"
   },
 
   "id": {
     "lang": "id", "dir": "ltr", "native": "Bahasa Indonesia", "vnAxis": false,
     "title": "Buku Besar Indie",
-    "kicker": "Starter Story · 180 studi kasus",
+    "kicker": "Starter Story · 199 studi kasus",
     "h1": "Buku besar orang-orang yang menghasilkan uangnya sendiri",
     "sub": "Dari mana idenya, bagaimana divalidasi, dijual ke siapa — dibaca untuk mekanismenya, bukan untuk harapannya.",
     "unit": "kasus", "statRev": "punya angka pendapatan", "statMedian": "median", "perMonth": "/bln",
@@ -267,7 +267,7 @@
     "fStatus": "Status", "fScope": "Cakupan pencarian",
     "under": "di bawah", "from": "mulai", "exactly": "tepat", "upTo": "sampai",
     "stUnread": "Belum dibaca", "stRead": "Sudah dibaca", "stSaved": "Disimpan",
-    "scName": "Judul & ringkasan", "scFull": "Seluruh teks, 180 kasus",
+    "scName": "Judul & ringkasan", "scFull": "Seluruh teks, 199 kasus",
     "mVn": "", "mDiff": "Sulit", "min": "mnt",
     "factRev": "Pendapatan / bulan", "factVn": "", "factDiff": "Kesulitan",
     "factRead": "Waktu baca", "factViews": "Ditonton",
@@ -296,13 +296,13 @@
     "thAuto": "Otomatis", "thLight": "Terang", "thDark": "Gelap",
     "back": "Kembali", "fontBtn": "Ukuran teks", "saveBtn": "Simpan",
     "aboutKicker": "Catatan penyusun", "aboutH1": "Tentang perpustakaan ini",
-    "about": "Semua isi di sini diambil dari kanal YouTube [Starter Story](https://www.youtube.com/@starterstory) — **180 video, 45,6 jam, 45,7 juta tayangan** — transkripnya dibaca lalu ditulis ulang jadi studi kasus untuk tepat tiga keperluan: **mencari ide · memvalidasi · go-to-market**.\n\n> **Bias yang perlu diingat saat membaca.** Ini kanal yang mewawancarai **para pemenang**. Untuk setiap founder $100K/bulan di sini, ada ribuan orang yang melakukan hal yang sama dan tidak mendapat apa-apa. Baca untuk **mekanismenya**, bukan untuk **harapannya**.\n\n## Kesulitan (1–5)\n\nSeberapa sulit dijalankan, menghitung keterampilan sekaligus waktu yang dituntut. Ini **penilaian subjektif** penyusun saat membaca tiap kasus, bukan angka dari video.\n\n## Angka pendapatan\n\nSemuanya berasal dari ucapan founder di kamera, biasanya sambil menunjukkan dasbor. Baris *Arti angka ini* di profil lengkap mencatat apakah itu **MRR**, **pendapatan bulanan**, atau **total kumulatif** — karena para founder memakai ketiganya secara tertukar.\n\n## Tangkapan layar\n\nEdisi ini tidak menyertakan 1.622 tangkapan layar, supaya ringan di ponsel. Setiap penanda tangkapan layar di dalam teks diubah jadi **tautan yang melompat ke detik itu juga di video aslinya**.\n\n## Membaca offline\n\nSeluruh 180 kasus ada di dalam halaman ini. Sekali dimuat, bisa dibaca tanpa koneksi. Progres baca, kasus tersimpan, dan ukuran teks tersimpan di browser-mu.\n\n## Sumber & hak\n\nIni **riset pribadi**. Analisisnya milik penyusun sendiri, dengan kutipan pendek dan tautan kembali ke video sumber — bukan salinan konten kanal.\n\n*Edisi ini diterjemahkan dari versi asli bahasa Vietnam. Bagian tentang penerapan di kondisi pasar Vietnam telah dihapus.*"
+    "about": "Semua isi di sini diambil dari kanal YouTube [Starter Story](https://www.youtube.com/@starterstory) — **199 video, 50,1 jam, 48,3 juta tayangan** — transkripnya dibaca lalu ditulis ulang jadi studi kasus untuk tepat tiga keperluan: **mencari ide · memvalidasi · go-to-market**.\n\n> **Bias yang perlu diingat saat membaca.** Ini kanal yang mewawancarai **para pemenang**. Untuk setiap founder $100K/bulan di sini, ada ribuan orang yang melakukan hal yang sama dan tidak mendapat apa-apa. Baca untuk **mekanismenya**, bukan untuk **harapannya**.\n\n## Kesulitan (1–5)\n\nSeberapa sulit dijalankan, menghitung keterampilan sekaligus waktu yang dituntut. Ini **penilaian subjektif** penyusun saat membaca tiap kasus, bukan angka dari video.\n\n## Angka pendapatan\n\nSemuanya berasal dari ucapan founder di kamera, biasanya sambil menunjukkan dasbor. Baris *Arti angka ini* di profil lengkap mencatat apakah itu **MRR**, **pendapatan bulanan**, atau **total kumulatif** — karena para founder memakai ketiganya secara tertukar.\n\n## Tangkapan layar\n\nEdisi ini tidak menyertakan 1.622 tangkapan layar, supaya ringan di ponsel. Setiap penanda tangkapan layar di dalam teks diubah jadi **tautan yang melompat ke detik itu juga di video aslinya**.\n\n## Membaca offline\n\nSeluruh 199 kasus ada di dalam halaman ini. Sekali dimuat, bisa dibaca tanpa koneksi. Progres baca, kasus tersimpan, dan ukuran teks tersimpan di browser-mu.\n\n## Sumber & hak\n\nIni **riset pribadi**. Analisisnya milik penyusun sendiri, dengan kutipan pendek dan tautan kembali ke video sumber — bukan salinan konten kanal.\n\n*Edisi ini diterjemahkan dari versi asli bahasa Vietnam. Bagian tentang penerapan di kondisi pasar Vietnam telah dihapus.*"
   },
 
   "es": {
     "lang": "es", "dir": "ltr", "native": "Español", "vnAxis": false,
     "title": "El Libro Mayor Indie",
-    "kicker": "Starter Story · 180 casos de estudio",
+    "kicker": "Starter Story · 199 casos de estudio",
     "h1": "El libro mayor de quienes se ganaron su propio dinero",
     "sub": "De dónde salió la idea, cómo la validaron, a quién le vendieron — se lee por el mecanismo, no por la expectativa.",
     "unit": "casos", "statRev": "con cifra de ingresos", "statMedian": "mediana", "perMonth": "/mes",
@@ -317,7 +317,7 @@
     "fStatus": "Estado", "fScope": "Alcance de la búsqueda",
     "under": "menos de", "from": "desde", "exactly": "exactamente", "upTo": "hasta",
     "stUnread": "Sin leer", "stRead": "Leídos", "stSaved": "Guardados",
-    "scName": "Título y resumen", "scFull": "Texto completo, 180 casos",
+    "scName": "Título y resumen", "scFull": "Texto completo, 199 casos",
     "mVn": "", "mDiff": "Dificultad", "min": "min",
     "factRev": "Ingresos / mes", "factVn": "", "factDiff": "Dificultad",
     "factRead": "Tiempo de lectura", "factViews": "Vistas",
@@ -346,6 +346,6 @@
     "thAuto": "Automático", "thLight": "Claro", "thDark": "Oscuro",
     "back": "Volver", "fontBtn": "Tamaño de texto", "saveBtn": "Guardar",
     "aboutKicker": "Notas de quien lo recopiló", "aboutH1": "Sobre esta biblioteca",
-    "about": "Todo lo que hay aquí sale del canal de YouTube [Starter Story](https://www.youtube.com/@starterstory) — **180 vídeos, 45,6 horas, 45,7 millones de visualizaciones** — transcritos, leídos y reescritos como casos de estudio para exactamente tres cosas: **encontrar una idea · validarla · llegar al mercado**.\n\n> **El sesgo que hay que tener presente.** Este es un canal que entrevista a **los que ganaron**. Por cada fundador de $100K/mes que aparece aquí, hay miles que hicieron lo mismo y no consiguieron nada. Léelo por el **mecanismo**, no por la **expectativa**.\n\n## Dificultad (1–5)\n\nLo difícil que es ejecutarlo, contando tanto la habilidad como el tiempo que exige. Es un **juicio subjetivo** de quien lo recopiló al leer cada caso, no una cifra del vídeo.\n\n## Las cifras de ingresos\n\nTodas vienen de lo que el fundador dijo ante la cámara, normalmente enseñando un panel. La fila *Qué significa la cifra* del perfil completo indica si es **MRR**, **ingresos del mes** o **acumulado total** — porque los fundadores usan los tres indistintamente.\n\n## Capturas de pantalla\n\nEsta edición va sin las 1.622 capturas, para que pese poco en el móvil. Cada marca de captura del texto se convirtió en **un enlace que salta a ese segundo exacto del vídeo original**.\n\n## Leer sin conexión\n\nLos 180 casos están dentro de esta misma página. Cárgala una vez y se lee sin conexión. Tu progreso de lectura, los casos guardados y el tamaño de texto se quedan en tu navegador.\n\n## Fuente y derechos\n\nEsto es **investigación personal**. El análisis es propio, con citas breves y enlaces al vídeo de origen — no es una copia del contenido del canal.\n\n*Esta edición está traducida del original en vietnamita. Se han eliminado las secciones sobre cómo aplicar cada caso en las condiciones del mercado vietnamita.*"
+    "about": "Todo lo que hay aquí sale del canal de YouTube [Starter Story](https://www.youtube.com/@starterstory) — **199 vídeos, 50,1 horas, 48,3 millones de visualizaciones** — transcritos, leídos y reescritos como casos de estudio para exactamente tres cosas: **encontrar una idea · validarla · llegar al mercado**.\n\n> **El sesgo que hay que tener presente.** Este es un canal que entrevista a **los que ganaron**. Por cada fundador de $100K/mes que aparece aquí, hay miles que hicieron lo mismo y no consiguieron nada. Léelo por el **mecanismo**, no por la **expectativa**.\n\n## Dificultad (1–5)\n\nLo difícil que es ejecutarlo, contando tanto la habilidad como el tiempo que exige. Es un **juicio subjetivo** de quien lo recopiló al leer cada caso, no una cifra del vídeo.\n\n## Las cifras de ingresos\n\nTodas vienen de lo que el fundador dijo ante la cámara, normalmente enseñando un panel. La fila *Qué significa la cifra* del perfil completo indica si es **MRR**, **ingresos del mes** o **acumulado total** — porque los fundadores usan los tres indistintamente.\n\n## Capturas de pantalla\n\nEsta edición va sin las 1.622 capturas, para que pese poco en el móvil. Cada marca de captura del texto se convirtió en **un enlace que salta a ese segundo exacto del vídeo original**.\n\n## Leer sin conexión\n\nLos 199 casos están dentro de esta misma página. Cárgala una vez y se lee sin conexión. Tu progreso de lectura, los casos guardados y el tamaño de texto se quedan en tu navegador.\n\n## Fuente y derechos\n\nEsto es **investigación personal**. El análisis es propio, con citas breves y enlaces al vídeo de origen — no es una copia del contenido del canal.\n\n*Esta edición está traducida del original en vietnamita. Se han eliminado las secciones sobre cómo aplicar cada caso en las condiciones del mercado vietnamita.*"
   }
 }

@@ -15,7 +15,7 @@
 
 | File | Nội dung |
 |---|---|
-| [`case.md`](case.md) | **Phân tích đầy đủ** — ý tưởng, validate, GTM, áp dụng ở VN |
+| [`case.md`](case.md) | **Phân tích đầy đủ** — ý tưởng, validate, GTM, áp dụng cho tôi |
 | [`meta.json`](meta.json) | Metadata gốc (chapters, heatmap, mô tả) |
 | [`screenshots/`](screenshots/) | 4 ảnh 720p |
 

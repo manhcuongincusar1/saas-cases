@@ -154,7 +154,7 @@ def main():
         status = ('✅ **Đã phân tích sâu** → [`case.md`](case.md)' if has_case
                   else ('⏳ **Chưa phân tích sâu** — có transcript và ảnh đầy đủ để tra cứu' if full
                         else '⚠️ **Video này không có phụ đề tự động** — chỉ có ảnh và metadata'))
-        rows_md = (('| [`case.md`](case.md) | **Phân tích đầy đủ** — ý tưởng, validate, GTM, áp dụng ở VN |\n' if has_case else '')
+        rows_md = (('| [`case.md`](case.md) | **Phân tích đầy đủ** — ý tưởng, validate, GTM, áp dụng cho tôi |\n' if has_case else '')
                    + ('| [`transcript.md`](transcript.md) | Transcript gốc, có timestamp |\n' if full else '')
                    + '| [`meta.json`](meta.json) | Metadata gốc (chapters, heatmap, mô tả) |\n'
                    + f'| [`screenshots/`](screenshots/) | {len(out_shots)} ảnh 720p |')

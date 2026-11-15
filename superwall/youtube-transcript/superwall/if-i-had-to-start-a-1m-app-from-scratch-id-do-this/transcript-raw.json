@@ -1,0 +1,397 @@
+[
+  {
+    "text": "If you gave me a laptop and told me to start a consumer app from zero, I know what I would do first. I've talked to over a thousand app founders to",
+    "start": 0,
+    "duration": 7
+  },
+  {
+    "text": "understand how they grow. I've helped more than 700 work on their positioning and creative strategy, and I've built organic growth systems inside consumer",
+    "start": 7,
+    "duration": 8
+  },
+  {
+    "text": "app businesses that brought in over $6 million in revenue. So, I've seen the difference between an app that sounds good in a pitch and one that people actually find, download, and pay for.",
+    "start": 15,
+    "duration": 9
+  },
+  {
+    "text": "And if I were trying to get a new app to a million dollars a year, I'd make decisions in a very particular order.",
+    "start": 24,
+    "duration": 6
+  },
+  {
+    "text": "Let me show you how I'd do it. First, I would go to the top charts on the app store. I want to see what people are already downloading, but I wouldn't just pick the most popular app and make a",
+    "start": 30,
+    "duration": 9
+  },
+  {
+    "text": "copy of it. I'd look at apps that solve one specific [music] problem. Maybe it's a baseball card scanner for collectors or an app that helps someone quit a",
+    "start": 39,
+    "duration": 8
+  },
+  {
+    "text": "habit like smoking. Then, I would look those apps up [music] on Sensor Tower to get a sense of their downloads and revenue. This way I can get a market sizing and see how many people are",
+    "start": 47,
+    "duration": 9
+  },
+  {
+    "text": "[music] actually interested in specific categories and that tells me whether that category is actually making money or not. Once I find a category with good demand, [music]",
+    "start": 56,
+    "duration": 7
+  },
+  {
+    "text": "I'd open up those apps and read the reviews of users. Stuff like what do people like? What keeps frustrating them? Is there a particular group of",
+    "start": 63,
+    "duration": 8
+  },
+  {
+    "text": "users my app could serve better? These questions pretty much give me the base of what people need and what my app should deliver. Then I would go to Tik",
+    "start": 71,
+    "duration": 7
+  },
+  {
+    "text": "Tok and Instagram and see what the audience is already watching in that niche. This is the best way to get ideas [music] for content because I'm just going to take these formats that are",
+    "start": 78,
+    "duration": 9
+  },
+  {
+    "text": "already working and use these [music] to market my app. I want to understand that if a video gets a million views, what are people saying underneath [music] it?",
+    "start": 87,
+    "duration": 7
+  },
+  {
+    "text": "Are they asking how to solve the problem? Are they telling the creator that, hey, I've been dealing with this thing for months? Or are they just laughing at the video because it was a",
+    "start": 94,
+    "duration": 8
+  },
+  {
+    "text": "comedy video and they move on? Because these might look like great viral opportunities until you try to sell something to that audience. Like let's",
+    "start": 102,
+    "duration": 7
+  },
+  {
+    "text": "say I decide to build an app for people that are trying to quit a habit. I wouldn't just call it a [music] better habits app. That could mean anything. If the people in the comments are talking",
+    "start": 109,
+    "duration": 9
+  },
+  {
+    "text": "about, for example, what it feels [music] like to get through the first two days of quitting and then keep starting over, they're literally telling me the messaging that's missing from the",
+    "start": 118,
+    "duration": 8
+  },
+  {
+    "text": "solutions in the market. So now I can actually picture a real video. Someone explains what happens on day three of quitting, shows the thing they usually",
+    "start": 126,
+    "duration": 8
+  },
+  {
+    "text": "do, and then shows how the app helps them through that moment. I also know what the first version of the product needs to do now. So before I even build",
+    "start": 134,
+    "duration": 7
+  },
+  {
+    "text": "anything, I'd save maybe 20 [music] videos people already watch around that problem. I'd come up with a few different ways of talking about it. And",
+    "start": 141,
+    "duration": 8
+  },
+  {
+    "text": "if a certain type of video or script or hook keeps getting more views, that's the winning format I want to copy. If I can't come up with any video that makes",
+    "start": 149,
+    "duration": 8
+  },
+  {
+    "text": "the app interesting to the right people, I would just scrap the entire idea and keep working on the idea itself. Because once I've built the app, the problem of",
+    "start": 157,
+    "duration": 8
+  },
+  {
+    "text": "trying to find a market for it doesn't just magically go away. So once I have an idea that's pre-validated by these short form platforms and I have all the",
+    "start": 165,
+    "duration": 8
+  },
+  {
+    "text": "content angle ideas ready, I can then finally open the AI coding tools and get the first version out as soon as possible. For this app, the core loop of",
+    "start": 173,
+    "duration": 9
+  },
+  {
+    "text": "the app might be you choose what you're trying to quit, you set a start date, and then you have a simple thing that you do when you feel like you're about",
+    "start": 182,
+    "duration": 7
+  },
+  {
+    "text": "to give in. Like maybe you tap a button in the app. And it's super important to test the app on my phone and make sure everything works smoothly and the app",
+    "start": 189,
+    "duration": 8
+  },
+  {
+    "text": "actually delivers on the promises I made in my content. The key here is to focus on getting the first version of the app out without fixating on making",
+    "start": 197,
+    "duration": 7
+  },
+  {
+    "text": "everything perfect. I would not build a social feed or an AI coach or support for 10 different habits. You might see some of these big apps doing all these",
+    "start": 204,
+    "duration": 9
+  },
+  {
+    "text": "features, but they have earned the right to know what the people want. When you're starting a brand new consumer app, you haven't earned that right yet.",
+    "start": 213,
+    "duration": 6
+  },
+  {
+    "text": "We purely just want a working version right now. And while I'm building, I'd actually start posting content before the app is out. A lot of founders wait",
+    "start": 219,
+    "duration": 9
+  },
+  {
+    "text": "until launch to find out which part of their app people actually care about.",
+    "start": 228,
+    "duration": 4
+  },
+  {
+    "text": "But the founders that I've seen grow the fastest are already testing their audience through the content while the app isn't even out yet. For example,",
+    "start": 232,
+    "duration": 8
+  },
+  {
+    "text": "this app's product could be about tracking progress on how long someone has to quit their habit. But on the content side, every video is just about",
+    "start": 240,
+    "duration": 8
+  },
+  {
+    "text": "getting through that day three of quitting. And that is what gets people talking in the comments. And if you get that feedback from the comments, that information is literally gold because it",
+    "start": 248,
+    "duration": 8
+  },
+  {
+    "text": "tells me firsthand about the experiences of people and how I can make the app better for the users and how I can do the marketing that will get the most",
+    "start": 256,
+    "duration": 7
+  },
+  {
+    "text": "views, get the most downloads. Then, as this organic marketing is just getting started, you're going to get a few users into the app. So, I would just watch a",
+    "start": 263,
+    "duration": 8
+  },
+  {
+    "text": "few of these people open the app. Do they get to the part I made the video about? Do they understand what to do? If they expected one thing and found",
+    "start": 271,
+    "duration": 7
+  },
+  {
+    "text": "something else, I can fix that while the product is still small. So, the first version of this app is there to answer a pretty simple question. Can I get the right person interested in this result?",
+    "start": 278,
+    "duration": 10
+  },
+  {
+    "text": "And can the app actually deliver it? Once it can, that's when I'd ship big.",
+    "start": 288,
+    "duration": 3
+  },
+  {
+    "text": "[music] So, I'd spend most of my energy at that point finding a way to bring more of those people into the app. Which brings me to my next step, which is",
+    "start": 291,
+    "duration": 7
+  },
+  {
+    "text": "creating the right content. This is where I've seen founders waste a lot of time. They'll make one type of video, post it every day for a month, and then",
+    "start": 298,
+    "duration": 8
+  },
+  {
+    "text": "just like hope that one takes off finally. I'd rather start with three [music] to five different ideas. Maybe one is somebody telling their story,",
+    "start": 306,
+    "duration": 8
+  },
+  {
+    "text": "another one shows the exact [music] thing they struggle with. You get the idea, right? So, I want to test multiple ideas and see which ones get the best response because that's how I'll get the",
+    "start": 314,
+    "duration": 9
+  },
+  {
+    "text": "most feedback on what's working and what needs to change. Now, one of the easiest mistakes to get pulled into now is getting obsessed with views. There's no",
+    "start": 323,
+    "duration": 8
+  },
+  {
+    "text": "point in having a video with 10 million views if it's not reaching the right audience, increasing downloads, and bringing in more revenue. One founder",
+    "start": 331,
+    "duration": 7
+  },
+  {
+    "text": "told me people were clicking on his app because they were curious about it. But curiosity wasn't turning into users.",
+    "start": 338,
+    "duration": 6
+  },
+  {
+    "text": "[music] He was paying around $8 for each download, and roughly 70% of those people were just dropping off. So, getting that video in front of more",
+    "start": 344,
+    "duration": 8
+  },
+  {
+    "text": "people would have meant paying to [music] repeat the same problem. This is the kind of expensive mistake I don't want to make. So, I'd go back to the video and look at what it promised.",
+    "start": 352,
+    "duration": 8
+  },
+  {
+    "text": "[music]",
+    "start": 360,
+    "duration": 1
+  },
+  {
+    "text": "Was it reaching someone who actually had the problem the app solves? Or is it just making people curious enough to tap? The comments can really help here.",
+    "start": 361,
+    "duration": 7
+  },
+  {
+    "text": "If person is saying, \"Wait, what's the app called?\" or \"I've been trying to deal with this.\" [music] Like, that's really interesting. If all I talk about is just like the joke in the video, I",
+    "start": 368,
+    "duration": 8
+  },
+  {
+    "text": "may have found a good video but have the wrong angle for [music] the app. And when I find wording that gets the right response, I wouldn't leave that just on",
+    "start": 376,
+    "duration": 8
+  },
+  {
+    "text": "TikTok. [music] I'd use that in the entire funnel, right? The app store page, the onboarding, if the video is about surviving [music] day three of",
+    "start": 384,
+    "duration": 8
+  },
+  {
+    "text": "this quitting journey. The first screenshot of your app store shouldn't be some generic chart. The person searched for a reason. So, [music] show them the thing that they actually came",
+    "start": 392,
+    "duration": 8
+  },
+  {
+    "text": "to find. So, you see how content is doing two jobs now. It's bringing people in and it's teaching me how to talk about the product so that it actually",
+    "start": 400,
+    "duration": 7
+  },
+  {
+    "text": "converts and brings in revenue. Once a winning format starts bringing in the right people, I'd focus on why it works before [music] I try to scale",
+    "start": 407,
+    "duration": 7
+  },
+  {
+    "text": "production. Now, this could be anything like the hook, the tone of the creator, maybe even the moment that the creator showed the app. So, what I'll do is I'll",
+    "start": 414,
+    "duration": 8
+  },
+  {
+    "text": "test every one of those variables. I'd make a few versions with a different hook, a different tonality, and let those videos figure out whether this",
+    "start": 422,
+    "duration": 7
+  },
+  {
+    "text": "video is actually the winning format or it just happened [music] to be a random video that blew up. The important thing is to have a winning format before you bring on more creators because that way",
+    "start": 429,
+    "duration": 9
+  },
+  {
+    "text": "you've got all the tested information at hand. So when a new creator comes in, you can just give them the exact idea of who the audience is, what the problem",
+    "start": 438,
+    "duration": 8
+  },
+  {
+    "text": "is, and what [music] type of content they need to make. They still have the creative freedom to tell their story in their own voice, but I don't want a team of creators posting videos every day",
+    "start": 446,
+    "duration": 8
+  },
+  {
+    "text": "[music] without understanding why the first video worked in the first place.",
+    "start": 454,
+    "duration": 3
+  },
+  {
+    "text": "And this is the point where I can start thinking about how much money to spend on marketing. For this plan, I need to know whether the people coming from my videos are actually turning into [music]",
+    "start": 457,
+    "duration": 9
+  },
+  {
+    "text": "customers. So, if I'm paying a creator to post regularly and their videos increase my downloads and customer base, I can put more money into that format.",
+    "start": 466,
+    "duration": 7
+  },
+  {
+    "text": "However, if one creator is getting a lot of views, but I'm not getting any paying users, there's no point in spending money there. For example, let's say the video about getting through the day",
+    "start": 473,
+    "duration": 8
+  },
+  {
+    "text": "three of quitting smoking takes off. I wouldn't take that first revenue and just go hunting for a completely new channel and a new video style. I know",
+    "start": 481,
+    "duration": 7
+  },
+  {
+    "text": "what my winning format is, so I'll just reinvest into that. I take on more creators, though, and ask them to use the same angle. I might even change the",
+    "start": 488,
+    "duration": 7
+  },
+  {
+    "text": "hook a little or instead of sticking [music] to day three, I'd make a video about keep getting through to day five, but I'll keep the format the exact same.",
+    "start": 495,
+    "duration": 8
+  },
+  {
+    "text": "If those videos keep bringing in paying users, I'm gradually building a content system for my app, and that's where spending money makes sense. Once I've",
+    "start": 503,
+    "duration": 8
+  },
+  {
+    "text": "got an angle working with more than one video, I test the strongest versions of those as paid [music] ads. I'll keep my budget small initially and see whether",
+    "start": 511,
+    "duration": 8
+  },
+  {
+    "text": "those videos are bringing in paying [music] users. Meanwhile, I can keep running the organic content because I can keep trying different creators and angles before putting paid spend behind",
+    "start": 519,
+    "duration": 8
+  },
+  {
+    "text": "[music] it. And as the app grows, I'll keep figuring out what worked in what specific format, what made people care, and keep using that information with more creators and different storylines.",
+    "start": 527,
+    "duration": 10
+  },
+  {
+    "text": "The advantage here is that I'm no longer waiting for one video to go viral. I have a full system of understanding what makes a video work and how I can twist",
+    "start": 537,
+    "duration": 8
+  },
+  {
+    "text": "the different ideas to come up with more winning content. That is the exact blueprint I'd follow to build an app and work towards 1 million a year. I know that making a million isn't exactly a",
+    "start": 545,
+    "duration": 9
+  },
+  {
+    "text": "guarantee, but I know exactly what I need to do to make my app grow faster.",
+    "start": 554,
+    "duration": 4
+  },
+  {
+    "text": "And if you want to see how this plays out across real consumer apps, I'm doing a free live presentation on October 12th. Over the past few years, I've",
+    "start": 558,
+    "duration": 7
+  },
+  {
+    "text": "spoken with hundreds of app founders and dug into the playbooks behind the ones making $1 million to $10 million a year.",
+    "start": 565,
+    "duration": 7
+  },
+  {
+    "text": "I've combined all these private notes on the growth systems that I've run myself into one presentation. How they choose an idea, build the app, find",
+    "start": 572,
+    "duration": 9
+  },
+  {
+    "text": "distribution, and turn it into a business. I'm giving this class live once and it won't be recorded. The registration link is in the description.",
+    "start": 581,
+    "duration": 7
+  },
+  {
+    "text": "I'll see you there.",
+    "start": 588,
+    "duration": 1
+  }
+]

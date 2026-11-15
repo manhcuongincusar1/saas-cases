@@ -134,7 +134,7 @@ def build_index(cases, all_videos):
     L.append(f'> **{len(cases)}/{len(all_videos)} video đã phân tích sâu** · tổng doanh thu ghi nhận '
              f'**{money(total_rev)}/tháng** · cập nhật {datetime.date.today().strftime("%d/%m/%Y")}\n')
     L.append('Mỗi case trả lời 4 câu: **ý tưởng đến từ đâu · validate thế nào · '
-             'go-to-market ra sao · áp dụng ở VN được không.**\n')
+             'go-to-market ra sao · áp dụng cho tôi thế nào.**\n')
     L.append(f'📁 [**Bảng tra toàn bộ {len(all_videos)} video**](videos/README.md) — mỗi video một thư mục: '
              'transcript thật + ảnh + tóm tắt · 📘 [`playbooks/`](playbooks/) — đúc kết xuyên suốt nhiều case '
              '· 📊 [`data/cases.csv`](data/cases.csv) — query bằng DuckDB\n')
@@ -152,12 +152,14 @@ def build_index(cases, all_videos):
             rep=stars(c.get('replicability_vn')),
             f=link(c)))
     L.append('')
+    L.append('> Cột **Sao chép ở VN** chỉ có điểm ở case viết trước 11/2026 (chấm theo điều kiện thị trường '
+             'Việt Nam). Case mới hơn phân tích theo góc founder ở VN bán cho khách global nên không chấm — hiện "—".\n')
 
     L.append('---\n\n## Lối vào nhanh\n')
 
     hi = [c for c in cases if (num(c.get('replicability_vn')) or 0) >= 4
           and (num(c.get('difficulty')) or 5) <= 3]
-    L.append(section('🎯 Dễ sao chép nhất ở VN (replicability ≥4, difficulty ≤3)',
+    L.append(section('🎯 Dễ sao chép nhất ở VN (replicability ≥4, difficulty ≤3) — chỉ gồm case có điểm VN',
              [f"| [{c.get('product','—')}]({link(c)}) | {money(c.get('revenue_usd_month'))} | {c.get('tagline','')} |"
               for c in sorted(hi, key=lambda c: -(num(c.get('revenue_usd_month')) or 0))],
              ['Case', 'DT/tháng', 'Làm gì']))

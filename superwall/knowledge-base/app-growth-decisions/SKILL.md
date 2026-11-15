@@ -1,6 +1,6 @@
 ---
 name: app-growth-decisions
-description: Evidence-backed decision support for consumer subscription apps, distilled from 56 founder/operator interviews (Superwall podcast, 43 h, 2024–2026) with every number linked to the exact second. Use when the user must decide something about building or growing a consumer/mobile subscription app — which idea to build and how to validate it, which acquisition channel first (TikTok, Instagram Reels, UGC creators, founder content, ASO/SEO, AI search, Meta/TikTok ads), how to run a creator program, paywall design and pricing, onboarding and retention, when to kill or double down, buying or selling an app — or wants benchmarks to judge their own numbers, or asks what successful app founders actually did.
+description: Evidence-backed decision support for consumer subscription apps, distilled from 60 Superwall videos — founder/operator interviews, host essays and one live teardown (~47 h, 2024–2026) with every number linked to the exact second. Use when the user must decide something about building or growing a consumer/mobile subscription app — which idea to build and how to validate it, which acquisition channel first (TikTok, Instagram Reels, UGC creators, founder content, ASO/SEO, AI search, Meta/TikTok ads), how to run a creator program, paywall design and pricing, onboarding and retention, when to kill or double down, buying or selling an app — or wants benchmarks to judge their own numbers, or asks what successful app founders actually did.
 ---
 
 # App growth decisions
@@ -12,10 +12,10 @@ A knowledge base for making decisions, not a library to summarise. Your job is t
 | Path | What | Use it for |
 |---|---|---|
 | `decisions/*.md` | 9 decision cards: default answer, if/then rules with confidence tags, **thresholds table**, when the default flips, evidence for/against, traps, gaps | **Start here** for any decision. The thresholds tables are the main answer to "is my number good?" |
-| `cases/INDEX.md` → `cases/*.md` | 42 case files: idea → product → marketing → verified numbers → lessons | Analogues to the user's situation; "who did this before" |
+| `cases/INDEX.md` → `cases/*.md` | 43 case files: idea → product → marketing → verified numbers → lessons | Analogues to the user's situation; "who did this before" |
 | `data/benchmarks.csv` | 195 outcome numbers (revenue, views, users, spend) with jump links; filter `kind = 'measured'`. Few conversion rates — use card thresholds for those. Covers the first 52 videos | Scale of outcomes: "how big did similar apps get, how fast" |
 | `data/playbooks.csv` | 96 tactics: what it is, when to use, source link (first 52 videos) | Concrete tactics for a chosen path |
-| `data/videos.csv` · `data/chapters.csv` | 56 videos with summaries · 639 chapters with links | Finding where a topic is discussed |
+| `data/videos.csv` · `data/chapters.csv` | 60 videos with summaries · 654 chapters with links | Finding where a topic is discussed |
 | `checklists/*.md` | paywall audit, UGC creator brief, ad testing tracker, onboarding teardown | Turning a decision into work |
 | `scripts/search.py` | Full-text search over all transcripts; `--at <url-with-t=>` (or video id / folder + HH:MM:SS) reads 90 s from that point | Verifying a claim; finding what cards miss |
 | `FORMAT.md` | Evidence rules + card/case formats | Before editing or adding anything |

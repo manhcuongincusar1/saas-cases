@@ -9,7 +9,8 @@ Read this before adding or editing a decision card or a case file.
   (`meta.json` has title, date, chapters; `transcript-sentences.json` has every sentence with a start time)
 - `scripts/search.py "term" "other term"` — find sentences across all videos, with a jump-to-second link
 - `scripts/search.py --at <folder-substring> HH:MM:SS` — read 90 s of transcript from a timestamp
-- `data/videos.csv` (56 videos: id, folder, title, date, summary) · `data/chapters.csv` (639 chapters with links)
+- `data/videos.csv` (60 videos: id, folder, title, date, summary) · `data/chapters.csv` (654 chapters with links)
+- The 4 videos added 2026-11-11 (`7yLgHeYeQAE`, `TCRUvJ-Fq9U`, `Qh314MypshM`, `sYosUxgngEE`) were captured from YouTube's transcript panel, not the caption track: their timestamps are caption-segment starts (~8 s apart), so a link lands up to a few seconds before the quoted words
 - `data/benchmarks.csv` (195 numbers; `kind` = measured | secondhand | heuristic | hypothetical | target, `note` = correction) · `data/playbooks.csv` (96 tactics, `note` = correction) — cover the first 52 videos; every row re-verified against transcripts 2026-10-08
 
 ## Evidence rules (non-negotiable)

@@ -614,7 +614,7 @@ function rowHtml(c){
       '<div class="rhead"><span class="rt">' + esc(c.t) + '</span>' + rev + '</div>' +
       '<div class="rd">' + esc(c.tl) + '</div>' +
       '<div class="rmeta"><span class="g">' + esc(c.g) + '</span>' +
-        (T.vnAxis ? '<span title="' + T.factVn + ': ' + c.vn + '/5">' + T.mVn + ' ' + bars(c.vn) + '</span>' : '') +
+        (T.vnAxis && c.vn ? '<span title="' + T.factVn + ': ' + c.vn + '/5">' + T.mVn + ' ' + bars(c.vn) + '</span>' : '') +
         '<span title="' + T.factDiff + ': ' + c.d + '/5">' + T.mDiff + ' ' + bars(c.d, 'diff') + '</span>' +
         '<span class="mins" title="' + readMin(c.w) + ' ' + T.min + '">' + readMin(c.w) + '′</span>' +
         (flags ? '<span class="flag">' + flags + '</span>' : '') +
@@ -765,10 +765,11 @@ function viewCase(folder){
   var sub = function(x){ return '<span style="color:var(--ink-3);font-size:11px">' + x + '</span>'; };
   var facts =
     fact(T.factRev, '<b class="' + (c.r === 0 ? 'zero' : 'money') + '">' + (money(c.r) || '—') + '</b>') +
-    (T.vnAxis ? fact(T.factVn, '<b>' + c.vn + sub('/5') + '</b>') : '') +
+    (T.vnAxis && c.vn ? fact(T.factVn, '<b>' + c.vn + sub('/5') + '</b>') : '') +
     fact(T.factDiff, '<b>' + c.d + sub('/5') + '</b>') +
     fact(T.factRead, '<b>' + readMin(c.w) + sub(' ' + T.min) + '</b>') +
-    (T.vnAxis ? '' : fact(T.factViews, '<b>' + (c.v >= 1000 ? Math.round(c.v/1000) + 'K' : c.v) + '</b>'));
+    /* case không chấm điểm VN (vn = 0) thì ô đó nhường cho lượt xem */
+    (T.vnAxis && c.vn ? '' : fact(T.factViews, '<b>' + (c.v >= 1000 ? Math.round(c.v/1000) + 'K' : c.v) + '</b>'));
 
   var profileRows = [
     [T.pFounder, c.fo], [T.pModel, c.m], [T.pNiche, c.c], [T.pAudience, c.au],

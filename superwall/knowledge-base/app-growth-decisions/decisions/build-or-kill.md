@@ -2,7 +2,7 @@
 decision: How fast and what should I build first, and when do I kill, pivot or double down on an app?
 use_when: User is about to build an MVP, picking a build stack (no-code / AI coding / native) or scope; has launched and doesn't know whether to keep going; is torn between several apps and one; sees churn after a viral spike; is deciding whether to quit a job, take a loan or scale spend; is holding an app they no longer work on.
 related: [choose-idea, onboarding-retention, paywall-pricing, choose-channel, ugc-creators, paid-ads, buy-sell-exit]
-last_reviewed: 2026-10-08
+last_reviewed: 2026-11-11
 ---
 
 # How fast and what should I build, and when do I kill, pivot or double down?
@@ -33,12 +33,14 @@ Kill quickly when nobody pays after a real distribution push. Double down only w
    - GlamUp's MVP "was all brown, the app barely worked," while distribution ran at the same time.
    - Shepherd "broke a ton" and still hit $75k MRR.
    - Pushscroll's first version was essentially two screens.
+   - Joseph Choi (*heuristic*, 2026-10): one core loop; no social feed, no AI coach, no ten habits. Big apps "have earned the right" to more features.
 
-   **[strong]** — [Kobe timer](https://www.youtube.com/watch?v=zFfBuyKoaDM&t=1061s), [Kobe v1](https://www.youtube.com/watch?v=zFfBuyKoaDM&t=1304s), [Nicole](https://www.youtube.com/watch?v=Bf12MNPO-Js&t=394s), [Dan Kwan](https://www.youtube.com/watch?v=2cDIFx4WWD0&t=1355s), [Pushscroll](https://www.youtube.com/watch?v=PdudtXwEsOQ&t=620s) · [sunflower](../cases/sunflower.md), [glamup-sprout](../cases/glamup-sprout.md), [dan-kwan-apps](../cases/dan-kwan-apps.md)
+   **[strong]** — [Kobe timer](https://www.youtube.com/watch?v=zFfBuyKoaDM&t=1061s), [Kobe v1](https://www.youtube.com/watch?v=zFfBuyKoaDM&t=1304s), [Nicole](https://www.youtube.com/watch?v=Bf12MNPO-Js&t=394s), [Dan Kwan](https://www.youtube.com/watch?v=2cDIFx4WWD0&t=1355s), [Pushscroll](https://www.youtube.com/watch?v=PdudtXwEsOQ&t=620s) · [sunflower](../cases/sunflower.md), [glamup-sprout](../cases/glamup-sprout.md), [dan-kwan-apps](../cases/dan-kwan-apps.md), [Choi core loop](https://www.youtube.com/watch?v=TCRUvJ-Fq9U&t=173s), [Choi scope](https://www.youtube.com/watch?v=TCRUvJ-Fq9U&t=204s)
 2. **Time-box the build to ~2–4 weeks, then ship features in ~2-week bursts.** Halo: 2–3 weeks. Shepherd: a "two-week build alongside a two-week growth sprint." GlamUp: 3 weeks to a month. Pep AI: late January → end of February. Stronger finished the app within about two weeks of its viral mock-up. Daniel (Cal AI): "human motivation only lasts about 2 weeks" per feature. Pep ships 2–3 updates a week. Speed matters because copycats arrive within weeks (rule 12). **[strong]** — [Halo](https://www.youtube.com/watch?v=PFfo4JySptw&t=226s), [Dan Kwan](https://www.youtube.com/watch?v=2cDIFx4WWD0&t=1352s), [Nicole](https://www.youtube.com/watch?v=Bf12MNPO-Js&t=381s), [Pep](https://www.youtube.com/watch?v=mOpYezjqU9c&t=263s), [Stronger](https://www.youtube.com/watch?v=si3HzkBTPl4&t=1949s), [Daniel](https://www.youtube.com/watch?v=ukGtpnfBpvU&t=1865s), [Pep cadence](https://www.youtube.com/watch?v=mOpYezjqU9c&t=2072s)
 3. **Use the fastest stack you can keep iterating on. Design screens first, then generate code.**
    - Caleb designed the whole UI in Figma in 3 days, then a CTO built it. His first app was built in FlutterFlow (no-code).
    - Evan (non-technical) went from Figma to a Claude-built prototype.
+   - George (non-technical) built three revenue apps on Rork ([00:19:24](https://www.youtube.com/watch?v=7yLgHeYeQAE&t=1164s)). He was on Rork's growth team and Rork sponsors the show.
    - Connor codes with Cursor or Claude Code: React Native for a simple ~2-week app, Swift when he will iterate a lot. iOS-first because Android is at most ~15% of revenue.
    - Raphael used Buildbox (no-code) at 13, then hired Unity devs once money came in.
    - If you are the distribution person, partner with a builder rather than learn to code (Casper).
@@ -47,11 +49,12 @@ Kill quickly when nobody pays after a real distribution push. Double down only w
 4. **Right after launch → two weeks of distribution only, then judge.** Julian's mentor: "for the next two weeks, don't touch the product… if nothing happens, no one probably cares and you should probably pivot." You need "at least 30 to 100 people in the door per week" before any experiment means anything. Coconote's lesson from an earlier failure: "if you build it, they will not come." **[medium]** — [Julian](https://www.youtube.com/watch?v=zdbimhZjm7k&t=330s), [Julian volume](https://www.youtube.com/watch?v=zdbimhZjm7k&t=360s), [Coconote](https://www.youtube.com/watch?v=E_4gRy4O03w&t=1399s)
 5. **Before killing, find the broken stage. Each stage has a different fix.**
    - **Views but no installs** = an intent or angle problem. Yannis's scratch-map video changed only its overlay text and went from zero downloads to moving App Store ranks. See [ugc-creators](ugc-creators.md).
+   - Same stage, secondhand from the host (2026-10): CocoPix's prank videos passed 30M views but its before-and-after videos converted better; Bryce got millions of influencer views and "hardly made $500"; another founder paid ~$8 per download with ~70% dropping off.
    - **Installs but no money** = onboarding or paywall. Jack Friks needed ~8 months "to realize that downloads don't equal money." See [paywall-pricing](paywall-pricing.md).
    - **Paid then churn** = product or audience. Dawson's SMB Market client got 40M views and ~$1.2M, then ~45% churn 2–3 months later; the fix was changing the creator audience, not the app.
    - **Retained but not growing** = distribution or monetization. Flame had strong retention, no distribution and no monetization, and nearly ran out of money.
 
-   **[strong]** — [Yannis](https://www.youtube.com/watch?v=eh1SDHX84vQ&t=2405s), [Jack](https://www.youtube.com/watch?v=CtqEbgutSb4&t=219s), [Dawson](https://www.youtube.com/watch?v=VGJWRjz6nq8&t=1000s), [Dawson churn](https://www.youtube.com/watch?v=VGJWRjz6nq8&t=1033s), [Flame](https://www.youtube.com/watch?v=pb4JIH8FubE&t=845s)
+   **[strong]** — [Yannis](https://www.youtube.com/watch?v=eh1SDHX84vQ&t=2405s), [Jack](https://www.youtube.com/watch?v=CtqEbgutSb4&t=219s), [Dawson](https://www.youtube.com/watch?v=VGJWRjz6nq8&t=1000s), [Dawson churn](https://www.youtube.com/watch?v=VGJWRjz6nq8&t=1033s), [Flame](https://www.youtube.com/watch?v=pb4JIH8FubE&t=845s), [CocoPix](https://www.youtube.com/watch?v=Qh314MypshM&t=39s), [Bryce](https://www.youtube.com/watch?v=Qh314MypshM&t=519s), [$8 download](https://www.youtube.com/watch?v=TCRUvJ-Fq9U&t=344s)
 6. **Give a content format time before declaring it dead, but don't confuse a dead format with a dead product.**
    - Jay (Bloom): "90 days is the minimum… to make any video viral."
    - Matt's best creator needed 25 videos before passing 10k views.
@@ -126,6 +129,7 @@ Kill quickly when nobody pays after a real distribution push. Double down only w
 - **Jungle / Julian** (*heuristic*, 2025-11): mentor's rule of two weeks of distribution only; ≥30–100 new users/week to learn anything — [00:05:30](https://www.youtube.com/watch?v=zdbimhZjm7k&t=330s) · [case file](../cases/jungle-study.md)
 - **PrayScreen / Lots** (*measured*, 2025-09): 60% D30; ~70 copycat listings within 2–3 months; his 4th sold app — [00:05:35](https://www.youtube.com/watch?v=NmIHgCRd04E&t=335s), [00:00:17](https://www.youtube.com/watch?v=NmIHgCRd04E&t=17s) · [case file](../cases/prayscreen.md)
 - **Conch AI / Dan Kwan** (*measured*, 2025-10): "in about 30 days, we hit a million ARR, did 500k in a month" — [00:00:00](https://www.youtube.com/watch?v=2cDIFx4WWD0&t=0s)
+- **Wrestle AI, Brawler, AdMax / George** (*measured, self-reported*, 2026-10): one analysis template reused across three sports apps; ~$25k/mo → ~$41k MRR in about two months; founder calls with users feed the roadmap — [00:30:59](https://www.youtube.com/watch?v=7yLgHeYeQAE&t=1859s), [00:03:06](https://www.youtube.com/watch?v=7yLgHeYeQAE&t=186s), [00:42:47](https://www.youtube.com/watch?v=7yLgHeYeQAE&t=2567s) · [case](../cases/wrestle-ai-brawler.md)
 
 ## Evidence against / where operators disagree
 - **Kill fast vs persist.** Julian (2 weeks of distribution, then pivot) and Halo (act early) favour speed. YourMove (2.5 years), Jack (8 months), Driss (6 months at zero) and Jay (90 days per format) favour persistence. Reconciliation: kill on *absence of pull* (nobody pays, nobody returns, usage flat). Persist when usage or retention rises and only conversion or distribution lags.
